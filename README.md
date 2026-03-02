@@ -6,12 +6,14 @@ This session covers the basics of deep learning and PyTorch. Refer to the [intro
 
 ## Contents
 
-- [introduction.ipynb](introduction.ipynb) — Covers:
+- [introduction.ipynb](introduction.ipynb) <a target="_blank" href="https://colab.research.google.com/github/arshandalili/hands_on_dl/blob/main/introduction.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>  - Covers:
   - PyTorch tensors, autograd, model definition and the training loop
   - Training logistic regression (softmax) with gradient descent on MNIST
   - Overfitting and regularization (weight decay, early stopping)
 
-## Setup
+## Setup (if you want to run the notebook locally)
 
 ### 1. Clone the repository
 
