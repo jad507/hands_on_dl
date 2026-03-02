@@ -1,12 +1,12 @@
 # Hands-On Deep Learning
 
-Session 1: Basics of Deep Learning and PyTorch.
+## Session 1: Basics of Deep Learning and PyTorch
 
-This repository contains a Jupyter notebook that introduces PyTorch fundamentals, logistic regression with gradient descent on MNIST, and overfitting and regularization.
+This session covers the basics of deep learning and PyTorch. Refer to the [introduction.ipynb](introduction.ipynb) notebook for the content.
 
 ## Contents
 
-- **`introduction.ipynb`** — Covers:
+- [introduction.ipynb](introduction.ipynb) — Covers:
   - PyTorch tensors, autograd, model definition and the training loop
   - Training logistic regression (softmax) with gradient descent on MNIST
   - Overfitting and regularization (weight decay, early stopping)
