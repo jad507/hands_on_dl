@@ -7,7 +7,7 @@ load_dotenv()
 base = os.getenv("AZURE_BASE_URL").rstrip("/")
 key = os.getenv("AZURE_API_KEY")
 
-headers = {
+anthropic_headers = {
     "x-api-key": key,
     "anthropic-version": "2023-06-01",
     "Content-Type": "application/json",
@@ -18,38 +18,32 @@ payload = {
     "messages": [{"role": "user", "content": "Hi"}],
 }
 
-# === CLAUDE MODEL NAMES ===
-print("=== CLAUDE MODELS on /anthropic/v1/messages ===")
+# The official Anthropic model ID is claude-opus-4-6  ^1^  ^2^
+# But PSU gateway may use different deployment names
+print("=== CLAUDE on /anthropic/v1/messages ===")
 claude_names = [
-    # Opus 4.6 variants
-    "claude-opus-4-6-20260301", "claude-opus-4.6-20260301",
-    "claude-4-opus", "claude-4-6-opus",
-    "claude-opus-latest", "claude-opus",
-
-    # Sonnet 4.6 variants
-    "claude-sonnet-4-6-20260301", "claude-sonnet-4.6-20260301",
-    "claude-4-sonnet", "claude-4-6-sonnet",
-    "claude-sonnet-latest", "claude-sonnet",
-
-    # Standard Anthropic naming convention
-    "claude-opus-4-20250514",
-    "claude-sonnet-4-20250514",
-    "claude-3-5-sonnet-20241022",
-    "claude-3-5-sonnet-latest",
-    "claude-3-opus-20240229",
-    "claude-3-opus-latest",
-
-    # Maybe just the UI display names lowercased with dashes
+    # Official Anthropic IDs
+    "claude-opus-4-6", "claude-sonnet-4-6",
+    "claude-opus-4-5", "claude-sonnet-4-5",
+    "claude-opus-4-1", "claude-sonnet-4-1",
+    "claude-opus-4-0", "claude-sonnet-4-0",
+    "claude-3-5-sonnet", "claude-3-opus",
+    # With dates
+    "claude-opus-4-6-20260205",
+    "claude-sonnet-4-6-20260205",
+    # Versioned with dots (non-standard but PSU might use)
     "claude-opus-4.6", "claude-sonnet-4.6",
-
-    # Maybe without version dates
-    "claude-opus-4", "claude-sonnet-4",
+    # Maybe just the tier name
+    "opus", "sonnet",
+    # Maybe prefixed
+    "anthropic-claude-opus-4-6",
+    "anthropic-claude-sonnet-4-6",
 ]
 
 for name in claude_names:
     r = requests.post(
         f"{base}/anthropic/v1/messages",
-        headers=headers,
+        headers=anthropic_headers,
         json={**payload, "model": name},
     )
     marker = "✅" if r.status_code == 200 else "  "
@@ -57,27 +51,28 @@ for name in claude_names:
     if r.status_code == 200:
         print(f"       {r.text[:250]}\n")
     elif r.status_code not in [404]:
-        print(f"       {r.text[:250]}\n")
+        print(f"       {r.text[:200]}\n")
 
-# === GEMINI PATH SWEEP ===
-print("\n=== GEMINI PATH SWEEP ===")
-gemini_headers_xapi = {"x-api-key": key, "Content-Type": "application/json"}
-gemini_headers_apikey = {"api-key": key, "Content-Type": "application/json"}
 
-gemini_paths = [
-    "/google/v1beta/chat/completions",
-    "/google/v1beta/messages",
-    "/vertex/v1/messages",
-    "/vertexai/v1/chat/completions",
-    "/ai/v1/chat/completions",
-    "/inference/v1/chat/completions",
+# Now try GPT-5.2 on the OpenAI path with more name variants
+print("\n=== GPT-5.2 on /openai/v1/chat/completions ===")
+openai_headers = {"api-key": key, "Content-Type": "application/json"}
+openai_payload = {"messages": [{"role": "user", "content": "Hi"}], "max_tokens": 5}
+
+gpt_names = [
+    "gpt-5.2", "gpt-5", "gpt-5.2-auto",
+    "gpt-52", "gpt-52-auto",
+    "o3", "o3-mini", "o4", "o4-mini",
+    "gpt-4o-auto", "auto",
 ]
 
-for path in gemini_paths:
-    for label, hdrs in [("api-key", gemini_headers_apikey), ("x-api-key", gemini_headers_xapi)]:
-        r = requests.post(f"{base}{path}", headers=hdrs, json={**payload, "model": "gemini-2.5-flash"})
-        if r.status_code != 404:
-            print(f"✅ {r.status_code}  POST {path} [{label}]")
-            print(f"       {r.text[:200]}\n")
-
-print("\nDone!")
+for name in gpt_names:
+    r = requests.post(
+        f"{base}/openai/v1/chat/completions",
+        headers=openai_headers,
+        json={**openai_payload, "model": name},
+    )
+    marker = "✅" if r.status_code == 200 else "  "
+    print(f"{marker} {r.status_code}  {name}")
+    if r.status_code == 200:
+        print(f"       {r.text[:250]}\n")
