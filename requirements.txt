@@ -1,5 +1,14 @@
+anthropic>=0.25.0
+yt-dlp>=2024.3.10
+python-dotenv>=1.0.0
+openai
 torch
 torchvision
+transformers
+datasets
+accelerate
+peft
+trl
 matplotlib
 numpy
 ultralytics
