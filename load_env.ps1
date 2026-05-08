@@ -4,3 +4,4 @@ Get-Content .env | Where-Object {
     $name, $value = $_ -split '=', 2
     Set-Item -Path "Env:$name" -Value $value
 }
+Start-Service ssh-agent
