@@ -19,6 +19,7 @@ Setup:
 
 from __future__ import annotations
 
+import argparse
 import subprocess
 from pathlib import Path
 
@@ -34,23 +35,17 @@ PLAYLIST_URL = "https://www.youtube.com/playlist?list=PLUQII5r8C6geSA2Dqrq783Si0
 DATE_AFTER: str | None = "today-2years"
 DATE_BEFORE: str | None = None
 
-OUTPUT_ROOT = Path(__file__).resolve().parent / "downloads"
-VIDEO_DIR = OUTPUT_ROOT / "videos"
-AUDIO_DIR = OUTPUT_ROOT / "audio"
-TRANSCRIPT_DIR = OUTPUT_ROOT / "transcripts"
-METADATA_DIR = OUTPUT_ROOT / "metadata"
-
 # Truncate long titles so Windows path limits don't bite. The [id] suffix
 # keeps filenames unique even if two titles collide after truncation.
 OUTTMPL = "%(title).180B [%(id)s].%(ext)s"
 
 
-def _build_ydl_opts() -> dict:
+def _build_ydl_opts(video_dir: Path, transcript_dir: Path, metadata_dir: Path) -> dict:
     opts: dict = {
         "paths": {
-            "home": str(VIDEO_DIR),
-            "subtitle": str(TRANSCRIPT_DIR),
-            "infojson": str(METADATA_DIR),
+            "home": str(video_dir),
+            "subtitle": str(transcript_dir),
+            "infojson": str(metadata_dir),
         },
         "outtmpl": {"default": OUTTMPL},
         "format": "bestvideo*+bestaudio/best",
@@ -92,27 +87,41 @@ def _extract_audio(video_path: Path, audio_path: Path) -> None:
     subprocess.run(encode_cmd, check=True)
 
 
-def _derive_audio_files() -> None:
+def _derive_audio_files(video_dir: Path, audio_dir: Path) -> None:
     video_exts = {".mp4", ".mkv", ".webm", ".mov", ".m4v"}
-    for video_file in sorted(VIDEO_DIR.iterdir()):
+    for video_file in sorted(video_dir.iterdir()):
         if not video_file.is_file() or video_file.suffix.lower() not in video_exts:
             continue
-        audio_file = AUDIO_DIR / f"{video_file.stem}.m4a"
+        audio_file = audio_dir / f"{video_file.stem}.m4a"
         if audio_file.exists():
             continue
         print(f"[audio] {video_file.name} -> {audio_file.name}")
         _extract_audio(video_file, audio_file)
 
 
-def main() -> None:
-    for d in (VIDEO_DIR, AUDIO_DIR, TRANSCRIPT_DIR, METADATA_DIR):
+def main(out_root: Path) -> None:
+    video_dir = out_root / "videos"
+    audio_dir = out_root / "audio"
+    transcript_dir = out_root / "transcripts"
+    metadata_dir = out_root / "metadata"
+    for d in (video_dir, audio_dir, transcript_dir, metadata_dir):
         d.mkdir(parents=True, exist_ok=True)
 
-    with yt_dlp.YoutubeDL(_build_ydl_opts()) as ydl:
+    with yt_dlp.YoutubeDL(_build_ydl_opts(video_dir, transcript_dir, metadata_dir)) as ydl:
         ydl.download([PLAYLIST_URL])
 
-    _derive_audio_files()
+    _derive_audio_files(video_dir, audio_dir)
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(
+        description="Download a YouTube playlist into video/audio/transcript/metadata folders."
+    )
+    parser.add_argument(
+        "--out",
+        type=Path,
+        default=Path.cwd() / "downloads",
+        help="output root directory (default: ./downloads relative to cwd)",
+    )
+    args = parser.parse_args()
+    main(args.out.resolve())
