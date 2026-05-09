@@ -9,14 +9,12 @@ Download a YouTube playlist into four parallel folders:
 Every artifact for a given video shares the same base filename
 ("<title> [<video_id>]") so you can join them downstream.
 
-Configure per-video time ranges in TIME_RANGES below to grab only the
-segments you care about (e.g. just the public-comment portion of a long
-meeting). Videos not listed in TIME_RANGES are downloaded in full;
-mapping a video ID to [] skips it entirely.
+Filtering is by upload date — only videos published in the configured
+window are downloaded. Tweak DATE_AFTER / DATE_BEFORE below.
 
 Setup:
     pip install yt-dlp           # already in requirements.txt
-    # ffmpeg must be on PATH (used for clip cuts and audio extraction)
+    # ffmpeg must be on PATH (used for audio extraction)
 """
 
 from __future__ import annotations
@@ -25,21 +23,16 @@ import subprocess
 from pathlib import Path
 
 import yt_dlp
+from yt_dlp.utils import DateRange
 
 
 PLAYLIST_URL = "https://www.youtube.com/playlist?list=PLUQII5r8C6geSA2Dqrq783Si0H2ULsQya"
 
-# Per-video clip ranges in seconds. Key is the 11-character YouTube video ID
-# (run `yt-dlp --flat-playlist <PLAYLIST_URL>` once to list them). Each value
-# is a list of (start, end) tuples; multiple tuples produce multiple clips
-# concatenated into one output file.
-#
-#   TIME_RANGES = {
-#       "dQw4w9WgXcQ": [(120, 480), (1800, 2400)],  # two clips from this video
-#       "abcdefghijk": [],                          # skip entirely
-#   }
-TIME_RANGES: dict[str, list[tuple[float, float]]] = {
-}
+# Upload-date window. yt-dlp accepts either "YYYYMMDD" or relative forms like
+# "today-2years", "now-18months", "today-30days". Set either to None to leave
+# that side of the window open.
+DATE_AFTER: str | None = "today-2years"
+DATE_BEFORE: str | None = None
 
 OUTPUT_ROOT = Path(__file__).resolve().parent / "downloads"
 VIDEO_DIR = OUTPUT_ROOT / "videos"
@@ -52,19 +45,8 @@ METADATA_DIR = OUTPUT_ROOT / "metadata"
 OUTTMPL = "%(title).180B [%(id)s].%(ext)s"
 
 
-def _download_ranges(info_dict, ydl):
-    """yt-dlp callback: returns the time ranges to keep for a given video."""
-    video_id = info_dict.get("id")
-    ranges = TIME_RANGES.get(video_id)
-    if ranges is None:
-        return [{"start_time": 0, "end_time": info_dict.get("duration") or 0}]
-    if not ranges:
-        return []
-    return [{"start_time": float(s), "end_time": float(e)} for s, e in ranges]
-
-
 def _build_ydl_opts() -> dict:
-    return {
+    opts: dict = {
         "paths": {
             "home": str(VIDEO_DIR),
             "subtitle": str(TRANSCRIPT_DIR),
@@ -79,11 +61,15 @@ def _build_ydl_opts() -> dict:
         "subtitlesformat": "srt/vtt/best",
         "writeinfojson": True,
         "ignoreerrors": True,
-        "download_ranges": _download_ranges,
         "postprocessors": [
             {"key": "FFmpegSubtitlesConvertor", "format": "srt"},
         ],
     }
+    if DATE_AFTER or DATE_BEFORE:
+        # DateRange's runtime accepts "YYYYMMDD" or relative strings like
+        # "today-2years"; the type stub claims it only takes `date` objects.
+        opts["daterange"] = DateRange(DATE_AFTER, DATE_BEFORE)  # type: ignore[arg-type]
+    return opts
 
 
 def _extract_audio(video_path: Path, audio_path: Path) -> None:
