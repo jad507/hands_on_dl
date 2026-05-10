@@ -35,6 +35,12 @@ TRANSCRIPT_EXTS = {".srt", ".vtt"}
 # corrupt or near-empty audio file — flag it for re-extraction.
 MIN_AUDIO_BYTES_PER_SECOND = 8_000
 
+# Issues that block the downstream audio-transcription pipeline. Everything
+# else is informational — e.g. missing merged video is fine when the audio
+# was successfully extracted from a yt-dlp orphan, since the pipeline only
+# consumes audio.
+BLOCKING_ISSUES = {"NO_AUDIO", "SHORT_AUDIO"}
+
 # Matches the 11-char YouTube ID bracketed in our filename convention.
 ID_PATTERN = re.compile(r"\[([\w-]{11})\]")
 
@@ -53,7 +59,12 @@ class Audit:
 
     @property
     def ok(self) -> bool:
-        return not self.issues
+        """No blocking issues — audio pipeline can proceed for this video."""
+        return not any(i in BLOCKING_ISSUES for i in self.issues)
+
+    @property
+    def has_warnings(self) -> bool:
+        return bool(self.issues) and self.ok
 
 
 def _id_from_path(path: Path) -> str | None:
@@ -146,24 +157,70 @@ def audit(out_root: Path) -> list[Audit]:
 
 
 def report(audits: list[Audit]) -> int:
-    ok = sum(1 for a in audits if a.ok)
-    bad = [a for a in audits if not a.ok]
-    print(f"\n=== Audit: {len(audits)} videos | {ok} OK | {len(bad)} with issues ===\n")
-    for a in bad:
+    blocked = [a for a in audits if not a.ok]
+    warned = [a for a in audits if a.has_warnings]
+    clean = sum(1 for a in audits if not a.issues)
+    print(
+        f"\n=== Audit: {len(audits)} videos | {clean} clean | "
+        f"{len(warned)} with warnings | {len(blocked)} blocked ===\n"
+    )
+    for a in blocked + warned:
         title = a.title if len(a.title) <= 78 else a.title[:75] + "..."
-        print(f"[{a.video_id}] {title}")
+        marker = "BLOCKED" if not a.ok else "warn   "
+        print(f"[{marker}] [{a.video_id}] {title}")
         for issue in a.issues:
-            print(f"    - {issue}")
+            tag = "BLOCK" if issue in BLOCKING_ISSUES else "warn "
+            print(f"    [{tag}] {issue}")
         for o in a.orphans:
-            print(f"      orphan: {o.name}")
-    if not bad:
+            print(f"           orphan: {o.name}")
+    if not blocked and not warned:
         print("All videos have a merged file, audio, and at least one transcript.")
-    return len(bad)
+    return len(blocked)
+
+
+def _cleanup_misplaced(out_root: Path) -> None:
+    """Move stray subs from videos/ to transcripts/.
+
+    yt-dlp normally relocates subtitles to the configured `subtitle` path
+    during postprocessing, but if the merge step fails, postprocessing
+    doesn't run and the subs stay in the home/videos folder.
+
+    `.part` files are intentionally left alone — yt-dlp resumes from them via
+    HTTP Range requests on the next run, saving bandwidth on big streams.
+    """
+    video_dir = out_root / "videos"
+    transcript_dir = out_root / "transcripts"
+    if not video_dir.exists():
+        return
+    transcript_dir.mkdir(parents=True, exist_ok=True)
+    moved = 0
+    deleted = 0
+    for entry in video_dir.iterdir():
+        if not entry.is_file():
+            continue
+        if entry.suffix.lower() not in TRANSCRIPT_EXTS:
+            continue
+        target = transcript_dir / entry.name
+        if target.exists():
+            entry.unlink()
+            deleted += 1
+        else:
+            entry.rename(target)
+            moved += 1
+    if moved:
+        print(f"  moved {moved} misplaced transcript file(s) to transcripts/")
+    if deleted:
+        print(f"  deleted {deleted} duplicate transcript file(s) already present in transcripts/")
 
 
 def fix(out_root: Path, audits: list[Audit]) -> None:
+    # Sub/.part cleanup may flip some "broken" items to OK on its own, so do
+    # it first, then re-audit before deciding what needs re-downloading.
+    _cleanup_misplaced(out_root)
+    audits = audit(out_root)
     broken = [a for a in audits if not a.ok]
     if not broken:
+        print("Nothing left to fix after cleanup.")
         return
 
     video_dir = out_root / "videos"

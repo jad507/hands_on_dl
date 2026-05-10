@@ -78,6 +78,13 @@ def _build_ydl_opts(
         "sleep_interval_requests": 1,
         "sleep_interval": 3,
         "max_sleep_interval": 10,
+        # Big mp4 streams (1+ GB council meetings) sometimes stall on slow
+        # chunks; the default 20s socket timeout drops them and yt-dlp gives
+        # up before retrying. These extend the patience on each chunk and the
+        # number of automatic retries.
+        "socket_timeout": 60,
+        "retries": 10,
+        "fragment_retries": 10,
         "postprocessors": [
             {"key": "FFmpegSubtitlesConvertor", "format": "srt"},
         ],
