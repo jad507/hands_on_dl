@@ -94,36 +94,75 @@ def _build_ydl_opts(
     return opts
 
 
-def _extract_audio(video_path: Path, audio_path: Path) -> None:
+def _extract_audio(video_path: Path, audio_path: Path) -> bool:
+    """Re-encode the audio track to AAC m4a. Returns True on success.
+
+    Re-encoding (rather than stream-copy) keeps the output container valid
+    regardless of input codec — Opus-in-WebM, for instance, can't go into an
+    .m4a container via stream copy.
+    """
     audio_path.parent.mkdir(parents=True, exist_ok=True)
-    copy_cmd = [
-        "ffmpeg", "-y", "-loglevel", "error",
-        "-i", str(video_path),
-        "-vn", "-acodec", "copy",
-        str(audio_path),
-    ]
-    if subprocess.run(copy_cmd).returncode == 0:
-        return
-    # Fall back to AAC re-encode if the source codec isn't .m4a-compatible.
-    encode_cmd = [
+    cmd = [
         "ffmpeg", "-y", "-loglevel", "error",
         "-i", str(video_path),
         "-vn", "-c:a", "aac", "-b:a", "192k",
         str(audio_path),
     ]
-    subprocess.run(encode_cmd, check=True)
+    result = subprocess.run(cmd, capture_output=True, text=True)
+    if result.returncode != 0:
+        audio_path.unlink(missing_ok=True)
+        tail = (result.stderr or "").strip().splitlines()[-1:]
+        msg = tail[0] if tail else f"exit {result.returncode}"
+        print(f"  [audio] FAILED ({video_path.name}): {msg}")
+        return False
+    return True
+
+
+def _audio_target_stem(video_stem: str) -> str:
+    """Drop yt-dlp's '.fNNN' format-ID suffix if present.
+
+    yt-dlp leaves '<title> [<id>].fNNN.<ext>' files in the output dir when its
+    merge step fails (e.g. one video has both '.f251.webm' audio-only and
+    '.f299.mp4' video-only files instead of a merged '.mp4'). Stripping the
+    suffix maps both orphans to the same audio target stem so we can pick the
+    one that actually has an audio track.
+    """
+    base, sep, fmt = video_stem.rpartition(".f")
+    return base if sep and fmt.isdigit() else video_stem
 
 
 def _derive_audio_files(video_dir: Path, audio_dir: Path) -> None:
     video_exts = {".mp4", ".mkv", ".webm", ".mov", ".m4v"}
+    by_target: dict[str, list[Path]] = {}
     for video_file in sorted(video_dir.iterdir()):
         if not video_file.is_file() or video_file.suffix.lower() not in video_exts:
             continue
-        audio_file = audio_dir / f"{video_file.stem}.m4a"
+        target = _audio_target_stem(video_file.stem)
+        by_target.setdefault(target, []).append(video_file)
+
+    failed: list[str] = []
+    for target, sources in sorted(by_target.items()):
+        audio_file = audio_dir / f"{target}.m4a"
         if audio_file.exists():
             continue
-        print(f"[audio] {video_file.name} -> {audio_file.name}")
-        _extract_audio(video_file, audio_file)
+        # Prefer non-orphan (merged) source first; orphans only as fallback.
+        sources.sort(key=lambda p: _audio_target_stem(p.stem) != p.stem)
+        for src in sources:
+            print(f"[audio] {src.name} -> {audio_file.name}")
+            if _extract_audio(src, audio_file):
+                break
+        else:
+            failed.append(target)
+
+    if failed:
+        print(f"\n[audio] {len(failed)} video(s) had no audio extracted:")
+        for name in failed:
+            print(f"  - {name}")
+        print(
+            "  Likely cause: yt-dlp's merge step failed and only the video-only\n"
+            "  '.fNNN.mp4' orphan is on disk. Delete that file from the videos/\n"
+            "  folder and re-run the script for those items to try again."
+        )
 
 
 def main(out_root: Path, start_at: int = 1) -> None:
@@ -142,7 +181,7 @@ def main(out_root: Path, start_at: int = 1) -> None:
 
 
 if __name__ == "__main__":
-    # run with python download_playlist.py --out C:\Users\Admin\Documents\Grants\SSRI --start-at 21
+    # run with python download_playlist.py --out C:\Users\Admin\Documents\Grants\SSRI --start-at 39
     parser = argparse.ArgumentParser(
         description="Download a YouTube playlist into video/audio/transcript/metadata folders."
     )
