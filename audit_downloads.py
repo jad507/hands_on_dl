@@ -179,38 +179,103 @@ def report(audits: list[Audit]) -> int:
 
 
 def _cleanup_misplaced(out_root: Path) -> None:
-    """Move stray subs from videos/ to transcripts/.
+    """Sweep failed-merge artifacts out of videos/ and audio/.
 
-    yt-dlp normally relocates subtitles to the configured `subtitle` path
-    during postprocessing, but if the merge step fails, postprocessing
-    doesn't run and the subs stay in the home/videos folder.
+    Each issue this fixes traces back to a yt-dlp run whose postprocessing
+    step never finished (typically because the format-merge failed):
 
-    `.part` files are intentionally left alone — yt-dlp resumes from them via
-    HTTP Range requests on the next run, saving bandwidth on big streams.
+    * subtitles land in the home (videos) folder instead of the configured
+      `subtitle` path
+    * `*.info.json` for the playlist itself lands in home (we don't have a
+      `pl_infojson` path configured for old downloads)
+    * `[id].fNNN.{webm,mp4}` orphans pile up in videos/
+    * `[id].fNNN.m4a` duplicates from earlier extractor runs (before the
+      `_audio_target_stem` suffix-stripping logic) sit alongside the
+      canonical `[id].m4a`
+
+    `.part` files are intentionally left alone — yt-dlp resumes from them
+    via HTTP Range requests on the next run, saving bandwidth on big
+    streams. Orphan format files (.fNNN.webm, .fNNN.mp4) are only deleted
+    when the canonical `[id].m4a` already exists in audio/, so we don't
+    discard the only source the audio extractor could use.
     """
     video_dir = out_root / "videos"
     transcript_dir = out_root / "transcripts"
+    audio_dir = out_root / "audio"
+    metadata_dir = out_root / "metadata"
     if not video_dir.exists():
         return
     transcript_dir.mkdir(parents=True, exist_ok=True)
-    moved = 0
-    deleted = 0
+    metadata_dir.mkdir(parents=True, exist_ok=True)
+
+    # Set of video IDs whose canonical (non-orphan) audio already exists.
+    canonical_audio_ids: set[str] = set()
+    if audio_dir.exists():
+        for af in audio_dir.iterdir():
+            if not (af.is_file() and af.suffix.lower() == ".m4a"):
+                continue
+            if _is_orphan_format_file(af):
+                continue
+            vid = _id_from_path(af)
+            if vid:
+                canonical_audio_ids.add(vid)
+
+    moved_subs = 0
+    deleted_dup_subs = 0
+    moved_info = 0
+    deleted_dup_info = 0
+    deleted_orphans = 0
+    deleted_audio_dups = 0
+
     for entry in video_dir.iterdir():
         if not entry.is_file():
             continue
-        if entry.suffix.lower() not in TRANSCRIPT_EXTS:
-            continue
-        target = transcript_dir / entry.name
-        if target.exists():
-            entry.unlink()
-            deleted += 1
-        else:
-            entry.rename(target)
-            moved += 1
-    if moved:
-        print(f"  moved {moved} misplaced transcript file(s) to transcripts/")
-    if deleted:
-        print(f"  deleted {deleted} duplicate transcript file(s) already present in transcripts/")
+        suffix = entry.suffix.lower()
+        if suffix in TRANSCRIPT_EXTS:
+            target = transcript_dir / entry.name
+            if target.exists():
+                entry.unlink()
+                deleted_dup_subs += 1
+            else:
+                entry.rename(target)
+                moved_subs += 1
+        elif entry.name.endswith(".info.json"):
+            target = metadata_dir / entry.name
+            if target.exists():
+                entry.unlink()
+                deleted_dup_info += 1
+            else:
+                entry.rename(target)
+                moved_info += 1
+        elif suffix in VIDEO_EXTS and _is_orphan_format_file(entry):
+            vid = _id_from_path(entry)
+            if vid and vid in canonical_audio_ids:
+                entry.unlink()
+                deleted_orphans += 1
+
+    if audio_dir.exists():
+        for entry in audio_dir.iterdir():
+            if not (entry.is_file() and entry.suffix.lower() == ".m4a"):
+                continue
+            if not _is_orphan_format_file(entry):
+                continue
+            vid = _id_from_path(entry)
+            if vid and vid in canonical_audio_ids:
+                entry.unlink()
+                deleted_audio_dups += 1
+
+    if moved_subs:
+        print(f"  moved {moved_subs} misplaced transcript file(s) to transcripts/")
+    if deleted_dup_subs:
+        print(f"  deleted {deleted_dup_subs} duplicate transcript file(s) already present in transcripts/")
+    if moved_info:
+        print(f"  moved {moved_info} stray .info.json file(s) to metadata/")
+    if deleted_dup_info:
+        print(f"  deleted {deleted_dup_info} duplicate .info.json file(s) already present in metadata/")
+    if deleted_orphans:
+        print(f"  deleted {deleted_orphans} orphan .fNNN.* video file(s) (canonical audio already extracted)")
+    if deleted_audio_dups:
+        print(f"  deleted {deleted_audio_dups} stale .fNNN.m4a duplicate(s)")
 
 
 def fix(out_root: Path, audits: list[Audit]) -> None:
@@ -286,9 +351,13 @@ def main() -> None:
     out_root = args.out.resolve()
 
     audits = audit(out_root)
-    n_bad = report(audits)
+    report(audits)
 
-    if args.fix and n_bad:
+    # Always run --fix regardless of whether anything is *blocked* — the
+    # cleanup pass scrubs cosmetic warnings (misplaced subs, orphan format
+    # files, stale .fNNN duplicates) that don't count as blocking but still
+    # leave the dataset cluttered.
+    if args.fix:
         fix(out_root, audits)
         print("\n--- post-fix audit ---")
         report(audit(out_root))

@@ -62,6 +62,9 @@ def _build_ydl_opts(
             "home": str(video_dir),
             "subtitle": str(transcript_dir),
             "infojson": str(metadata_dir),
+            # Without this, the playlist-level <playlist title>.info.json
+            # falls back to `home` and pollutes the videos/ folder.
+            "pl_infojson": str(metadata_dir),
         },
         "outtmpl": {"default": OUTTMPL},
         "format": "bestvideo*+bestaudio/best",
