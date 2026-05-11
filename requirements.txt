@@ -17,3 +17,6 @@ requests
 tqdm
 pydantic
 Pillow
+pyannote.audio>=4.0
+faster-whisper
+soundfile
