@@ -162,7 +162,7 @@ def process_file(pipeline, audio_path: Path, mode: str):
             std_stats.write_text(json.dumps(stats, indent=2))
             print(f"  [standard] {stats['speaker_count']} speakers, "
                   f"{stats['total_speech_duration_s']:.1f}s speech, "
-                  f"{stats['overlap_duration_s']:.1f}s overlap → {std_rttm.name}")
+                  f"{stats['overlap_duration_s']:.1f}s overlap -> {std_rttm.name}")
         except Exception:
             print(f"  [standard] ERROR writing output:")
             traceback.print_exc()
@@ -175,7 +175,7 @@ def process_file(pipeline, audio_path: Path, mode: str):
             excl_stats.write_text(json.dumps(stats, indent=2))
             print(f"  [exclusive] {stats['speaker_count']} speakers, "
                   f"{stats['total_speech_duration_s']:.1f}s speech "
-                  f"→ {excl_rttm.name}")
+                  f"-> {excl_rttm.name}")
         except Exception:
             print(f"  [exclusive] ERROR writing output:")
             traceback.print_exc()
