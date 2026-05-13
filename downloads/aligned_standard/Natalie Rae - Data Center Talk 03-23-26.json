@@ -1,0 +1,2288 @@
+{
+  "file": "Natalie Rae - Data Center Talk 03-23-26",
+  "rttm_mode": "standard",
+  "speaker_summary": {
+    "SPEAKER_00": {
+      "total_speech_s": 11.5,
+      "segment_count": 2,
+      "word_count": 38
+    },
+    "SPEAKER_01": {
+      "total_speech_s": 758.5,
+      "segment_count": 102,
+      "word_count": 1497
+    },
+    "SPEAKER_02": {
+      "total_speech_s": 37.2,
+      "segment_count": 11,
+      "word_count": 93
+    },
+    "SPEAKER_03": {
+      "total_speech_s": 37.2,
+      "segment_count": 2,
+      "word_count": 21
+    },
+    "SPEAKER_04": {
+      "total_speech_s": 861.5,
+      "segment_count": 140,
+      "word_count": 2486
+    },
+    "SPEAKER_05": {
+      "total_speech_s": 1006.6,
+      "segment_count": 118,
+      "word_count": 1727
+    }
+  },
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.46,
+      "text": "So good afternoon. Today we are going to share some early and ongoing work from the AI and Data",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 9.46,
+      "end": 20.3,
+      "text": "Infrastructure Learning Lab. In fall 2025, when we began this work, Pennsylvania was experiencing",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 20.3,
+      "end": 30.36,
+      "text": "a rapid influx of proposed AI data centers, over 50 active or planned projects statewide.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 31.82,
+      "end": 39.18,
+      "text": "While data centers themselves are not new, the recent surge is driven by AI's demand",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 39.18,
+      "end": 43.28,
+      "text": "for always-on, high-capacity computation.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 43.28,
+      "end": 56.66,
+      "text": "These facilities require enormous amounts of electricity, water, land, and they place new strains on regional energy systems.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 57.34,
+      "end": 69.28,
+      "text": "Yet many communities reported learning about these developments only after land purchases had already occurred or construction planning was underway.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 69.28,
+      "end": 77.84,
+      "text": "In the fall and summer of 2025, we began to hear more and more about data center negotiations",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 77.84,
+      "end": 86.62,
+      "text": "in communities, and our PI, Dr. Ray, began developments in Memphis, Tennessee, and noticing",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 86.62,
+      "end": 91.92,
+      "text": "a pattern between what was happening there and what was happening across the country.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 91.92,
+      "end": 105.36,
+      "text": "And Pennsylvania is a unique state with rural, urban, and suburban areas that are all being impacted by proposed AI data center developments.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 105.84,
+      "end": 114.64,
+      "text": "And it was challenging to get a sense then where this was happening as there was a lack of centralized monitoring.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 114.64,
+      "end": 139.8,
+      "text": "So while there are now a few different projects that are tracking data center proposals across the U.S., in fall 2025, we got in contact with Amelia Doda, who is the software developer behind the website formerly called PA Data Center Proposals.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 139.8,
+      "end": 147.18,
+      "text": "Now it's called trackdatacenters.com with more of a national focus.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 148.16,
+      "end": 161.06,
+      "text": "Amelia is actually from northeastern PA and was following her community's response to multiple proposed data center developments.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 161.06,
+      "end": 170.52,
+      "text": "She began mapping similar negotiations across PA, initially mapping these out to see if",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 170.52,
+      "end": 178.46,
+      "text": "there were any patterns in the locations and sites of industrial extraction, such as coal",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 178.46,
+      "end": 178.86,
+      "text": "mining.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 179.62,
+      "end": 188.91,
+      "text": "Last time we spoke, she was connected with other software developers and groups interested",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 188.91,
+      "end": 198.23,
+      "text": "in expanding the data set for a more open source nationwide focus. And this is outside of her",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 198.23,
+      "end": 208.99,
+      "text": "actual day job. Just wanting to put a face behind this website and highlight how these mobilizations",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 208.99,
+      "end": 217.21,
+      "text": "and community engagement are individuals who are choosing to spend time and labor",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 217.21,
+      "end": 225.39,
+      "text": "on this meaningful work and are shifting and it's changing over time and leveraging different",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 225.39,
+      "end": 234.21,
+      "text": "networks and media. This was something that we are interested in in this study. Yes, there are",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 234.21,
+      "end": 242.89,
+      "text": "a lot of these data center proposals, but what's happening with all the news about rising community",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 242.89,
+      "end": 251.49,
+      "text": "backlash. In Pennsylvania specifically, data centers must navigate municipal zoning processes.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 252.71,
+      "end": 262.69,
+      "text": "Zoning is a legislative framework delegated by the Commonwealth that determines how land can be used.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 263.49,
+      "end": 271.81,
+      "text": "Importantly, if a proposed data center complies with existing zoning, there may be limited",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 271.81,
+      "end": 280.65,
+      "text": "opportunities for direct public oversight. However, Pennsylvania's Sunshine Act requires",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 280.65,
+      "end": 289.77,
+      "text": "that official deliberations and decisions occur in public meetings with notice and opportunity",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 289.77,
+      "end": 297.65,
+      "text": "for public comment. These municipal meetings thus become a critical site where communities",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 297.65,
+      "end": 308.11,
+      "text": "attempt to intervene, contest, and make sense of development decisions. So here is our conceptual",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 308.11,
+      "end": 319.44,
+      "text": "framework for this initial work that we are doing. Much media and policy discourse frames community",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 319.44,
+      "end": 329.9,
+      "text": "engagement as nimbyism or not in my backyard. We find this framing limiting because it presumes",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 329.9,
+      "end": 338.82,
+      "text": "narrow self-interest and obscures the complex sense-making work residents are actually doing.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 339.64,
+      "end": 349.96,
+      "text": "In our case, residents were not saying not in my backyard, but rather not here and not anywhere",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 349.96,
+      "end": 356.88,
+      "text": "without accountability or even questioning the broader development model itself.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 356.88,
+      "end": 364.56,
+      "text": "From a learning sciences perspective, this framing erases the labor of learning,",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 365.02,
+      "end": 373.24,
+      "text": "relating, and reasoning that communities undertake over time. Instead, we conceptualize",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 373.24,
+      "end": 380.74,
+      "text": "public comments in municipal meetings as speech apps that operate within governance.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 381.36,
+      "end": 387.86,
+      "text": "These comments create public records, function as moments of collective knowledge-making,",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 388.24,
+      "end": 397.42,
+      "text": "and support coalition building. In our view of AI data centers as place-based infrastructures,",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 397.42,
+      "end": 405.62,
+      "text": "we view these as having physical, social, environmental, and political consequences.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 406.92,
+      "end": 415.68,
+      "text": "And so, for example, as I mentioned earlier, experts' testimony is valued differently from",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 415.68,
+      "end": 424.2,
+      "text": "the community members as a social category. And that has an impact on how decisions are made.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 424.2,
+      "end": 435.4,
+      "text": "So that is an example of a political consequence. So speakers language in use constitutes and",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 435.4,
+      "end": 445.06,
+      "text": "instantiates public record making. And a second conceptual framework is that public comments",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 445.06,
+      "end": 455.34,
+      "text": "are forms of knowledge making and coalition building. So before Giselle shares more about",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 455.34,
+      "end": 462.02,
+      "text": "the methods, I am just going to share our research question here. And it's what topics of concern",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 462.02,
+      "end": 470.7,
+      "text": "do municipal meeting public commenters raise to their city council regarding AI and data centers",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 470.7,
+      "end": 478.18,
+      "text": "in their community. Well, thank you for the great introduction of our project. So I'm going to give",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 478.18,
+      "end": 487.88,
+      "text": "you more details about our methods. So about the case study context, we chose Lancaster as our",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 487.88,
+      "end": 496.82,
+      "text": "primary case study. Lancaster was selected first because of its relevance. In 2025, Lancaster became",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 496.82,
+      "end": 503.48,
+      "text": "a focal point for the expansion of data centers, primarily due to the complex zoning decisions",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 503.48,
+      "end": 510.29,
+      "text": "and the negotiations of a community benefits agreement. Another reason for choosing Lancaster",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 510.29,
+      "end": 517.37,
+      "text": "is because they had publicly available meeting videos that enabled close qualitative analysis.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 518.11,
+      "end": 523.75,
+      "text": "So with this context, we examine residents' perspectives on the physical infrastructure",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 523.75,
+      "end": 527.83,
+      "text": "of AI data centers through qualitative analysis",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 527.83,
+      "end": 529.73,
+      "text": "of public discourse.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 529.73,
+      "end": 533.67,
+      "text": "This figure here gives a more concrete context",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 533.67,
+      "end": 535.71,
+      "text": "and a bigger picture of the timeline.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 536.65,
+      "end": 540.45,
+      "text": "The gray bars represent standard council meetings",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 540.45,
+      "end": 543.53,
+      "text": "while the green bars mark the sessions",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 543.53,
+      "end": 546.32,
+      "text": "where the data center was discussed.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 546.32,
+      "end": 550.38,
+      "text": "And you can see the three key markers.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 550.38,
+      "end": 554.76,
+      "text": "Number one, the initial land deed purchase in February.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 555.78,
+      "end": 561.88,
+      "text": "Number two, the public surfacing of the project in July by local news coverage.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 561.88,
+      "end": 571.46,
+      "text": "And number three, the November 2025 special session of City Council dedicated sorely to voting on the Community Benefits Agreement.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 572.69,
+      "end": 589.35,
+      "text": "Notably, the period between point one and two, which is the gap between the deed filing and public awareness, became the primary point of contention for residents who felt excluded from the experience.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 589.81,
+      "end": 594.33,
+      "text": "We gathered data from the time period of July to November 2025.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 594.33,
+      "end": 600.25,
+      "text": "To speak more about what we gathered out of this context during this time period, the",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 600.25,
+      "end": 607.37,
+      "text": "dataset is built on public records such as live video streams, YouTube auto-transcriptions",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 607.37,
+      "end": 614.13,
+      "text": "that we corrected for accuracy later, and meeting minutes from July to November 2025.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 614.13,
+      "end": 621.27,
+      "text": "This was complemented by local news reporting from LNP Lancaster Online.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 621.27,
+      "end": 627.75,
+      "text": "And here we attached the rules for public comment and as we refer back to their direct",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 627.75,
+      "end": 634.91,
+      "text": "quotes for the anonymization purpose, we numbered them and we call them speaker and their number.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 634.91,
+      "end": 641.09,
+      "text": "So again, the research question is what topics of concern do speakers raise to the Lancaster",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 641.09,
+      "end": 647.37,
+      "text": "City Council during public comment periods from February to November 2025?",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 647.37,
+      "end": 652.6,
+      "text": "Methodologically, we employed an exploratory thematic analysis.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 652.6,
+      "end": 659.62,
+      "text": "Our team independently coded the transcripts to capture residents' concerns, then collaboratively",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 659.62,
+      "end": 663.3,
+      "text": "consolidated these into thematic categories.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 663.3,
+      "end": 669.84,
+      "text": "An important distinction in our work is our analytical stance.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 669.84,
+      "end": 674.5,
+      "text": "We did not assess the factual accuracy of the speakers' claims.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 674.5,
+      "end": 678.5,
+      "text": "Instead, we treat their comments as situated narratives.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 679.41,
+      "end": 685.25,
+      "text": "Our focus was to illuminate how residents articulate their perceptions of risk,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 685.81,
+      "end": 693.41,
+      "text": "their expectations of responsibility, and their core values in the face of municipal governance.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 694.29,
+      "end": 700.77,
+      "text": "In other words, our focus was on how community members narrate, explain,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 700.77,
+      "end": 707.89,
+      "text": "and connect topical concerns to other issues. As a result, our research team came up with four",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 708.69,
+      "end": 715.25,
+      "text": "major themes. So number one, municipally managed resources and utilities. Number two,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 716.29,
+      "end": 722.29,
+      "text": "municipal process. And number three, health and well-being. And number four,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 722.29,
+      "end": 731.29,
+      "text": "power dynamics and inequality. So theme one. Overall, this theme captured how Speaker's",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 731.29,
+      "end": 737.05,
+      "text": "comments framed the data center project as a strain on Lancaster's municipally managed",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 737.05,
+      "end": 743.73,
+      "text": "resources. Those resources are electricity, as well as electric infrastructure, water",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 743.73,
+      "end": 750.39,
+      "text": "supply, waste, and the budgetary resources available to manage its increased usage.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 751.8,
+      "end": 761.24,
+      "text": "So in terms of the electricity supply, the speakers expressed concerns regarding its availability, quality, and costs.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 761.24,
+      "end": 771.94,
+      "text": "So Speaker 1 said, there will be no value to having the proposed data centers here other than ridding ourselves of the problem of an empty warehouse.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 772.88,
+      "end": 779.82,
+      "text": "Speaker 5 said, it's not just the cost to increase the power grid, it's the cost to maintain a much,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 779.82,
+      "end": 787.18,
+      "text": "much, much larger power grid. Regarding the water supply, the speakers expressed their concern",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 787.18,
+      "end": 795.41,
+      "text": "mainly about the quality of water as well as the cost. Speaker 54 said, our water is already",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 795.41,
+      "end": 802.7,
+      "text": "questionable. Our energy is already questionable. Who else's rent is going up, right? My rent's up.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 803.53,
+      "end": 810.37,
+      "text": "Also, Speaker 67 demonstrated how water availability might impact the concentration",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 810.37,
+      "end": 817.67,
+      "text": "of PFOs in the Lancaster City water supply. Potable water, where it's available, especially",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 817.67,
+      "end": 824.97,
+      "text": "in a community, a community like ours, that is dependent on rainfall to dilute the, what are we",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 824.97,
+      "end": 832.37,
+      "text": "calling them? PFOs in our water? It's critical that we save every drop of potable water we have,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 832.87,
+      "end": 839.8,
+      "text": "so they shouldn't be going to just cooling uses. As a note, Commonwealth of Pennsylvania",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 839.8,
+      "end": 846.94,
+      "text": "Department of Environmental Protection sent a notice about the city of Lancaster having high",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 846.94,
+      "end": 855.6,
+      "text": "levels of the contaminant in their water as of March 2024. So while the city focused on",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 855.6,
+      "end": 864.32,
+      "text": "the immediate investment in AI, speakers such as 68 pointed out a critical oversight in the project's",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 864.32,
+      "end": 871.04,
+      "text": "lifecycle regarding electronic waste, e-waste, and the disposal of decommissioned parts.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 872.0,
+      "end": 879.31,
+      "text": "Because AI hardware like chips becomes obsolete so rapidly, residents are worried about what",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 879.31,
+      "end": 886.7,
+      "text": "happens when the center is no longer competitive. They didn't want to see developers simply throwing",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 886.7,
+      "end": 892.22,
+      "text": "the kids on the roof and walking away. This highlights that for the community, a responsible",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 892.22,
+      "end": 898.22,
+      "text": "AI project isn't just about building the infrastructure. It must include a clear,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 898.78,
+      "end": 904.46,
+      "text": "long-term plan for the electronic waste and the physical site after the technology's prime.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 905.88,
+      "end": 913.56,
+      "text": "To synthesize, this theme captured how speakers positioned AI infrastructure as a burden on",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 913.56,
+      "end": 921.47,
+      "text": "municipally managed utilities. Beyond price, these community members pointed to how these issues",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 921.47,
+      "end": 928.65,
+      "text": "were connected to other forms of well-being as discussed in the section. So now we are at theme",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 928.65,
+      "end": 935.52,
+      "text": "to municipal process. This theme captured how speaker's comments framed the process of the",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 935.52,
+      "end": 943.6,
+      "text": "unfolding data center projects as illustrative of unmet expectations with locally elected officers.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 944.46,
+      "end": 949.9,
+      "text": "Comments in this theme were concerned with how decisions were made, how knowledge was shared,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 949.9,
+      "end": 956.96,
+      "text": "and what accountability looks like. The community members asserted a desire for meaningful city",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 956.96,
+      "end": 963.28,
+      "text": "participation by demanding a direct role in the oversight and regulation of the construction",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 963.28,
+      "end": 971.31,
+      "text": "and operation of data centers. Speaker 16 emphasized the necessity of community-led",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 971.31,
+      "end": 977.61,
+      "text": "monitoring, stating, who is going to be measuring did they expand past the existing footprint?",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 978.39,
+      "end": 987.68,
+      "text": "And it has to be us. It has to be the city. Speaker 50 also stated, I would certainly like",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 987.68,
+      "end": 995.46,
+      "text": "to stay on top of where this work is coming from and where it's going. However, the information",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 995.46,
+      "end": 1000.56,
+      "text": "asymmetry regarding the project between the community members and the local government",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1000.56,
+      "end": 1009.84,
+      "text": "officials was the primary catalyst for the conflict. So for instance, Speaker 49 said",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1009.84,
+      "end": 1018.14,
+      "text": "people want to believe in their leaders. But these days, especially trust is fragile and",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1018.14,
+      "end": 1026.04,
+      "text": "transparency is the only way forward. Despite the expressed desire for civic participation and",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1026.04,
+      "end": 1033.64,
+      "text": "agency, the administrative process failed to meet speakers' expectations. As these dynamics",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1033.64,
+      "end": 1040.6,
+      "text": "escalated, a profound distrust of the local government officials developed, reaching the",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1040.6,
+      "end": 1048.98,
+      "text": "extent of explicit accusation and moral condemnation. So, for instance, Speaker 7D",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1048.98,
+      "end": 1057.2,
+      "text": "stated, one individual, the mayor, went behind the backs of many people to sell out our community",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1057.2,
+      "end": 1065.6,
+      "text": "for DICTA. So to synthesize, throughout the public comment periods, the speakers regularly surfaced",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1065.6,
+      "end": 1072.4,
+      "text": "concerns about the data center-related municipal processes. They expressed concerns around the",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1072.4,
+      "end": 1080.96,
+      "text": "initial zoning determination, public input and notice, and also community benefits of remit",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1080.96,
+      "end": 1088.34,
+      "text": "development. So I'm going to share the other two thematic categories. And so the first one,",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1088.34,
+      "end": 1095.08,
+      "text": "as you see here, is noise pollution. One consistent theme during resident remarks",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1095.08,
+      "end": 1103.38,
+      "text": "was concern about noise and air pollution emanating from data centers. Many residents",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1103.38,
+      "end": 1111.74,
+      "text": "utilize news articles, personal experiences, and stories from loved ones in other parts of the",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1111.74,
+      "end": 1121.04,
+      "text": "country to emphasize the significant impact data centers have on noise quality. In one example,",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1121.04,
+      "end": 1130.38,
+      "text": "one speaker on July 22nd shared, air cooling could mean significant noise pollution for anyone",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1130.38,
+      "end": 1139.56,
+      "text": "living within a quarter mile of it. The decibels could reach well over those considered safe for",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1139.56,
+      "end": 1149.2,
+      "text": "humans near air-cooled data centers. Many residents also expressed concerns that current laws in",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1149.2,
+      "end": 1157.38,
+      "text": "Pennsylvania are not sufficient to provide accountability for corporations when running",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1157.38,
+      "end": 1167.8,
+      "text": "data centers. Residents were also concerned about how data centers will exacerbate existing air",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1167.8,
+      "end": 1175.72,
+      "text": "quality challenges in Lancaster. They were particularly focused on how declining air quality",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1175.72,
+      "end": 1183.88,
+      "text": "may prohibit them from enjoying recreational activities. One resident shared at a municipal",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1183.88,
+      "end": 1191.64,
+      "text": "meeting on August 6th. Who here? Raise your hand. Has gone to a concert in the park in the summertime.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1192.3,
+      "end": 1199.76,
+      "text": "All right. Raise your hand if you went this summer. Yeah, a lot of us. Like we were, we really use",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1199.76,
+      "end": 1207.14,
+      "text": "every single resource, every single green space that's available to us here to get fresh air,",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1207.14,
+      "end": 1210.72,
+      "text": "to get away from the chaos of the city.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1211.52,
+      "end": 1216.32,
+      "text": "Many residents also mentioned they moved to Lancaster",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1216.32,
+      "end": 1220.62,
+      "text": "because of some of the landscape and outdoor options.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1220.62,
+      "end": 1224.44,
+      "text": "So a data center that weakens the air quality",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1224.44,
+      "end": 1227.98,
+      "text": "of the community could have a significant impact",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1227.98,
+      "end": 1229.52,
+      "text": "on their daily life.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1230.94,
+      "end": 1234.86,
+      "text": "Also within the health and wellness findings,",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1234.86,
+      "end": 1240.72,
+      "text": "we see residents concerned about their actual health.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1241.24,
+      "end": 1245.72,
+      "text": "Many residents cited examples from other places in Pennsylvania",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1245.72,
+      "end": 1250.68,
+      "text": "and other states like Maryland and New York and New Jersey and Delaware",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1250.68,
+      "end": 1256.52,
+      "text": "to emphasize the detrimental effect data centers could have on their health.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1257.06,
+      "end": 1260.92,
+      "text": "Some individuals cited sources such as Time Magazine",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1260.92,
+      "end": 1269.98,
+      "text": "to accentuate potential respiratory, digestive, and long-term health consequences of data centers",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1269.98,
+      "end": 1278.28,
+      "text": "in their community. In the example I have here, one of the residents points to media coverage",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1278.28,
+      "end": 1285.9,
+      "text": "that focuses on health and data centers. We're seeing that now as more and more of these",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1285.9,
+      "end": 1302.12,
+      "text": "Facilities make national headlines for churning out enormous amounts of greenhouse gases and other compounds inextricably linked to cancer and cardiovascular and respiratory diseases.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1302.8,
+      "end": 1314.0,
+      "text": "Some residents cited concerns about other conditions as well, such as migraines, asthma, heart attacks, and sleep issues.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1314.0,
+      "end": 1339.84,
+      "text": "And finally, kind of going a little bit deeper into the concerns about health and well-being, many residents emphasized that the opportunity costs associated with data centers were nominal when it comes to the potential health consequences of building these centers in their community.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1339.84,
+      "end": 1346.98,
+      "text": "They often use language such as trade or exchange to highlight this imbalance.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1347.96,
+      "end": 1359.16,
+      "text": "Here is in this example, one resident says, I can't eat money and I can't breathe money and nobody else here can.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1359.84,
+      "end": 1365.02,
+      "text": "Another resident on October 6th expresses a similar concern.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1365.02,
+      "end": 1380.02,
+      "text": "There's no amount of financial benefit offered by these data centers that could conceivably offset the corresponding detriment to public health and welfare.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1380.02,
+      "end": 1389.38,
+      "text": "And so, again, we see these imbalances between what might be the benefits offered and what",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1389.38,
+      "end": 1395.38,
+      "text": "residents may have in long-term consequences when it comes to data centers.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1395.46,
+      "end": 1398.96,
+      "text": "And we'll discuss that a little bit more with the discussions as well.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1399.8,
+      "end": 1406.84,
+      "text": "So moving on to our final theme, we're looking at power dynamics and inequality.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1406.84,
+      "end": 1421.23,
+      "text": "Similar to the health concerns in theme three, residents often try to highlight the incongruity between the benefits and negative impacts of data centers.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1421.23,
+      "end": 1432.31,
+      "text": "On July 22nd, a resident tried to advocate for wildlife by asking, have they done any studies on animal impact?",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1432.31,
+      "end": 1439.53,
+      "text": "There are many, many, many migratory birds that are in Longs Park.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1439.97,
+      "end": 1440.85,
+      "text": "Are they affected?",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1442.2,
+      "end": 1452.2,
+      "text": "Residents often try to emphasize the impact of data centers on non-human entities and vulnerable populations.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1453.39,
+      "end": 1461.07,
+      "text": "And also, residents often challenge the management of resources within their community.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1461.07,
+      "end": 1469.77,
+      "text": "Many developers of data centers used the promise of new job opportunities to incentivize",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1469.77,
+      "end": 1478.29,
+      "text": "these projects. In response to that, residents indicated that there were already existing job",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1478.29,
+      "end": 1486.55,
+      "text": "opportunities in their communities for restoring potholes and other issues that they have within",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1486.55,
+      "end": 1493.39,
+      "text": "their community. And one resident remarked on this on November 20th. I think a majority of the people",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1493.39,
+      "end": 1500.09,
+      "text": "in this town want to see you get jobs, but for housing projects. We want to talk about housing",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1500.09,
+      "end": 1510.16,
+      "text": "projects and developing a community. In many cases, there was overlap between how materials",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1510.16,
+      "end": 1517.38,
+      "text": "and resources utilized in AI data centers connected with the political, economic,",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1517.38,
+      "end": 1526.16,
+      "text": "and personal implications of data centers. Residents also often focused on how previous",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1526.16,
+      "end": 1534.98,
+      "text": "systematic practices of wealth and power may predict the long-term effects of data centers",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1534.98,
+      "end": 1544.36,
+      "text": "in the community of Lancaster. In many cases, residents emphasize the misalignment between the",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1544.36,
+      "end": 1552.7,
+      "text": "benefits and harms of AI data centers. We saw that in some of the examples I referenced earlier",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1552.7,
+      "end": 1559.64,
+      "text": "about individuals feeling that their health will be sacrificed for the economic benefits",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1559.64,
+      "end": 1568.1,
+      "text": "of a data center. Giselle also mentioned in some of her earlier themes, how residents may also",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1568.1,
+      "end": 1575.9,
+      "text": "inherit some of the financial costs associated with the energy used to run AI data centers.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1576.66,
+      "end": 1585.02,
+      "text": "Also, the fossil fuel usage and impact on wildlife is not worth the minimal economic incentives as",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1585.02,
+      "end": 1594.16,
+      "text": "well. So moving on to our implications. Across these themes, we see AI infrastructures as",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1594.16,
+      "end": 1604.21,
+      "text": "politically consequential. Public commenters are not just reacting. They are reasoning across",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1604.21,
+      "end": 1613.75,
+      "text": "environmental, economic, and ethical scales. They are producing knowledge about AI's value chain",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1613.75,
+      "end": 1619.65,
+      "text": "and its uneven distribution of cost and benefit.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1620.25,
+      "end": 1630.19,
+      "text": "This raises important questions about expertise, participation, and justice in AI governance.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1630.99,
+      "end": 1639.19,
+      "text": "And so now Giselle is going to share a little bit more about the limitations and some of our future work.",
+      "speaker": "SPEAKER_05"
+    },
+    {
+      "start": 1639.19,
+      "end": 1648.47,
+      "text": "In terms of limitation of our project, our positionality as outsiders to the setting is one of the primary limitations.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1649.51,
+      "end": 1655.07,
+      "text": "Also, as the source of the data is recorded live stream videos of municipal meetings,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1655.65,
+      "end": 1661.09,
+      "text": "they are not empirically validated descriptions of data center impacts,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1661.09,
+      "end": 1672.79,
+      "text": "but rather narrative accounts that reveal how community members interpret, contest, and attribute meaning to AI infrastructure in their local context.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1673.31,
+      "end": 1688.31,
+      "text": "Moving forward, we expand our analysis to examine how concerns are discursively framed with particular attention to how languages in use construct coalitions, as illustrated in the following example.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1688.31,
+      "end": 1700.75,
+      "text": "I don't have any children, but I care about your kids, and I'm not willing to sign them up to be a real-time experiment of how much poison air you can breathe.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1702.03,
+      "end": 1705.45,
+      "text": "I hope that you guys aren't willing to do that either.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1705.71,
+      "end": 1719.02,
+      "text": "In addition, we take into account Pennsylvania's role within the national energy system to understand how AI infrastructure intersects with regional energy systems.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1719.4,
+      "end": 1729.74,
+      "text": "This includes its role as an energy exporter, the historical and current significance of liquefied natural gas and nuclear energy,",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1729.74,
+      "end": 1743.86,
+      "text": "and the ways in which large load interconnections place stress on a system with an already long queue dominated by renewable energy projects.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1743.86,
+      "end": 1753.86,
+      "text": "Lastly, we aim to conduct participatory, community-engaged research to better align our work with residents' priorities.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1753.86,
+      "end": 1769.05,
+      "text": "We will reflect on the question of what does it mean to create partnerships with community members while navigating historically uneven ways that university-based partnerships can dominate community spaces.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1769.05,
+      "end": 1776.43,
+      "text": "We will care about processes of partnering to enable collective transformative agency.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1777.43,
+      "end": 1788.21,
+      "text": "Lastly, as a conclusion, our work intends to support sustainable community futures with the present AI technology.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1788.21,
+      "end": 1809.31,
+      "text": "So we assert here today, AI infrastructures are not abstract, neutral, or despatialized like the word cloud. Rather, they're physically, socially, effectively tied to space and are politically consequential. Thank you so much.",
+      "speaker": "SPEAKER_01"
+    },
+    {
+      "start": 1809.31,
+      "end": 1814.31,
+      "text": "Yes. Hi. So my name is Dr. Ray. I'm one of the PIs in the lab and I'll be answering questions.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1814.41,
+      "end": 1819.27,
+      "text": "Thank you so much, Jusil and Chris, for doing this presentation. Can we give them another",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1819.27,
+      "end": 1824.37,
+      "text": "round of applause because there are graduates who've been on the project and they so graciously",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1824.37,
+      "end": 1829.77,
+      "text": "took on the task of preparing this for you all. So I see one question in the chat that I'll just",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1829.77,
+      "end": 1835.59,
+      "text": "begin with and then we can have a question and answer session. Melissa Cray, I see your question",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1835.59,
+      "end": 1840.29,
+      "text": "in the chat, and I'll just begin that. It says, what proportion of the data centers in PA are",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1840.29,
+      "end": 1847.65,
+      "text": "supporting AI versus other types of cloud storage data? So I really appreciate that question. And I",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1847.65,
+      "end": 1852.83,
+      "text": "think that points to, so my quick answer is, I am not sure. But the sort of background of that is",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1852.83,
+      "end": 1857.65,
+      "text": "kind of like what drew us to this project altogether. We started from this, again, our",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1857.65,
+      "end": 1861.37,
+      "text": "background is in learning design and technology. We care a lot about how people learn and the",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1861.37,
+      "end": 1867.41,
+      "text": "processes of that studying and designing to you know enhance those processes of learning and so",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1867.41,
+      "end": 1871.09,
+      "text": "when we came from the perspective of what does it look like how are people learning about these",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1871.09,
+      "end": 1877.61,
+      "text": "projects they were often learning about this either after um the project was built or after",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1877.61,
+      "end": 1882.81,
+      "text": "deeds were secured and like development was ongoing like the one example that we presented",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1882.81,
+      "end": 1888.65,
+      "text": "today in Lancaster City there's also this issue of not having a real centralized location because",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1888.65,
+      "end": 1893.89,
+      "text": "these are all different developers. You have like Microsoft, like AI Campus, you have other",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1893.89,
+      "end": 1897.83,
+      "text": "developers that folks have never seen, limited liability companies that kind of like pop up and",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1897.83,
+      "end": 1902.89,
+      "text": "then say or not say what they're doing. And so what had happened in the Lancaster case is that",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1902.89,
+      "end": 1910.11,
+      "text": "there was a deed purchased by a limited liability company that was in the register and was reported",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1910.11,
+      "end": 1916.25,
+      "text": "in the paper, but the sort of plans for it to be an AI data center were initially in this case",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1916.25,
+      "end": 1921.87,
+      "text": "listed but in many other cases not listed so to answer your question melissa there i personally",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1921.87,
+      "end": 1927.07,
+      "text": "am not sure how you would do that unless you started to as i mentioned about amelia dota and",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1927.07,
+      "end": 1934.11,
+      "text": "others who are working kind of like to crowdsource this information so i really want to shout out",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1934.11,
+      "end": 1941.93,
+      "text": "amelia um who is a friend of the lab but again she has she's a she has a regular job um but she",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1941.93,
+      "end": 1946.19,
+      "text": "kind of like is working behind the scenes and the way she learned about this is how i learned about",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1946.19,
+      "end": 1953.13,
+      "text": "this was on Facebook. So we were following Facebook groups and kind of seeing so many",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1953.13,
+      "end": 1958.51,
+      "text": "questions about like, does anybody know about this? What's going on? Which to us alerted to",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1958.51,
+      "end": 1963.33,
+      "text": "a systemic problem of not having a lot of information and not a central source of",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1963.33,
+      "end": 1967.55,
+      "text": "information about what's going on. So because there's so many developers, there's some developers",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1967.55,
+      "end": 1972.47,
+      "text": "that are going and we can talk a little bit about sort of the PA governance structures that are",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1972.47,
+      "end": 1976.93,
+      "text": "supporting this there are some projects that are going through the fast track program in pennsylvania",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1976.93,
+      "end": 1984.49,
+      "text": "that are some and the lancaster case is actually really novel because we have not yet seen another",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1984.49,
+      "end": 1993.17,
+      "text": "sort of community or municipality um developer agreement like that for data centers or like",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1993.17,
+      "end": 1997.91,
+      "text": "other projects in the united states that are like this not to say that there isn't but we've just",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 1997.91,
+      "end": 2002.11,
+      "text": "we've been tracking this and you know we're trying to build and that's some of our work to build sort",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2002.11,
+      "end": 2009.07,
+      "text": "of data sets and information sources for folks to answer questions like that so that was a long",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2009.07,
+      "end": 2014.08,
+      "text": "winded answer to your question but i hope that that helps a lot so yeah maybe maybe a follow-up",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2014.08,
+      "end": 2019.96,
+      "text": "on that did the people that um made comments make a distinction between ai data centers versus cloud",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2019.96,
+      "end": 2025.58,
+      "text": "storage or was it was it all kind of the same in their mind so that's a really interesting question",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2025.58,
+      "end": 2032.28,
+      "text": "because we saw that there was sometimes an overlap between um the data center as existing as an",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2032.28,
+      "end": 2038.66,
+      "text": "entity that is for cloud sort of computing right generally like how residents were talking about it",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2038.66,
+      "end": 2047.12,
+      "text": "there was also really strong stances about ai because of what uh folks have um sort of",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2047.12,
+      "end": 2054.74,
+      "text": "discursively constructed ai as and also other uses of like computational means broadly like i'll say",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2054.74,
+      "end": 2061.12,
+      "text": "things like bitcoin mining or something like that there was definitely um i will say um when those",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2061.12,
+      "end": 2068.76,
+      "text": "were identified as use cases for it, a particular orientation to the data center. I don't know if",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2068.76,
+      "end": 2075.32,
+      "text": "in our data, we could like accurately pinpoint a difference. But just to say that when folks were",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2075.32,
+      "end": 2083.94,
+      "text": "noticed, like pointing to the use of this for AI technologies, there was a particular orientation,",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2084.34,
+      "end": 2090.42,
+      "text": "one that we want to sort of follow up on, and that's our future work. But I would say the AI",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2090.42,
+      "end": 2097.32,
+      "text": "data the ai technologies plus like bitcoin mining at an association that community members",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2097.32,
+      "end": 2103.84,
+      "text": "particularly link that to yeah thank you very much for your presentation sure um just uh more",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2103.84,
+      "end": 2110.98,
+      "text": "a suggestion or yeah that question uh yeah it's maybe if you are not having an approach maybe you",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2110.98,
+      "end": 2119.8,
+      "text": "can use uh energy justice strategy or methodology to approach for the program because it's so close",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2119.8,
+      "end": 2121.46,
+      "text": "about what you're doing,",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2121.72,
+      "end": 2123.22,
+      "text": "a couple of photos,",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2123.9,
+      "end": 2125.94,
+      "text": "Sobacol and Dorking",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2125.94,
+      "end": 2127.92,
+      "text": "and Macaulay",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2127.92,
+      "end": 2129.22,
+      "text": "and I can't remember the rest of the name.",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2129.54,
+      "end": 2131.92,
+      "text": "It can be so useful for you, the analysis",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2131.92,
+      "end": 2133.68,
+      "text": "of your situation. So just",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2133.68,
+      "end": 2135.78,
+      "text": "a suggestion. I so",
+      "speaker": "SPEAKER_02"
+    },
+    {
+      "start": 2135.78,
+      "end": 2137.7,
+      "text": "appreciate that and I'd love to connect afterwards.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2137.98,
+      "end": 2139.7,
+      "text": "So part of what I said earlier",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2139.7,
+      "end": 2141.64,
+      "text": "in the beginning of this was that our group is",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2141.64,
+      "end": 2143.64,
+      "text": "very lean, but very grant",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2143.64,
+      "end": 2145.88,
+      "text": "oriented. And so one opportunity",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2145.88,
+      "end": 2147.68,
+      "text": "that we looked for was actually",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2147.68,
+      "end": 2149.72,
+      "text": "in the energy sector, which as again, we're",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2149.72,
+      "end": 2156.94,
+      "text": "more in i would say traditionally the things that we think about are learning in classroom settings",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2156.94,
+      "end": 2162.76,
+      "text": "and in formal context so this is a it's a stretch area for us but in preparing for that or was like",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2162.76,
+      "end": 2169.08,
+      "text": "okay energy systems is definitely a place that i see our learning frameworks intersecting so",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2169.08,
+      "end": 2172.78,
+      "text": "nicely within so we mentioned so it was like oh yeah i remember reading that for that so",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2172.78,
+      "end": 2178.82,
+      "text": "we are definitely moving in that direction and so some of this uh study of thinking about you know",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2178.82,
+      "end": 2184.82,
+      "text": "Pennsylvania's energy history and infrastructures thinking about the more recent it wasn't included",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2184.82,
+      "end": 2191.18,
+      "text": "in this talk but Pennsylvania also or that community in Lancaster County had also recently",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2191.18,
+      "end": 2196.7,
+      "text": "been navigating a liquefied natural gas pipeline infrastructure in their community and so how does",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2196.7,
+      "end": 2202.28,
+      "text": "the historical sort of contestations of infrastructure broadly so I'm just kind of",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2202.28,
+      "end": 2206.5,
+      "text": "like saying a lot to say I'd love to connect and that's definitely a direction that we want to",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2206.5,
+      "end": 2210.34,
+      "text": "pursue in the future. Okay, so I'm just going to read some of the questions out in the chat. I'll",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2210.34,
+      "end": 2214.94,
+      "text": "voice them for you all. Are there municipal requirements in Lancaster or other PA cities",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2214.94,
+      "end": 2220.54,
+      "text": "to disclose key utility metrics, e.g. water consumption? Thank you for that question,",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2220.68,
+      "end": 2227.48,
+      "text": "Eben. To my knowledge, the sort of requirements vary from municipality to municipality towards",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2227.48,
+      "end": 2232.48,
+      "text": "the sort of overlying, at least in Pennsylvania, again, this is kind of like from our early",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2232.48,
+      "end": 2240.28,
+      "text": "analysis what we found is that the department of environmental protections is where a lot of",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2240.28,
+      "end": 2246.18,
+      "text": "concerns about utilities metrics like water and things like that kind of like get pushed to and",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2246.18,
+      "end": 2251.9,
+      "text": "so i am curious because this is sort of we've been keeping on top because this is very quickly",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2251.9,
+      "end": 2260.0,
+      "text": "developing this is literally today i saw a news article about governor shapiro's grid program if",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2260.0,
+      "end": 2266.22,
+      "text": "you've heard of that but grid is the sort of policy that governor shapiro in pennsylvania",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2266.22,
+      "end": 2274.82,
+      "text": "has proposed to sort of allow data center developers to fast track their um program or",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2274.82,
+      "end": 2281.76,
+      "text": "their their projects by supporting that municipal process like making that easier which would",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2281.76,
+      "end": 2288.34,
+      "text": "actually um reduce community members like a big ability to have oversight over this in terms of",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2288.34,
+      "end": 2295.54,
+      "text": "key utilities metrics, I believe that the grid did have like permitting about water usage. So",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2295.54,
+      "end": 2302.54,
+      "text": "that grid and the DEP sort of ongoing regulations is what I personally only know at this point.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2303.18,
+      "end": 2308.1,
+      "text": "All right, going down, I see Ari. Hi, Ari. Fantastic presentation. Love to hear a little",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2308.1,
+      "end": 2313.26,
+      "text": "bit more about what audiences you have in mind for sharing your findings and how would you like",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2313.26,
+      "end": 2318.7,
+      "text": "these findings to be taken up? Much appreciation for the question, Ari. As I mentioned, so just",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2318.7,
+      "end": 2324.72,
+      "text": "kind of like a brief background, my experience, I was a former high school physics and engineering",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2324.72,
+      "end": 2330.48,
+      "text": "teacher. And my interest and like background, I've been doing, I do middle school sort of like",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2330.48,
+      "end": 2335.64,
+      "text": "ways to expand what counts as science learning. So that's kind of like my experience as a classroom",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2335.64,
+      "end": 2340.72,
+      "text": "teacher. And so I am very firmly my identities in the education space. But when this was happening,",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2340.72,
+      "end": 2362.36,
+      "text": "We saw a really potent opportunity to sort of bridge some of the work that I do in community development work to supporting something that was like an ongoing space that I saw so much opportunity for things like citizen science, monitoring and developing sort of dashboards and community metrics to support learning in this setting.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2362.36,
+      "end": 2366.36,
+      "text": "so I mean it's still learning like learning happens learning sciences studies learning",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2366.36,
+      "end": 2373.14,
+      "text": "across the lifespan across the settings and Ari is a fellow learning scientist so to Ari and to",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2373.14,
+      "end": 2378.95,
+      "text": "others I see our folk our focus definitely in that space and just to get like for the learning",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2378.95,
+      "end": 2383.47,
+      "text": "scientists in the audience I think there's a really cool opportunity to think about scale",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2383.47,
+      "end": 2389.41,
+      "text": "like learning and scale in a way that's really interesting that our field I think because we do",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2389.41,
+      "end": 2394.25,
+      "text": "work in classroom settings, like we do some like policy work, thinking about learning and scale",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2394.25,
+      "end": 2401.15,
+      "text": "is an ongoing conversation. And so when you're thinking about hyperlocal dynamics that connect",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2401.15,
+      "end": 2406.93,
+      "text": "with regional governance that connects with like federal policy that connects with what's happening",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2406.93,
+      "end": 2412.59,
+      "text": "in the majority world, because these are not only like data center, the AI data center boom is not",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2412.59,
+      "end": 2416.97,
+      "text": "only within the United States. I think that's a really interesting opportunity that I'd love to",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2416.97,
+      "end": 2423.35,
+      "text": "speak to also in the socio um the science and technology studies field as well so those are",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2423.35,
+      "end": 2428.55,
+      "text": "folks that think really carefully about the conduct of science um and how it's a real social",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2428.55,
+      "end": 2434.91,
+      "text": "endeavor uh not necessarily just kind of like the reports that exist and are shared um but i'd love",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2434.91,
+      "end": 2440.93,
+      "text": "for it to also have a space again in the energy world um and i think ongoing in spaces like this",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2440.93,
+      "end": 2446.83,
+      "text": "which is super interdisciplinary so i'm again so gracious so grateful that we had the opportunity",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2446.83,
+      "end": 2454.48,
+      "text": "to present in this space which is not our traditional setting okay Catherine has there",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2454.48,
+      "end": 2459.08,
+      "text": "been any connection with county planning commissions to compare contrast how each",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2459.08,
+      "end": 2464.54,
+      "text": "county is approaching their future planning goals in terms of data centers that's a great question",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2464.54,
+      "end": 2471.96,
+      "text": "um so it's so fragmented but also together in a sense so we're actually trying to think about",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2471.96,
+      "end": 2478.89,
+      "text": "what does it look like so not necessarily and i think going to county to county is or county or",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2478.89,
+      "end": 2485.9,
+      "text": "municipality to municipality is super important i know ferguson county is currently um thinking",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2485.9,
+      "end": 2491.72,
+      "text": "about i don't think i don't believe that there are any active data centers planned for ferguson",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2491.72,
+      "end": 2495.74,
+      "text": "uh township but i know that they're active the planning commission is actively thinking about",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2495.74,
+      "end": 2502.92,
+      "text": "the zoning any zoning amendments for data centers so contact your local this is definitely the time",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2502.92,
+      "end": 2508.28,
+      "text": "to be engaged in sort of local negotiations of this but there is as I've learned and again this",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2508.28,
+      "end": 2513.44,
+      "text": "is all learning this is a stretch it's a location of stretch but there's like a like a commission",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2513.44,
+      "end": 2519.46,
+      "text": "for planning in Pennsylvania and so we we plan to sort of leverage our university role to be able",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2519.46,
+      "end": 2524.44,
+      "text": "to sort of chat with folks to think about what this looks like because there's also legislation",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2524.44,
+      "end": 2533.66,
+      "text": "that's proposed in Pennsylvania that would make the municipal process more uniform which would",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2533.66,
+      "end": 2540.88,
+      "text": "again disempower communities to be able to do that oversight and awareness so I hope I've answered",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2540.88,
+      "end": 2544.86,
+      "text": "or talked a little bit about your question Catherine but again if any folks want to reach",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2544.86,
+      "end": 2556.39,
+      "text": "out to us directly we would love to be in connection. Hi. Oh awesome thanks.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 2556.45,
+      "end": 2582.1,
+      "text": "Yeah, I really appreciate that question.",
+      "speaker": "SPEAKER_03"
+    },
+    {
+      "start": 2582.92,
+      "end": 2585.5,
+      "text": "My background is not in law or policy,",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2585.5,
+      "end": 2604.0,
+      "text": "But I would, our work, we see our work as trying to pivot to those arenas to leverage that expertise. Because I think I'll name kind of what's currently happening. And I would be interested to hear what sort of folks with the expertise in law and policy have to say about this.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2604.0,
+      "end": 2622.73,
+      "text": "Because it's so fragmented in the sense that this is happening municipality by municipality, residents of those municipalities are kind of like experiencing either the support from their governed elected officials and sort of navigating this or kind of like the developer's whim.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2622.73,
+      "end": 2635.87,
+      "text": "But in Lancaster City, that was the only time that we had saw the negotiation. And so we didn't really talk about it here. But the process of negotiating the community benefits agreement is a whole thing of itself.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2635.87,
+      "end": 2658.34,
+      "text": "Once it was made clear that the zoning was made correctly, or however they determined that, or that they weren't going to change that zoning determination, and that their only sort of means were to have this community development, they called it a community benefits agreement, but it was a community developer agreement.",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2658.34,
+      "end": 2663.76,
+      "text": "it's a legal language and it was so interesting i actually have because we were following this",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2663.76,
+      "end": 2669.34,
+      "text": "and collecting documents the sort of original proposed cba i'll just call it cba for now",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2669.34,
+      "end": 2674.82,
+      "text": "which was just kind of like a like a list i think it was like a five-page list of just general things",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2674.82,
+      "end": 2680.92,
+      "text": "and so the community members i think were given a month or two to respond and then the final",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2680.92,
+      "end": 2686.68,
+      "text": "community benefits agreement was like 32 pages of legalese that they were given on tuesday to vote",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2686.68,
+      "end": 2693.86,
+      "text": "on Thursday and so we're trying to like the next phase of our project is mapping on because in that",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2693.86,
+      "end": 2700.8,
+      "text": "time space there were community members responding to that initial draft and like did it end up in",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2700.8,
+      "end": 2706.66,
+      "text": "that the community developed benefits agreement that's our next project but I would love to know",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2706.66,
+      "end": 2710.88,
+      "text": "again from those who have expertise about what it means to actually like have community participate",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2710.88,
+      "end": 2718.58,
+      "text": "in a real way that's not just token um how to support that with instruments like cbas in the",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2718.58,
+      "end": 2725.7,
+      "text": "future because now lancaster cba is now kind of being used as like oh like this is an example",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2725.7,
+      "end": 2731.0,
+      "text": "that you should look for but should we i don't know i would say that after i read the news article",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2731.0,
+      "end": 2737.78,
+      "text": "that the cba was agreed upon my expectation was that um oh yeah like the community members must",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2737.78,
+      "end": 2744.14,
+      "text": "be like really great about like feel really great but very highly contested meeting so definitely",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2744.14,
+      "end": 2752.98,
+      "text": "unresolved. I see the time I guess I should wrap up but if you have any other questions you can",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2752.98,
+      "end": 2756.28,
+      "text": "feel free to reach out to me directly I'll stay behind and share my contact information",
+      "speaker": "SPEAKER_04"
+    },
+    {
+      "start": 2756.28,
+      "end": 2760.38,
+      "text": "but thank you again so much for having us here I really appreciate your time and energy.",
+      "speaker": "SPEAKER_04"
+    }
+  ]
+}

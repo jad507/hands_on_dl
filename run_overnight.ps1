@@ -1,4 +1,5 @@
 $env:PYTHONUNBUFFERED = "1"
+$env:PYTHONUTF8 = "1"
 
 # Activate the LancasterClaude venv
 & "D:\Users\jad507\PycharmProjects\LancasterClaude\.venv\Scripts\Activate.ps1"
