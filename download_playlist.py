@@ -27,7 +27,8 @@ import yt_dlp
 from yt_dlp.utils import DateRange
 
 
-PLAYLIST_URL = "https://www.youtube.com/playlist?list=PLUQII5r8C6geSA2Dqrq783Si0H2ULsQya"
+# PLAYLIST_URL = "https://www.youtube.com/playlist?list=PLUQII5r8C6geSA2Dqrq783Si0H2ULsQya"
+PLAYLIST_URL = "https://www.youtube.com/playlist?list=PLjp6mGyg8T3wT7o-ADMyUsZK5u2d6FG2G"
 
 # Upload-date window. yt-dlp accepts either "YYYYMMDD" or relative forms like
 # "today-2years", "now-18months", "today-30days". Set either to None to leave
@@ -56,6 +57,7 @@ def _build_ydl_opts(
     transcript_dir: Path,
     metadata_dir: Path,
     start_at: int = 1,
+    cookie_file: Path | None = None,
 ) -> dict:
     opts: dict = {
         "paths": {
@@ -96,7 +98,9 @@ def _build_ydl_opts(
         # DateRange's runtime accepts "YYYYMMDD" or relative strings like
         # "today-2years"; the type stub claims it only takes `date` objects.
         opts["daterange"] = DateRange(DATE_AFTER, DATE_BEFORE)  # type: ignore[arg-type]
-    if COOKIES_FROM_BROWSER:
+    if cookie_file:
+        opts["cookiefile"] = str(cookie_file)
+    elif COOKIES_FROM_BROWSER:
         opts["cookiesfrombrowser"] = COOKIES_FROM_BROWSER
     if start_at > 1:
         # yt-dlp playlist_items spec is 1-indexed; "21:" means item 21 to end.
@@ -175,7 +179,12 @@ def _derive_audio_files(video_dir: Path, audio_dir: Path) -> None:
         )
 
 
-def main(out_root: Path, start_at: int = 1) -> None:
+def main(
+    out_root: Path,
+    start_at: int = 1,
+    urls: list[str] | None = None,
+    cookie_file: Path | None = None,
+) -> None:
     video_dir = out_root / "videos"
     audio_dir = out_root / "audio"
     transcript_dir = out_root / "transcripts"
@@ -183,15 +192,17 @@ def main(out_root: Path, start_at: int = 1) -> None:
     for d in (video_dir, audio_dir, transcript_dir, metadata_dir):
         d.mkdir(parents=True, exist_ok=True)
 
-    opts = _build_ydl_opts(video_dir, transcript_dir, metadata_dir, start_at=start_at)
+    opts = _build_ydl_opts(
+        video_dir, transcript_dir, metadata_dir,
+        start_at=start_at, cookie_file=cookie_file,
+    )
     with yt_dlp.YoutubeDL(opts) as ydl:
-        ydl.download([PLAYLIST_URL])
+        ydl.download(urls if urls else [PLAYLIST_URL])
 
     _derive_audio_files(video_dir, audio_dir)
 
 
 if __name__ == "__main__":
-    # run with python download_playlist.py --out C:\Users\Admin\Documents\Grants\SSRI --start-at 39
     parser = argparse.ArgumentParser(
         description="Download a YouTube playlist into video/audio/transcript/metadata folders."
     )
@@ -208,5 +219,31 @@ if __name__ == "__main__":
         metavar="N",
         help="resume at playlist item N (1-indexed; e.g. --start-at 21 to skip the first 20)",
     )
+    parser.add_argument(
+        "--cookies-file",
+        type=Path,
+        metavar="FILE",
+        help="Netscape cookies.txt exported from your browser (passes straight to yt-dlp)",
+    )
+    parser.add_argument(
+        "--urls-file",
+        type=Path,
+        metavar="FILE",
+        help="text file with one YouTube URL per line; overrides the built-in PLAYLIST_URL",
+    )
     args = parser.parse_args()
-    main(args.out.resolve(), start_at=args.start_at)
+
+    download_urls = None
+    if args.urls_file:
+        download_urls = [
+            line.strip()
+            for line in args.urls_file.read_text(encoding="utf-8").splitlines()
+            if line.strip() and not line.startswith("#")
+        ]
+
+    main(
+        args.out.resolve(),
+        start_at=args.start_at,
+        urls=download_urls,
+        cookie_file=args.cookies_file,
+    )
