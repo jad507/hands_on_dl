@@ -23,16 +23,30 @@ import argparse
 import subprocess
 from pathlib import Path
 
+import os
+
 import yt_dlp
 from yt_dlp.utils import DateRange
 
 
-PLAYLIST_URL = "https://www.youtube.com/playlist?list=PLUQII5r8C6geSA2Dqrq783Si0H2ULsQya"
+PLAYLIST_URL = "https://www.youtube.com/@CityofLancasterPAGov/streams"
+
+# Deno is required by yt-dlp for YouTube JS challenge solving.
+# WinGet installs it here but doesn't always propagate to child processes.
+_DENO_WINGET = Path(os.environ.get("LOCALAPPDATA", "")) / (
+    "Microsoft/WinGet/Packages/"
+    "DenoLand.Deno_Microsoft.Winget.Source_8wekyb3d8bbwe/deno.exe"
+)
+if _DENO_WINGET.exists():
+    _deno_str = str(_DENO_WINGET)
+    os.environ["PATH"] = str(_DENO_WINGET.parent) + os.pathsep + os.environ.get("PATH", "")
+else:
+    _deno_str = "deno"   # fall back to whatever is on PATH
 
 # Upload-date window. yt-dlp accepts either "YYYYMMDD" or relative forms like
 # "today-2years", "now-18months", "today-30days". Set either to None to leave
 # that side of the window open.
-DATE_AFTER: str | None = "today-2years"
+DATE_AFTER: str | None = "20241231"   # 2025 and later
 DATE_BEFORE: str | None = None
 
 # Browser cookie source for YouTube auth. Leave as None to download anonymously
@@ -55,6 +69,7 @@ def _build_ydl_opts(
     video_dir: Path,
     transcript_dir: Path,
     metadata_dir: Path,
+    archive_file: Path,
     start_at: int = 1,
 ) -> dict:
     opts: dict = {
@@ -75,6 +90,12 @@ def _build_ydl_opts(
         "subtitlesformat": "srt/vtt/best",
         "writeinfojson": True,
         "ignoreerrors": True,
+        # Persist downloaded-video IDs so repeat runs skip them instantly
+        # without re-checking file existence for every item in the playlist.
+        "download_archive": str(archive_file),
+        # Point yt-dlp at Deno for YouTube JS challenge solving.
+        # Format: {runtime_name: {config}} per yt-dlp YoutubeDL.__init__ docs.
+        "js_runtimes": {"deno": {"path": _deno_str}},
         # Polite throttling — looks more human, dodges most rate gates.
         # Adds roughly (sleep_interval to max_sleep_interval) seconds between
         # video downloads, plus sleep_interval_requests between metadata calls.
@@ -183,7 +204,8 @@ def main(out_root: Path, start_at: int = 1) -> None:
     for d in (video_dir, audio_dir, transcript_dir, metadata_dir):
         d.mkdir(parents=True, exist_ok=True)
 
-    opts = _build_ydl_opts(video_dir, transcript_dir, metadata_dir, start_at=start_at)
+    archive_file = out_root / "downloaded.txt"
+    opts = _build_ydl_opts(video_dir, transcript_dir, metadata_dir, archive_file, start_at=start_at)
     with yt_dlp.YoutubeDL(opts) as ydl:
         ydl.download([PLAYLIST_URL])
 
