@@ -1,0 +1,22 @@
+{
+  "mode": "exclusive",
+  "speaker_count": 14,
+  "speakers": {
+    "SPEAKER_00": 123.761,
+    "SPEAKER_01": 201.234,
+    "SPEAKER_02": 400.359,
+    "SPEAKER_03": 10.884,
+    "SPEAKER_04": 72.107,
+    "SPEAKER_05": 67.821,
+    "SPEAKER_06": 144.366,
+    "SPEAKER_07": 100.423,
+    "SPEAKER_08": 18.158,
+    "SPEAKER_09": 407.616,
+    "SPEAKER_10": 4.843,
+    "SPEAKER_11": 39.842,
+    "SPEAKER_12": 319.697,
+    "SPEAKER_13": 165.139
+  },
+  "total_speech_duration_s": 2076.249,
+  "overlap_duration_s": 0.0
+}

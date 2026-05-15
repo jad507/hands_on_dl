@@ -1,0 +1,20 @@
+{
+  "mode": "exclusive",
+  "speaker_count": 12,
+  "speakers": {
+    "SPEAKER_00": 40.112,
+    "SPEAKER_01": 55.266,
+    "SPEAKER_02": 326.413,
+    "SPEAKER_03": 871.577,
+    "SPEAKER_04": 66.791,
+    "SPEAKER_05": 383.029,
+    "SPEAKER_06": 20.706,
+    "SPEAKER_07": 896.991,
+    "SPEAKER_08": 346.359,
+    "SPEAKER_09": 354.561,
+    "SPEAKER_10": 10.311,
+    "SPEAKER_11": 75.431
+  },
+  "total_speech_duration_s": 3447.546,
+  "overlap_duration_s": 0.0
+}
