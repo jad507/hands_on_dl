@@ -1,0 +1,1066 @@
+{
+  "file": "City Council Meeting - August 26, 2025 [WImQYrQa0EM]",
+  "rttm_mode": "standard",
+  "settings": {
+    "max_gap_s": 30.0,
+    "recurring_threshold_s": 180.0,
+    "avg_segment_threshold_s": 15.0
+  },
+  "speaker_classification": {
+    "SPEAKER_00": {
+      "category": "commenter_candidate",
+      "total_speech_s": 40.0,
+      "block_count": 1,
+      "segment_count": 6,
+      "avg_segment_s": 6.7,
+      "word_count": 108
+    },
+    "SPEAKER_01": {
+      "category": "recurring",
+      "total_speech_s": 257.6,
+      "block_count": 2,
+      "segment_count": 45,
+      "avg_segment_s": 5.7,
+      "word_count": 507
+    },
+    "SPEAKER_02": {
+      "category": "commenter_candidate",
+      "total_speech_s": 156.5,
+      "block_count": 1,
+      "segment_count": 30,
+      "avg_segment_s": 5.2,
+      "word_count": 451
+    },
+    "SPEAKER_03": {
+      "category": "commenter_candidate",
+      "total_speech_s": 90.9,
+      "block_count": 2,
+      "segment_count": 20,
+      "avg_segment_s": 4.5,
+      "word_count": 216
+    },
+    "SPEAKER_04": {
+      "category": "recurring",
+      "total_speech_s": 211.6,
+      "block_count": 5,
+      "segment_count": 45,
+      "avg_segment_s": 4.7,
+      "word_count": 612
+    },
+    "SPEAKER_05": {
+      "category": "recurring",
+      "total_speech_s": 192.4,
+      "block_count": 2,
+      "segment_count": 39,
+      "avg_segment_s": 4.9,
+      "word_count": 607
+    },
+    "SPEAKER_06": {
+      "category": "recurring",
+      "total_speech_s": 182.6,
+      "block_count": 1,
+      "segment_count": 24,
+      "avg_segment_s": 7.6,
+      "word_count": 358
+    },
+    "SPEAKER_07": {
+      "category": "commenter_candidate",
+      "total_speech_s": 167.5,
+      "block_count": 12,
+      "segment_count": 37,
+      "avg_segment_s": 4.5,
+      "word_count": 278
+    },
+    "SPEAKER_08": {
+      "category": "commenter_candidate",
+      "total_speech_s": 110.4,
+      "block_count": 4,
+      "segment_count": 15,
+      "avg_segment_s": 7.4,
+      "word_count": 257
+    },
+    "SPEAKER_09": {
+      "category": "commenter_candidate",
+      "total_speech_s": 36.7,
+      "block_count": 1,
+      "segment_count": 6,
+      "avg_segment_s": 6.1,
+      "word_count": 103
+    },
+    "SPEAKER_10": {
+      "category": "commenter_candidate",
+      "total_speech_s": 169.8,
+      "block_count": 2,
+      "segment_count": 52,
+      "avg_segment_s": 3.3,
+      "word_count": 543
+    },
+    "SPEAKER_11": {
+      "category": "commenter_candidate",
+      "total_speech_s": 94.8,
+      "block_count": 1,
+      "segment_count": 19,
+      "avg_segment_s": 5.0,
+      "word_count": 342
+    },
+    "SPEAKER_12": {
+      "category": "commenter_candidate",
+      "total_speech_s": 78.0,
+      "block_count": 1,
+      "segment_count": 10,
+      "avg_segment_s": 7.8,
+      "word_count": 176
+    },
+    "SPEAKER_13": {
+      "category": "commenter_candidate",
+      "total_speech_s": 57.8,
+      "block_count": 1,
+      "segment_count": 9,
+      "avg_segment_s": 6.4,
+      "word_count": 138
+    },
+    "SPEAKER_14": {
+      "category": "recurring",
+      "total_speech_s": 456.4,
+      "block_count": 3,
+      "segment_count": 95,
+      "avg_segment_s": 4.8,
+      "word_count": 1245
+    },
+    "SPEAKER_15": {
+      "category": "recurring",
+      "total_speech_s": 1126.7,
+      "block_count": 33,
+      "segment_count": 208,
+      "avg_segment_s": 5.4,
+      "word_count": 2991
+    },
+    "SPEAKER_16": {
+      "category": "recurring",
+      "total_speech_s": 196.7,
+      "block_count": 1,
+      "segment_count": 32,
+      "avg_segment_s": 6.1,
+      "word_count": 465
+    },
+    "SPEAKER_17": {
+      "category": "recurring",
+      "total_speech_s": 183.7,
+      "block_count": 1,
+      "segment_count": 40,
+      "avg_segment_s": 4.6,
+      "word_count": 565
+    },
+    "SPEAKER_18": {
+      "category": "commenter_candidate",
+      "total_speech_s": 156.6,
+      "block_count": 1,
+      "segment_count": 30,
+      "avg_segment_s": 5.2,
+      "word_count": 490
+    },
+    "SPEAKER_19": {
+      "category": "commenter_candidate",
+      "total_speech_s": 44.2,
+      "block_count": 1,
+      "segment_count": 9,
+      "avg_segment_s": 4.9,
+      "word_count": 147
+    },
+    "SPEAKER_20": {
+      "category": "commenter_candidate",
+      "total_speech_s": 129.7,
+      "block_count": 1,
+      "segment_count": 17,
+      "avg_segment_s": 7.6,
+      "word_count": 282
+    },
+    "SPEAKER_21": {
+      "category": "commenter_candidate",
+      "total_speech_s": 161.5,
+      "block_count": 1,
+      "segment_count": 20,
+      "avg_segment_s": 8.1,
+      "word_count": 327
+    },
+    "SPEAKER_22": {
+      "category": "commenter_candidate",
+      "total_speech_s": 23.6,
+      "block_count": 1,
+      "segment_count": 1,
+      "avg_segment_s": 23.6,
+      "word_count": 7
+    }
+  },
+  "blocks": [
+    {
+      "block_id": 0,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 548.78,
+      "end": 639.53,
+      "duration_s": 90.8,
+      "segment_count": 21,
+      "word_count": 278,
+      "text": "good evening everyone i'm now calling to order this meeting of lancaster city council for august 26 2025 a few reminders at the top of the meeting this evening this meeting and its participants are being recorded please take a moment to silence your phones and devices if you haven't done so already during this meeting we will have opportunities for public comment the first general public comment period is for residents that have registered in advance to speak about items that are not on the agenda residents may also comment on individual items and our legislative agenda which is item 9 on the agenda tonight finally a second public comment period will be at the end of the agenda for any other speakers wishing to address council all speakers will be reminded to please begin with their name and their block of residents for our meeting record and address their comments toward council please be advised the public comment is not a question and answer period all comments are limited to three minutes per speaker and to keep time I will be using this light here it will turn green when the speaker begins it will flash yellow when there is one minute remaining and flash red when three minutes has been exhausted if a speaker continues after three minutes they will be asked to end their comments I appreciate everyone's cooperation in keeping equal time and maintaining order speakers addressing City Council members of the public and members of Council are are expected to conduct themselves in an orderly manner and remain respectful of others. And now for all of those who are willing and able,"
+    },
+    {
+      "block_id": 1,
+      "speaker": "SPEAKER_22",
+      "category": "commenter_candidate",
+      "start": 639.53,
+      "end": 663.1,
+      "duration_s": 23.6,
+      "segment_count": 1,
+      "word_count": 7,
+      "text": "please rise for the Pledge of Allegiance."
+    },
+    {
+      "block_id": 2,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 663.1,
+      "end": 666.5,
+      "duration_s": 3.4,
+      "segment_count": 1,
+      "word_count": 10,
+      "text": "Mr. Harris, would you please call the roll of members?"
+    },
+    {
+      "block_id": 3,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 666.5,
+      "end": 679.58,
+      "duration_s": 13.1,
+      "segment_count": 11,
+      "word_count": 21,
+      "text": "Yes, Madam President. Mr. Arroyo. Here. I'm sorry, Mr. Ahmed. Mr. Cleese. Here. Ms. Craig. Ms. Diaz. Here. Mr. Hirsch. Here."
+    },
+    {
+      "block_id": 4,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 679.58,
+      "end": 692.83,
+      "duration_s": 13.2,
+      "segment_count": 5,
+      "word_count": 31,
+      "text": "And President Beke. Here. Councilors Ahmed and Craig are excused this evening. We will move then to the approval of our minutes from the August 12th, 2025 regular meeting of council."
+    },
+    {
+      "block_id": 5,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 692.83,
+      "end": 694.91,
+      "duration_s": 2.1,
+      "segment_count": 2,
+      "word_count": 4,
+      "text": "Motion to approve. Second."
+    },
+    {
+      "block_id": 6,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 694.91,
+      "end": 704.02,
+      "duration_s": 9.1,
+      "segment_count": 3,
+      "word_count": 18,
+      "text": "We have a motion and a second. Councillors, any comments on our meeting minutes? Hearing none, Mr. Harris."
+    },
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 704.02,
+      "end": 712.76,
+      "duration_s": 8.7,
+      "segment_count": 7,
+      "word_count": 11,
+      "text": "Mr. Arroyo. Aye. Mr. Cleese. Aye. Ms. Diaz. Mr. Hirsch. Aye."
+    },
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 712.76,
+      "end": 815.41,
+      "duration_s": 102.6,
+      "segment_count": 20,
+      "word_count": 278,
+      "text": "And President Becker. Aye. Councillors, before we continue on with our agenda, I would like to ask your consent to move the report the president of council to this point in the meeting are there any objections from council thank you so much for that i asked to do this because i do have an item under that part of the agenda that i'd like to speak to this evening so the first first part of the report is a motion i would like to make a motion that council direct the solicitor and the planning bureau to draft a zoning ordinance amendment in accordance with applicable law to legislatively address the land use of data centers to protect the impacts on the community for presentation at the october committee meeting further council requests that the city planning commission review the proposed legislation and make recommendations to council regarding the same second we have a motion and a second members of council i'm presenting this motion this evening so we can begin the process of updates to our zoning ordinance to address the land use for data centers and in fact introduce a separate use as part of this process leading up to this leading up to council considering this ordinance a hearing will be held as as with all zoning ordinance amendments to solicit input and concerns from the public that hearing will be held in accordance with the requirements of the municipalities planning code which will also include review of the proposed ordinance by the lancaster county planning commission as required are there any additional comments on the motion council president council arroyo i just wanted"
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 815.41,
+      "end": 834.69,
+      "duration_s": 19.3,
+      "segment_count": 4,
+      "word_count": 66,
+      "text": "to thank you for making this motion i think as many folks are probably here tonight for i think it's probably long overdue that we start considering um our zoning and what does it mean and how does it reflect the community that we want to build here so i'm looking forward to hearing the recommendations from the planning commission thank you further comments from council"
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_08",
+      "category": "commenter_candidate",
+      "start": 834.69,
+      "end": 858.26,
+      "duration_s": 23.6,
+      "segment_count": 3,
+      "word_count": 55,
+      "text": "if i may president counselor diaz will there be opportunity for the members of the community to speak against or for um anything that they feel that is not in co basically possibly not in the way they wish to have this um proposal plan be done for the ia data center yes counselor diaz"
+    },
+    {
+      "block_id": 11,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 858.26,
+      "end": 895.14,
+      "duration_s": 36.9,
+      "segment_count": 6,
+      "word_count": 102,
+      "text": "the process of this will be an ordinance that we will move to we will discuss so it will be presented at a committee meeting in october as mentioned in the motion it will be presented for a first reading in front of council and then a second reading which will also include a public hearing which is required the planning commission will review the legislation so they will also discuss it at their public meeting so there will be several at least four if not additional public input places where there could be input from the public on any proposed ordinance"
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_08",
+      "category": "commenter_candidate",
+      "start": 895.14,
+      "end": 908.68,
+      "duration_s": 13.5,
+      "segment_count": 2,
+      "word_count": 35,
+      "text": "that comes out of this action would there be anyone from the core i think it's called core war data company that's going to be available to speak or answer any questions to the public"
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 908.68,
+      "end": 941.12,
+      "duration_s": 32.4,
+      "segment_count": 8,
+      "word_count": 78,
+      "text": "I'm not necessarily sure about that, because that's going to depend on the process that will be used to make these recommendations and draft the ordinance. I want to stress that it is not specifically about this project. It's about all projects, including theirs. So we do want to address issues about the environmental impacts and impacts to the community, but it is also about any future use. So it's not exclusive, but certainly does include their project."
+    },
+    {
+      "block_id": 14,
+      "speaker": "SPEAKER_08",
+      "category": "commenter_candidate",
+      "start": 941.12,
+      "end": 941.96,
+      "duration_s": 0.8,
+      "segment_count": 1,
+      "word_count": 4,
+      "text": "That's all I have."
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 941.96,
+      "end": 977.8,
+      "duration_s": 35.8,
+      "segment_count": 12,
+      "word_count": 89,
+      "text": "Thank you. And counselors, I would also just note that I thank you for your patience in getting to this moment. There is always legal considerations and things that need to be put in place. And so I'm glad we've arrived at this moment where we can take this action. Further comments from council on the motion? Comments from the public on the motion? Good evening. to just come on up to that mic and you may need to turn it on if you're as you're the first speaker"
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_01",
+      "category": "recurring",
+      "start": 985.0,
+      "end": 1141.36,
+      "duration_s": 156.4,
+      "segment_count": 20,
+      "word_count": 275,
+      "text": "yes uh i'm frank arcolio from old trinity place um i i have heard that any ordinance or amendment to the zoning code that would be introduced or requested by council go to the planning commission and then be a draft of a suggested ordinance come out of that and then obviously be presented to Council for Adoption that that is the process. But I've also been told that that ordinance would not apply to the existing two proposed data centers because they have already received approval letters from the city of Lancaster. And if that is the case, it gives me the feeling that you are willing, we are willing to close the barn door long after the horses have escaped. and that is not okay with the public. I hope that I am mistaken, and I know this is not a question and answer period, and nobody is required to address that concern, but it's very different as to whether we're gonna go through this process for those two centers, or let me put it this way, go through a zoning process based on the new zoning amendments that would presumably be uh approved by the council versus not being able to do that and and that i think is really what we have been we the public have been after all along to not do it in secret and and and with no public comment at all to put the whole thing through the proper process that any special use or use not provided for would be entitled to so thank you thank you for your comments i do appreciate your question"
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 1141.36,
+      "end": 1190.68,
+      "duration_s": 49.3,
+      "segment_count": 8,
+      "word_count": 147,
+      "text": "and your concern and what i can answer uh for this evening for the the general public to know um is that we would make the zoning amendment fully enforceable to the extent that it would be allowed to be i don't know the specifics and and but that's what i can say um i will also say there was something you said at the end um that i wanted to address and now i can't recall what it was it's it's completely left my mind i apologize for that but i do want to say that it will be fully enforceable um and the intention um the intention that's what it was the intention is that it would become or my hope is that it would become a conditional use that would require approvals and special exceptions that would require public input thank you any additional"
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_00",
+      "category": "commenter_candidate",
+      "start": 1190.68,
+      "end": 1230.69,
+      "duration_s": 40.0,
+      "segment_count": 6,
+      "word_count": 108,
+      "text": "comments from the public on the motion good evening good evening uh dan weigel uh clarendon drive i'm usually a speak with notes type so um please bear with me but um first i want to thank the council for bringing this up as you said i think better late than never i'm very pleased with what you just said about it being enforceable for the current projects obviously we have been extremely concerned as i know i believe you have all been as well so i really look forward to working with you all in this process i urge you all to approve the motion unanimously tonight"
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 1231.33,
+      "end": 1239.96,
+      "duration_s": 8.6,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "and we're ready to get to work thank you thank you any additional comments on the motion from"
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 1239.96,
+      "end": 1254.79,
+      "duration_s": 14.8,
+      "segment_count": 1,
+      "word_count": 19,
+      "text": "the public hearing none mr harris mr royal aye mr cleese aye miss diaz aye mr hirsch aye president"
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 1254.79,
+      "end": 1450.0,
+      "duration_s": 195.2,
+      "segment_count": 35,
+      "word_count": 568,
+      "text": "baker aye thank you counselors i'd have a second part of my report of the president of council so i will continue as that's what we're addressing it's tangential i have asked the mayor continue to continue to update me on efforts by the data center developer carissa technology parks to address air quality and noise concerns so she could not be here this evening but the mayor has provided me with the following updates so first and foremostly an independent evaluation of the noise study that was completed by carissa is is moving forward the city has identified a second consultant for consideration and interview and that that will take place within the next two weeks so we're making sure very carefully that the the firm that is hired to do that review is well versed in specifically noise concerns for data centers so we want to make sure that their review is accurate second an interview with an environmental consulting firm will take place this week their work is going to help us understand how the dep will regulate air emissions and the nature of the permit that was requested by this developer because this is under their purview the city does not issue those types of permits we don't have the technical expertise so we are going to get someone who does have that expertise to review it it's also going to review how the permit is monitored enforced and granted in addition the administration has determined that carissa will not be using a cooling system that relies on huge volumes of water carissa has expressed willingness just this week to codify this in a legally binding community benefits agreement so to put their money where their mouth is additional information from ppl has been given regarding impacts to the power grid electricity rates power reliability and that has been updated on the frequently asked questions page on the city website that city of lancasterpa.gov data center data hyphen center please note that the city does not have any purview over the regulation of electricity rates as much as i wish we could their grid etc so we're relying on the information provided by ppl for this matter for the council and the public's awareness also just to note on this topic that late last week mr frank or colio has filed an appeal to the zoning hearing board and that appeal has been scheduled for september the 22nd so again that's to the zoning hearing board counselors that includes my report of council thank you for allowing me to move that forward in the agenda tonight next on our agenda is proclamations honors awards and resolutions of recognition confirming mr harris we'd have none of those this evening that's correct madam president thank you so much we now move then to our first public comment period it's reserved for residents who have contacted the city clerk before tonight's meeting to request the opportunity to address council mr harris is going to be putting on the screen the list of those residents that contacted us ahead of time in the order in which they were received so you'll know when you're coming up in the meeting again please address your comments toward council comments are limited to three minutes per speaker and please begin with your name and block of residence mr harris our first"
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 1450.0,
+      "end": 1462.8,
+      "duration_s": 12.8,
+      "segment_count": 1,
+      "word_count": 14,
+      "text": "speaker please our first speaker is irene grievous thank you good evening good evening"
+    },
+    {
+      "block_id": 23,
+      "speaker": "SPEAKER_06",
+      "category": "recurring",
+      "start": 1464.08,
+      "end": 1650.95,
+      "duration_s": 186.9,
+      "segment_count": 24,
+      "word_count": 358,
+      "text": "my name is irene grievous and i'm on the 400 block of west end avenue i am here today to raise an issue that has gone unresolved for four years this prolonged and unexplained condemnation of my property located on 901 manor street this has placed a tremendous amount of burden on me personally and needlessly removed a home from an already strained housing supply last month i approached councilwoman faith craig before city council meeting to ask for her support in introducing a petition for resolution regarding this matter conveniently she's not here she responded by asking me to email her a draft of the petition which i did in good faith promptly and respectfully despite multiple follow-ups and email and messages i have received no response this silence especially troubling because councilwoman craig has personally visited my home in 2022. she knows the conditions firsthand and understands why no action has not been possible on on me and this ongoing condemnation i reached out not just for help but because I believed this was a share concerned and a resolvable and a solvable issue at this time I can't help but notice the spread and ease or the speed and ease in which permits for AI data centers have been approved by the city easily often with little resistance or delay yet every one of my 11 separate permit applications to resolve this matter and move forward with the property has been denied. This is happening during an ongoing housing crisis where the need for affordable livable housing is more urgent than ever. My property, which has been rehabilitated and restored as a home, has effectively been taken off the market, but not for safety reasons, through prolonged inaction and bureaucratic uh resistance we cannot keep saying we care about affordable housing while actively preventing it from becoming reality i am asking council and specifically councilwoman craig to respond to act and to help break this deadlock so the property can serve its purpose providing a home to the community that's so desperately needed thank you thank you mr harris our next speaker next speaker is"
+    },
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 1650.95,
+      "end": 1659.88,
+      "duration_s": 8.9,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "mary jones mary jones i'll call the names at the end just in case they come in late"
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_12",
+      "category": "commenter_candidate",
+      "start": 1659.88,
+      "end": 1737.89,
+      "duration_s": 78.0,
+      "segment_count": 10,
+      "word_count": 176,
+      "text": "our next speaker next is murder nevis good evening good evening my name is martin yeves and i'm here today to address the council regarding the treasury office's misapplied payments for trash and water accounts i own several properties in the city and been fighting with the treasury office since 2023 for payments that i have made on time have been misapplied have been sent to collections and um at the present moment uh going through it again after just going through it in april so at this point i've been told that the penalty assessment cannot be overwritten by the new system and by the way the payments that just were sent on july 25th were through the new system and they were ach so i believe that the issues are human error i don't know i come from a finance background accounting background and i believe that this is not system related i think the errors are human related and i would like to know if the council and i can work together on"
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 1737.89,
+      "end": 1754.56,
+      "duration_s": 16.7,
+      "segment_count": 3,
+      "word_count": 58,
+      "text": "a solution thank you i did have some additional information on your request that i'd like to share with you the email uh the email that you used to request to make comment would that be okay yes we don't have to discuss it publicly but i can send you what i know have found thank you thank"
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 1754.56,
+      "end": 1766.26,
+      "duration_s": 11.7,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "you mr harris our next speaker next speaker is emma burgess hi don't laugh at me about props"
+    },
+    {
+      "block_id": 28,
+      "speaker": "SPEAKER_05",
+      "category": "recurring",
+      "start": 1767.62,
+      "end": 1960.42,
+      "duration_s": 192.8,
+      "segment_count": 38,
+      "word_count": 605,
+      "text": "uh emma burgess 600 block of vine street um so before i start i would like to make it clear council that i know you don't regulate electric utilities my three minutes today only serve to highlight the impacts of building this data center and to further reinforce the urgency of our demands if i could just really quick to the people in the room i would like you to remember that if you have concerns about electricity issues the pennsylvania utility commission is the government governing body that you should be speaking to and they also hold bi-weekly hearings in Harrisburg which I would strongly encourage you to attend back to council I've got three things I'd like to address today first let's talk about the increased cost to residents that a data center would bring for scale the sum of Lancaster County activity has a load of about 700 megawatts on average which implies a peak load of about a thousand megawatts anyways this data center would have a continuous load of 100 and then 300 megawatts which would mean increasing the load by 10 to 30 percent this is huge so increasing the demand for power means we have to upgrade our electrical infrastructure to support it carissa the developer has said they're upgrading the necessary infrastructure that's great next we'd have to maintain the significantly larger grid the money for that comes from the delivery portion of your electrical bill last month that portion for me was about 40%, as shown there. Here's the catch, though. Industrial customers pay significantly less than residential customers. I know that the FERC ruling to 2023 governs a formula. It's intentionally ambiguous. Industrial customers pay about 44% as much as residential customers. This means that the increased cost for grid maintenance will be disproportionately passed on to residents. You can all expect your bill to go up. Second, let's talk about power quality. I know this isn't something most people think or even know about, but your power's quality matters. AC power is a sine wave. When it looks good, it looks like this. When it looks bad, it looks like this. It's due to something called harmonics. Last year, Bloomberg published a report using thousands of sensors measuring power quality across the nation. They compiled a list of the homes that suffered the worst power degradation and said that more than half of the tracked households showing the worst distortions of power quality were located within 20 miles of significant data center activity. This kind of distorted power leads to damage to home appliances in the long run. It's not something you see immediately, but it's something that adds up, as well as increased risks of things like electrical fires. Finally, I'd want to address the challenge that's brought on by having a sole consumer represent so much of the grid. Data centers are optimized and engineered for the protection of computers, which means that at the smallest risk of a problem, they switch to local backup generators. That means that in an instant, Something that's like 300 megawatts would, and hold for my beautiful animation, go offline, which would decrease the load in this grid from something like 1,200 megawatts to 900. Because data, because power grids have to be super balanced, that's a big problem all at once, which can cause, you know, cascading outages across a grid. I know that engineers work really hard to balance this, but that is a problem that needs to be addressed. Thank you very much. I hope this is helpful. I didn't cite any sources."
+    },
+    {
+      "block_id": 29,
+      "speaker": "SPEAKER_10",
+      "category": "commenter_candidate",
+      "start": 1960.72,
+      "end": 1961.58,
+      "duration_s": 0.9,
+      "segment_count": 1,
+      "word_count": 6,
+      "text": "They're here if you want them."
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_05",
+      "category": "recurring",
+      "start": 1961.58,
+      "end": 1962.58,
+      "duration_s": 1.0,
+      "segment_count": 1,
+      "word_count": 2,
+      "text": "Thank you."
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 1966.72,
+      "end": 1977.7,
+      "duration_s": 11.0,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "mr harris our next speaker please our next speaker is tobin burgess thank you very much our next"
+    },
+    {
+      "block_id": 32,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 1977.7,
+      "end": 1987.41,
+      "duration_s": 9.7,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "speaker mr harris uh sarah edder hinojosa good evening my name is sarah edder hinojosa i'm from"
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_11",
+      "category": "commenter_candidate",
+      "start": 1987.41,
+      "end": 2082.21,
+      "duration_s": 94.8,
+      "segment_count": 19,
+      "word_count": 342,
+      "text": "the 400 block of west frederick i'm probably going to end up yielding most of my time because you guys address a lot of our concerns so i'll just boil it down to three things number one i want to express appreciation for some of the things you announced tonight specifically codifying that there won't be water cooling uh for this facility thank you for announcing that that's really incredible um and also for the work you're doing on zoning we want to express that the work you do does matter to us and we're not just here to express when we're upset about things um a few other things though number two i am still concerned about enforceability of i'm not an expert in local governance in these things but it is my understanding that a zoning ordinance would not be enforceable and i would love to hear more about why that is your position um number three the main issue that uh the council doesn't have any ability to really mitigate is the energy issue that emma just lent her incredible expertise and design skills to and we're still really concerned about that and we totally understand that council does not have a lot that they can offer to this fight but what we would really love is your support in bringing the fight to the bodies that can i mean most of us here have full-time jobs and families like we're doing this in our free time and so we would really love the support of our elected officials as we're bringing it to the state as we're bringing it to regulatory bodies like the puc because again we're doing this in our free time so we would love to see instead of just maybe we can't do anything about that support and collaboration on taking it to the body bodies that can so that's all i have to say i'll yield the rest of my time thank you for the announcements you made earlier thank you very much"
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 2086.43,
+      "end": 2108.99,
+      "duration_s": 22.6,
+      "segment_count": 4,
+      "word_count": 68,
+      "text": "sarah i appreciate your your comments and i would absolutely love to go to a puc hearing because that is where i'm mostly concerned and where i feel most powerless i also remind the public that council is part-time and we all have full-time jobs too but that's okay i i hear your comments so thank you uh mr harris our next speaker our next speaker is revy"
+    },
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_19",
+      "category": "commenter_candidate",
+      "start": 2118.7,
+      "end": 2163.74,
+      "duration_s": 45.0,
+      "segment_count": 9,
+      "word_count": 147,
+      "text": "ravi good evening my name is ravi ahuja i live on the 200 block of west walnut like many people here i'm obviously very affected by and concerned about the development of the data center i want to echo sarah's appreciations and something that some things that dan said as well about some of the things announced tonight i think the noise level study is really important and welcome the codifying of the water cooling also very important we appreciate the opportunity for public comment it's also something that is critically important to be an ongoing process and so i just want to strongly urge the mayor sirachi and zoning commissioner thrash our attendance at the at the transparency hearing on october 1st we'd love to know the full details about all the decisions that were made for the zoning so i'd really appreciate that thank you"
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 2163.74,
+      "end": 2202.8,
+      "duration_s": 39.1,
+      "segment_count": 3,
+      "word_count": 51,
+      "text": "thank you mr harris our next speaker next speaker is kim keller is kim keller here we'll go back and recall those names at the end our next speaker mr harris next is dan weigel thank you our next speaker mr harris next is michelle sales good evening good evening uh"
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_10",
+      "category": "commenter_candidate",
+      "start": 2202.8,
+      "end": 2371.74,
+      "duration_s": 168.9,
+      "segment_count": 51,
+      "word_count": 537,
+      "text": "can you hear me all right yep uh hi all i'm michelle sales i live in liditz um i want to add to the conversation on ai data centers i know a lot has already been said about the environmental and financial costs which are huge on their own i want to draw some attention also to what these data centers can be empowering with potential costs to our collective civil liberties privacy and security so we should all know that this data center infrastructure is going to directly support a lot of major tech companies like meta palantir amazon i want to focus my comments right now on palantir because at the same time that our federal government is starving people of needed funding for essential programs it has found plenty of money to prop up the private sector with these massive government contracts um so when we say that ai is the future we need to be really clear about what the technology is uh and what we're going to be using these data centers for so palantir has been the recipient of billions in federal contracts they have a new 10-year 10 billion dollar contract with the army they're collaborating with doge there's a 30 million dollar partnership with ice which is already targeting folks in our community and i'm going I'm going to share some sections of an open letter that was published in May from Palantir former staffers and whistleblowers calling out the company for colluding with the authoritarian consolidation that is underway. And they say Palantir technology's platform grants immense power to its users helping control the data, decisions and outcomes that determine the future of governments, businesses and institutions and by extension all of us. Early Palantir staff understood the ethical weight of building these technologies. A code of conduct was crafted to uphold democracy, preserve the spirit of free scientific inquiry, and ensure responsible AI development. Guardrails were set to prevent discrimination, disinformation, and abuses of power, and these principles have now been violated and are rapidly being dismantled at Palantir Tech and across Silicon Valley. Palantir's leadership has abandoned its founding ideals. Public statements have grown hostile to DEI. Executives now employ inflammatory language, sometimes threatening critics with violence. Meanwhile, our democracy faces escalating threats. Biometrics data collection on immigrant children, journalists targeted, science programs defunded, key US allies like Ukraine sidelined. Trump's administration has sought to greatly expand executive powers while alluding to monarchy. Big tech including Palantir is increasingly complicit, normalizing authoritarianism under the guise of a revolution led by oligarchs and we must resist this trend and they go on. We no longer believe Palantir's executives are upholding our core values by supporting the administration, Doge and dangerous expansions of executive power. they've abandoned their responsibility and are in violation of our code of conduct so thank you for the developments tonight to keep in mind that we can revisit these the zoning process moving forward and I think as we all work to shape this process and how these projects shape up we need to be careful to not assume that all AI development is beneficial and that we should have a say in"
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 2371.74,
+      "end": 2381.43,
+      "duration_s": 9.7,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "building a future that we can all benefit from thank you Mr. Harris our next speaker please"
+    },
+    {
+      "block_id": 39,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 2381.43,
+      "end": 2383.43,
+      "duration_s": 2.0,
+      "segment_count": 1,
+      "word_count": 5,
+      "text": "Next speaker is Brittany Sowers."
+    },
+    {
+      "block_id": 40,
+      "speaker": "SPEAKER_13",
+      "category": "commenter_candidate",
+      "start": 2383.43,
+      "end": 2441.2,
+      "duration_s": 57.8,
+      "segment_count": 9,
+      "word_count": 138,
+      "text": "Brittany Sowers, Harrisburg Pike. So I'm just here tonight as a concerned business owner who would be directly impacted by one of the data centers. I co-own a hair salon on Harrisburg Pike directly across from one of the proposed data centers, and it's something that, you know, we've been very concerned about. You know, is our electric going to go up? I'm glad you heard tonight about the water, that they're not going to be using water. you know because a lot of the research we did we saw you know it can cause water issues we need water to run our business um so yeah i'm just here to express my concern as a small business owner of what the impacts are gonna be to my business thank you our next speaker mr harris next speaker"
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 2441.2,
+      "end": 2468.35,
+      "duration_s": 27.2,
+      "segment_count": 2,
+      "word_count": 36,
+      "text": "is joella lord it's joella lord here i'll recall the names at the end our next speaker mr harris david miller glick good evening good evening yeah feel free to move that apologies if this doesn't"
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_03",
+      "category": "commenter_candidate",
+      "start": 2468.35,
+      "end": 2564.33,
+      "duration_s": 96.0,
+      "segment_count": 19,
+      "word_count": 211,
+      "text": "come across as very polished i'm changing some of my comment on the fly here based on what was said earlier i feel a mixture of emotion tonight i was angered by the lack of transparency around the ai data center center but on the other hand i'm heartened to see that council is considering looking at the zoning and i want to echo some comments said before that i would love to see continuing collaboration with city council going forward i'm also concerned about the potential energy usage and about bills going up but also from an environmental perspective the amount of energy that uses and the cost in the environment that that it would create to generate that energy. I also want to close by saying that I quite frankly do not want any new AI centers built anywhere near the city of Lancaster. I work in the tech industry and in my opinion an experience generative AI is a scam which offers few benefits if any to regular people like me. But at the very least, if this center or both centers are to be built, I would love to collaborate with City Council going forward so that we can come to a good solution together. Thank you."
+    },
+    {
+      "block_id": 43,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 2564.33,
+      "end": 2570.79,
+      "duration_s": 6.5,
+      "segment_count": 2,
+      "word_count": 7,
+      "text": "Thank you. Our next speaker, Mr. Harris."
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 2570.79,
+      "end": 2572.83,
+      "duration_s": 2.0,
+      "segment_count": 1,
+      "word_count": 4,
+      "text": "Next is Frank Arcoglio."
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_01",
+      "category": "recurring",
+      "start": 2572.83,
+      "end": 2679.57,
+      "duration_s": 106.7,
+      "segment_count": 25,
+      "word_count": 232,
+      "text": "Frank Arcoglio, Old Trinity Place. I had come with prompts tonight to put a little levity to the situation. I want to show you two different balls. One's a football, I think we can agree on that. The other's a baseball. They're both balls, but they have very different usages, and they're in very, very different sports, and they're thrown and caught in very, very different ways. I feel the same thing is true about data centers versus warehouses. And so how could that possibly be done? If this is a data center, this is a warehouse. They are not the same thing and should never ever have been called the same thing. As I've said before, I appreciate your efforts and your action tonight to request new zoning ordinances to deal with the data centers. My concern is whether it really is retroactively applicable to building permits that have already been issued under the guise that these two things were the same which they're clearly not so I guess I need to await further further clarification I know that's not you know your job I know you say you intend to to apply it to the maximum effectiveness that is legally possible and i understand that and i just hope that that effectiveness is substantial and not based on the confusion that intentional or otherwise that these are the same things"
+    },
+    {
+      "block_id": 46,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 2679.57,
+      "end": 2692.96,
+      "duration_s": 13.4,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "thank you very much thank you our next speaker mr harris next speaker is jontel tolan good evening"
+    },
+    {
+      "block_id": 47,
+      "speaker": "SPEAKER_18",
+      "category": "commenter_candidate",
+      "start": 2692.96,
+      "end": 2849.54,
+      "duration_s": 156.6,
+      "segment_count": 30,
+      "word_count": 490,
+      "text": "Good evening, first and only block of Wise Ave. I had some I changed up what I had said a little bit because of the things that you had spoke about earlier. So thank you for addressing the need for dialogue and starting the meeting that way. Our communities are thriving, diverse and deeply community and deeply invested in this issue. The perspective shared in the last meeting added critical context that can't be ignored we have an opportunity to set an example for other cities by standing up to big tech and prioritizing our environment health and future that starts with transparency and real accountability where can the public access independent third-party studies or when can they be made available the city's website says the pa department of environmental protection is reviewing an air quality permit submitted by the developer for diesel generators and at lancaster is monitoring the process but monitoring is not the same as accountability if you are conducting independent reviews then we look forward to public access to the findings from independent reviews who from our community not corporate representatives has been directly consulted about this project and is their record who will be held personally accountable if these facilities harm residents or the environment if you are truly committed to lancaster i would love to see you put your commitments in writing for the public to see we need to reclassify these data centers and prevent any more from coming the city should resend permits immediately and restart the zoning process with public input tonight's agenda includes a motion to amend the zoning ordinance to properly regulate regulate data centers let's pass it and move swiftly you said something about october but i think that's a bit far away to be discussing this and i think this is a more urgent issue it's about more than permits it's about trust if decisions have already been made share them share your thoughts your reasoning your humanity people want to believe in their leaders but these days especially trust is fragile and transparency is the only way forward the community does not want any more backroom discussions has anyone from this council personally reached out to the residents who spoke last time or previous times responding to emails having real conversations and showing that you've done your homework would go a long way the public needs to see that beyond this one meeting today thank you for the information and i would love to see this continue i would love to see actual dialogue with the public ahead of town hall style meetings and the ones that you're referring to in october we are here to continue holding you accountable and work together to push these tech giants out half a million lives in this county are at stake we cannot stay silent on this and we will not so work with us and keep working"
+    },
+    {
+      "block_id": 48,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 2849.54,
+      "end": 2940.53,
+      "duration_s": 91.0,
+      "segment_count": 11,
+      "word_count": 198,
+      "text": "with us thank you thank you mr harris i believe that confirms our list of speakers for the first public comment period is that correct that concludes the list of speakers yes thank you i want to take a moment to follow up and ask if mary jones or kim keller are here their names were called earlier but they were not here when their names were called so if not we will close the first public comment period and thank you for everyone who commented this evening we will continue with the rest of our agenda i know that some of you may be here for just that particular portion of the meeting so you're welcome to go if you need to you're also welcome to stay so thank you the next item on our agenda will be the capital budget public hearing so director tina campbell will be coming forward and i believe counselors earlier she sent what she will be presenting on the screen is that correct so we'll have it in email and on the screen i'll give everybody just a moment good evening to both directors Campbell thank you thank you Mr. Harris"
+    },
+    {
+      "block_id": 49,
+      "speaker": "SPEAKER_14",
+      "category": "recurring",
+      "start": 2940.53,
+      "end": 3391.06,
+      "duration_s": 450.5,
+      "segment_count": 92,
+      "word_count": 1191,
+      "text": "right good evening good evening so tonight we are holding the capital budget hearing this is based on the capital improvement plan for 2026 to 2030. this hearing is based on what was presented both on June 24th and July 22nd the plan outlines capital improvement projects from 2026 to 2030 that are necessary for all functions of the city it encompasses four city funds the general fund the stormwater fund the water fund and the sewer fund this five-year plan includes 44 144 projects within these funds for a total of approximately 300 million dollars these projects consist largely of maintenance or replacement of current infrastructure to ensure that all services provided by the city are functioning as effectively as possible for both residents and customers and as we've already discussed in in June and in many more details in July the projects range from ensuring safe streets for pedestrians and cyclists to replacement of a major water main transmission pipe which is a once in a generation project as part of the home rule charter the city administration will present a five-year plan annually for approval through city council additionally we will also report to council quarterly for updates on the plan starting in 2026. should a newly construction constructed or acquired facility be completed within the previous quarter the city administration will also report on estimated annual costs for running and maintaining that facility as we have those available and additionally throughout this quarterly reporting process the city administration will provide any updates related to annual amortization costs as additional debt is incurred the plan available for review online through the website and also on the Engage Lancaster site it includes funding for the current approved general from the current approved general obligation bonds and the current approved pen loan pen vest loan financing and the current debt for each fund which has already been approved through the ordinance are included in the plans for your review as well and within this five-year budget there are some expenses that are not yet funded and may need additional debt financing as we move towards the latter years of the plan as the amount of this funding becomes finalized city administration will report on the amortization costs of the debt in the quarterly updates to council and as with any plan these projects will continue to evolve once they begin or as they continue more precise estimates and funding sources will be included in future capital improvement plans as we move closer to the start date of some of the later projects and we're looking forward to providing those updates quarterly you can go to the next slide because we've reviewed the capital improvement plan and budget extensively on both June 24th and July 22nd I'm not going to spend very much time reviewing this again but just wanted to provide a high level summary again. So these slides there's just a few of them. They are they are also available in the documents that have been available online for review and that in addition to the full list of projects and all the details that go with each project including both the expenses by year and the funding sources. So there are 144 projects total as I have mentioned and you can see here the breakdown by general fund and the enterprise funds. next slide please. The 144 capital projects include included on the plan total approximately three hundred and one point four million dollars. We have to. We have the projects divided into six sections on this chart but three of the sections the parks P.W. or public works and admin and streets are all part of the general fund and then the other three sections are labeled based on the enterprise fund they're associated with and as we've discussed previously you can see that the water and sewer funds have the biggest needs that makes up approximately two-thirds of the costs this is not unusual for water and sewer facilities since these utilities rely so heavily on major infrastructure to function properly however this does create some challenges of containing debt payment costs and keeping fees reasonable as we try to ensure that the systems work well next slide please so here's a quick breakdown of each of the funds the general fund and the three enterprise funds and i'll just say as a reminder the city does run a fourth enterprise fund the solid waste and recycling fund but most of those services are are contracted out so capital costs and projects are not included in the capital improvement plan for that fund next slide please um and also as i mentioned previously each project must identify a funding source or in many cases for the projects it's funding sources that can be used to ensure that the project is completed so we've included 11 funding sources in our capital improvement plan though some of these are groupings rather than specific sources the committed grant sources as an example are all grant funding that has been awarded but it's made up of many individual grants and additionally we have an unfunded funding source that shows a need for funding either grant or debt funding but that source has not yet been identified this unfunded source is used in the projects that are further out in the five-year plan so three four or five years out and each year that we come with a new capital improvement plan to approve you'll see that start to move to a known funding source as those projects get closer to its start and each of the funding sources that we've intended to use are listed per project in the plan that's online and that you've received as well and then next slide and finally here just to review a grouping of the funds this is the funding sources so the first three categories are what we consider committed funding so it does not require further debt we're currently at about 50.6 million or 51.7 million sorry I had my note wrong in bond funding that's that's already confirmed you can see that the grant funding that we have committed as well as funding from our sewer partners which are those first three and the remaining percent the remaining amounts which is about 53 percent would need to be funded mainly by future debt either either through PENVEST or bond financing. Some of what we've identified as unfunded could also be eligible for grant funding. So we'll continue to pursue the grant funding for projects that are eligible to try to keep that future debt as low as possible. And then just as a reminder, we will present an ordinance for first reading for the capital budget at the September 9th regular meeting of council. And it'll go through the regular ordinance process from there finally tonight we did have one comment on the plan that was included on the Engage Lancaster website we've not received other comments or questions beyond that so I've asked director Steve Campbell to review that"
+    },
+    {
+      "block_id": 50,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 3391.06,
+      "end": 3592.75,
+      "duration_s": 201.7,
+      "segment_count": 32,
+      "word_count": 465,
+      "text": "comment and respond this evening thank you very very much the comment was related to the Water Street infrastructure project which is a combined project of water public right-of-way transportation storm water and active transportation network the question was whether the arts component was funded in the in the request so the project itself is a multiple is a multiple faceted project where approximately 3.6 million of that project is stormwater related and nearly 11 million dollars of it is related to water and sewer infrastructure as well as public right-of-way infrastructure and the project will take place over the course of a six-year period or more the the amount of work that we're anticipating for the for the art element is very very minor we're looking at at sculptural elements for the green infrastructure the the four bays and the and the rain gardens areas which would would not exceed about anywhere would be in a range from anywhere from twelve to forty thousand dollars all told for the artwork the the the person who had made the request referenced a project that was in Pittsburgh by a an artist for for the for Penn dot that was extraordinarily much larger than the product than the art investment that we're looking at here it was for a very magnificent looking frankly sound attenuation wall that was almost a half a mile long on Route 28 outside of Pittsburgh and it was trying to be evocative of water and sound and a variety of other things it was very very magnificent and etc we're not looking to do anything like that we're hoping that the work that we can do for arts may actually be tied to the schools with a stem program might be performed by some of the some local uh or with funding from socal some local funders local funders as well as searching for continuing to search for grants when we had initially initially thought about this project we were looking at grants that were at the time available at the federal level but those grants are no longer available but the intention for it to be beautified similar to what we've done with the storm storm grates paintings or any kinds of elements that make the way that water passes through the variety of infrastructures of the city of lancaster accessible visually and in knowledge to the public whether youth or residents etc is still very much important to us but we want to do it and need to do it at a much more modest level so the simple answer is that for the budgeting for the funds that have been requested it does not include the um the the arts the arts component thank you very much both"
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 3592.75,
+      "end": 3611.18,
+      "duration_s": 18.4,
+      "segment_count": 3,
+      "word_count": 53,
+      "text": "of you um for all of the work leading up to this moment and the work that will lie ahead as we in future meetings introduce an ordinance to adopt the capital budget council members of council any comments on the budget hearing this evening if i'm the president councilor diaz miss campbell"
+    },
+    {
+      "block_id": 52,
+      "speaker": "SPEAKER_08",
+      "category": "commenter_candidate",
+      "start": 3611.18,
+      "end": 3685.59,
+      "duration_s": 74.4,
+      "segment_count": 9,
+      "word_count": 163,
+      "text": "you had mentioned um previously when we were going over it um the budget you had mentioned in regards to how much we invest in our technology in in city hall do you recall that i believe that was in the operating budget is that yes um my question i'm kind of diverted to this particularly if we invest a lot in our community tax money for our city to run our technology why is it that the av is not working correctly and why would someone schedule a meeting and of course i was to be present but unfortunately i was ill and i said well since i was able to use it through our teams that I would be able to attend the meeting which obviously the response was that it's not working correctly so my concern is how much do we invest in our IT and when is it going to be fixed because it's been a pretty long time"
+    },
+    {
+      "block_id": 53,
+      "speaker": "SPEAKER_14",
+      "category": "recurring",
+      "start": 3685.59,
+      "end": 3693.54,
+      "duration_s": 7.9,
+      "segment_count": 1,
+      "word_count": 19,
+      "text": "yeah I mean I can speak to do you want me to speak a little bit to the AV"
+    },
+    {
+      "block_id": 54,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 3693.54,
+      "end": 3775.38,
+      "duration_s": 81.8,
+      "segment_count": 15,
+      "word_count": 250,
+      "text": "equipment or well I can share what I know specifically related to the AV equipment and maybe just the technological expenses overall you can address but um yes so there there has been money allocated for the av equipment um for this year uh there's a company that we've engaged to make long needed upgrades uh to the equipment which was i believe secondhand when when we got it um they are working the the timeline is to begin next week on the project the reason why it waited was because they work with schools who took priority unfortunately to get their AV up and running before the beginning of the school year as my understanding so that project will begin next week unsure exactly when it will finish my hope is by our September 9th meeting but it it's it hard to say as someone in operations I know that things come up and things change and in terms of how long it's been down when you're talking about spending you know 50 000 plus on an av system in my opinion you want to make sure you're buying the right one getting the right people to install it and making sure you have all the features you need so a few months with some mics that aren't ideal isn't ideal but it is right when you want to take the time so that's my opinion and tina if you have any director campbell if you have anything additional"
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_14",
+      "category": "recurring",
+      "start": 3775.38,
+      "end": 3786.02,
+      "duration_s": 10.6,
+      "segment_count": 2,
+      "word_count": 35,
+      "text": "add yeah um yeah thanks i will just say too that this is we're actually purchasing the equipment with the grant that we received so it's not coming out of the general operating fund budget"
+    },
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 3787.01,
+      "end": 3818.32,
+      "duration_s": 31.3,
+      "segment_count": 4,
+      "word_count": 66,
+      "text": "thank you so much additional comments from council on the budget hearing then we will close the budget hearing for this evening we look forward to having you bringing forward the official ordinance next month thank you we will now move into our legislative agenda we begin with the legislative budget transfers i believe that's going to come from councillor arroyo thank you excuse me thank"
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 3818.32,
+      "end": 3880.76,
+      "duration_s": 62.4,
+      "segment_count": 11,
+      "word_count": 164,
+      "text": "you council president let's pull up my notes here thank you council president as you're aware the city is self-insured for workers compensation costs and every year funds to pay workers compensation claims are included in the individual department budgets but those claims are paid from the administrative services budget so each quarter we shift money from the departments where those injured workers have made claims to the administrative services budget to cover the cost for the second quarter of the year workers comp claims were made by the city police officers and public works employees a total of 37 656 dollars and 78 cents is being moved from moved from those department budgets to administrative services because this money is being moved between departments this requires city council approval so i make the motion to approve the second quarter workers compensation transfers totaling thirty seven thousand six hundred fifty six dollars and seventy cents as proposed second we have a motion and a"
+    },
+    {
+      "block_id": 58,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 3880.76,
+      "end": 3886.0,
+      "duration_s": 5.2,
+      "segment_count": 1,
+      "word_count": 9,
+      "text": "second councillors any additional comments on the legislative transfers"
+    },
+    {
+      "block_id": 59,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 3886.0,
+      "end": 3908.02,
+      "duration_s": 22.0,
+      "segment_count": 2,
+      "word_count": 30,
+      "text": "comments from the public hearing none mr. Harris mr. Arroyo aye mr. Cleese aye Ms. Diaz aye Mr. Hirsch aye President Bacon aye next item on the agenda is items"
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 3908.02,
+      "end": 3926.8,
+      "duration_s": 18.8,
+      "segment_count": 4,
+      "word_count": 54,
+      "text": "for the historic conservation district generally these these come through the community planning committee and that would be council Craig council Arroyo in her place if you would take this item thank you council president oh I'm so sorry well that goes to Mr. Harris if you would read those for me yes madam"
+    },
+    {
+      "block_id": 61,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 3926.8,
+      "end": 3963.89,
+      "duration_s": 37.1,
+      "segment_count": 8,
+      "word_count": 96,
+      "text": "president thank you considering the following applications and recommendations from the Historical Commission for improvements to properties within the Heritage Conservation District first is Kiana Castro owner of 550 hand Avenue proposes construction of an uncovered stoop on the facade of a two-story brick row house and the second is Johnny Smucker the third owner of 39 North Palm Street proposes construction of a one-story frame mudroom addition to the rear of a corner row house and both of those applications were recommended for approval by the historical commission i'd like to make a motion to"
+    },
+    {
+      "block_id": 62,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 3963.89,
+      "end": 3983.33,
+      "duration_s": 19.4,
+      "segment_count": 3,
+      "word_count": 54,
+      "text": "approve both items a and b uh for approval second thank you we have a motion and a second counselor arroyo thank you council president nothing much to add both of these items were recommended for approval by the historic commission are very uh minor um uh changes so nothing to add thank you"
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 3983.33,
+      "end": 3990.38,
+      "duration_s": 7.1,
+      "segment_count": 1,
+      "word_count": 12,
+      "text": "you very much any additional council comments on the approvals from the"
+    },
+    {
+      "block_id": 64,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 3990.38,
+      "end": 4010.47,
+      "duration_s": 20.1,
+      "segment_count": 2,
+      "word_count": 25,
+      "text": "public hearing none mr. Harris mr. Roya aye mr. Cleese aye Ms. Diaz aye mr. Hirsch aye that concludes our legislative agenda this evening the"
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 4010.47,
+      "end": 4045.34,
+      "duration_s": 34.9,
+      "segment_count": 7,
+      "word_count": 109,
+      "text": "next item on our agenda is our second public comment period that's open for issues that were not previously addressed on the agenda duration of comments is limited to three minutes per speaker please begin with your name and block of residence if there's anyone who wishes to make comment in this period please proceed to the microphone at this time hearing none well are you making public comment okay um if you would please just turn the microphone back on and you may adjust that to wherever you need that to go please begin with your name and block of residence good evening good evening uh oakley boscarino"
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 4045.34,
+      "end": 4231.88,
+      "duration_s": 186.5,
+      "segment_count": 40,
+      "word_count": 565,
+      "text": "lafayette street so right i'm gonna i wasn't a registered speaker at the beginning but i'd like to make some comments about something i'll discuss earlier which was the ai data center I stood at this podium in March of this year discussing how AI is impacting our environment, encouraging small businesses to turn to PCAD, which is right next door, for human-made creative assets. Now, a $6 billion AI facility is threatening our community with its presence, and I find myself back here talking about the same thing. Lancaster is an emporium of small shops and cell phone businesses, its culture constructed off of individual creations by unique creatives. and outside of the city you have acres upon acres of beautiful land and tasteful agriculture defining traditional Pennsylvania. I'd like to acknowledge the comments earlier about environmental preservation and limited use of water but I'm not reassured as a resident especially from the lack of transparency that this center won't use a major amount of water and electricity. I've previously gone over how AI has impacted the job industry. 3,900 workers were placed by AI according to the National University in March. Entrepreneurs around the world have faced job loss, decreases in salary, and lack of opportunities in the market. As you heard tonight, the construction of the center alone will concern workers. Imagine the detrimental effect it'll have on future jobs in Lancaster. Let me remind you now of the consequences this data center will have on people who live here. To start, these data centers will use some sort of water for cooling, even if it's a limited amount, and while there are efforts to limit such, you're still using significant amount of water in a facility that's costing six billion dollars to construct each tax prompt consuming consumes an average water bottle globally AI related infrastructure may soon consume six times more than water than Denmark a country of six million people according to a study from the University of California this becomes an issue when a quarter of humanity already lacks access to clean water and sanitation Lancaster residents already struggle with increasing water bills are you okay with risking the lives of thousands of Lancaster residents just to give more money to big corporations instead of the people lastly these data centers will emit waste such as co2 lead and mercury into our environment quickening the effects of global warming whether you like it or not it will suck up energy and water from Lancaster residents leaving citizens to live with the consequences consequences of your decisions the power plant and backup generators needed to keep data centers working generate harmful air pollutants such as fine particle matters of nitrogen oxides these pollutants take an immediate toll on human health triggering asthma symptoms heart attacks and even cognitive decline according to the ieee spectrum despite efforts a center at this scale cannot avoid causing environmental harm and with lack of transparency until now i have little faith that it will cause little damage as you say it does please continue to reassure the public with accessible information on these matters but i'd like to thank you again for the comments earlier remember at some point us taxpayers will have to keep paying for the environment killing data center and clearly nobody wants to do that as you continue to"
+    },
+    {
+      "block_id": 67,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 4231.88,
+      "end": 4243.4,
+      "duration_s": 11.5,
+      "segment_count": 2,
+      "word_count": 29,
+      "text": "fund this data center i appreciate your comments we've got we've gone past three minutes okay thank you are there any additional speakers for the second public comment period"
+    },
+    {
+      "block_id": 68,
+      "speaker": "SPEAKER_20",
+      "category": "commenter_candidate",
+      "start": 4249.42,
+      "end": 4388.53,
+      "duration_s": 139.1,
+      "segment_count": 17,
+      "word_count": 282,
+      "text": "good evening adjust that as needed uh brett stanley i live in mountville but i work in lancaster i spoke last last last meeting i've been here for all of them um i spoke on job creation and lack thereof possibly with the work in creating you know catalysts for the data centers sw at my employer in wrightsville my old employer in wrightsville had a hand in building a lot of things for data centers whether they be catalysts like scrs they're selective like basically as one of the comments that you had made about the um the the interruption of data center like output one of the things they also were making were these uh like rolling generators or rolling data centers to support these things basically i'm just coming here to say more information of this seems like it's destined to happen and basically none of you had any say in it and doesn't seem like we will have any say in it retroactively addressing the concerns not you guys but the whole process in it of itself like waiting till october um etc but uh yeah i i would certainly like to stay on top of where this work is coming from where it's going and yeah i i'm just really disheartened that it seems like the work is already done and it's just being lost upon our community i hope that you all can have some influence on that I didn't really have a choice and like what I make it's just custom fabrication so you get a new job almost every day new parts but anyway wasting a little bit of time thank you any additional"
+    },
+    {
+      "block_id": 69,
+      "speaker": "SPEAKER_21",
+      "category": "commenter_candidate",
+      "start": 4388.53,
+      "end": 4551.64,
+      "duration_s": 163.1,
+      "segment_count": 20,
+      "word_count": 327,
+      "text": "comments for this period good evening hi Jeannie showers from Mountainville first i want to thank the council for addressing uh you know some of the questions that the public had had in previous meetings and so forth i definitely think that it has assuaged some of our worries and concerns especially with regards to the environmental impacts specifically with water however moving forward i do want to at least you know urge the council to be mindful of the enforceability of the proposed regulations with um you know even though there will be an agreement a legally binding agreement with water consumption we want the public we want to make sure that that is being maintained um as objectively as possible additionally we want to ensure that moving forward uh the environmental agencies that have been hired to conduct um you know the noise um studies and so forth are you know unaffiliated with these data centers and with um you know corporate back we also want to ensure that moving forward in the future we want to ensure that when these data centers do potentially expand that they remain within the footprint of the existing structure as it is stated in the FQA online and if they do expand beyond that if the current or proposed zoning ordinances that are likely to be changed that the expansion is an is in accordance with those newer zoning ordinances and lastly just wanting to urge the council to be mindful of the strain on the energy grid um i like a like you had mentioned previously even though you do not have control over the energy within lancaster i am curious as a resident what will be done with the grid in order to bolster it so that it can support not only the data center but the residents as well which will have you know the largest impact from these data centers thank you thank you"
+    },
+    {
+      "block_id": 70,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 4554.42,
+      "end": 4567.32,
+      "duration_s": 12.9,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "are there any other commenters for this period good evening my name is mick widrick i live just"
+    },
+    {
+      "block_id": 71,
+      "speaker": "SPEAKER_09",
+      "category": "commenter_candidate",
+      "start": 4567.32,
+      "end": 4604.95,
+      "duration_s": 37.6,
+      "segment_count": 6,
+      "word_count": 103,
+      "text": "outside the city on the columbia app um i just wanted to request the council's help in pressuring the zoning officer and the mayor and showing up to any of the hearing hearings that are being proposed as i've heard from other sources the zoning officer has no interest in showing up to those and answering questions which feels shady and i don't like that and i'm sure we would all love some answers from the actual people involved in making these decisions that we know you guys weren't allowed to be involved in that's all thank you thank you any additional commenters"
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 4604.95,
+      "end": 4628.37,
+      "duration_s": 23.4,
+      "segment_count": 2,
+      "word_count": 34,
+      "text": "for this period i would encourage anyone else who wishes to just line up just so we can save a couple minutes if possible but that's your prerogative good evening it's okay 67 south"
+    },
+    {
+      "block_id": 73,
+      "speaker": "SPEAKER_02",
+      "category": "commenter_candidate",
+      "start": 4628.37,
+      "end": 4787.69,
+      "duration_s": 159.3,
+      "segment_count": 30,
+      "word_count": 451,
+      "text": "franks franklin anyways and your name sorry roe potter thank you um i don't plan on pulling any punches with this one so i'm going to try and be quick but artificial intelligence is the tool of fascism. Everything ranging from AI images to generative text to palantir all plays into their, they being fascists, authoritarian agenda. Despite water cooling and emissions being supposedly regulated, which isn't enough to comfort me or really anyone in here who's been paying attention to anything going on with XAI down in Memphis, Tennessee. Yeah, it's just not convincing enough. Stuff like this, like like i said about memphis tennessee with xai stuff like this disproportionately affects black and brown communities which we have a majority of in lancaster and day in and day out we are not only pushed and edged further out by gentrification and you know the way we treat homelessness is absolutely terrible in the 25 years i've been here i just think that something like this has no belonging in lancaster county at all it doesn't benefit the people that live here our water is already questionable our energy is already questionable my who else's rent is going up right my rent's up my water is the same it tastes the same but stuff like this really has no place in lancaster county at all i don't see how we can take time to put a supposed warehouse of supercomputers when we start potholes right next door to it it doesn't make any sense if we If we want to improve what's going on in the city and, you know, energy-related things, I don't think putting a giant succubus in the middle of it is going to help anything. Yeah, I just really want to stand on the fact that artificial intelligence is the tool of fascism. If you want proof of that, look at the White House's Twitter posts. there's not an artist you could hire out here in the world that would do art of alligator alcatraz you know historically when black and brown communities have been disproportionately affected by stuff like that uh yeah just really disgusted that this is coming to our community in a place where we value not only what we create with our hands but who we give it to and ai doesn't do any of that it takes away who's making it and it don't give a shit who's going to so if you care about living here which I'm pretty sure you do this ain't gonna happen but again like someone else said here it don't seem like we got much of an opinion or decision so kind of authoritarian and"
+    },
+    {
+      "block_id": 74,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 4787.69,
+      "end": 4861.64,
+      "duration_s": 74.0,
+      "segment_count": 16,
+      "word_count": 229,
+      "text": "oppressive thank you any additional comments for this period hearing none I'll close the second public comment period and thank everyone for participating this evening we do have a few more items on the agenda just as a response to some of the latest comments I also was thinking about some shared concerns that I believe we all have and just a thought that I would leave everyone that we should also be very concerned about our borough councils and township boards of supervisors and the rest of Lancaster County in places that have vast amounts of open space I I'm not saying this from a place that I know of anything I'm just saying that if that is a concern that we all have about our shared community our resources and the air we breathe in the water we drink and our power grid then we also should be turning to our attention to those legislative bodies out in the county and beyond so thank you the next item on our agenda is the report of the mayor she could not be here this evening and I did deliver some comments that she shared with me earlier next item was a report of president of council which we moved to the beginning of the meeting so the next item is comments from council any council comments this evening"
+    },
+    {
+      "block_id": 75,
+      "speaker": "SPEAKER_03",
+      "category": "commenter_candidate",
+      "start": 4861.64,
+      "end": 4865.02,
+      "duration_s": 3.4,
+      "segment_count": 1,
+      "word_count": 5,
+      "text": "Council President, if I may."
+    },
+    {
+      "block_id": 76,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 4865.02,
+      "end": 4866.22,
+      "duration_s": 1.2,
+      "segment_count": 1,
+      "word_count": 2,
+      "text": "Councillor Arroyo."
+    },
+    {
+      "block_id": 77,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 4866.22,
+      "end": 4977.58,
+      "duration_s": 111.4,
+      "segment_count": 25,
+      "word_count": 324,
+      "text": "Just very briefly, wanted to thank our folks for coming out tonight to continue to advocate for how we want our community to be built in the future and sharing information. Also love the graphics that were also brought up here earlier, so thank you for all your hard work on that. One thing I do wanna express is one of my biggest frustrations since serving on council is the realization that many things that directly affect the quality of life our residents sometimes doesn't fall within control of council one of the things that has come up in the last couple of months is the pennsylvania rate payer protection act which i believe has been floating around in the state senate which would hold data centers specifically responsible for the energy consumption that they consume and not pass along the burden to residential rate payers that is something that as i know council here is advocating individually to our state representatives and state senators i would implore that all of you also do the same they are listening to you and a lot of the regulations that come with data centers will have to come from the state level municipalities won't be able to do this on their own so as mentioned while the city of lancaster is currently dealing dealing with us other municipalities have also been proposed with data centers and if it just falls right outside the boundary of Lancaster City it is it continues to be outside of our control but what still affect all of you so highly highly encourage you all to continue to advocate not just only to us and hold us accountable but make sure you're also doing it on the state level because that's really where we're going to be able to have some some influence on data centers and how they affect our communities from now into the future thank you thank you"
+    },
+    {
+      "block_id": 78,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 4977.58,
+      "end": 4992.03,
+      "duration_s": 14.4,
+      "segment_count": 3,
+      "word_count": 38,
+      "text": "counselor royal uh we have now reached the conclusion of our agenda i will hear a motion to adjourn motion to adjourn second we have a motion and a second all in favor aye we're adjourned Thank you."
+    }
+  ]
+}

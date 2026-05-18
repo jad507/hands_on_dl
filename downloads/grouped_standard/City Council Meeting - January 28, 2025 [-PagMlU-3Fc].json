@@ -1,0 +1,352 @@
+{
+  "file": "City Council Meeting - January 28, 2025 [-PagMlU-3Fc]",
+  "rttm_mode": "standard",
+  "settings": {
+    "max_gap_s": 30.0,
+    "recurring_threshold_s": 180.0,
+    "avg_segment_threshold_s": 15.0
+  },
+  "speaker_classification": {
+    "SPEAKER_00": {
+      "category": "commenter_candidate",
+      "total_speech_s": 69.7,
+      "block_count": 3,
+      "segment_count": 11,
+      "avg_segment_s": 6.3,
+      "word_count": 191
+    },
+    "SPEAKER_01": {
+      "category": "commenter_candidate",
+      "total_speech_s": 142.2,
+      "block_count": 1,
+      "segment_count": 17,
+      "avg_segment_s": 8.4,
+      "word_count": 187
+    },
+    "SPEAKER_02": {
+      "category": "commenter_candidate",
+      "total_speech_s": 149.2,
+      "block_count": 1,
+      "segment_count": 27,
+      "avg_segment_s": 5.5,
+      "word_count": 295
+    },
+    "SPEAKER_03": {
+      "category": "recurring",
+      "total_speech_s": 514.9,
+      "block_count": 1,
+      "segment_count": 154,
+      "avg_segment_s": 3.3,
+      "word_count": 1304
+    },
+    "SPEAKER_04": {
+      "category": "recurring",
+      "total_speech_s": 570.8,
+      "block_count": 12,
+      "segment_count": 89,
+      "avg_segment_s": 6.4,
+      "word_count": 1341
+    },
+    "SPEAKER_05": {
+      "category": "commenter_candidate",
+      "total_speech_s": 55.6,
+      "block_count": 2,
+      "segment_count": 3,
+      "avg_segment_s": 18.5,
+      "word_count": 58
+    },
+    "SPEAKER_06": {
+      "category": "commenter_candidate",
+      "total_speech_s": 10.2,
+      "block_count": 1,
+      "segment_count": 2,
+      "avg_segment_s": 5.1,
+      "word_count": 31
+    },
+    "SPEAKER_07": {
+      "category": "commenter_candidate",
+      "total_speech_s": 67.4,
+      "block_count": 4,
+      "segment_count": 11,
+      "avg_segment_s": 6.1,
+      "word_count": 155
+    }
+  },
+  "blocks": [
+    {
+      "block_id": 0,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 417.42,
+      "end": 481.68,
+      "duration_s": 64.3,
+      "segment_count": 14,
+      "word_count": 197,
+      "text": "you are good evening everyone I'm now called to order this meeting of Lancaster City Council for January 28th 2025 a few reminders for everybody at the top of the meeting this meeting and all of its participants are being recorded please take a moment to silence your phones and devices if you haven't done so already during this meeting there will be several opportunities for public comments anyone making public comment should do so at the microphone so you can be heard both in the room and on our live stream comments should be related to issues that have or may come before council as legislation and should be addressed toward council rather than other members in the audience to keep time excuse me each speaker is given three minutes to keep time we'll be using this light that's in front of me here it will turn green when a speaker begins turn yellow when there is one minute remaining and turn red when three minutes has been exhausted I appreciate everyone's efforts to make sure that everyone has equal time this evening. And now for all of those who are willing and able, please rise"
+    },
+    {
+      "block_id": 1,
+      "speaker": "SPEAKER_05",
+      "category": "commenter_candidate",
+      "start": 481.68,
+      "end": 497.86,
+      "duration_s": 16.2,
+      "segment_count": 2,
+      "word_count": 36,
+      "text": "for the Pledge of Allegiance. Pledge of Allegiance to the flag of the United States of America and to the Republic for which it stands, one nation, under God, indivisible, with liberty and justice for all."
+    },
+    {
+      "block_id": 2,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 504.86,
+      "end": 509.9,
+      "duration_s": 5.0,
+      "segment_count": 1,
+      "word_count": 16,
+      "text": "Mr. Harris, would you please call the roll of members? Yes, Madam President. Mr. Med? Here."
+    },
+    {
+      "block_id": 3,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 509.9,
+      "end": 518.58,
+      "duration_s": 8.7,
+      "segment_count": 1,
+      "word_count": 13,
+      "text": "mr. royal here mr. Glees miss Diaz here miss Craig mr. Hirsch here"
+    },
+    {
+      "block_id": 4,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 518.58,
+      "end": 541.55,
+      "duration_s": 23.0,
+      "segment_count": 4,
+      "word_count": 52,
+      "text": "president Baker here counselors Craig and colleagues are excused this evening we'll now move to our approval of the minutes for the January 14th 2025 meeting of council motion to approve second we have a motion and a second on the meeting minutes are there any council comments on the minutes hearing"
+    },
+    {
+      "block_id": 5,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 541.55,
+      "end": 550.37,
+      "duration_s": 8.8,
+      "segment_count": 1,
+      "word_count": 16,
+      "text": "none mr. Harris mr. man ah mr. Arroyo hi miss Diaz mr. Hirsch hi I'm president"
+    },
+    {
+      "block_id": 6,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 550.37,
+      "end": 685.24,
+      "duration_s": 134.9,
+      "segment_count": 15,
+      "word_count": 193,
+      "text": "Baker hi thank you we'll now move to proclamations honors awards and resolutions of recognition our agenda states we don't have any of those this evening mr. Harris is that correct that is correct madam president thank you we'll now move into our first public comment period this is reserved for residents who requested the opportunity to address council ahead of time again speakers are limited to three minutes and should give their name and block of residents for a meeting record when they begin mr. Harris has anyone registered for this first public comment period they have not madam president thank you then we will move then to reports requested by council we have one of those this evening it is the witness stones project presentation and I'm pleased to welcome dr. Christina McSherry from historic Rockford and Pam stoner and others who will be presenting on the project and mr. polite as you approach there mr. play if you could just make sure that light is on on the microphone the green light will be there yes I think mr. Harris queuing up okay good good evening um Nelson polite 600"
+    },
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_01",
+      "category": "commenter_candidate",
+      "start": 685.24,
+      "end": 827.4,
+      "duration_s": 142.2,
+      "segment_count": 17,
+      "word_count": 187,
+      "text": "block of Euclid Avenue, Lancaster and I am here tonight as president of the African American Historical Society of South Central Pennsylvania and I want to offer these comments and introduction on behalf of that organization. The Witness Stone's project is extremely important. We understand that this country has went through a period of at least 250 years of the institution of enslavement and what happened is the those who were enslaved at that time lost amongst many things their dignity and their pride and humanity so we're excited about collaborating with this witness stones project because we realize that truth brings healing. The historic Rockford plantation was involved in that institution of slavery and this project helps right a wrong. We do this project also understanding that it is extremely important for us to involve our youth so we connected with and partnered with the school district of Lancaster to educate and to support this effort lastly have opportunity to introduce Pam Stoner she has been has spearheaded this project for the last couple of years thank you thank you so much for having us this"
+    },
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_03",
+      "category": "recurring",
+      "start": 827.4,
+      "end": 1342.32,
+      "duration_s": 514.9,
+      "segment_count": 154,
+      "word_count": 1304,
+      "text": "evening and Thank You Nelson as Nelson said I am a representative of historic Rockford I've been a volunteer there for many many years and I can tell you that in at least the last decade we've been really working hard to tell a more complete version of history as it relates to general Edward hand and his property. Several years ago we engaged with the African American Historical Society to have assistance in how to better tell the story of the enslaved population that we that we know about that are connected to our site. It's been extremely helpful and one of the ways that we if you could switch the slide one of the ways that we have found that's Rockford you can go one more sorry, one of the ways that we have found is helpful is to give a physical presence to people who don't have a voice in history or have not had a voice in history. And what you're seeing here is one of the tools that we've initiated and that is an exhibit that is in the center hall right in front of the front door in the Rockford mansion. And this is focused on a man by the name of Frank. He was a man of African descent who was enslaved by Edward Hand, but who also self-emancipated by escaping Rockford in 1802. And that's how we know a few things about Frank, and we are able to tell his story. We are also aware of three other individuals who were enslaved by the Hand family. They were located at their home in downtown Lancaster before they moved to Rockford. Their house, and you can switch again. Wrong one, sorry, you can stay there. Their house, it was located on the square in downtown Lancaster. So when we started to think about strategies for memorializing and educating about those individuals, we looked toward an organization called the Witness Stones Project. They are located in Guilford, Connecticut. They're a regional nonprofit that is dedicated to educating the public about northern slavery, a topic that a lot of people don't know a lot about. And we experience that almost every day when we do tours at Rockford. People are very surprised. They help communities on a local basis, help to restore the history of slavery and the humanity of the enslaved people who lived in their communities. They work with organizations and communities all over the Northeast and the Mid-Atlantic. But Lancaster is going to be their very first project in Pennsylvania, and it looks like it's also going to be their largest project to date. So they're very excited about this, as we are. OK, so as you see in this slide, we've got some students. At the heart of this project is education. As Nelson said, we're very happy that the school district of Lancaster has agreed to be our educational partner and that we have Dr. Todd Mealy. Todd, can you wave? Dr. Todd Mealy, an excellent social studies teacher at McCaskey who will be guiding his students through this very difficult information. He has instructed them on the five themes of slavery, a very important foundation for this work. And now they are using primary source documents to research and look for tidbits of information about the enslaved people who are mentioned there. It helps them to connect with real people by name who were enslaved in our city. They are also going to be working on strategies to connect with the public on this. They want to be able to share their new knowledge. It will culminate with a dedication ceremony that we are hoping to present this spring. We're working, of course, with the city and a lot of other organizations that need to coordinate on that. So it will be something that is well publicized And as I mentioned, open to the public. You can go to the next slide. OK, so as I mentioned, there will be a dedication ceremony. So after education and civic engagement comes memorialization. As I mentioned before, it's really helpful if there is a physical presence for the people we are trying to memorialize. So you can see here actual examples of witness stones, two that are installed in the brick in I'm not sure which city, and also one that you can see the scale. It's a 4 by 4 inch block. These are going to be embedded in the ground, in the surface, at the locations where enslaved people lived and labored. So you can see here the Jasper Yates House. That's on South Queen Street. And the area that is boxed with the red you can see is the brick that is between the sidewalk and the street in most areas throughout the historic district. That is where we expect these to go. We've been working with representatives from the Public Works Department and city government to make sure that we can navigate all the logistics involved with installing these. And we will be engaging a city-approved contractor to be able to do this so that everything is safe and secure. OK. As I mentioned, the Hand household before Rockford was on the square in Lancaster. And you can see two images here. It was located around the fountain. And here's just a really nice old photo of that same area that may or may not show their home. We're not sure. But the red dots that you see are just a sampling of the locations where witness stones may go. We have a team of local historians and researchers who are working in consultation, I should say, with Dr. Leroy Hopkins. And they have gone through hundreds and hundreds of documents to find this information. We are trying to gain the support of city residents, city businesses, and property owners. We certainly don't want to upset anyone or cause anyone heartache through this process, but it is our job to encourage people to accept this as history and as an important project for our city. We are really happy that Willow Valley Communities is on board. They're very enthusiastic in their support. They are, of course, the owners of the Jasper Yates House and the future Mosaic Residences. So that's a big feather in our cap. OK, you can switch again. This is a privately funded project. We have been really laying the groundwork for this for over two years. And we applied for and received substantial grant monies from the County Community Foundation, the Steinman Foundation, the Art and Selma Walters Trust, Willow Valley Communities, private businesses, and philanthropists. And just this morning, we got word that we received the entire request that we put in to the High Foundation, which is also something that we're very, very excited about. We're optimistic about this project. We think people will learn a lot from it, and we think that it will go a long way toward educating the public about a subject that has sort of been lost in time. We will continue to raise funds for this, and if we exceed our goal, we would like to be able to extend this program. We'd like to offer it to other nonprofits that may want to be involved. We would like to install more witness stones. I did not mention, but I should, that we are funding this for three years. And in each year, we're hoping to install 25 witness stones in the historic district. So we also, as I mentioned, want to extend the project so that we can include more students. And with that, I'm going to introduce our McCaskey student. Her name is Ariadna. And I would like to ask you to come up to the microphone."
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_02",
+      "category": "commenter_candidate",
+      "start": 1342.32,
+      "end": 1491.48,
+      "duration_s": 149.2,
+      "segment_count": 27,
+      "word_count": 295,
+      "text": "Thank you. My name is Ariadna Avila. I'm a senior at McCaskey High School. I'm involved in the Buddy Glover Project, where I have had the opportunity to meet inspiring figures like civil rights activist Minnijean Brown-Trickey and movie director Keith Beauchamp. After graduating, I plan on attending Dickinson College, where I plan to study political science and continue to find ways to enrich the Lancaster community. To me, the Witness Zones project will represent a way in which the school will honor the people who were part of a significant contribution to this community. And yet, they were not recognized because of the unjust system set up by society. While I participated in a summer program at Dickinson College called Knowledge for Freedom, I realized much history is not taught in classrooms or really how much we don't know about the history of the places that we live in furthermore i realized that there are many local heroes that contributed to something bigger in history and yet they're often forgotten i learned that through witness stones a lot of stories can be exposed as a learning stop for all who see them not only will it serve back to the community by being a lesson to all who see them but it will also honor the families that never got the honor to be recognized for their contributions to lancaster i speak for my classmates involved in the witness stones project when i say how excited we are to perform work that reconciliate with past injustices. Thank you for your support and with it you will open opportunities for you and many students who will follow to make a lasting and positive impact on society. Thank you. Thank you so much to all of"
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1491.48,
+      "end": 1559.64,
+      "duration_s": 68.2,
+      "segment_count": 11,
+      "word_count": 188,
+      "text": "you. Who in the room is participating in the project? Just out of curiosity there seem to be a lot of folks here thank you so much for being here to tell us about where we are really I am very excited about this project and I think living history is so very important and and hearing from you as a student and the project is incredibly impactful and exactly what I needed to hear today so thank you I'll take a moment if there are any questions from members of council that folks may be able to answer this evening about the project thank you very much for coming before us tonight and if there's anything that we can do to be of assistance when it's time to put the wind the stones into the ground please let us know all right thank you thank you give us a moment to reset our av and i will say we do have an agenda after this i know that some people may be here just for that item so we want to thank you and also you're welcome"
+    },
+    {
+      "block_id": 11,
+      "speaker": "SPEAKER_05",
+      "category": "commenter_candidate",
+      "start": 1559.64,
+      "end": 1599.11,
+      "duration_s": 39.5,
+      "segment_count": 1,
+      "word_count": 22,
+      "text": "to stay if you wish mr harris are we good with the agenda on the screen it may just need to be"
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1600.46,
+      "end": 1628.86,
+      "duration_s": 28.4,
+      "segment_count": 4,
+      "word_count": 67,
+      "text": "that's okay technology is not a perfect technology thank you perfect all right we will continue with our rest of our agenda the next item is interim reports of committees of council which i don't believe we have tonight mr harris is that correct that is correct thank you we'll move into our legislative agenda for this evening our first items are historic district items mr harris"
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 1631.14,
+      "end": 1674.62,
+      "duration_s": 43.5,
+      "segment_count": 8,
+      "word_count": 111,
+      "text": "with you this evening considering the following applications and recommendations from the historical commission for improvements to properties within the heritage conservation district first is kenneth dupree owner of 615 fourth street freer proposes demolition of a one-story frame garage facing george street to allow new garage construction on the site and kenneth dupree owner of 615 fourth street rear purposes construction of a new one-story frame garage facing george street and leicester parking authority owner of 111 north prince street proposes the expansion of recessed ground floor office space facing north prince street and new upper level wall treatments and those applications were all recommended for approval by the historical"
+    },
+    {
+      "block_id": 14,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1674.62,
+      "end": 1750.2,
+      "duration_s": 75.6,
+      "segment_count": 9,
+      "word_count": 145,
+      "text": "commission motion to approve second we have a motion to approve and a second uh councillor arroyo just to clarify for each item uh together is that correct correct if i may yes sir great thank you very much uh thank you counselors uh in uh council craig's absence i'll just make a comment each of you have received memos from the historical commission detailing their recommendations for approval of these applications by unanimous vote if there are any representatives for the applicants who are here to wish to provide any additional information you can come forward at this time are there any additional comments from members of council on the applications comments from members of the public on the on the applications hearing none mr harris mr mann thank you we'll move into resolutions we have one of those this evening it's resolution number"
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 1750.2,
+      "end": 1756.6,
+      "duration_s": 6.4,
+      "segment_count": 1,
+      "word_count": 15,
+      "text": "8 2025 mr harris a resolution extending declaration of the state of emergency related to"
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1756.6,
+      "end": 1840.84,
+      "duration_s": 84.2,
+      "segment_count": 13,
+      "word_count": 219,
+      "text": "emergency shelters second we have a motion and a second for the resolution uh council members um i want to thank you for this addition to our meeting as you may recall we passed an emergency declaration at the end of 2024 so tenfold could operate low barrier shelter at their location on east king street this declaration was set to expire on the 31st just a few days from now they have been providing extended day shelter for anchor during the code blue and continue to serve as an overnight shelter during code blue because of this ongoing need tenfold has been in touch with our the city planning team to bring requests to zoning hearing board in april for the permanent zoning relief to allow this shelter to continue to operate this evening we are requesting an extension of the state of emergency so that the shelter can continue to operate in our city i just want to thank tenfold for ramping up their operations and continuing to do this incredibly important work in temperatures that were sub-zero on some nights in the recent days it's incredibly important that they have been able to continue to provide this service any additional comments from council on the resolution to extend the emergency council president i just wanted to"
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_06",
+      "category": "commenter_candidate",
+      "start": 1840.84,
+      "end": 1851.0,
+      "duration_s": 10.2,
+      "segment_count": 2,
+      "word_count": 31,
+      "text": "echo the sentiments that we thank our partners like tenfold who have been arm and arm with us as we fight this homelessness crisis especially during the colder temperatures thank you"
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1852.44,
+      "end": 1864.73,
+      "duration_s": 12.3,
+      "segment_count": 1,
+      "word_count": 14,
+      "text": "thank you comments from the public on the resolution starting burning street how long"
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_00",
+      "category": "commenter_candidate",
+      "start": 1864.73,
+      "end": 1871.79,
+      "duration_s": 7.1,
+      "segment_count": 1,
+      "word_count": 16,
+      "text": "are we extending the emergency from it was to go till April and now it's going"
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1871.79,
+      "end": 1889.31,
+      "duration_s": 17.5,
+      "segment_count": 3,
+      "word_count": 43,
+      "text": "to when the original emergency declaration covered through the 31st of January so just the end of oh okay so this is actually to March 31st okay my plan is to they're gonna be able to come before zoning and get the approval"
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_00",
+      "category": "commenter_candidate",
+      "start": 1889.31,
+      "end": 1895.13,
+      "duration_s": 5.8,
+      "segment_count": 1,
+      "word_count": 16,
+      "text": "before April oh okay so that it would be a permanent shelter there as of before"
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1895.13,
+      "end": 1940.09,
+      "duration_s": 45.0,
+      "segment_count": 6,
+      "word_count": 95,
+      "text": "eight the zoning would be for would be in place for them to maintain a shelter there without this emergency declaration thank you absolutely any additional comments from the public on the thank you that concludes our legislative agenda this evening we'll now move into our second public comment period it's open for issues that were not previously on the agenda again duration of comments is limited to three minutes per speaker please begin with your name and block of residence for our meeting record if there's anyone wishing to make a public comment this"
+    },
+    {
+      "block_id": 23,
+      "speaker": "SPEAKER_00",
+      "category": "commenter_candidate",
+      "start": 1940.09,
+      "end": 1996.9,
+      "duration_s": 56.8,
+      "segment_count": 9,
+      "word_count": 159,
+      "text": "evening please come forward at this time once darling bird i didn't get to speak quickly about the project you didn't ask for public comment but uh with the stone um foundation that just went on i hope that we're looking at some way to maintain it i heard them say three years they would be funding and a lot of times we see things put in our community to represent our history and there's no plan to upkeep them for 10 years from now or the work that the students are doing that council would at least ask for what is your maintenance plan what happens after five years i mean we heard them say for three years but i think that's important i do think it's a a good project but I think that maintaining stuff that we put in our community is also important and we need to figure out how we're going to do that"
+    },
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1996.9,
+      "end": 2044.0,
+      "duration_s": 47.1,
+      "segment_count": 8,
+      "word_count": 112,
+      "text": "thank you very much any additional public comment this evening hearing none will close public comments the rest of the agenda the next item is the report of the mayor mayor sirachi could not be here this evening and I don't have a report to give in her place the next item is the report of president of council i do not have a specific report tonight um so then we will move to council comments are there any council comments this evening okay hearing none and having reached the conclusion of our agenda i'll hear a motion to adjourn motion to adjourn all in favor aye you're adjourned thank Thank you."
+    }
+  ]
+}

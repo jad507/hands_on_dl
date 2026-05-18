@@ -1,0 +1,599 @@
+{
+  "file": "Planning Commission [vqNOsyBYp08]",
+  "rttm_mode": "standard",
+  "settings": {
+    "max_gap_s": 30.0,
+    "recurring_threshold_s": 180.0,
+    "avg_segment_threshold_s": 15.0
+  },
+  "speaker_classification": {
+    "SPEAKER_00": {
+      "category": "recurring",
+      "total_speech_s": 270.9,
+      "block_count": 6,
+      "segment_count": 41,
+      "avg_segment_s": 6.6,
+      "word_count": 726
+    },
+    "SPEAKER_01": {
+      "category": "commenter_candidate",
+      "total_speech_s": 162.1,
+      "block_count": 4,
+      "segment_count": 28,
+      "avg_segment_s": 5.8,
+      "word_count": 466
+    },
+    "SPEAKER_02": {
+      "category": "commenter_candidate",
+      "total_speech_s": 62.4,
+      "block_count": 2,
+      "segment_count": 9,
+      "avg_segment_s": 6.9,
+      "word_count": 172
+    },
+    "SPEAKER_03": {
+      "category": "commenter_candidate",
+      "total_speech_s": 18.2,
+      "block_count": 1,
+      "segment_count": 3,
+      "avg_segment_s": 6.1,
+      "word_count": 59
+    },
+    "SPEAKER_04": {
+      "category": "recurring",
+      "total_speech_s": 370.5,
+      "block_count": 7,
+      "segment_count": 53,
+      "avg_segment_s": 7.0,
+      "word_count": 975
+    },
+    "SPEAKER_05": {
+      "category": "commenter_candidate",
+      "total_speech_s": 74.5,
+      "block_count": 3,
+      "segment_count": 10,
+      "avg_segment_s": 7.5,
+      "word_count": 164
+    },
+    "SPEAKER_06": {
+      "category": "recurring",
+      "total_speech_s": 235.9,
+      "block_count": 7,
+      "segment_count": 17,
+      "avg_segment_s": 13.9,
+      "word_count": 290
+    },
+    "SPEAKER_07": {
+      "category": "commenter_candidate",
+      "total_speech_s": 34.8,
+      "block_count": 2,
+      "segment_count": 7,
+      "avg_segment_s": 5.0,
+      "word_count": 115
+    },
+    "SPEAKER_08": {
+      "category": "commenter_candidate",
+      "total_speech_s": 43.3,
+      "block_count": 2,
+      "segment_count": 6,
+      "avg_segment_s": 7.2,
+      "word_count": 99
+    },
+    "SPEAKER_09": {
+      "category": "recurring",
+      "total_speech_s": 306.3,
+      "block_count": 12,
+      "segment_count": 40,
+      "avg_segment_s": 7.7,
+      "word_count": 713
+    }
+  },
+  "blocks": [
+    {
+      "block_id": 0,
+      "speaker": "SPEAKER_06",
+      "category": "recurring",
+      "start": 431.79,
+      "end": 455.68,
+      "duration_s": 23.9,
+      "segment_count": 2,
+      "word_count": 38,
+      "text": "at 5 32 we'll call the meeting to order number two the approval of the minutes from january 15th 2024 2025. do i have to write one up here yeah nice i'll change that i also just wanted"
+    },
+    {
+      "block_id": 1,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 455.68,
+      "end": 483.92,
+      "duration_s": 28.2,
+      "segment_count": 3,
+      "word_count": 56,
+      "text": "to add that i did make two amendments to the original minutes you should have gotten the most recent ones this afternoon the two amendments were to add the um times to the um call to order and adjournment and the making of uh north water street consistent in both the um the title and the"
+    },
+    {
+      "block_id": 2,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 484.64,
+      "end": 544.91,
+      "duration_s": 60.3,
+      "segment_count": 5,
+      "word_count": 88,
+      "text": "section um i'd actually like to make a motion just to amend one more thing yes um i would appreciate if we could more quote when i made comments about the demolition that i reflected on uh lancaster's history and demolition for the sake of progress um yeah that that's all so am i missing something here in which section uh it would be 5a thank you actually with that um instead of motioning just to amend that all motion to make that amendment and approve the minutes"
+    },
+    {
+      "block_id": 3,
+      "speaker": "SPEAKER_06",
+      "category": "recurring",
+      "start": 544.91,
+      "end": 607.87,
+      "duration_s": 63.0,
+      "segment_count": 5,
+      "word_count": 89,
+      "text": "simultaneously i will second that we have a motion on the floor in a second uh with the proper amendments of 5a and also the change of the date 2025 january 15 2025. ready for the question all in favor let it known by saying aye aye aye aye aye aye opposed hearing none eyes have it motion carry three subdivision and land development a uh waiver of land development uh 32 north water street table from january the 15th and so this you received by a packet the"
+    },
+    {
+      "block_id": 4,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 607.87,
+      "end": 627.49,
+      "duration_s": 19.6,
+      "segment_count": 2,
+      "word_count": 30,
+      "text": "additional information including the site plan and then i also sent along today some updated plans steve and steve is here if you have questions oh yes i sure can"
+    },
+    {
+      "block_id": 5,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 630.9,
+      "end": 635.62,
+      "duration_s": 4.7,
+      "segment_count": 1,
+      "word_count": 15,
+      "text": "any specific questions you want me to to kind of answer i'm not sure exactly"
+    },
+    {
+      "block_id": 6,
+      "speaker": "SPEAKER_06",
+      "category": "recurring",
+      "start": 636.26,
+      "end": 647.06,
+      "duration_s": 10.8,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "the conversation last state your name please steve young mr young one of the questions i had"
+    },
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_02",
+      "category": "commenter_candidate",
+      "start": 647.06,
+      "end": 663.74,
+      "duration_s": 16.7,
+      "segment_count": 2,
+      "word_count": 40,
+      "text": "i was looking at the plan and i know there's one with a little bit more detail that was also sent to us um what are we looking at for egress or maybe windows on the um apartment side sure"
+    },
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 663.74,
+      "end": 807.71,
+      "duration_s": 144.0,
+      "segment_count": 20,
+      "word_count": 364,
+      "text": "yes so the egress is gonna and i had done the original just hand drawing um architects kind of been working through what she's doing there so the access to the apartments is along west grand street so a few years back i had done the development of 30 north water street and that was creating micro apartments commercial on the first floor by doing that we you know dug down excavated to be able to to provide ada access for that building so the plan with these other apartments so 32 it's 32 and 34 north water street it's just deed wise it's called 32. so lancaster galleries joyce recently retired so i bought the building years back so our agreement was once she retired i was just going to develop the back part of that so the front part of it is staying commercial and then the rear part is this warehouse piece that was added i'm guessing probably in the 60s or something like that it used to be friendly taxi had they would drive in from the street and just work on their taxis in the back which is kind of interesting and unique for sure so ultimately to get access to those we're going to use the current ada ramp which has the level air at the bottom there so based on calculations it's about three inches difference to be able to ramp up to the concrete warehouse floor which is why you see that cut in you know there inside the door that we're going to create there so right now we have mini split HVAC so we're just going to move those over and just extend the entrance you know into that warehouse at that property so as far as windows there are a few small windows around the sides of the the warehouse so as we kind of work through that we're figuring out if egress windows are necessary and previously in the past there had been about eight skylights as part of the roof structure there so we're going to look to add those as well so to get the natural light into the apartments"
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_03",
+      "category": "commenter_candidate",
+      "start": 812.46,
+      "end": 831.31,
+      "duration_s": 18.8,
+      "segment_count": 3,
+      "word_count": 59,
+      "text": "sure this is all on the first level correct all first level yeah so these will all be ada accessible apartments you're going to be using the ramp that currently services 30 north correct yes and then is are you going to make them one parcel or is it i'm sorry say that again 30 and 32 34 one"
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 831.31,
+      "end": 863.31,
+      "duration_s": 32.0,
+      "segment_count": 5,
+      "word_count": 89,
+      "text": "parcel how will you maintain that um so i mean technically the ramp parcel is on a different llc that i own it was part of the property at 210 west grand street when i purchased that so we just shaved off a little bit of those parking spaces to be able to create that ramp um so in that process there wasn't actually anything required since i had owned all of those collectively so um i mean i guess whatever easement wise or whatever is necessary you know"
+    },
+    {
+      "block_id": 11,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 863.31,
+      "end": 877.82,
+      "duration_s": 14.5,
+      "segment_count": 3,
+      "word_count": 53,
+      "text": "for that i think that's simple enough i was going to say just in the event that you never own all the parcels definitely getting an easement recorded for access would be pretty important because otherwise sell one building and next thing you know all your tenants are like i can't get into"
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 877.82,
+      "end": 886.34,
+      "duration_s": 8.5,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "the apartment sure yeah now that makes sense yeah i would also suggest um contacting uh the engineer"
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 886.34,
+      "end": 921.58,
+      "duration_s": 35.2,
+      "segment_count": 6,
+      "word_count": 90,
+      "text": "for separate addresses for the apartments sure uh i'm gonna add of what mr whalen had said about like just windows i i know you said you're evaluating i hope in your evaluation you can can determine I understand especially the middle apartments it could be a challenge maybe to find light because they don't even have a wall to wall access but you know light keeps people happy regulated so anything you can do to make sure your tenants have natural light I appreciate yeah no so the the"
+    },
+    {
+      "block_id": 14,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 921.58,
+      "end": 947.6,
+      "duration_s": 26.0,
+      "segment_count": 5,
+      "word_count": 76,
+      "text": "warehouse kind of encompasses the footprint of the building or the property as well so what we had done on 30 Northwater is since that's on the property line two we were able to get fireproof glass to be able to do windows so it's actually technically part of the wall structure so I mean not cheap but I mean it's a way to get natural light you know into any of the apartments that we"
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 947.6,
+      "end": 965.27,
+      "duration_s": 17.7,
+      "segment_count": 3,
+      "word_count": 55,
+      "text": "were doing the only real question I have is you answered the question slash concern I had at the last meeting which is the commercial space because it's on the water street with the bike lane correct on the note of bike lanes do you have any uh bike parking at your facilities around here"
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 965.27,
+      "end": 1023.22,
+      "duration_s": 58.0,
+      "segment_count": 8,
+      "word_count": 144,
+      "text": "so there is um at 210 west grand street we have a built-in um bike parking and that at 30 north water street we had like a bike rack you know set up so i mean it's kind of not bolted down but i mean it's available for bike parking. And I had spoken to Jamil about that so. I'm just curious about the size of these apartments. So right around 400 square feet or so. So you know the warehouse itself that's where we're just kind of working through dimensions. So the warehouse itself is about 2,400 square feet. So she was showing these at a little over 400 so which is like 16 so i mean i figure there's probably square footage somewhere that just wasn't calculated but you know studio type apartments so nothing below the minimums that the city requires"
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_08",
+      "category": "commenter_candidate",
+      "start": 1024.39,
+      "end": 1030.87,
+      "duration_s": 6.5,
+      "segment_count": 1,
+      "word_count": 19,
+      "text": "yeah i mean i think this is a great project especially at that size yeah i mean the ability"
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1030.87,
+      "end": 1041.65,
+      "duration_s": 10.8,
+      "segment_count": 2,
+      "word_count": 38,
+      "text": "to be able to get ada units i mean it's just nothing that's usually on a developer's mind you know unfortunately so you know we like to be able to to do that where we can for sure"
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 1041.65,
+      "end": 1072.96,
+      "duration_s": 31.3,
+      "segment_count": 1,
+      "word_count": 19,
+      "text": "we have a motion on the floor to approve the waiver um what is that for 34 north 32"
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_06",
+      "category": "recurring",
+      "start": 1077.32,
+      "end": 1153.4,
+      "duration_s": 76.1,
+      "segment_count": 3,
+      "word_count": 52,
+      "text": "north water street and 30 and 30 north water street like it's just 32. okay just got it you ready for the question all in favor let it known by saying aye aye aye hearing none eyes have it motion carry thank you footprint threshold requirement minor plan 618 south prince street"
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_05",
+      "category": "commenter_candidate",
+      "start": 1157.8,
+      "end": 1179.17,
+      "duration_s": 21.4,
+      "segment_count": 2,
+      "word_count": 35,
+      "text": "just introduce yourself yes uh good afternoon my name is dave keener i'm the project engineer uh on this project for new person ministry are there any questions yeah i do have a question so"
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 1179.17,
+      "end": 1192.39,
+      "duration_s": 13.2,
+      "segment_count": 2,
+      "word_count": 38,
+      "text": "just reading the text of our agenda um i saw it was a conversion but then i also saw like a demolition so i'm just a little confused on if we're converting a building or if we're tearing"
+    },
+    {
+      "block_id": 23,
+      "speaker": "SPEAKER_05",
+      "category": "commenter_candidate",
+      "start": 1192.39,
+      "end": 1230.03,
+      "duration_s": 37.6,
+      "segment_count": 5,
+      "word_count": 73,
+      "text": "our building down and using its footprint yeah good question so um the existing building is a just a block building pretty generic it was a storage building and so it's going to be they had determined that they can't really use the block structure for residential purposes. So they're tearing it down to the foundation and then rebuilding it to fit into the housing that's on either side. So that's the plan."
+    },
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1231.22,
+      "end": 1280.24,
+      "duration_s": 49.0,
+      "segment_count": 7,
+      "word_count": 128,
+      "text": "And so the ask of the commission is to waive the threshold requirement. it suits a minor plan in all ways other than the square footage and so the request is to allow the extra square footage and to enable this plan to move forward as a minor if it is not approved as a waiver to put it into the minor it throws this plan into a regular land development and so it is still going to go through the full and development process just only as a minor plan that's what the waiver is for okay it's not leaving it out of a minor plan it's waving it in to a minor plan and it both happened so i understand that's why i wanted to clarify"
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 1280.24,
+      "end": 1298.06,
+      "duration_s": 17.8,
+      "segment_count": 3,
+      "word_count": 60,
+      "text": "well i appreciate that because i was a little confused at first it read to me like we were um waving any plan process and you know if it was a conversion of a building that was existing i think i'd be amenable to that but because it's a tear down and rebuild it i'm like let me say it"
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1300.14,
+      "end": 1319.31,
+      "duration_s": 19.2,
+      "segment_count": 3,
+      "word_count": 54,
+      "text": "a minor plan is going to move forward it just it because it it goes to all the other standards of a minor plan except this one he's asking for your approval to allow it to proceed as a minor plan as opposed to a regular land development it might be worth mentioning that"
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_05",
+      "category": "commenter_candidate",
+      "start": 1319.31,
+      "end": 1339.23,
+      "duration_s": 19.9,
+      "segment_count": 3,
+      "word_count": 56,
+      "text": "it had been the plan had been before the historic board and we also went through zoning to extend uh to uh into the rear yard setback we needed a little bit more space there for the plan to work so they um yeah we made that request of the zoning hearing board which they approved"
+    },
+    {
+      "block_id": 28,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 1340.76,
+      "end": 1360.04,
+      "duration_s": 19.3,
+      "segment_count": 3,
+      "word_count": 44,
+      "text": "at least you're on top of it verification i do feel comfortable enough to say i'll i'll make a motion for this waiver to approve this uh waiver into a minor plan process second you have a motion on the floor to approve this"
+    },
+    {
+      "block_id": 29,
+      "speaker": "SPEAKER_06",
+      "category": "recurring",
+      "start": 1360.92,
+      "end": 1394.46,
+      "duration_s": 33.5,
+      "segment_count": 3,
+      "word_count": 52,
+      "text": "neighbor to a minor plan at 6 18 south prince street better put a question all in favor let it known by saying aye aye aye aye aye hearing none eyes have it motion carry thank you for your time sure four instead report planning commission um just a couple of quick"
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1394.46,
+      "end": 1644.36,
+      "duration_s": 249.9,
+      "segment_count": 36,
+      "word_count": 673,
+      "text": "notes uh for today one i wanted to give an update on the east end small area plan i'm happy to report that we had a very successful project team meeting last week um and we were able to share the um our our consultant came and shared a powerpoint presentation that covered our existing conditions plan the plan the existing conditions report i should say is 77 pages and she was able to bring it down to like 14 slides and so much more digestible and it just gave a nice overview of what all is included in the existing conditions report and then we are now in the process of trying to get that report the 77 pages out to the the project team we're struggling with the size of the file and having to break it into several pieces and then get it loaded somewhere where all of the project team members will be able to comment on it because not everybody has that version of adobe where you can comment and so we are we're working on it but also we had the state of the city last night and so monday and tuesday nobody was working on it and so we're getting there um and so that we also talked about um beginning uh public engagement and so last night at the state of the city address i had a table etsy joined me and we had um the survey we've created the online survey and a qr code so we had a handout that had the qr code on it to begin gathering community engagement through the survey i'm also going to go and have a table at a public works event about the east end connector which is going to go right near mccaskey which is also going to cut through the east end and so i'll also have a table there i'm hoping also to go and speak with the parent organization at mccaskey and so trying to hit that area particularly people who have students who are walking and biking to school so that of course mccaskey campus has all three it has elementary middle and high school right in that area so it's a really important area for us to hit um and so things are moving along nicely uh it took us a while but i think that we're on the move and should be seeing some good community engagement come early spring um so that's up for the east end plan and then for the train station i know somebody had asked about that the last time that we had a meeting and so just as a very brief update we did also have a meeting for that and i think that the most important thing to know is for right now going forward the first piece of it that is being worked on is the transportation piece and so there's a lot of road work that's going to need to be done for that plan and it's going to involve a lot of coordination between the city and manhattan township and pendot and all of those intersections that are going to need a lot of work and a lot of restructuring and there's going to be a lot of negotiating with regard to you know how pendot envisions fixing the roads versus how manheim or the city envisions fixing the roads so just kind of coming to the table and figuring out how that's going to work and who's going to lead all of that is a big piece of where we are right now we're working within the county so uh sitting at the table right now is the county in manheim and the city alliance um and of course the city and so everybody's there to try to figure out how to how to make it all work together cooperatively and so that is where that plan is anybody else have any questions about projects i just will"
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 1644.36,
+      "end": 1649.64,
+      "duration_s": 5.3,
+      "segment_count": 1,
+      "word_count": 15,
+      "text": "add real quick that the pedestrian bridge over the tracks looks like that that construction"
+    },
+    {
+      "block_id": 32,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1649.64,
+      "end": 1657.8,
+      "duration_s": 8.2,
+      "segment_count": 1,
+      "word_count": 16,
+      "text": "that has started which is exciting oh that's it that's great yeah everyone pass there thanks"
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 1669.56,
+      "end": 1725.87,
+      "duration_s": 56.3,
+      "segment_count": 8,
+      "word_count": 155,
+      "text": "um yeah we got a lot of time so i'll figure i'll just kind of informally be like let's talk a little bit about the comp plan stuff um i was curious if it would be possible to get me a gis file of our existing zoning map um because i'd like to work up just some general conceptual like just totally theoretical maps of uh what things might look like um but i i really don't want to rebuild the map so i'm hoping that the city has a file they can share with me with any redactions to private information of course um so that's like a request to staff but generally i'm just curious how you guys feel um you know we have a lot of zoning districts i forget how many exactly but like more than a dozen which is a lot um i'm curious how many zoning districts do you"
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_01",
+      "category": "commenter_candidate",
+      "start": 1725.87,
+      "end": 1787.53,
+      "duration_s": 61.7,
+      "segment_count": 10,
+      "word_count": 172,
+      "text": "guys feel is appropriate because i'd like to see a reduction so i can work on getting you the gis file um i would maybe caution you not to go outside of the realms of a committee when we go through the zoning process because all of that would be explored in the committee portion of it um obviously having ideas of what you want to what you think should happen would be good i do believe the comp plan includes a reduction in the number of zoning districts and kind of consolidation so we are looking at that at the next planning commission meeting very loud the next planning commission meeting i'm going to kind of present the timeline that we're looking for to go through the zoning ordinance process update process and i can also provide a implementation plan that we have for 2025 and we're working on that right now um for the comp plan so okay like the high priority yeah betsy logan i'm the planning bureau chief"
+    },
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 1792.88,
+      "end": 1805.37,
+      "duration_s": 12.5,
+      "segment_count": 2,
+      "word_count": 38,
+      "text": "so thank you um no i'm just one person on the body but i i am definitely the type of person who likes to throw ideas out there for just general consumption uh and i love making maps"
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_01",
+      "category": "commenter_candidate",
+      "start": 1805.37,
+      "end": 1809.57,
+      "duration_s": 4.2,
+      "segment_count": 1,
+      "word_count": 13,
+      "text": "yeah then the zoning map doesn't have anything like that layer doesn't have"
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_08",
+      "category": "commenter_candidate",
+      "start": 1809.57,
+      "end": 1846.4,
+      "duration_s": 36.8,
+      "segment_count": 5,
+      "word_count": 80,
+      "text": "anything like personal data or anything like that on it so yes I'm curious are there pieces that Planning Commission can help with could that be part of the presentation like if there are things that you want us to start working on when we have time or is this do you see this as mostly just like you can stay driven and we you know can advise that's a great question i don't know that i've worked that out"
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_01",
+      "category": "commenter_candidate",
+      "start": 1847.28,
+      "end": 1891.85,
+      "duration_s": 44.6,
+      "segment_count": 8,
+      "word_count": 136,
+      "text": "yet um and i think it really depends there's a couple different ways that the zoning um process can occur whether it's like through a steering committee that is supported by the planning commission like members from there and other agencies or boards and commissions would be part of or if it's the planning commission that's the steering committee and it goes from there so i think um as part of our scope we're going to include that as a recommendation that we want to see from the consultant um on how they how they would recommend proceeding so we're working i've got a draft scope prepared i'm um in the process of trying to finalize an rfp because we'll need a consultant to kind of lead this process since it's it's a big big undertaking"
+    },
+    {
+      "block_id": 39,
+      "speaker": "SPEAKER_02",
+      "category": "commenter_candidate",
+      "start": 1891.85,
+      "end": 1937.53,
+      "duration_s": 45.7,
+      "segment_count": 7,
+      "word_count": 132,
+      "text": "i would definitely say with the staff blessing as well as with our chair's blessing um i think it'd be a great idea to float or perhaps muster ahead of time any subcommittee interest or steering committee interest in that because when you're ready to pull someone like tony or whoever else would be interested in it um then you have us ready to go i would not be opposed at all to floating that idea in front of the um people who are here today and have it noted for the people who aren't here today who might be interested in that because i think there's a lot of interest in helping helping with that because it's a it's an enormous task right it is yeah a lot of eyes are"
+    },
+    {
+      "block_id": 40,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 1937.53,
+      "end": 1957.26,
+      "duration_s": 19.7,
+      "segment_count": 3,
+      "word_count": 57,
+      "text": "needed on it too and so so you said we're we're going to be doing an rfp to hire a consultant for the uh zoning review or zoning change process correct okay and i'll just say for the record that yeah for the steering committee i think i've expressed a lot of interest in being on that"
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_07",
+      "category": "commenter_candidate",
+      "start": 1957.26,
+      "end": 1986.81,
+      "duration_s": 29.5,
+      "segment_count": 6,
+      "word_count": 100,
+      "text": "gotcha what else about it's a great opportunity for the planning commissioner act with the zoning hearing board as well because they definitely need to be at the table for any talk we have about zoning and so i think anytime we can talk with them work with them have a you know beneficial relationship uh because there are responsibilities but that is not always the case for sometimes the planning commission the zoning hearing board don't always pull in the same direction so i think that would be key to making a lot of these zoning changes a reality"
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_01",
+      "category": "commenter_candidate",
+      "start": 1986.81,
+      "end": 2044.48,
+      "duration_s": 57.7,
+      "segment_count": 9,
+      "word_count": 145,
+      "text": "yeah i would say um i would want to run that by our solicitor just because in the past i've had comment from other solicitors that you don't want zoning hearing board involved in the actual zoning process because i mean obviously they can provide feedback and they're residents so they could be involved in that aspect just so that you kind of keep that separation of you know but we will definitely consider the kind of variances that have been approved we have a database of that what the consist like consistently is getting asked for and requested so that we can try to fix those in the ordinance um but yeah i think it's good to have a zoning hearing board member at least involved but I've also had feedback that it's not the best option so that'll have to be worked out"
+    },
+    {
+      "block_id": 43,
+      "speaker": "SPEAKER_06",
+      "category": "recurring",
+      "start": 2047.3,
+      "end": 2067.2,
+      "duration_s": 19.9,
+      "segment_count": 1,
+      "word_count": 15,
+      "text": "thank you hearing none do I have a motion to adjourn the meeting let's go"
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 2067.2,
+      "end": 2079.99,
+      "duration_s": 12.8,
+      "segment_count": 1,
+      "word_count": 16,
+      "text": "motion to adjourn second I have a motion oh yeah second and a second before the"
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_06",
+      "category": "recurring",
+      "start": 2079.99,
+      "end": 2095.93,
+      "duration_s": 15.9,
+      "segment_count": 2,
+      "word_count": 27,
+      "text": "question all in favor let it known by saying aye aye aye aye both hearing none eyes have it meeting adjourned at six o'clock on the dot"
+    }
+  ]
+}
