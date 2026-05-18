@@ -17,7 +17,9 @@ Usage:
 """
 
 import argparse
+import gc
 import json
+import os
 import sys
 import traceback
 from pathlib import Path
@@ -124,7 +126,16 @@ def main():
             print(f"  ERROR on {audio_path.name}:")
             traceback.print_exc()
 
+    # Explicitly release CUDA resources before exit to avoid CTranslate2 destructor crash
+    # on Windows (STATUS_STACK_BUFFER_OVERRUN / exit -1073740791).
+    del model
+    gc.collect()
+    import torch
+    if torch.cuda.is_available():
+        torch.cuda.empty_cache()
+
     print("\nDone.")
+    os._exit(0)
 
 
 if __name__ == "__main__":
