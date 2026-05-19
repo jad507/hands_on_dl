@@ -1,6 +1,6 @@
 """
-For each video in the filtered council list, extract commenter_candidate blocks
-from grouped_standard and grouped_exclusive, then write to downloads/comments/.
+For each video in the filtered council list, copy the full transcript
+from grouped_standard and grouped_exclusive to downloads/comments/.
 
 Output naming:
   - If standard == exclusive:  [title] [id].json
@@ -32,14 +32,11 @@ def load_json(path: str) -> dict | None:
 
 
 def extract_commenter_data(grouped: dict) -> dict:
-    """Return speaker_classification and blocks filtered to commenter_candidate."""
-    cc_speakers = {
-        spk: info
-        for spk, info in grouped["speaker_classification"].items()
-        if info.get("category") == "commenter_candidate"
+    """Return all speakers and blocks from the grouped transcript."""
+    return {
+        "speakers": grouped["speaker_classification"],
+        "blocks": grouped["blocks"],
     }
-    cc_blocks = [b for b in grouped["blocks"] if b.get("category") == "commenter_candidate"]
-    return {"commenter_speakers": cc_speakers, "commenter_blocks": cc_blocks}
 
 
 def get_video_list() -> list[tuple[str, str, str]]:
@@ -84,7 +81,7 @@ def main():
         base_name = f"{title} [{video_id}]"
 
         if std_data is not None and excl_data is not None:
-            if std_data["commenter_blocks"] == excl_data["commenter_blocks"]:
+            if std_data["blocks"] == excl_data["blocks"]:
                 # Identical — write once, note both modes agree
                 out = {
                     "title": title,
@@ -96,7 +93,7 @@ def main():
                 out_path = os.path.join(OUTPUT_DIR, f"{base_name}.json")
                 with open(out_path, "w", encoding="utf-8") as f:
                     json.dump(out, f, indent=2, ensure_ascii=False)
-                n = len(std_data["commenter_blocks"])
+                n = len(std_data["blocks"])
                 print(f"  [SAME]  {base_name}  ({n} blocks)")
             else:
                 # Differ — write two files
@@ -111,8 +108,8 @@ def main():
                     out_path = os.path.join(OUTPUT_DIR, f"{base_name}_{mode}.json")
                     with open(out_path, "w", encoding="utf-8") as f:
                         json.dump(out, f, indent=2, ensure_ascii=False)
-                ns = len(std_data["commenter_blocks"])
-                ne = len(excl_data["commenter_blocks"])
+                ns = len(std_data["blocks"])
+                ne = len(excl_data["blocks"])
                 print(f"  [DIFF]  {base_name}  (std={ns} blocks, excl={ne} blocks)")
         else:
             # Only one mode available
@@ -127,7 +124,7 @@ def main():
             out_path = os.path.join(OUTPUT_DIR, f"{base_name}_{mode}.json")
             with open(out_path, "w", encoding="utf-8") as f:
                 json.dump(out, f, indent=2, ensure_ascii=False)
-            n = len(data["commenter_blocks"])
+            n = len(data["blocks"])
             print(f"  [{mode.upper()[:4]}]  {base_name}  ({n} blocks, only this mode found)")
 
     print(f"\nDone. Output in: {OUTPUT_DIR}")
