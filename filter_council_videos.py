@@ -15,7 +15,7 @@ OUTPUT_FILE = r"C:\Users\Admin\PycharmProjects\hands_on_dl\council_video_list.tx
 TARGET_CHANNEL_ID = "UCBuExvyMYDwZoQwbhldXwvg"
 
 # Dates in YYYYMMDD format (same format used in the metadata upload_date field)
-DATE_START = "20250722"
+DATE_START = "20250201"
 DATE_END   = "20251201"
 
 

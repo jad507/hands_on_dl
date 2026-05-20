@@ -18,7 +18,7 @@ EXCLUSIVE_DIR  = r"C:\Users\Admin\PycharmProjects\hands_on_dl\downloads\grouped_
 OUTPUT_DIR     = r"C:\Users\Admin\PycharmProjects\hands_on_dl\downloads\comments"
 
 TARGET_CHANNEL_ID = "UCBuExvyMYDwZoQwbhldXwvg"
-DATE_START = "20250722"
+DATE_START = "20250201"
 DATE_END   = "20251201"
 
 

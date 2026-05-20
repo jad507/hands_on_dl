@@ -137,17 +137,17 @@ def _build_ydl_opts(
 
 
 def _extract_audio(video_path: Path, audio_path: Path) -> bool:
-    """Re-encode the audio track to AAC m4a. Returns True on success.
+    """Extract audio to 16 kHz mono WAV. Returns True on success.
 
-    Re-encoding (rather than stream-copy) keeps the output container valid
-    regardless of input codec — Opus-in-WebM, for instance, can't go into an
-    .m4a container via stream copy.
+    WAV/PCM sidesteps codec compatibility issues (Opus-in-WebM, AAC variants)
+    that caused faster-whisper's PyAV loader and Silero VAD to silently produce
+    zero segments on some YouTube downloads.
     """
     audio_path.parent.mkdir(parents=True, exist_ok=True)
     cmd = [
         "ffmpeg", "-y", "-loglevel", "error",
         "-i", str(video_path),
-        "-vn", "-c:a", "aac", "-b:a", "192k",
+        "-vn", "-ar", "16000", "-ac", "1", "-f", "wav",
         str(audio_path),
     ]
     result = subprocess.run(cmd, capture_output=True, text=True)
@@ -184,7 +184,7 @@ def _derive_audio_files(video_dir: Path, audio_dir: Path) -> None:
 
     failed: list[str] = []
     for target, sources in sorted(by_target.items()):
-        audio_file = audio_dir / f"{target}.m4a"
+        audio_file = audio_dir / f"{target}.wav"
         if audio_file.exists():
             continue
         # Prefer non-orphan (merged) source first; orphans only as fallback.

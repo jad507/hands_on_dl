@@ -25,9 +25,7 @@ Usage:
 import argparse
 import json
 import os
-import subprocess
 import sys
-import tempfile
 import traceback
 from pathlib import Path
 
@@ -62,25 +60,15 @@ def load_pipeline():
 
 
 def load_audio(audio_path: Path) -> dict:
-    """Decode audio to 16kHz mono via ffmpeg, load with soundfile, return pyannote dict.
+    """Load a 16 kHz mono WAV and return a pyannote-compatible dict.
 
-    torchaudio 2.11+ routes through torchcodec which fails on Windows without
-    the full-shared ffmpeg DLLs. We use ffmpeg subprocess (already on PATH) to
-    write a temp WAV, load it with soundfile, then delete it.
+    Audio files are now stored as 16 kHz mono WAV (produced by download_playlist.py
+    or converted by audit_downloads.py --fix), so soundfile reads them directly
+    with no ffmpeg temp-file round-trip needed.
     """
-    with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as tmp:
-        tmp_path = tmp.name
-    try:
-        subprocess.run(
-            ["ffmpeg", "-y", "-i", str(audio_path),
-             "-ar", "16000", "-ac", "1", "-f", "wav", tmp_path],
-            check=True, capture_output=True,
-        )
-        waveform_np, sample_rate = sf.read(tmp_path, dtype="float32")
-        # soundfile returns (samples,) for mono; pyannote wants (channels, samples)
-        waveform = torch.from_numpy(waveform_np).unsqueeze(0)
-    finally:
-        Path(tmp_path).unlink(missing_ok=True)
+    waveform_np, sample_rate = sf.read(str(audio_path), dtype="float32")
+    # soundfile returns (samples,) for mono; pyannote wants (channels, samples)
+    waveform = torch.from_numpy(waveform_np).unsqueeze(0)
     return {"waveform": waveform, "sample_rate": sample_rate}
 
 
@@ -135,7 +123,7 @@ def process_file(pipeline, audio_path: Path, mode: str):
 
     print(f"\nProcessing: {audio_path.name}")
 
-    print(f"  Loading audio (ffmpeg -> soundfile)...")
+    print(f"  Loading audio...")
     try:
         audio = load_audio(audio_path)
     except Exception:
@@ -185,7 +173,7 @@ def main():
     parser = argparse.ArgumentParser(description="Run pyannote community-1 diarization")
     parser.add_argument(
         "--input", "-i",
-        help="Single .m4a file or directory (default: downloads/audio/)",
+        help="Single .wav file or directory (default: downloads/audio/)",
         default=None,
     )
     parser.add_argument(
@@ -201,15 +189,15 @@ def main():
         if input_path.is_file():
             audio_files = [input_path]
         elif input_path.is_dir():
-            audio_files = sorted(input_path.glob("*.m4a"))
+            audio_files = sorted(input_path.glob("*.wav"))
         else:
             print(f"ERROR: --input path not found: {input_path}")
             sys.exit(1)
     else:
-        audio_files = sorted(AUDIO_DIR.glob("*.m4a"))
+        audio_files = sorted(AUDIO_DIR.glob("*.wav"))
 
     if not audio_files:
-        print("No .m4a files found. Check the input path.")
+        print("No .wav files found. Check the input path.")
         sys.exit(1)
 
     print(f"Files to process: {len(audio_files)}")

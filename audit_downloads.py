@@ -31,9 +31,9 @@ from download_playlist import (
 VIDEO_EXTS = {".mp4", ".mkv", ".webm", ".mov", ".m4v"}
 TRANSCRIPT_EXTS = {".srt", ".vtt"}
 
-# AAC at 192 kbps is ~24 KB/s. Anything below 8 KB/s (~64 kbps) suggests a
-# corrupt or near-empty audio file — flag it for re-extraction.
-MIN_AUDIO_BYTES_PER_SECOND = 8_000
+# 16 kHz mono 16-bit PCM is exactly 32 KB/s. Anything below 20 KB/s
+# suggests a truncated or corrupt WAV — flag it for re-extraction.
+MIN_AUDIO_BYTES_PER_SECOND = 20_000
 
 # Issues that block the downstream audio-transcription pipeline. Everything
 # else is informational — e.g. missing merged video is fine when the audio
@@ -117,7 +117,7 @@ def _inventory(out_root: Path) -> dict[str, Audit]:
 
     if audio_dir.exists():
         for afile in audio_dir.iterdir():
-            if not afile.is_file() or afile.suffix.lower() != ".m4a":
+            if not afile.is_file() or afile.suffix.lower() != ".wav":
                 continue
             vid = _id_from_path(afile)
             if vid and vid in audits:
@@ -208,13 +208,11 @@ def _cleanup_misplaced(out_root: Path) -> None:
     transcript_dir.mkdir(parents=True, exist_ok=True)
     metadata_dir.mkdir(parents=True, exist_ok=True)
 
-    # Set of video IDs whose canonical (non-orphan) audio already exists.
+    # Set of video IDs whose canonical WAV already exists.
     canonical_audio_ids: set[str] = set()
     if audio_dir.exists():
         for af in audio_dir.iterdir():
-            if not (af.is_file() and af.suffix.lower() == ".m4a"):
-                continue
-            if _is_orphan_format_file(af):
+            if not (af.is_file() and af.suffix.lower() == ".wav"):
                 continue
             vid = _id_from_path(af)
             if vid:
@@ -257,8 +255,6 @@ def _cleanup_misplaced(out_root: Path) -> None:
         for entry in audio_dir.iterdir():
             if not (entry.is_file() and entry.suffix.lower() == ".m4a"):
                 continue
-            if not _is_orphan_format_file(entry):
-                continue
             vid = _id_from_path(entry)
             if vid and vid in canonical_audio_ids:
                 entry.unlink()
@@ -278,7 +274,38 @@ def _cleanup_misplaced(out_root: Path) -> None:
         print(f"  deleted {deleted_audio_dups} stale .fNNN.m4a duplicate(s)")
 
 
+def _migrate_m4a_to_wav(audio_dir: Path) -> None:
+    """Convert any legacy .m4a files to 16 kHz mono WAV in-place."""
+    import subprocess
+    m4a_files = [f for f in audio_dir.iterdir() if f.is_file() and f.suffix.lower() == ".m4a"]
+    if not m4a_files:
+        return
+    print(f"\nConverting {len(m4a_files)} legacy .m4a file(s) to WAV...")
+    for m4a in m4a_files:
+        wav = m4a.with_suffix(".wav")
+        if wav.exists():
+            m4a.unlink()
+            continue
+        cmd = [
+            "ffmpeg", "-y", "-loglevel", "error",
+            "-i", str(m4a),
+            "-vn", "-ar", "16000", "-ac", "1", "-f", "wav",
+            str(wav),
+        ]
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        if result.returncode == 0:
+            m4a.unlink()
+            print(f"  converted: {m4a.name} -> {wav.name}")
+        else:
+            tail = (result.stderr or "").strip().splitlines()[-1:]
+            print(f"  FAILED: {m4a.name}: {tail[0] if tail else f'exit {result.returncode}'}")
+
+
 def fix(out_root: Path, audits: list[Audit]) -> None:
+    audio_dir = out_root / "audio"
+    if audio_dir.exists():
+        _migrate_m4a_to_wav(audio_dir)
+
     # Sub/.part cleanup may flip some "broken" items to OK on its own, so do
     # it first, then re-audit before deciding what needs re-downloading.
     _cleanup_misplaced(out_root)
