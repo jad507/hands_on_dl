@@ -48,8 +48,8 @@ else:
 # Upload-date window. yt-dlp accepts either "YYYYMMDD" or relative forms like
 # "today-2years", "now-18months", "today-30days". Set either to None to leave
 # that side of the window open.
-DATE_AFTER: str | None = "20241231"   # 2025 and later
-DATE_BEFORE: str | None = None
+DATE_AFTER: str | None = "20241231"
+DATE_BEFORE: str | None = "20260520"
 
 # Browser cookie source for YouTube auth. Leave as None to download anonymously
 # (preferred). Only enable if you keep hitting "Sign in to confirm you're not

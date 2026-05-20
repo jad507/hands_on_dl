@@ -9,25 +9,26 @@ Output naming:
 """
 
 import json
-import glob
-import os
+from pathlib import Path
 
-METADATA_DIR   = r"C:\Users\Admin\PycharmProjects\hands_on_dl\downloads\metadata"
-STANDARD_DIR   = r"C:\Users\Admin\PycharmProjects\hands_on_dl\downloads\grouped_standard"
-EXCLUSIVE_DIR  = r"C:\Users\Admin\PycharmProjects\hands_on_dl\downloads\grouped_exclusive"
-OUTPUT_DIR     = r"C:\Users\Admin\PycharmProjects\hands_on_dl\downloads\comments"
+BASE_DIR       = Path.cwd()
+DOWNLOADS_DIR  = BASE_DIR / "downloads"
+METADATA_DIR   = DOWNLOADS_DIR / "metadata"
+STANDARD_DIR   = DOWNLOADS_DIR / "grouped_standard"
+EXCLUSIVE_DIR  = DOWNLOADS_DIR / "grouped_exclusive"
+OUTPUT_DIR     = DOWNLOADS_DIR / "comments"
 
 TARGET_CHANNEL_ID = "UCBuExvyMYDwZoQwbhldXwvg"
 DATE_START = "20250201"
 DATE_END   = "20251201"
 
 
-def load_json(path: str) -> dict | None:
+def load_json(path: Path | str) -> dict | None:
     try:
         with open(path, encoding="utf-8") as f:
             return json.load(f)
     except Exception as e:
-        print(f"  Could not load {os.path.basename(path)}: {e}")
+        print(f"  Could not load {Path(path).name}: {e}")
         return None
 
 
@@ -41,7 +42,7 @@ def extract_commenter_data(grouped: dict) -> dict:
 
 def get_video_list() -> list[tuple[str, str, str]]:
     """Return list of (upload_date, title, video_id) for the target channel and date range."""
-    files = glob.glob(os.path.join(METADATA_DIR, "*.info.json"))
+    files = METADATA_DIR.glob("*.info.json")
     results = []
     for path in files:
         data = load_json(path)
@@ -58,18 +59,18 @@ def get_video_list() -> list[tuple[str, str, str]]:
 
 
 def main():
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     videos = get_video_list()
     print(f"Processing {len(videos)} videos...\n")
 
     for upload_date, title, video_id in videos:
         filename = f"{title} [{video_id}].json"
-        std_path  = os.path.join(STANDARD_DIR,  filename)
-        excl_path = os.path.join(EXCLUSIVE_DIR, filename)
+        std_path  = STANDARD_DIR / filename
+        excl_path = EXCLUSIVE_DIR / filename
 
-        std_raw  = load_json(std_path)  if os.path.exists(std_path)  else None
-        excl_raw = load_json(excl_path) if os.path.exists(excl_path) else None
+        std_raw  = load_json(std_path)  if std_path.exists()  else None
+        excl_raw = load_json(excl_path) if excl_path.exists() else None
 
         if std_raw is None and excl_raw is None:
             print(f"  SKIP {title}: no grouped files found")
@@ -82,7 +83,7 @@ def main():
 
         if std_data is not None and excl_data is not None:
             if std_data["blocks"] == excl_data["blocks"]:
-                # Identical — write once, note both modes agree
+                # Identical - write once, note both modes agree
                 out = {
                     "title": title,
                     "video_id": video_id,
@@ -90,13 +91,13 @@ def main():
                     "rttm_modes": "standard=exclusive",
                     **std_data,
                 }
-                out_path = os.path.join(OUTPUT_DIR, f"{base_name}.json")
+                out_path = OUTPUT_DIR / f"{base_name}.json"
                 with open(out_path, "w", encoding="utf-8") as f:
                     json.dump(out, f, indent=2, ensure_ascii=False)
                 n = len(std_data["blocks"])
                 print(f"  [SAME]  {base_name}  ({n} blocks)")
             else:
-                # Differ — write two files
+                # Differ - write two files
                 for mode, data in [("standard", std_data), ("exclusive", excl_data)]:
                     out = {
                         "title": title,
@@ -105,7 +106,7 @@ def main():
                         "rttm_mode": mode,
                         **data,
                     }
-                    out_path = os.path.join(OUTPUT_DIR, f"{base_name}_{mode}.json")
+                    out_path = OUTPUT_DIR / f"{base_name}_{mode}.json"
                     with open(out_path, "w", encoding="utf-8") as f:
                         json.dump(out, f, indent=2, ensure_ascii=False)
                 ns = len(std_data["blocks"])
@@ -121,7 +122,7 @@ def main():
                 "rttm_mode": mode,
                 **data,
             }
-            out_path = os.path.join(OUTPUT_DIR, f"{base_name}_{mode}.json")
+            out_path = OUTPUT_DIR / f"{base_name}_{mode}.json"
             with open(out_path, "w", encoding="utf-8") as f:
                 json.dump(out, f, indent=2, ensure_ascii=False)
             n = len(data["blocks"])

@@ -5,11 +5,12 @@ Output is written to a text file (one title per line).
 
 import argparse
 import json
-import glob
-import os
+from pathlib import Path
 
-METADATA_DIR = r"C:\Users\Admin\PycharmProjects\hands_on_dl\downloads\metadata"
-OUTPUT_FILE = r"C:\Users\Admin\PycharmProjects\hands_on_dl\council_video_list.txt"
+# Assume the script is run from the project root (hands_on_dl).
+PROJECT_ROOT = Path.cwd()
+METADATA_DIR = PROJECT_ROOT / "downloads" / "metadata"
+OUTPUT_FILE = PROJECT_ROOT / "council_video_list.txt"
 
 # Stable channel ID for "City of Lancaster, PA"
 TARGET_CHANNEL_ID = "UCBuExvyMYDwZoQwbhldXwvg"
@@ -19,12 +20,12 @@ DATE_START = "20250201"
 DATE_END   = "20251201"
 
 
-def load_metadata(path: str) -> dict | None:
+def load_metadata(path: Path) -> dict | None:
     try:
         with open(path, encoding="utf-8") as f:
             return json.load(f)
     except Exception as e:
-        print(f"  Skipping {os.path.basename(path)}: {e}")
+        print(f"  Skipping {path.name}: {e}")
         return None
 
 
@@ -34,7 +35,7 @@ def main():
                         help="Append [YouTubeID] to each title (matches transcript/diarization filenames)")
     args = parser.parse_args()
 
-    files = glob.glob(os.path.join(METADATA_DIR, "*.info.json"))
+    files = list(METADATA_DIR.glob("*.info.json"))
     print(f"Scanning {len(files)} metadata files...")
 
     matches = []
@@ -45,7 +46,7 @@ def main():
 
         channel_id  = data.get("channel_id", "")
         upload_date = data.get("upload_date", "")
-        title       = data.get("title", os.path.basename(path))
+        title       = data.get("title", path.name)
         video_id    = data.get("id", "")
 
         if channel_id != TARGET_CHANNEL_ID:
