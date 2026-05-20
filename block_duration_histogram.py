@@ -4,15 +4,15 @@ Useful for deciding duration-based cutoffs as a proxy for public commenter block
 """
 
 import json
-import glob
-import os
+from pathlib import Path
 
-METADATA_DIR  = r"C:\Users\Admin\PycharmProjects\hands_on_dl\downloads\metadata"
-STANDARD_DIR  = r"C:\Users\Admin\PycharmProjects\hands_on_dl\downloads\grouped_standard"
-OUTPUT_FILE   = r"C:\Users\Admin\PycharmProjects\hands_on_dl\block_duration_histogram.txt"
+REPO_ROOT    = Path(__file__).parent
+METADATA_DIR = REPO_ROOT / "downloads" / "metadata"
+STANDARD_DIR = REPO_ROOT / "downloads" / "grouped_standard"
+OUTPUT_FILE  = REPO_ROOT / "block_duration_histogram.txt"
 
 TARGET_CHANNEL_ID = "UCBuExvyMYDwZoQwbhldXwvg"
-DATE_START = "20250722"
+DATE_START = "20250201"
 DATE_END   = "20251201"
 
 # Cutoff to highlight (seconds). 300 = 5 minutes.
@@ -33,7 +33,7 @@ BUCKETS = [
 
 def get_video_list() -> list[tuple[str, str, str]]:
     results = []
-    for path in glob.glob(os.path.join(METADATA_DIR, "*.info.json")):
+    for path in sorted(METADATA_DIR.glob("*.info.json")):
         with open(path, encoding="utf-8") as f:
             d = json.load(f)
         if d.get("channel_id") != TARGET_CHANNEL_ID:
@@ -53,8 +53,8 @@ def main():
     durations = []
     missing = []
     for _, title, vid_id in videos:
-        path = os.path.join(STANDARD_DIR, f"{title} [{vid_id}].json")
-        if not os.path.exists(path):
+        path = STANDARD_DIR / f"{title} [{vid_id}].json"
+        if not path.exists():
             missing.append(f"{title} [{vid_id}]")
             continue
         with open(path, encoding="utf-8") as f:
@@ -99,8 +99,7 @@ def main():
     output = "\n".join(lines)
     print("\n" + output)
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(output + "\n")
+    OUTPUT_FILE.write_text(output + "\n", encoding="utf-8")
     print(f"\nWrote to {OUTPUT_FILE}")
 
 
