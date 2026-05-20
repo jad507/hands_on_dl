@@ -150,6 +150,37 @@ def _classify(audits: dict[str, Audit]) -> None:
             a.issues.append("NO_TRANSCRIPT")
 
 
+def _find_stale_transcripts(out_root: Path) -> list[Path]:
+    """Return whisper JSON paths that are empty [] but have diarize speech.
+
+    These were transcribed before the m4a→wav fix: Silero VAD saw no speech in
+    the raw m4a stream and wrote an empty list.  The diarize outputs (which
+    pre-converted via ffmpeg) are used as the authority on whether speech exists.
+    """
+    whisper_dir = out_root / "whisper_large-v3"
+    pyannote_dir = out_root / "pyannote_community-1_exclusive"
+    stale: list[Path] = []
+    if not whisper_dir.exists():
+        return stale
+    for jf in sorted(whisper_dir.glob("*.json")):
+        try:
+            data = json.loads(jf.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        if data:
+            continue
+        stats_path = pyannote_dir / f"{jf.stem}_stats.json"
+        if not stats_path.exists():
+            continue
+        try:
+            stats = json.loads(stats_path.read_text(encoding="utf-8"))
+            if stats.get("total_speech_duration_s", 0) > 0:
+                stale.append(jf)
+        except (OSError, json.JSONDecodeError):
+            pass
+    return stale
+
+
 def audit(out_root: Path) -> list[Audit]:
     audits = _inventory(out_root)
     _classify(audits)
@@ -189,14 +220,13 @@ def _cleanup_misplaced(out_root: Path) -> None:
     * `*.info.json` for the playlist itself lands in home (we don't have a
       `pl_infojson` path configured for old downloads)
     * `[id].fNNN.{webm,mp4}` orphans pile up in videos/
-    * `[id].fNNN.m4a` duplicates from earlier extractor runs (before the
-      `_audio_target_stem` suffix-stripping logic) sit alongside the
-      canonical `[id].m4a`
+    * `.m4a` files in audio/ that predate the wav conversion (now superseded
+      by the canonical `[id].wav`)
 
     `.part` files are intentionally left alone — yt-dlp resumes from them
     via HTTP Range requests on the next run, saving bandwidth on big
     streams. Orphan format files (.fNNN.webm, .fNNN.mp4) are only deleted
-    when the canonical `[id].m4a` already exists in audio/, so we don't
+    when the canonical `[id].wav` already exists in audio/, so we don't
     discard the only source the audio extractor could use.
     """
     video_dir = out_root / "videos"
@@ -353,7 +383,7 @@ def fix(out_root: Path, audits: list[Audit]) -> None:
 
     if needs_redownload or audio_only:
         # _derive_audio_files iterates everything in videos/ but cheaply skips
-        # files whose .m4a already exists, so this is effectively scoped to
+        # files whose .wav already exists, so this is effectively scoped to
         # videos whose audio we just removed or never had.
         print("\nRe-extracting audio where needed...")
         _derive_audio_files(video_dir, audio_dir)
@@ -380,14 +410,29 @@ def main() -> None:
     audits = audit(out_root)
     report(audits)
 
+    stale = _find_stale_transcripts(out_root)
+    if stale:
+        print(f"\n=== Stale whisper transcripts (empty [] but diarize found speech): {len(stale)} ===\n")
+        for p in stale:
+            print(f"  {p.name}")
+        print("\n  Run with --fix to delete them so transcribe.py will re-process.")
+
     # Always run --fix regardless of whether anything is *blocked* — the
     # cleanup pass scrubs cosmetic warnings (misplaced subs, orphan format
     # files, stale .fNNN duplicates) that don't count as blocking but still
     # leave the dataset cluttered.
     if args.fix:
+        if stale:
+            print(f"\nDeleting {len(stale)} stale whisper transcript(s)...")
+            for p in stale:
+                p.unlink()
+                print(f"  deleted: {p.name}")
         fix(out_root, audits)
         print("\n--- post-fix audit ---")
         report(audit(out_root))
+        remaining = _find_stale_transcripts(out_root)
+        if not remaining:
+            print("No stale transcripts remain — re-run transcribe.py to fill them.")
 
 
 if __name__ == "__main__":
