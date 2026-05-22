@@ -85,7 +85,7 @@ def main():
     parser = argparse.ArgumentParser(description="Transcribe audio with faster-whisper large-v3")
     parser.add_argument(
         "--input", "-i",
-        help="Single .wav file or directory (default: downloads/audio/)",
+        help="Single .wav/.flac file or directory (default: downloads/audio/)",
         default=None,
     )
     parser.add_argument(
@@ -101,15 +101,15 @@ def main():
         if input_path.is_file():
             audio_files = [input_path]
         elif input_path.is_dir():
-            audio_files = sorted(input_path.glob("*.wav"))
+            audio_files = sorted([*input_path.glob("*.wav"), *input_path.glob("*.flac")])
         else:
             print(f"ERROR: --input path not found: {input_path}")
             sys.exit(1)
     else:
-        audio_files = sorted(AUDIO_DIR.glob("*.wav"))
+        audio_files = sorted([*AUDIO_DIR.glob("*.wav"), *AUDIO_DIR.glob("*.flac")])
 
     if not audio_files:
-        print("No .wav files found. Check the input path.")
+        print("No .wav/.flac files found. Check the input path.")
         sys.exit(1)
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)

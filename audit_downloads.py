@@ -137,7 +137,7 @@ def _inventory(out_root: Path) -> dict[str, Audit]:
 
     if audio_dir.exists():
         for afile in audio_dir.iterdir():
-            if not afile.is_file() or afile.suffix.lower() != ".wav":
+            if not afile.is_file() or afile.suffix.lower() not in (".wav", ".flac"):
                 continue
             vid = _id_from_path(afile)
             if vid and vid in audits:
@@ -167,7 +167,7 @@ def _classify(audits: dict[str, Audit]) -> None:
                 min_bytes = int(a.duration * MIN_AUDIO_BYTES_PER_SECOND)
                 if a.audio.stat().st_size < min_bytes:
                     a.issues.append("SHORT_AUDIO")
-            if not _is_pcm_wav(a.audio):
+            if a.audio.suffix.lower() == ".wav" and not _is_pcm_wav(a.audio):
                 a.issues.append("WRONG_AUDIO_FORMAT")
         if not a.transcripts:
             a.issues.append("NO_TRANSCRIPT")
@@ -265,7 +265,7 @@ def _cleanup_misplaced(out_root: Path) -> None:
     canonical_audio_ids: set[str] = set()
     if audio_dir.exists():
         for af in audio_dir.iterdir():
-            if not (af.is_file() and af.suffix.lower() == ".wav"):
+            if not (af.is_file() and af.suffix.lower() in (".wav", ".flac")):
                 continue
             vid = _id_from_path(af)
             if vid:
@@ -447,10 +447,15 @@ def main() -> None:
     # leave the dataset cluttered.
     if args.fix:
         if stale:
-            print(f"\nDeleting {len(stale)} stale whisper transcript(s)...")
+            print(f"\nDeleting {len(stale)} stale whisper transcript(s) and their source audio...")
+            audio_dir = out_root / "audio"
             for p in stale:
                 p.unlink()
-                print(f"  deleted: {p.name}")
+                print(f"  deleted whisper: {p.name}")
+                wav = audio_dir / f"{p.stem}.wav"
+                if wav.exists():
+                    wav.unlink()
+                    print(f"  deleted audio:   {wav.name}")
         fix(out_root, audits)
         print("\n--- post-fix audit ---")
         report(audit(out_root))

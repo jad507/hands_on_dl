@@ -137,17 +137,19 @@ def _build_ydl_opts(
 
 
 def _extract_audio(video_path: Path, audio_path: Path) -> bool:
-    """Extract audio to 16 kHz mono WAV. Returns True on success.
+    """Extract audio to 16 kHz stereo FLAC. Returns True on success.
 
-    WAV/PCM sidesteps codec compatibility issues (Opus-in-WebM, AAC variants)
-    that caused faster-whisper's PyAV loader and Silero VAD to silently produce
-    zero segments on some YouTube downloads.
+    FLAC is lossless and ~40% smaller than PCM WAV. Stereo is kept because
+    the custom FFmpeg build's stereo-to-mono downmix (-ac 1) produces garbled
+    output for certain YouTube opus streams; Whisper and pyannote handle stereo
+    natively. PCM/WAV sidesteps codec issues that caused Silero VAD to produce
+    zero segments on raw opus/AAC streams.
     """
     audio_path.parent.mkdir(parents=True, exist_ok=True)
     cmd = [
         "ffmpeg", "-y", "-loglevel", "error",
         "-i", str(video_path),
-        "-vn", "-ar", "16000", "-ac", "1", "-f", "wav",
+        "-vn", "-ar", "16000", "-f", "flac",
         str(audio_path),
     ]
     result = subprocess.run(cmd, capture_output=True, text=True)
@@ -184,8 +186,8 @@ def _derive_audio_files(video_dir: Path, audio_dir: Path) -> None:
 
     failed: list[str] = []
     for target, sources in sorted(by_target.items()):
-        audio_file = audio_dir / f"{target}.wav"
-        if audio_file.exists():
+        audio_file = audio_dir / f"{target}.flac"
+        if audio_file.exists() or (audio_dir / f"{target}.wav").exists():
             continue
         # Prefer non-orphan (merged) source first; orphans only as fallback.
         sources.sort(key=lambda p: _audio_target_stem(p.stem) != p.stem)
