@@ -16,6 +16,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import struct
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -39,7 +40,7 @@ MIN_AUDIO_BYTES_PER_SECOND = 20_000
 # else is informational — e.g. missing merged video is fine when the audio
 # was successfully extracted from a yt-dlp orphan, since the pipeline only
 # consumes audio.
-BLOCKING_ISSUES = {"NO_AUDIO", "SHORT_AUDIO"}
+BLOCKING_ISSUES = {"NO_AUDIO", "SHORT_AUDIO", "WRONG_AUDIO_FORMAT"}
 
 # Matches the 11-char YouTube ID bracketed in our filename convention.
 ID_PATTERN = re.compile(r"\[([\w-]{11})\]")
@@ -75,6 +76,25 @@ def _id_from_path(path: Path) -> str | None:
 def _is_orphan_format_file(path: Path) -> bool:
     base, sep, fmt = path.stem.rpartition(".f")
     return bool(sep) and fmt.isdigit()
+
+
+def _is_pcm_wav(path: Path) -> bool:
+    """Return True if the WAV file uses PCM (1) or IEEE-float (3) encoding.
+
+    Reads the 22-byte RIFF/WAV/fmt header. Non-PCM format codes (e.g. 0x704F
+    for Opus) indicate a garbled extraction that soundfile/whisper can't handle.
+    """
+    try:
+        with open(path, "rb") as f:
+            header = f.read(22)
+        if len(header) < 22:
+            return False
+        if header[0:4] != b"RIFF" or header[8:12] != b"WAVE" or header[12:16] != b"fmt ":
+            return False
+        fmt_code = struct.unpack_from("<H", header, 20)[0]
+        return fmt_code in (1, 3)
+    except OSError:
+        return False
 
 
 def _inventory(out_root: Path) -> dict[str, Audit]:
@@ -142,10 +162,13 @@ def _classify(audits: dict[str, Audit]) -> None:
             a.issues.append("ORPHAN_FORMAT_FILES")
         if a.audio is None:
             a.issues.append("NO_AUDIO")
-        elif a.duration:
-            min_bytes = int(a.duration * MIN_AUDIO_BYTES_PER_SECOND)
-            if a.audio.stat().st_size < min_bytes:
-                a.issues.append("SHORT_AUDIO")
+        else:
+            if a.duration:
+                min_bytes = int(a.duration * MIN_AUDIO_BYTES_PER_SECOND)
+                if a.audio.stat().st_size < min_bytes:
+                    a.issues.append("SHORT_AUDIO")
+            if not _is_pcm_wav(a.audio):
+                a.issues.append("WRONG_AUDIO_FORMAT")
         if not a.transcripts:
             a.issues.append("NO_TRANSCRIPT")
 
@@ -359,8 +382,9 @@ def fix(out_root: Path, audits: list[Audit]) -> None:
 
     for a in broken:
         # Wipe a suspect or absent audio file so re-extraction recreates it.
-        if a.audio and ("SHORT_AUDIO" in a.issues):
-            print(f"  removing short audio: {a.audio.name}")
+        if a.audio and ("SHORT_AUDIO" in a.issues or "WRONG_AUDIO_FORMAT" in a.issues):
+            label = "short" if "SHORT_AUDIO" in a.issues else "wrong-format"
+            print(f"  removing {label} audio: {a.audio.name}")
             a.audio.unlink(missing_ok=True)
         # Wipe orphan format files so yt-dlp won't think the merge already
         # half-finished — fresh re-download produces a clean merged file.
@@ -371,7 +395,7 @@ def fix(out_root: Path, audits: list[Audit]) -> None:
             needs_redownload.append(a.video_id)
         elif "NO_TRANSCRIPT" in a.issues:
             needs_redownload.append(a.video_id)
-        elif "NO_AUDIO" in a.issues or "SHORT_AUDIO" in a.issues:
+        elif "NO_AUDIO" in a.issues or "SHORT_AUDIO" in a.issues or "WRONG_AUDIO_FORMAT" in a.issues:
             audio_only.append(a.video_id)
 
     if needs_redownload:

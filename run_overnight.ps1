@@ -14,8 +14,8 @@ if (Test-Path $denoDir) {
 }
 
 # --- Download ---
-python download_playlist.py 2>&1 | tee logs/download.log
-if ($LASTEXITCODE -ne 0) { Write-Host "download_playlist.py failed (exit $LASTEXITCODE) - stopping"; exit 1 }
+# python download_playlist.py 2>&1 | tee logs/download.log
+# if ($LASTEXITCODE -ne 0) { Write-Host "download_playlist.py failed (exit $LASTEXITCODE) - stopping"; exit 1 }
 
 # --- Diarization & transcription (both consume audio/, order doesn't matter) ---
 python audio_pipeline/diarize.py 2>&1 | tee logs/diarize.log

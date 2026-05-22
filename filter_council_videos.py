@@ -59,7 +59,7 @@ def main():
 
     matches.sort(key=lambda x: x[0])  # oldest first
 
-    print(f"\nFound {len(matches)} videos in range {DATE_START}–{DATE_END}:\n")
+    print(f"\nFound {len(matches)} videos in range {DATE_START}-{DATE_END}:\n")
     for upload_date, label in matches:
         print(f"  {upload_date}  {label}")
 

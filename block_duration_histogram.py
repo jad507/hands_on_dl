@@ -74,7 +74,7 @@ def main():
 
     lines = []
     lines.append(f"Block duration histogram — {len(videos)} videos, {total} blocks")
-    lines.append(f"Date range: {DATE_START}–{DATE_END}  |  Channel: {TARGET_CHANNEL_ID}")
+    lines.append(f"Date range: {DATE_START}-{DATE_END}  |  Channel: {TARGET_CHANNEL_ID}")
     lines.append("")
 
     bar_scale = max(1, max(
