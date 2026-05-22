@@ -1,18 +1,18 @@
-Block duration histogram — 27 videos, 1612 blocks
-Date range: 20250722–20251201  |  Channel: UCBuExvyMYDwZoQwbhldXwvg
+Block duration histogram — 54 videos, 3992 blocks
+Date range: 20250201–20251201  |  Channel: UCBuExvyMYDwZoQwbhldXwvg
 
-     0-30s   980   60.8%  #############################################################
-    30-60s   283   17.6%  #################
-    1-2min   177   11.0%  ###########
-    2-3min    87    5.4%  #####
-    3-4min    45    2.8%  ##
-    4-5min    12    0.7%  
-   5-10min    17    1.1%  #  <- cutoff
-  10-20min     8    0.5%  
-    20min+     3    0.2%  
+     0-30s  2507   62.8%  #############################################################
+    30-60s   676   16.9%  ################
+    1-2min   417   10.4%  ##########
+    2-3min   197    4.9%  ####
+    3-4min   105    2.6%  ##
+    4-5min    29    0.7%  
+   5-10min    38    1.0%    <- cutoff
+  10-20min    17    0.4%  
+    20min+     6    0.2%  
 
-  Under 5 min: 1584 blocks (98.3%)
-  5 min+:     28 blocks (1.7%)
-  Total:        1612
+  Under 5 min: 3931 blocks (98.5%)
+  5 min+:     61 blocks (1.5%)
+  Total:        3992
   Longest:      51.1 min
-  Median:       22.0s
+  Median:       20.0s

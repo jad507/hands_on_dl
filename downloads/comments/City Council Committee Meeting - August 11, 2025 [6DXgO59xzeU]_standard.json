@@ -3,7 +3,7 @@
   "video_id": "6DXgO59xzeU",
   "upload_date": "20250812",
   "rttm_mode": "standard",
-  "commenter_speakers": {
+  "speakers": {
     "SPEAKER_00": {
       "category": "commenter_candidate",
       "total_speech_s": 76.0,
@@ -11,6 +11,14 @@
       "segment_count": 11,
       "avg_segment_s": 6.9,
       "word_count": 160
+    },
+    "SPEAKER_01": {
+      "category": "recurring",
+      "total_speech_s": 328.0,
+      "block_count": 3,
+      "segment_count": 46,
+      "avg_segment_s": 7.1,
+      "word_count": 652
     },
     "SPEAKER_02": {
       "category": "commenter_candidate",
@@ -52,6 +60,22 @@
       "avg_segment_s": 11.5,
       "word_count": 152
     },
+    "SPEAKER_07": {
+      "category": "recurring",
+      "total_speech_s": 239.0,
+      "block_count": 9,
+      "segment_count": 33,
+      "avg_segment_s": 7.2,
+      "word_count": 482
+    },
+    "SPEAKER_08": {
+      "category": "recurring",
+      "total_speech_s": 625.7,
+      "block_count": 5,
+      "segment_count": 107,
+      "avg_segment_s": 5.8,
+      "word_count": 1788
+    },
     "SPEAKER_09": {
       "category": "commenter_candidate",
       "total_speech_s": 94.5,
@@ -68,6 +92,14 @@
       "avg_segment_s": 7.3,
       "word_count": 56
     },
+    "SPEAKER_11": {
+      "category": "recurring",
+      "total_speech_s": 198.0,
+      "block_count": 8,
+      "segment_count": 32,
+      "avg_segment_s": 6.2,
+      "word_count": 418
+    },
     "SPEAKER_12": {
       "category": "commenter_candidate",
       "total_speech_s": 53.0,
@@ -76,6 +108,14 @@
       "avg_segment_s": 8.8,
       "word_count": 94
     },
+    "SPEAKER_13": {
+      "category": "recurring",
+      "total_speech_s": 290.4,
+      "block_count": 9,
+      "segment_count": 42,
+      "avg_segment_s": 6.9,
+      "word_count": 561
+    },
     "SPEAKER_14": {
       "category": "commenter_candidate",
       "total_speech_s": 10.1,
@@ -83,6 +123,14 @@
       "segment_count": 1,
       "avg_segment_s": 10.1,
       "word_count": 14
+    },
+    "SPEAKER_15": {
+      "category": "recurring",
+      "total_speech_s": 325.6,
+      "block_count": 4,
+      "segment_count": 45,
+      "avg_segment_s": 7.2,
+      "word_count": 703
     },
     "SPEAKER_16": {
       "category": "commenter_candidate",
@@ -93,7 +141,29 @@
       "word_count": 232
     }
   },
-  "commenter_blocks": [
+  "blocks": [
+    {
+      "block_id": 0,
+      "speaker": "SPEAKER_07",
+      "category": "recurring",
+      "start": 531.31,
+      "end": 613.49,
+      "duration_s": 82.2,
+      "segment_count": 11,
+      "word_count": 153,
+      "text": "Good evening everyone. I now call to order this August 11th 2025 meetings of City Council committees. We'll begin with the roll call of members. Mr. Harris would you please call the roll. Yes Madam President. Mr. Madden. Here. Mr. Royer. Here. Mr. Cleese. Here. Ms. Craig. Here. Mr. Hirsch. Here. We are once again working with temporary technology so I'll ask everyone for their forgiveness if we get some squeaking or popping in the microphones we'll do our best to try to use them one at a time we're not usually going at that rapid pace like we are for roll call so hopefully that will not continue to be an issue we'll begin with the approval the July 1st 2025 committee meeting minutes motion to approve second the motion and a second counselors any comments on the minutes hearing none mr. Harris we will now go to the personnel committee councillor"
+    },
+    {
+      "block_id": 1,
+      "speaker": "SPEAKER_13",
+      "category": "recurring",
+      "start": 613.49,
+      "end": 651.82,
+      "duration_s": 38.3,
+      "segment_count": 5,
+      "word_count": 80,
+      "text": "colleagues thank you madam president the personnel committee has 11 items on the agenda for tonight and the first item is the nomination of Katie Shifflett for appointment to the downtown investment district already i don't know if katie is here would you please uh go to the microphone please oh good evening thank you for being here tonight would you please introduce yourself and tell us why you want to serve on the board sure can you guys hear"
+    },
     {
       "block_id": 2,
       "speaker": "SPEAKER_03",
@@ -104,6 +174,17 @@
       "segment_count": 7,
       "word_count": 129,
       "text": "me uh my name is katie shifflett i'm with semais properties um i would love to join this board i not only work downtown but i also live downtown i have my entire life so i think it would be an amazing opportunity to join this board and really help with everything that the did is involved with between safety cleanup outreach i think all the things that they have done in the past few years have been great i have an opportunity to see firsthand from both a residential and a commercial side um the different things that the city has done how it's grown over the years from something simple to something extraordinary and i think that i could be a great asset to the board itself"
+    },
+    {
+      "block_id": 3,
+      "speaker": "SPEAKER_13",
+      "category": "recurring",
+      "start": 701.2,
+      "end": 705.44,
+      "duration_s": 4.2,
+      "segment_count": 1,
+      "word_count": 14,
+      "text": "thank you are there any comments or questions from other members of the committee"
     },
     {
       "block_id": 4,
@@ -128,6 +209,17 @@
       "text": "business owners in the downtown um thank you for your question i think the biggest thing when it comes to diversifying downtown equal opportunity all over i think that there's not enough people that realize different things that you can do downtown as a business owner i think that also So having the ability to be on this board will hopefully help to give a voice to other people as well. Like I said, I've grown up in Lancaster and I've seen different businesses come in and go and now being on another side of property management and leasing with the commercial side. I've seen, you know, businesses not do that great and businesses do amazing. I think that having the ability to see both of those sides and be on a board like the DID would be a great asset in helping to bring different businesses through. I think everybody can agree that we have all different types of people here. We have all different types of businesses here. And I think whoever else wants to come and kind of share their business and their talent and things like that would be great."
     },
     {
+      "block_id": 6,
+      "speaker": "SPEAKER_13",
+      "category": "recurring",
+      "start": 790.63,
+      "end": 804.68,
+      "duration_s": 14.0,
+      "segment_count": 2,
+      "word_count": 20,
+      "text": "Other questions or comments from members of the committee? Hearing none, from council, from the public, thank you very much."
+    },
+    {
       "block_id": 7,
       "speaker": "SPEAKER_03",
       "category": "commenter_candidate",
@@ -137,6 +229,61 @@
       "segment_count": 1,
       "word_count": 4,
       "text": "Thank you so much."
+    },
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_13",
+      "category": "recurring",
+      "start": 806.22,
+      "end": 835.21,
+      "duration_s": 29.0,
+      "segment_count": 7,
+      "word_count": 63,
+      "text": "Now I'll make a motion to move this nomination to our next council meeting on August 12th. Second. All in favor? Aye. The next item is the nomination of Molly Kirkoff for four-way appointment to the Signing Commission. And nominees for four-way appointment are not required to attend the meeting. so are there any comments or questions for members of the committee and"
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_07",
+      "category": "recurring",
+      "start": 835.21,
+      "end": 854.2,
+      "duration_s": 19.0,
+      "segment_count": 3,
+      "word_count": 44,
+      "text": "council just a comment councillor clicks Molly serves as the leader of the link the public art in in Lancaster City as a city employee and so she would be the employee member of the same Commission and had served faithfully in that role"
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_13",
+      "category": "recurring",
+      "start": 854.2,
+      "end": 903.39,
+      "duration_s": 49.2,
+      "segment_count": 7,
+      "word_count": 81,
+      "text": "previously Thank You mr. president any comments from the public I'll make a motion to move this nomination to our next council meeting on august 12th second all in favors aye we continue with three nominations to the public art advisory board nomination of sisava tung van tung barry cornuser rachel feming hills and those individuals serve currently serve on the board and that they have expressed their willingness to be reappointed. Any questions or comments from members of the committee?"
+    },
+    {
+      "block_id": 11,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 903.39,
+      "end": 923.45,
+      "duration_s": 20.1,
+      "segment_count": 8,
+      "word_count": 55,
+      "text": "Counselor Kulikst, I'll just make a quick comment that I have the honor of serving on the Public Art Advisory Board with Rachel O'Berry and Sisa Valthole on the Public Art Advisory Board, and I just, they all do a really good job, all bring good ideas, and so I definitely think they're an asset"
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_13",
+      "category": "recurring",
+      "start": 923.45,
+      "end": 1054.49,
+      "duration_s": 131.0,
+      "segment_count": 15,
+      "word_count": 226,
+      "text": "that board thank you councillor for your comment any other comments or questions from members of the committee from council from the public now i'll make a motion to move these nominations to our next council meeting on august 12th second all in favor aye the next item is the nomination of Jean Wigler for reappointment to the Lancaster Higher Education Authority and there isn't much to say about this reappointment. I'll open up for questions or comments from members of the committee, from council, from the public. I'll move this nomination to our next council meeting on August 12. All in favors all right we continue with five nominations to the Board of Plumbing examiners and that the nominees are Eric Weiss, Barry Soder, Shawn Wei, Trent Myers all those four individuals are the nominees for reappointment to the board of plumbing plumbing examiners and we also have a nomination for appointment to the board of plumbing examiners and the nominee is mason solder and are there any questions or comments about those nominations from members of the committee is uh is mason here oh yes so thank you for your willingness would you please go to the microphone please thank you for your willingness to serve could you please introduce yourself and tell us what motivates you to serve on the board yeah so"
     },
     {
       "block_id": 13,
@@ -150,6 +297,17 @@
       "text": "my name is mason sauer i've been plumbing here at lancaster city and i've been plumbing in lancaster city and the surrounding areas for about eight years now i obtained a master's license for lancaster city york reading harrisburg and it's it's always been a passion of mine although it sounds a little strange in plumbing but um it's something that i absolutely love and being appointed to be part of the board is i'm very honored and um yeah i will respect and have integrity when the board meets and all the decisions that we make uh is there anything"
     },
     {
+      "block_id": 14,
+      "speaker": "SPEAKER_13",
+      "category": "recurring",
+      "start": 1105.24,
+      "end": 1112.12,
+      "duration_s": 6.9,
+      "segment_count": 1,
+      "word_count": 19,
+      "text": "particular that you would like to achieve during your term on the board yeah there are a lot of"
+    },
+    {
       "block_id": 15,
       "speaker": "SPEAKER_09",
       "category": "commenter_candidate",
@@ -159,6 +317,50 @@
       "segment_count": 6,
       "word_count": 101,
       "text": "codes that Lancaster City amends every so often and I have found that it's a little difficult to get the word out to the other plumbers I think it would be good at least with my knowledge and my connections that I can get that word out so all the plumbers can come together and you know successfully you know plumb this place in you know so yeah but with my extensive knowledge in the plumbing code only with the IPC and the local codes this is yeah this is really exciting for me thank you are there any questions or"
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_13",
+      "category": "recurring",
+      "start": 1155.86,
+      "end": 1160.22,
+      "duration_s": 4.4,
+      "segment_count": 1,
+      "word_count": 13,
+      "text": "comments for members of the committee please consider her just want to say"
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 1160.22,
+      "end": 1186.13,
+      "duration_s": 25.9,
+      "segment_count": 5,
+      "word_count": 72,
+      "text": "thank you for your willingness to step up and serve on the board this is one one of those things that I think I'll speak for myself I don't always think about these things day to day but they're really important and I'm glad that there are people that bring this skill set to the table because it's certainly not mine so thank you for for your willingness to serve all the"
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_13",
+      "category": "recurring",
+      "start": 1186.13,
+      "end": 1207.11,
+      "duration_s": 21.0,
+      "segment_count": 3,
+      "word_count": 45,
+      "text": "comments or questions from console from the public and make a motion thank you so much I'll make a motion to move these nominations to our next console meeting on august 12. exactly all in favor aye thank you madam president that concludes the personal"
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_07",
+      "category": "recurring",
+      "start": 1207.11,
+      "end": 1217.83,
+      "duration_s": 10.7,
+      "segment_count": 2,
+      "word_count": 33,
+      "text": "committee thank you very much counselor cliques and thank you for all of our volunteer uh nominees for appointment uh the next item on our agenda this evening is the finance committee council"
     },
     {
       "block_id": 20,
@@ -172,6 +374,28 @@
       "text": "arroyo thank you council president uh we have one item on our agenda this evening is the 2025 mid-year budget report and with that i'll invite tina campbell director of administrative services"
     },
     {
+      "block_id": 21,
+      "speaker": "SPEAKER_07",
+      "category": "recurring",
+      "start": 1235.64,
+      "end": 1266.68,
+      "duration_s": 31.0,
+      "segment_count": 3,
+      "word_count": 47,
+      "text": "counselors i'll just quickly remind the director campbell did send these slides and supporting materials to us in advance if you wanted to pull them up on your screens it would have been before the regularly scheduled meeting before we rescheduled this one all right well thank"
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_08",
+      "category": "recurring",
+      "start": 1266.68,
+      "end": 1854.33,
+      "duration_s": 587.6,
+      "segment_count": 99,
+      "word_count": 1646,
+      "text": "you for providing space to share this report tonight on the budget um since this is still a new process i just want to remind everyone that we have started to provide written monthly financial statements to Council and we're providing this public quarterly report as well as those monthly financial statements the reporting schedule is part of the Home Rule Charter and I always welcome any feedback for how to make this process better since we're still all learning the process together last quarter was the first quarter that we did this report and I heard from some people that we should have a visual some visuals for presentation so i've brought just a couple of slides tonight um they're not super exciting i'm not sure how to make numbers exciting on on powerpoint slides but um i brought a few they they are not comprehensive um so i'll encourage uh council to please refer back to the reports that um council president uh just referenced that you received um you received the monthly reports on july 21st those are the comprehensive reports and then these reports were sent out last week as well next slide please so I'm reporting tonight on the financial statements which ended on June 30th 2025 generally we need a few days to close a month once it is done so the quarterly reports will always come to the Finance Committee on the second month of the following quarter it's generally just about a month after the quarter closes this was delayed a week but generally that's about when it is and because I'm reporting on the second quarter tonight we are at the halfway point for the year so obviously revenue and expenses are not completely even from month to month but generally you can use 50% as the gauge for any line item in these reports so in the detailed reports that you received ideally we're looking at 50% or more of revenue that we've received up to now and 50% or less of expenses that we've spent please so just as a reminder here is the full budget for the year for all of our funds combined our combined expenses equal slightly over 157 million for the year and this is for all five of our funds the general fund and the four enterprise funds as of june 30 we're running at about 51 percent of budgeted revenue over all of the funds and about 39 percent of budgeted expenses so generally we're in line with where we should be at this time of year next slide please i won't talk much about this slide hopefully you remember seeing this or something like this before at our budget hearings in the fall but this is the breakdown of revenue in the general fund our general fund budget for revenue is about 79 million for 2025. this is our largest fund it makes up almost half of the total combined funds so i wanted to show the revenue breakdown again and i'll show the expense breakdown in a minute as well all right next slide please uh so for the general fund some highlights from the financial statements for the revenue are here as follows so we currently have about 60 percent of our budgeted revenue as of june 30th for the general fund while this is great we do get a lot of our real estate taxes at the beginning of the year so this isn't necessarily higher than we've projected for the year we will see that tax amount grow slower the rest of the year since there aren't a lot of real estate taxes left to be paid and speaking of real estate taxes we're running slightly at a slightly lower rate of real estate taxes collected this year than as of june 30th last year 1.6 percent might not feel super significant but because this is our largest revenue line i continue to watch this line pretty closely 1.6 is about 520 000 so it does affect revenue if the rest of the real estate taxes become too delinquent earned income tax continues to come in almost exactly two projections which is great to see this is the the first year that we were looking at that in income earned income tax increase so it's nice to see that coming in as projected and there are a few lines that come in as large payments towards the end of the year or they come in as one or two payments throughout the year and some of those we haven't received yet so i just wanted to note those because those are not going to be showing that 50 percent um i've listed here the franchise fees parking violations and the pension state funds again all of those come in the pension state funds come in at the end of the year franchise fees do as well and the parking violations come in in chunks over the over the course of the year these these three lines together make about make up about 5.7 million dollars or about seven seven point two percent of the revenue budget so that will boost revenue this fall as those start to come in as next slide please so as with revenue i just wanted to quickly show the breakdown in general fund expenses as you may remember we're anticipating more revenue than expenses this year so we've budgeted about 76 million in expenses and about 79 million in revenue the surplus is budgeted to increase the cash reserves to a level that gets us closer to what would be a normal standard of about 20 percent of operating income we likely won't quite get to that threshold yet but we're inching our way up there next slide please so just a few highlights of general fund expenses general fund expenses are running at about 40% of the annual budget again this is great we want to be lower than 50% or at least not higher than 50% staffing vacancies are driving much of the much of the savings though will see in some of the bureaus like human resources other lines have increased to cover the work while the vacancies were being filled and just as a reminder it is allowable to move expenses within the bureau or department as long as those total expenses for that department do not go over the approved budget so we watch those movements but we also recognize that budgets are projections and sometimes one item may run higher while others run lower so my focus as i review of the reports is generally to look for any high trends within a budget or department and i'm thankful to say that i i don't see any of those trends happening right now so just a couple of other notes as on the revenue side there are some expenses that come out in one or two large payments and there are expenses which might increase in the second half of the year so the current quarter that we're in that's the third quarter tends to be a higher overtime quarter for fire for fire for the fire department and to a certain extent police as well so we'll start to see that increase slightly our large debt payments come out in november so those lines will jump in the last quarter of the year and the police and fire pension plan contributions are the same way and then just another note many of the it contracts actually come out in the spring so many of those have come out that's a larger line item in our budget so i just wanted to note that it's showing at about 75 percent spent but please know that that's projected and intended we anticipate that that line will stay within budget or actually might be slightly under and i think that might be it oh nope not quite just very quickly a few things about the enterprise funds so as you remember we have four enterprise funds storm water water sewer or wastewater and trash the stormwater fund was budgeted at a deficit this year however they've kept expenses at about 30 36 percent of budget for the year so we're actually showing just a slight surplus in the storm water currently which is great to see at this point in the year and again we'll keep watching that the water fund is also running slightly lower on expenses but we continue to watch this as the cost of chemicals for water treatment is always a big variable for us so that will we will continue to monitor sewer is pretty much as expected sewer revenue is not showing at 50% but this is due to some bulk sewer treatments that we that we offer that are larger line items and those come in later in the year and then trash is almost exactly as projected so admittedly the trash fund is an easier one to project because most of this is mostly contracted work you can you know predict it much closer than other parts of the budget i say this but then you might look at the financial statement and wonder why we're showing at 70 percent of revenue and 80 percent of expenses or 87 percent of expenses and again this this has to do with how the payments are estimated and the invoices are paid so much of our hauling fees which contribute the largest portion of our expenses are already paid or they're or they're encumbered to be paid and because we build trash quarterly the third quarter which we're currently in was billed and mostly paid in june so that is showing as payment in june for the third quarter"
+    },
+    {
       "block_id": 23,
       "speaker": "SPEAKER_16",
       "category": "commenter_candidate",
@@ -181,6 +405,17 @@
       "segment_count": 4,
       "word_count": 65,
       "text": "all right and i think i will stop there now thank you for the presentation director campbell um just one question regarding some of the revenue lines that you mentioned franchise fees parking violations and pension state funds can you clarify what franchise fees are and the percentage of parking violations that get received by the city looking at larry cohen the president of the"
+    },
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_08",
+      "category": "recurring",
+      "start": 1882.9,
+      "end": 1889.86,
+      "duration_s": 7.0,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "parking authority for the last one i'm not i actually don't know that number right off the"
     },
     {
       "block_id": 25,
@@ -216,6 +451,17 @@
       "text": "would you mind coming to the mic so the public can who might be watching at home can um i'm not"
     },
     {
+      "block_id": 28,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 1928.68,
+      "end": 2021.04,
+      "duration_s": 92.4,
+      "segment_count": 15,
+      "word_count": 177,
+      "text": "prepared for what i'm supposed to speak about that's okay oh yeah you can sit here see his eyeball on me back there hi i'm not here that often um the parking as you know the parking authority runs the violation parking program under a contract with the city parking authority is basically like a management company during the enforcement for meters street sweeping and residential permit parking that's what we're authorized to do for our contract for our contract the parking authority gets a 10 management fee plus our expenses are covered which are approved in our contract and if there's any changes to that allocation of personnel or whatever we will bring that to tuna and go through that so if there's some major change and we need additional staffing we will get approval for that and the city gets 90 percent of violation revenue after expenses IT'S A PRETTY GOOD DEAL IN THE CITY, BUT IT WORKS, AND WE ARE NINE YEARS INTO IT. TWO CONTRACTS, AND THANK YOU. DOES THAT ANSWER THE QUESTION?"
+    },
+    {
       "block_id": 29,
       "speaker": "SPEAKER_16",
       "category": "commenter_candidate",
@@ -249,6 +495,17 @@
       "text": "THANK YOU, LARRY."
     },
     {
+      "block_id": 32,
+      "speaker": "SPEAKER_08",
+      "category": "recurring",
+      "start": 2025.74,
+      "end": 2038.1,
+      "duration_s": 12.4,
+      "segment_count": 2,
+      "word_count": 31,
+      "text": "AND THEN TO YOUR SECOND PART OF THE QUESTION, THE FRANCHISE FEES COME FROM SOME agreements that we have with um actually places like Comcast and others that offer services that"
+    },
+    {
       "block_id": 33,
       "speaker": "SPEAKER_04",
       "category": "commenter_candidate",
@@ -271,6 +528,39 @@
       "text": "what they are now the franchise fees thank you both um any questions from the committee or full"
     },
     {
+      "block_id": 35,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 2058.58,
+      "end": 2099.94,
+      "duration_s": 41.4,
+      "segment_count": 6,
+      "word_count": 101,
+      "text": "Councilor Harris. Thank you, Director Campbell. That was a great report. The one question I had, and I know you said that for the earned income tax revenue, that it was running about where the city expected. I just had a question on the actual, like, financial statement. It shows around 27%, and so I'm assuming that the second quarter remittance probably occurred either this month or in late july at some point and is that kind of what you're saying like as far as yeah it's probably it's coming in around what expectation is yes exactly um that comes in"
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_08",
+      "category": "recurring",
+      "start": 2099.94,
+      "end": 2111.78,
+      "duration_s": 11.8,
+      "segment_count": 2,
+      "word_count": 38,
+      "text": "the it actually came in in july um so and it is about what we expected but yes you're absolutely right the quarter payments for earned income tax are always the larger payments yes and so then we"
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 2111.78,
+      "end": 2123.88,
+      "duration_s": 12.1,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "would expect to see that then in the next report wonderful thank you thank you councilor arroyo"
+    },
+    {
       "block_id": 38,
       "speaker": "SPEAKER_02",
       "category": "commenter_candidate",
@@ -280,6 +570,17 @@
       "segment_count": 5,
       "word_count": 82,
       "text": "and thank you director campbell this report was very helpful my question was regarding the unfilled positions and the vacancies are we planning to keep those vacancies throughout the rest of the fiscal year and given that we are seeing revenues a little bit ahead of what were anticipated is there any um is there any discussions about bringing some of those positions back um to kind of uh alleviate some of the other staff pressures sure yeah none of the positions"
+    },
+    {
+      "block_id": 39,
+      "speaker": "SPEAKER_08",
+      "category": "recurring",
+      "start": 2151.56,
+      "end": 2168.18,
+      "duration_s": 16.6,
+      "segment_count": 3,
+      "word_count": 56,
+      "text": "are um permanently vacant at this point these would be vacancies that somebody has left and we you know take a couple months to fill again so it's this uh kind of ebb and flow of positions but none of them are being held as vacant right now uh thank you and that concludes my questions"
     },
     {
       "block_id": 40,
@@ -293,6 +594,17 @@
       "text": "thank you counselor man any additional questions from council any questions from the public with that i'll conclude uh the finance committee thank you director campbell thank you council rayo"
     },
     {
+      "block_id": 41,
+      "speaker": "SPEAKER_07",
+      "category": "recurring",
+      "start": 2191.14,
+      "end": 2216.7,
+      "duration_s": 25.6,
+      "segment_count": 1,
+      "word_count": 14,
+      "text": "we'll now go to community planning committee council craig thank you council president um"
+    },
+    {
       "block_id": 42,
       "speaker": "SPEAKER_12",
       "category": "commenter_candidate",
@@ -304,6 +616,17 @@
       "text": "we have one item on the agenda for community planning this evening which is um administration resolution 55 granting a projection easement to the lancaster parking authority and mr cohen's always has already been up here and we would appreciate you enlightening us again okay if"
     },
     {
+      "block_id": 43,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 2240.36,
+      "end": 2282.71,
+      "duration_s": 42.3,
+      "segment_count": 2,
+      "word_count": 35,
+      "text": "you if you have a whole team just come on there you go larry cohen executive director of parking authority i'm here with uh our team for the project uh kelsey gibson with marauder main"
+    },
+    {
       "block_id": 44,
       "speaker": "SPEAKER_06",
       "category": "commenter_candidate",
@@ -313,6 +636,17 @@
       "segment_count": 1,
       "word_count": 16,
       "text": "architects amanda groff with harbor engineering for the project if i can give some history while"
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 2317.82,
+      "end": 2468.76,
+      "duration_s": 150.9,
+      "segment_count": 23,
+      "word_count": 399,
+      "text": "we're waiting how about i do filler because time is precious so we used to have an old parking office at 111 north prince street right at the corner of prince and orange right underneath the parking garage that was our office for 40 or 50 years no one knew it was there because there was no signage until we put that yellow sign to let people know that the parking authority office is there when we took over enforcement nine years ago we uh we basically doubled our staff and we needed more space so we vacated our old office and entered an agreement to buy the community first funds building which is a fabulous building which is a great story of dan and i just kind of having a handshake deal and making it happen so we've been there for the last nine years and it serves us well with our enforcement program as well as others so for the last nine years we've kept the old office vacant basically land banking it for future use not knowing what future use was going to be and then at the nine-year mark it was like you know what it's time to do something with this building we don't have that anticipated what the future use is but we thought it was a great opportunity for us to give a gift back to the city and invigorate this part of the block that laid dormant for many years and part of that vision was expanding the gallery row area and as I said you know reinvigorating this part of the block with a building that'll be a great retail space for a tenant and And then the back of the office, we'll bring back our parking maintenance staff who was in there before and they're going to have like the back part of the office. So three-fourths of it will be a gallery type of space and offices. So this is a project that's underway now. The old office has been torn down and looking to bring this back up. And I'll just highlight that on the building we've gone through the sign commission and such. We put a nice map facade on the front of the building and some banners to bring some life to that space as well. And now I'll turn it over to the professionals."
     },
     {
       "block_id": 46,
@@ -370,6 +704,61 @@
       "text": "a motion that we move resolution 55 to full council on the 12th second all those in favor"
     },
     {
+      "block_id": 51,
+      "speaker": "SPEAKER_15",
+      "category": "recurring",
+      "start": 2725.52,
+      "end": 2771.41,
+      "duration_s": 45.9,
+      "segment_count": 5,
+      "word_count": 92,
+      "text": "thank you so much thank you hopefully we do have a tenant um we're leaving it to them we've we've had a lot of interest in the property which is great it shows that there's demand for space in gallery row um we're hopeful that we're gonna leave it to the tenant to do their official announcement once uh things are done i'd love to steal the thunder but let's not do that for them but thank you so i think everyone will be really happy thank you okay that was it"
+    },
+    {
+      "block_id": 52,
+      "speaker": "SPEAKER_07",
+      "category": "recurring",
+      "start": 2771.41,
+      "end": 2782.68,
+      "duration_s": 11.3,
+      "segment_count": 2,
+      "word_count": 29,
+      "text": "for community planning right yep great thank you very much council craig uh we'll now move to our Public Works Committee councillor Hirsch Thank You council president the Public"
+    },
+    {
+      "block_id": 53,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 2782.68,
+      "end": 2810.6,
+      "duration_s": 27.9,
+      "segment_count": 6,
+      "word_count": 74,
+      "text": "Works Committee has one item on its agenda tonight it's a resolution updating the city's agreement with the Lancaster County Conservation District I'm going to invite director Stephen Campbell to say a few words on it it's mostly administrative in nature and my understanding is we do these from time to time updating our our memorandum of understanding with the Lancaster County County Conservation District so with that I'll leave it to director Campbell"
+    },
+    {
+      "block_id": 54,
+      "speaker": "SPEAKER_01",
+      "category": "recurring",
+      "start": 2810.6,
+      "end": 3116.64,
+      "duration_s": 306.0,
+      "segment_count": 43,
+      "word_count": 606,
+      "text": "yes as always you're very correct in that preliminary assessment of this requirement do we have the slides can the slides be brought up I just wanted to give a little bit of background about the Lancaster County Conservation District before we make the request very small summary while we're waiting for slide because it's not really visual it's it's just information the lancaster county conservation district was established in 1947 and is dedicated to conserving natural resources and promoting sustainable practices within lancaster county pa some of their key functions include soil and water conservation and my father as a matter of fact was a member of the usda u.s department of agriculture and he was an extension service soil scientist from Penn State so I'm very proud of this relationship they soil and water conservation works on projects to prevent soil erosion and manage water resources effectively environmental education where they provide educational programs and resources to schools communities and farmers about conservation practices regulatory compliance where they assist landowners and developers in complying with environmental regulations such as erosion and sediment control agricultural support where they often where they offer technical assistance and funding opportunities to farmers to implement conservation practices and watershed management where they work on improving the health of local watersheds through various initiatives and partnerships is it uh not like i said there's nothing visual it's just words but it would be nice to have them the city of lancaster is responsible to the lccd for collaboration which is working together on projects that impact both the city and the county such as stormwater management and urban conservation efforts compliance which is ensuring that city projects comply with the environmental regulations and guidelines set forth by lccd support meaning providing support for lccd initiatives which may include funding resources or participation in educational programs and also last but not least community engagement encouraging residents and businesses within the city to participate in conservation programs and practices promoted by the lccd keep it on this slide this mou outlines the partnership between else the lancaster county conservation district and the city and defines their common areas of responsibility serving the citizens of the city of lancaster common areas of responsibility include erosion and sediment pollution control for stormwater discharges associated with construction activities minimum control measures outlined in the city's ms4 or municipal separate storm sewer system general permit and education and outreach for the public next slide resolution number 54-2025 includes minor updates to the existing mou the updates include minor wording and punctuation updates throughout so it's very very minor an update to allow the lccd to provide documents electronically and on its website a novel approach the lancaster county conservation district has also included an update to decrease its plan review and permitting timeline for applications and erosion and sediment control plans from 10 days to five days as well as an update for the lccd to reduce its inspection and inspection response timelines from 10 days to 8 days the lccd inspects earth disturbance activities to ensure that the implementation and maintenance of the ens plan and chapter 92 ens practices there's no proposed change to the museum to the municipal responsibilities outlined in the the MOU. So as described, this is very much an administrative change, but the document or the agreement that was in place as of May of 2024 ceases and is replaced by this MOU. So all terms and conditions except for the change in technology and deliverance and the timelines remains the same and all of the responsibilities remain the same"
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 3116.64,
+      "end": 3125.22,
+      "duration_s": 8.6,
+      "segment_count": 1,
+      "word_count": 10,
+      "text": "Thank You director Campbell any questions comments from the Public"
+    },
+    {
       "block_id": 56,
       "speaker": "SPEAKER_00",
       "category": "commenter_candidate",
@@ -379,6 +768,17 @@
       "segment_count": 4,
       "word_count": 52,
       "text": "Works Committee council ideas in relations to our new AI core where that's going to be and basically implement it into our city and also partially named Peter Township will they also provide us updates on how much water how much electricity that's going to be used to the public as with"
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_01",
+      "category": "recurring",
+      "start": 3156.15,
+      "end": 3167.67,
+      "duration_s": 11.5,
+      "segment_count": 2,
+      "word_count": 25,
+      "text": "everything the regular reporting for any use any activity continues so this would be fully fully consistent with any other reporting mechanisms that are already"
     },
     {
       "block_id": 58,
@@ -392,6 +792,17 @@
       "text": "underway thank you and if i could just add to that to say that the former use of lsc was consuming more water than the proposed new use and so i just want to make sure that everybody's aware of that and as it relates to the electricity usage that is really an issue for the pennsylvania utilities commission which regulates issues related to electricity and i would remind council that we are part of a 13 state consortium that is a wholesale retailer called pjm and would direct your attention to recent activities by the shapiro administration to address those rates and that really functions outside of this body any other uh comments or"
     },
     {
+      "block_id": 59,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 3228.82,
+      "end": 3258.89,
+      "duration_s": 30.1,
+      "segment_count": 2,
+      "word_count": 37,
+      "text": "questions uh from the public works committee or council as a whole any questions or comments from the public and if you don't mind if you could just state your name and block her residence as well"
+    },
+    {
       "block_id": 60,
       "speaker": "SPEAKER_10",
       "category": "commenter_candidate",
@@ -401,6 +812,39 @@
       "segment_count": 3,
       "word_count": 56,
       "text": "for the meeting record all right taylor raymond 500 block of saint joseph street um i just wanted some clarification on the reduced timelines you said from uh 10 days to five days for one of them and 10 to 8 for another is that calendar days or business days that is a very good question"
+    },
+    {
+      "block_id": 61,
+      "speaker": "SPEAKER_01",
+      "category": "recurring",
+      "start": 3282.25,
+      "end": 3294.94,
+      "duration_s": 12.7,
+      "segment_count": 1,
+      "word_count": 21,
+      "text": "i believe that it is hold on a second i can confirm for you um but i believe that it is"
+    },
+    {
+      "block_id": 62,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 3294.94,
+      "end": 3329.06,
+      "duration_s": 34.1,
+      "segment_count": 3,
+      "word_count": 52,
+      "text": "calendar days any other questions or comments from the public uh hearing none i would make a motion to move resolution 54 to our full meeting of council on august 12th tomorrow night all those in favor hi struggling with this mic that concludes the public works committee that's all right thank"
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_07",
+      "category": "recurring",
+      "start": 3329.06,
+      "end": 3333.86,
+      "duration_s": 4.8,
+      "segment_count": 1,
+      "word_count": 16,
+      "text": "you very much council hirsch um and then finally this evening we have public safety committee"
     },
     {
       "block_id": 64,
@@ -414,6 +858,17 @@
       "text": "councilor diaz thank you council president public safety committee has a bill number 05 2025 creating a community police review board due to the scheduling issues with the meeting and i personally prefer to move this proposal to the september meeting now that it is online and can be reviewed plus i also would like to hear back from the chief of police chief mendez if he has any questions or anything that he would like to add to this it's really important also that the committee responds and also the mayor to see what we can do for our community since we're continually getting requests for it"
     },
     {
+      "block_id": 65,
+      "speaker": "SPEAKER_07",
+      "category": "recurring",
+      "start": 3378.88,
+      "end": 3395.19,
+      "duration_s": 16.3,
+      "segment_count": 3,
+      "word_count": 45,
+      "text": "councilor Diaz is your wish to not take this up under your committee this evening not this evening mr. Harris does this need to be tabled as our parliamentarian I want to check and make sure if it needs to be tabled or if it"
+    },
+    {
       "block_id": 66,
       "speaker": "SPEAKER_14",
       "category": "commenter_candidate",
@@ -423,6 +878,17 @@
       "segment_count": 1,
       "word_count": 14,
       "text": "can simply not be taken up by the committee okay thank you very much"
+    },
+    {
+      "block_id": 67,
+      "speaker": "SPEAKER_07",
+      "category": "recurring",
+      "start": 3405.33,
+      "end": 3444.39,
+      "duration_s": 39.1,
+      "segment_count": 7,
+      "word_count": 101,
+      "text": "councillor Diaz appreciate that we go so you we don't need to take that up on to your committee and you have no other items is that correct that is correct thank you sounds good thank you very much then counselors we have reached the conclusion of our committee meeting agendas this evening mr. Harris has submitted his clerk's report and writing to us thank you very much for that so that is on the record having reached the end of our agenda I will hear a motion to adjourn motion to adjourn all in favor aye thank you we're adjourned"
     }
   ]
 }

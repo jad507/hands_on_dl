@@ -3,7 +3,7 @@
   "video_id": "m50W4pVkNb4",
   "upload_date": "20250807",
   "rttm_mode": "exclusive",
-  "commenter_speakers": {
+  "speakers": {
     "SPEAKER_00": {
       "category": "commenter_candidate",
       "total_speech_s": 72.5,
@@ -12,6 +12,14 @@
       "avg_segment_s": 5.6,
       "word_count": 204
     },
+    "SPEAKER_01": {
+      "category": "recurring",
+      "total_speech_s": 199.5,
+      "block_count": 1,
+      "segment_count": 48,
+      "avg_segment_s": 4.2,
+      "word_count": 562
+    },
     "SPEAKER_02": {
       "category": "commenter_candidate",
       "total_speech_s": 173.0,
@@ -19,6 +27,14 @@
       "segment_count": 21,
       "avg_segment_s": 8.2,
       "word_count": 370
+    },
+    "SPEAKER_03": {
+      "category": "recurring",
+      "total_speech_s": 215.6,
+      "block_count": 1,
+      "segment_count": 27,
+      "avg_segment_s": 8.0,
+      "word_count": 497
     },
     "SPEAKER_04": {
       "category": "commenter_candidate",
@@ -44,6 +60,22 @@
       "avg_segment_s": 6.0,
       "word_count": 371
     },
+    "SPEAKER_08": {
+      "category": "recurring",
+      "total_speech_s": 439.3,
+      "block_count": 5,
+      "segment_count": 83,
+      "avg_segment_s": 5.3,
+      "word_count": 1257
+    },
+    "SPEAKER_09": {
+      "category": "recurring",
+      "total_speech_s": 891.2,
+      "block_count": 20,
+      "segment_count": 159,
+      "avg_segment_s": 5.6,
+      "word_count": 2477
+    },
     "SPEAKER_10": {
       "category": "commenter_candidate",
       "total_speech_s": 76.8,
@@ -51,6 +83,14 @@
       "segment_count": 19,
       "avg_segment_s": 4.0,
       "word_count": 296
+    },
+    "SPEAKER_11": {
+      "category": "recurring",
+      "total_speech_s": 457.0,
+      "block_count": 14,
+      "segment_count": 67,
+      "avg_segment_s": 6.8,
+      "word_count": 1155
     },
     "SPEAKER_12": {
       "category": "commenter_candidate",
@@ -68,6 +108,14 @@
       "avg_segment_s": 6.4,
       "word_count": 320
     },
+    "SPEAKER_14": {
+      "category": "recurring",
+      "total_speech_s": 201.3,
+      "block_count": 1,
+      "segment_count": 39,
+      "avg_segment_s": 5.2,
+      "word_count": 449
+    },
     "SPEAKER_15": {
       "category": "commenter_candidate",
       "total_speech_s": 47.4,
@@ -75,6 +123,22 @@
       "segment_count": 6,
       "avg_segment_s": 7.9,
       "word_count": 94
+    },
+    "SPEAKER_16": {
+      "category": "recurring",
+      "total_speech_s": 555.4,
+      "block_count": 23,
+      "segment_count": 96,
+      "avg_segment_s": 5.8,
+      "word_count": 1606
+    },
+    "SPEAKER_17": {
+      "category": "recurring",
+      "total_speech_s": 962.8,
+      "block_count": 29,
+      "segment_count": 74,
+      "avg_segment_s": 13.0,
+      "word_count": 990
     },
     "SPEAKER_18": {
       "category": "commenter_candidate",
@@ -92,6 +156,14 @@
       "avg_segment_s": 5.2,
       "word_count": 245
     },
+    "SPEAKER_20": {
+      "category": "recurring",
+      "total_speech_s": 299.9,
+      "block_count": 10,
+      "segment_count": 53,
+      "avg_segment_s": 5.7,
+      "word_count": 817
+    },
     "SPEAKER_21": {
       "category": "commenter_candidate",
       "total_speech_s": 166.8,
@@ -100,6 +172,14 @@
       "avg_segment_s": 7.6,
       "word_count": 410
     },
+    "SPEAKER_22": {
+      "category": "recurring",
+      "total_speech_s": 456.8,
+      "block_count": 16,
+      "segment_count": 70,
+      "avg_segment_s": 6.5,
+      "word_count": 1075
+    },
     "SPEAKER_23": {
       "category": "commenter_candidate",
       "total_speech_s": 80.2,
@@ -107,6 +187,14 @@
       "segment_count": 12,
       "avg_segment_s": 6.7,
       "word_count": 217
+    },
+    "SPEAKER_24": {
+      "category": "recurring",
+      "total_speech_s": 926.4,
+      "block_count": 15,
+      "segment_count": 137,
+      "avg_segment_s": 6.8,
+      "word_count": 2178
     },
     "SPEAKER_25": {
       "category": "commenter_candidate",
@@ -123,6 +211,22 @@
       "segment_count": 37,
       "avg_segment_s": 3.8,
       "word_count": 464
+    },
+    "SPEAKER_27": {
+      "category": "recurring",
+      "total_speech_s": 373.1,
+      "block_count": 15,
+      "segment_count": 56,
+      "avg_segment_s": 6.7,
+      "word_count": 914
+    },
+    "SPEAKER_28": {
+      "category": "recurring",
+      "total_speech_s": 897.7,
+      "block_count": 27,
+      "segment_count": 150,
+      "avg_segment_s": 6.0,
+      "word_count": 2327
     },
     "SPEAKER_29": {
       "category": "commenter_candidate",
@@ -163,9 +267,50 @@
       "segment_count": 9,
       "avg_segment_s": 5.3,
       "word_count": 136
+    },
+    "SPEAKER_34": {
+      "category": "recurring",
+      "total_speech_s": 203.9,
+      "block_count": 1,
+      "segment_count": 41,
+      "avg_segment_s": 5.0,
+      "word_count": 611
     }
   },
-  "commenter_blocks": [
+  "blocks": [
+    {
+      "block_id": 0,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 1254.8,
+      "end": 1265.52,
+      "duration_s": 10.7,
+      "segment_count": 1,
+      "word_count": 19,
+      "text": "the approval of the minutes from june the 4th 2024. mr chairman i would like to make a motion"
+    },
+    {
+      "block_id": 1,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 1265.52,
+      "end": 1274.59,
+      "duration_s": 9.1,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "to approve the meeting minutes from june 4th 2025. i'll second we have a motion on the floor"
+    },
+    {
+      "block_id": 2,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 1274.59,
+      "end": 1498.6,
+      "duration_s": 224.0,
+      "segment_count": 21,
+      "word_count": 260,
+      "text": "and also a second um ready for the question discussion all in favor let it known by saying aye aye aye opposed ayes have it motion carried three public participation uh this meeting and its participants are being recorded please take a moment of silence to silence your phones and devices if you have not done so already and during this meeting there will be a designated agenda item for public comment residents may also comment on individual items or subdivision and land development agenda all speakers should be with their should state their name block of residence for the meeting's record and address their comments to the planning commission Please be advised that the public comments is not a question or answer, period, and comments are limited to three minutes per speaker. You may not donate your time to another speaker. if several people are here to speak on the same subject you are invited to choose a single representative who may speak for five minutes to keep time I'll be using a timer light when it is green the three minutes have begun when it blinks yellow there is one minute remaining and when it is red three minutes has been exhausted if the speaker continues after three minutes i will kindly keep ask them to end their comments i appreciate everyone cooperating to to maintain order and to provide equal time. Speakers addressing the planning commission and members of the audience will be expected to conduct themselves in an orderly manner and remain respectful of others. Yes."
+    },
     {
       "block_id": 3,
       "speaker": "SPEAKER_26",
@@ -176,6 +321,17 @@
       "segment_count": 34,
       "word_count": 451,
       "text": "Are you ready? Wonderful. Hi, thank you. I'm a mother of two children and, I'm a mother of two young children and we love our home here I'm often saying we're living in God's country I'm speaking here in regards to the data center Lancaster is spectacular no doubt it is something to behold but somehow corporate greed consistently finds a way to infiltrate and ruin things for the masses Pennsylvania has been at the helm of every possible environmental disaster one can think of from steel mills and coal mines to fracking and abandoned oil and gas wells to Three Mile Island and it's always the people our children our land our animals this fragile ecosystem that continuously pays the price for legislative and corporate negligence noxious gases heavy metals contaminated waterways in an entire county and culture that relies on farming and agriculture to survive AG and AI cannot coexist and now you're potentially willing to stamp your names on improving the creation of our next great disaster these data centers have data centers have already proven to be bad for the people the environment our water supplies our electricity grid this is not an experiment the data is in and we know the outcome of these warehouses and it's not good and please don't tell us it's going to create jobs because the jobs that this creates won't hold a candle to the number of jobs ai will be responsible for killing you're willing to jeopardize everything we need to live off of and survive here and for what there's absolutely no logical reason for approving anything that will create water scarcity and increase electricity rates that always get passed on down to us the residential consumers i've already seen ppl screen me harder than usual this summer this is affecting us now up at rock limits there are companies that are already working to create storage spaces for visual content data centers for the sphere in las vegas las vegas leashing off of this little gem of a town all the way across the nation things are already under your nose and you can't even fathom all the ways it's going to control and poison us collectively much less govern it appropriately please we beg of you stop this crazy train and take a stance against allowing ai to pillage our land and livelihoods give yourself something to to take pride in by protecting your constituents in our homeland and standing with us and saying no to perpetuating the downfall of our civilization with this construction of these unnecessary data centers that only share their profits with the rich few at the expense of the working class."
+    },
+    {
+      "block_id": 4,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 1635.06,
+      "end": 1636.06,
+      "duration_s": 1.0,
+      "segment_count": 1,
+      "word_count": 2,
+      "text": "Thank you."
     },
     {
       "block_id": 5,
@@ -189,6 +345,28 @@
       "text": "Thank you. Should I hold for when you have the light fixed? Okay."
     },
     {
+      "block_id": 6,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 1647.54,
+      "end": 1655.48,
+      "duration_s": 7.9,
+      "segment_count": 5,
+      "word_count": 24,
+      "text": "Okay. And we should probably have people say their name and block of residence for the record too for the minutes? Yeah. They are?"
+    },
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 1655.48,
+      "end": 1664.82,
+      "duration_s": 9.3,
+      "segment_count": 4,
+      "word_count": 20,
+      "text": "Yeah, I don't think that the first one did. She did? Can you go to the mic, please? Thank you."
+    },
+    {
       "block_id": 8,
       "speaker": "SPEAKER_26",
       "category": "commenter_candidate",
@@ -198,6 +376,17 @@
       "segment_count": 3,
       "word_count": 13,
       "text": "Apologies. My name is Kara O'Toole, and I'm up in Linnitz. Thank you."
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 1670.03,
+      "end": 1671.03,
+      "duration_s": 1.0,
+      "segment_count": 1,
+      "word_count": 2,
+      "text": "Thank you."
     },
     {
       "block_id": 10,
@@ -244,6 +433,17 @@
       "text": "in the 100 block of North Mary in the city. I'm here to talk about the data centers, which I'm guessing almost everybody is. And I have a couple sort of different points because I think everybody is doing a better job than I would do to explain the issues and some of the solutions. I think one of the problems that I have with this is that according to Charissa's own website, Lancaster West is in development. And that's Harrisburg Pike. So yes, Greenfield is in construction, which is what their website says. Lancaster West is in development. Also 130 megawatts to begin, up to 300. So I think when either the mayor or Charissa themselves says, no, no, it's just going to be Greenfield, either someone is wrong or someone is lying. And I find that to be very problematic. The other issue is that according to the city's frequently asked questions page, which I noticed just went up like three days ago, which is a little late, they say that the current zoning district right there is suburban manufacturing. And according to the code, the city of Lancaster code says it is for most intense industrial uses which have greater land area requirements and need for close proximity to regional transportation networks including railways and limited access highways. Why would a data center that is going to have nothing coming and going need access to highways or railways? I think that is an absolute sham. It is ridiculous that these are being counted as suburban manufacturing or as warehouses. There's not going to be anybody coming in and out of this thing. And I don't understand why this was pushed through with no public discussion and no public information about this. I think that is a huge problem. And I think that shows that there is a lack of transparency. And I think at the very minimum, this planning commission could say, let's slow down for a second. Let's put these requirements in place that other people are doing a better job than me saying that we need, requirements that they're not going to use water, explanation of where this electricity is going to come from. Are they required to do solar panels on the roof? That seems like one easy thing. I know it's not going to be very much, but it seems like one easy requirement we could be doing. What happens if they do want to do water in the future? some vague information on the frequently asked questions that there are ordinances in place to stop that what are those ordinances why does the frequently asked questions not link to them or at least give me the number that's a huge problem and i just honestly don't trust the city right now on this issue and i think everybody here no one is here because we trust the city to just have our have our um our best interests at heart and i think that is a huge problem and this is an inflection point where the city has a chance to make a change and say let's slow down maybe these data centers are gonna happen anyway but we need to make sure that we have in writing enforceable requirements of what they can and cannot"
     },
     {
+      "block_id": 14,
+      "speaker": "SPEAKER_01",
+      "category": "recurring",
+      "start": 2336.65,
+      "end": 2538.03,
+      "duration_s": 201.4,
+      "segment_count": 48,
+      "word_count": 562,
+      "text": "do thank you my name is Dan Weigel I live on Clarendon Drive and at the most recent City Council meeting and also with one commenter tonight one commenter provided data about just how much electricity a single data center will use i'm a numbers person and though i couldn't recall the exact figures i remember being completely astonished by them since then i've done my own research and math that i will share with you tonight and which confirms the outrageous amount of power being used by these data centers here's the big number one 100 megawatt data center like what is already being built here running at full capacity will consume four times as much power in a year as every single home in lancaster city combined i find that astounding for any skeptics bear with me as i show my work first for the data center a 100 megawatt data center can use 876 000 megawatts of electricity per year that is 100 megawatts per hour times 365 days times 24 hours per day the average home in this state uses 10.402 megawatts of electricity per year divide that out and you get 84 215 homes that that data center at its initial 100 megawatt construction is equivalent to as of the most recent census our city had 21 243 homes the data center equivalent of around 84 000 is four times greater than the 21 000. that is ridiculous i have done the math so many times and i still cannot believe it i grew up in an era where the world was starting to awaken to the emerging climate crisis and we were all urged to do our part i was taught to turn off lights in unoccupied rooms not let the fridge or freezer hang open and to take shorter showers not just to keep the electric bill down but to do my part to help save the planet as i've gotten older big business and unregulated capitalism and complicit governments have made me cynical about the minuscule effect of my home going from say 10 megawatts per year to 9 megawatts per year though though I do still think it's important for me to do my part. Now, we're having a conversation about something that uses close to a million megawatts per year while I strive to save one. It's not a fair fight for the future of the planet, and it's not one that any of us, not the employees of CoreWeave, Carissa, or Machine Investment Group, not politicians who support data centers from both parties like Donald Trump, Josh Shapiro, Dave McCormick, or Mayor Sirachi, and not anyone in this room tonight can afford to lose. Finally, all of the numbers I have used have been for a single 100 megawatt data center. They wanna build two and expand them to 300 megawatts each. So as crazy as these numbers have been, if we don't stop this, the data center's power consumption will soon be 24 times as much as every home in Lancaster City. It's unfathomable. And given that there is not a matching renewable energy project, this massive bump in electric consumption will have to be powered by dirty, polluting, and planet-killing fossil fuels. For your sake, my sake, and the sake of everyone in this city, stop the madness now."
+    },
+    {
       "block_id": 15,
       "speaker": "SPEAKER_15",
       "category": "commenter_candidate",
@@ -253,6 +453,17 @@
       "segment_count": 1,
       "word_count": 2,
       "text": "Thank you."
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_14",
+      "category": "recurring",
+      "start": 2549.16,
+      "end": 2753.01,
+      "duration_s": 203.9,
+      "segment_count": 39,
+      "word_count": 449,
+      "text": "Hi, my name is Frank Arcoglio, and I live on Old Trinity Place. Unlike everybody else, I'm not here to talk about data centers. This is a planning commission, and I'm going to tell you about my own plans. My plan is to put a small nuclear reactor in the backyard of my house. How's that? I thought I'd let you know that. But you know, I really don't have to even let you know that because there's not a darn thing you can do about it. It's still a single family home. It's not an industry. It's just a home. You're powerless to make any rules at all unless the city council requests them. And I'll be at the city council meeting next week also to tell them about this. But guess what? they can't do anything about it either why because it's too late have you heard too late it's too late the city zoning officer has already said it's okay not a problem oh and in fact permits have been issued and installation is ongoing you know i'm not really talking about a nuclear power plant i'm really talking about this data center the city has no ordinance that addresses this newfangled thing called the data center the city calls it wholesale trade and storage basically a warehouse but you know I'm that's an insult to you you know what what wholesale trade is you know you receive goods from manufacturers and you distribute them to customers that's not what this thing is do warehouses use enough electricity as everybody's already said that even at the low end has enough electricity for 85 000 homes i don't need to tell you that do warehouses use immense amounts of water or large cooling fans raising the temperature of the neighborhood and also in generating incredible noise no the warehouses don't do that and how many warehouses do you know require 72 diesel generators none that i've ever seen so here's the deal what the planning commission can do is hold hearings and so what we are asking what i am asking you to do is to hold a hearing as to how in the heck the zoning officer i'm sure led by the mayor how did the zoning officer decide that this massive data center was somehow a warehouse and that they didn't tell anybody about it until it was all ready too late they didn't come to you they didn't go to the council they didn't do a damn thing except what they wanted to do i'm asking you to get to the truth thank you thank you uh my name is uh brian nelson 100"
     },
     {
       "block_id": 17,
@@ -297,6 +508,17 @@
       "segment_count": 1,
       "word_count": 20,
       "text": "it easy too so and we won't get taxes from it if it's from the state thank you uh hi"
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_34",
+      "category": "recurring",
+      "start": 2949.56,
+      "end": 3159.39,
+      "duration_s": 209.8,
+      "segment_count": 41,
+      "word_count": 611,
+      "text": "my name is donovan james i'm in east pete uh there's a saying in investment uh that goes you can either to be better than your competition be faster smarter or dishonest and in order to sort of combat those things as the opposite side of any trade you have to do preparation you kind of also have to be smart and you have to protect yourself against this so i have a couple questions that fall into those categories um the first is under preparation uh there's a lot of talk about reinforcing the power grid to prepare for this um i haven't seen a lot of details on that so i am curious uh will we be certain that the reinforcements are done before the data centers are done uh so are we going to have to live through a lot of power grid problems before we actually see any of those protections uh will those power grid protections be passed onto consumers so are we going to pay for those power grid upgrades that were not necessary prior to the data centers being built uh has the commission done any research into the experiences of other cities with a identity or data center projects prior to approving this development i am curious this is an emerging area so how much research have we done before we just kind of stamped this yes from the cost benefit side typically with data centers the benefits to to a community are either in tax revenue or in jobs. So I've heard a lot about these 150 jobs that are going to be created, but I do have two main questions. The first being, are these jobs remote eligible? I'm a cybersecurity engineer, I work for a conglomerate, and a lot of our data center engineers don't actually have to live where the data center is. They travel to do maintenance once or twice, three times a year, and then they go home. And they don't actually live wherever that building is located. The other thing is, how can we guarantee that those 150 jobs are going to stay? AI is all about automation and all about doing more productivity with fewer man hours. So is this going to be an initial number and then decrease by, let's say, 510 every year until it's a much smaller number or even faster than that? In addition, the tax benefits, a lot of places are doing some tax benefits, some incentives to attract this kind of work. Again, it's kind of cutting edge. this is with a lot of mixed results are we cutting taxes or giving any benefits to these companies to bring this construction here that will offset the lancaster gains of having these data centers long term i'd be very interested to see um in addition obviously data centers are a controversial topic right now uh are we considering any reputational harm that may be done by having two data centers here that will prevent people from wanting to move in particularly businesses that do have power consumptions or residents who are also concerned i know i left work and came down here on a random wednesday to come talk about this so clearly it's important as this packed room would suggest uh so again like pr wise are we ready for a potential fallout from this and ready to sort of work on our reputation and prove to people who don't even live here no it's fine trust us it's cool we've got it covered you see the red light oh yes sorry my name is aaron nordman i live"
     },
     {
       "block_id": 22,
@@ -354,6 +576,17 @@
       "text": "not in defeat in reverence thank you hello my name is andy i as a couple months ago i no longer live in the city but i'm still here almost every day i have a plot in the Central Park, the county park, and you may have noticed I raised my hand when I, with the allergies and the asthma comment. I have migraines, and like many other people have said, like the air quality, the noise, that would greatly deter me from trying to move back here, from trying to spend more time here, and it's frustrating. I grew up here for the past 20 some years. Before that, I was in I was in Louisiana, around New Orleans, which is also a very tourism-driven city, very close to a lot of green spaces. I was homeschooled, so I was outside all of the time. And it's not hard to see how the tourism centers are more attractive when the city and its people are taken care of. when you're not hearing people complain about issues with the roads issues with sanitation issues with pollution we had plenty of those in new orleans and it's so frustrating to hear that kind of thing here where when i moved here we were so excited about all of the parks all of the fresh produce i have a lot of friends across the country who can't get the same kind of produce that we get here they're in food deserts and I will walk I don't know five minutes from my house in Akron and there's food stands there's flower stands people love to be outside here and I grew up on the rail trails and I just wouldn't do that anymore I wouldn't be able to do that because the sound walls even into peripheral areas would increase my migraines um my asthma and my allergies would be so they're already they suck already I've had five or six migraines in the past month already that's abnormally high for me but I I know part of it is because of the heat waves we're having it's because of my allergies it's all of this combined and so if that if these problems exacerbated I just wouldn't be around here anymore I couldn't live around and that that truly again it sucks because so much of my life is here and i have avoided moving away from here for so long"
     },
     {
+      "block_id": 27,
+      "speaker": "SPEAKER_03",
+      "category": "recurring",
+      "start": 3764.52,
+      "end": 3981.73,
+      "duration_s": 217.2,
+      "segment_count": 27,
+      "word_count": 497,
+      "text": "that's all thank you thank you i'm jackie snyder i grew up around here i live on the west side of the city thanks for locking me out because i was late um basically i'm here to say that i also do not want a data center i completely agree with the local organizations who are saying that we do not want a data center i expect you have heard their reasons why i agree with them and i support them there's wildfires today so there's a bunch of smoke in the air i'm not sure why we need more things that are going to be a massive drain on our resources our water our power the bills are all going up for many reasons right now and it's difficult to endure i don't want my electrical bill to also rise i don't see why this is of any use i am also frustrated just i might as well just say it now i don't think that this is about that but we're gonna also be giving a bunch of data from three mile island to artificial intelligence i don't care for it i don't want it um i kind of wish i the person who just read a long thing from chat gpt you don't need to use ai for like basically everything i love not using ai i've been doing it my whole life i'm gonna keep doing it you do have some choices i know they're taking more and more away from us and i cherish them more and more because of that um i like to write things i work at an art studio with people who make art uh i work at friendship gallery uh it's just terrible stuff i don't care for grok i don't care for mecca hitler i don't care for the um i guess it's not a word i should use here but the encrapification of everything we don't need any of this stuff so i think i've exhausted what i came here to say but it's i mean it's depressing it's insulting it's completely unnecessary it's for no good it's for more surveillance we've got plenty of surveillance here. Artificial intelligence is being used to destroy people's lives, kill people, surveil people en masse. It's being used for censorship. This week, YouTube is going to start using artificial intelligence to prevent anyone who behaves too childishly from accessing certain content on their platform. We can expect more of this. The entire United Kingdom is being baffled by this problem currently it's going to get worse and I don't think we should take part in it as somebody who has a lot of like autistic people that I love that censorship hits extra hard too because if you act too childishly for someone's standards it doesn't matter what your actual legal rights as an adult are you're going to be submitted to more surveillance hello my name is"
+    },
+    {
       "block_id": 28,
       "speaker": "SPEAKER_23",
       "category": "commenter_candidate",
@@ -387,6 +620,17 @@
       "text": "not sure but kind of threw me off a little bit but thanks thank you could you state your name and"
     },
     {
+      "block_id": 31,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 4189.84,
+      "end": 4211.51,
+      "duration_s": 21.7,
+      "segment_count": 1,
+      "word_count": 16,
+      "text": "and your block thank you any further public uh participation sean fisher i live on nanticoke"
+    },
+    {
       "block_id": 32,
       "speaker": "SPEAKER_07",
       "category": "commenter_candidate",
@@ -407,6 +651,61 @@
       "segment_count": 14,
       "word_count": 243,
       "text": "thank you my name is Logan okay my name is Logan Weiss I live on the 500 block of North Plum Street I too wasn't originally planning to speak but I also have been moved by the sheer overwhelming passion and overwhelming statistics that every common person here has brought as someone who this week has been living in this city for two years and has been in the shadow of this city growing up an effort of my entire life this was the promised land this is where things happened this is where cultures came together this is where you made a name for yourself and you can move forward and now within two years of starting my adult life here i'm being told that a corporation is more important than the common people who live here and want to buy a home trying to learn about this city and the politics that go into it and the issues that go into it i am frankly disgusted that we are prioritizing something that is not real something that we made up electrical signals over living breathing people and it needs to stop and while some may be cynical i hold hope that you hear the words of so many people you hear this room full of people who have come for this one specific issue and i don't know what can be done but something has to be done thank you okay"
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 4435.68,
+      "end": 4464.58,
+      "duration_s": 28.9,
+      "segment_count": 1,
+      "word_count": 16,
+      "text": "moving forward with our agenda that's part of the agenda we're moving forward with the agenda"
+    },
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 4464.58,
+      "end": 4496.68,
+      "duration_s": 32.1,
+      "segment_count": 4,
+      "word_count": 70,
+      "text": "and that's part that's on the agenda uh chairman polite is it possible to add uh i think there's probably planning commission members that want to comment is it possible that is moving forward with the agenda right i think i think people were misunderstanding you that we're moving to the next agenda i don't know okay sorry are we able to comment absolutely i just wanted to make sure"
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 4496.68,
+      "end": 4537.54,
+      "duration_s": 40.9,
+      "segment_count": 5,
+      "word_count": 86,
+      "text": "that we had a chance to discuss absolutely mr chair so uh tonight mr stevens and i are not voting members we can't make motions or anything like that but i do think based off the comments here tonight and our uh optional powers as a planning commission we should have a discussion on having a public hearing on how this zoning determination came to be uh and give continued forum to this community conversation further comment yeah i also uh you know just want to"
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 4537.54,
+      "end": 4669.41,
+      "duration_s": 131.9,
+      "segment_count": 23,
+      "word_count": 408,
+      "text": "thank everyone for coming out um you know it's it's a wednesday i'm sure you all have better things to do um i i feel like i'll speak for myself i i probably speak for some other commission members as well i mean we were also blindsided by this you know so we we also have a lot of the same questions that you have from my understanding what would typically happen in in this kind of case at least from my perspective since we do not have a zoning category for data centers typically it would be a use that's not provided for in the zoning code and then it would go to the zoning board hearing zoning hearing board which has to do you know public notification of of meetings has a chance for the community to give input and really provides an opportunity for the city to you know do some of the things that you've asked you know putting in some some requirements in place if this was going to move forward you know looking at environmental impact noise all of that like that was really our opportunity as a city to have some control in this in this development that did not happen so i have a lot of questions about why that did not happen i would i would support a public hearing that folks have called for i think that's something that's within our power to do so you know first i would like to get some answers some of the same questions that you have i would also be supportive of a text amendment in the zoning uh ordinance kind of going forward um i'm i'm also not sure what we can do you know right now um with the the developments that are already in progress but um again have a lot of questions around that um so you know typically our role as the planning commission is uh a project would go through the land development process which would again you know give you folks and give us a chance to ask questions and make sure that the developments that are being proposed are not going to have harmful impact on our community we did not have that opportunity so i share the same frustration that many of the folks here tonight have expressed i will i'll let other commissioners comment if others have comments mr chair yes"
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_20",
+      "category": "recurring",
+      "start": 4671.25,
+      "end": 4909.77,
+      "duration_s": 238.5,
+      "segment_count": 41,
+      "word_count": 669,
+      "text": "i and i echo commissioner stolfus's response of thank you all for coming out here tonight typically we're talking to an empty room so it is i think encouraging and energizing to to see a room full of citizens who are interested in the work that we do obviously which we could meet you all under happier circumstances but nonetheless we are excited to have citizens here who are interested in engaging with us and engaging in the process um uh i also agree i i think there needs to be a public hearing for in some capacity even if it's just informational i think there's a very strong need for the city to show its homework and how this decision was made because the first time i heard about this was when i read it in the paper that this this has been made and this has been done so so we certainly sympathize with y'all that you know we were on the wrong side of the door as well um and and really at the end of the day a project like this is why the planning commission is here this is our role in the community is to review and address uses like this that could have a potential impact on the community whatever that impact may be i similarly have concerns about the impacts of noise some of the stories i've heard from other communities that have been affected by air-cooled data centers really has disturbed me and some of the health impacts that constant noise has had on adjacent residents especially as has been pointed out one of these will be right next to longs park which is a place that me and my family enjoy a lot um so um and of course i i speak as a member of Lancaster City as someone who's moved here and has established a family here raised children here and so want to make sure that you know our community really carries out our core mission as a planning convention which is to guard the health safety and welfare of our residents that being said I think it's also would be beneficial so that the public can understand really what we can and can't do as a body which is always the hardest part of this work that we do that there are things we can regulate there are things we can't regulate you know things like water you well what are you actually but even though we share some of the concerns to be expressed here we are limited by state statute what we can and can't regulate and what we can and cannot approve if a development meets the requirements our zoning ordinance we can hate it about as much as anything else we have to approve it and again i say that not to say what you the concerns you all shared are not important are not worth public discussion or not worth sharing but just to point out that you know there are things that we can't do that potentially city council can't um so i i I think there's a lot of need, I think, for a dedicated discussion to really share all of this information so everyone can understand how we came to be where we are. And yes, again, echoing what Amos has said, we need an ordinance amendment to regulate data centers. It is a new use. It is a different use, and we need something that gives us as a city the authority not is for uh examining and vetting new data centers that may come in but also making sure that they are they stay above board from now into the future making sure that if there are problems with noise or whatever else that are something that we as a city can use to enforce to make sure that they are being good neighbors as good a neighbor as a daddy data center could be"
     },
     {
       "block_id": 39,
@@ -431,6 +730,17 @@
       "text": "following mr week's comment would love to see more people here in support of affordable housing when that's brought up we've had projects come through that we hear people on the negative side more than the positive side so please come out for you know support of things not just against things"
     },
     {
+      "block_id": 41,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 5008.28,
+      "end": 5194.43,
+      "duration_s": 186.2,
+      "segment_count": 27,
+      "word_count": 506,
+      "text": "for the comment yes one of the things i do want to applaud is some of the things i've heard from you lack of transparency lack of details promises that may or may not be kept and in all transparency the last meeting we had as a planning commission was june 4th we just approved those minutes didn't we that's over two months ago right and i am at a loss sometimes because we have not had the opportunity in two months to hear from you we have had dropped agenda items which would be anything from somebody wanted to develop and they pulled out last minute right so we have not had a meeting for two months and it's it's difficult because those would have been great times i we could have addressed a lot of these things couldn't we some of the issues like working through some of the ordinances some of the zoning things things that we have put forward on the comprehensive plan that was released quite some time ago now things we would love to talk about and it just has not happened um i don't believe it's too late legally it might be in some cases too late for some things but i don't believe it's too late despite the pr blitz despite all the things that we've read in the newspaper that makes it seem like this body is powerless um some of it seems like a done deal i think it's a very vague done deal in all honesty and transparency with you all i don't think we are powerless against any of the big players despite what might seem to be happening um i would love to know what a hearing would look like especially if any of these developments are even one square foot over what they promised which seems to be our chance to do something about it i hate the idea of it's within the footprint of a building i really i know i could we're dealing with like real laws real ordinances real things that are at a state level that are not a city level but my goodness it does sound crazy and absurd even as someone who understands after working with the commission now for five years that we are truly limited as everyone has pointed out and it just doesn't seem right and i am so empathetic to that and i want to make sure that you know that we're all here and we are really here for you and for this city and for the county as a whole if i may take another 15 seconds statistics guy where are you with those numbers yes you electric guy um sorry i know you have a name and everything but dan right thank you he's good with the names i'm good with the faces um yeah you know if they do realize the 300 that is the entire county times two for household usage that's crazy so there's a lot"
+    },
+    {
       "block_id": 42,
       "speaker": "SPEAKER_25",
       "category": "commenter_candidate",
@@ -440,6 +750,611 @@
       "segment_count": 1,
       "word_count": 18,
       "text": "to think about thank you i think what you heard from my fellow commissioners tonight is that we're"
+    },
+    {
+      "block_id": 43,
+      "speaker": "SPEAKER_27",
+      "category": "recurring",
+      "start": 5236.97,
+      "end": 5316.01,
+      "duration_s": 79.0,
+      "segment_count": 13,
+      "word_count": 220,
+      "text": "um gonna take your comments seriously uh we're gonna have a conversation and i i think make a decision on what is the best way that we can or what position we have to move forward I certainly learned a lot this evening I looked into this data center I knew some of the environmental concerns I knew about the noise I knew about the electricity but there was a number of things that I didn't realize I didn't realize how substantial the electricity uses was so I think myself there's even further you know details that I want to look up I want to say that the most impactful thing that i heard tonight that i think um is moving for me is the fact that the gentleman said that it's easier to approve a data center with the significant environmental impacts that it has than it is to get affordable housing pushed through and i'm sorry i am at an age in my life where i can be emotionally swayed very easily and i just that was impactful and i want to thank everybody here for your courage and standing up tonight um i think that we were all emotionally moved by your comments and um we will continue this conversation uh go ahead sorry i just i"
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 5316.01,
+      "end": 5348.77,
+      "duration_s": 32.8,
+      "segment_count": 6,
+      "word_count": 96,
+      "text": "i have two questions and maybe for um lauren or betsy so if we if we do want to hold a public hearing what what actually needs to happen for that so that's question number one and then question number two so I understand for us my understanding from Lauren's email for us to to start working on a zoning amendment would require a request from council so my question on that one is is that like one council member requests or is that council committee is that a full approval from Council what does that"
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 5348.77,
+      "end": 5379.72,
+      "duration_s": 30.9,
+      "segment_count": 5,
+      "word_count": 96,
+      "text": "look like so sure so i'll start with that um is my mic working okay um so i would say for the um request from city council i would say it's rather vague in the ordinance both in the municipality's planning code and in our zoning ordinance it just says that it's to come from the city council i think in discussions with um our solicitor and staff that it would be like a city council um decision as a whole body to move it forward okay and can i can i just follow up on"
+    },
+    {
+      "block_id": 46,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 5379.72,
+      "end": 5402.76,
+      "duration_s": 23.0,
+      "segment_count": 4,
+      "word_count": 66,
+      "text": "that can you i guess i'm a little curious about the precedent for that because i you know i remember i was on the planning commission when we amended the zoning ordinance for short-term rentals i don't believe that came from city council that was that was not a recommendation from city council that was maybe a staff initiated or commission initiated i don't remember exactly"
+    },
+    {
+      "block_id": 47,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 5402.76,
+      "end": 5424.13,
+      "duration_s": 21.4,
+      "segment_count": 3,
+      "word_count": 49,
+      "text": "but it did not come from council so so other people can um staff can initiate a text amendment generally the process doesn't move forward until like we've gotten kind of consent from city council that they're interested in reviewing that text amendment if that makes sense and so"
+    },
+    {
+      "block_id": 48,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 5424.13,
+      "end": 5444.53,
+      "duration_s": 20.4,
+      "segment_count": 4,
+      "word_count": 73,
+      "text": "does that consent happen during this because i don't i don't remember there being city council members where that happened or a city council i can't speak to that specifically as i wasn't here so um and is is staff prepared to to start working on it or or work with planning commission on a zoning amendment are you or does that need to come from council no i think we're prepared to"
+    },
+    {
+      "block_id": 49,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 5444.53,
+      "end": 5473.49,
+      "duration_s": 29.0,
+      "segment_count": 5,
+      "word_count": 79,
+      "text": "like get something started um like i said there's some conflicting information in the ordinances that are like what the consent of council means um versus like if it can just come from planning commission and the mpc municipality's planning code requires it to come like also has the word like consent from the governing body but also that planning agencies which the planning bureau would be considered the planning agency under the municipality's planning code that we could"
+    },
+    {
+      "block_id": 50,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 5473.49,
+      "end": 5490.16,
+      "duration_s": 16.7,
+      "segment_count": 3,
+      "word_count": 54,
+      "text": "institute a text amendment as well okay so i i guess if if staff is ready to move that forward then we don't necessarily need to request from council but if staff's not ready to move that forward then we would need to formally request i would say we haven't started anything we obviously"
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 5490.16,
+      "end": 5514.96,
+      "duration_s": 24.8,
+      "segment_count": 4,
+      "word_count": 69,
+      "text": "have gotten several examples um and have been working with the county um planning commission on some different models that are out there i know manor township is in the process of going through that as well and londonderry township in dauphin county i think canceled a hearing tonight on it so it's definitely something that needs to be addressed okay yeah and i think i mean i won't"
+    },
+    {
+      "block_id": 52,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 5514.96,
+      "end": 5519.76,
+      "duration_s": 4.8,
+      "segment_count": 1,
+      "word_count": 15,
+      "text": "speak for all commissioners but i'm ready to start that conversation and then the question"
+    },
+    {
+      "block_id": 53,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 5519.76,
+      "end": 5647.12,
+      "duration_s": 127.4,
+      "segment_count": 20,
+      "word_count": 316,
+      "text": "about the public hearing yeah so the public hearing um there's two different forms of meetings that we would hold based on the municipality's planning code and i'll refer to that as the mpc in the future um so we have public meetings and public hearings a public meeting would be just like tonight where we have a regular meeting that um you know anyone is welcome to comment on and it's advertised like all of these meetings were advertised at the beginning of the year along with the majority of our other boards and commissions a public hearing is is specifically different and the advertisement requirements are different typically it would be held to get information to take action on something I'm not familiar necessarily with having a public hearing as like more like what I would kind of think of as like a congressional hearing where you're asking questions I mean we can obviously talk about like the process that's required and that was followed for this decision but we if you choose to as a committee agree to have a public hearing your you are allowed to in the municipalities planning code as well as the ordinance it permits you as a planning commission to do that so we would just need to advertise it it has to be advertised at least twice in the paper as well as um and like specific topic like very direct information on what is going to be in that in that hearing okay so i would say that i think the city doesn't know that the planning commission is necessarily their right purview for that um if it's whether it's city council that would hold a public hearing or the like you know they've they've stated that they anticipate the developer holding one as well so okay yeah I mean I think I think we should"
+    },
+    {
+      "block_id": 54,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 5647.12,
+      "end": 5658.64,
+      "duration_s": 11.5,
+      "segment_count": 3,
+      "word_count": 44,
+      "text": "have a public hearing I think we would want the zoning officer here because I think our my questions are around how this decision was made and you know assuming that it was made above board you know we just need those details so"
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 5658.64,
+      "end": 5764.93,
+      "duration_s": 106.3,
+      "segment_count": 19,
+      "word_count": 259,
+      "text": "right and I can talk about those if you'd like right now so the zoning officer is the one who administrator administers the zoning ordinance he has the ability to make determinations and interpretations interpretations that he makes have to be done in generally in favor of the property owner so I would say that he he got information on what they were proposing to do he reviewed that information and with legal counsel they made the determination that it was considered based on all of the information provided that it was considered a warehouse or storage facility so yeah sorry folks okay so that decision was made it's a standard thing that a zoning officer does the zoning officer does not work under the purview of the zoning hearing board or the Planning Commission he's specifically there to administer the zoning ordinance and that's including enforcement interpretations determinations whether or not subdivision land developments meet zoning requirements whether or not permits meet zoning requirements are typically his like tasks that he would choose as you i think stated earlier the other decision he could have made was that it was a use not provided for in the zoning ordinance which would then allow that use to be in any district um as a special exception which would have to go before the zoning hearing board but generally those the zoning officer is considered a separate kind of not independent body but like they should not be influenced in any form or fashion by politics or um the governing"
+    },
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 5764.93,
+      "end": 5814.74,
+      "duration_s": 49.8,
+      "segment_count": 9,
+      "word_count": 148,
+      "text": "body yeah i just i mean i i just find it i mean i know the zoning officer and i think he does a very good job and my case is typically like more conservative and i just can't imagine that you know as folks have said like this is clearly not a wearied warehouse or storage facility and and And also, it does say in the definition of uses for, and I should have, like, I should have this quoted, but it does say a warehouse and storage facility and excluding and processing is one of the things that it's excluding, and it isn't just processing data. I mean, that's basically what a data center is, right? So I'm just, I very much have concerns if that was the judgment of the zoning officer, because it doesn't seem to be in compliance with the actual zoning code."
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 5814.74,
+      "end": 5831.32,
+      "duration_s": 16.6,
+      "segment_count": 3,
+      "word_count": 41,
+      "text": "Yeah, and I and I can't answer to that I was not Yeah, I mean I I can say that like my understanding is after an understanding of what was being proposed there That that was the decision that was made"
+    },
+    {
+      "block_id": 58,
+      "speaker": "SPEAKER_20",
+      "category": "recurring",
+      "start": 5832.96,
+      "end": 5845.16,
+      "duration_s": 12.2,
+      "segment_count": 3,
+      "word_count": 37,
+      "text": "Out of curiosity Is there anything the NPC that powers the Planning Commission to say? No, like we disagree with your determination. All right. No, there's not hail Mary. I mean, I'm not I'm not an attorney"
+    },
+    {
+      "block_id": 59,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 5845.16,
+      "end": 5896.14,
+      "duration_s": 51.0,
+      "segment_count": 10,
+      "word_count": 142,
+      "text": "and I'm well I am familiar with the MPC I definitely am NOT a legal expert in the MPC but no there's there's nothing that so the the decision that the Planning Commission can obviously do is related to the text amendment and it's also related to land development and subdivision review so the second phase of this project will come before you and I believe that the Harrisburg Pike project will also come before you for review and comment and I think as you pointed out previously you still have to follow if if what is proposed meets all of the standards in both our ordinances well and I would include stormwater not to so those three main land-use ordinances then there's not much ability to deny a permit as long as those standards are met just in this so I"
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_20",
+      "category": "recurring",
+      "start": 5896.14,
+      "end": 5907.18,
+      "duration_s": 11.0,
+      "segment_count": 2,
+      "word_count": 30,
+      "text": "understand really sorry for a most fun hijacking a question but in that scenario we really wouldn't be getting into the use itself it would really just be the land"
+    },
+    {
+      "block_id": 61,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 5907.18,
+      "end": 5913.1,
+      "duration_s": 5.9,
+      "segment_count": 1,
+      "word_count": 19,
+      "text": "development plan correct so the use is all tied into zoning and that's not the perk yeah so we'd"
+    },
+    {
+      "block_id": 62,
+      "speaker": "SPEAKER_20",
+      "category": "recurring",
+      "start": 5913.1,
+      "end": 5917.98,
+      "duration_s": 4.9,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "just be talking about setbacks and storm water wouldn't actually be yeah so by that at that point"
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 5917.98,
+      "end": 5930.66,
+      "duration_s": 12.7,
+      "segment_count": 2,
+      "word_count": 33,
+      "text": "the horse would already left the barn right and that's it's typical typically zoning has to be approved before it comes before you for subdivision land development so i want to jump in"
+    },
+    {
+      "block_id": 64,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 5930.66,
+      "end": 6180.01,
+      "duration_s": 249.4,
+      "segment_count": 44,
+      "word_count": 683,
+      "text": "here a little bit um i'm glad we're talking about having a public hearing the conversation about getting that on an agenda should continue because we do have an optional power even though it's informational uh we are allowed to do sorry i'm scrolling to look for the code part 22-25b5 there you go make recommendations to governmental civil and private agencies and and individuals as to the effectiveness of proposal of such agencies and individuals regardless of their affiliation or non affiliation with the council and the administration. I believe we could make a recommendation at the conclusion of our hearing. Frankly, what concerns me most, and I'm glad we're talking about some of the other language in the zoning amendment, or not amendment, we need one in the zoning text. So a use not provided for is not a blank check. And I think we need make that clear to the public you have to at least demonstrate it's coherent with the other uses of permitted in the district you need to make sure you're like you couldn't realistically propose a data center in like an r2 zone you still are going to the zoning hearing board for them to go through and evaluate these procedures to make special exceptions yes because we cannot we cannot make illegal any use that is part of the MPC we cannot make illegal any use but we can regulate those uses so that option of our code gives us the ability to kind of ad hoc when we need to in my opinion for instances like this and it is also my understanding that while yes they currently have approval from the zoning officer if we can demonstrate strongly enough that these decisions were made in error it could give the zoning officer grounds to rescind his approval and at least kick us to that process which is imperfect i do think we should still be working towards a text amendment in the interim we obviously have a lot of work to do when it comes to amending our zoning code because as mr whalen said it's been almost two years since we passed the comp plan we haven't gotten any of it we just i think put out to bid uh for requests to get some work done on that and frankly i've been very calm about it uh to as much a degree as i can be but it's disappointing to me to a high level that will make such a great fanfare about our comprehensive plan but not follow through with the work of getting it done so quickly and I also think we're being vague about where some of these requests come from to the points about trust that the public has made tonight I don't think it's unclear that these requests need to come from the City Council as a whole for example 22-15 a 1e I think it is uh d sorry if requested by the council prepare and present to the council a zoning ordinance and official map and make recommendations to the council on any proposed amendments to the existing zoning ordinance and map the council the council words like may and shall are relevant and i've had a bit of tuple up here about words like that it is the council not a counselor and i do think we have an unfortunate pattern of just trucking through things when there's an interest somewhere within the administration frankly and we need to hold ourselves to the standard of the laws that we have in place i understand that we might not have been doing anything like especially us up here making decisions we don't necessarily we're not legal experts and i can appreciate that but it seems like now in this moment we're like hey here's the law sorry about it and we've never done that before when it's been in the interest of the administration so i'm trying to be as calm as i can but honestly y'all get how i feel commissioners any further"
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 6180.01,
+      "end": 6242.4,
+      "duration_s": 62.4,
+      "segment_count": 8,
+      "word_count": 144,
+      "text": "comment mr polite if it'll be okay i would i don't even want to use the word piggyback because there's so much consensus right now isn't there and it sounds like i am but um what power other than talking is there without city council behind this like how do we other than 75 people here getting the attention how do we get it to be more than us just chatting about something and making a recommendation versus it actually happening what do we need what can we do specific to this current application or like the future good moment i'm talking about when we do get to talk about the zoning and the ordinances it's just not being something we talk about but something that has the support or is brought forth by city council how do we make that happen so typically"
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 6242.4,
+      "end": 6285.12,
+      "duration_s": 42.7,
+      "segment_count": 7,
+      "word_count": 123,
+      "text": "the process would be that a text amendment either introduced by city council by staff by a regular resident or typically a lawyer will submit a text amendment as well there are different a little bit of a different process for that then staff would review it it would go to the county planning commission which is a requirement of the npc as well as to this planning commission for review and recommendation to city council so that's generally the process there's a minimum of 30 days that it has to go to the county and typically we would like to see the county's comments before bringing it back to the planning commission for a final recommendation it just helps to have that"
+    },
+    {
+      "block_id": 67,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 6285.12,
+      "end": 6297.12,
+      "duration_s": 12.0,
+      "segment_count": 2,
+      "word_count": 38,
+      "text": "framework in front of us to give and even more probably for the audience to know what would be involved right time wise and people wise to get this yeah i mean city council is the one that"
+    },
+    {
+      "block_id": 68,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 6297.12,
+      "end": 6301.12,
+      "duration_s": 4.0,
+      "segment_count": 1,
+      "word_count": 20,
+      "text": "would have to hold the public hearing for that and they are the ones that have to adopt the ordinance"
+    },
+    {
+      "block_id": 69,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 6301.12,
+      "end": 6325.2,
+      "duration_s": 24.1,
+      "segment_count": 4,
+      "word_count": 56,
+      "text": "and then sorry more questions if we if we were able to move forward with a text amendment would is it possible to have that text man in place before the Harrisburg like land development process would start or is it because they already did they already get zoning clearance on the Harrisburg yes so my"
+    },
+    {
+      "block_id": 70,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 6325.2,
+      "end": 6345.4,
+      "duration_s": 20.2,
+      "segment_count": 4,
+      "word_count": 60,
+      "text": "understanding is that they basically got the same letter it is a different zoning district but yes they did get that before they purchased the property and they purchased the property based on that letter so there are some vested rights from the property owner because they were following what they received from the zoning officer a tax amendment would"
+    },
+    {
+      "block_id": 71,
+      "speaker": "SPEAKER_20",
+      "category": "recurring",
+      "start": 6345.4,
+      "end": 6350.44,
+      "duration_s": 5.0,
+      "segment_count": 1,
+      "word_count": 15,
+      "text": "only impact future they would be grandfathered under the any new ordinance that we passed"
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 6353.16,
+      "end": 6363.48,
+      "duration_s": 10.3,
+      "segment_count": 2,
+      "word_count": 36,
+      "text": "they got approved for the use my understanding is the harrisburg pike one would also come before land development i haven't seen much on that one but i know that they are proposing enough that it"
+    },
+    {
+      "block_id": 73,
+      "speaker": "SPEAKER_27",
+      "category": "recurring",
+      "start": 6363.48,
+      "end": 6377.99,
+      "duration_s": 14.5,
+      "segment_count": 2,
+      "word_count": 36,
+      "text": "would be considered land development like what i'm hearing you say is that's an approved use within that particular parcel so we really as long as it's a use within that parcel we can't yeah i"
+    },
+    {
+      "block_id": 74,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 6377.99,
+      "end": 6385.57,
+      "duration_s": 7.6,
+      "segment_count": 1,
+      "word_count": 16,
+      "text": "mean based on the determination of the zoning officer any further comment oh sorry so again"
+    },
+    {
+      "block_id": 75,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 6385.57,
+      "end": 6400.13,
+      "duration_s": 14.6,
+      "segment_count": 3,
+      "word_count": 55,
+      "text": "i'm sorry for the public hearing uh do you do we need a motion and a second approval from planning commission or what would okay so i would like to make a motion that we hold a public hearing uh to and and have uh the zoning officer at that hearing to answer questions about"
+    },
+    {
+      "block_id": 76,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 6400.13,
+      "end": 6414.37,
+      "duration_s": 14.2,
+      "segment_count": 1,
+      "word_count": 14,
+      "text": "the determination so we have a motion on the floor i'll second the motion"
+    },
+    {
+      "block_id": 77,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 6415.6,
+      "end": 6428.68,
+      "duration_s": 13.1,
+      "segment_count": 2,
+      "word_count": 34,
+      "text": "and we have a second ready for the question uh since we have to be specific in this as a com a question i believe we should also have the mayor there as well"
+    },
+    {
+      "block_id": 78,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 6428.68,
+      "end": 6446.08,
+      "duration_s": 17.4,
+      "segment_count": 2,
+      "word_count": 26,
+      "text": "okay i again i'm not a legal expert but i don't know what the planning commission's powers are to demand that people attend this public hearing"
+    },
+    {
+      "block_id": 79,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 6479.67,
+      "end": 6492.71,
+      "duration_s": 13.0,
+      "segment_count": 2,
+      "word_count": 35,
+      "text": "so we can't request that as as much you can certainly invite you could definitely invite i don't know that you can require i don't know okay invite yeah i mean typically a public hearing"
+    },
+    {
+      "block_id": 80,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 6492.71,
+      "end": 6514.31,
+      "duration_s": 21.6,
+      "segment_count": 3,
+      "word_count": 54,
+      "text": "is going to be regarding a like a text amendment or an application um it's not usually per the mpc and the planning commissions like the definition of a public hearing it's not what i i would consider what you're thinking as a public hearing right does that make sense yeah we change the"
+    },
+    {
+      "block_id": 81,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 6514.31,
+      "end": 6520.48,
+      "duration_s": 6.2,
+      "segment_count": 1,
+      "word_count": 13,
+      "text": "terminology then that's what you're saying to invite that's what you're saying right"
+    },
+    {
+      "block_id": 82,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 6521.7,
+      "end": 6538.34,
+      "duration_s": 16.6,
+      "segment_count": 3,
+      "word_count": 51,
+      "text": "yeah i mean i just don't know that that like you can because the planning commission does not have any oversight over the zoning officer and those are two separate entities that typically do not have any impact with each other other than with recommendations for text amendments for the zoning"
+    },
+    {
+      "block_id": 83,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 6538.34,
+      "end": 6552.5,
+      "duration_s": 14.2,
+      "segment_count": 2,
+      "word_count": 36,
+      "text": "ordinance or map amendments like yeah i'm talking about inviting the mayor we can invite and not request that's what i'm talking about that's i'm sorry i'm gonna cut in real quick too i just also"
+    },
+    {
+      "block_id": 84,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 6552.5,
+      "end": 6573.54,
+      "duration_s": 21.0,
+      "segment_count": 4,
+      "word_count": 72,
+      "text": "want to remind the commission that we are allowed to have our own legal representation and i don't have the full surety that if we're asking these questions of our own government we can rely on our own internal solicitor in these processes so like we keep hearing legal legal legal i think if it gets down to it we need to be asking these questions to someone external to the city"
+    },
+    {
+      "block_id": 85,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 6573.54,
+      "end": 6599.65,
+      "duration_s": 26.1,
+      "segment_count": 2,
+      "word_count": 39,
+      "text": "so we still have a motion on the floor just just a second we have a motion on the floor let's work with the motion so can you repeat the motion again please yes yeah so i i will"
+    },
+    {
+      "block_id": 86,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 6599.65,
+      "end": 6623.06,
+      "duration_s": 23.4,
+      "segment_count": 4,
+      "word_count": 70,
+      "text": "make a motion that we hold a public hearing and that we invite the zoning officer to attend that hearing to answer questions and i'm going to assume that you know transparency is a value of the city and i'm assuming that that would happen at that hearing so that's my motion is public hearing and invite the zoning officer and we can also invite the mayor okay because that"
+    },
+    {
+      "block_id": 87,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 6623.06,
+      "end": 6681.44,
+      "duration_s": 58.4,
+      "segment_count": 5,
+      "word_count": 77,
+      "text": "was the issue so we have a motion on the floor ready for the question all in favor let it known by saying aye aye aye aye aye aye aye opposed ayes have it motion carried so as we move forward with our agenda once again it's been education for me and I participate appreciate you guys coming out and I stand in solidarity with the other Commission's commissioners and hopefully we can move forward in a"
+    },
+    {
+      "block_id": 88,
+      "speaker": "SPEAKER_20",
+      "category": "recurring",
+      "start": 6681.44,
+      "end": 6691.69,
+      "duration_s": 10.2,
+      "segment_count": 1,
+      "word_count": 12,
+      "text": "better fashion that'll be in the amendment that'll be in the amendment"
+    },
+    {
+      "block_id": 89,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 6691.69,
+      "end": 6695.77,
+      "duration_s": 4.1,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "don't worry no it's an accessory use let them have it right about that none of us"
+    },
+    {
+      "block_id": 90,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 6695.77,
+      "end": 6706.6,
+      "duration_s": 10.8,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "be here for subdivision let's give them a few minutes to clear excuse me let's give them a"
+    },
+    {
+      "block_id": 91,
+      "speaker": "SPEAKER_20",
+      "category": "recurring",
+      "start": 6706.6,
+      "end": 6712.12,
+      "duration_s": 5.5,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "few minutes to clear can we have like a short break to use bathrooms and refill waters that"
+    },
+    {
+      "block_id": 92,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 6712.12,
+      "end": 6750.9,
+      "duration_s": 38.8,
+      "segment_count": 2,
+      "word_count": 35,
+      "text": "kind of thing do that we can do that while you guys leave just to make you aware there are vacancies on planning commission that you could reach out about the question becomes which we'll"
+    },
+    {
+      "block_id": 93,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 6750.9,
+      "end": 6954.06,
+      "duration_s": 203.2,
+      "segment_count": 1,
+      "word_count": 19,
+      "text": "never know who yeah yeah yeah nobody's going to give up that tape you know was that good yeah"
+    },
+    {
+      "block_id": 94,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 6956.86,
+      "end": 6959.26,
+      "duration_s": 2.4,
+      "segment_count": 1,
+      "word_count": 12,
+      "text": "they all have the modification letter so we don't need to yeah"
+    },
+    {
+      "block_id": 95,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 7151.96,
+      "end": 7176.84,
+      "duration_s": 24.9,
+      "segment_count": 2,
+      "word_count": 29,
+      "text": "moving forward with our agenda items for subdivision and land development 1245 man manor pike yale uh york yale electric uh sketch plan and modification so um we're gonna"
+    },
+    {
+      "block_id": 96,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 7176.84,
+      "end": 7213.88,
+      "duration_s": 37.0,
+      "segment_count": 5,
+      "word_count": 84,
+      "text": "have yale lighting com the consultants for yale lighting are gonna come up and present the plan just as a reminder this plan is currently in the sketch plan submission stage so there is no action required by the planning commission however the developer is seeking an ordinance modification and wants to be sure that the modification is going to be approved before they pursue submitting for land development which is actually a really smart way to go about the the process and so"
+    },
+    {
+      "block_id": 97,
+      "speaker": "SPEAKER_08",
+      "category": "recurring",
+      "start": 7214.6,
+      "end": 7405.34,
+      "duration_s": 190.7,
+      "segment_count": 37,
+      "word_count": 521,
+      "text": "um i will i will leave the floor uh thank you thank you mr chairman members of planning commission brian cooley with dc going associates along with me tonight is bill mccafferty with yale and rob weir with keystroke construction who's a general contractor so as i mentioned i'm here for the sketch plan a modification request i'll review the sketch plan answer any questions from the planning commission then i can go over the modification again answer any questions related to that um so it's on the screen behind you um what i did was i just proposed a or had a site plant here with the aerial underneath so yale electric located kind of in the middle of the screen here yale is proposing manheim pike that runs this way through the site yale is proposing a 10 500 square foot addition on the north side of the building that'll be for mainly warehouse space yale is also proposing as part of that ten thousand five hundred there's a small area up front here with some paving that will be used for what's called a fast lane so yellow electric they don't supply any residential the division of residential anymore this is strictly for contractor use so the purpose of the fast lane again just at the front of the building would be so contractors just can come up get products very quickly and then leave the site in a van or small truck there's currently 24 employees there won't be any new employees as part of this project there won't be any additional truck traffic there are a few docks located where the proposed expansion would be right now yale is going to be utilizing existing docks on the northern portion of the building just from just quickly from a stormwater perspective so you can see the hatch area to the north that's an underground stone bed that'll be used to mitigate the 1.25 inches of new impervious which is a requirement of the stormwater ordinance. We are proposing about 9,500 square feet of existing impervious to be removed, which will help to mitigate other aspects of the stormwater design. It's a little hard to see on this. We are also proposing 17 trees. So currently this is the existing parking lot for Yale. There's no existing trees within the parking lot. And then the majority of this area back in here is just storage. there's no trees so we are proposing a few trees along the existing employee parking lot along the billboard sign manheim pike area and then along this property line which is adjacent to the residential bill or i'm sorry adjacent building here there'll be trees located along there and again that's impervious which would be converted to pervious so the 17 trees we're proposing as part of this plan um of course it's to mitigate some storm water but the amount of street trees would be required is 17 but we are proposing those 17 within the site itself planning commission have any questions just related to the sketch plan about what yale"
     },
     {
       "block_id": 98,
@@ -453,6 +1368,28 @@
       "text": "is proposing at this time i do have a question how large is the existing building how many square"
     },
     {
+      "block_id": 99,
+      "speaker": "SPEAKER_08",
+      "category": "recurring",
+      "start": 7414.26,
+      "end": 7603.95,
+      "duration_s": 189.7,
+      "segment_count": 34,
+      "word_count": 507,
+      "text": "feet is that i believe that's around 65 000 square feet this is gonna be like a six okay so what i'll do is i'll review the modification again answer any questions um so we're here tonight to request a modification not to install a sidewalk along the property frontage um so right now there's no existing sidewalk along the northern side of manhattan pike or the i'm sorry southern side or the northern side of manhattan pike on either side of the street um right now for the existing site uh there is proposed or there's existing curbing along manheim pike there's about four and a half feet between the curbing in the existing right-of-way which is also the property line for yale um they're currently existing pp l poles which run right along the property line those poles are right adjacent to the property line and then they are they have substantial you know different wires on them for different you know comcast and different electrical services In addition to the power line, there is an existing gas line from UGI. That runs right under, you can see on the screen here, there's an existing hedgerow. The existing UGI gas line runs right underneath those shrubs and it runs the entire length of the property. So the gas line itself would be where the proposed sidewalk would typically be for the subdivision ordinance. As I mentioned, Yale provides directly to contractors now. There's no residential customers. mainly you know contractors just come in they get their products in and leave so this isn't a site that's going to generate a lot of pedestrian traffic for which a sidewalk would be required um the adjacent businesses again are similar businesses where they don't generate a lot of pedestrian traffic on either side of manhattan um the adjacent properties are located in manheim township so this is kind of an island within like within lancaster city um the one property to the south is owned industrial again typically industrial zone properties do not generate a lot of pedestrian traffic as i did mention you can see on the screen so there is an existing employee parking lot if the sidewalk was you know installed in this area there's a potential to to remove some of the existing employee parking lot which you know yale needs at this time the project site is not in any historic or streetscape district the applicant does propose to enter into a deferred agreement as part of the modification request so the deferred agreement would allow the city you know at such time that the city deems it's necessary to install the sidewalk and of course that agreement would be recorded as part of a land development process so those are the reasonings why we believe that sidewalk in this area Why we do not want to install it and requesting the modification. Does the Planning Commission have any questions for myself or for Yale or Keystruck related to the modification request?"
+    },
+    {
+      "block_id": 100,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 7605.25,
+      "end": 7673.75,
+      "duration_s": 68.5,
+      "segment_count": 11,
+      "word_count": 198,
+      "text": "I don't have any questions, and your logic is, you know, reasonable as to why you would want to defer the installation of the sidewalk. But I do want to express a concern generally that, especially even as an Uber driver as well, you know, i focus on the late night shifts and all of our state roads that lead into the city this just happens to be one quote unquote external but internal to the municipal boundaries in weird ways we definitely need to prioritize getting sidewalks along all these places the point about the gas line is kind of lost on me i mean i understand it's right under there but there are techniques to i mean you basically can't use heavy equipment unless it's like right there unless it's like six inches there maybe i hear more ground in that um but we we need streets that everybody can get around on especially and including at night because i've seen people walking to and from their jobs along manheim pike and there is a crosswalk down at the dillardville road intersection so pedestrian activity is not non-existent on the corridor but like i said your"
+    },
+    {
       "block_id": 101,
       "speaker": "SPEAKER_15",
       "category": "commenter_candidate",
@@ -462,6 +1399,17 @@
       "segment_count": 1,
       "word_count": 21,
       "text": "logic is making sense for why it would be deferred i have a question do we know if there's a sidewalk"
+    },
+    {
+      "block_id": 102,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 7679.58,
+      "end": 7715.06,
+      "duration_s": 35.5,
+      "segment_count": 3,
+      "word_count": 59,
+      "text": "on the other side of manheim pike no there's not i have maybe two comments more than a question with the um no they are both questions i apologize the is there a bus stop in front of yale that i'm not sure i was trying to zoom in a little bit to see if i can see it"
     },
     {
       "block_id": 103,
@@ -475,6 +1423,61 @@
       "text": "oh good you have it even better on yours thank you um okay so my biggest concern i echoing a little bit of this i agree manheim pike right now it"
     },
     {
+      "block_id": 104,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 7735.1,
+      "end": 7776.26,
+      "duration_s": 41.2,
+      "segment_count": 8,
+      "word_count": 152,
+      "text": "doesn't make sense to go out of your way to build a sidewalk especially with all the impervious pavement everywhere it seems right you can walk on that what about where you're going to rip it up between the two properties i think it's great let's add some trees let's do it right but what about connecting to the next parking lot so if somebody's walking instead of having to go onto the shoulder how are they going to get to next parking lot or in the other direction if one of your workers or someone else needs to take the bus will they have to go through potentially muddy grass to get to that or what what are their options to not have to walk in the street to get to a bus stop or to the next property if they're going to walk to go to popeyes for lunch or"
+    },
+    {
+      "block_id": 105,
+      "speaker": "SPEAKER_08",
+      "category": "recurring",
+      "start": 7776.26,
+      "end": 7817.37,
+      "duration_s": 41.1,
+      "segment_count": 7,
+      "word_count": 132,
+      "text": "something like that yeah so walking south on anheim pike towards sheets um that that entire area will just remain the same so it'd be the existing employee parking lot which i mean someone could walk in the parking lot as you work your way toward where the billboard is um so there used to be an existing pen dot entrance into into this site that now it's curved and no longer exists i think as part of the plan we could probably just keep maybe the four or five feet of paving that's there and then remove the rest of the existing paving again to convert to green space and still have the trees in that area because i hate the idea of taking away green space but at the same"
+    },
+    {
+      "block_id": 106,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 7817.37,
+      "end": 7822.09,
+      "duration_s": 4.7,
+      "segment_count": 1,
+      "word_count": 20,
+      "text": "time that connection i think is just as important yeah no and i would agree that if we left you"
+    },
+    {
+      "block_id": 107,
+      "speaker": "SPEAKER_08",
+      "category": "recurring",
+      "start": 7822.09,
+      "end": 7835.5,
+      "duration_s": 13.4,
+      "segment_count": 2,
+      "word_count": 40,
+      "text": "know just five feet of paving there it provides a hard skate for someone to walk which you know people may do now so we could certainly incorporate it into the plan i think maybe this is more of a"
+    },
+    {
+      "block_id": 108,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 7835.5,
+      "end": 7864.74,
+      "duration_s": 29.2,
+      "segment_count": 5,
+      "word_count": 88,
+      "text": "question for the planning commission i think the last uh plan that we approved along manheim pike was the habitat restore project and i'm wondering did we was there existing sidewalks on that project or did we require them to install sidewalks i just i i understand the concerns um but i i worry about setting a precedent i mean one of as commissioner dastra mentioned one of the this is one of the few times when we can require pedestrian infrastructure so um we need to be"
+    },
+    {
       "block_id": 109,
       "speaker": "SPEAKER_25",
       "category": "commenter_candidate",
@@ -484,6 +1487,39 @@
       "segment_count": 1,
       "word_count": 18,
       "text": "careful about when we're giving up that um that opportunity yeah i'm pretty sure we did as well"
+    },
+    {
+      "block_id": 110,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 7876.82,
+      "end": 7881.38,
+      "duration_s": 4.6,
+      "segment_count": 1,
+      "word_count": 21,
+      "text": "and i think you know again the idea was that we had an opportunity to do it it does look like"
+    },
+    {
+      "block_id": 111,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 7881.38,
+      "end": 7886.47,
+      "duration_s": 5.1,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "their sidewalk that was installed as part of the land development so yeah one of my concerns would"
+    },
+    {
+      "block_id": 112,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 7886.47,
+      "end": 7892.63,
+      "duration_s": 6.2,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "be about setting a precedent for other development projects as we you know we do want to improve"
     },
     {
       "block_id": 113,
@@ -497,6 +1533,116 @@
       "text": "pedestrian access along manhattan i'll also say he um did agree to a deferral agreement to install sidewalk"
     },
     {
+      "block_id": 114,
+      "speaker": "SPEAKER_27",
+      "category": "recurring",
+      "start": 7959.19,
+      "end": 7992.87,
+      "duration_s": 33.7,
+      "segment_count": 7,
+      "word_count": 104,
+      "text": "in the future if that's something necessary so i feel that's a sort of a cya so to speak and i i think the usage currently the surrounding environment doesn't necessarily require sidewalks at this point in time i do like the idea of the flexibility of the walking path for the bus riders i think that's really important to accommodate them and be convenient in a safe manner but i i think as long as you're willing to work with us in the future things should change that pedestrian corridor or that corridor becomes more pedestrian friendly um you know we'd like to"
+    },
+    {
+      "block_id": 115,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 7992.87,
+      "end": 8056.22,
+      "duration_s": 63.4,
+      "segment_count": 10,
+      "word_count": 171,
+      "text": "revisit that conversation i think so just to add on to like how do we get manheim pike with sidewalks in general i agree it should be it should be deferred like realistically i would hate to have you guys install a sidewalk right now just for it to be like an island of sidewalk but manheim pike gets complicated i'm going to a little bit of how it works for state roads municipalities can require that all the property owners along a corridor install sidewalks but with state roads you do need to also put that request through pendot and because of the municipal boundaries this request would best be suited to be a partnership request or a inter-municipal agreement between the city of lancaster and manheim township being the two municipalities responsible for the corridor and designate how much sidewalk into where they want to go with it so i do think deferring this for a plan like that is the best thing we can do okay any further"
+    },
+    {
+      "block_id": 116,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 8056.22,
+      "end": 8075.88,
+      "duration_s": 19.7,
+      "segment_count": 1,
+      "word_count": 15,
+      "text": "discussion commission mr cooley is this cooling yes any further comment no i appreciate everyone's"
+    },
+    {
+      "block_id": 117,
+      "speaker": "SPEAKER_08",
+      "category": "recurring",
+      "start": 8075.88,
+      "end": 8098.34,
+      "duration_s": 22.5,
+      "segment_count": 3,
+      "word_count": 57,
+      "text": "comments today thank you very much well thank you yeah yeah mr chairman if it pleases the planning commission in order for us to move forward with the plan um if we could ask for a motion on the modification so when right because this is just a sketch plan so depending on what the action is"
+    },
+    {
+      "block_id": 118,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 8098.34,
+      "end": 8101.86,
+      "duration_s": 3.5,
+      "segment_count": 1,
+      "word_count": 15,
+      "text": "tonight then we can move to a final lane development commission does need to take"
+    },
+    {
+      "block_id": 119,
+      "speaker": "SPEAKER_27",
+      "category": "recurring",
+      "start": 8101.86,
+      "end": 8109.45,
+      "duration_s": 7.6,
+      "segment_count": 1,
+      "word_count": 19,
+      "text": "action on the waiver yes oh okay thank you i would say do we have to specify the deferral"
+    },
+    {
+      "block_id": 120,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 8109.45,
+      "end": 8116.18,
+      "duration_s": 6.7,
+      "segment_count": 1,
+      "word_count": 13,
+      "text": "yes yes specifics it should it should reflect the entire everything that's being"
+    },
+    {
+      "block_id": 121,
+      "speaker": "SPEAKER_27",
+      "category": "recurring",
+      "start": 8117.7,
+      "end": 8170.38,
+      "duration_s": 52.7,
+      "segment_count": 6,
+      "word_count": 82,
+      "text": "requested in the modification i'll make a motion to approve the ordinance modification regarding the sidewalks at 1245 manheim pike with the notion that the developer or owner agrees to a deferral agreement that if that area should change in the future and sidewalks would then be requested we would ask that you abide by that request and install the sidewalks i'll second oh are we also asking for the connection between the properties i think that was more of a recommendation"
+    },
+    {
+      "block_id": 122,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 8173.7,
+      "end": 8180.97,
+      "duration_s": 7.3,
+      "segment_count": 1,
+      "word_count": 19,
+      "text": "again the plan the plan itself will come before the commission okay so we have a motion on the"
+    },
+    {
+      "block_id": 123,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 8180.97,
+      "end": 8252.6,
+      "duration_s": 71.6,
+      "segment_count": 4,
+      "word_count": 69,
+      "text": "floor second and a second ready for the question discussion all in favor let us know by saying aye aye aye aye aye aye aye opposed ayes have it motion carried thank you thank you so much for your time i appreciate it thank you no action on 523 woodward avenue c 617 fremont street preliminary final land development uh conditional approval good evening uh dave bender with bittner"
+    },
+    {
       "block_id": 124,
       "speaker": "SPEAKER_04",
       "category": "commenter_candidate",
@@ -506,6 +1652,17 @@
       "segment_count": 8,
       "word_count": 135,
       "text": "engineering uh here on behalf of the the owner for 617 fremont street i don't know lauren if you have a good plan you can bring up i have it on the board but it'd be a little hard to see so 617 fremont street is current there's right there currently a vacant lot there is a small shed in the back which will remain uh the developer is proposing three attached single family units on the property we'll have stormwater control is going to be underground stormwater facility in the rear of the lot along the frontage the sidewalk will be replaced along the frontage there utilities will connect out into fremont street with water and sewer and gas so pretty straightforward plan i'm not uh do you mind if i grab that board"
+    },
+    {
+      "block_id": 125,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 8303.45,
+      "end": 8312.06,
+      "duration_s": 8.6,
+      "segment_count": 1,
+      "word_count": 19,
+      "text": "just to look at that all of these materials were distributed as well so yeah my phone's gonna die"
     },
     {
       "block_id": 126,
@@ -519,6 +1676,28 @@
       "text": "so to date there there has been a zoning variance approved for parking to allow or to not provide off street parking so just be on street parking that variance was approved the shade tree commission approved the landscape plan as well as two waivers that we were requesting for the placement of the street trees which are required to be between the the sidewalk and the curb but due to location of the existing sidewalk we're pushing those back behind the sidewalk and it'll still be within the right-of-way just behind the sidewalk and then also for the separation of the street trees due to the the width of the lot the utilities the connecting sidewalks to the front of the units those street trees the placement of them think is 13 to 15 feet um 20 to 50 i believe is required so shake true commission already"
     },
     {
+      "block_id": 127,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 8382.9,
+      "end": 8393.66,
+      "duration_s": 10.8,
+      "segment_count": 1,
+      "word_count": 20,
+      "text": "approved those as well you can let me know if there's a specific sheet of the plan i can pull"
+    },
+    {
+      "block_id": 128,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 8393.66,
+      "end": 8413.37,
+      "duration_s": 19.7,
+      "segment_count": 3,
+      "word_count": 53,
+      "text": "it up as well if you have a question you had said that no off street parking is going to be provided correct you said that was uh approved for a variance that's correct okay so just counting on the on-street parking on fremont street yes all right i'm just curious what's the"
+    },
+    {
       "block_id": 129,
       "speaker": "SPEAKER_04",
       "category": "commenter_candidate",
@@ -528,6 +1707,28 @@
       "segment_count": 1,
       "word_count": 8,
       "text": "square footage of these units um good question"
+    },
+    {
+      "block_id": 130,
+      "speaker": "SPEAKER_20",
+      "category": "recurring",
+      "start": 8449.86,
+      "end": 8462.55,
+      "duration_s": 12.7,
+      "segment_count": 1,
+      "word_count": 16,
+      "text": "will these be rental or for sale units okay so uh not opposed to not providing"
+    },
+    {
+      "block_id": 131,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 8463.11,
+      "end": 8497.02,
+      "duration_s": 33.9,
+      "segment_count": 6,
+      "word_count": 101,
+      "text": "off-street parking because we do need to progress towards a less car-centric world um with the size of these so roughly 600 square feet them being single family dwellings like almost end up being a rental like do you have any indication of uh is this really going to be families or non-family units because my only concern is having like more than three families moving in and there being like seven cars and they're all like ah well because like i i don't think we need to provide them off-street parking i just want to try and understand what they're"
     },
     {
       "block_id": 132,
@@ -541,6 +1742,17 @@
       "text": "to be getting into right i mean per the zoning ordinance i believe they're only required to to provide one parking space per unit i mean as far as who's going to rent it i don't know if they can necessarily predict that it is two stories so that would be about 1200 square feet per unit but yeah as far as who's going to rent it you know it could be families i mean the width of"
     },
     {
+      "block_id": 133,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 8523.12,
+      "end": 8534.0,
+      "duration_s": 10.9,
+      "segment_count": 2,
+      "word_count": 36,
+      "text": "the properties wide enough that i could see i think i see 60 feet down there 80 feet yeah um that's wide enough for three cars right so like i feel comfortable with that parking arrangement"
+    },
+    {
       "block_id": 134,
       "speaker": "SPEAKER_04",
       "category": "commenter_candidate",
@@ -550,6 +1762,39 @@
       "segment_count": 1,
       "word_count": 18,
       "text": "i was just sorry yeah that's okay how many bedrooms are these units um i believe they're two"
+    },
+    {
+      "block_id": 135,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 8570.98,
+      "end": 8579.18,
+      "duration_s": 8.2,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "it seems like an excellent infill project truly yeah hopefully yeah i live and work in this"
+    },
+    {
+      "block_id": 136,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 8579.18,
+      "end": 8588.48,
+      "duration_s": 9.3,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "neighborhood and i'm very happy to see vacant lots turn into housing so thank you uh ms finn"
+    },
+    {
+      "block_id": 137,
+      "speaker": "SPEAKER_27",
+      "category": "recurring",
+      "start": 8588.48,
+      "end": 8594.83,
+      "duration_s": 6.4,
+      "segment_count": 1,
+      "word_count": 15,
+      "text": "is there any conditions that the city's waiting for nope this one's pretty straightforward great"
     },
     {
       "block_id": 138,
@@ -563,6 +1808,17 @@
       "text": "yeah i believe the letter we're pretty much down to administrative comments we call the technical comments have for the most part been resolved yep technical comments have have been resolved since there was a couple things we were still working through with the shade tree commission as far as the tree types and stuff but i think we pretty much have that"
     },
     {
+      "block_id": 139,
+      "speaker": "SPEAKER_27",
+      "category": "recurring",
+      "start": 8613.06,
+      "end": 8630.66,
+      "duration_s": 17.6,
+      "segment_count": 2,
+      "word_count": 37,
+      "text": "resolved as well uh just out of curiosity um this is more just not land development related but more just curious is there firewalls between each of those units um that's a great question and we had"
+    },
+    {
       "block_id": 140,
       "speaker": "SPEAKER_04",
       "category": "commenter_candidate",
@@ -572,6 +1828,17 @@
       "segment_count": 2,
       "word_count": 35,
       "text": "that discussion with the architect and i i believe so because i believe that they didn't have the firewalls i think they would be required to do sprinklers okay so i believe they don't have"
+    },
+    {
+      "block_id": 141,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 8640.82,
+      "end": 8653.57,
+      "duration_s": 12.8,
+      "segment_count": 1,
+      "word_count": 20,
+      "text": "firewalls and move that okay um oh you're ready go right ahead i'll second it you go ahead i did"
     },
     {
       "block_id": 142,
@@ -585,6 +1852,402 @@
       "text": "the last one all right we did have and i don't know lauren if they need to act on the preliminary plan waiver i had that one as well if that was just a staff no that's it that yep that's because"
     },
     {
+      "block_id": 143,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 8665.12,
+      "end": 8680.94,
+      "duration_s": 15.8,
+      "segment_count": 2,
+      "word_count": 27,
+      "text": "you did the sketch plan that's administrative so i would like to make a motion for final land development conditional approval for 617 fremont street i'll second"
+    },
+    {
+      "block_id": 144,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 8680.94,
+      "end": 8779.84,
+      "duration_s": 98.9,
+      "segment_count": 8,
+      "word_count": 114,
+      "text": "we have a motion and a second on the floor any further discussion all in favor let it know by saying aye aye aye aye aye aye opposed ayes have it motion carried thank you very much congratulations congratulations that's it d 623 stevens avenue preliminary final land development conditional approval thank you for your patience she said she would wait that's what she told me yeah that's definitely something to think about right yeah yeah that is that is another way to think about it right exactly and that's what I thought too of course I wish we would have had okay um good evening housing uh Cheryl with the LA group um"
+    },
+    {
+      "block_id": 145,
+      "speaker": "SPEAKER_24",
+      "category": "recurring",
+      "start": 8779.84,
+      "end": 9307.67,
+      "duration_s": 527.8,
+      "segment_count": 73,
+      "word_count": 1173,
+      "text": "we have Pam Jenny and Mitch with Thaddeus as well if there's any questions later after my presentation for them um we are here for the final plan to subdivide and develop six six lots off of the existing property that Thaddeus owns along Stevens Avenue we ran about two years ago for the first portion so this is that remaining land that at that point we called lot four and we're dividing that up into six new lots for three more duplex units similar to what we did before each of the units is approximately 3,000 square feet total does have a basement first floor second floor there is a one-car garage we have an additional parking space in each driveway so each unit will have that the two spaces available so we do exceed zoning for that the site in total that we're dividing is about point nine four acres and we are developing the Stevens Avenue portion with this project to have the street built so that street will be installed as part of this project through from Chesapeake down to Schuylkill on the existing right-of-way that's there that already belongs to the city so that is part of this project the unit on this end closest to the one that was previously built would be the next one and then each year the the school provides one more group of units for their for their trades students to build as their projects for the year we are providing and proposing sidewalk on the side of the street adjacent to this residential portion we this is the landscape plan sheet 18 that shows the amount of street trees in addition to that so there'd be 20 street trees installed with this project they were somewhat deferred from that previous project if you remember and approved through shade tree but we couldn't install them until this portion of this project occurs we are also i think there are 38 other 38 other trees with this site and this plan that are also being installed the stormwater basin that might be easier for you to see on sheet 15 there's some green shaded area there the main center piece up down and to the right on your plan was installed with the last project and is functioning great out there for infiltrating there would be an expansion to the left side on your plan so that little bump out on the bottom that has some black dots of hatch on that that would be the portion that is expanded with this project again similar amended soils infiltrating and whatnot in addition there are shrubs and some other things that are required this go-round not per se by your ordinance but But with the Stevens Avenue street and with our site work, we are over the one acre. So we have an NPDES permit through the conservation district that we have approvals for currently for this project. So the street and our area that we'd be developing with site here does bump us into an NPDES permit with the conservation district. And we have secured that permit. so we've secured shade tree commission approval empty yes approval we have met our zoning requirements for the project we've worked pretty closely with city staff and stormwater department as well as the public works side for a it's kind of you know the bump out the bulb out on this area of the street there is stormwater underneath of that that also is stored in there that area is planted as well across the top of your plan sheets on sheet 11 the layout plan there are some notes we are creating 20 on-street parking spaces the way the street is designed along that opposite side of the road public works did ask for us to post no parking signs on the side adjacent to each of the residential driveways so that would be posted for no parking between the driveways there's limited space there might be somewhat difficult for sight distance to get in and out safely from driveways so we were requested to do that but there would be public parking available for whomever on the top side of the sheet there for an additional 20-some spaces of vehicles can fit there we did meet with adjacent property owners pam and i were out particularly here at the corner their driveway is changing currently their driveway exits out directly to skook hill with the street being installed and the bulb out with the plantings their driveway will now come in off of stevens right at the back of that area there that we are creating some of those uh planted stormwater improvements which will ultimately be owned by the city um in this area here so they are they are cooperative they are happy they're fine we've met with them about everything they we actually had them get in their car and i chalked out on the ground to make sure everything worked and and they are satisfied as well so we did some outreach on that as well also along south franklin street there is a pretty large portion of sidewalk we are asked to make sure it's compliant so we are replacing that sidewalk it's it is visible on several of the plans on sheet 18 the landscape plan you can see the hatch of concrete along that on this lower area here so that that was an area that had been discussed in the previous project but we're taking care of that with this project and have been requested to do so um we've met we've we've met very several times with city staff um we have a few more we've we've updated some more notes a couple more comments that are remaining but what we are looking for tonight after we answer any questions for you would be the modification to not provide the sidewalks on the opposite side of the street some point if those properties become developed on the back side i mean who knows where and how people may or may not want to create driveways and whatnot so that was one modification and then we are asking as we did before for a consideration of the modification for an early foundation permit for this unit we have building codes has reviewed plans they did break out a separate demolition permit that has been filed so again we are trying to expedite that side and get that portion ready and installed for the students as they return coming up here end of August and well two weeks apparently yeah we first submitted in February but we've been working back and forth with city staff on making sure we get the street to the satisfaction of Public Works and making sure that since city will ultimately have ownership of that that we have that in good order and we are I believe we are there other questions"
+    },
+    {
+      "block_id": 146,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 9307.67,
+      "end": 9319.19,
+      "duration_s": 11.5,
+      "segment_count": 2,
+      "word_count": 31,
+      "text": "question about the stormwater basin are these home I mean assuming these homes gonna be sold correct i'm sorry these homes are gonna be sold when they're completed yes we have"
+    },
+    {
+      "block_id": 147,
+      "speaker": "SPEAKER_24",
+      "category": "recurring",
+      "start": 9319.19,
+      "end": 9359.3,
+      "duration_s": 40.1,
+      "segment_count": 6,
+      "word_count": 93,
+      "text": "a series of various different stormwater operation and maintenance agreements that are under review at the city currently as to how those um those portions who has the rights and maintenance responsibilities just like any other property there are just like on hillside avenue which was our last project in for thaddeus they have maintenance responsibilities for their portions of the basins and that is clarified and under review currently um with the city for those various each property owner eventually will take a private ownership okay because i was going to ask"
+    },
+    {
+      "block_id": 148,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 9359.3,
+      "end": 9366.26,
+      "duration_s": 7.0,
+      "segment_count": 1,
+      "word_count": 20,
+      "text": "uh if these homo if these new homeowners would then have to be part of an hoa um that maintains"
+    },
+    {
+      "block_id": 149,
+      "speaker": "SPEAKER_24",
+      "category": "recurring",
+      "start": 9366.26,
+      "end": 9400.45,
+      "duration_s": 34.2,
+      "segment_count": 5,
+      "word_count": 87,
+      "text": "that basin no they will be individual and we have uh discussed that through their land use attorney as well with the city and similar to thaddeus's hillside individual may it's not a large enough development to really support a full hoa and from a legal standpoint this satisfies the same restriction with your some slight modifications to your standard storm om agreement that that is in perpetuity and it runs with the deed of the land no matter who owns that yeah no i i think"
+    },
+    {
+      "block_id": 150,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 9400.45,
+      "end": 9421.0,
+      "duration_s": 20.5,
+      "segment_count": 3,
+      "word_count": 55,
+      "text": "it's a good design and i think uh i love that it's all natives and nativars for all the landscaping a huge fan of that um i think my only real concern i guess is then the sidewalk deferral so you're saying on south franklin street you'd like to defer installing sidewalks we are installing"
+    },
+    {
+      "block_id": 151,
+      "speaker": "SPEAKER_24",
+      "category": "recurring",
+      "start": 9421.0,
+      "end": 9461.16,
+      "duration_s": 40.2,
+      "segment_count": 6,
+      "word_count": 107,
+      "text": "sidewalk on this side that we're developing from one end to the other we are upgrading the ada ramps at the corners we are upgrading the ada ramps at the end of chesapeake and across chesapeake street what we're looking to not provide is the sidewalk on this other edge of oh across the street across the street so over on this on this side which is at the back of other residential properties got it okay okay no we have a full sidewalk shown it might be hard to see depending which plan you layout plan sheet 11 is probably easier to see the hatching there"
+    },
+    {
+      "block_id": 152,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 9461.16,
+      "end": 9503.97,
+      "duration_s": 42.8,
+      "segment_count": 7,
+      "word_count": 131,
+      "text": "for where the sidewalk is okay no i i that sounds uh reasonable does stevens happen to own those properties across the street as well no no okay all individual property owners okay um no that was all i really had i mean i always love seeing steven's projects come through i think it's really living up to the vision that daddy stevens laid out for when he wanted to establish the school um and yeah we got i think we've said we joked about this before but wow with that last parcel you guys got maybe maybe someone should change the zoning so you can do a denser plan for your students uh it's good well i will say um from a street tree requirement and whatnot i mean we"
+    },
+    {
+      "block_id": 153,
+      "speaker": "SPEAKER_24",
+      "category": "recurring",
+      "start": 9503.97,
+      "end": 9548.88,
+      "duration_s": 44.9,
+      "segment_count": 6,
+      "word_count": 99,
+      "text": "have our city stormwater and street tree requirements but this being bumped to the conservation district level and the npdes pushed also requirements as far as additional plantings inside the basin as opposed to so we are retrofitting some of that in order to meet mpdes requirements not a lot of city projects end up being large enough to hit mpdes but with the street added to the 0.94 acres here we in total are over our one acre obviously so that kind of pushed us into additional requirements that would not normally have been something um required by"
+    },
+    {
+      "block_id": 154,
+      "speaker": "SPEAKER_27",
+      "category": "recurring",
+      "start": 9548.88,
+      "end": 9601.99,
+      "duration_s": 53.1,
+      "segment_count": 8,
+      "word_count": 146,
+      "text": "your ordinances um can you help me understand a little bit more about this stormwater basin and the planting plan this one through npds which really um i think is wow but what i want to know is as a resident of a city who lives beside a stormwater basin that is not maintained and i love my little garden in my little city backyard i want to understand a little bit more about what the maintenance responsibility will be for this particular area to ensure that the residents that are surrounded by it can a maintain that b um you know handle that that it's not a cost burden for them um or just i want to understand a little bit more about that because i think what i am concerned about is it turning into like a huge weed mess and it's not even"
+    },
+    {
+      "block_id": 155,
+      "speaker": "SPEAKER_24",
+      "category": "recurring",
+      "start": 9601.99,
+      "end": 9697.04,
+      "duration_s": 95.1,
+      "segment_count": 14,
+      "word_count": 217,
+      "text": "working in its intended purpose understand um i will say that the additional plants that we've been required by conservation district to put in from the woody plant standpoint very much support promoting infiltration this basin is working fantastic like it stands now just as a grassed basin that gets the maintenance of the one or two times a year spring fall that it's to be mown so it's got the plant grass mix in there for that but the additional woody plants and the shrubs do promote infiltration even further um the large majority of it's really hard to see on this plan i wish i had kind of highlighted some of the um the lots but the center the center piece is basically these portions these two lots are the ones that will primarily have the main stormwater basin which is already existing here and most of the arms so they'll have those parts to just make sure they do have rights to cross over anyone else's properties and make sure things are being maintained but each one individually has their responsibility with their lot and that's something that they assume and I know there are yearly inspections you know that that is is is required for them to be able to keep that maintained."
+    },
+    {
+      "block_id": 156,
+      "speaker": "SPEAKER_27",
+      "category": "recurring",
+      "start": 9697.04,
+      "end": 9706.62,
+      "duration_s": 9.6,
+      "segment_count": 3,
+      "word_count": 33,
+      "text": "What type of maintenance will those homeowners be responsible for? Is this simply mowing this area, or are they responsible for weeding these places to ensure that the intended plants continue to flourish?"
+    },
+    {
+      "block_id": 157,
+      "speaker": "SPEAKER_24",
+      "category": "recurring",
+      "start": 9707.78,
+      "end": 9730.8,
+      "duration_s": 23.0,
+      "segment_count": 4,
+      "word_count": 65,
+      "text": "Basically, it's the mowing of the areas around where those shrubs are. It'll be the grassy stuff at the bottom, but the mowing, it's not a large sea of mulch. it's the grass that grows you know about this tall and then once a year that's supposed to be mowed down and that spring fall basically so that's it there's no other maintenance other than"
+    },
+    {
+      "block_id": 158,
+      "speaker": "SPEAKER_27",
+      "category": "recurring",
+      "start": 9730.8,
+      "end": 9734.6,
+      "duration_s": 3.8,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "just mowing like the rest of the plants that are in there are self-sustaining and don't need"
+    },
+    {
+      "block_id": 159,
+      "speaker": "SPEAKER_24",
+      "category": "recurring",
+      "start": 9734.6,
+      "end": 9763.68,
+      "duration_s": 29.1,
+      "segment_count": 5,
+      "word_count": 82,
+      "text": "additional support throughout the year right we've selected those plants from a pallet through the conservation district that they are native plants and they are they're basically as maintenance as possible in those situations and they're meant to kind of naturalize in there they're not something that they would stand out there and prune and trim back or they shouldn't be okay yeah so to your point though i i understand it it's it's a large lot those two lots will be"
+    },
+    {
+      "block_id": 160,
+      "speaker": "SPEAKER_27",
+      "category": "recurring",
+      "start": 9763.68,
+      "end": 9785.12,
+      "duration_s": 21.4,
+      "segment_count": 4,
+      "word_count": 72,
+      "text": "right that's what my responsibility the size of that area and just wanting to make sure that it didn't turn into like a big weedy mess right um because without the proper education depending on how some of these systems can be set up and designed they can be beautiful right but they also may make a lot of work in order to maintain that that's something we could also just help"
+    },
+    {
+      "block_id": 161,
+      "speaker": "SPEAKER_24",
+      "category": "recurring",
+      "start": 9785.12,
+      "end": 9803.36,
+      "duration_s": 18.2,
+      "segment_count": 3,
+      "word_count": 51,
+      "text": "facilitate with thaddeus during their sale i mean we could even put a maintenance like pamphlet together from our office as far as what those things are for the property owners that can easily be passed off as they assume responsibilities to at settlement to take on ownership of that lot"
+    },
+    {
+      "block_id": 162,
+      "speaker": "SPEAKER_27",
+      "category": "recurring",
+      "start": 9803.36,
+      "end": 9815.36,
+      "duration_s": 12.0,
+      "segment_count": 3,
+      "word_count": 56,
+      "text": "yeah i love that idea a little educational i mean it doesn't have to be you know over complicated but something just so they understand on the reason of what what the purpose of this area is and these are some of the ways that you have to love it throughout the year we might have"
+    },
+    {
+      "block_id": 163,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 9815.36,
+      "end": 9835.12,
+      "duration_s": 19.8,
+      "segment_count": 3,
+      "word_count": 58,
+      "text": "something you should yeah i also agree with that and i think it's super important to have that um just because like i saw the note like on uh page 15 that these need to be kept in original design conditions right and as far as i understand when we pass something like this all this becomes like"
+    },
+    {
+      "block_id": 164,
+      "speaker": "SPEAKER_24",
+      "category": "recurring",
+      "start": 9835.12,
+      "end": 9857.2,
+      "duration_s": 22.1,
+      "segment_count": 4,
+      "word_count": 67,
+      "text": "legally binding in itself correct it runs with their deed and that stormwater om agreement that is executed with the sale of the property it runs with the deed for the individual property owners and the ones following that that take the ownership they have responsibilities and i think that we could help facilitate i don't lauren you had yeah no i was just saying that the"
+    },
+    {
+      "block_id": 165,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 9857.2,
+      "end": 9862.32,
+      "duration_s": 5.1,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "city probably has something that could be handed out we have a ton of stormwater that would be"
+    },
+    {
+      "block_id": 166,
+      "speaker": "SPEAKER_24",
+      "category": "recurring",
+      "start": 9862.32,
+      "end": 9873.2,
+      "duration_s": 10.9,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "fantastic i would connect with angie yep thank you lauren that will be great save me some time"
+    },
+    {
+      "block_id": 167,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 9875.67,
+      "end": 9890.0,
+      "duration_s": 14.3,
+      "segment_count": 2,
+      "word_count": 36,
+      "text": "appreciate that uh a question i think is more just out of curiosity i'm curious about the decision to add garages um to these uh houses not a normal development pattern for the cities i'm just"
+    },
+    {
+      "block_id": 168,
+      "speaker": "SPEAKER_24",
+      "category": "recurring",
+      "start": 9890.0,
+      "end": 9926.15,
+      "duration_s": 36.1,
+      "segment_count": 4,
+      "word_count": 72,
+      "text": "curious i think that thaddeus's architecturals have traditionally done that on each of theirs yeah the original one i believe the next street up it's in similar character there are homes there with with garages so this area is quite a mix of of things and i think that to your point though it is unusual but maybe that is also a a benefit to them as a property owner in a"
+    },
+    {
+      "block_id": 169,
+      "speaker": "SPEAKER_27",
+      "category": "recurring",
+      "start": 9926.15,
+      "end": 9951.23,
+      "duration_s": 25.1,
+      "segment_count": 1,
+      "word_count": 13,
+      "text": "neighborhood kids bicycles we know garages fill up with other stuff so you"
+    },
+    {
+      "block_id": 170,
+      "speaker": "SPEAKER_24",
+      "category": "recurring",
+      "start": 9951.23,
+      "end": 9961.34,
+      "duration_s": 10.1,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "said they do have basements right you have basements yes yes um yep and then uh forgive"
+    },
+    {
+      "block_id": 171,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 9961.34,
+      "end": 10028.83,
+      "duration_s": 67.5,
+      "segment_count": 9,
+      "word_count": 155,
+      "text": "me if you already mentioned this when you when study sells these are these affordable homes or what do you do you all want to speak to that the redevelopment authority uh yeah and i i love that we obviously need more affordable housing i would you know again maybe just encourage i mean i think when we when we talk about 80 ami it's the county level and so it's not affordable for folks that are living in this neighborhood and when we add amenities like garages and driveways it you know it increases the cost of housing so um maybe just something to think about like we really wanted to be able to provide affordable housing to folks that live in the southeast um it's it's you know we're we're driving up the cost of housing by adding those kinds of amenities but it's still it's affordable in some sense so thank you"
+    },
+    {
+      "block_id": 172,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 10080.11,
+      "end": 10102.51,
+      "duration_s": 22.4,
+      "segment_count": 3,
+      "word_count": 44,
+      "text": "so just as a reminder you're um making two motions here two separate motions there's um a motion to approve a conditional approval for the preliminary and final land development and then there's the request for the waiver for the to permit the foundation"
+    },
+    {
+      "block_id": 173,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 10104.2,
+      "end": 10127.98,
+      "duration_s": 23.8,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "separate from the building permit okay any further comment okay motion number one i would like to"
+    },
+    {
+      "block_id": 174,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 10127.98,
+      "end": 10150.22,
+      "duration_s": 22.2,
+      "segment_count": 2,
+      "word_count": 31,
+      "text": "make a motion to for final land development conditional approval for 623 stevens avenue and we're keeping the foundation separate right right i'll second that we have a motion on the"
+    },
+    {
+      "block_id": 175,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 10150.22,
+      "end": 10165.9,
+      "duration_s": 15.7,
+      "segment_count": 1,
+      "word_count": 20,
+      "text": "floor and a second any further discussion all in favor let it known by saying aye aye aye aye aye"
+    },
+    {
+      "block_id": 176,
+      "speaker": "SPEAKER_27",
+      "category": "recurring",
+      "start": 10166.73,
+      "end": 10194.3,
+      "duration_s": 27.6,
+      "segment_count": 3,
+      "word_count": 46,
+      "text": "opposed ayes have it motion carry motion number two i'll make a motion to um approve the request for a weaver um or i'll make a motion to approve a weaver to permit the foundation commitment commencement at 623 stevens avenue second motion on the floor"
+    },
+    {
+      "block_id": 177,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 10196.01,
+      "end": 10204.52,
+      "duration_s": 8.5,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "and also a second any further discussion all in favor let it known by saying aye aye"
+    },
+    {
+      "block_id": 178,
+      "speaker": "SPEAKER_20",
+      "category": "recurring",
+      "start": 10204.52,
+      "end": 10205.62,
+      "duration_s": 1.1,
+      "segment_count": 1,
+      "word_count": 1,
+      "text": "Aye"
+    },
+    {
       "block_id": 179,
       "speaker": "SPEAKER_00",
       "category": "commenter_candidate",
@@ -594,6 +2257,182 @@
       "segment_count": 1,
       "word_count": 1,
       "text": "Aye"
+    },
+    {
+      "block_id": 180,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 10206.62,
+      "end": 10207.62,
+      "duration_s": 1.0,
+      "segment_count": 1,
+      "word_count": 1,
+      "text": "Aye"
+    },
+    {
+      "block_id": 181,
+      "speaker": "SPEAKER_20",
+      "category": "recurring",
+      "start": 10207.62,
+      "end": 10209.8,
+      "duration_s": 2.2,
+      "segment_count": 1,
+      "word_count": 1,
+      "text": "Aye"
+    },
+    {
+      "block_id": 182,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 10209.8,
+      "end": 10213.4,
+      "duration_s": 3.6,
+      "segment_count": 1,
+      "word_count": 1,
+      "text": "Aye"
+    },
+    {
+      "block_id": 183,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 10213.4,
+      "end": 10215.92,
+      "duration_s": 2.5,
+      "segment_count": 1,
+      "word_count": 5,
+      "text": "Ayes have it motion carried"
+    },
+    {
+      "block_id": 184,
+      "speaker": "SPEAKER_24",
+      "category": "recurring",
+      "start": 10215.92,
+      "end": 10221.18,
+      "duration_s": 5.3,
+      "segment_count": 2,
+      "word_count": 17,
+      "text": "Question was the sidewalk part of the first motion as well as the final plan approval Yes"
+    },
+    {
+      "block_id": 185,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 10221.18,
+      "end": 10225.18,
+      "duration_s": 4.0,
+      "segment_count": 4,
+      "word_count": 18,
+      "text": "Just want to make sure I'm clear The modifications run with the With the plan With the plan"
+    },
+    {
+      "block_id": 186,
+      "speaker": "SPEAKER_24",
+      "category": "recurring",
+      "start": 10225.18,
+      "end": 10235.67,
+      "duration_s": 10.5,
+      "segment_count": 3,
+      "word_count": 13,
+      "text": "Okay I'm thanking you very much then Thank you thank you Thank you"
+    },
+    {
+      "block_id": 187,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 10235.67,
+      "end": 10242.42,
+      "duration_s": 6.8,
+      "segment_count": 1,
+      "word_count": 7,
+      "text": "Number five staff report the planning commission"
+    },
+    {
+      "block_id": 188,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 10242.42,
+      "end": 10346.76,
+      "duration_s": 104.3,
+      "segment_count": 13,
+      "word_count": 222,
+      "text": "the interest of brevity i think that you all know what i've been doing for the past few weeks so i don't have very much else to report okay thank you other business um i did want to um address hold on sorry i have so many notes um i wanted to address the submission of the sycamore ridge tentative plan and so this has come this has been sorry i'm like i have no words submitted as a land development it is for tentative it's for a tentative plan the difference here is that because of it being a uh flexible residential development yes flexible residential development it has a little bit of a different path forward so i just wanted everybody to kind of be aware of the process that is going to occur here so this will require a public hearing this this public hearing would be part of a planning commission meeting so we would advertise it as we would advertise the public hearing as part of the a regular planning commission meeting and we had said that that's that's going to take it has to take place within 30 days of the receipt of the application within 60 days 60 days of receipt of the application so we are tracking that um for when that will appear"
+    },
+    {
+      "block_id": 189,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 10348.62,
+      "end": 10354.38,
+      "duration_s": 5.8,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "i thought that we yeah our recommendation would be that we hold the meeting at the september"
+    },
+    {
+      "block_id": 190,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 10355.34,
+      "end": 10359.5,
+      "duration_s": 4.2,
+      "segment_count": 1,
+      "word_count": 12,
+      "text": "whatever is it the second the second september meeting second september meeting"
+    },
+    {
+      "block_id": 191,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 10359.5,
+      "end": 10461.23,
+      "duration_s": 101.7,
+      "segment_count": 13,
+      "word_count": 200,
+      "text": "um the deadline for the initial public hearing would be the um 26 i believe of september that's the 60-day time period the discussion can be continued up to 60 days so a decision doesn't have to be made at that first public hearing but but within 180 days a decision would have to be made it kind of tightens our time frame especially reviewing such a large project so it's it's a very unique process that I'm not really familiar with it's not one that I so the flexible resident residential development is in the zoning ordinance and and it follows basically the planned residential development concepts that's outlined in the municipalities planning code so there's it's basically considered a planned residential development but you can ask for you can kind of create your own setbacks and separations and that type of thing with it um so they're they've been following the because of how they want to do their design that like they're doing it under the flexible residential development so they essentially they they chose to follow that path yes yeah so it's in it's allowed in several of the zoning districts in outlined in the zoning"
+    },
+    {
+      "block_id": 192,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 10461.23,
+      "end": 10498.43,
+      "duration_s": 37.2,
+      "segment_count": 5,
+      "word_count": 94,
+      "text": "ordinance and they're essentially creating an entire neighborhood but they just want to be able to make sure that they can create it the way they want to and so in order to do that they have to follow a certain extra set of regulations and so again it was really this is really more so just like to raise your awareness that things will be coming through it will move like fairly quickly um because of the requirements of the ordinance but you you do need to make a motion to set the"
+    },
+    {
+      "block_id": 193,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 10498.43,
+      "end": 10513.17,
+      "duration_s": 14.7,
+      "segment_count": 3,
+      "word_count": 46,
+      "text": "public hearing date and then authorization to advertise for september 17th is it the 17th that's the date and yeah that would be yeah correct um that's our recommendation because that's giving us the most amount of time to provide a review like a thorough review"
+    },
+    {
+      "block_id": 194,
+      "speaker": "SPEAKER_27",
+      "category": "recurring",
+      "start": 10513.17,
+      "end": 10527.94,
+      "duration_s": 14.8,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "why is this it's not expedited well i mean it's so typically a land development wouldn't go through"
+    },
+    {
+      "block_id": 195,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 10527.94,
+      "end": 10559.38,
+      "duration_s": 31.4,
+      "segment_count": 5,
+      "word_count": 77,
+      "text": "the public hearing process um this process is outlined in the zoning ordinance but it's following a planned residential development requirement that's provided for in the mpc um i can't speak to the reasoning behind this this addition being in the zoning ordinance um it is in my opinion a little bit unique but that the zoning ordinance is what dictates those time frames and those are based off of the mpc regulations for planned residential development"
     },
     {
       "block_id": 196,
@@ -607,6 +2446,171 @@
       "text": "and so it's an extra step and so like yeah well i mean you would ultimately do the same thing that"
     },
     {
+      "block_id": 197,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 10572.94,
+      "end": 10677.5,
+      "duration_s": 104.6,
+      "segment_count": 16,
+      "word_count": 275,
+      "text": "you would normally do as far as making a decision on whether you would approve it deny it or approve with conditions so they would still follow that process as far as land development but they have different requirements for zoning and they can basically say this is what we're proposing to do and not have to meet all of the regulations that are outlined in a specific zoning district so there's some flexibility there they can also have a mix of uses in that so they are proposing to do commercial storage they did receive zoning hearing board approval for that because that's a special exception requirement so it i could just say it's a very like unique process that you probably won't experience on a regular basis but while it's not an expedited like review time frame our typically the planning commission would have 90 days from the data application is submitted and they're after an application sorry now i'm losing my train of thought after an application is submitted the first planning commission meeting regardless of whether the application is before the planning commission is the start of that 90-day clock so typically there's a 90-day clock and the applicant can provide us extensions on that 90-day clock um if there's more review that needs to take place so because this is in zoning it's a little bit um unique in that that's not the typical process that they would follow because it does have to have a public hearing within those 60 days yes i would have fully agree and we just want to make sure that we're hitting those time"
+    },
+    {
+      "block_id": 198,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 10677.5,
+      "end": 10695.09,
+      "duration_s": 17.6,
+      "segment_count": 3,
+      "word_count": 37,
+      "text": "frames per the ordinance mr chairman can i make a motion yes i would like to make a motion to for the planning commission to establish september 17th as a date for public hearing concerning sycamore ridge"
+    },
+    {
+      "block_id": 199,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 10695.09,
+      "end": 10718.07,
+      "duration_s": 23.0,
+      "segment_count": 2,
+      "word_count": 31,
+      "text": "second we have a motion on the floor and a second any further discussion all in favor let it known by saying aye aye opposed hearing none ayes have it motion"
+    },
+    {
+      "block_id": 200,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 10718.07,
+      "end": 10766.3,
+      "duration_s": 48.2,
+      "segment_count": 9,
+      "word_count": 103,
+      "text": "carried the other and this one is really brief as far as as far as my other business is the planning commission bylaws and so know that those are currently under review by our solicitor we are looking at what requires city council approval not not all of the changes that we're making will require city council approval but we thought it would be easiest to to just rather than making some changes and then waiting on city council to make others that we're just gonna keep everything together, figure out what needs to go to city council and move that forward later."
+    },
+    {
+      "block_id": 201,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 10766.3,
+      "end": 10786.48,
+      "duration_s": 20.2,
+      "segment_count": 6,
+      "word_count": 53,
+      "text": "Right, and I would just say that the things, the bylaws can be changed regardless of city council, but consistency with the planning commission ordinance that authorizes your power, like those need to be consistent. so that's what would have to go before a city council an amendment to that ordinance i just"
+    },
+    {
+      "block_id": 202,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 10786.48,
+      "end": 10891.59,
+      "duration_s": 105.1,
+      "segment_count": 18,
+      "word_count": 291,
+      "text": "want to make a comment about the maybe i missed a conversation at some point um but i did read over the bylaw draft and i wanted to express a concern that we're reducing the amount of planning districts um i recognize planning regions we currently have six and i think it said going down to five is that correct that is correct i believe that's correct yeah yes um like i understand that there may be trouble filling roles but like i think it's important that we continue to keep these regions uh maybe look at amending the map if we feel so compelled but like you know we're talking about going through this uh flexible residential option and currently region four is still vacant um and that is where this planning is set to occur um so So I realize members of the commission only have so much power to get somebody on the commission, but we shouldn't be taken the easy way out by reducing the size of the commission. I feel like we've done a good job representing the public because of our size and because of the regions we have. yeah I hope we reconsider that aspect of the bylaws as well as term limits I'm not a huge fan of term limits and I think I don't know if any of us would get knocked out by that but like you know me being so young hypothetically let's say I live to be 80 and there's term limits imposed I can get and I am interested in serving like you know 40 years from now that sort of requirement could knock out someone like me in the future and sometimes you got to fill a"
+    },
+    {
+      "block_id": 203,
+      "speaker": "SPEAKER_22",
+      "category": "recurring",
+      "start": 10891.59,
+      "end": 11050.64,
+      "duration_s": 159.0,
+      "segment_count": 22,
+      "word_count": 364,
+      "text": "seat so that's all i got to say um the any changes that we make will would come first back to the planning commission of course you have to approve anything that gets changed um before it goes anywhere else and so prior to it going prior to the ordinance changes going before council it would of course come back to the planning commission um that's the first thing and then even just like the changes to the bylaws that don't require city council approval those would also like nothing nothing is done we've only just done like a preliminary review of the ordinances just for your own information lancaster city is very unique in how its planning commission is set up lancaster city is very unique and so you know that is is understood but to know that planning commissions are predominantly predominantly which is not to say that without exception predominantly seven members um and and so we are we are an exception in that we're nine we're also an exception in that we have um regional representation that is also that's something that is generally left to accounting a county planning commission generally again not that there are not exceptions generally a city does not even have regions for representation the only requirement is that you be a resident of the municipality and so in reviewing these things we're we're just really also looking at you know what is most common across pennsylvania and what does make it easiest and while i definitely recognize what you're saying about the nine we also have to think about um being able to draw quorum which tonight was very easy but if you think about drawing quorum when you have nine people as your regular members versus drawing a quorum when you have seven people as your regular members it's it's easier obviously to have quorum which makes it less likely that we would be canceling a meeting due to lack of quorum and so i recognize your arguments for keeping the the and i'm just i'm just more explaining why like the thinking of of why we would would make changes like that"
+    },
+    {
+      "block_id": 204,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 11050.64,
+      "end": 11131.91,
+      "duration_s": 81.3,
+      "segment_count": 19,
+      "word_count": 261,
+      "text": "no I gotcha like you're not make making anything doesn't make sense to me but I think that instead of reducing the size of our Commission maybe we should potentially look at what defines quorum like if we have vacant seats open can we make it so that our quorums are set based off filled seats at the moment I do reckon that look you know that I'm a pretty well attended member so I definitely recognize the attendance concern but I think that goes to the point of like doing the work of making sure we get uh good members of the public to serve on these commissions and then if someone is derelict in their duties you got to go um and that that doesn't just go for us like i'm saying that about all of our boards commissions and authorities in the city of lancaster uh i like that we have these six planning regions i think it's actually really reflective of how some of us view the community because uh we don't have to go by the laws of like for example, electoral districts. So we have a downtown district, a northeast and northwest, the southeast to southwest and region three, I think it is represents the two annexes, which I think matches some of the neighborhood character more. So I think our I think our region map is really good. And if we're going to reduce size, I mean, frankly, I'd, I'd be more interested in getting smaller amounts of at large representation than the regions."
+    },
+    {
+      "block_id": 205,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 11137.67,
+      "end": 11139.55,
+      "duration_s": 1.9,
+      "segment_count": 1,
+      "word_count": 4,
+      "text": "Okay, any further discussion?"
+    },
+    {
+      "block_id": 206,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 11139.55,
+      "end": 11156.9,
+      "duration_s": 17.4,
+      "segment_count": 3,
+      "word_count": 48,
+      "text": "so sorry can I just ask a question about the so we earlier made a motion and approved the public hearing so now what do we do as far as like actually scheduling that and advertising it and all of that you can make a motion to do"
+    },
+    {
+      "block_id": 207,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 11156.9,
+      "end": 11208.52,
+      "duration_s": 51.6,
+      "segment_count": 9,
+      "word_count": 138,
+      "text": "that now or you can if you want to do it at the next Planning Commission meeting like determine when you want to meet I wouldn't recommend doing it at the same time that the September 7th like the Sycamore Ridge one is just because of yeah what are the notice requirements so it has to be notices the first one has to be within 30 days of the hearing and the next one has to be not more than not less than seven days before the hearing so so like the next Planning Commission would be technically scheduled for the 17th I don't think that would give enough time to advertise for it and meet those regulations no you could set another date as well as long as the obviously the building is in the room is"
+    },
+    {
+      "block_id": 208,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 11208.52,
+      "end": 11223.31,
+      "duration_s": 14.8,
+      "segment_count": 2,
+      "word_count": 29,
+      "text": "available yeah I mean personally I would like to try to get that schedule because I think as we saw tonight folks are interested but I defer to other"
+    },
+    {
+      "block_id": 209,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 11223.31,
+      "end": 11258.76,
+      "duration_s": 35.5,
+      "segment_count": 9,
+      "word_count": 98,
+      "text": "commissioners I like the idea of doing it at one of our regularly scheduled meetings, because I think a lot of members of the public are counting on a regular schedule to see us take action. I think that we should really have it at our next meeting if we can comply with legal requirements, but part of the motion could be made that if there's a determination that we cannot meet those requirements, it will automatically go to the first Planning Commission meeting following that. But if I can't make motions, otherwise, I would be doing so."
+    },
+    {
+      "block_id": 210,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 11258.78,
+      "end": 11263.78,
+      "duration_s": 5.0,
+      "segment_count": 2,
+      "word_count": 25,
+      "text": "Well, if we're gonna, if we're gonna do it during a regular Planning Commission meeting it would be in October because we can't do yeah"
+    },
+    {
+      "block_id": 211,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 11263.78,
+      "end": 11267.14,
+      "duration_s": 3.4,
+      "segment_count": 1,
+      "word_count": 13,
+      "text": "because September 3rd you're dealing with Labor Day right before that and I"
+    },
+    {
       "block_id": 212,
       "speaker": "SPEAKER_25",
       "category": "commenter_candidate",
@@ -616,6 +2620,72 @@
       "segment_count": 1,
       "word_count": 15,
       "text": "don't see it being advantageous of this month you can I just think that the"
+    },
+    {
+      "block_id": 213,
+      "speaker": "SPEAKER_28",
+      "category": "recurring",
+      "start": 11281.17,
+      "end": 11288.73,
+      "duration_s": 7.6,
+      "segment_count": 1,
+      "word_count": 14,
+      "text": "Sycamore Ridge is a pretty intricate plan and just tiny people like I said"
+    },
+    {
+      "block_id": 214,
+      "speaker": "SPEAKER_11",
+      "category": "recurring",
+      "start": 11288.73,
+      "end": 11333.4,
+      "duration_s": 44.7,
+      "segment_count": 7,
+      "word_count": 73,
+      "text": "people will come running October 1st would be the first day truly that would give everyone time. And we're talking what six weeks. That's not a terrible timeline, even though I know it's, there's a need to move on things like this. Especially if you want some of the people that we want to invite to I would definitely be happy floating October 1. Well, someone else I do too many motions here."
+    },
+    {
+      "block_id": 215,
+      "speaker": "SPEAKER_16",
+      "category": "recurring",
+      "start": 11333.7,
+      "end": 11336.7,
+      "duration_s": 3.0,
+      "segment_count": 1,
+      "word_count": 12,
+      "text": "I'll make a motion to hold a public hearing on October 1."
+    },
+    {
+      "block_id": 216,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 11336.7,
+      "end": 11355.17,
+      "duration_s": 18.5,
+      "segment_count": 1,
+      "word_count": 14,
+      "text": "motion on the floor and also a second any further discussion I think between"
+    },
+    {
+      "block_id": 217,
+      "speaker": "SPEAKER_09",
+      "category": "recurring",
+      "start": 11355.17,
+      "end": 11368.73,
+      "duration_s": 13.6,
+      "segment_count": 3,
+      "word_count": 39,
+      "text": "then and now we should have more conversations of the Commission about our other ways to act like not at this meeting but maybe next meeting discussing what requests we can make of counsel to continue working on data"
+    },
+    {
+      "block_id": 218,
+      "speaker": "SPEAKER_17",
+      "category": "recurring",
+      "start": 11368.73,
+      "end": 11422.09,
+      "duration_s": 53.4,
+      "segment_count": 4,
+      "word_count": 62,
+      "text": "centers any further discussion all in favor let it known by saying aye opposed ayes have it motion motion carried okay I have a motion to adjourn the meeting make a motion to adjourn the meeting and we have votes to adjourn the meeting in a second all in favor let it know by saying aye aye aye aye aye yeah yeah"
     },
     {
       "block_id": 219,

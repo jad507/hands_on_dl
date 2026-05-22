@@ -3,7 +3,23 @@
   "video_id": "XzF6-XCVRFc",
   "upload_date": "20250917",
   "rttm_mode": "standard",
-  "commenter_speakers": {
+  "speakers": {
+    "SPEAKER_00": {
+      "category": "recurring",
+      "total_speech_s": 1752.3,
+      "block_count": 25,
+      "segment_count": 326,
+      "avg_segment_s": 5.4,
+      "word_count": 4346
+    },
+    "SPEAKER_01": {
+      "category": "recurring",
+      "total_speech_s": 224.8,
+      "block_count": 5,
+      "segment_count": 47,
+      "avg_segment_s": 4.8,
+      "word_count": 603
+    },
     "SPEAKER_02": {
       "category": "commenter_candidate",
       "total_speech_s": 62.6,
@@ -11,6 +27,22 @@
       "segment_count": 6,
       "avg_segment_s": 10.4,
       "word_count": 91
+    },
+    "SPEAKER_03": {
+      "category": "recurring",
+      "total_speech_s": 184.4,
+      "block_count": 6,
+      "segment_count": 30,
+      "avg_segment_s": 6.1,
+      "word_count": 471
+    },
+    "SPEAKER_04": {
+      "category": "recurring",
+      "total_speech_s": 624.6,
+      "block_count": 19,
+      "segment_count": 120,
+      "avg_segment_s": 5.2,
+      "word_count": 1494
     },
     "SPEAKER_05": {
       "category": "commenter_candidate",
@@ -29,7 +61,216 @@
       "word_count": 181
     }
   },
-  "commenter_blocks": [
+  "blocks": [
+    {
+      "block_id": 0,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 320.46,
+      "end": 417.15,
+      "duration_s": 96.7,
+      "segment_count": 17,
+      "word_count": 264,
+      "text": "working earlier there we go uh good evening everyone i'll now call to order the september 6 2025 uh work session of lancaster city council a couple reminders for everyone at the top of the meeting this evening uh this meeting and its participants are being recorded this is a non-legislative working session of council public comment will be taken at the end of the meeting on topics related to this portion of the administrative code only as always comments are limited to three minutes per speaker i must begin with your name and block of residents for our meeting record and as another reminder uh we after our last work session which was on august 19th council members in the public were able to submit questions and comments on this portion of the administrative code and tonight we will be having a discussion about those sections i'm going to call the role of members uh counselor ahmed here Councilor Arroyo. Councilor Calixte. Councilor Craig. Here. Councilor Diaz. Here. Councilor Hirsch. Here. And I am president of AK and I'm here. Um all right uh our next order of business uh counselors is the approval of the minutes of the August 19th 2025 meeting. Are there any comments on those minutes that you've been provided with? Hearing none we'll take a voice vote for the approval of the minutes all in favor say aye aye any opposed thank you very much all right I will turn this over to our solicitor Mr. Barry Handwerker for discussion to lead our discussion of the administrative code"
+    },
+    {
+      "block_id": 1,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 417.15,
+      "end": 584.38,
+      "duration_s": 167.2,
+      "segment_count": 31,
+      "word_count": 389,
+      "text": "good evening so as a reminder I went through the sections that we're dealing with tonight last month the table of contents is up on the screen tonight's session is really intended for discussion amongst yourselves regarding provisions you might have questions about want to see modified in any way I will start if it's okay with you councilman Hirsch had one question that I think we could start with on some discussion and it was about the provision in boards commissions and authorities and in particular requirements for their posting minute getting their minutes done and posted on the website so a couple things historically there's no legal requirement to post things on the website this does provide that currently and we're going to deal with if you want to move to article 9 the the draft that you have before you for your consideration does require that they keep minutes which is a requirement of the sunshine act it does require that they ultimately be posted to the website and that's under section 1 part F it's not specific about the website because that's public that's city policy so if you wanted to insert somewhere in F suggestions to address some of your concerns would be a requirement that board minutes be posted to the city's publicly accessible website promptly after approved. I know when one of your questions was before the next meeting. One of the problems with that is they don't become minutes and official until they're actually approved like we've done tonight. So one of the things historically you see is you might see months and months go by without minutes getting posted, because they haven't met for months and months at times but so you can't require something to be posted that doesn't technically legally exist yet I mean drafts are there but a draft is predetermined it is not the minute and you don't want to confuse it as the minute for the Sunshine Act purposes and you could further advice you could further place in here something that they'd be promptly posted on the website following their approval that is one way to address the concern you had raised and I just opened that again up for you to just I know it was your concern I just thought it would"
+    },
+    {
+      "block_id": 2,
+      "speaker": "SPEAKER_01",
+      "category": "recurring",
+      "start": 584.38,
+      "end": 728.68,
+      "duration_s": 144.3,
+      "segment_count": 32,
+      "word_count": 402,
+      "text": "be a good way to start discussion tonight thank you for that yeah I just had mentioned this because I know like at times I have gone to excuse me to the to the board minutes to kind of look back at what took place at I mean traffic commission is one I've had particular interest in and often I I feel like there has been like a couple meetings that have gone by and we still don't have minutes from the previous one and at first my thought was well could we say like they're required to post these minutes within 30 days of that meeting but then like you were saying it wouldn't make sense if like they meet on a quarterly basis or you know because they all have different meeting schedules you know I think to put something I would just say I think to put something in to say like promptly would be like a nice just to you know I think encourage a culture of like I had kind of worded it like you know if the next meeting before the next meeting takes place that there have been minutes presented and approved just to as a way of like one to get around the logistical hurdle of like OK you don't have you can't say 30 days. You know I guess if that commission board board commissioner authority only meets like on a quarterly basis. But could you say hey by the next meeting you know you should have your minutes. I mean I guess you can't post them. That's the other thing I didn't necessarily consider is that they're not really adopted minutes until they're adopted. So I don't know. I mean I don't know if it could be worded in such a way that like by that next meeting after their adoption they're posted to the website or if there are other I mean frankly other considerations that I'm not aware of administratively but I just thought that that could be something that you know just kind of provides to make sure that we're transparent and timely with that transparency as far as like posting our minutes to the website but like I said there might be things that I'm not you know aware of but I just thought I'd that was the one thing that I was like thinking about as we"
+    },
+    {
+      "block_id": 3,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 728.68,
+      "end": 764.38,
+      "duration_s": 35.7,
+      "segment_count": 7,
+      "word_count": 99,
+      "text": "looked at this Thank You council Hirsch I wanted to kind of add and maybe this can help us provide some context because all of the board's commissions and authorities do you meet on a different cycle and the minutes aren't the minutes until they are approved could we simply word that as promptly after they are adopted and would you not knowing the mechanism you know uploading a file seems pretty straightforward but would you advise that we put a time limit like within 30 days after adoption or do you think in your opinion does promptly get"
+    },
+    {
+      "block_id": 4,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 764.38,
+      "end": 857.68,
+      "duration_s": 93.3,
+      "segment_count": 19,
+      "word_count": 271,
+      "text": "it done in my opinion I think promptly works I think promptly gets you faster than 30 days if you put something like within 30 days I think the tendency for whoever staff is that's responsible for that board is gonna wait until the 29th day and post it I think you have more control over making sure that it is done timely by leaving the word as promptly that's just my experience in dealing with sort of time limits in the past like you always buck up against the time limit versus when you say promptly everybody assumes promptly is not 30 days unless there's facts and circumstances such as you know a blizzard shut down City Hall for two months that's not gonna happen right but promptly is usually faster than 30 so I do think that is a good way of dealing with it and keep in mind that staff has been given more direct responsibilities under this draft of the administrative code then what might currently exist in terms of boards commissions and authorities and our city ordinances now there is nothing that directs staff to really do anything with respect to the boards and commissions and authorities and this is putting a burden on them and an obligation on them to make sure that a the sunshine act is complied with be to make sure their boards do take minutes and see make sure they do post them for purposes of transparency and accountability and not only do you have the boards to hold accountable but now you have city staff so I think that's a"
+    },
+    {
+      "block_id": 5,
+      "speaker": "SPEAKER_01",
+      "category": "recurring",
+      "start": 857.68,
+      "end": 877.82,
+      "duration_s": 20.1,
+      "segment_count": 4,
+      "word_count": 59,
+      "text": "good way of approaching do you mind if I make one other comment which is that I know that we're in the administrative code there is like a training for new board members I guess maybe it doesn't make sense on an individual basis but to maybe mention it in there like hey ideally you know we're posting minutes"
+    },
+    {
+      "block_id": 6,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 877.82,
+      "end": 915.96,
+      "duration_s": 38.1,
+      "segment_count": 7,
+      "word_count": 102,
+      "text": "once they're adopted promptly again there's a whole section on providing training to all newly elected officials and two boards Commission's and authority members right now City Council has a resolution in place which requires all newly appointed board commission and authority members and reapp and members that are reappointed to attend the training which i uh conduct dealing with the sunshine act and the right to know law and that is part of my presentation regularly is that a they need to be done and b they are public records and c the city will be posting them on the website"
+    },
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 915.96,
+      "end": 950.36,
+      "duration_s": 34.4,
+      "segment_count": 4,
+      "word_count": 75,
+      "text": "and um like as we go through each section just to go back to our process if you remember the last time we sort of went around and everyone either got to make a comment question suggestion clarifying or if they had none so we'll uh are we continuing in um section seven or article seven or i'm sorry article nine while we're on it okay so we'll continue around the table if there's anything"
+    },
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 950.36,
+      "end": 1053.02,
+      "duration_s": 102.7,
+      "segment_count": 16,
+      "word_count": 238,
+      "text": "else from article nine with um nothing further on article nine i will obviously between now and the next time we present the draft to you make the changes we just talked about in subpart f and and circulate them to you so that you have them those are again this is why we're we start with a draft this is your document and those are all well taken points going back to I'll skip the table of contents maybe one of the ways we'll do this here is just quickly go through and make sure we do have questions or comments cover each section so article 3 is organizational structure departments and officials and I note that at the last meeting just so we're aware in section two under departments and the reporting in number six the form of the reporting there was discussion about changing that from director of administrative services to mayor in terms of who controls the form of the report to be given by department heads is there are there any questions comments uh discussion on um article three which is the organizational structure departments and officials which takes us through um you know the organizational chart the appointed officials provisions specific to police and fire which as i indicated uh last month are essentially pull-ins directly from our existing code of ordinances and it also covers civil service which is a pull-in"
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1053.02,
+      "end": 1070.57,
+      "duration_s": 17.5,
+      "segment_count": 2,
+      "word_count": 32,
+      "text": "from our existing ordinances and applicable um i had my questions answered at last meeting with those items so i didn't have anything for further in article three counselor hersh counselor med"
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_03",
+      "category": "recurring",
+      "start": 1072.11,
+      "end": 1108.83,
+      "duration_s": 36.7,
+      "segment_count": 5,
+      "word_count": 93,
+      "text": "um thank you my only question or comment was in regards to the reports um at least annually or such time at council deems necessary i do agree that um changing it to approval by the mayor would be uh appropriate um but i also wanted to you know it says at times such as council deems necessary um but could like should there be any language in there about an individual counselor requesting a report like from their committee or is that not applicable in this sense so my my uh suggestion"
+    },
+    {
+      "block_id": 11,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1108.83,
+      "end": 1159.88,
+      "duration_s": 51.1,
+      "segment_count": 9,
+      "word_count": 155,
+      "text": "on that is again individual council members shouldn't have the authority it should be either a council decision or a committee decision as a group no one council member can act on behalf of council so as council deems appropriate that could be as a council committee deems appropriate there is a one annual report that's already required under the charter and the administrative code which is the budget presentations there's a report on the department as part of that so this was really built in as an additional and this was really meant as reporting not as sort of um you know come and talk those are things that i think need to be worked out and the flexibility here is council deems appropriate it gives you as much opportunity as council as an entity would want to bring a department head to it for discussion thank you and i guess what i was"
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_03",
+      "category": "recurring",
+      "start": 1159.88,
+      "end": 1192.56,
+      "duration_s": 32.7,
+      "segment_count": 5,
+      "word_count": 94,
+      "text": "referring to is if a committee chair reached out to council president and said that they wanted to request a report of Council in their committee or you know how would we go about that and should we put it in the charter on what the provisions to do that would be because reports requested by Council is a tool that Council has so maybe um should that be a sub point or should the reports request from Council be addressed in section six well again I mean this is your document but I"
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1192.56,
+      "end": 1309.16,
+      "duration_s": 116.6,
+      "segment_count": 14,
+      "word_count": 212,
+      "text": "already covered by your procedures which is you have the ability to ask council president to request a report if council president denies that you certainly have the right to make a motion and get four members of the council if they all agree it doesn't matter what the council president wants there or a committee so i mean you can make it more specific um you know again this is a draft meant to try and guide uh you're you're always straddling two different concerns right two specific boxes you into requirements and not enough specificity doesn't answer questions so um it's trying to it's trying to create procedures that you can follow if if council feels like they should add something here that's certainly your discretion to do so thank you council diaz anything on article three council craig thank you so that takes us to article six and as a reminder article 6 is City Council this includes rules and order of business meetings committees previous councils filling vacancies in office training oaths unexcused absences conduct and staff communications so you know again I'll open it up does anybody have any questions comments thoughts regarding the provisions again that were meant as a starting point for your discussion mr."
+    },
+    {
+      "block_id": 14,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1309.16,
+      "end": 1481.97,
+      "duration_s": 172.8,
+      "segment_count": 30,
+      "word_count": 425,
+      "text": "hamburger I do so I had sent these to you prior to the meeting just to ensure that they would be something that would be appropriate or to introduce so counselors I want to draw your attention to in this article 6 section 2 letter F which is the agenda essentially the contents of the meeting agenda it lists in is written the agenda of each regular meeting shall be as follows and then lists an order of the meeting which we are all familiar with in our agendas my suggestion here and something that I'd like us to discuss is to slightly change the way that it is worded at the beginning of this section to the agenda of each regular meeting shout should include the following or shall include the following and then name the items on the agenda similar to what you see here call to order Pledge of Allegiance calling roll of members approval of minutes proclamations honors awards and resolutions of recognition public comment reports requested by counsel reports of committees of counsel or interim reports of committees of counsel the legislative agenda report of the mayor reported the president of council council comments and adjournment and the only change that I would suggest or that I am suggesting that we talk about here is to eliminate the public comment beyond there twice because it's already covered I have a couple of reasons for this that I'd like to share so this would dictate that the contents of the meeting which is what the administrative code is intending to do here but not necessarily the order but also remove the requirement but not preclude the inclusion of a second public comment period because it's already on the list of things that can be on the agenda um my uh my opinion here and i contend that the option of having a single public comment period um you know perhaps taking pre-registered comments first and then opening it up directly after would facilitate more participation in public comment and remove a barrier of needing to wait through what is sometimes a lengthy meeting that often end later than attendees can stay and so if we are essentially consolidating um you know the requirement to have two comment periods not taking away the option but listing them as available that we can make that available to future councils and their prerogative and hopefully remove that barrier yes so that would be my point for discussion mr. hamburger anybody have any thoughts mr."
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_01",
+      "category": "recurring",
+      "start": 1481.97,
+      "end": 1516.69,
+      "duration_s": 34.7,
+      "segment_count": 6,
+      "word_count": 78,
+      "text": "Hersh I would say I think that makes sense I think like my question would be I guess who has the discretion to call for that second public comment period or does that just defer to the procedure that we have outlined in an earlier section that basically says the rules are set by an absolute majority plus one person is that is that who would be the decider of whether that second public comment period is offered."
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1518.02,
+      "end": 1572.12,
+      "duration_s": 54.1,
+      "segment_count": 11,
+      "word_count": 157,
+      "text": "So so the rules aren't set by a majority plus one the rules are changed by or waived by a majority plus one the rules are set by a majority of council. So again let's assume a new council in place and for lack for sake of hypothetical an argument seven new council members starting in january the seven council members can determine by majority vote how they want to control their agenda and set up their rules and procedures once their rules and procedures are in place it can only be changed thereafter for a particular meeting and that's a waiver provision so for example if we wanted to waive a provision on a particular night that's a majority plus one but so the current operations is it's a council decision it's not deferred to the council president it's not deferred to a committee it is a council of the whole making that determination as it's"
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_01",
+      "category": "recurring",
+      "start": 1572.12,
+      "end": 1598.42,
+      "duration_s": 26.3,
+      "segment_count": 4,
+      "word_count": 61,
+      "text": "currently set up but so then I guess my question is if like that to me if we're saying that the format the standard format is going to be just the first public comment period then it seems like it would constant does it not constitute waiver of the rules to add the second public comment period so again if you"
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1598.42,
+      "end": 1700.1,
+      "duration_s": 101.7,
+      "segment_count": 21,
+      "word_count": 280,
+      "text": "you're you're assuming there are rules in place and so the admin code is starting from the proposition that there aren't any rules in place so again let's take us to January 1st and say the admin code goes into effect one of the things that at the organizational meeting what would be suggested is that council determine what their agenda will look like for for their meetings what their rules would be now to change that for one meeting would require a waiver to change the rules entirely would be a dip would be a motion process so it's not just waiting one item it's it's we're gonna change all of our rules then yes you would have to get that would be a majority of council back to that again but a waiver is sort of the reason of a majority plus one for a waiver for a single incident is to make sure that politics aren't sort of being played to get around something that needs to get done, or that to avoid accountability and transparency for the residents so that you couldn't, you know, sort of ignore something that was required in order for a political party, let's assume that had a majority of four, three on council, and I've lived through those days, right. So I was, I was here when we had four members of one party and three of the other and it reversed both ways. And there were things that went along party lines this would not allow a party line to dictate that that's the concept any other comment on that topic there you go so let me make sure I'm"
+    },
     {
       "block_id": 19,
       "speaker": "SPEAKER_02",
@@ -40,6 +281,17 @@
       "segment_count": 2,
       "word_count": 26,
       "text": "understanding this correctly so at the beginning of the agenda of each regular meeting shall be as follow so we're gonna reword that the suggestion I"
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1716.33,
+      "end": 1725.21,
+      "duration_s": 8.9,
+      "segment_count": 2,
+      "word_count": 27,
+      "text": "believe from council president bake a is that it would read now the agenda of each regular meeting should include the following not shall but changing shall"
     },
     {
       "block_id": 21,
@@ -53,6 +305,17 @@
       "text": "to should okay and opening it up to either having one public comment or even"
     },
     {
+      "block_id": 22,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1735.22,
+      "end": 1770.53,
+      "duration_s": 35.3,
+      "segment_count": 8,
+      "word_count": 118,
+      "text": "the second one so as a matter of law you're required to have public comment in accordance with the sunshine Act which dictates certain times and places when it must be done which typically at a minimum has to be done at the beginning of the meeting or before votes are taken so that people can comment on action to be taken what the language that miss bake a is proposing is just to say that there should be public comment in the meeting and the law dictates that you must whether you have one or two comment sections would be up to counsel determining its rules of procedure as it moves forward okay and then how would"
+    },
+    {
       "block_id": 23,
       "speaker": "SPEAKER_02",
       "category": "commenter_candidate",
@@ -62,6 +325,28 @@
       "segment_count": 1,
       "word_count": 14,
       "text": "they decide that meeting by meeting or at the beginning for my my my"
+    },
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1777.39,
+      "end": 1787.1,
+      "duration_s": 9.7,
+      "segment_count": 2,
+      "word_count": 24,
+      "text": "recommendation would be that council its organizational meeting in January would adopt its rules of procedure which would include its agenda for meetings thank"
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1787.1,
+      "end": 1805.38,
+      "duration_s": 18.3,
+      "segment_count": 3,
+      "word_count": 37,
+      "text": "you which we haven't done in recent and at least during my time on council because we've operated under the same rules but this would allow us to if we wanted to adopt that change we could."
     },
     {
       "block_id": 26,
@@ -75,6 +360,28 @@
       "text": "If I may the only question I have is for example if someone is coming in late and it's a constituent and by having the public comment in the beginning but not at the end when that hinder on some of the people that do work late and come to the meetings at a later time."
     },
     {
+      "block_id": 27,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1828.84,
+      "end": 1886.42,
+      "duration_s": 57.6,
+      "segment_count": 17,
+      "word_count": 173,
+      "text": "Well again there's never going to be perfect right so perfect can be the enemy of good. One thing I would note is it's going to depend on how council determines to handle public comment. There's no guarantee that it will just be at the beginning or that it wouldn't be, as Ms. Baquet indicated, beginning and end. And council's practice may be that it asks for public comment on each motion or action that's being taken, which means that now there's already multiple areas for public comment. You know, you could argue that somebody can only stay early. So both sets of comment work. will say that the concept of public comment as defined by the sunshine act is intended to make sure that comment can be had before city council action is taken because if let's assume in your scenario somebody came late they would still then have the opportunity to comment on the things that already happened at the next council meeting which wouldn't be more than two weeks later"
+    },
+    {
+      "block_id": 28,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 1886.42,
+      "end": 1909.38,
+      "duration_s": 23.0,
+      "segment_count": 3,
+      "word_count": 51,
+      "text": "and also the way it stands now if they're not pre-registered they're not speaking in that first period either way um in this in this case you know because it's required to have public comment in my view um it would allow folks to speak either way whether they had pre-registered"
+    },
+    {
       "block_id": 29,
       "speaker": "SPEAKER_02",
       "category": "commenter_candidate",
@@ -84,6 +391,171 @@
       "segment_count": 2,
       "word_count": 36,
       "text": "or not question so um so if if we go that way and folks are not required to pre-register for for the first or possibly the only public comment then would they have to would they"
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1938.92,
+      "end": 2020.39,
+      "duration_s": 81.5,
+      "segment_count": 15,
+      "word_count": 235,
+      "text": "have to register at all so i think as ms bakey is proposing it there's no there's no requirement that people re-register unless council makes that a requirement again what i would be suggesting is in january you would be setting forth your procedures for the upcoming year or to continue from year to year and i'd probably be recommending you do it by resolution because it's administrative action one concept is allowing those who want to make presentations and know they want to be here to pre-register which would put them first on the list versus standing in line at the podium you don't have to do that that will be council's discretion again what's what's really happening through the administrative code here is the adoption of practices that are what we think have been good practices you think have been good practices and some I think this is a suggestion by councilman Beke to add some flexibility which is not there because currently you have an ordinance that dictates what you have to follow which is so I mean again this is your document and and your successors and the nice thing here is again I remind everybody that this is the first incarnation of it and it is an ordinance right so that means if council finds there are things they don't like about the way it's working council can change it"
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_03",
+      "category": "recurring",
+      "start": 2020.39,
+      "end": 2070.16,
+      "duration_s": 49.8,
+      "segment_count": 8,
+      "word_count": 125,
+      "text": "council president if I may I agree that this would give us more flexibility for future councils to kind of like the solicitor said set the agenda at the organizational meeting my question was in regards to public comment is there a a way that we can prioritize city residents over folks who are non-city residents when giving the public comment like can we make a second public comment for those who are because we often have people who are not city residents which is fine coming to speak at council meetings um but i there has been some discussion you know that should city council should city council prioritize those who live within the city to give public comment first so so again this"
+    },
+    {
+      "block_id": 32,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 2070.16,
+      "end": 2248.46,
+      "duration_s": 178.3,
+      "segment_count": 25,
+      "word_count": 362,
+      "text": "would be up to council at the time it adopts its resolution for its rules I would call I mean if if council were to ask me at the time I would caution on it because you do have to also it's not just residents under the sunshine Act who are entitled to speak it's a taxpayer and there are some very small taxes that create a very large number of people who are taxpayers and you so with that in mind yes I mean I would I would be cautioning I would be cautioning counsel to be careful because the the execution of it not the concept of it but the execution of it could cause problems and typically it's it's an innocent mistake can cause a big problem even if intentions were right so the answer legally is yes you may do I in my opinion think it's a wise move probably not so am i I'm reading that we have a consensus here to go ahead and at least in the next draft to make the changes suggested by by council president bake a anyone opposed to my viewing it that way at this point so then moving back through back through the next sections article 7 governs ordinances and resolutions and council president bakey had pointed out to me through the process set up for questions had asked the inquiry you know when does the memo that is that we've suggested be included with each ordinance when should that come and what she's really looking at is is article 7 section 1 part B number four which says with the introduction and in looking at that I see a potential problem with the way the draft words it because introduction could be meant to be the first reading of the ordinance but not the first time when councils actually getting the ordinance to consider and talk about which could be at a city committee meeting so you know one one way of reading rewriting that if council wishes would be with the first presentment of an ordinance to council or a committee of council I appreciate you bringing"
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 2248.46,
+      "end": 2287.36,
+      "duration_s": 38.9,
+      "segment_count": 7,
+      "word_count": 91,
+      "text": "that up so that was my concern it didn't really establish a clear timeframe or a deadline for submitting that that memorandum which I think is I think the memorandum is great I think it's important if we're going to be considering legislation that it should have sort of a rubric for addressing questions but my in my opinion it should be at the first committee the first presentation so whether that be committee whether that be a regular meeting of counsel it should accompany that first presentation I think that"
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 2287.36,
+      "end": 2309.33,
+      "duration_s": 22.0,
+      "segment_count": 1,
+      "word_count": 14,
+      "text": "makes sense anybody else have any comment on that I agree the only comment"
+    },
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_03",
+      "category": "recurring",
+      "start": 2309.33,
+      "end": 2333.41,
+      "duration_s": 24.1,
+      "segment_count": 4,
+      "word_count": 59,
+      "text": "I would have is you know it says or city council members introducing the ordinance um if city council members are introducing the ordinance on their own um will they be will they have access to city staff for you know questions or any legal advice on the ordinance prior to submitting the questions that the memorandum would require"
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 2334.29,
+      "end": 2405.77,
+      "duration_s": 71.5,
+      "segment_count": 15,
+      "word_count": 191,
+      "text": "well again this this the language is drafted supposes that u.s legislatures each individually have the ability to draft and present an ordinance in terms of you know whether if you were not given access that would be part of your memo would be to say that I can't determine this because staff hasn't provided me with that answer you know my experience since 1994 is that city staff has worked very collaboratively with all members of council in drafting legislation I don't see really an issue with that happening. But again your your response would then be to your fellow council members that you know we couldn't get this information and I would think the council could then make a motion to direct the appropriate staff and ask for it from from the staff. So I don't think any language change is needed but I appreciate the point I do. I also think that the even in the worst of times and there have been bad times and harder times right even in even in the hardest of times city staff and council have worked very collaboratively on legislative practices."
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 2406.5,
+      "end": 2425.48,
+      "duration_s": 19.0,
+      "segment_count": 5,
+      "word_count": 46,
+      "text": "And I'll also just say that you should not forget functionally in this in this process that the city clerk also works for city council and you know can be directed by members of council to help with research and drafting and that sort of thing."
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 2425.48,
+      "end": 2565.76,
+      "duration_s": 140.3,
+      "segment_count": 22,
+      "word_count": 266,
+      "text": "Thank you. That concludes my question. So again, I sense there's a consensus here to go ahead and make that change. And I'll do so in the next draft. Moving forward, the next section is Article eight, which was procedures related to forfeiture of office. Again, this is something that is new and was dictated by the Charter. Not currently existing in any of our ordinances in the third class city code or other provisions of law this is unique to Lancaster what we've attempted to do in drafting this is to create a procedure that provides due process provides appropriate sank provides appropriate levels of privacy as well as public hearing so that sort of it's done the right way and obviously defers at the end to the procedures that state law may require in order to effect effectuate the decisions of council on a forfeiture action and you know again anybody have any questions comments concerns on this section i don't have anything on this one so that again takes us back to article 9 boards commissions and authorities and we already spoke in large part about section 1 part F rules and procedure as you move through this it currently lists the currently authorized boards commissions and authorities and then moves on to the role of city administration and again this is now a legislative directive that city administration work with each of the boards and commissions, which does not exist. legislatively, currently, I mean, I think it's been the city practice, but doesn't exist legislatively. So any further questions on Article nine,"
+    },
+    {
+      "block_id": 39,
+      "speaker": "SPEAKER_03",
+      "category": "recurring",
+      "start": 2566.06,
+      "end": 2598.18,
+      "duration_s": 32.1,
+      "segment_count": 6,
+      "word_count": 64,
+      "text": "if I may, what section for listing the authorized boards, commissions and authorities? Should it say, including I mean, because we could, by ordinance, you know, create a new boards or commissioner authority so it has all of the current ones listed but should we have any language in there on these are the current you know but there could be additional by ordinance."
+    },
+    {
+      "block_id": 40,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 2599.24,
+      "end": 2723.73,
+      "duration_s": 124.5,
+      "segment_count": 24,
+      "word_count": 270,
+      "text": "So I left I left this blank for with I left out that language out a little bit on purpose until we get a little closer to adoption so I appreciate the point. One is yes we're going to have to create language that says this section automatically changes whenever a new board is created or a board is eliminated. There is as some of you on council may be aware a current review by staff to look at seeing whether we can consolidate some of these boards and I would expect that some ordinances to do so may be forthcoming which. So I was trying to tie a little bit of that together but your point is very very well taken and it does need to be added. And that would be my. We did that with some with the organizational chart if you recall that that would be the same language that i would suggest in section four yeah and that's all i had so again article 10 will ultimately be where your ethics code goes the ethics commission has met twice and has another meeting yet scheduled this month and is working through making recommendations to council that we can incorporate into a again a draft for your review of an ethics code article 16 is the next one that we covered which is employment and human resources administration this section covers quite a bit that I think has been the long-standing practice of the city but has not been legislatively required it's sort of the incorporation and requirements for appropriate employment policy and guidance any questions"
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 2723.73,
+      "end": 2745.23,
+      "duration_s": 21.5,
+      "segment_count": 1,
+      "word_count": 15,
+      "text": "comments or concerns with any part of this section so the last section is a"
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 2745.23,
+      "end": 2848.02,
+      "duration_s": 102.8,
+      "segment_count": 16,
+      "word_count": 224,
+      "text": "series of general provisions the first one is a process the city is currently using in on many of its things which is electronic signatures the second one again incorporates a little bit of what we do now which is fee schedules it does provide some additional work to be done that has not been legislatively required before although the law typically requires that all fees be rationally related to a service being provided in which typically means you have to have some sort of cost analysis in this section now you know there's a mandate that the director of administrative services periodically review arranged for review of all fees to make sure that they are still um appropriate for the appropriately being charged for the work being done that fees are again adopted by resolution so and then section three is an incorporation of our existing code dealing with miscible liens and a restatement of law as to the city's right to enforce its ordinances The last section is something you've seen referenced throughout, which is we obviously have a website, but in this administrative code, we're doing a lot of reliance on it, so it seemed appropriate to have a provision that requires that we maintain in good working order a publicly accessible website. So any questions with respect to Article 17?"
+    },
+    {
+      "block_id": 43,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 2848.02,
+      "end": 2865.06,
+      "duration_s": 17.0,
+      "segment_count": 1,
+      "word_count": 14,
+      "text": "I didn't have anything on this one that really takes us through the second"
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 2865.06,
+      "end": 2931.54,
+      "duration_s": 66.5,
+      "segment_count": 12,
+      "word_count": 161,
+      "text": "tranche with that you know the next the next step will be again to convene another one of these meetings following a receipt of the recommendations from the Ethics Commission with your consent to move the process forward I would suggest that I take those comments obviously they'll be forwarded to you but that I take them and incorporate them into a first draft similarly what I've done with the administrative code of the ethics code there is an additional requirement under the charter before that can be adopted which is there has to be a public work session regarding that so I think there's actually two sessions of counsel that are going to be needed one is to really go through it I mean maybe two like we've done here we'll see and then to hold a public session open to the public at work session to to again solicit public input on those key provisions of the ethics code"
     },
     {
       "block_id": 45,
@@ -97,6 +569,61 @@
       "text": "just have one question in regards to any one that would employ with the city that would make any death threats or any comments publicly is that something that would be included in here as well of any type of misconduct with the ethic boards well i mean that"
     },
     {
+      "block_id": 46,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 2955.35,
+      "end": 2989.99,
+      "duration_s": 34.6,
+      "segment_count": 6,
+      "word_count": 108,
+      "text": "would be a violation of all sorts of employment policy um it's the ethics code um which is set forth as set forth in the charter is is really not dealing with i'll say behavior as much as is with the concept is graft so are we utilizing the city position for an unfair or for an economic benefit that we should not be receiving that's the type of thing the ethics commission is actually talking about is making sure that what comes before them are really the things that were intended to come before them and or the state ethics commission under the state law and the"
+    },
+    {
+      "block_id": 47,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 2989.99,
+      "end": 2998.89,
+      "duration_s": 8.9,
+      "segment_count": 1,
+      "word_count": 18,
+      "text": "charter thank you counselors any other questions uh for next steps before we move to our next item"
+    },
+    {
+      "block_id": 48,
+      "speaker": "SPEAKER_03",
+      "category": "recurring",
+      "start": 2998.89,
+      "end": 3012.06,
+      "duration_s": 13.2,
+      "segment_count": 2,
+      "word_count": 36,
+      "text": "on the agenda councilman thank you and the only thing that i would just ask is are we still on pace in the solicitor's opinion to be moving forward in the timeline that we have set"
+    },
+    {
+      "block_id": 49,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 3013.37,
+      "end": 3047.98,
+      "duration_s": 34.6,
+      "segment_count": 11,
+      "word_count": 114,
+      "text": "i see no reason that we can't have the administrative code adopted with by the end of the year again we have a little bit longer time for the administrative code than we do for the ethics code but we're trying to wrap them in together i was hopeful that you might be able to to have the full thing ready October. I think we're pushed back by about a little bit longer because of the ethics code provision and it took a little while for appointments to be made to the ethics commission and set us up a little bit behind there but not insurmountable. So no, I think we'll still get there."
+    },
+    {
+      "block_id": 50,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 3047.98,
+      "end": 3097.25,
+      "duration_s": 49.3,
+      "segment_count": 17,
+      "word_count": 103,
+      "text": "Keep your extra Tuesdays open. Just a little bit longer. Terrific. Thank you very much, Mr. Handwerker. I appreciate it. We will now move into our public comment period. This is for comments related to this section of the administrative code. Again, as a reminder, comments are limited to three minutes per speaker, and please begin with your name and block of residence for our meeting record. Anyone wishing to make public comment can do so by stepping forward to the microphone on my right, your left at this time. Good evening. You may need to turn that microphone on as you approach."
+    },
+    {
       "block_id": 51,
       "speaker": "SPEAKER_05",
       "category": "commenter_candidate",
@@ -106,6 +633,39 @@
       "segment_count": 5,
       "word_count": 75,
       "text": "Irene Grievous, 400 Block of West End Avenue. My understanding is there was a some kind of ethics commission or some kind of meeting yet that has not been publicly made and I've actually had tried to come to two previous scheduled ones and they were canceled and I was not even aware that they had been rescheduled isn't that a violation of the sunshine law and when were these meetings for the ethics and"
+    },
+    {
+      "block_id": 52,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 3137.56,
+      "end": 3159.98,
+      "duration_s": 22.4,
+      "segment_count": 4,
+      "word_count": 58,
+      "text": "planning for the ethics Commission do you have anything further thank you I'm not aware as a to to avoid any conflicts of interest have not attended the ethics Commission meetings as of yet mr. hamburger do you know what off the top of your head when they were or if there was any changes or cancellations to"
+    },
+    {
+      "block_id": 53,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 3159.98,
+      "end": 3163.76,
+      "duration_s": 3.8,
+      "segment_count": 1,
+      "word_count": 13,
+      "text": "their schedule I don't remember the dates they were all advertised and none"
+    },
+    {
+      "block_id": 54,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 3163.76,
+      "end": 3173.06,
+      "duration_s": 9.3,
+      "segment_count": 2,
+      "word_count": 30,
+      "text": "have been canceled thank you yeah I am seeing them on the website here the next one that's listed because I can see future dates is September 25th here in"
     },
     {
       "block_id": 55,
@@ -119,6 +679,17 @@
       "text": "polite council chambers thank you well actually I do have the cancellation from I believe that was in August and there was one in July that they were both canceled and I know that because I came personally and was told it was canceled"
     },
     {
+      "block_id": 56,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 3188.8,
+      "end": 3201.44,
+      "duration_s": 12.6,
+      "segment_count": 2,
+      "word_count": 30,
+      "text": "and being rescheduled i don't have any i don't have any of that information but thank you are there any additional public comments on this section of the administrative code"
+    },
+    {
       "block_id": 57,
       "speaker": "SPEAKER_06",
       "category": "commenter_candidate",
@@ -130,6 +701,17 @@
       "text": "a question in regards to the um the board's commission and authorities is there any way that we could add like right next to um the title the number of how many are per members. For example the airport authority is there five members is it 10 members."
     },
     {
+      "block_id": 58,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 3231.82,
+      "end": 3282.62,
+      "duration_s": 50.8,
+      "segment_count": 12,
+      "word_count": 164,
+      "text": "You could but I wouldn't recommend it because those could change over time. One of the things that one of the things that you want to be conscious of in drafting legislation is that if you make changes that now require changes elsewhere and they're not caught it creates ambiguity. so I mean you're going to you have ordinances in place for every board and commission or you have the organizational documents that sets forth what their membership is I think that could be done on the website as a better location rather than in the ordinance to avoid a potential change if if something happens and you know if you have a vacancy does that mean we have original appointments of five what's the number mean next to it but those are you could do it I'm just giving you my my gut reaction as to why I might not choose to do that. But you theoretically could if council wanted it's the"
+    },
+    {
       "block_id": 59,
       "speaker": "SPEAKER_06",
       "category": "commenter_candidate",
@@ -139,6 +721,61 @@
       "segment_count": 3,
       "word_count": 28,
       "text": "question is actually being questioned by a community member that wanted to know why the numbers of members are not there. So that's that's something I would probably"
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 3293.18,
+      "end": 3311.58,
+      "duration_s": 18.4,
+      "segment_count": 6,
+      "word_count": 56,
+      "text": "agree with Mr. Hamburger that the Web site would be an easier way for community members to access that information. That's a very good idea. And also and knowing that we can change it by ordinance it could change at any time and much easier to go back and change a website than changing this document."
+    },
+    {
+      "block_id": 61,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 3311.58,
+      "end": 3335.16,
+      "duration_s": 23.6,
+      "segment_count": 9,
+      "word_count": 78,
+      "text": "One other thing I would note is that this sets forth a new procedure for keeping track of who might be interested. So we we are going to have a nomination platform similar to what we did for the ethics commission. And so that would be for each board and a registry is what we're calling it. That would be a very good place to keep that information number of the number of positions that each one has."
+    },
+    {
+      "block_id": 62,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 3335.46,
+      "end": 3354.51,
+      "duration_s": 19.1,
+      "segment_count": 3,
+      "word_count": 35,
+      "text": "Any additional comments from the public on this section of the Administrative Code? Hearing none, we'll close public comment and we have reached the end of our agenda. Counselors, I'll hear a motion to adjourn."
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_01",
+      "category": "recurring",
+      "start": 3355.3,
+      "end": 3355.92,
+      "duration_s": 0.6,
+      "segment_count": 1,
+      "word_count": 3,
+      "text": "Motion to adjourn."
+    },
+    {
+      "block_id": 64,
+      "speaker": "SPEAKER_04",
+      "category": "recurring",
+      "start": 3357.35,
+      "end": 3361.27,
+      "duration_s": 3.9,
+      "segment_count": 5,
+      "word_count": 15,
+      "text": "We have a motion and a second. All in favor? Aye. Thank you. We're adjourned."
     }
   ]
 }
