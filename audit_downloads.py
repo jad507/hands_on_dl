@@ -393,15 +393,19 @@ def fix(out_root: Path, audits: list[Audit]) -> None:
                 print(f"  removing orphan: {o.name}")
                 o.unlink(missing_ok=True)
             needs_redownload.append(a.video_id)
+        elif "NO_AUDIO" in a.issues or "SHORT_AUDIO" in a.issues or "WRONG_AUDIO_FORMAT" in a.issues:
+            # Audio missing/broken but mp4 exists — re-extract without re-downloading.
+            # Checked before NO_TRANSCRIPT so a missing subtitle file doesn't
+            # trigger a full yt-dlp fetch when the mp4 is already on disk.
+            audio_only.append(a.video_id)
         elif "NO_TRANSCRIPT" in a.issues:
             needs_redownload.append(a.video_id)
-        elif "NO_AUDIO" in a.issues or "SHORT_AUDIO" in a.issues or "WRONG_AUDIO_FORMAT" in a.issues:
-            audio_only.append(a.video_id)
 
     if needs_redownload:
         print(f"\nRe-running yt-dlp for {len(needs_redownload)} item(s)...")
         urls = [f"https://www.youtube.com/watch?v={vid}" for vid in needs_redownload]
-        opts = _build_ydl_opts(video_dir, transcript_dir, metadata_dir)
+        archive_file = out_root / "downloaded.txt"
+        opts = _build_ydl_opts(video_dir, transcript_dir, metadata_dir, archive_file)
         with yt_dlp.YoutubeDL(opts) as ydl:
             ydl.download(urls)
 

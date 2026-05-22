@@ -137,19 +137,19 @@ def _build_ydl_opts(
 
 
 def _extract_audio(video_path: Path, audio_path: Path) -> bool:
-    """Extract audio to 16 kHz stereo FLAC. Returns True on success.
+    """Extract audio to 16 kHz mono FLAC using only the left channel.
 
-    FLAC is lossless and ~40% smaller than PCM WAV. Stereo is kept because
-    the custom FFmpeg build's stereo-to-mono downmix (-ac 1) produces garbled
-    output for certain YouTube opus streams; Whisper and pyannote handle stereo
-    natively. PCM/WAV sidesteps codec issues that caused Silero VAD to produce
-    zero segments on raw opus/AAC streams.
+    FLAC is lossless and ~40% smaller than PCM WAV. Left-channel extraction
+    (pan=mono|c0=FL) is used instead of -ac 1 averaging because some YouTube
+    opus streams have phase-inverted stereo (L = -R), which causes -ac 1 to
+    cancel to silence. For council meeting livestreams the audio is a mono
+    broadcast feed duplicated to both channels, so the left channel is complete.
     """
     audio_path.parent.mkdir(parents=True, exist_ok=True)
     cmd = [
         "ffmpeg", "-y", "-loglevel", "error",
         "-i", str(video_path),
-        "-vn", "-ar", "16000", "-f", "flac",
+        "-vn", "-af", "pan=mono|c0=FL", "-ar", "16000", "-f", "flac",
         str(audio_path),
     ]
     result = subprocess.run(cmd, capture_output=True, text=True)
