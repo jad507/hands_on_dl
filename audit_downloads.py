@@ -4,7 +4,7 @@ Audit downloaded playlist artifacts; optionally re-fetch broken items.
 For each video ID found in metadata/, this checks:
   - clean merged video file in videos/  (no '.fNNN.' format-ID suffix)
   - audio file in audio/                (size sanity-checked vs. duration)
-  - at least one srt/vtt transcript in transcripts/
+  - at least one srt/vtt YouTube auto-caption in youtube_transcripts/
 
 Usage:
     python audit_downloads.py --out <path>          # report only
@@ -55,7 +55,7 @@ class Audit:
     merged_video: Path | None = None
     orphans: list[Path] = field(default_factory=list)
     audio: Path | None = None
-    transcripts: list[Path] = field(default_factory=list)
+    youtube_transcripts: list[Path] = field(default_factory=list)
     issues: list[str] = field(default_factory=list)
 
     @property

@@ -3,7 +3,7 @@ Download a YouTube playlist into four parallel folders:
 
     downloads/videos/      -- full merged mp4
     downloads/audio/       -- audio-only m4a (derived from the saved video)
-    downloads/transcripts/ -- YouTube auto-captions (srt/vtt)
+    downloads/youtube_transcripts/ -- YouTube auto-captions (srt/vtt)
     downloads/metadata/    -- yt-dlp .info.json (title, uploader, chapters, etc.)
 
 Every artifact for a given video shares the same base filename
@@ -218,7 +218,7 @@ def main(
 ) -> None:
     video_dir = out_root / "videos"
     audio_dir = out_root / "audio"
-    transcript_dir = out_root / "transcripts"
+    transcript_dir = out_root / "youtube_transcripts"
     metadata_dir = out_root / "metadata"
     for d in (video_dir, audio_dir, transcript_dir, metadata_dir):
         d.mkdir(parents=True, exist_ok=True)
