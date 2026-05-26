@@ -13,7 +13,9 @@ Each JSON file is a list of {"start": float, "end": float, "text": str} objects.
 Usage:
   python audio_pipeline/transcribe.py                            # all files
   python audio_pipeline/transcribe.py --input path/to/file.m4a  # single file
-  python audio_pipeline/transcribe.py --compute-type int8        # fallback if float16 fails
+  python audio_pipeline/transcribe.py --compute-type int8        # lower VRAM, near-equal accuracy
+  python audio_pipeline/transcribe.py --reload-every 1          # reload model every 1 files (default)
+  python audio_pipeline/transcribe.py --reload-every 0           # disable reload
 """
 
 import argparse
@@ -37,6 +39,19 @@ MODEL_NAME = "large-v3"
 OUT_DIR = REPO_ROOT / "downloads" / f"whisper_{MODEL_NAME}"
 
 
+def _gpu_mem_str(reset_peak: bool = False) -> str:
+    """Compact GPU memory line: alloc / reserved / peak-since-last-reset."""
+    import torch
+    if not torch.cuda.is_available():
+        return "CPU mode"
+    alloc   = torch.cuda.memory_allocated()       / 1024**3
+    reserved = torch.cuda.memory_reserved()        / 1024**3
+    peak    = torch.cuda.max_memory_allocated()   / 1024**3
+    if reset_peak:
+        torch.cuda.reset_peak_memory_stats()
+    return f"alloc={alloc:.2f}GB  reserved={reserved:.2f}GB  peak={peak:.2f}GB"
+
+
 def load_model(compute_type: str):
     from faster_whisper import WhisperModel
 
@@ -48,8 +63,13 @@ def load_model(compute_type: str):
         compute_type = "int8"  # float16 not supported on CPU
 
     model = WhisperModel(MODEL_NAME, device=device, compute_type=compute_type)
-    print(f"Model loaded on: {device}")
+    print(f"Model loaded on: {device}  |  {_gpu_mem_str(reset_peak=True)}")
     return model
+
+
+
+
+SENTINEL_FILE = OUT_DIR.parent / "_transcribe_in_progress.txt"
 
 
 def transcribe_file(model, audio_path: Path, out_dir: Path) -> bool:
@@ -60,6 +80,12 @@ def transcribe_file(model, audio_path: Path, out_dir: Path) -> bool:
         print(f"  Already done, skipping: {out_path.name}")
         return False
 
+    # Write sentinel before entering CTranslate2. If the process is killed by a
+    # native crash (STATUS_STACK_BUFFER_OVERRUN), this file survives and records
+    # exactly which file caused it — the log's tee buffer may not flush in time.
+    SENTINEL_FILE.write_text(str(audio_path), encoding="utf-8")
+
+    print(f"  GPU before: {_gpu_mem_str()}")
     print(f"  Transcribing (this may take a while)...")
     t0 = time.perf_counter()
     segments, info = model.transcribe(
@@ -80,6 +106,8 @@ def transcribe_file(model, audio_path: Path, out_dir: Path) -> bool:
         })
 
     out_path.write_text(json.dumps(result, indent=2, ensure_ascii=False))
+    SENTINEL_FILE.unlink(missing_ok=True)
+
     elapsed = time.perf_counter() - t0
     duration_min = info.duration / 60
     print(f"  Done: {len(result)} segments, audio {duration_min:.1f} min, elapsed {fmt_elapsed(elapsed)}")
@@ -100,6 +128,13 @@ def main():
         default="float16",
         help="Precision (default: float16 for 12GB VRAM; use int8 if float16 errors)",
     )
+    parser.add_argument(
+        "--reload-every", "-r",
+        type=int,
+        default=1,
+        metavar="N",
+        help="Reload model every N transcribed files to flush CUDA fragmentation (0 = never; default: 1)",
+    )
     args = parser.parse_args()
 
     if args.input:
@@ -119,6 +154,13 @@ def main():
         sys.exit(1)
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    if SENTINEL_FILE.exists():
+        crashed_on = SENTINEL_FILE.read_text(encoding="utf-8").strip()
+        print(f"WARNING: previous run crashed mid-transcription on: {crashed_on}")
+        print(f"  (sentinel: {SENTINEL_FILE})")
+        SENTINEL_FILE.unlink()
+
     print(f"Files to transcribe: {len(audio_files)}")
     print(f"Output directory: {OUT_DIR}")
 
@@ -128,12 +170,26 @@ def main():
     n_done = n_skipped = n_errors = 0
 
     for audio_path in audio_files:
-        ts = now_str()
-        print(f"\n[{ts}] Processing: {audio_path.name}")
+        # Reload model every N transcribed files to flush CUDA memory fragmentation.
+        # del must happen in this scope — the last reference to the old model lives here,
+        # so gc.collect() only frees it after we del in main(), not inside a helper.
+        if args.reload_every > 0 and n_done > 0 and n_done % args.reload_every == 0:
+            import torch
+            print(f"\n[{now_str()}] Reloading model after {n_done} files to flush CUDA fragmentation")
+            print(f"  before unload: {_gpu_mem_str()}")
+            del model
+            gc.collect()
+            if torch.cuda.is_available():
+                torch.cuda.empty_cache()
+            print(f"  after  unload: {_gpu_mem_str()}")
+            model = load_model(args.compute_type)
+
+        print(f"\n[{now_str()}] Processing: {audio_path.name}")
         try:
             did_work = transcribe_file(model, audio_path, OUT_DIR)
             if did_work:
                 n_done += 1
+                print(f"  GPU: {_gpu_mem_str(reset_peak=True)}")
             else:
                 n_skipped += 1
         except Exception:
