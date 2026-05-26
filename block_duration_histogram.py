@@ -4,7 +4,10 @@ Useful for deciding duration-based cutoffs as a proxy for public commenter block
 """
 
 import json
+import time
 from pathlib import Path
+
+from pipeline_utils import fmt_elapsed, now_str
 
 REPO_ROOT    = Path(__file__).parent
 METADATA_DIR = REPO_ROOT / "downloads" / "metadata"
@@ -47,8 +50,9 @@ def get_video_list() -> list[tuple[str, str, str]]:
 
 
 def main():
+    t0 = time.perf_counter()
     videos = get_video_list()
-    print(f"Scanning {len(videos)} videos...")
+    print(f"[{now_str()}] Scanning {len(videos)} videos...")
 
     durations = []
     missing = []
@@ -100,7 +104,7 @@ def main():
     print("\n" + output)
 
     OUTPUT_FILE.write_text(output + "\n", encoding="utf-8")
-    print(f"\nWrote to {OUTPUT_FILE}")
+    print(f"\nWrote to {OUTPUT_FILE}  [{fmt_elapsed(time.perf_counter() - t0)}]")
 
 
 if __name__ == "__main__":

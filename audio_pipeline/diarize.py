@@ -26,6 +26,7 @@ import argparse
 import json
 import os
 import sys
+import time
 import traceback
 from pathlib import Path
 
@@ -36,6 +37,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 REPO_ROOT = Path(__file__).parent.parent
+sys.path.insert(0, str(REPO_ROOT))
+from pipeline_utils import fmt_elapsed, now_str  # noqa: E402
 AUDIO_DIR = REPO_ROOT / "downloads" / "audio"
 OUT_STANDARD = REPO_ROOT / "downloads" / "pyannote_community-1_standard"
 OUT_EXCLUSIVE = REPO_ROOT / "downloads" / "pyannote_community-1_exclusive"
@@ -108,7 +111,8 @@ def write_rttm(annotation, audio_path: Path, out_path: Path):
             )
 
 
-def process_file(pipeline, audio_path: Path, mode: str):
+def process_file(pipeline, audio_path: Path, mode: str) -> bool:
+    """Run diarization for the given file/mode. Returns True if work was done, False if skipped."""
     std_rttm = OUT_STANDARD / f"{audio_path.stem}.rttm"
     std_stats = OUT_STANDARD / f"{audio_path.stem}_stats.json"
     excl_rttm = OUT_EXCLUSIVE / f"{audio_path.stem}.rttm"
@@ -119,9 +123,7 @@ def process_file(pipeline, audio_path: Path, mode: str):
 
     if not need_standard and not need_exclusive:
         print(f"  Both modes already done, skipping.")
-        return
-
-    print(f"\nProcessing: {audio_path.name}")
+        return False
 
     print(f"  Loading audio...")
     try:
@@ -129,7 +131,7 @@ def process_file(pipeline, audio_path: Path, mode: str):
     except Exception:
         print(f"  ERROR loading audio:")
         traceback.print_exc()
-        return
+        return True  # attempted work
 
     print(f"  Running diarization pipeline...")
     try:
@@ -137,7 +139,7 @@ def process_file(pipeline, audio_path: Path, mode: str):
     except Exception:
         print(f"  ERROR during diarization:")
         traceback.print_exc()
-        return
+        return True  # attempted work
 
     std_annotation = result.speaker_diarization
     excl_annotation = result.exclusive_speaker_diarization
@@ -167,6 +169,8 @@ def process_file(pipeline, audio_path: Path, mode: str):
         except Exception:
             print(f"  [exclusive] ERROR writing output:")
             traceback.print_exc()
+
+    return True
 
 
 def main():
@@ -205,10 +209,28 @@ def main():
 
     pipeline = load_pipeline()
 
-    for audio_path in audio_files:
-        process_file(pipeline, audio_path, args.mode)
+    total_start = time.perf_counter()
+    n_done = n_skipped = n_errors = 0
 
-    print("\nDone.")
+    for audio_path in audio_files:
+        print(f"\n[{now_str()}] Processing: {audio_path.name}")
+        t0 = time.perf_counter()
+        try:
+            did_work = process_file(pipeline, audio_path, args.mode)
+            elapsed = time.perf_counter() - t0
+            if did_work:
+                n_done += 1
+                print(f"  Elapsed: {fmt_elapsed(elapsed)}")
+            else:
+                n_skipped += 1
+        except Exception:
+            print(f"  ERROR on {audio_path.name}:")
+            traceback.print_exc()
+            n_errors += 1
+
+    total_elapsed = time.perf_counter() - total_start
+    print(f"\nSummary: {n_done} processed, {n_skipped} skipped, {n_errors} errors")
+    print(f"Total time: {fmt_elapsed(total_elapsed)}")
 
 
 if __name__ == "__main__":

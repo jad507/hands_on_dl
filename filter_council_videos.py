@@ -5,7 +5,10 @@ Output is written to a text file (one title per line).
 
 import argparse
 import json
+import time
 from pathlib import Path
+
+from pipeline_utils import fmt_elapsed, now_str
 
 # Assume the script is run from the project root (hands_on_dl).
 PROJECT_ROOT = Path.cwd()
@@ -35,8 +38,9 @@ def main():
                         help="Append [YouTubeID] to each title (matches transcript/diarization filenames)")
     args = parser.parse_args()
 
+    t0 = time.perf_counter()
     files = list(METADATA_DIR.glob("*.info.json"))
-    print(f"Scanning {len(files)} metadata files...")
+    print(f"[{now_str()}] Scanning {len(files)} metadata files...")
 
     matches = []
     for path in files:
@@ -67,7 +71,7 @@ def main():
         for upload_date, label in matches:
             f.write(f"{upload_date}  {label}\n")
 
-    print(f"\nWrote {len(matches)} entries to {OUTPUT_FILE}")
+    print(f"\nWrote {len(matches)} entries to {OUTPUT_FILE}  [{fmt_elapsed(time.perf_counter() - t0)}]")
 
 
 if __name__ == "__main__":

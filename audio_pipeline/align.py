@@ -32,11 +32,14 @@ Usage:
 import argparse
 import json
 import sys
+import time
 import traceback
 from collections import defaultdict
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).parent.parent
+sys.path.insert(0, str(REPO_ROOT))
+from pipeline_utils import fmt_elapsed, now_str  # noqa: E402
 AUDIO_DIR = REPO_ROOT / "downloads" / "audio"
 WHISPER_DIR = REPO_ROOT / "downloads" / "whisper_large-v3"
 RTTM_DIRS = {
@@ -113,7 +116,7 @@ def align_file(stem: str, rttm_mode: str) -> bool:
         return False
     if out_path.exists():
         print(f"  [{rttm_mode}] Already done, skipping.")
-        return True
+        return False
 
     whisper_segments = json.loads(whisper_path.read_text(encoding="utf-8"))
     rttm_entries = load_rttm(rttm_path)
@@ -210,16 +213,31 @@ def main():
     print(f"Files to align: {len(stems)}")
     print(f"Modes: {', '.join(modes)}")
 
+    total_start = time.perf_counter()
+    n_done = n_skipped = n_errors = 0
+
     for stem in stems:
-        print(f"\n{stem[:60]}...")
+        print(f"\n[{now_str()}] {stem[:80]}...")
+        t0 = time.perf_counter()
+        stem_did_work = False
         for mode in modes:
             try:
-                align_file(stem, mode)
+                did_work = align_file(stem, mode)
+                if did_work:
+                    n_done += 1
+                    stem_did_work = True
+                else:
+                    n_skipped += 1
             except Exception:
                 print(f"  [{mode}] ERROR:")
                 traceback.print_exc()
+                n_errors += 1
+        if stem_did_work:
+            print(f"  Elapsed: {fmt_elapsed(time.perf_counter() - t0)}")
 
-    print("\nDone.")
+    total_elapsed = time.perf_counter() - total_start
+    print(f"\nSummary: {n_done} aligned, {n_skipped} skipped, {n_errors} errors")
+    print(f"Total time: {fmt_elapsed(total_elapsed)}")
 
 
 if __name__ == "__main__":

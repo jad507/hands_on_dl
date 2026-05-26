@@ -21,6 +21,7 @@ import gc
 import json
 import os
 import sys
+import time
 import traceback
 from pathlib import Path
 
@@ -29,6 +30,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 REPO_ROOT = Path(__file__).parent.parent
+sys.path.insert(0, str(REPO_ROOT))
+from pipeline_utils import fmt_elapsed, now_str  # noqa: E402
 AUDIO_DIR = REPO_ROOT / "downloads" / "audio"
 MODEL_NAME = "large-v3"
 OUT_DIR = REPO_ROOT / "downloads" / f"whisper_{MODEL_NAME}"
@@ -50,13 +53,15 @@ def load_model(compute_type: str):
 
 
 def transcribe_file(model, audio_path: Path, out_dir: Path) -> bool:
+    """Transcribe one file. Returns True if work was done, False if skipped."""
     out_path = out_dir / f"{audio_path.stem}.json"
 
     if out_path.exists():
         print(f"  Already done, skipping: {out_path.name}")
-        return True
+        return False
 
     print(f"  Transcribing (this may take a while)...")
+    t0 = time.perf_counter()
     segments, info = model.transcribe(
         str(audio_path),
         beam_size=10,
@@ -75,8 +80,9 @@ def transcribe_file(model, audio_path: Path, out_dir: Path) -> bool:
         })
 
     out_path.write_text(json.dumps(result, indent=2, ensure_ascii=False))
+    elapsed = time.perf_counter() - t0
     duration_min = info.duration / 60
-    print(f"  Done: {len(result)} segments, audio {duration_min:.1f} min")
+    print(f"  Done: {len(result)} segments, audio {duration_min:.1f} min, elapsed {fmt_elapsed(elapsed)}")
     print(f"  Written: {out_path.name}")
     return True
 
@@ -118,13 +124,26 @@ def main():
 
     model = load_model(args.compute_type)
 
+    total_start = time.perf_counter()
+    n_done = n_skipped = n_errors = 0
+
     for audio_path in audio_files:
-        print(f"\nProcessing: {audio_path.name}")
+        ts = now_str()
+        print(f"\n[{ts}] Processing: {audio_path.name}")
         try:
-            transcribe_file(model, audio_path, OUT_DIR)
+            did_work = transcribe_file(model, audio_path, OUT_DIR)
+            if did_work:
+                n_done += 1
+            else:
+                n_skipped += 1
         except Exception:
             print(f"  ERROR on {audio_path.name}:")
             traceback.print_exc()
+            n_errors += 1
+
+    total_elapsed = time.perf_counter() - total_start
+    print(f"\nSummary: {n_done} transcribed, {n_skipped} skipped, {n_errors} errors")
+    print(f"Total time: {fmt_elapsed(total_elapsed)}")
 
     # Explicitly release CUDA resources before exit to avoid CTranslate2 destructor crash
     # on Windows (STATUS_STACK_BUFFER_OVERRUN / exit -1073740791).
@@ -134,7 +153,6 @@ def main():
     if torch.cuda.is_available():
         torch.cuda.empty_cache()
 
-    print("\nDone.")
     os._exit(0)
 
 

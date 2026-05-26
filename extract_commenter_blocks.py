@@ -9,7 +9,10 @@ Output naming:
 """
 
 import json
+import time
 from pathlib import Path
+
+from pipeline_utils import fmt_elapsed, now_str
 
 BASE_DIR       = Path.cwd()
 DOWNLOADS_DIR  = BASE_DIR / "downloads"
@@ -62,7 +65,8 @@ def main():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     videos = get_video_list()
-    print(f"Processing {len(videos)} videos...\n")
+    print(f"[{now_str()}] Processing {len(videos)} videos...\n")
+    t0 = time.perf_counter()
 
     for upload_date, title, video_id in videos:
         filename = f"{title} [{video_id}].json"
@@ -128,7 +132,7 @@ def main():
             n = len(data["blocks"])
             print(f"  [{mode.upper()[:4]}]  {base_name}  ({n} blocks, only this mode found)")
 
-    print(f"\nDone. Output in: {OUTPUT_DIR}")
+    print(f"\nDone. Output in: {OUTPUT_DIR}  [{fmt_elapsed(time.perf_counter() - t0)}]")
 
 
 if __name__ == "__main__":

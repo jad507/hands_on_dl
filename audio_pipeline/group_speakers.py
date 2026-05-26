@@ -65,10 +65,13 @@ Usage:
 import argparse
 import json
 import sys
+import time
 import traceback
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).parent.parent
+sys.path.insert(0, str(REPO_ROOT))
+from pipeline_utils import fmt_elapsed, now_str  # noqa: E402
 ALIGNED_DIRS = {
     "standard": REPO_ROOT / "downloads" / "aligned_standard",
     "exclusive": REPO_ROOT / "downloads" / "aligned_exclusive",
@@ -194,7 +197,7 @@ def group_file(
         return False
     if out_path.exists():
         print(f"  [{mode}] Already done, skipping.")
-        return True
+        return False
 
     data = json.loads(aligned_path.read_text(encoding="utf-8"))
     segments = data["segments"]
@@ -303,21 +306,36 @@ def main():
           f"recurring_threshold={args.recurring_threshold}s, "
           f"avg_segment_threshold={args.avg_segment_threshold}s")
 
+    total_start = time.perf_counter()
+    n_done = n_skipped = n_errors = 0
+
     for stem in stems:
-        print(f"\n{stem[:60]}...")
+        print(f"\n[{now_str()}] {stem[:80]}...")
+        t0 = time.perf_counter()
+        stem_did_work = False
         for mode in modes:
             try:
-                group_file(
+                did_work = group_file(
                     stem, mode,
                     max_gap_s=args.max_gap,
                     recurring_threshold_s=args.recurring_threshold,
                     avg_segment_threshold_s=args.avg_segment_threshold,
                 )
+                if did_work:
+                    n_done += 1
+                    stem_did_work = True
+                else:
+                    n_skipped += 1
             except Exception:
                 print(f"  [{mode}] ERROR:")
                 traceback.print_exc()
+                n_errors += 1
+        if stem_did_work:
+            print(f"  Elapsed: {fmt_elapsed(time.perf_counter() - t0)}")
 
-    print("\nDone.")
+    total_elapsed = time.perf_counter() - total_start
+    print(f"\nSummary: {n_done} grouped, {n_skipped} skipped, {n_errors} errors")
+    print(f"Total time: {fmt_elapsed(total_elapsed)}")
 
 
 if __name__ == "__main__":
