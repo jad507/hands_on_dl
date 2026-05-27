@@ -22,8 +22,8 @@ from llama_cpp import Llama
 
 MODEL_PATH          = r"D:\LLM\bartowski\Qwen_Qwen3.5-9B-Q6_K_L.gguf"
 COMMENTS_DIR        = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\comments"
-PUBLIC_COMMENTS_DIR = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\public_comments"
-ANALYSIS_PATH       = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\topic_analysis.json"
+PUBLIC_COMMENTS_DIR = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\bartowski\Qwen_Qwen3.5-9B-Q6_K_L\public_comments"
+ANALYSIS_PATH       = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\bartowski\Qwen_Qwen3.5-9B-Q6_K_L\topic_analysis.json"
 
 N_CTX        = 8192
 CHUNK_SIZE   = 50    # blocks per LLM call — keeps each call well within context
