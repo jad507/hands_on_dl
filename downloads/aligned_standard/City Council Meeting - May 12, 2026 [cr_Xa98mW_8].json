@@ -1,6 +1,3372 @@
 {
   "file": "City Council Meeting - May 12, 2026 [cr_Xa98mW_8]",
   "rttm_mode": "standard",
-  "speaker_summary": {},
-  "segments": []
+  "speaker_summary": {
+    "SPEAKER_00": {
+      "total_speech_s": 2687.6,
+      "segment_count": 400,
+      "word_count": 5963
+    },
+    "UNKNOWN": {
+      "total_speech_s": 701.9,
+      "segment_count": 159,
+      "word_count": 1991
+    }
+  },
+  "segments": [
+    {
+      "start": 419.41,
+      "end": 431.59,
+      "text": "Test good evening. I now call to order this May 12th meeting of Council a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 432.34,
+      "end": 436.74,
+      "text": "Few reminders before we begin this meeting and its participants are being live-streamed",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 436.74,
+      "end": 440.6,
+      "text": "So please take this moment to silence your phones and devices if you haven't done so already",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 441.4,
+      "end": 447.06,
+      "text": "Tonight is a regular meeting of counsel. There will be a general public comment period on the agenda first",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 447.06,
+      "end": 455.36,
+      "text": "We will hear from residents who have contacted the city clerk prior and then we will open it up to other comments of Council",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 455.68,
+      "end": 460.18,
+      "text": "about their comment from the public all speakers must begin with their name and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 460.18,
+      "end": 463.6,
+      "text": "block of residence for the meeting record and comments are limited to three",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 463.6,
+      "end": 468.14,
+      "text": "minutes to keep time we will use this light it will turn green when the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 468.14,
+      "end": 473.0,
+      "text": "speaker begins yellow when there is one minute remaining and red when three",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 473.0,
+      "end": 477.64,
+      "text": "minutes have been exhausted thank you to everyone advance for ensuring equal time",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 477.64,
+      "end": 483.58,
+      "text": "for all before we begin I would also like to make an announcement that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 483.58,
+      "end": 488.08,
+      "text": "resolution number 48 recognizing Asian American Native Hawaiian and Pacific",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 488.08,
+      "end": 493.96,
+      "text": "Islander Heritage Month will be taking up at our May 26th meeting of Council so",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 493.96,
+      "end": 499.7,
+      "text": "we can have more participation from our local AAPI community and with that all",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 499.7,
+      "end": 520.79,
+      "text": "those who are willing and able please rise for the Pledge of Allegiance mr.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 520.79,
+      "end": 525.32,
+      "text": "Harris will you please call the roll of members yes mr. president",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 525.32,
+      "end": 532.93,
+      "text": "Ms. Gastineau? Here. Ms. Holland-Jones? Here. Mr. Hirsch? Here. Ms. Majan? Here.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 532.93,
+      "end": 539.56,
+      "text": "Mr. Miller? Here. Mr. Salsfus? Here. And President Met? Here. We will now have the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 539.56,
+      "end": 547.0,
+      "text": "approval of the meeting minutes. Motion to approve. Second. Are there any council",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 547.0,
+      "end": 560.03,
+      "text": "comments on the minutes? Hearing none, Mr. Harris? Ms. Gastineau? Aye. Ms. Holland-Jones?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 560.03,
+      "end": 567.83,
+      "text": "Aye, mr. Hirsch. Aye, mr. John. Aye. Mr. Miller. Aye. Mr. Stossel's. Aye. I'm president met. Aye",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 568.99,
+      "end": 575.3,
+      "text": "That brings us to proclamations honors awards and resolutions of recognition. Mr. Harris. Do we have any of those this evening?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 575.88,
+      "end": 579.46,
+      "text": "We do mr. President. We we have for this evening",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 581.18,
+      "end": 582.62,
+      "text": "first is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 582.62,
+      "end": 584.62,
+      "text": "resolution number 43",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 584.78,
+      "end": 586.98,
+      "text": "Resolution of the City Council the City of Lancaster",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 587.74,
+      "end": 588.98,
+      "text": "Recognizing May",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 588.98,
+      "end": 590.98,
+      "text": "2026 is bike month in the city of Lancaster",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 592.86,
+      "end": 595.35,
+      "text": "motion to approve",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 595.35,
+      "end": 597.31,
+      "text": "second",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 597.31,
+      "end": 601.71,
+      "text": "Councilors we have a motion and a second and this is being introduced by Vice President Hirsch",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 602.31,
+      "end": 606.27,
+      "text": "Thank You counts president. I'm always honored to introduce a resolution",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 607.15,
+      "end": 609.63,
+      "text": "Recognizing May is bike month in the city of Lancaster",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 609.63,
+      "end": 611.97,
+      "text": "I won't read the full resolution",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 611.97,
+      "end": 620.19,
+      "text": "But it discusses the economic communal environmental benefits bicycling has for our residents and for our community and the city's commitment to vision",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 620.19,
+      "end": 625.23,
+      "text": "zero all the hard work done by staff to advance these and other initiatives to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 625.23,
+      "end": 629.01,
+      "text": "make bicycling a safe and viable transportation option for our residents",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 629.01,
+      "end": 636.09,
+      "text": "the last thing I'll say here is if you go to bike it Lancaster comm slash bike",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 636.09,
+      "end": 640.93,
+      "text": "dash month you'll see a full calendar of events for bike month again that's bike",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 640.93,
+      "end": 647.57,
+      "text": "it Lancaster comm slash bike dash month tonight I've invited three guests to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 647.57,
+      "end": 651.81,
+      "text": "briefly speak on this resolution and there will be opportunity for public",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 651.81,
+      "end": 656.25,
+      "text": "comment as well obviously but first I'd like to introduce Laura Pauls Thomas",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 656.25,
+      "end": 660.77,
+      "text": "many of you know Laura's work through the ride roll and stroll initiative or",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 660.77,
+      "end": 665.41,
+      "text": "as a volunteer on the city's vision zero implementation coordinating committee",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 665.41,
+      "end": 670.17,
+      "text": "this year however Laura was given the League of American bicyclists emerging",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 670.17,
+      "end": 676.93,
+      "text": "leader of the Year award at the 2026 National Bike Summit in Washington DC",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 676.93,
+      "end": 694.96,
+      "text": "earlier this year so in congratulations Laura please good evening council good",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 694.96,
+      "end": 702.82,
+      "text": "evening mayor and everyone who's here happy National Bike Month it's the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 702.82,
+      "end": 708.4,
+      "text": "really the honor of a lifetime to win this national award in Washington DC in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 708.4,
+      "end": 716.2,
+      "text": "March and now I'm really happy to be here in my community celebrating a 2026",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 716.2,
+      "end": 722.3,
+      "text": "bike month resolution, surrendered by friends and colleagues. Thanks for coming out tonight.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 723.3,
+      "end": 730.6,
+      "text": "No one ever achieves this sort of national recognition on their own. And to paraphrase",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 730.6,
+      "end": 738.56,
+      "text": "Kamala Harris's viral quote in 2023, I didn't fall out of a coconut tree. I exist in the context of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 738.56,
+      "end": 746.43,
+      "text": "all in which I live and what and who came before me. So today I want to thank city staff,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 746.61,
+      "end": 754.51,
+      "text": "past and present, as well as elected officials, advocates, nonprofit leaders, and bicycling",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 754.51,
+      "end": 760.29,
+      "text": "champions throughout Lancaster County for their persistent efforts to make Lancaster the bicycle",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 760.29,
+      "end": 768.04,
+      "text": "friendly community it is today. Your work has had an impact on my everyday life. I ride my bike in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 768.04,
+      "end": 775.1,
+      "text": "the city almost every day for transportation year round. I can't imagine living in a city where I'm",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 775.1,
+      "end": 781.54,
+      "text": "forced to drive everywhere. Life is better when we're more healthy, joyful, and connected.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 782.58,
+      "end": 788.72,
+      "text": "Urban bicycling helps us do that. Having infrastructure that protects us and keeps us",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 788.72,
+      "end": 796.08,
+      "text": "safe helps us do that. I use the Lemon Street protected bike lane almost every single time",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 796.08,
+      "end": 802.98,
+      "text": "I'm biking, and I routinely go a block or two out of my way to use the bike lanes in our city.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 802.98,
+      "end": 811.1,
+      "text": "The infrastructure reassures me that a distracted or aggressive driver's mistake won't injure or",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 811.1,
+      "end": 819.11,
+      "text": "kill me. We all make mistakes. Good infrastructure and street design can make it so that one person's",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 819.11,
+      "end": 825.67,
+      "text": "mistake while driving, biking, or walking doesn't have to end in someone's serious injury or death.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 826.39,
+      "end": 831.93,
+      "text": "I encourage the City of Lancaster to continue building bike infrastructure to support safety",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 831.93,
+      "end": 838.73,
+      "text": "for all road users i hope the city can continue collaborating with the community with advocates",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 838.73,
+      "end": 845.42,
+      "text": "and non-profit groups to ensure projects meet the needs of our community together we can take",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 845.42,
+      "end": 858.11,
+      "text": "courageous action for more joyful connected and bicycle friendly lancaster thank you council i'd",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 858.11,
+      "end": 863.31,
+      "text": "also like to welcome up two other residents i've invited this evening daniel gingrich and",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 863.31,
+      "end": 869.55,
+      "text": "dan laubach to share their experiences on how the bike infrastructure that the city has continued to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 869.55,
+      "end": 875.63,
+      "text": "invest in has made a difference in their lives and is something that they've appreciated because",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 876.19,
+      "end": 881.23,
+      "text": "you know we certainly hear a lot of the negative comments about our bike lanes but there's a reason",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 881.23,
+      "end": 885.71,
+      "text": "we're investing in this infrastructure and i just wanted to invite them to share more about that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 885.71,
+      "end": 894.03,
+      "text": "so uh daniel and dan if you want to come up and um offer up your um what you'd like to say thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 897.6,
+      "end": 903.84,
+      "text": "hello my name is daniel ginrick and i live on the 500 block of north plum street",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 904.4,
+      "end": 912.96,
+      "text": "and i also have my grandson kir batar with me and he lives on the 600 block of west walnut street",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 912.96,
+      "end": 921.36,
+      "text": "and I bike to work every day I serve as an ESL teacher at the Alpha and Omega",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 921.36,
+      "end": 927.18,
+      "text": "Community Center on the southwest side of the city so I go from the northeast",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 927.18,
+      "end": 935.88,
+      "text": "to the southwest and I'm thankful I can ride mostly on the bike lanes in the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 935.88,
+      "end": 944.62,
+      "text": "morning going to work i take walnut street and then i take charlotte street and then i go over",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 944.62,
+      "end": 955.78,
+      "text": "through so we to get to my destination and then coming home i pick up mulberry street up to lemon",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 955.78,
+      "end": 965.56,
+      "text": "and almost to to my to my block so i'm thankful for that ironically one day i took the car",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 965.88,
+      "end": 990.34,
+      "text": "I wasn't paying attention, and it was street cleaning day, and I got a ticket, you know, so, you know, I wasn't paying attention, but I'm thankful for, you know, the increasing attention, the infrastructure here in the city for biking, and I appreciate the bike lanes, and really, we all need to be aware of our surroundings.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 990.34,
+      "end": 996.9,
+      "text": "So, you know, we have the bike lanes. We have to be, you know, we just have to be careful, and I appreciate that.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 997.74,
+      "end": 1007.34,
+      "text": "And Keir is a student at Wharton Elementary School, and two days a week, we bike together.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1007.34,
+      "end": 1016.38,
+      "text": "I come up Walnut Street, meet Keir across from Reynolds Middle School, and then we'll bike.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1016.38,
+      "end": 1026.01,
+      "text": "most of the time is on the bike lane. We go over to College Avenue and then get down to Wharton.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1026.25,
+      "end": 1037.23,
+      "text": "So we appreciate the opportunity to bike here in the city. Next February, we're planning to do a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1037.23,
+      "end": 1044.07,
+      "text": "bike ride on El Camino in Spain. So we're kind of getting ready for that. So thank you for your",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1044.07,
+      "end": 1058.45,
+      "text": "service. Hi, my name is Dan Laubach. Thanks for having me here tonight. About a year ago, my wife",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1058.45,
+      "end": 1064.97,
+      "text": "and I realized we needed to make a major change to our transportation. We had one car, and while",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1064.97,
+      "end": 1069.97,
+      "text": "she loves running and biking the seven miles to work, it's not feasible for her to do five days",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1069.97,
+      "end": 1075.83,
+      "text": "a week. And my four-year-old and I needed to get about two, two and a half miles to his new",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1075.83,
+      "end": 1081.43,
+      "text": "preschool that he started in the fall. So we realized that we either needed to spend ten plus",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1081.43,
+      "end": 1085.45,
+      "text": "thousand dollars on a second used car plus registration and insurance and gas",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1085.45,
+      "end": 1091.57,
+      "text": "etc or we could buy a cargo e-bike which because of the bicycle infrastructure in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1091.57,
+      "end": 1096.55,
+      "text": "the city I felt like I found a path using back roads a little bit of",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1096.55,
+      "end": 1100.51,
+      "text": "unprotected bike lanes and majority protected bike lanes on walnut and lemon",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1100.51,
+      "end": 1103.75,
+      "text": "that I felt very safe and very comfortable using with my four-year-old",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1103.75,
+      "end": 1111.03,
+      "text": "and so in the last year we've put 1,400 miles on the e-bike mostly on the bike",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1111.03,
+      "end": 1117.69,
+      "text": "lanes here in the city just some quick math for you 70 some cents per mile is",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1117.69,
+      "end": 1121.59,
+      "text": "the federal you know reimbursement rate so that's about a thousand dollars we've",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1121.59,
+      "end": 1124.91,
+      "text": "saved this year just because of the bicycle infrastructure that the city has",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1124.91,
+      "end": 1128.37,
+      "text": "so thank you again not to mention all of the other money we would have spent on",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1128.37,
+      "end": 1132.63,
+      "text": "the car and not to mention how much more fun it is biking than it is driving",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1132.63,
+      "end": 1137.77,
+      "text": "around and we're not the only ones we oftentimes pass or bike bike pool with",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1137.77,
+      "end": 1141.19,
+      "text": "other friends on the way to preschool as well using those lanes so thank you for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1141.19,
+      "end": 1152.21,
+      "text": "all you do thank you all so much are there any other council comments on",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1152.21,
+      "end": 1159.0,
+      "text": "the resolution I would just like to thank all of our bike enthusiasts here",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1159.0,
+      "end": 1162.96,
+      "text": "in the city of Lancaster for all the advocacy you do because when we advocate",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1162.96,
+      "end": 1167.52,
+      "text": "for bikes we also advocate for pedestrians as well as mass transit and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1167.52,
+      "end": 1176.86,
+      "text": "safe streets for all hearing none mr. Harris Oh any further comments from the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1176.86,
+      "end": 1184.1,
+      "text": "public? Yep, feel free to come around up to the microphone. Please start with your name and block",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1184.1,
+      "end": 1192.3,
+      "text": "of residence. Yes, hi, I'm Chad Ostrowski. I live on the 600 block of State Street. A year ago when",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1192.3,
+      "end": 1200.74,
+      "text": "we were living on James Street near LGH, I started taking my older two kids, you can see Anyan, Ezra",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1200.74,
+      "end": 1205.2,
+      "text": "in the back there. You want to wave for everyone? They don't want to wave. They're feeling a little",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1205.2,
+      "end": 1212.42,
+      "text": "shy. Anyway, we started going down to County Park Pool on the cargo e-bike about once a week for a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1212.42,
+      "end": 1219.18,
+      "text": "little while there. Going to the pool in a car feels like a whole thing, but on an e-bike, I just",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1219.18,
+      "end": 1223.66,
+      "text": "threw what we needed in the little basket. The kids wrote on the back. I didn't even bring a",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1223.66,
+      "end": 1228.74,
+      "text": "towel for myself. When we leave the pool, I just throw my linen shirt back on and air dry on the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1228.74,
+      "end": 1236.26,
+      "text": "way home um one day when we were at the pool storm clouds started rolling in and they evacuated",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1236.26,
+      "end": 1242.2,
+      "text": "everyone uh and all our friends you know everyone everyone rushes out of the pool before the storm",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1242.2,
+      "end": 1249.0,
+      "text": "comes in all our friends get in their cars guess who gets stuck in the rain on the way home",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1249.0,
+      "end": 1256.61,
+      "text": "everyone except us everyone driving had to like run through from their car to the house and get",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1256.61,
+      "end": 1263.07,
+      "text": "kids out of the car seats we beat them all back lancaster is such a great biking city and it's",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1263.07,
+      "end": 1269.31,
+      "text": "such a good size for biking that we made it back before everyone and stayed dry god got under the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1269.31,
+      "end": 1274.01,
+      "text": "balcony where we were parking just as the rain started to as the raindrops started to get big",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1274.01,
+      "end": 1280.81,
+      "text": "so i we love that little christian street route right down to the county park pool coming back",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1280.81,
+      "end": 1285.15,
+      "text": "it's a little weirder you know christian streets too narrow and one way it spots but",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1285.15,
+      "end": 1290.53,
+      "text": "still great biking infrastructure here thank you for all the protected bike lanes and all the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1290.53,
+      "end": 1304.06,
+      "text": "streets like christian street that allow us to get around this way good evening council",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1304.06,
+      "end": 1311.7,
+      "text": "my name is emily wilson i am a full-time bike commuter vulnerable road user advocate and uh",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1311.7,
+      "end": 1317.16,
+      "text": "fix it app frequent flyer bike lane issue non-emergency gold medallion status member",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1317.16,
+      "end": 1323.44,
+      "text": "sorry carl um i have a lot to say about biking in lancaster and i but i do really appreciate",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1323.44,
+      "end": 1328.28,
+      "text": "city council, all the city employees. I know you're doing a lot of hard work to make this city",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1328.28,
+      "end": 1333.3,
+      "text": "safer, but I'm not here to complain about painter bollards or leaves in the bike lane tonight. I",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1333.3,
+      "end": 1339.32,
+      "text": "want to talk about joy, specifically bike joy. I was biking home this afternoon and like other",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1339.32,
+      "end": 1345.58,
+      "text": "people said, I went out of my way to hit Lemon Street coming back through town where I live on",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1345.58,
+      "end": 1349.6,
+      "text": "the east side and I was thinking about what I would say tonight because I hadn't prepared",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1349.6,
+      "end": 1355.8,
+      "text": "and i just kept coming back to the idea of joy um so i thought i would share some bike joy that i",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1355.8,
+      "end": 1361.96,
+      "text": "have uh seeing friends out and about nearly every time i bike through the city smiling and giving",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1361.96,
+      "end": 1369.16,
+      "text": "thumbs up to kids on bikes especially those with helmets going the right way down one ways um",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1369.16,
+      "end": 1374.56,
+      "text": "watching the tree uh the trees green up in the spring getting caught in summer storms but then",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1374.56,
+      "end": 1382.0,
+      "text": "also rolling up to your front door just as that summer downpour hits um stopping for pedestrians",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1382.0,
+      "end": 1387.46,
+      "text": "at crosswalks brings me joy helping critters cross the streets safely finding cool stuff on",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1387.46,
+      "end": 1395.81,
+      "text": "trash days not sitting in traffic um never having to do cardio day at the gym so it's the small",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1395.81,
+      "end": 1402.11,
+      "text": "things the uh the minute daily changes and rhythms of this beautiful city uh turns out 10 miles an",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1402.11,
+      "end": 1407.97,
+      "text": "hour really might be the best speed to travel at. It's just also joyful. Biking is a joyful thing.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1408.13,
+      "end": 1415.81,
+      "text": "So thank you to City Council and city employees for supporting Bike Joy this month and every month.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1432.51,
+      "end": 1438.21,
+      "text": "Hello, good evening. My name is Phil Stump Kennedy. I live on the 0100 block of Chester",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1438.21,
+      "end": 1446.16,
+      "text": "Street in southeast Lancaster with my wife and our three children. My name is Oscar Stump Kennedy",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1446.16,
+      "end": 1452.04,
+      "text": "and I am seven years old. We are lucky that most of our travel is within the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1452.04,
+      "end": 1456.62,
+      "text": "city and mostly we do it by bike year-round even in the snow. I have a",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1456.62,
+      "end": 1460.34,
+      "text": "cargo e-bike that my kids and I use to get to school at King Elementary, church",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1460.34,
+      "end": 1465.66,
+      "text": "at St. John's on Chestnut Street, Market, the library, soccer practice at Lancaster",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1465.66,
+      "end": 1469.98,
+      "text": "Community Park, and I also use my bike for work in SOE, though I'm leaving that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1469.98,
+      "end": 1474.72,
+      "text": "role, sorry Amos. I've always appreciated the city's Vision Zero commitment to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1474.72,
+      "end": 1477.96,
+      "text": "making the streets safer for walkers bikers and drivers that's why I joined",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1477.96,
+      "end": 1481.8,
+      "text": "traffic Commission and that's why I we are here today and I want to thank",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1481.8,
+      "end": 1485.1,
+      "text": "council for all of the infrastructure that we have your infrastructure has",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1485.1,
+      "end": 1488.78,
+      "text": "made a huge difference for me and my family in our lives there's no",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1488.78,
+      "end": 1492.1,
+      "text": "replacement for a protected separated bike lane I feel much better traveling",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1492.1,
+      "end": 1495.54,
+      "text": "across town on walnut and lemon with the kids than if I have to go down chestnut",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1495.54,
+      "end": 1500.22,
+      "text": "I asked the council could he to continue investing in this kind of infrastructure",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1500.22,
+      "end": 1503.8,
+      "text": "which is not as developed in Southeast and Southwest.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1503.8,
+      "end": 1507.88,
+      "text": "I want to ride my bike on my own.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1507.88,
+      "end": 1511.12,
+      "text": "Oscar is an excellent cyclist, and I want to let him.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1511.12,
+      "end": 1515.36,
+      "text": "He safely bikes next to me to school on many days,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1515.36,
+      "end": 1516.86,
+      "text": "and I would feel so much better",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1516.86,
+      "end": 1519.04,
+      "text": "if there were more protected routes in our neighborhood.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1519.04,
+      "end": 1521.08,
+      "text": "I worry that many drivers do not have the patience",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1521.08,
+      "end": 1522.7,
+      "text": "to wait behind a seven-year-old,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1522.7,
+      "end": 1524.96,
+      "text": "and I worry that someone may try to pass him too close",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1524.96,
+      "end": 1528.13,
+      "text": "or even not see him if he's biking on his own.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1528.13,
+      "end": 1530.49,
+      "text": "And finally, I wanna talk about e-bikes.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1530.49,
+      "end": 1532.49,
+      "text": "Carrying myself, my two children,",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1532.49,
+      "end": 1534.87,
+      "text": "and their supplies around town is only possible",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1534.87,
+      "end": 1537.62,
+      "text": "because I have a battery and a motor.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1537.62,
+      "end": 1540.2,
+      "text": "I miss biking being my exercise,",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1540.2,
+      "end": 1543.02,
+      "text": "but it's just too practical to have a battery",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1543.02,
+      "end": 1544.64,
+      "text": "and motor to pass it up.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1544.64,
+      "end": 1546.12,
+      "text": "I know lots of people, especially those",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1546.12,
+      "end": 1548.98,
+      "text": "who cannot afford cars, use e-bikes for transportation.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1548.98,
+      "end": 1551.42,
+      "text": "I expect that as gas and other costs go up,",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1551.42,
+      "end": 1553.28,
+      "text": "more people will make this choice.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1553.28,
+      "end": 1554.58,
+      "text": "I think this is great.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1554.58,
+      "end": 1556.52,
+      "text": "E-bikes use less space on the road",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1556.52,
+      "end": 1558.06,
+      "text": "and for parking than cars,",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1558.06,
+      "end": 1559.36,
+      "text": "they have a lower climate impact,",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1559.36,
+      "end": 1560.9,
+      "text": "and they're not as dangerous to pedestrians",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1560.9,
+      "end": 1563.3,
+      "text": "and other road users as cars are.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1563.3,
+      "end": 1564.94,
+      "text": "Expecting e-bike usage to go up,",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1564.94,
+      "end": 1567.12,
+      "text": "Council can work for a safer city for all",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1567.12,
+      "end": 1569.18,
+      "text": "by making sure that those of us who move by bike,",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1569.18,
+      "end": 1570.94,
+      "text": "including e-bike, have a way to get around",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1570.94,
+      "end": 1573.3,
+      "text": "that isn't on the sidewalk.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1573.3,
+      "end": 1574.46,
+      "text": "Finally, I want to thank the Council",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1574.46,
+      "end": 1575.68,
+      "text": "for recognizing Bike Month",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1575.68,
+      "end": 1577.06,
+      "text": "and for the investments you've made.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1577.06,
+      "end": 1579.46,
+      "text": "There's more to be done and I'm happy to be part of it",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1579.46,
+      "end": 1583.14,
+      "text": "as part of Traffic Commission and in many other ways.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1583.14,
+      "end": 1597.23,
+      "text": "Thanks.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1597.23,
+      "end": 1598.83,
+      "text": "Hello, everybody.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1598.83,
+      "end": 1599.67,
+      "text": "This is weird.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1599.67,
+      "end": 1604.15,
+      "text": "Eli Maley, first block of Locust Street.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1604.15,
+      "end": 1608.07,
+      "text": "I bike around the city every day with my eight-year-old",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1608.07,
+      "end": 1611.91,
+      "text": "on my giant orange cargo bike that I built two years ago.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1611.91,
+      "end": 1615.95,
+      "text": "We have about 3,800 miles on that bike,",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1615.95,
+      "end": 1622.39,
+      "text": "and 99% of those miles happened inside the city.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1622.39,
+      "end": 1624.27,
+      "text": "I'm really, like everybody here, I'm",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1624.27,
+      "end": 1628.47,
+      "text": "really grateful for the bicycle infrastructure and safety",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1628.47,
+      "end": 1632.55,
+      "text": "measures, Vision Zero, all of the things that you guys are doing. And I think I also want to speak",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1632.55,
+      "end": 1642.03,
+      "text": "to like it's still harrowing out there on the roads with our bodies and our children. And so",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1642.03,
+      "end": 1647.16,
+      "text": "like I want to applaud you that you've done a great job. And like please keep it up because",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1647.16,
+      "end": 1654.14,
+      "text": "like we need we need all the things. It makes me think of a of a video I watched one time about",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1654.14,
+      "end": 1660.84,
+      "text": "like governments and maintaining roadways and them like we need to keep all of these roads",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1660.84,
+      "end": 1664.84,
+      "text": "clear this was in winter time because they were like the worst thing that can happen to our",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1664.84,
+      "end": 1673.46,
+      "text": "infrastructure is for people that were using their bikes to get in their cars and so i want to make",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1673.46,
+      "end": 1679.14,
+      "text": "that clear um also like phil i want to speak to e-bikes i know that sort of nationally there's",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1679.14,
+      "end": 1687.5,
+      "text": "a lot of like choking down on um uh e-bike legislation or something and i think that i",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1687.5,
+      "end": 1693.42,
+      "text": "want to like when we think of e-bikes i want to conjure an image of parents biking with their",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1693.42,
+      "end": 1699.9,
+      "text": "children and carrying their groceries rather than an image of uh that just happened to me today",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1699.9,
+      "end": 1706.54,
+      "text": "um an e-bike like wheeling through traffic like i think so i think that it's both but i i am",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1706.54,
+      "end": 1716.14,
+      "text": "concerned about um legislation tightening down without seeing both images um so yeah i i really",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1716.14,
+      "end": 1720.94,
+      "text": "appreciate you guys recognizing this and the work that you've done so far and uh thank you for",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1720.94,
+      "end": 1743.1,
+      "text": "having us hi my name is amanda barber i live in the five or the 200 block of north pine street",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1743.1,
+      "end": 1749.58,
+      "text": "with my wife and two kids first off I would like to say thank you to Lancaster",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1749.58,
+      "end": 1754.32,
+      "text": "City for implementing the vision zero program and in prioritizing everyone's",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1754.32,
+      "end": 1759.38,
+      "text": "safety whether they're walking biking driving or using another form of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1759.38,
+      "end": 1764.4,
+      "text": "transportation I live in the northwest end of the city with my wife and two",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1764.4,
+      "end": 1770.04,
+      "text": "kids we are a one-car household and I use our electric cargo bike as our main",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1770.04,
+      "end": 1776.62,
+      "text": "form of transportation. I wouldn't be able to transport my two kids the way I do without the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1776.62,
+      "end": 1781.7,
+      "text": "assistance of the electric motor. You don't realize how hilly the city is until you have",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1781.7,
+      "end": 1788.96,
+      "text": "two kids and a million library books on your bike. My kids and I frequently use the bike lanes in the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1788.96,
+      "end": 1796.49,
+      "text": "city. I intentionally plan our routes to follow the bike lanes or the shero roads. We often take",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1796.49,
+      "end": 1802.23,
+      "text": "the scenic route to get to places that I feel safer biking with the kids. We bike",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1802.23,
+      "end": 1806.39,
+      "text": "to the library at least once a week using the Lemon Street and Walnut Street",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1806.39,
+      "end": 1812.21,
+      "text": "bike lanes. I also frequently use the Christian Street bike road to get to the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1812.21,
+      "end": 1817.85,
+      "text": "County Park programs. Even when it's raining or really cold weather I will",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1817.85,
+      "end": 1821.93,
+      "text": "give the kids a choice of biking or driving and they frequently choose",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1821.93,
+      "end": 1828.14,
+      "text": "biking. Having the cargo bike and the safety of the protected bike lanes gives",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1828.14,
+      "end": 1832.82,
+      "text": "me so much freedom to get around the city with the kids. We have put 1,500",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1832.82,
+      "end": 1838.28,
+      "text": "miles on the bike so far in the last two years. Biking as my main form of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1838.28,
+      "end": 1842.42,
+      "text": "transportation is extremely important to me and my family for many reasons but",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1842.42,
+      "end": 1847.34,
+      "text": "the safety of my kids is even more important. If I didn't feel safe biking",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1847.34,
+      "end": 1851.12,
+      "text": "around Lancaster we would probably have to get a second car so thank you for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1851.12,
+      "end": 1854.72,
+      "text": "making it possible for us to walk and bike safely and I look forward to even",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1854.72,
+      "end": 1866.68,
+      "text": "more safe infrastructure throughout the city. Fern would like to say something.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1866.68,
+      "end": 1877.64,
+      "text": "My name is Fern and I like to bike sometimes I can bike myself but I like",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1877.64,
+      "end": 1883.7,
+      "text": "to bike on the back of my of the back of the electric bike. I like to go",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1883.7,
+      "end": 1889.14,
+      "text": "everywhere on the bike because I never really go in the car except when I have",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1889.14,
+      "end": 1896.52,
+      "text": "to go really far places and one the bike will not go in the rain and it's like dead the battery is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1896.52,
+      "end": 1910.1,
+      "text": "dead so i like i like to go everywhere on the bike like a lot of places through um my city",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1910.1,
+      "end": 1919.7,
+      "text": "i just the thing that i like about it is that the bike lanes we like to take are very like",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1919.7,
+      "end": 1940.81,
+      "text": "they're very they're like good size and I think I like a lot of them so bye. Hi my name is Beatrice",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1940.81,
+      "end": 1945.75,
+      "text": "and today I want to talk about some things about biking. The first thing is that without bike lanes",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1945.75,
+      "end": 1951.53,
+      "text": "I would not feel safe biking because it would be more likely to get hit by a car. Next I think you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1951.53,
+      "end": 1958.55,
+      "text": "should add more bike lanes so that people ride bikes more and that makes less gasoline in the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1958.55,
+      "end": 1963.77,
+      "text": "air finally I think we should encourage people to bike so that people can have",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1963.77,
+      "end": 1968.63,
+      "text": "more happy so people can be more happy and healthy that is why I think we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1968.63,
+      "end": 1981.03,
+      "text": "should have more bike lanes thank you do we have any further public comment this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1981.03,
+      "end": 1988.15,
+      "text": "evening hearing none we'll take the vote mr. Harris mr. president if we can have",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1988.15,
+      "end": 1995.24,
+      "text": "a motion in a second please I think I believe councillor Hersh I mentioned to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1995.24,
+      "end": 1997.24,
+      "text": "Approve I believe",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1997.58,
+      "end": 2000.3,
+      "text": "Yeah, I'm sorry. We do have that. I'm sorry",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2002.32,
+      "end": 2010.08,
+      "text": "Miss Gaston now. Hi miss Ellen Jones. Hi. Mr. Hirsch. Hi. Miss Michonne. Hi. Mr. Miller. Hi",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2010.66,
+      "end": 2013.74,
+      "text": "Mr. Salsface. Hi. I'm president met. Hi",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2014.84,
+      "end": 2020.28,
+      "text": "And I believe councillor Hirsch has a copy of a resolution and we'll take a quick photo with the presentation",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2020.62,
+      "end": 2121.96,
+      "text": "We will move on with our agenda. Feel free to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2121.96,
+      "end": 2128.49,
+      "text": "to excuse yourselves or you're welcome to stay the next item on our agenda is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2128.49,
+      "end": 2136.14,
+      "text": "council resolution number 44 2026 mr. Harris sorry resolution of the City",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2136.14,
+      "end": 2141.54,
+      "text": "Council the City of Lancaster recognizing Emmys Emma Emma tropic",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2141.54,
+      "end": 2150.99,
+      "text": "lateral sclerosis Awareness Month in May 2026 in the City of Lancaster motion to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2150.99,
+      "end": 2157.66,
+      "text": "approve second Thank You councillors this recognizes ALS Awareness Month here",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2157.66,
+      "end": 2162.9,
+      "text": "in the city of Lancaster ALS is also known as Lou Garrickson disease there is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2162.9,
+      "end": 2167.54,
+      "text": "currently not a cure but this resolution recognizes the resilience of those",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2167.54,
+      "end": 2174.05,
+      "text": "affected and joins in the calling for a cure or any council comments on the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2174.05,
+      "end": 2188.46,
+      "text": "resolution any comments from the public good evening mr. Stuhldreier yeah Tim",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2188.46,
+      "end": 2191.76,
+      "text": "Stuhldreier 800 block of George Street just feel it's appropriate that someone",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2191.76,
+      "end": 2196.72,
+      "text": "say something about this i think everybody on city council knows the story of brother frank albright",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2197.36,
+      "end": 2201.28,
+      "text": "absolutely legendary figure at school district of lancaster who passed away from this horrible",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2201.28,
+      "end": 2207.68,
+      "text": "disease i knew him when he was healthy i also knew him through his travail it is a brutal disease",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2208.48,
+      "end": 2213.04,
+      "text": "his daughter is a medical doctor and researcher working to cure this i encourage you to follow",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2213.04,
+      "end": 2218.08,
+      "text": "her on social media and i applaud council for taking this action thank you thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2218.08,
+      "end": 2228.29,
+      "text": "you mr. soldier are there any further comments on the resolution hearing none",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2228.29,
+      "end": 2234.65,
+      "text": "mr. Harris miss Gaston no hi miss Holland Jones hi mr. Hirsch hi miss",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2234.65,
+      "end": 2243.72,
+      "text": "Michonne hi mr. Miller hi mr. Stossel's hi and president met hi that brings us",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2243.72,
+      "end": 2249.0,
+      "text": "to our next resolution of recognition which is council resolution number 40 46",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2249.0,
+      "end": 2254.4,
+      "text": "2026 mr. Harris a resolution of the council the city of Lancaster designated",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2254.4,
+      "end": 2261.16,
+      "text": "May 2026 as National Preservation Month in the City of Lancaster motion to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2261.16,
+      "end": 2267.39,
+      "text": "approve second Thank You councillors and this is being introduced by a council",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2267.39,
+      "end": 2271.35,
+      "text": "solstice Thank You council president I don't believe we have any historic",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2271.35,
+      "end": 2275.83,
+      "text": "preservation folks here this evening but I know many of us appreciate the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2275.83,
+      "end": 2279.61,
+      "text": "historic heritage our historic architecture here in the city and all",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2279.61,
+      "end": 2282.89,
+      "text": "the work that goes into preserving this part of our community's heritage so it's",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2282.89,
+      "end": 2286.03,
+      "text": "important I think for us to recognize this month I also want to use this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2286.03,
+      "end": 2290.41,
+      "text": "opportunity to draw attention to a new resource for historic preservation fans",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2290.41,
+      "end": 2294.49,
+      "text": "the grand opening the Lancaster workshop and tool library which is supported by",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2294.49,
+      "end": 2299.29,
+      "text": "the historic preservation trust is this Thursday at 4 p.m. and that is open to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2299.29,
+      "end": 2305.72,
+      "text": "the public at 433 ice Avenue thank you Thank You councillor Stoltzfus are there",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2305.72,
+      "end": 2312.63,
+      "text": "any further comments from counsel from the public hearing none mr. Harris miss",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2312.63,
+      "end": 2320.91,
+      "text": "no hi miss Helen Jones hi mr. Hirsch hi miss Michonne hi mr. Miller I mr.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2320.91,
+      "end": 2326.51,
+      "text": "Salas who's all right the president met I as stated at the beginning of the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2326.51,
+      "end": 2332.83,
+      "text": "meeting we will be moving the resolution number 48 recognizing a API heritage",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2332.83,
+      "end": 2339.17,
+      "text": "month to our May 26 meeting of council to have more participations and presence",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2339.17,
+      "end": 2345.47,
+      "text": "from community members so that brings us to council resolution number 49 2026 mr.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2345.47,
+      "end": 2349.67,
+      "text": "Ayers a resolution of the council the City of Lancaster celebrating National",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2349.67,
+      "end": 2353.55,
+      "text": "Public Works week in commemoration of the tens of thousands of men and women",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2353.55,
+      "end": 2357.75,
+      "text": "in North America and in the City of Lancaster who provide and maintain the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2357.75,
+      "end": 2363.01,
+      "text": "infrastructure and services collectively known as Public Works motion to approve",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2363.01,
+      "end": 2369.48,
+      "text": "second Thank You councillors this resolution is being introduced by",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2369.48,
+      "end": 2374.1,
+      "text": "by councilor Miller thank you mr. Miller for introducing this and I just wanted",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2374.1,
+      "end": 2377.54,
+      "text": "to take a moment to thank all of our dedicated Public Works staff I truly",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2377.54,
+      "end": 2380.9,
+      "text": "believe we have the best Public Works team of any small city in the country",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2380.9,
+      "end": 2386.4,
+      "text": "and I see them out in action every day and I just want to thank all of them who",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2386.4,
+      "end": 2392.43,
+      "text": "are seen and unseen council Miller do you have a council president um yeah as",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2392.43,
+      "end": 2397.35,
+      "text": "mr. Harris said this is recognizing National Public Works week from May 17th",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2397.35,
+      "end": 2402.81,
+      "text": "to the 23rd and I'd echo council presidents remarks we have an",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2402.81,
+      "end": 2407.35,
+      "text": "outstanding staff here and I'm actually a little bit bummed that so many of the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2407.35,
+      "end": 2411.03,
+      "text": "folks left already because the real heroes that make all this infrastructure",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2411.03,
+      "end": 2415.11,
+      "text": "possible that make our city so wonderful to live in are sitting in the room and",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2415.11,
+      "end": 2418.77,
+      "text": "they're throughout the city in the surrounding County could everyone in the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2418.77,
+      "end": 2422.07,
+      "text": "public works team who is here raise their hand and can we give them a round",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2422.07,
+      "end": 2432.0,
+      "text": "of applause for the work they do we really appreciate the time and effort",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2432.0,
+      "end": 2435.9,
+      "text": "you all put in I know that sometimes it's thankless but I hope you heard the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2435.9,
+      "end": 2439.86,
+      "text": "thanks and some of the remarks tonight I just want to shout out a director",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2439.86,
+      "end": 2444.76,
+      "text": "Campbell I will have conversations with him where he's talking about 40 million",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2444.76,
+      "end": 2448.08,
+      "text": "dollar loan investments and things like that and then he will pivot and listen",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2448.08,
+      "end": 2452.08,
+      "text": "to me complain about a specific issue on one street and get down into the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2452.08,
+      "end": 2455.76,
+      "text": "nitty-gritty as well and I think it's just an impressive amount of dedication",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2455.76,
+      "end": 2460.08,
+      "text": "and care by this entire team for issues big and small that make this city worth",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2460.08,
+      "end": 2464.32,
+      "text": "living in so back to you council president Thank You councillor Miller",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2464.32,
+      "end": 2473.18,
+      "text": "are there any other comments from council from the public good evening",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2473.18,
+      "end": 2479.12,
+      "text": "mayor Morris good evening this on yep Arthur Morris 434 West Chester Street as",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2479.12,
+      "end": 2483.38,
+      "text": "a form of public works director and city engineer for 10 years I want to salute",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2483.38,
+      "end": 2488.12,
+      "text": "public works and I appreciate all the work they've done for the city I think",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2488.12,
+      "end": 2492.1,
+      "text": "they are extremely important and I commend you for taking this action thank",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2492.1,
+      "end": 2503.76,
+      "text": "you Thank You mayor Morris are there any other comments from the public hearing",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2503.76,
+      "end": 2507.44,
+      "text": "on mr. Harris miss Gaston now hi miss Ellen Jones",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2507.44,
+      "end": 2514.68,
+      "text": "aye mr. Hirsch all right miss me John hi mr. Miller aye mr. Stahl Swiss all right",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2514.68,
+      "end": 2521.1,
+      "text": "I'm president met aye that concludes our proclamations honors awards and",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2521.1,
+      "end": 2526.02,
+      "text": "resolutions of recognition we will now move to our public comment period again",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2526.02,
+      "end": 2531.78,
+      "text": "our first public comment period will be reserved for folks who have contacted the city clerk prior",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2531.78,
+      "end": 2537.46,
+      "text": "mr harris do we have any public comment this evening we do mr president um first is uh",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2537.46,
+      "end": 2549.54,
+      "text": "arthur morris arthur morris 434 west chestnut street good evening council and mayor according",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2549.54,
+      "end": 2556.42,
+      "text": "to the nlp municipal briefs on april 26 council member john hirsch moved to table the acceptance",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2556.42,
+      "end": 2563.06,
+      "text": "of the 49.29 million water revenue bond after he said construction bids came in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2563.06,
+      "end": 2570.5,
+      "text": "with significant cost increases due to oil price spikes from the iran conflict after reading",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2570.5,
+      "end": 2575.94,
+      "text": "i wondered how this determination was made and submitted a right to no request to the city",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2577.4,
+      "end": 2583.8,
+      "text": "for the following the bid tabulation basically a listing of the construction bids that are submitted",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2583.8,
+      "end": 2589.96,
+      "text": "by each firm number two a copy of the engineer's estimate for the project clearly in my opinion",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2590.52,
+      "end": 2595.56,
+      "text": "the city would need an estimate prior to the bidding to manage their expectations for the bid",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2596.61,
+      "end": 2601.89,
+      "text": "and i can tell you that it is common practice for the project engineer to prepare an estimate",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2601.89,
+      "end": 2607.49,
+      "text": "before receiving bids and lastly i asked for a copy of the engineer's opinion that the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2607.49,
+      "end": 2614.69,
+      "text": "construction bids came in with significant increases due to oil price spikes from the iran",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2614.69,
+      "end": 2621.43,
+      "text": "conflict the response i received from the city said in regard to the bid tabulation for a bid",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2621.43,
+      "end": 2630.15,
+      "text": "that has not been awarded your request is denied pursuant to section 708 b 26 of the pennsylvania",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2630.15,
+      "end": 2637.43,
+      "text": "right to know law which provides exception for proposals this is not a proposal pertaining to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2637.43,
+      "end": 2642.39,
+      "text": "agency procurement prior to the award of a contract as this contract has not yet been",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2642.39,
+      "end": 2648.63,
+      "text": "awarded by the city and the bids have not been accepted two in regard to your request for a copy",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2648.63,
+      "end": 2654.95,
+      "text": "of the engineer's estimate your request is denied in accordance with 901 of the right to know law",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2655.59,
+      "end": 2662.39,
+      "text": "no records in other words wasn't one three as your request for a public document requesting a written",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2662.39,
+      "end": 2667.99,
+      "text": "statement issued by city officials regarding the spike of all prices as they relate to the iran",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2667.99,
+      "end": 2674.79,
+      "text": "conflict your request is denied subject to 901 of the right to know law there's no record on that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2675.59,
+      "end": 2681.83,
+      "text": "i also was told that basic bidding information is available if i create an account on pen bid",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2682.9,
+      "end": 2689.22,
+      "text": "i take exception to the city's response to my request pennsylvania public bidding law is very",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2689.22,
+      "end": 2699.52,
+      "text": "clear require that sealed bids be opened publicly and read aloud such a process ensures transparency",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2699.52,
+      "end": 2706.4,
+      "text": "for construction and municipal procurement and really no engineer's estimate i headed up an",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2706.4,
+      "end": 2711.76,
+      "text": "engineering company for years i don't know of such a thing how do you know how the bids fit in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2711.76,
+      "end": 2718.26,
+      "text": "if you don't have an estimate ahead of time i find the city's response lacking in transparency",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2718.26,
+      "end": 2724.26,
+      "text": "it should not be a game of hide and seek if a council member wishes to discuss this in further",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2724.26,
+      "end": 2729.94,
+      "text": "detail the city clerk and right to know office have my contact information and thank you for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2729.94,
+      "end": 2738.08,
+      "text": "listening thank you mr morris mr harris do we have any further public comment we do not mr president",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2739.19,
+      "end": 2743.43,
+      "text": "at this time we will take any public comment on items not on the agenda",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2747.38,
+      "end": 2755.49,
+      "text": "hearing none we will close the public comment that brings us to reports requested by council",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2755.49,
+      "end": 2760.13,
+      "text": "confirming we do not have any of those this evening mr harris we do not mr president",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2761.0,
+      "end": 2767.32,
+      "text": "thank you that brings us to reports of committees of council these meetings were held on may 4th",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2767.32,
+      "end": 2772.5,
+      "text": "2026. We will start with the Public Safety Committee. Councilor Mijan.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2772.5,
+      "end": 2790.54,
+      "text": "Public Safety Committee met and we went over the Resolution 3126 approving",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2790.54,
+      "end": 2797.41,
+      "text": "rules and regulations for hiring police officers. Thank you, Councilor Mijan. Next",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2797.41,
+      "end": 2801.11,
+      "text": "we will hear from the Public Works Committee. Councilor Miller. Thank you,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2801.11,
+      "end": 2805.39,
+      "text": "Council President. Public Works did meet and we discussed the resolution",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2805.39,
+      "end": 2808.93,
+      "text": "recognizing National Public Works Week that was just mentioned and two",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2808.93,
+      "end": 2813.67,
+      "text": "resolutions that will appear later on in the agenda we also received a report",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2813.67,
+      "end": 2818.33,
+      "text": "about the state of our urban canopy here in the city and then those two",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2818.33,
+      "end": 2822.31,
+      "text": "resolutions that we will hear about later are number 50 and 51 which",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2822.31,
+      "end": 2826.63,
+      "text": "authorized a cost-sharing agreement with PennDOT for water infrastructure and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2826.63,
+      "end": 2831.07,
+      "text": "sewer infrastructure respectively as part of the Church Street repaving",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2831.07,
+      "end": 2835.75,
+      "text": "project and we will get to those later on it's everything Thank You councillor",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2835.75,
+      "end": 2840.11,
+      "text": "Miller Economic Development Committee councillor Gassina Thank You council",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2840.11,
+      "end": 2844.83,
+      "text": "president the committee did not meet or did not have an agenda it was the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2844.83,
+      "end": 2848.41,
+      "text": "evening that I was sworn in so I look forward to chairing the committee going",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2848.41,
+      "end": 2855.19,
+      "text": "forward and bringing more forward from the agenda thank you thank you next is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2855.19,
+      "end": 2858.86,
+      "text": "the Finance Committee vice president Hirsch Thank You council president the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2858.86,
+      "end": 2864.08,
+      "text": "Finance Committee did meet on May 4th we had three items on our agenda a q1 2026",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2864.08,
+      "end": 2868.94,
+      "text": "report on the city's operating budget q1 report on the capital budget and bill",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2868.94,
+      "end": 2872.62,
+      "text": "number seven authorizing acceptance of a pen vest loan for screening and",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2872.62,
+      "end": 2876.92,
+      "text": "chlorination improvement projects at the city's wastewater treatment plant no",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2876.92,
+      "end": 2880.66,
+      "text": "action was taken on the operating and capital budget reports and bill number",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2880.66,
+      "end": 2884.74,
+      "text": "seven will be heard for first reading at our full meeting of Council on May 26",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2884.74,
+      "end": 2889.0,
+      "text": "that concludes the report of the Finance Committee Thank You mr. Hirsch and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2889.0,
+      "end": 2894.22,
+      "text": "finally oh no next we have a community planning counselor Stoltzfus Thank You",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2894.22,
+      "end": 2897.88,
+      "text": "council president the community planning committee did meet on May 4th we had",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2897.88,
+      "end": 2903.0,
+      "text": "three items on our agenda the first item was resolution 47 2026 adopting the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2903.0,
+      "end": 2907.36,
+      "text": "community development block grant consolidated plan an annual plan we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2907.36,
+      "end": 2911.28,
+      "text": "heard a presentation by CPED staff regarding the proposed allocation of",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2911.28,
+      "end": 2919.52,
+      "text": "cdbg funds and this item will be on the agenda for our next meeting the draft plan is available",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2919.52,
+      "end": 2924.4,
+      "text": "on the city's website and anyone interested can submit comments to the city until may 25th",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2925.28,
+      "end": 2930.0,
+      "text": "our second agenda item was resolution 4626 recognizing historic preservation month which",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2930.0,
+      "end": 2935.68,
+      "text": "we discussed earlier and then our final agenda item was a presentation of the draft east end",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2935.68,
+      "end": 2940.24,
+      "text": "small area plan and there is more information about that plan that's available on engage",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2940.24,
+      "end": 2944.44,
+      "text": "Lancaster and that concludes my report council president Thank You councillor",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2944.44,
+      "end": 2947.52,
+      "text": "Stolzfus and last but not least the personnel committee councillor Holland",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2947.52,
+      "end": 2952.82,
+      "text": "Jones yes mr. president the personnel committee met May 4th reviewed an",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2952.82,
+      "end": 2956.78,
+      "text": "appointment to the Board of Health and reappointments to the Redevelopment",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2956.78,
+      "end": 2963.08,
+      "text": "Authority and the land bank authority that concludes my report thank you and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2963.08,
+      "end": 2967.16,
+      "text": "that brings us to our legislative agenda we will first start with nominations for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2967.16,
+      "end": 2972.72,
+      "text": "appointment so back to you counselor Holland Jones mr. president I make a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2972.72,
+      "end": 2977.38,
+      "text": "motion to appoint Amanda McFerrin to the Board of Health for a term from April",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2977.38,
+      "end": 2987.18,
+      "text": "14th 2026 to March 31st 2029 second we have a motion and a second are there any",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2987.18,
+      "end": 2992.56,
+      "text": "councilor comments on the motion to appoint miss McFerrin to the Board of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2992.56,
+      "end": 3002.16,
+      "text": "Health hearing none any comments from the public Mr. Harris Ms. Gaston no aye",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3002.16,
+      "end": 3010.48,
+      "text": "Ms. Holland-Jones aye Mr. Hirsch aye Ms. Michon aye Mr. Miller aye",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3010.48,
+      "end": 3020.36,
+      "text": "Mr. Stossius aye and President Mett aye we also have a reappointment of Carl",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3020.36,
+      "end": 3026.0,
+      "text": "Feldman to the Redevelopment Authority and Land Bank Authority for each terms",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3026.0,
+      "end": 3037.82,
+      "text": "from June 30 2026 to June 30 2031 second miss Holland Jones were you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3037.82,
+      "end": 3042.86,
+      "text": "making a motion to yes okay so we do have a motion in a second or any",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3042.86,
+      "end": 3050.68,
+      "text": "comments on the most to a point mr. Feldman from the public hearing none mr.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3050.68,
+      "end": 3061.92,
+      "text": "Harris I miss Holland Jones aye mr. Hirsch all right mr. John aye mr. Miller",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3061.92,
+      "end": 3071.92,
+      "text": "aye mr. stalls face aye I'm president met aye I make an a motion to reappoint",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3071.92,
+      "end": 3077.2,
+      "text": "Willanda McLeod to the redevelopment and land bank authority each for the terms",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3077.2,
+      "end": 3086.73,
+      "text": "of June 30 2026 to June 30 2031 second we have a motion and a second this is a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3086.73,
+      "end": 3092.42,
+      "text": "reappointment are there any council comments on the reappointment from the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3092.42,
+      "end": 3100.14,
+      "text": "public hearing none mr. Harris miss Gaston oh hi miss Ellen Jones hi mr.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3100.14,
+      "end": 3107.1,
+      "text": "Hirsch all right mr. John hi mr. Miller hi mr. cells face hi the president met",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3107.1,
+      "end": 3118.37,
+      "text": "by next that brings us to the historic district mr. Harris considering the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3118.37,
+      "end": 3121.07,
+      "text": "following applications and recommendations from the historical",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3121.07,
+      "end": 3123.97,
+      "text": "architecture review board for improvements to properties within the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3123.97,
+      "end": 3129.01,
+      "text": "Historic District. First is Casa of Lancaster in Lebanon counties, owner of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3129.01,
+      "end": 3133.45,
+      "text": "120 North Shippen Street. Request replacement of existing front entry",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3133.45,
+      "end": 3138.75,
+      "text": "doors with new handicapped accessible doors on the building's east facade. Next",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3138.75,
+      "end": 3144.95,
+      "text": "is Hans Weaver and Vanessa Hoffer, owners of 322 East Orange Street. Request",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3144.95,
+      "end": 3150.29,
+      "text": "construction of a new ground floor rear addition with a rooftop deck on the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3150.29,
+      "end": 3156.35,
+      "text": "building south wing and last is a Hamilton Club owners of 106 East Orange",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3156.35,
+      "end": 3161.87,
+      "text": "Street they request construction of a new ad ramp on the buildings East Orange",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3161.87,
+      "end": 3167.61,
+      "text": "Street elevation and replacement of doors and at a service entry and those",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3167.61,
+      "end": 3170.99,
+      "text": "applications were all recommended for approval by the historical architectural",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3170.99,
+      "end": 3179.47,
+      "text": "review board motion to approve second we have a motion in a second are there any",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3179.47,
+      "end": 3188.93,
+      "text": "council comments from the public hearing none mr. Harris this cast no hi miss",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3188.93,
+      "end": 3195.35,
+      "text": "Ellen Jones aye mr. Hirsch all right miss me John aye mr. Miller aye mr.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3195.35,
+      "end": 3202.6,
+      "text": "Stossel's aye the president met aye that brings us to our resolutions first we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3202.6,
+      "end": 3208.06,
+      "text": "have resolution number 31 2026 mr. Harris a resolution of the City Council",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3208.06,
+      "end": 3211.9,
+      "text": "the city of Lancaster approving the rules and regulations of the Civil",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3211.9,
+      "end": 3215.86,
+      "text": "Service Board for the examination appointment of applicants to positions",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3215.86,
+      "end": 3223.04,
+      "text": "in the Bureau of Police for the city of Lancaster Pennsylvania motion to approve",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3223.04,
+      "end": 3231.22,
+      "text": "second we have a motion and a second we did hear from city solicitor on the last",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3231.22,
+      "end": 3235.4,
+      "text": "committee meeting councilman John did you have anything else to add on this",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3235.4,
+      "end": 3242.76,
+      "text": "resolution no council president are there any further comments from council",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3242.76,
+      "end": 3250.02,
+      "text": "on the resolution any comments from the public or from our members of the police",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3250.02,
+      "end": 3258.4,
+      "text": "hearing none mr. Harris miss Castor now hi miss Holland Jones hi mr. Hirsch hi",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3258.4,
+      "end": 3268.16,
+      "text": "mr. John hi mr. Miller hi mr. sauce who's hi and president Matt hi that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3268.16,
+      "end": 3274.0,
+      "text": "brings us to administrative resolution number 45 mr. Harris a resolution of the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3274.0,
+      "end": 3279.44,
+      "text": "Council the City of Lancaster approving a flag raising on June 24th 2026 to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3279.44,
+      "end": 3283.72,
+      "text": "acknowledge World Refugee Day as brought forth by the Church World Service",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3283.72,
+      "end": 3291.87,
+      "text": "Lancaster motion to approve second counselors it's my honor to bring forth",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3291.87,
+      "end": 3296.37,
+      "text": "this resolution which is a routine resolution for our flag raising which",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3296.37,
+      "end": 3302.75,
+      "text": "will be held on June 24th at 12 p.m. with a rain date of June 25th Church",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3302.75,
+      "end": 3307.31,
+      "text": "World Service and our partners are recognizing World Refugee Day here in",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3307.31,
+      "end": 3310.89,
+      "text": "the city of Lancaster that has a thriving refugee community and",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3310.89,
+      "end": 3315.95,
+      "text": "celebrating all of the service that our refugee and refugee resettlement",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3315.95,
+      "end": 3321.49,
+      "text": "partners do for the city of Lancaster are there any council comments on the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3321.49,
+      "end": 3330.95,
+      "text": "resolution from the public hearing on mr. Harris miss Gaston oh hi miss",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3330.95,
+      "end": 3338.33,
+      "text": "Holland Jones aye mr. Hirsch aye miss Michonne aye mr. Miller aye mr. Slausons",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3338.33,
+      "end": 3345.63,
+      "text": "aye and president met aye that brings us to administration resolution number 50",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3345.63,
+      "end": 3350.57,
+      "text": "2026 mr. Harris a resolution of the City of the Council of the City of Lancaster",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3350.57,
+      "end": 3354.21,
+      "text": "authorizing a cost-sharing agreement with the Pennsylvania Department of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3354.21,
+      "end": 3358.89,
+      "text": "Transportation for water facilities costs associated with the Church Street",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3358.89,
+      "end": 3370.2,
+      "text": "repaving project MP ms 11 6 6 5 8 motion to approve second we have a motion and a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3370.2,
+      "end": 3373.98,
+      "text": "second council Miller is coming through your committee Thank You council",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3373.98,
+      "end": 3379.04,
+      "text": "president yes this is part of the Church Street repaving project and this is",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3379.04,
+      "end": 3385.86,
+      "text": "essentially an agreement where Penn dot will cover 75% of the costs for the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3385.86,
+      "end": 3390.74,
+      "text": "water infrastructure and the city will cover 25% I don't know if there are any",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3390.74,
+      "end": 3394.34,
+      "text": "additional points that staff would like to make it make it this time director",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3394.34,
+      "end": 3406.68,
+      "text": "Campbell thank you I just wanted to clarify it's not 75% of the cost of the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3406.68,
+      "end": 3411.54,
+      "text": "of the infrastructure it's 75% of the cost of integrating the water",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3411.54,
+      "end": 3418.14,
+      "text": "infrastructure with the with the public right-of-way so as an example we're",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3418.14,
+      "end": 3424.12,
+      "text": "talking about how the fire hydrants small manholes etc get integrated into",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3424.12,
+      "end": 3429.12,
+      "text": "the into the PennDOT work thank you director Campbell that's a helpful",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3429.12,
+      "end": 3434.28,
+      "text": "clarity that'll be the same for the for sewers in this case for we're talking",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3434.28,
+      "end": 3439.8,
+      "text": "about approximately eighty one thousand dollars of integration work where this",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3439.8,
+      "end": 3445.98,
+      "text": "where PennDOT would cover 75% of that so this city's contribution would be only",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3445.98,
+      "end": 3453.81,
+      "text": "21 million dollars thank you and I have no further comment thank you for the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3453.81,
+      "end": 3458.67,
+      "text": "clarification director Campbell and thank you councillor Miller are there",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3458.67,
+      "end": 3465.48,
+      "text": "any other comments from the public hearing none mr. Harris miss Gaston oh",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3465.48,
+      "end": 3470.54,
+      "text": "hi miss Holland Jones hi mr. Hirsch hi miss",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3470.54,
+      "end": 3479.68,
+      "text": "Michonne hi mr. Miller hi mr. Stahl says hi the president met ah our last item of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3479.68,
+      "end": 3485.08,
+      "text": "resolutions is administration resolution number 51 mr. Harris a resolution of the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3485.08,
+      "end": 3488.62,
+      "text": "Council of the City of Lancaster authorizing a cost-sharing agreement",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3488.62,
+      "end": 3492.22,
+      "text": "with the Pennsylvania Department of Transportation for sewer facilities",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3492.22,
+      "end": 3501.14,
+      "text": "costs associated with the Church Street repaving project MP ms 1166 58 motion to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3501.14,
+      "end": 3507.44,
+      "text": "approve second councillors we have a motion to second once again this is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3507.44,
+      "end": 3511.0,
+      "text": "coming through the Public Works Department councillor Miller Thank You",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3511.0,
+      "end": 3515.82,
+      "text": "council president helpful clarity provided by director Stephen Campbell",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3515.82,
+      "end": 3520.2,
+      "text": "here I have no further information to add on this Thank You council Miller are",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3520.2,
+      "end": 3527.58,
+      "text": "there any other comments from full council from the public hearing none mr.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3527.58,
+      "end": 3534.24,
+      "text": "Harris miss Gaston oh hi miss Holland Jones I mr. Hirsch I miss",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3534.24,
+      "end": 3543.12,
+      "text": "Michonne hi mr. Miller I mr. saw Swiss I I'm president man I that reaches the end",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3543.12,
+      "end": 3546.6,
+      "text": "of our legislative agenda this evening we will move on to the report of the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3546.6,
+      "end": 3576.58,
+      "text": "Mayor. Mayor Royal. Thank you. Thank you, Council President. Council, as you are aware, former Director of Administrative Services Tina Campbell resigned from her position effective last Friday, May 8th. The job posting for the position is now live and we are seeking candidates to fill the vacancy. In the meantime, Chief of Staff Amanda Bakay will be serving as Acting Director of Administrative Services. In addition, I have decided to move the Bureau of Human Resources from Administrative Services and have the team report directly to me. As I worked out",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3576.58,
+      "end": 3581.16,
+      "text": "elevate our organization's culture, I feel that the Bureau of Human Resources should work directly",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3581.16,
+      "end": 3587.22,
+      "text": "with the executive leadership team. A change to the organization chart will come before council",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3587.22,
+      "end": 3592.82,
+      "text": "later this year. Lastly, this week is National Police Week. From May 10th through May 16th,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3592.82,
+      "end": 3597.94,
+      "text": "we are honoring our police officers, social workers, and support staff who serve our city,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3598.08,
+      "end": 3602.32,
+      "text": "keep our residents safe, and connect to resources some of our most vulnerable residents.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3602.32,
+      "end": 3608.68,
+      "text": "council president if i may i'd like to read the proclamation for national police week please",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3608.68,
+      "end": 3615.06,
+      "text": "whereas the lancaster city bureau of police a full service police department that has provided",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3615.06,
+      "end": 3621.5,
+      "text": "law enforcement to the city of lancaster since 1865 and whereas the bureau is the largest and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3621.5,
+      "end": 3627.78,
+      "text": "only urban law enforcement agency in lancaster county and whereas the bureau believes community",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3627.78,
+      "end": 3633.54,
+      "text": "oriented policing is the best way to serve the residents, visitors, neighborhoods and businesses",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3633.54,
+      "end": 3639.48,
+      "text": "of Lancaster City, empowering its officers and civilian staff to build trust and form long",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3639.48,
+      "end": 3644.26,
+      "text": "lasting relationships with those they serve. And whereas the Bureau is committed to working",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3644.26,
+      "end": 3648.8,
+      "text": "collaboratively with all community members to solve important issues that help the Lancaster",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3648.8,
+      "end": 3654.54,
+      "text": "City community thrive. And whereas the Office of Community Engagement works to engage with",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3654.54,
+      "end": 3659.82,
+      "text": "all residents of lancaster city by providing ongoing opportunities to deliver feedback",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3659.82,
+      "end": 3664.46,
+      "text": "discuss public safety challenges and develop positive relationships with the bureau",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3664.46,
+      "end": 3670.06,
+      "text": "and whereas police social workers are an integral part of the bureau's team connecting our most",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3670.06,
+      "end": 3676.06,
+      "text": "vulnerable residents with needed support services and identifying new solutions to keep community",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3676.06,
+      "end": 3683.42,
+      "text": "members safe and whereas the bureau values service integrity honor courage commitment and duty",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3683.42,
+      "end": 3687.9,
+      "text": "and whereas the lancaster city community is grateful for the services provided by the bureau",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3687.9,
+      "end": 3693.58,
+      "text": "and its commitment to professional and personal excellence now therefore i jamie arroyo mayor",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3693.58,
+      "end": 3699.26,
+      "text": "mayor of the city of lancaster pennsylvania do hereby proclaim the week of may 10th through 16",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3699.26,
+      "end": 3705.1,
+      "text": "2026 as national police week in the city of lancaster i encourage the community to celebrate",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3705.1,
+      "end": 3710.38,
+      "text": "the contributions of the lancaster city police bureau uh have made to keeping the lancaster",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3710.38,
+      "end": 3718.44,
+      "text": "city community safe for over 160 years thank you council president and with that i'd like to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3718.44,
+      "end": 3723.56,
+      "text": "present the proclamation to our chief of police chief mcdonald and our officers joining us here",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3723.56,
+      "end": 3802.11,
+      "text": "today and council if you would like to join me for a photo that concludes my report council president",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3802.11,
+      "end": 3809.07,
+      "text": "thank you mayor arroyo and i also want to thank our dedicated members of the police force and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3809.07,
+      "end": 3810.71,
+      "text": "And thank you, Chief McDonald, as well.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3811.41,
+      "end": 3815.33,
+      "text": "That brings us to the report of President of Council, which I do not have a report this evening.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3815.55,
+      "end": 3817.63,
+      "text": "So we will move on to Council comments.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3817.69,
+      "end": 3819.21,
+      "text": "Are there any Council comments this evening?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3819.95,
+      "end": 3820.89,
+      "text": "If may I?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3821.27,
+      "end": 3822.59,
+      "text": "Yes, Councilor Mijon, please.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3823.21,
+      "end": 3826.54,
+      "text": "I would like to say that this is a community event.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3826.64,
+      "end": 3830.48,
+      "text": "We're going to be holding part of the outreach from the Police Department.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3830.96,
+      "end": 3833.26,
+      "text": "We are going to be holding empanadas with a cup.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3833.52,
+      "end": 3838.44,
+      "text": "It's going to be on May 29th from 11.30 a.m. to 1.30 p.m.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3838.44,
+      "end": 3846.18,
+      "text": "And this is going to be on El Jibarito Restaurant, which is on Dauphin and South Line, if I'm not wrong.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3847.3,
+      "end": 3849.82,
+      "text": "So we hope to see everybody in there.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3850.1,
+      "end": 3852.86,
+      "text": "Come and engage with the police department and with us.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3853.65,
+      "end": 3854.91,
+      "text": "Thank you, Mr. President.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3855.27,
+      "end": 3856.43,
+      "text": "Thank you, Councilor Mejian.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3856.87,
+      "end": 3858.27,
+      "text": "We look forward to that event.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3858.87,
+      "end": 3860.71,
+      "text": "Are there any other council comments?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3862.07,
+      "end": 3866.91,
+      "text": "Hearing none and reaching the end of our agenda, I will hear a motion to adjourn.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3867.19,
+      "end": 3868.09,
+      "text": "Motion to adjourn.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3868.21,
+      "end": 3868.51,
+      "text": "Second.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3868.51,
+      "end": 3871.63,
+      "text": "All in favor aye we are adjourned",
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

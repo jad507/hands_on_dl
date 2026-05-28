@@ -1,6 +1,2346 @@
 {
   "file": "City Council Meeting - January 13, 2026 [U9g1p15WDkI]",
   "rttm_mode": "standard",
-  "speaker_summary": {},
-  "segments": []
+  "speaker_summary": {
+    "SPEAKER_00": {
+      "total_speech_s": 1553.6,
+      "segment_count": 271,
+      "word_count": 3868
+    },
+    "UNKNOWN": {
+      "total_speech_s": 616.2,
+      "segment_count": 117,
+      "word_count": 1732
+    }
+  },
+  "segments": [
+    {
+      "start": 540.3,
+      "end": 542.91,
+      "text": "Good evening everyone",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 543.43,
+      "end": 547.7,
+      "text": "And I'll call to order this January 13th meeting of Lancaster City Council a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 548.18,
+      "end": 553.46,
+      "text": "Couple of reminders at the top of the meeting this evening this meeting and its participants are being recorded",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 553.54,
+      "end": 560.1,
+      "text": "Please take a moment to silence your phones and other devices if you haven't done so already a quick announcement about the agenda",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 560.18,
+      "end": 564.42,
+      "text": "the recently passed administrative code sets the agenda format of Council and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 564.42,
+      "end": 568.74,
+      "text": "includes a single general public comment period with residents who registered in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 568.74,
+      "end": 572.92,
+      "text": "advance being called first and then open to the rest of the public for matters",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 572.92,
+      "end": 577.26,
+      "text": "not on the agenda counselors unless there is an objection I will move the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 577.26,
+      "end": 583.47,
+      "text": "second public comment period that appears on this agenda up to item 6 per",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 583.47,
+      "end": 589.08,
+      "text": "the administrative code thank you thank you very much counselors this will be",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 589.08,
+      "end": 593.58,
+      "text": "corrected on future agendas comments are limited to three minutes per speaker and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 593.58,
+      "end": 597.72,
+      "text": "must begin with your name and block of residence for our meeting record I will",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 597.72,
+      "end": 601.5,
+      "text": "use this light in front of me to keep time it will turn green when time begins",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 601.5,
+      "end": 605.52,
+      "text": "it will blink yellow when one minute remains and then blink red when three",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 605.52,
+      "end": 609.36,
+      "text": "minutes has been exhausted I thank everyone in advance for ensuring equal",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 609.36,
+      "end": 613.26,
+      "text": "time for all speakers and now for all of those who are willing and able please",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 613.26,
+      "end": 635.34,
+      "text": "rise for the Pledge of Allegiance Mr. Harris would you please call the role of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 635.34,
+      "end": 643.81,
+      "text": "members yes madam president mr. Medin here mr. Hirsch here miss belong here",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 643.81,
+      "end": 654.7,
+      "text": "mr. Miller here mr. sauce face here I'm president Baker here we now will move to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 654.7,
+      "end": 658.1,
+      "text": "the approval of the minutes of the special meeting of Council for January",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 658.1,
+      "end": 665.69,
+      "text": "5th 2026 motion to approve second with a motion and a second councillors any",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 665.69,
+      "end": 670.92,
+      "text": "Comments on our meeting minutes",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 670.92,
+      "end": 672.92,
+      "text": "Hearing none mr.. Harris, please",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 673.24,
+      "end": 675.4,
+      "text": "Mr.. Med",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 677.06,
+      "end": 679.42,
+      "text": "Mr.. Hirsch all right miss me John",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 680.42,
+      "end": 682.1,
+      "text": "Mr.. Miller I",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 682.1,
+      "end": 684.96,
+      "text": "Mr.. Slauson's I I'm president Baker I",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 685.68,
+      "end": 692.51,
+      "text": "Our next item on the agenda this evening as proclamations honors awards and resolutions of recognition",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 693.11,
+      "end": 695.63,
+      "text": "Confirming that we have none on the agenda this evening mr.. Harris",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 697.63,
+      "end": 700.71,
+      "text": "Yeah, that is the case man. Thank you very much",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 700.75,
+      "end": 706.27,
+      "text": "appreciate it that will take us to our public comment period again we first",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 706.27,
+      "end": 710.89,
+      "text": "will take comments from residents who have contacted the city clerk in advance",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 710.89,
+      "end": 715.27,
+      "text": "requesting the opportunity to address counsel and then we will move into",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 715.27,
+      "end": 718.69,
+      "text": "general public comment duration is limited to three minutes per speaker",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 718.69,
+      "end": 723.39,
+      "text": "please begin with your name and block of residence for our meeting record mr.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 723.39,
+      "end": 729.57,
+      "text": "Harris who has registered in advance for public comment first is how many oh I",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 729.57,
+      "end": 737.15,
+      "text": "I don't believe they're here we will call them at the end of comment if there",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 737.15,
+      "end": 740.87,
+      "text": "are other speakers our next speaker mr. Harris Michael",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 740.87,
+      "end": 748.17,
+      "text": "Maffucci I know those parties were speaking on a related item and I don't",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 748.17,
+      "end": 754.09,
+      "text": "see either of them this evening and third was Irene Grievous I don't see",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 754.09,
+      "end": 759.72,
+      "text": "miss Grievous right now either at this time then I will open it up to any other",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 759.72,
+      "end": 763.46,
+      "text": "public comment this evening again this is for items that aren't appearing on",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 763.46,
+      "end": 767.54,
+      "text": "rest of our agenda if anyone wishes to make comment you just need to come forward to the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 767.54,
+      "end": 777.38,
+      "text": "microphone hearing none and not seeing the folks that registered in advance i will close the public",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 777.38,
+      "end": 782.34,
+      "text": "comment period for this evening we will then remove to our next item on the agenda which is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 782.34,
+      "end": 788.18,
+      "text": "reports requested by council we don't have any of those this evening we have interim reports of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 788.18,
+      "end": 793.78,
+      "text": "council on the next as the next item and we don't have any of those it's our first meeting so we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 793.78,
+      "end": 798.02,
+      "text": "don't have those things yet uh reports of committees of council we did hold meetings",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 798.02,
+      "end": 803.86,
+      "text": "on january 6 2026. we began with the report of the public safety committee councillor mijan",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 806.16,
+      "end": 811.76,
+      "text": "thank you council president i did meet with lieutenant todd drager and social worker grace",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 811.76,
+      "end": 817.44,
+      "text": "mincer looking forward to start working on an outreach program for the whole city thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 817.44,
+      "end": 823.06,
+      "text": "and your committee meeting councillor mijan my committee meeting was a great meeting too with",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 823.06,
+      "end": 830.92,
+      "text": "director campbell we table some motions and he can go more in he can go more in deep thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 830.92,
+      "end": 835.48,
+      "text": "and you also addressed bill one if i'm if i'm not mistaken that will come up later this evening is",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 835.48,
+      "end": 845.0,
+      "text": "that right yes that's right it's going to be a bill number one 2026 if yes and it's going to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 845.0,
+      "end": 852.85,
+      "text": "be amending the emergency management audience warning thank you thank you very much our public",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 852.85,
+      "end": 858.31,
+      "text": "works committee councillor Miller public works did not meet thank you economic",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 858.31,
+      "end": 861.61,
+      "text": "development councillor Mudd Thank You council president the public works",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 861.61,
+      "end": 864.79,
+      "text": "committee I mean the economic development committees on me thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 864.79,
+      "end": 868.27,
+      "text": "Finance Committee councillor Hirsch Thank You council president the Finance",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 868.27,
+      "end": 873.13,
+      "text": "Committee did meet and we had two items on our agenda boat on that committee",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 873.13,
+      "end": 876.83,
+      "text": "agenda both of which appear on our agenda here later this evening",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 876.83,
+      "end": 882.73,
+      "text": "resolutions eight and nine amending the capital project lists funded by the 28",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 882.73,
+      "end": 889.03,
+      "text": "18 and 2022 bond issuances respectively that concludes the report of the finance committee",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 889.03,
+      "end": 894.37,
+      "text": "thank you Community Planning Committee counselor solfus thank you Council President uh Community",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 894.37,
+      "end": 899.59,
+      "text": "Planning Committee did meet we had one item on our agenda which is resolution 10 uh amending",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 899.59,
+      "end": 903.49,
+      "text": "the American Rescue Plan Act funding agreement with South and concerned neighbors and that will",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 903.49,
+      "end": 907.99,
+      "text": "appear later on our agenda this evening that concludes my report thank you and finally",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 907.99,
+      "end": 912.19,
+      "text": "personnel committee Council Hirsch I would ask that you report on this committee is that we do",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 912.19,
+      "end": 918.21,
+      "text": "currently have a chair yes I served as inner or an interim chair if you will",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 918.21,
+      "end": 923.53,
+      "text": "for that and we did meet and had a couple nominations reviewed an",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 923.53,
+      "end": 927.61,
+      "text": "appointment to the Lancaster rec Commission and reappointments to the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 927.61,
+      "end": 932.71,
+      "text": "Historical Commission and the historical architectural review board thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 932.71,
+      "end": 936.91,
+      "text": "very much that will take us into our legislative agenda this evening the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 936.91,
+      "end": 942.56,
+      "text": "first items are nominations for appointment councillor thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 942.56,
+      "end": 948.32,
+      "text": "council president um i will first make a motion to appoint connor bell to the lancaster recreation",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 948.32,
+      "end": 958.52,
+      "text": "commission for a term from december 31st 2025 to december 31st 2028. second we have a motion and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 958.52,
+      "end": 962.76,
+      "text": "a second councillor hirsch i know that mr bell wasn't able to attend the committee meeting",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 963.48,
+      "end": 970.36,
+      "text": "he is not here this evening oh yes he is here oh okay oh sorry i misunderstood yes um yeah mr bell",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 970.36,
+      "end": 976.12,
+      "text": "if you don't mind do you mind coming to the mic and just saying stating your",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 976.12,
+      "end": 982.36,
+      "text": "interest in serving on the Lancaster rec Commission and if you don't mind also",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 982.36,
+      "end": 986.42,
+      "text": "just stating your name and block of address for the meeting minutes record",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 986.42,
+      "end": 994.86,
+      "text": "you might need to flip that on if it's not yes perfect thank you hi my name is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 994.86,
+      "end": 1000.26,
+      "text": "Connor Bell I am a resident at 648 Park Avenue so the 600 block of Park Avenue",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1000.26,
+      "end": 1006.78,
+      "text": "in the northeast part of lancaster um i am wanting to be on the lancaster rec board because",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1006.78,
+      "end": 1013.1,
+      "text": "i have a passion for recreation i grew up in recreation myself and i understand the importance",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1013.1,
+      "end": 1021.02,
+      "text": "it is for the community both primarily looking at youth as well as adult recreation and then",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1021.02,
+      "end": 1027.24,
+      "text": "the aspect of the child care that the rec board and they're not the rec board but the rec provides",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1027.24,
+      "end": 1030.48,
+      "text": "is something that is near and dear to me i have a one and a half year old daughter",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1030.48,
+      "end": 1035.88,
+      "text": "and so thinking about my kids as well as the kids in the community just the the need for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1035.88,
+      "end": 1041.26,
+      "text": "after school care you know before school care the rec provides as well as the other recreation is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1041.26,
+      "end": 1045.84,
+      "text": "just something that i think is really important and i'm glad to be able to be a part of that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1045.84,
+      "end": 1051.82,
+      "text": "through serving on this board so that's a very short summary of why i'm here thank you very much",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1051.82,
+      "end": 1059.88,
+      "text": "mr bell um i just had one question um i couldn't help but notice you are a cpa do you anticipate",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1059.88,
+      "end": 1066.6,
+      "text": "using your accounting background um in your role serving on this board i would hope so um i've",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1066.6,
+      "end": 1072.1,
+      "text": "talked to heather a few times already and any way that i can get involved in you know the finance",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1072.1,
+      "end": 1077.12,
+      "text": "discussions within that uh the board and get on that finance committee within the board i would",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1077.12,
+      "end": 1082.4,
+      "text": "love to do that and then uh certainly i'm currently operating as a relationship manager",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1082.4,
+      "end": 1089.15,
+      "text": "for link bank here in the area and i thought we have numerous ways that we could find partnerships",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1089.15,
+      "end": 1094.53,
+      "text": "and ways to connect people and so i would very much like to do that but until i get on the board",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1094.53,
+      "end": 1098.97,
+      "text": "and kind of understand how everything works and meet those individuals it's hard for me to say",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1098.97,
+      "end": 1105.09,
+      "text": "for sure how i'm going to be able to involve that but i would like to thank you thank you very much",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1105.09,
+      "end": 1108.27,
+      "text": "Council Hirsch mr. Bell thank you for being here and your willingness to serve",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1108.27,
+      "end": 1113.49,
+      "text": "I'll just make an important note that there aren't many seats on the record",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1113.49,
+      "end": 1117.69,
+      "text": "of Lancaster rec board for residents there's a lot of elected officials and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1117.69,
+      "end": 1121.47,
+      "text": "city officials and Lancaster Township officials and school board officials",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1121.47,
+      "end": 1125.79,
+      "text": "that need to serve so glad to see you stepping up as the member of the public",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1125.79,
+      "end": 1131.79,
+      "text": "on that board it's it's a key role for our community so thank you counselors",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1131.79,
+      "end": 1135.17,
+      "text": "any additional comment on the motion for this nomination",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1135.17,
+      "end": 1139.13,
+      "text": "council president if I'm a counselor man Thank You council president just wanted",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1139.13,
+      "end": 1143.67,
+      "text": "to thank you mr. Bell as one of the council representatives on the rec",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1143.67,
+      "end": 1145.61,
+      "text": "Commission board I look forward to working with you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1145.61,
+      "end": 1150.49,
+      "text": "likewise thank you thank you councillors any comment from the public on the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1150.49,
+      "end": 1159.1,
+      "text": "nomination hearing none mr. Harris mr. min aye mr. Hirsch",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1159.1,
+      "end": 1170.04,
+      "text": "aye mr mijon aye mr miller aye mr stossfus aye and president beke aye thank you thank you and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1170.04,
+      "end": 1174.04,
+      "text": "mr hirsch i believe you have additional nominations yes i would like to make a",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1174.04,
+      "end": 1179.8,
+      "text": "motion to reappoint uh danielle kepperling and john spitalieri to the historical commission",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1179.8,
+      "end": 1188.04,
+      "text": "for a term from december 31st 2025 to december 31st 2028 as well as a nomination to reappoint",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1188.04,
+      "end": 1194.04,
+      "text": "kurt strauss to the historical architectural review board for a term from december 31st 2025",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1194.04,
+      "end": 1204.52,
+      "text": "to december 31st 2028 second thank you counselors we have a motion and a second for the reappointments",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1204.52,
+      "end": 1215.88,
+      "text": "any council comments on them comments from the public on the nominations hearing on mr harris",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1215.88,
+      "end": 1217.74,
+      "text": "Mr.. Med aye",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1217.74,
+      "end": 1219.36,
+      "text": "Mr.. Hirsch aye",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1219.36,
+      "end": 1221.12,
+      "text": "Miss Mijon aye",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1221.12,
+      "end": 1222.94,
+      "text": "Mr.. Miller aye",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1222.94,
+      "end": 1225.92,
+      "text": "Mr.. Stahl says aye I'm President Pekin aye",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1226.74,
+      "end": 1232.55,
+      "text": "The next item on our agenda this evening are items for the Heritage Conservation District",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1233.44,
+      "end": 1240.86,
+      "text": "Mr.. Harris if he wouldn't considering the following applications and recommendations from the Historical Commission for improvements to properties within the Heritage Conservation",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1240.86,
+      "end": 1247.5,
+      "text": "conservation district the first is uh who your properties llc owners of 403 pearl street they",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1247.5,
+      "end": 1253.02,
+      "text": "propose construction of frame over builds above an existing residential brick building at the corner",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1253.02,
+      "end": 1259.26,
+      "text": "of fourth street and the second is lancaster lebanon habitat for humanity owner of 913 wheatland",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1259.26,
+      "end": 1264.86,
+      "text": "avenue they propose construction of a new three-story residential building on an existing",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1264.86,
+      "end": 1269.66,
+      "text": "surface parking lot and both of those applications were recommended for approval by the historical",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1269.66,
+      "end": 1282.04,
+      "text": "commission thank you very much mr harris i'll hear a motion a motion to approve the uh or issue the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1282.04,
+      "end": 1288.7,
+      "text": "certificate of appropriateness second thank you counselors we have a motion in a second",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1288.7,
+      "end": 1294.3,
+      "text": "um just as a way of resetting this for the new year and the new counselors items that come",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1294.3,
+      "end": 1299.66,
+      "text": "through uh the heritage conservation district are approved by either the historic commission",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1299.66,
+      "end": 1308.0,
+      "text": "or the harm in this case is the Historic Commission they issue they issue opinions",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1308.0,
+      "end": 1313.08,
+      "text": "on the applications and both of these were approved for recommended rather for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1313.08,
+      "end": 1319.7,
+      "text": "approval but must be approved through a council motion so we have an approval",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1319.7,
+      "end": 1323.42,
+      "text": "for both items a and B in front of us are there any council comments on those",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1323.42,
+      "end": 1331.59,
+      "text": "items I just would like to make a note that the Wheatland Avenue property for",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1331.59,
+      "end": 1336.63,
+      "text": "lancaster lebanon habitat here for humanity is an exciting piece of the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1336.63,
+      "end": 1341.53,
+      "text": "puzzle in that end of the city for affordable housing and it's been a long",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1341.53,
+      "end": 1345.33,
+      "text": "time coming and we've heard a lot about it for the last several years and I'm",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1345.33,
+      "end": 1350.22,
+      "text": "excited to see it on our agenda this evening any comments from the public on",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1350.22,
+      "end": 1361.58,
+      "text": "the items hearing none mr. Harris mr. min aye mr. Hirsch hi miss mija mr.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1361.58,
+      "end": 1368.48,
+      "text": "Miller hi mr. Stahl Swiss hi and president Baker I the next item on our",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1368.48,
+      "end": 1373.22,
+      "text": "agenda are ordinances for first reading we have one of those this evening we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1373.22,
+      "end": 1377.48,
+      "text": "read these into the agenda but there's no legislative action taken on them we",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1377.48,
+      "end": 1383.52,
+      "text": "have administration bill number one 2026 mr. Harris in ordinance of the Lancaster",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1383.52,
+      "end": 1389.9,
+      "text": "City City Council amending chapter 136 emerge emergency management 136 one",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1389.9,
+      "end": 1395.72,
+      "text": "definitions to add definitions for all hazards and emergency operations center",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1395.72,
+      "end": 1401.0,
+      "text": "and to amend the definitions of disaster and emergency management to reflect",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1401.0,
+      "end": 1407.88,
+      "text": "modern terminology to amend 136 for emergency management directors subpart",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1407.88,
+      "end": 1413.84,
+      "text": "C to require liaison with county state and federal authorities and nearby",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1413.84,
+      "end": 1418.4,
+      "text": "political subdivisions for effective operations of the emergency management",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1418.4,
+      "end": 1425.6,
+      "text": "plan to amend 136 7 emergency operations center to require that primary and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1425.6,
+      "end": 1430.4,
+      "text": "backup emergency operation centers be equipped with identical capabilities and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1430.4,
+      "end": 1434.96,
+      "text": "redundant communication systems with locations to be specified in the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1434.96,
+      "end": 1439.98,
+      "text": "emergency operations plan and to remove the requirement is that the city",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1439.98,
+      "end": 1445.28,
+      "text": "emergency management team operate from the county emergency operations center",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1445.28,
+      "end": 1450.32,
+      "text": "in the event city facilities are unusable providing for the repeal of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1450.32,
+      "end": 1454.22,
+      "text": "inconsistent ordinances providing for the severability of the ordinance and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1454.22,
+      "end": 1457.88,
+      "text": "providing that the ordinance shall take effect in 20 days from the date of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1457.88,
+      "end": 1465.1,
+      "text": "adoption Thank You mr. Harris that's a lengthy title and very full of detail",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1465.1,
+      "end": 1471.74,
+      "text": "councillors I believe we were sent a memo earlier today from deputy chief",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1471.74,
+      "end": 1477.38,
+      "text": "Krista long about the changes counselor me John do you have anything to add from",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1477.38,
+      "end": 1484.82,
+      "text": "your committee meeting thank you very much counselors any comments for the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1484.82,
+      "end": 1490.82,
+      "text": "first read of this bill counselor Hirsch just wanted to thank you deputy chief",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1490.82,
+      "end": 1495.32,
+      "text": "DeLong for that memo is very detailed and showed exactly what changes we were",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1495.32,
+      "end": 1499.6,
+      "text": "being are being made with this with this bill should it pass so thank you that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1499.6,
+      "end": 1504.56,
+      "text": "was those very helpful anything additional from counsel for the first",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1504.56,
+      "end": 1514.39,
+      "text": "read yeah I did have just one question on the memo from mr. DeLong so I was",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1514.39,
+      "end": 1520.87,
+      "text": "just a little confused in the the 136 7 the last bullet point says remove the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1520.87,
+      "end": 1525.29,
+      "text": "Lancaster County Courthouse as a backup facility because it does not exist here",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1525.29,
+      "end": 1530.98,
+      "text": "that part was a little sure it was a little awkward so I think at one point",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1530.98,
+      "end": 1536.74,
+      "text": "point uh the county had an emergency operation center in in the courthouse in the basement",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1537.54,
+      "end": 1543.86,
+      "text": "i i think several years ago that was removed i don't exactly know when that happened so that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1543.86,
+      "end": 1552.02,
+      "text": "being in the in the in the city code was kind of it was kind of moot to begin with um so",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1553.06,
+      "end": 1558.42,
+      "text": "if it ever came down to it we their facilities are actually in transit now already and they're",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1558.42,
+      "end": 1564.5,
+      "text": "moving from manheim to east hemfield um so they're kind of in flux currently but we would certainly",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1564.5,
+      "end": 1570.66,
+      "text": "coordinate with them and i believe that is a site that we could use if we ever had to get to that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1570.66,
+      "end": 1576.9,
+      "text": "point so a little awkwardly written but uh that makes a lot more sense yeah thank you thank you",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1576.9,
+      "end": 1582.39,
+      "text": "appreciate it thank you very much anything additional from council for the first read",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1584.72,
+      "end": 1593.25,
+      "text": "comments from the public on the first read of the bill all right i thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1593.25,
+      "end": 1599.28,
+      "text": "we will take this up at our next meeting for a vote the next items on our agenda this evening",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1599.28,
+      "end": 1604.88,
+      "text": "are resolutions we begin with administration i'm sorry administration resolution number 8",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1604.88,
+      "end": 1611.92,
+      "text": "2026 mr harris a resolution of the council of the city of lancaster approving an amended capital",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1611.92,
+      "end": 1617.52,
+      "text": "project list to be funded by the proceeds of the city of lancaster general obligation bonds",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1617.52,
+      "end": 1628.28,
+      "text": "series of 2018. motion to approve second with a motion and a second councillor hirsch",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1629.16,
+      "end": 1633.88,
+      "text": "thank you council president uh resolution eight amends the capital projects list",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1634.52,
+      "end": 1641.96,
+      "text": "from the 2018 bond issuance by moving approximately 9 500 from the oyster point 42 inch main",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1642.6,
+      "end": 1648.04,
+      "text": "project listed as part of that issuance and moved to the special and emergency water projects line",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1648.04,
+      "end": 1654.4,
+      "text": "item essentially just moving unused funds from that prior stated project",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1654.4,
+      "end": 1660.43,
+      "text": "which has been completed and moving it to the special emergency projects thank",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1660.43,
+      "end": 1664.89,
+      "text": "you very much and we did cover this pretty extensively in our last meeting",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1664.89,
+      "end": 1669.79,
+      "text": "counselors do you have any comments on the resolution for this capital project",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1669.79,
+      "end": 1683.66,
+      "text": "list comments from the public on the resolution mr. Harris if you would mr.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1683.66,
+      "end": 1692.34,
+      "text": "man I mr. Hirsch I miss me John I mr. Miller I mr. Stoss was I and president",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1692.34,
+      "end": 1700.66,
+      "text": "Baker I our next item is administration resolution number 9 2026 mr. Harris a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1700.66,
+      "end": 1704.92,
+      "text": "resolution of the council of the city of Lancaster approving an amended capital",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1704.92,
+      "end": 1708.3,
+      "text": "project list to be funded by the proceeds of the city of Lancaster",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1708.86,
+      "end": 1722.18,
+      "text": "general obligation bonds series of 2022. motion to approve second we have a motion and a second",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1722.18,
+      "end": 1727.97,
+      "text": "councillor hirsch similarly thank you council president yes uh resolution nine amends the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1727.97,
+      "end": 1735.17,
+      "text": "capital projects list from the 2022 bond issuance uh by reallocating 178 000 approximately uh to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1735.17,
+      "end": 1743.09,
+      "text": "the conestoga ceramic ceramic membrane uh pilot project uh from the completed uh as i understand",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1743.09,
+      "end": 1748.21,
+      "text": "its south tank and translate pipe replacement projects that were part of that issuance as well",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1748.21,
+      "end": 1755.65,
+      "text": "as a hundred thousand dollars out of the uh phase three large t d stormwater project additionally",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1755.65,
+      "end": 1761.17,
+      "text": "um a hundred thousand hundred thirty thousand dollars will be reallocated from the pipes and",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1761.17,
+      "end": 1767.01,
+      "text": "valves line uh to a new line item for water meters these adjustments allow the city to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1767.01,
+      "end": 1772.37,
+      "text": "reallocate unused funds from completed projects right size budgets for ongoing projects and moving",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1772.37,
+      "end": 1777.89,
+      "text": "funding to the water meters allows the city to make more improvements capital",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1777.89,
+      "end": 1782.13,
+      "text": "eligible in the case of the water meters gives the city access to longer-term",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1782.13,
+      "end": 1787.15,
+      "text": "capital financing such as low-interest pen vest loans that will allow the city",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1787.15,
+      "end": 1791.9,
+      "text": "to more favorably finance the implementation of these projects thank",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1791.9,
+      "end": 1796.46,
+      "text": "you very much councillor Hirsch I wanted to thank director Stephen Campbell who",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1796.46,
+      "end": 1799.76,
+      "text": "spoke to us at our last meeting about this and I know director Tina Campbell",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1799.76,
+      "end": 1805.28,
+      "text": "who um who did a lot of work to get to prepare these amendments i think for just those reasons",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1805.28,
+      "end": 1811.6,
+      "text": "that you mentioned about making projects capital eligible is incredibly smart and shows that we're",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1811.6,
+      "end": 1818.24,
+      "text": "thinking in in the long term in these projects and not just checking things off a capital project",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1818.24,
+      "end": 1824.8,
+      "text": "list for a bond even going back to 2022 i just appreciate the level of detail so i wanted to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1824.8,
+      "end": 1830.43,
+      "text": "thank you both for your work in that counselors any additional comments on",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1830.43,
+      "end": 1843.64,
+      "text": "resolution 9 from the public mr. Harris if you'd call the vote mr.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1843.64,
+      "end": 1854.58,
+      "text": "men ah mr. Hirsch all right mr. John hi mr. Miller I mr. sauce who's hi I'm",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1854.58,
+      "end": 1861.9,
+      "text": "president Becky I our next item this evening is a resolution number 10 2026",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1861.9,
+      "end": 1866.08,
+      "text": "mr. Harris if you would a resolution of the City Council of the city of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1866.08,
+      "end": 1871.3,
+      "text": "Lancaster approving a change in use of American Rescue Plan Act funds granted",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1871.3,
+      "end": 1875.68,
+      "text": "to South and concerned neighbors incorporated for building a community",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1875.68,
+      "end": 1880.24,
+      "text": "hub in the South End seventh Ward to remove the construction of a one-bedroom",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1880.24,
+      "end": 1884.32,
+      "text": "apartment unit from the project and authorizing the appropriate city",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1884.32,
+      "end": 1892.94,
+      "text": "officials to take any and all necessary actions to implement the same motion to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1892.94,
+      "end": 1898.89,
+      "text": "approve second we have a motion and a second counselor solstice yes we did",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1898.89,
+      "end": 1903.07,
+      "text": "discuss this at our committee meeting last week miss bird from South and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1903.07,
+      "end": 1906.69,
+      "text": "concerned neighbors was here to answer our questions I think this is pretty",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1906.69,
+      "end": 1911.73,
+      "text": "for straightforward their original plan included the one-bedroom apartment you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1911.73,
+      "end": 1915.09,
+      "text": "know we know housing is expensive to build in Lancaster and it takes a long",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1915.09,
+      "end": 1918.03,
+      "text": "time and so they've run some challenges with that and they're just asking to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1918.03,
+      "end": 1923.79,
+      "text": "remove that part of the project I do want to we did clarify you know if folks",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1923.79,
+      "end": 1928.05,
+      "text": "remember with the ARPA funding that the city received there was a call for",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1928.05,
+      "end": 1933.83,
+      "text": "applications for affordable housing and then a separate call for I think it was",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1933.83,
+      "end": 1939.75,
+      "text": "community services or along that line so this was the community benefit the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1939.75,
+      "end": 1943.53,
+      "text": "community services part of the ARPA funding they didn't south and concern",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1943.53,
+      "end": 1948.99,
+      "text": "neighbors didn't need to include housing in that project and so it was approved",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1948.99,
+      "end": 1953.13,
+      "text": "you know again not as the affordable housing fund but the community services",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1953.13,
+      "end": 1960.55,
+      "text": "fund so it still isn't aligned with the intention so yeah I think makes sense to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1960.55,
+      "end": 1966.75,
+      "text": "move forward with this thank you very much counselor I'll also just add we we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1966.75,
+      "end": 1970.11,
+      "text": "heard from Ms. Byrd at our last meeting and had some questions about the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1970.11,
+      "end": 1975.27,
+      "text": "timeline because I know that ARPA funding needs to be spent by the end of",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1975.27,
+      "end": 1979.53,
+      "text": "this year it needed to be allocated by the end of 2025 it needs to be spent by",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1979.53,
+      "end": 1986.25,
+      "text": "2026 i'm a little concerned of the timeline but she did share with us that she believes the project",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1986.25,
+      "end": 1991.85,
+      "text": "will be finished by the end of the year and i'm hopeful that with the removal of this apartment",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1991.85,
+      "end": 1999.45,
+      "text": "aspect which you're correct wasn't part of the community facilities um project that um that we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1999.45,
+      "end": 2006.01,
+      "text": "were looking for in the in the proposals that that will expedite this project um because i don't want",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2006.01,
+      "end": 2010.69,
+      "text": "to frankly leave any federal funding on the table that we had available to us",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2010.69,
+      "end": 2016.63,
+      "text": "for our community so cautiously optimistic that this change will allow",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2016.63,
+      "end": 2021.32,
+      "text": "that to happen a little bit faster councillors anything additional on",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2021.32,
+      "end": 2034.25,
+      "text": "resolution number 10 comments from the public on the resolution mr. Harris if",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2034.25,
+      "end": 2038.93,
+      "text": "you'd call the vote mr. Mudd aye mr. Hirsch all right miss",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2038.93,
+      "end": 2045.37,
+      "text": "Miss John aye mr. Miller aye mr. Stoss fuze aye and president Pekka aye",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2046.82,
+      "end": 2052.84,
+      "text": "Thank You councillors. We've got two more resolutions on our agenda this evening or next one is resolution number 11",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2053.62,
+      "end": 2057.84,
+      "text": "2026 mr. Harris a resolution of the Council of the City of Lancaster",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2058.42,
+      "end": 2064.86,
+      "text": "approving and establishing the process City Council will utilize to fill a vacancy on City Council created by the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2065.14,
+      "end": 2068.82,
+      "text": "Resignation a former council member and now mayor Jamie Arroyo",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2070.3,
+      "end": 2073.13,
+      "text": "Much to approve",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2073.13,
+      "end": 2074.24,
+      "text": "second",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2074.24,
+      "end": 2076.76,
+      "text": "Thank You counselors. We have a motion and a second",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2076.76,
+      "end": 2080.42,
+      "text": "We discussed this at our committee of the whole meeting on our meeting on January 6th",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2081.0,
+      "end": 2087.2,
+      "text": "We are required to establish the red lead through legislation a process to fill a vacancy",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2087.74,
+      "end": 2092.54,
+      "text": "As you might recall we now have 45 days as opposed to 30 to fill a vacancy",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2093.24,
+      "end": 2100.66,
+      "text": "The resolution that I proposed uses processes that we've done in the past to fill vacancies and in the recent past",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2100.66,
+      "end": 2106.12,
+      "text": "and also some best practices that we learned through a filling appointments",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2106.12,
+      "end": 2111.04,
+      "text": "to our ethics Commission last year it establishes a process where applications",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2111.04,
+      "end": 2116.02,
+      "text": "would become open once this legislation is adopted allows us to take",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2116.02,
+      "end": 2124.42,
+      "text": "applications for the next 10 days it does state the URL where applications",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2124.42,
+      "end": 2129.76,
+      "text": "will be taken which is the City Council website it establishes a process for us",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2129.76,
+      "end": 2136.36,
+      "text": "to select applicants for interview a process for interviewing them and then a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2136.36,
+      "end": 2141.04,
+      "text": "timeline to appoint them I'll take any discussion or comments from Council on",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2141.04,
+      "end": 2146.98,
+      "text": "the resolution. Council President if I may. Councilor Ahmed. As this motion and if",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2146.98,
+      "end": 2152.49,
+      "text": "this resolution does pass just wanted to follow up on when the press release will",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2152.49,
+      "end": 2158.77,
+      "text": "be sent out and when the updates to the city website to have the URL links will",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2158.77,
+      "end": 2162.91,
+      "text": "be available for members of the public great I believe the URL will be ready to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2162.91,
+      "end": 2169.65,
+      "text": "go as soon as this meeting is concluded this evening and about five minutes",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2169.65,
+      "end": 2174.35,
+      "text": "after the meeting is concluded and press release ready to go out by tomorrow",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2174.35,
+      "end": 2178.33,
+      "text": "thank you that concludes my questions and thank you council president for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2178.33,
+      "end": 2184.33,
+      "text": "putting this together I do believe that we did utilize things we've learned from",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2184.33,
+      "end": 2189.77,
+      "text": "past appointments um and try to enhance a process that the state doesn't really give us much",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2189.77,
+      "end": 2199.93,
+      "text": "guidelines on yes that's true thank you additional council comments counselors uh yeah thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2199.93,
+      "end": 2204.81,
+      "text": "council president um yeah just so i think that you know the main difference between this and",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2204.81,
+      "end": 2211.37,
+      "text": "and previous um uh processes that we went through for appointments is at least as i remember",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2211.37,
+      "end": 2217.19,
+      "text": "previously there it was kind of anyone who applied would be public invited to a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2217.19,
+      "end": 2222.95,
+      "text": "meeting and be publicly interviewed you know obviously if you when you apply",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2222.95,
+      "end": 2227.33,
+      "text": "when you know most organizations if you have people apply for jobs you don't",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2227.33,
+      "end": 2230.49,
+      "text": "necessarily interview all of them you know you kind of pick the best candidate",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2230.49,
+      "end": 2235.55,
+      "text": "so obviously this is a little bit of a different with it's a public process and",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2235.55,
+      "end": 2240.71,
+      "text": "a really important appointment but I do think it makes sense for us to try to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2240.71,
+      "end": 2244.75,
+      "text": "somewhat limit the number of folks that were being interviewed so I do",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2244.75,
+      "end": 2249.53,
+      "text": "appreciate that council president this is not included in the resolution or I'm",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2249.53,
+      "end": 2254.03,
+      "text": "not seeing it but if you could just say what we'll be asking folks who are",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2254.03,
+      "end": 2260.15,
+      "text": "applying what what we'll be asking them to yes so thank you for that the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2260.15,
+      "end": 2265.21,
+      "text": "resolution details that council should send questions that they wish to ask",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2265.21,
+      "end": 2271.89,
+      "text": "three questions and then I will endeavor and this is something I did in the last",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2271.89,
+      "end": 2276.89,
+      "text": "vacancy process to select six questions that are varied from those that were",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2276.89,
+      "end": 2281.89,
+      "text": "submitted combining questions that are similar so that we're asking of a rock",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2281.89,
+      "end": 2285.99,
+      "text": "six questions that kind of run the gamut of things that counselors wanted to ask",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2285.99,
+      "end": 2291.67,
+      "text": "applicants bless you the applicants will get the questions in advance and we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2291.67,
+      "end": 2297.54,
+      "text": "they'll be asked in the same order every single time sorry that's helpful information but i was",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2297.54,
+      "end": 2302.26,
+      "text": "actually asking so this this just says um anyone interested in filling this vacancy should apply",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2302.26,
+      "end": 2307.06,
+      "text": "and submit their resume yeah i'm assuming that we'll have more than just a resume but we'll have",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2307.06,
+      "end": 2311.78,
+      "text": "a cover letter or i'm just kind of wondering what what exactly is going to be in the application",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2311.78,
+      "end": 2317.3,
+      "text": "given that you know we will be kind of ranking these applicants yes thank you for that so the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2317.3,
+      "end": 2322.94,
+      "text": "application itself in addition to asking to upload a resume asking to certify the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2322.94,
+      "end": 2327.44,
+      "text": "questions of eligibility so the 18 or older registered voter two years of",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2327.44,
+      "end": 2334.22,
+      "text": "residency will also ask questions about community involvement why they want to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2334.22,
+      "end": 2340.02,
+      "text": "seek the appointment and I think I think those are it so just basically like why",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2340.02,
+      "end": 2343.34,
+      "text": "they would like to be considered and what organizations they may be",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2343.34,
+      "end": 2347.04,
+      "text": "affiliated with in the community if they've served on boards commissions and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2347.04,
+      "end": 2351.36,
+      "text": "in the past as well okay so not like an official cover letter but kind of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2351.36,
+      "end": 2356.72,
+      "text": "responses to a couple of questions correct thank you mm-hmm anything",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2356.72,
+      "end": 2362.07,
+      "text": "additional from council thank you councilor Miller council president I",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2362.07,
+      "end": 2366.77,
+      "text": "know that there was some discussion last time about whether or not our rank",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2366.77,
+      "end": 2370.51,
+      "text": "choice voting would be internal or external and I'm wondering where we",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2370.51,
+      "end": 2375.01,
+      "text": "landed on that we we could do either way I mean I would be willing to post that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2375.01,
+      "end": 2381.73,
+      "text": "once that has been processed so they're due to council president by the 27th so",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2381.73,
+      "end": 2385.81,
+      "text": "we have a very quick turnaround time but happy to publish the results of those",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2385.81,
+      "end": 2390.85,
+      "text": "yeah yeah I feel like it would be helpful to have those public if I was",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2390.85,
+      "end": 2393.85,
+      "text": "somebody who was applying to this position and I didn't get it I think it",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2393.85,
+      "end": 2397.29,
+      "text": "would be helpful for me to know how far away in some people's minds I was to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2397.29,
+      "end": 2400.63,
+      "text": "getting it so I could consider ways to increase my involvement or prepare for",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2400.63,
+      "end": 2404.05,
+      "text": "the future or just understand the process better I think that that makes",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2404.05,
+      "end": 2405.85,
+      "text": "And that's reasonable to do",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2405.85,
+      "end": 2411.97,
+      "text": "And then I would also just say that anyone is welcome to reach out to members of council because we are public officials",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2411.97,
+      "end": 2419.05,
+      "text": "We are publicly available. And so if they have further questions either before or after that, they can certainly do that as well. Thank you. Yes",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2419.81,
+      "end": 2422.37,
+      "text": "Thank you. Anything additional from council",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2424.5,
+      "end": 2426.5,
+      "text": "comments from the public on the resolution",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2426.9,
+      "end": 2438.86,
+      "text": "Hang on. Mr. Harris. Mr. Mudd. Aye. Mr. Hirsch. Aye. Miss Mijon. Aye. Mr. Miller. Aye",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2438.86,
+      "end": 2448.27,
+      "text": "aye mr sauces aye and president peke aye our final item under resolutions this evening is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2448.27,
+      "end": 2455.79,
+      "text": "resolution number 12 2026 mr harris a resolution of the city council of the city of lancaster",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2455.79,
+      "end": 2460.75,
+      "text": "establishing rules and order of business in accordance with article 6 section 1 of the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2460.75,
+      "end": 2471.36,
+      "text": "administrative code of the city of lancaster motion to approve second we have a motion and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2471.36,
+      "end": 2475.68,
+      "text": "a second on the resolution counselors again we discussed this at our committee of the whole",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2475.68,
+      "end": 2480.64,
+      "text": "as we are now required by the administrative code of the city of lancaster to establish",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2480.64,
+      "end": 2488.56,
+      "text": "rules governing the pro the order and process of city council i've endeavored to create a",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2488.56,
+      "end": 2494.32,
+      "text": "resolution that codifies some long-standing practice about com about three-minute comment",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2494.32,
+      "end": 2500.88,
+      "text": "periods um we also included some language recommended by the city solicitor about",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2501.6,
+      "end": 2507.04,
+      "text": "the council president's role and their role in debate and when they should hand off the gavel",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2507.04,
+      "end": 2514.88,
+      "text": "which we discussed also we added some language and some guidance for committees of council to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2514.88,
+      "end": 2521.28,
+      "text": "elevate the work of committees and allow them to direct city staff to allocate time for research",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2521.28,
+      "end": 2527.46,
+      "text": "or any other type of work that a committee may deem important enough that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2527.46,
+      "end": 2533.1,
+      "text": "would rise to the level in hopes that that will create more comments and",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2533.1,
+      "end": 2538.02,
+      "text": "conversation and discussion in committees prior to legislation sort of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2538.02,
+      "end": 2544.27,
+      "text": "landing in those committees that's my brief summary of that any additional",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2544.27,
+      "end": 2550.37,
+      "text": "comments from counsel on our our business and operate our order of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2550.37,
+      "end": 2559.03,
+      "text": "business resolution that's the word I'm looking for any comments from the public",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2559.03,
+      "end": 2568.42,
+      "text": "on resolution number 12 mr. Harris if you would call the vote mr. Mudd all",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2568.42,
+      "end": 2576.34,
+      "text": "right mr. Hirsch all right miss Bajan I mr. Miller I mr. Stolzfus I and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2576.34,
+      "end": 2580.96,
+      "text": "president Baker I thank you very much councillors that concludes our",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2580.96,
+      "end": 2585.86,
+      "text": "legislative agenda this evening as we discussed at the top of the meeting the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2585.86,
+      "end": 2591.9,
+      "text": "second public comment period is on this agenda that should not appear on this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2591.9,
+      "end": 2595.58,
+      "text": "agenda as we cover them in the beginning of the meeting per our new",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2595.58,
+      "end": 2600.38,
+      "text": "administrative code that was adopted at the end of 2025 that will take us then",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2600.38,
+      "end": 2605.46,
+      "text": "to the report of the mayor mayor Arroyo thank you Thank You council president",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2605.46,
+      "end": 2610.12,
+      "text": "today marks my inaugural full week as mayor of the city of Lancaster and it's",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2610.12,
+      "end": 2613.78,
+      "text": "been an enjoyable and enlightening experience I've had the pleasure of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2613.78,
+      "end": 2618.66,
+      "text": "meeting with city staff and directors to begin outlining the priorities for 2026 and beyond",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2618.66,
+      "end": 2623.3,
+      "text": "we have some exciting initiatives planned for 2026 that i'm here to share in the coming months",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2623.3,
+      "end": 2627.3,
+      "text": "to ensure that we're building an economy that works a government that delivers and a city",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2627.3,
+      "end": 2632.9,
+      "text": "built for everyone this evening i'm thrilled to share an exciting update with you all on wednesday",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2632.9,
+      "end": 2638.82,
+      "text": "the city of lancaster will be launching a customer facing website and brand for our water utility",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2638.82,
+      "end": 2644.9,
+      "text": "lancaster city water lancaster city waters website will provide valuable information to all city and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2644.9,
+      "end": 2649.94,
+      "text": "county water customers it will include customer service details such as bill payment and updates",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2649.94,
+      "end": 2655.86,
+      "text": "for an alert additionally the website will offer information about service rates and fees",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2655.86,
+      "end": 2661.86,
+      "text": "as well as proposed rate changes it will also feature water quality reports and details about",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2661.86,
+      "end": 2666.9,
+      "text": "our service line inventory it's important to note that the city of lancaster retains ownership of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2666.9,
+      "end": 2671.62,
+      "text": "the water utility and there will be no changes to your ability to pay your water bills this",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2671.62,
+      "end": 2676.26,
+      "text": "initiative aims to provide a customer-friendly platform for accessing information and receiving",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2676.26,
+      "end": 2682.1,
+      "text": "the high level of customer service that our rate payers deserve you can visit the new site once it",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2682.1,
+      "end": 2688.1,
+      "text": "goes live tomorrow at water.cityoflancasterpa.gov that concludes my report council president",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2688.1,
+      "end": 2693.3,
+      "text": "thank you very much council royal uh counselors we have a fact sheet on that change um that's in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2693.3,
+      "end": 2698.02,
+      "text": "front of each of you if you've got questions about that i see the next item on our agenda",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2698.02,
+      "end": 2703.3,
+      "text": "this evening is the report of president of council i don't have any specific report to provide this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2703.3,
+      "end": 2708.5,
+      "text": "evening we will now open it up if there are any council comments this evening are there any council",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2708.5,
+      "end": 2718.64,
+      "text": "comments counselor miller i would just like to say that i'm excited about this customer facing",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2718.64,
+      "end": 2722.16,
+      "text": "web page i think it's going to be really useful for folks and a lot of my friends come to me with",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2722.16,
+      "end": 2726.4,
+      "text": "questions often and i can push them here now so thank you to all the staff who work so hard on",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2726.4,
+      "end": 2734.09,
+      "text": "this yeah thank you yeah all right members of council then hearing no",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2734.09,
+      "end": 2737.21,
+      "text": "further council comments and reach the ending of our agenda I'll hear a motion",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2737.21,
+      "end": 2739.57,
+      "text": "to adjourn",
+      "speaker": "SPEAKER_00"
+    }
+  ]
 }

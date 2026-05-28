@@ -1,6 +1,4890 @@
 {
   "file": "City Council Meeting - October 28, 2025 [Ffwwu-vf22M]",
   "rttm_mode": "exclusive",
-  "speaker_summary": {},
-  "segments": []
+  "speaker_summary": {
+    "SPEAKER_00": {
+      "total_speech_s": 3422.9,
+      "segment_count": 571,
+      "word_count": 8196
+    },
+    "UNKNOWN": {
+      "total_speech_s": 1145.8,
+      "segment_count": 241,
+      "word_count": 3199
+    }
+  },
+  "segments": [
+    {
+      "start": 171.82,
+      "end": 173.94,
+      "text": "Test",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 173.94,
+      "end": 253.89,
+      "text": "Okay, thanks. Good evening everyone. I now call to order this October 28th meeting of Lancaster City Council welcome a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 255.52,
+      "end": 257.52,
+      "text": "few",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 257.74,
+      "end": 260.64,
+      "text": "Reminders here at the top of our meeting during this",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 261.76,
+      "end": 265.4,
+      "text": "During our meeting this evening there will be opportunities for public comment",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 265.94,
+      "end": 272.34,
+      "text": "The first general public comment period is for residents that have registered in advance to speak about items that are not on the agenda",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 272.34,
+      "end": 278.52,
+      "text": "residents may also comment on individual legislative items that's section 9 on",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 278.52,
+      "end": 282.3,
+      "text": "our agenda this evening finally a second public comment period will be at the end",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 282.3,
+      "end": 286.1,
+      "text": "of the agenda for any other speakers wishing to address council about items",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 286.1,
+      "end": 290.08,
+      "text": "not previously addressed all speakers will be reminded to begin with our name",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 290.08,
+      "end": 293.4,
+      "text": "and block of residents for our meeting record and adjust our comments toward",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 293.4,
+      "end": 297.52,
+      "text": "council please be advised that public comment is not a question answer period",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 297.52,
+      "end": 301.62,
+      "text": "all comments are limited to three minutes per speaker and to keep time I",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 301.62,
+      "end": 306.34,
+      "text": "i will be using this timer light it will turn green when a speaker begins it will flash yellow",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 306.34,
+      "end": 310.98,
+      "text": "when there is one minute remaining and it will flash red when we've reached three minutes",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 311.78,
+      "end": 317.38,
+      "text": "if a speaker continues after three minutes they will be asked to end their comment i appreciate",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 317.38,
+      "end": 322.66,
+      "text": "everyone's cooperation to maintain order and respectfulness and also equal time this evening",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 323.54,
+      "end": 327.62,
+      "text": "also just a reminder this meeting is being recorded and this is an excellent opportunity",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 327.62,
+      "end": 333.3,
+      "text": "to silence your devices if you haven't done so already lastly an announcement before we get our",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 333.3,
+      "end": 337.14,
+      "text": "begin our meeting tonight i would like to announce that council has not yet received",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 337.14,
+      "end": 342.26,
+      "text": "the community benefit agreement being negotiated with carissa technology parks while this is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 342.26,
+      "end": 347.3,
+      "text": "disappointing i want to ensure the public that the delay is not because work is is not excuse",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 347.3,
+      "end": 352.82,
+      "text": "me it's not because work is not being done in fact it has been ongoing and i appreciate that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 352.82,
+      "end": 356.78,
+      "text": "will take time to deliver an agreement to council that is more than perfunctory",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 356.78,
+      "end": 362.3,
+      "text": "I have a meeting scheduled later this week to receive updates and I will I",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 362.3,
+      "end": 365.54,
+      "text": "have been told that we can expect that this will come before council in",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 365.54,
+      "end": 369.74,
+      "text": "November I remain committed to keeping the public informed as I receive updates",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 369.74,
+      "end": 373.88,
+      "text": "and now for all of those who are willing and able please rise for the Pledge of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 373.88,
+      "end": 399.72,
+      "text": "Allegiance mr. Harris would you please call the roll of members yes madam",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 399.72,
+      "end": 407.78,
+      "text": "president mr. men here mr. Roya here mr. Cleese yeah miss Craig here miss Diaz",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 407.78,
+      "end": 416.49,
+      "text": "here mr. Hirsch yeah here we will first take up the approval of the minutes of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 416.49,
+      "end": 424.32,
+      "text": "our October 14th 2025 meeting of counsel motion to approve second we have a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 424.32,
+      "end": 430.37,
+      "text": "motion and a second councillors any comments on our minutes hearing none",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 430.37,
+      "end": 437.83,
+      "text": "mr. Harris mr. Wynn aye mr. Arroyo aye mr. Cleese aye miss Craig all right miss",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 437.83,
+      "end": 445.1,
+      "text": "Diaz mr. Hirsch all right president Baker aye the next item on our agenda is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 445.1,
+      "end": 449.06,
+      "text": "proclamations honors awards and resolutions of recognition mr. Harris",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 449.06,
+      "end": 452.3,
+      "text": "confirming that we have none of those on our agenda this evening we do not matter",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 452.3,
+      "end": 459.67,
+      "text": "president thank you all right that will take us into our first public comment",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 459.67,
+      "end": 462.85,
+      "text": "period again this is reserved for residents that did contact the city",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 462.85,
+      "end": 466.69,
+      "text": "clerk prior to the meeting to request the opportunity to address counsel",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 466.69,
+      "end": 470.77,
+      "text": "again duration of comments is limited to three minutes mr. Harris we have",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 470.77,
+      "end": 474.79,
+      "text": "speakers for this comment period we do madam president first is Susan Gomez",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 474.79,
+      "end": 485.72,
+      "text": "thank you and for speakers our microphone is right there and if you're",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 485.72,
+      "end": 489.46,
+      "text": "the first speaker you may need to turn it on if it's not on already for you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 489.46,
+      "end": 506.33,
+      "text": "Thank You mr. Harris perfect good evening good evening",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 506.33,
+      "end": 513.98,
+      "text": "susie gomez 800 block at east orange street um just going to jump right into it um playing",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 513.98,
+      "end": 519.56,
+      "text": "devil's advocate has disrupted an entire conservative city what's right should be",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 519.56,
+      "end": 526.7,
+      "text": "right what's wrong is wrong what's good is good and what's bad is evil we the citizens and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 526.7,
+      "end": 533.82,
+      "text": "residents of lancaster pa city are affected by the unfinished roads rerouting of buses potholes",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 533.82,
+      "end": 540.26,
+      "text": "car repairs closure of kunzler and many other prominent businesses lack of leadership zero",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 540.26,
+      "end": 546.14,
+      "text": "accountability transparency is out the window leaving us to face these conditions every day",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 546.14,
+      "end": 552.68,
+      "text": "young adults dying in numbers lack of distribution of funding projects dismantled permits censored",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 552.68,
+      "end": 559.06,
+      "text": "and contracts given to outsiders who can't complete major roads out of respect to commuters",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 559.06,
+      "end": 564.74,
+      "text": "and taxpayers not to mention the 100 students walking out of mccaskey to join a movement that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 564.74,
+      "end": 569.94,
+      "text": "they should have never been a part of because the government shutdown is based on undecided",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 569.94,
+      "end": 577.14,
+      "text": "politicians who can't seem to agree on who the money is going to be spent on the amount of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 577.14,
+      "end": 582.9,
+      "text": "misuse of funds in the united states of america should never harm any child from being educated",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 582.9,
+      "end": 589.38,
+      "text": "especially when pre-planned budgets take place before the opening of any school and funding has",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 589.38,
+      "end": 596.9,
+      "text": "been applied prior to any student entering any school no one can operate projectively",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 597.46,
+      "end": 603.62,
+      "text": "on empty budgets every child comes with a price and government funding is always applied not to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 603.62,
+      "end": 615.18,
+      "text": "mention school taxes taken out as well to balance a deficit if attended to for the needs of the and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 615.18,
+      "end": 621.9,
+      "text": "for the needs and purposes it was taken for in the first place it shouldn't be hard to do that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 622.78,
+      "end": 628.94,
+      "text": "did i mention the amount of young and old unhoused homelessness crimes and so much more now we have",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 628.94,
+      "end": 634.98,
+      "text": "animals being displaced on top of the hazardous water where the people well",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 634.98,
+      "end": 638.82,
+      "text": "sorry where the police department can no longer be responsible to house stray",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 638.82,
+      "end": 644.6,
+      "text": "animals because the city has yet to repair the HVAC system as promised so",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 644.6,
+      "end": 649.46,
+      "text": "these animals have to travel to Philadelphia etc employees jobs are",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 649.46,
+      "end": 653.96,
+      "text": "jeopardized la academia students still waiting on repairs to be completed just",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 653.96,
+      "end": 657.8,
+      "text": "an overwhelming amount of issues that Jamie Arroyo will be left with as a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 657.8,
+      "end": 663.4,
+      "text": "landlord and business owner for over five years in the city or the next mayor",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 663.4,
+      "end": 667.76,
+      "text": "but I do thank the police department for stepping in to volunteer with these",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 667.76,
+      "end": 672.98,
+      "text": "animals because the Humane League and other shelters if any well they have",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 672.98,
+      "end": 678.44,
+      "text": "other plans so we are left with a mouthful of problems and taxation is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 678.44,
+      "end": 682.44,
+      "text": "still on the rise while developers get breaks and colleagues get to decide our",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 682.44,
+      "end": 689.05,
+      "text": "future and unskilled workers get to run our city down to the ground thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 689.05,
+      "end": 698.36,
+      "text": "mr. Harris our next speaker for this period yes madam president next is James",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 698.36,
+      "end": 708.9,
+      "text": "Rokowitz is mr. Rokowitz here this evening we'll go to our next commenter",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 708.9,
+      "end": 721.79,
+      "text": "and I'll recall his name at the end next is Ian I'm sorry Ian McAndrew good",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 721.79,
+      "end": 728.87,
+      "text": "evening I'm Ian McAndrew I'm a Lancaster resident and I'm very concerned about",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 728.87,
+      "end": 734.83,
+      "text": "the proposed data centers I feel this may be a little premature given that you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 734.83,
+      "end": 742.92,
+      "text": "don't have the CBA in hand yet but frankly my understanding of the CBA is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 742.92,
+      "end": 750.66,
+      "text": "that it's very short on benefits for the community and very short on enforcement",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 750.66,
+      "end": 755.58,
+      "text": "mechanisms for violating its own policies what happens two years down the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 755.58,
+      "end": 762.72,
+      "text": "road when something goes wrong I look forward to this council and anybody",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 762.72,
+      "end": 768.5,
+      "text": "involved paying particular attention to the community benefits portion of the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 768.5,
+      "end": 774.37,
+      "text": "community benefits agreement I think I'm gonna wait for anything else thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 774.37,
+      "end": 778.33,
+      "text": "for your time away for everything else until you have a CBA and we'll do this",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 778.33,
+      "end": 794.12,
+      "text": "next thank you our next comments are mr. Harris next is Sarah Berman good evening thank you all",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 794.12,
+      "end": 801.38,
+      "text": "for your dedicated service to our fine town my name is Sarah Berman I'm reside on the 100 block",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 801.38,
+      "end": 809.64,
+      "text": "of North Mary Street I'm also here to express my concerns about the data centers the environmental",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 809.64,
+      "end": 817.16,
+      "text": "impact both on water and energy not to mention the extreme light and sound pollution that people who",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 817.16,
+      "end": 823.56,
+      "text": "are already living nearby these centers are experiencing it is absolutely life-changing",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 823.56,
+      "end": 831.0,
+      "text": "and not for the better and the thing that's happening now and i thank you very much for the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 831.0,
+      "end": 838.28,
+      "text": "quick update at the beginning about the cbas i'm very also much looking forward to seeing how that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 838.28,
+      "end": 843.04,
+      "text": "has hopefully been improved because as Ian mentioned as of now it lacks any enforcement",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 843.04,
+      "end": 850.58,
+      "text": "any teeth a lot of nebulous yeah we'll see what we can do about that from the developer side that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 850.58,
+      "end": 860.16,
+      "text": "just makes me very nervous and the other thing that I think we need to be reminding ourselves",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 860.16,
+      "end": 867.04,
+      "text": "of is all of these potential risks that we're taking is just for phase one there's going to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 867.04,
+      "end": 874.6,
+      "text": "be a phase two and we're not even planning for that yet and so no one is going to come in to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 874.6,
+      "end": 882.24,
+      "text": "any community and spend billions of dollars not to get to phase two we need to know what that entails",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 882.24,
+      "end": 890.6,
+      "text": "the only thing they've really said about phase two is that in general it's all just more",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 890.6,
+      "end": 900.64,
+      "text": "more energy more light more sound more space and we already discussed the CBA",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 900.64,
+      "end": 904.96,
+      "text": "and I look forward to that and the last thing I want to say is that I hope that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 904.96,
+      "end": 911.5,
+      "text": "this experience is teaching us the urgency of potentially reforming some of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 911.5,
+      "end": 918.1,
+      "text": "our zoning laws so that we can catch up to tech as it is today because these",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 918.1,
+      "end": 925.92,
+      "text": "these data centers were approved under nebulous circumstances because they were",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 925.92,
+      "end": 931.28,
+      "text": "classified incorrectly as warehouses and we all know that they are not we just",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 931.28,
+      "end": 937.28,
+      "text": "don't have the laws that meet the story and we have to come up with some more",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 937.28,
+      "end": 942.96,
+      "text": "robust options to protect ourselves in our community thank you very much thank",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 942.96,
+      "end": 952.69,
+      "text": "you mr. Harris our next speaker this evening yes madam president next to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 952.69,
+      "end": 962.86,
+      "text": "charlotte altemeyer good evening hi there thank you my name is charlotte altemeyer i'm a resident",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 962.86,
+      "end": 968.78,
+      "text": "on the 200 block of charlotte street as it is charlotte on charlotte uh first i'm very concerned",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 968.78,
+      "end": 973.5,
+      "text": "that something as consequential as a multi-billion dollar data center was able to move forward without",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 973.5,
+      "end": 978.62,
+      "text": "public input i believe we should be investigating how that was able to happen second the draft",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 978.62,
+      "end": 982.86,
+      "text": "community benefit agreement as it's currently written lacks details around benefits for the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 982.86,
+      "end": 987.98,
+      "text": "community it offers soft language around harm avoidance i recommend a working group be brought",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 987.98,
+      "end": 991.66,
+      "text": "together to strengthen that community benefit agreement it sounds like there is work in process",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 991.66,
+      "end": 998.14,
+      "text": "there but certainly calling out the inclusion of accountability and mechanisms to ensure that the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 998.14,
+      "end": 1003.34,
+      "text": "agreement is honored and lastly i would call out that the events surrounding the data center in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1003.34,
+      "end": 1008.38,
+      "text": "general have broken my trust and my confidence and i would ask that everyone sitting on this council",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1008.38,
+      "end": 1014.7,
+      "text": "think about how this council had can bring back trust in its citizens like me and others it's",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1014.7,
+      "end": 1026.91,
+      "text": "of major concern thank you thank you mr harris our next speaker next speaker is carlos gonzalez",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1026.91,
+      "end": 1032.67,
+      "text": "thank you i do have a note that mr gonzalez has requested interpretation services this evening",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1033.39,
+      "end": 1038.51,
+      "text": "so he will have his three minutes for comment and then i will allow additional time for the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1038.51,
+      "end": 1048.46,
+      "text": "interpretation good evening first of all good evening i would like to give a copy of this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1049.44,
+      "end": 1054.66,
+      "text": "reading he has copies of the translation in english that he would like to provide to each of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1054.66,
+      "end": 1066.21,
+      "text": "you thank you good evening city council member member the consejo municipal gracias por la",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1066.21,
+      "end": 1075.25,
+      "text": "oportunidad de estar aqui esta noche mi nombre es carlos gonzalez he sido residente at 321 south n",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1075.25,
+      "end": 1084.22,
+      "text": "street during durante 37 años estoy aquí en nombre de mi bloque de mi cuadra 300 bloque",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1085.02,
+      "end": 1094.4,
+      "text": "del vecindario de saúl street donde hay más de 40 familia que vive en este lado de la de la acera",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1094.4,
+      "end": 1102.88,
+      "text": "de la calle también soy parte de saúl concern and neighbor y hemos estado aquí para mejorar",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1102.88,
+      "end": 1111.17,
+      "text": "la vida de los de los miembros del vecindario estoy aquí en este momento para comentar sobre",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1111.17,
+      "end": 1120.94,
+      "text": "una preocupación del vecindario que está teniendo lugar ahora en estos momentos el alleyway 59",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1120.94,
+      "end": 1130.45,
+      "text": "que está detrás de la cuadra del 300 bloque del sawen street fue anteriormente un callejón privado",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1130.45,
+      "end": 1138.34,
+      "text": "que durante muchos años fue vigilado y atendido por nosotros por los vecinos de ese bloc ahora el",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1138.34,
+      "end": 1151.41,
+      "text": "area way 59 por varios años como 10 años ha sido pertenece pertenece a la ciudad y se suponía que",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1151.41,
+      "end": 1157.85,
+      "text": "ellos que la ciudad se iba a preocupar del mantenimiento y de la recogida de nieve y de",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1157.85,
+      "end": 1164.53,
+      "text": "todo lo que había pues durante todos estos años eso no se hizo y nosotros seguimos como",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1164.53,
+      "end": 1177.05,
+      "text": "vecindario dándole mantenimiento y cuidado a ese alleyway la ciudad aprobó unos permisos",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1177.05,
+      "end": 1184.07,
+      "text": "para una persona externa a nuestro vecindario que no vive en nuestra comunidad que no es parte de",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1184.07,
+      "end": 1215.04,
+      "text": "nuestro neighborhood. Y para que él usara un lote que está detrás del alleyway, que es parte del alleyway, un lote que él iba a construir un garaje grande con un parqueo para poder traer su negocio aquí, un negocio comercial en la que utiliza vehículos de heavy load, de carga grande, clase 3,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1215.06,
+      "end": 1224.04,
+      "text": "cuatro y cinco más de diez mil libras de capacidad de libre peso los vecinos de",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1224.04,
+      "end": 1230.86,
+      "text": "saúl street de saúl marshall street se negaron a proveerle un acceso a través",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1230.86,
+      "end": 1239.07,
+      "text": "de saúl marshall street para que él pudiera entrar a su negocio pero fue",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1239.07,
+      "end": 1249.09,
+      "text": "negado porque el vecindario se impuso a eso. Entonces, en este momento, el dueño de este",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1249.09,
+      "end": 1258.27,
+      "text": "negocio adquiere ingresos a través de Dolphin Street and Juniata Street para poder tener",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1258.27,
+      "end": 1264.25,
+      "text": "acceso a su lugar. Y el alleyway ahora está invadido por vehículos de más de 10,000",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1264.25,
+      "end": 1271.87,
+      "text": "libras de peso en la que está afectando a la comunidad al barrio y es un peligro",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1271.87,
+      "end": 1277.87,
+      "text": "para los niños del vecindario los niños que juegan normalmente detrás de la ley",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1277.87,
+      "end": 1284.05,
+      "text": "detrás de las casas y además que hay un pasillo constante de estudiantes de las",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1284.05,
+      "end": 1289.21,
+      "text": "tres escuelas mccaskey washington school and middle school pasan constantemente",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1289.21,
+      "end": 1295.97,
+      "text": "by that alleyway, with their parents and their families entering the school and arriving",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1295.97,
+      "end": 1296.45,
+      "text": "at the school.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1297.03,
+      "end": 1304.07,
+      "text": "So our biggest concern is how to prove that someone can do this type of commercial activity",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1304.07,
+      "end": 1306.43,
+      "text": "in a neighborhood that is residential.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1307.43,
+      "end": 1309.67,
+      "text": "That is our biggest concern.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1310.21,
+      "end": 1312.58,
+      "text": "And we want an answer.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1313.0,
+      "end": 1314.02,
+      "text": "You already have an answer.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1314.5,
+      "end": 1318.34,
+      "text": "And what could you do to protect us in this aspect?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1318.34,
+      "end": 1319.44,
+      "text": "Thank you.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1319.76,
+      "end": 1327.02,
+      "text": "mr. Gonzalez we will allow additional time for inter English interpretation",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1327.02,
+      "end": 1335.26,
+      "text": "and I appreciate that you have provided this to us in writing as well okay so",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1335.26,
+      "end": 1339.12,
+      "text": "good evening City Council members thank you for the opportunity to be here",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1339.12,
+      "end": 1343.58,
+      "text": "tonight my name is Carlos Gonzalez I have been a resident of 321 South Ann",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1343.58,
+      "end": 1348.6,
+      "text": "Street for 37 years I am here on behalf of the 300 block of South Hand Street",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1348.6,
+      "end": 1353.24,
+      "text": "neighborhood and the more than 40 families living there. I am also part of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1353.24,
+      "end": 1358.04,
+      "text": "South Anne Concerned Neighbors. I am here to comment on a neighborhood concern",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1358.04,
+      "end": 1365.56,
+      "text": "taking place now. Alley 59 which is behind the 300 block of South Anne Street",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1365.56,
+      "end": 1370.0,
+      "text": "was previously a private alleyway that for many years was watched and serviced",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1370.0,
+      "end": 1376.12,
+      "text": "by the neighbors. Now alley 59 belongs to the city however the neighbors continue",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1376.12,
+      "end": 1383.14,
+      "text": "to provide maintain and watch over the alley because the city doesn't do it the city approved",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1383.14,
+      "end": 1388.96,
+      "text": "permits for an external individual who is not part of the neighborhood to establish his commercial",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1388.96,
+      "end": 1396.32,
+      "text": "business headquarters in an empty lot nearby which only has access through alley 59 the commercial",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1396.32,
+      "end": 1402.51,
+      "text": "business is a trucking and hauling company using class 3 trucks and higher class 3 trucks and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1402.51,
+      "end": 1405.15,
+      "text": "higher, weighing more than 10,000 pounds.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1405.15,
+      "end": 1408.25,
+      "text": "South Marshall Street neighbors refused and denied access",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1408.25,
+      "end": 1411.95,
+      "text": "through the South Marshall Street nearby alley.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1411.95,
+      "end": 1416.95,
+      "text": "Now the alley 59 only access can be through Juniata Street",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1417.59,
+      "end": 1419.01,
+      "text": "or Dauphin Street.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1419.01,
+      "end": 1421.71,
+      "text": "These are the concerns of having a large vehicle",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1421.71,
+      "end": 1423.27,
+      "text": "commercial business headquarters",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1423.27,
+      "end": 1424.87,
+      "text": "in residential neighborhood.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1424.87,
+      "end": 1429.05,
+      "text": "Danger to neighborhood children who play and walk",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1429.05,
+      "end": 1431.21,
+      "text": "and go to school and back from school,",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1431.21,
+      "end": 1435.05,
+      "text": "damage to alley roadways, continued truck weight,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1435.05,
+      "end": 1440.05,
+      "text": "causing asphalt damages, large potholes and cracked roads",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1440.21,
+      "end": 1443.47,
+      "text": "that are trip hazards to the pedestrians,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1443.47,
+      "end": 1446.63,
+      "text": "parking limitations and financial stress on families",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1446.63,
+      "end": 1448.69,
+      "text": "from limited parking availability.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1448.69,
+      "end": 1450.71,
+      "text": "Years ago, neighbors were allowed to park",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1450.71,
+      "end": 1453.29,
+      "text": "behind the houses without blocking each other.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1453.29,
+      "end": 1455.37,
+      "text": "Presently, neighbors are ticketed",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1455.37,
+      "end": 1457.69,
+      "text": "for parking behind their houses",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1457.69,
+      "end": 1460.17,
+      "text": "due to this business demand.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1460.17,
+      "end": 1462.81,
+      "text": "Continued altercations of upset neighbors",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1462.81,
+      "end": 1463.85,
+      "text": "and the business owner.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1463.85,
+      "end": 1467.13,
+      "text": "The upset neighbors continue to confront the business owner",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1467.13,
+      "end": 1468.93,
+      "text": "in a physical and upset manner.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1469.99,
+      "end": 1472.25,
+      "text": "How could the city provide protections",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1472.25,
+      "end": 1475.79,
+      "text": "for a one single business and not favor",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1475.79,
+      "end": 1478.21,
+      "text": "the more than 40 families in the neighborhood",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1478.21,
+      "end": 1481.01,
+      "text": "affected by this business choice of establishment",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1481.01,
+      "end": 1482.89,
+      "text": "in a residential zone?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1482.89,
+      "end": 1484.59,
+      "text": "Please review the construction permits",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1484.59,
+      "end": 1486.21,
+      "text": "and provide solutions to benefit",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1486.21,
+      "end": 1488.65,
+      "text": "and protect the residential neighborhood.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1488.65,
+      "end": 1490.49,
+      "text": "sincerely Carlos Gonzalez",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1490.49,
+      "end": 1497.29,
+      "text": "Thank you very much",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1497.29,
+      "end": 1499.75,
+      "text": "Mr. Harris, we have additional speakers for this period",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1500.49,
+      "end": 1502.78,
+      "text": "We do madam president. Thank you",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1506.0,
+      "end": 1517.38,
+      "text": "Next is Bob Carlson. Good evening",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1524.23,
+      "end": 1529.29,
+      "text": "Just got a little closer to the microphone you can lift it up if he needs that. Thank you. Perfect. Okay",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1529.87,
+      "end": 1534.63,
+      "text": "Thank you all and I just wanted to reiterate what the other said about the data center",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1534.97,
+      "end": 1547.59,
+      "text": "And I moved here to this area about two years ago from Texas, where in Texas they had some problems with data centers, where they, I don't know if you've read about them.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1547.59,
+      "end": 1552.03,
+      "text": "But anyway, I moved here basically for the quality of life.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1552.43,
+      "end": 1560.35,
+      "text": "Lancaster is a great area, and I investigated a lot of different areas up here in the northeast to get away from those Texas summers.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1560.35,
+      "end": 1566.29,
+      "text": "and Lancaster just looked like a perfect place and now I see that you are",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1566.29,
+      "end": 1571.45,
+      "text": "thinking about having data centers come into the community which I'm not you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1571.45,
+      "end": 1576.43,
+      "text": "know anti-business I'm pro-business but there has to be a good reason for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1576.43,
+      "end": 1580.79,
+      "text": "bringing them in here and if they're coming in where they're going to abuse",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1580.79,
+      "end": 1586.85,
+      "text": "our resources our electric grid and our water system and you know just take",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1586.85,
+      "end": 1594.95,
+      "text": "advantage of us and they use this term data center and a factory I mean they a",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1594.95,
+      "end": 1600.57,
+      "text": "warehouse I'm sure those terms were all focus grouped so that you could like",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1600.57,
+      "end": 1606.89,
+      "text": "them where they're really they should be what they they're more like a technical",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1606.89,
+      "end": 1613.25,
+      "text": "factory would be more appropriate and so if you said I'm going to have a factory",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1613.25,
+      "end": 1617.21,
+      "text": "stuck in your neighborhood you might be a little more hesitant about letting",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1617.21,
+      "end": 1620.99,
+      "text": "them in but that's more of what they are because they're going to be polluting",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1620.99,
+      "end": 1626.09,
+      "text": "the area with noise and air pollution and they're going to be draining our",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1626.09,
+      "end": 1632.63,
+      "text": "resources so just think about what letting into the community and how",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1632.63,
+      "end": 1637.03,
+      "text": "they're going to pay for it and you know take care of the community they're not",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1637.03,
+      "end": 1640.23,
+      "text": "going to bring bring it in a lot of employment there's going to be very",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1640.23,
+      "end": 1648.87,
+      "text": "little employment and a good case in point is today amazon just laid off 14 000 workers and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1649.51,
+      "end": 1655.75,
+      "text": "because of ai so more likely what they're doing is you know they'll bring in a minor",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1655.75,
+      "end": 1662.23,
+      "text": "amount of employment to the area but not much so think about what you're doing thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1666.24,
+      "end": 1670.88,
+      "text": "mr harris we have additional speakers for this period yes madam president next speaker is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1670.88,
+      "end": 1714.79,
+      "text": "Bruce Dwayne Mungay thank you mr. Harris it moves but sometimes not as easily",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1714.79,
+      "end": 1719.57,
+      "text": "okay thank you that's perfect thank you",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1719.57,
+      "end": 1725.47,
+      "text": "1620 Robert Road since Jimmy Carter was president of the United States I've been",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1725.47,
+      "end": 1731.92,
+      "text": "here a while i've seen a lot of changes but first i want to go through some definitions",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1731.92,
+      "end": 1739.44,
+      "text": "make sure everybody's on the same page when i use these words one a warehouse is a place to store",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1739.44,
+      "end": 1748.11,
+      "text": "physical items it's not a empty building manufacturer is a place where raw materials",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1748.11,
+      "end": 1759.86,
+      "text": "are turned into the physical final physical form now i do notice that where this glenn road is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1761.46,
+      "end": 1771.38,
+      "text": "excuse me nervous it's zoned suburban manufacturing it is not a warehouse or whatever",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1771.38,
+      "end": 1779.68,
+      "text": "so the zoning is wrong and what is an ai or data center and we always heard these terms",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1781.29,
+      "end": 1786.07,
+      "text": "Well, they're a physical facility that houses computing, network equipment like servers,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1786.07,
+      "end": 1791.79,
+      "text": "storage systems, and other IT interstructural needed to run applications and manage data.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1793.4,
+      "end": 1799.74,
+      "text": "When we think of AI, we kind of think of maybe a bunch of computers sitting there in a dark room",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1799.74,
+      "end": 1804.3,
+      "text": "with their little lights buzzing around and everything's hunky-dory.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1804.74,
+      "end": 1810.4,
+      "text": "We've seen this all on sci-fi movies, Star Trek, and everything else.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1810.4,
+      "end": 1814.3,
+      "text": "But let's talk about how big data centers can be.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1816.59,
+      "end": 1827.84,
+      "text": "The smallest is 5,000 to 20,000 square feet and uses 500 to 2,000 servers.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1829.35,
+      "end": 1834.53,
+      "text": "Typical power consumption is 1.5, 125 megawatt.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1835.31,
+      "end": 1838.91,
+      "text": "Medium is larger than a small, of course.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1838.91,
+      "end": 1856.16,
+      "text": "and it uses 150 kilowatts to that's that's wrong sorry misprint sorry hyperscale which is what",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1856.16,
+      "end": 1869.8,
+      "text": "the ones that greenfield are can be over 100 100 000 square feet in 20 to 100 000 milliwatt",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1869.8,
+      "end": 1881.67,
+      "text": "use. Now there are some cons, pros to data centers. Yes, they can help stimulate economy,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1881.67,
+      "end": 1890.14,
+      "text": "maybe. But they increase tax revenue, that's good. And maybe they can be used to fund community",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1890.14,
+      "end": 1896.93,
+      "text": "services and infrastructure. And they help the technology advancement of the area in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1896.93,
+      "end": 1904.96,
+      "text": "business it attracts other business because the cause of them in the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1904.96,
+      "end": 1908.6,
+      "text": "instruction is also leads to improvements in local structures such as",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1908.6,
+      "end": 1915.13,
+      "text": "roads Mr. Monk I appreciate your comments we've reached three minutes if",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1915.13,
+      "end": 1924.68,
+      "text": "you have a final a final thought to add sorry I was just wondering when we're",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1924.68,
+      "end": 1938.73,
+      "text": "gonna have a public hearing on the data center first it didn't happen",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1938.73,
+      "end": 1942.6,
+      "text": "I looked at the Planning Commission.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1942.74,
+      "end": 1945.72,
+      "text": "They said October 5th, which is a Sunday.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1948.02,
+      "end": 1948.42,
+      "text": "Thank you.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1952.72,
+      "end": 1955.32,
+      "text": "Mr. Harris, do we have additional speakers for this period?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1955.64,
+      "end": 1956.34,
+      "text": "Yes, Madam President.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1956.48,
+      "end": 1957.54,
+      "text": "Next is Tony D'Astra.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1957.78,
+      "end": 1958.26,
+      "text": "Thank you.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1968.92,
+      "end": 1969.38,
+      "text": "Good evening.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1970.0,
+      "end": 1972.56,
+      "text": "Tony D'Astra, 700 Block of New Holland Avenue.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1973.77,
+      "end": 1981.26,
+      "text": "So I came here tonight to talk about the communications trouble that the city has been having.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1981.26,
+      "end": 1990.26,
+      "text": "because if any look i live and breathe government live streams all right uh i'm glad that the one",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1990.26,
+      "end": 1995.96,
+      "text": "last week functioned well because i was at langster township running a live stream and i can",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1995.96,
+      "end": 2002.02,
+      "text": "participate in the budget hearing process he's still the budget is our most transparent part of",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2002.02,
+      "end": 2007.1,
+      "text": "city government as per the charter in my opinion so i'm glad that things worked well and i actually",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2007.1,
+      "end": 2013.82,
+      "text": "to thank you council president because two weeks ago i believe it was i saw your sense of urgency",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2013.82,
+      "end": 2018.7,
+      "text": "and i appreciate that because that is desperately needed for the functioning of these systems",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2019.34,
+      "end": 2025.42,
+      "text": "as another resident mentioned there are trust issues right now especially and the live stream",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2025.42,
+      "end": 2030.7,
+      "text": "and its functionality is critical to maintaining a level of trust with the public because even if",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2030.7,
+      "end": 2035.66,
+      "text": "we disagree on what should or shouldn't be done in our community we deserve to understand how",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2035.66,
+      "end": 2043.29,
+      "text": "we got to those conclusions so i'll use the rest of my time tonight to say about the data center",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2043.29,
+      "end": 2049.45,
+      "text": "that i agree with the residents here tonight uh this is a massive concern and i also hope to see",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2049.45,
+      "end": 2056.25,
+      "text": "more of a sense of urgency from counselors moving forward here because i'm still of the opinion that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2056.25,
+      "end": 2062.09,
+      "text": "if we can persuade our zoning officer to rescind his decision letter in error it gives us as the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2062.09,
+      "end": 2066.41,
+      "text": "the public a better footing to combat these data centers and have more leverage to get",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2066.41,
+      "end": 2073.29,
+      "text": "agreements with teeth there's been a draft of a cba circulated amongst members of the public",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2073.29,
+      "end": 2077.93,
+      "text": "which heavily disappointed in because it doesn't provide accountability for the individuals who",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2077.93,
+      "end": 2081.93,
+      "text": "are coming to put this money in the community there's no guarantee that our well-being is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2081.93,
+      "end": 2090.54,
+      "text": "going to be protected and so i'm i'm at a loss for words because these are the moments where",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2090.54,
+      "end": 2095.4,
+      "text": "we desperately need our government to demonstrate that they are in line with the community on these",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2095.4,
+      "end": 2101.18,
+      "text": "issues of concern we're looking at all you guys and all who come after you because this will be",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2101.18,
+      "end": 2106.3,
+      "text": "something that goes on for a while because we've we as a municipality as a city not you guys",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2106.3,
+      "end": 2110.94,
+      "text": "exclusively not the mayor all of us are in this we are all stakeholders in the city of Lancaster",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2110.94,
+      "end": 2115.86,
+      "text": "and any legal fight we want to have and unfortunately this has gotten to the territory",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2115.86,
+      "end": 2119.74,
+      "text": "where we are definitely going to have a legal fight of some kind and we want to know that the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2119.74,
+      "end": 2130.52,
+      "text": "government is with the public not against the public. Thank you. Thank you. Mr. Harris confirming",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2130.52,
+      "end": 2135.94,
+      "text": "we don't have any additional speakers for this period. We do not Madam President. We missed",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2135.94,
+      "end": 2140.26,
+      "text": "James Rolkowitz in the beginning. I'll just call that name in case he has come in.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2141.18,
+      "end": 2147.96,
+      "text": "I don't think so. Okay just confirming. Thank you everyone. We'll move to the next portion of our",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2147.96,
+      "end": 2152.36,
+      "text": "agenda this evening which is reports requested by council. Mr. Harris confirming that we have",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2152.36,
+      "end": 2156.44,
+      "text": "none of those this evening is that right we do not matter president you interim",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2156.44,
+      "end": 2160.94,
+      "text": "reports of committees of council confirming that we have none of those we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2160.94,
+      "end": 2164.18,
+      "text": "also have none of those thank you very much then that will take us into our",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2164.18,
+      "end": 2170.06,
+      "text": "legislative agenda this evening we begin with our first item which is legislative",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2170.06,
+      "end": 2176.58,
+      "text": "legislative budget transfers council royal Thank You council president as",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2176.58,
+      "end": 2180.72,
+      "text": "you're aware the city is self insured for workers compensation costs every",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2180.72,
+      "end": 2184.16,
+      "text": "year funds to pay workers compensation claims are included in the individual",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2184.16,
+      "end": 2188.46,
+      "text": "department budgets but those claims are paid from administrative services budget",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2188.46,
+      "end": 2192.36,
+      "text": "so each quarter we shift money from the departments where those injured workers",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2192.36,
+      "end": 2196.48,
+      "text": "have made claims to the administrative services budget to cover the cost for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2196.48,
+      "end": 2199.86,
+      "text": "the third quarter of the year workers comp claims were made by city police",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2199.86,
+      "end": 2204.34,
+      "text": "officers firefighters and public work staff a total of fifty eight thousand",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2204.34,
+      "end": 2207.72,
+      "text": "three hundred twenty nine dollars and eighty eight cents is being moved from",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2207.72,
+      "end": 2212.36,
+      "text": "the police bureau fire bureau and public works budgets to administrative services",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2212.92,
+      "end": 2217.4,
+      "text": "because this money is being moved between departments this requires city council approval",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2217.4,
+      "end": 2222.28,
+      "text": "so i make a motion to approve the third quarter workers compensation transfers totaling fifty",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2222.28,
+      "end": 2228.49,
+      "text": "eight thousand three hundred twenty nine dollars and eighty eight cents as proposed second thank",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2228.49,
+      "end": 2238.16,
+      "text": "you council roy we have a motion and a second counselors any comments on the transfer comments",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2238.16,
+      "end": 2248.73,
+      "text": "on the budget transfer from the public hearing none mr harris mr mann aye mr arroyo aye mr",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2248.73,
+      "end": 2259.82,
+      "text": "glees aye miss craig aye miss diaz aye mr hirsch aye and president baker aye we'll move to our next",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2259.82,
+      "end": 2265.34,
+      "text": "item b which is ordinances for final passage we first have administration bill number eight",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2265.34,
+      "end": 2273.34,
+      "text": "2025 mr harris an ordinance of the lancaster city council authorizing the enforcement of section",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2273.34,
+      "end": 2281.02,
+      "text": "3 1 1 2 a 3 of the pennsylvania motor vehicle code relating to traffic control signals by",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2281.66,
+      "end": 2287.34,
+      "text": "recording violations using an automated red light enforcement system approved by the pennsylvania",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2287.34,
+      "end": 2292.7,
+      "text": "department of transportation providing for the repeal of inconsistent ordinances providing for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2292.7,
+      "end": 2296.94,
+      "text": "the severability of the ordinance and providing that the ordinance shall take effect in accordance",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2296.94,
+      "end": 2302.1,
+      "text": "to the Pennsylvania law motion to approve second we have a motion and a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2302.1,
+      "end": 2306.12,
+      "text": "second councillor Diaz this is coming up through public safety we reviewed this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2306.12,
+      "end": 2309.62,
+      "text": "at the committee in the last council meeting do you have anything additional",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2309.62,
+      "end": 2316.23,
+      "text": "just in case anyone has not understanding of the red light it's it's",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2316.23,
+      "end": 2320.63,
+      "text": "basically the ordinance is authorizing the city of Lancaster to implement and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2320.63,
+      "end": 2326.63,
+      "text": "enforce automated red light cameras to designate the the intersection in",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2326.63,
+      "end": 2331.63,
+      "text": "accordance to Pennsylvania law vehicles will be recorded running red lights",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2331.63,
+      "end": 2339.11,
+      "text": "under the section 31 12 a and 3 of the Motor Vehicle Code will be also subject",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2339.11,
+      "end": 2343.97,
+      "text": "to a hundred dollars civilian penalty the violations will not be considered a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2343.97,
+      "end": 2349.73,
+      "text": "criminal conviction or affect insurance points I just thought people should know",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2349.73,
+      "end": 2354.65,
+      "text": "that this is something that they should know that they would get penalized but",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2355.21,
+      "end": 2360.7,
+      "text": "at least you will not get points for it that's all i have thank you very much counselor diaz",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2361.34,
+      "end": 2370.7,
+      "text": "any additional comments from council on the on the bill thank you i will just say that we had",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2371.58,
+      "end": 2375.42,
+      "text": "a lot of support from the community at our previous meeting and our first reading for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2375.42,
+      "end": 2383.18,
+      "text": "this one and i'm excited to be able to bring this forward on council i think anything we can do to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2383.18,
+      "end": 2389.26,
+      "text": "protect our residents from being injured whether they're in another vehicle they're walking they're",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2389.26,
+      "end": 2395.1,
+      "text": "biking because someone is being careless and running a red light is important and we'll go",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2395.1,
+      "end": 2401.42,
+      "text": "a long way to meet our vision zero initiatives and goals i'm also pleased as deputy director",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2401.42,
+      "end": 2407.74,
+      "text": "cindy mccormick presented to us that this initiative doesn't bring in any additional",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2407.74,
+      "end": 2414.06,
+      "text": "income to the city it simply pays for itself and any income beyond that goes directly back to pen",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2414.06,
+      "end": 2420.3,
+      "text": "dot so we're just thankful to be able to have this program for the pure reason of saving lives and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2420.3,
+      "end": 2433.15,
+      "text": "and keeping people safe any additional comments from the public on the bill good evening i'll",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2433.15,
+      "end": 2436.91,
+      "text": "just remind everyone to please begin with your name and block of residence for the meeting record",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2436.91,
+      "end": 2444.08,
+      "text": "good evening is 300 block of south and green light red light i want to communicate the rollout",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2444.08,
+      "end": 2449.42,
+      "text": "process, how that's so important. Notification communication can be so confusing in the pockets",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2449.42,
+      "end": 2455.28,
+      "text": "of Lancaster. I'm not sure how many residents even know what Visit Zero is. They're so focused",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2455.28,
+      "end": 2461.36,
+      "text": "on their own day-to-day lives. So I would love to be a liaison or hear more about what is the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2461.36,
+      "end": 2467.16,
+      "text": "rollout process going to be. I'm very sure that if it happens off the back, you get a final right",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2467.16,
+      "end": 2473.46,
+      "text": "away that's going to be cause friction as good and well intended as this is you",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2473.46,
+      "end": 2480.36,
+      "text": "want to ensure that their drivers and the road folks are in harmony and I want",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2480.36,
+      "end": 2484.5,
+      "text": "to know what the time frame is for when tickets will get informed will be",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2484.5,
+      "end": 2491.18,
+      "text": "implemented and again information thank you I think director Campbell I believe",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2491.18,
+      "end": 2495.84,
+      "text": "90 days is the warning period so for the first 90 days of the program there'll be",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2495.84,
+      "end": 2502.4,
+      "text": "warnings issued not actual fines council president i believe it's 60. 60 days yeah thank you very",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2502.4,
+      "end": 2508.24,
+      "text": "much council hirsch and i i also wanted to add um just to speak to your question my understanding",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2508.24,
+      "end": 2515.52,
+      "text": "is that the implementation is not going to start until the spring of 2026 because the cities upon",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2515.52,
+      "end": 2522.09,
+      "text": "getting this uh should we approve it um they would have to go out and and procure a vendor",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2522.09,
+      "end": 2526.71,
+      "text": "for the cameras so there will be a little bit of a lag time but I think",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2526.71,
+      "end": 2530.61,
+      "text": "once that's implemented the city yeah will be very important to communicate",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2530.61,
+      "end": 2536.53,
+      "text": "out to residents that that they're in effect and you know that 60 grace 60 day",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2536.53,
+      "end": 2540.09,
+      "text": "grace period it's communicated when it is and then when fines would commence",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2540.09,
+      "end": 2547.65,
+      "text": "absolutely thank you appreciate that context counselor sure thank you I'm",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2547.65,
+      "end": 2550.97,
+      "text": "glad you mentioned that councilman Hirsch about the vendors because I was",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2550.97,
+      "end": 2555.23,
+      "text": "very concerned as you know we ride up down the turnpike and they do scamming",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2555.23,
+      "end": 2559.85,
+      "text": "with those automatic cameras that's a big scam item out getting people to get",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2559.85,
+      "end": 2564.41,
+      "text": "pictures of your car and your license and they send you a ticket and it's not",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2564.41,
+      "end": 2569.03,
+      "text": "even you so I want to know what security is council looking to have that these",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2569.03,
+      "end": 2572.73,
+      "text": "cameras are up I would like to know where they're being places at every red",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2572.73,
+      "end": 2579.73,
+      "text": "light within the city and like Izzy had said I'm very concerned about what we're",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2579.73,
+      "end": 2585.25,
+      "text": "going to do to let the public know because a lot of times we don't division zero we have no",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2585.25,
+      "end": 2591.59,
+      "text": "enforcement of the bike laws we do everything to keep bikers safe but i'm a driver and i see",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2591.59,
+      "end": 2597.09,
+      "text": "bikers all the time not obeying the laws and i want to know what vision zero what else are we",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2597.09,
+      "end": 2603.01,
+      "text": "going to do to keep residents safe not just the bikers not just the walkers but us as automobile",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2603.01,
+      "end": 2608.89,
+      "text": "drivers when are we going to enforce the things that they do that make it unsafe thank you thank",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2608.89,
+      "end": 2618.81,
+      "text": "you may I venture to just quick respond to miss Byrd's comment yes I'll just",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2618.81,
+      "end": 2623.71,
+      "text": "responded with two things I would I would say you had asked where the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2623.71,
+      "end": 2627.37,
+      "text": "locations are so I'll just read them real quickly because they're there in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2627.37,
+      "end": 2632.97,
+      "text": "the ordinance the primary locations being considered are East King Street at",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2632.97,
+      "end": 2641.19,
+      "text": "Lime, West King Street at Water, Columbia Ave at West End Ave, North Lime and East",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2641.19,
+      "end": 2648.59,
+      "text": "Walnut, and Manor, Hershey, Southwest and Ave. Alternate locations have been",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2648.59,
+      "end": 2653.49,
+      "text": "identified although my understanding is they won't be implemented right away so",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2653.49,
+      "end": 2657.77,
+      "text": "these alternative locations that have been listed are North Plum and East",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2657.77,
+      "end": 2663.41,
+      "text": "Chestnut race and Marietta Ave North Lyme and East Orange Street and North",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2663.41,
+      "end": 2667.91,
+      "text": "Plum and East Walnut Street so those are the locations I'll just say one other",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2667.91,
+      "end": 2671.51,
+      "text": "thing just because you know I think you know I'm passionate about this issue",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2671.51,
+      "end": 2677.39,
+      "text": "right I would say when we make it safer for people that are walking for people",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2677.39,
+      "end": 2682.31,
+      "text": "that are biking we actually there's a byproduct of that which is that we end",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2682.31,
+      "end": 2688.39,
+      "text": "up making it safer for drivers um and you know it's going to take time it's going to take",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2688.39,
+      "end": 2694.87,
+      "text": "implementation of you know infrastructure and and you know the the the daylighting and and stuff for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2694.87,
+      "end": 2700.71,
+      "text": "example that's like kind of the step one and you know it'll be an evolution over time i think so",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2700.71,
+      "end": 2705.99,
+      "text": "i hope that speaks to some of your concerns that you brought up thank you counselor hirsch",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2706.81,
+      "end": 2712.52,
+      "text": "additional comments from the public on the bill tony dash the 700 block new holland avenue uh",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2712.52,
+      "end": 2719.48,
+      "text": "last time i was here i advocated for only one amendment to this which would be to allow",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2720.04,
+      "end": 2725.48,
+      "text": "these hundred dollar penalties to be paid with some level of either educational opportunity",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2725.48,
+      "end": 2730.2,
+      "text": "or community service for example uh driver training like you run a red light hey",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2732.28,
+      "end": 2736.6,
+      "text": "i understand there's a need to build that programming or rely on pen dot for some",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2736.6,
+      "end": 2742.28,
+      "text": "assistance but actually um i do think that it should be passed as is and instead what council",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2742.28,
+      "end": 2747.72,
+      "text": "should work on since there will be some lag time here is a more comprehensive ordinance change so",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2747.72,
+      "end": 2752.12,
+      "text": "that not only these penalties but any applicable penalties any applicable fines in the city of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2752.12,
+      "end": 2756.36,
+      "text": "lancaster could be paid through some sort of volunteer service or educational opportunity",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2756.36,
+      "end": 2760.68,
+      "text": "i'm including even street sweeping in this like we have ms4 requirements i think it's module one",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2761.48,
+      "end": 2766.6,
+      "text": "public outreach and it could be important for our ms4 guidelines to integrate some sort of",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2766.6,
+      "end": 2771.0,
+      "text": "educational opportunity as a essentially a penalty if you're not going to move your car for street",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2771.0,
+      "end": 2775.48,
+      "text": "sweeping uh so that's really all i came to say is that i think we need to especially in this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2775.48,
+      "end": 2780.92,
+      "text": "economic time be focused on ways we can bring the public's understanding up to a level that we're",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2780.92,
+      "end": 2786.2,
+      "text": "all trying to get to without hurting their wallets but time is money so there still will be some",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2786.2,
+      "end": 2791.56,
+      "text": "sting when you have a penalty associated so that's what i came to say and i'm looking forward to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2791.56,
+      "end": 2801.29,
+      "text": "these improvements thank you any additional comments from the public on the bill hearing",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2801.29,
+      "end": 2807.54,
+      "text": "none mr. Harris mr. man aye mr. Arroyo aye mr. Glees aye",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2807.54,
+      "end": 2820.57,
+      "text": "miss Craig all right miss Diaz mr. Hirsch aye and president Baker aye next",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2820.57,
+      "end": 2826.05,
+      "text": "item on the agenda this evening is administration bill number 9 2025 mr.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2826.05,
+      "end": 2830.97,
+      "text": "Harris and ordinance the City Council of the City of Lancaster Lancaster County",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2830.97,
+      "end": 2835.59,
+      "text": "Pennsylvania approving a change in use of American Rescue Plan Act funds",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2835.59,
+      "end": 2840.51,
+      "text": "granted to the Lancaster Recreation Commission for renovation of Price",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2840.51,
+      "end": 2846.51,
+      "text": "Elementary School to convert it to a new community center into renovation of the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2846.51,
+      "end": 2851.89,
+      "text": "existing Lancaster Recreation Center located at 525 Fairview Avenue",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2851.89,
+      "end": 2855.63,
+      "text": "authorizing the appropriate city officials to take any and all next",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2855.63,
+      "end": 2860.87,
+      "text": "actions necessary to accomplish the same providing for the repeal of inconsistent",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2860.87,
+      "end": 2864.77,
+      "text": "ordinances providing for the severability ordinance and providing",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2864.77,
+      "end": 2867.83,
+      "text": "The ordinance shall take effect as provided by Pennsylvania law",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2868.94,
+      "end": 2870.54,
+      "text": "motion to approve",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2870.54,
+      "end": 2873.82,
+      "text": "Second we have a motion and a second councillors. Thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2873.82,
+      "end": 2879.46,
+      "text": "We reviewed this at our committee of the whole meeting at the beginning of the month and again at our last meeting for a first",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2879.46,
+      "end": 2881.46,
+      "text": "Reading just as a reminder",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2882.12,
+      "end": 2889.08,
+      "text": "Because of the original project that these funds were allocated to is is not happening",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2889.72,
+      "end": 2894.96,
+      "text": "The Lancaster rec has requested use of the funds for their existing building",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2895.12,
+      "end": 2902.36,
+      "text": "improvements can include much-needed HVAC improvements and potentially other",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2902.36,
+      "end": 2906.7,
+      "text": "improvements to the elevated walkway and other areas of the building for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2906.7,
+      "end": 2911.46,
+      "text": "community investment any additional comments from council on the bill",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2911.46,
+      "end": 2917.38,
+      "text": "council president counselor I'm Ed Thank You council president and we all want to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2917.38,
+      "end": 2923.38,
+      "text": "see this project succeed my only comment is that I hope that we do get a follow",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2923.38,
+      "end": 2929.08,
+      "text": "up report from the rec Commission on the status of the repairs that are being",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2929.08,
+      "end": 2933.82,
+      "text": "made and a final maybe even a walkthrough of the HVAC system and the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2933.82,
+      "end": 2937.76,
+      "text": "walkway when it is completed thank you very much counselor met I think we can",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2937.76,
+      "end": 2942.4,
+      "text": "arrange that maybe before and after would be would be good additional",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2942.4,
+      "end": 2954.37,
+      "text": "comments from counsel on the bill comments from the public sir I would",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2954.37,
+      "end": 2957.13,
+      "text": "just ask if you're gonna make comment you'll need to come there just for our",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2957.13,
+      "end": 2960.61,
+      "text": "meeting record and for everyone and please begin with your name and block of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2960.61,
+      "end": 2966.91,
+      "text": "residents I was just gonna say that I hope that local businesses hired to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2966.91,
+      "end": 2974.38,
+      "text": "perform that HVAC work thank you very much just be special memory and tell us",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2974.38,
+      "end": 2979.51,
+      "text": "how much money that was and I will open the bill and take a look at that because",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2979.51,
+      "end": 2989.87,
+      "text": "I don't have my notes in the last meeting let's see I apologize have my",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2989.87,
+      "end": 2996.58,
+      "text": "other notes in front of me director Campbell or Delves do you have the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2996.58,
+      "end": 3004.2,
+      "text": "amount that's remaining to be spent on the reallocated projects close by you're",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3004.2,
+      "end": 3007.44,
+      "text": "probably gonna find it finder than I find it faster than I will on my notes",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3007.44,
+      "end": 3010.24,
+      "text": "from the previous meeting",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3011.6,
+      "end": 3017.04,
+      "text": "but some of that had been allocated to asbestos abatement and other things",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3017.04,
+      "end": 3023.7,
+      "text": "Lancaster rec and SDOL are confirming how much has been spent otherwise but",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3023.7,
+      "end": 3028.44,
+      "text": "We're expecting that there'll be somewhere between three hundred thousand and five hundred thousand remaining",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3028.82,
+      "end": 3036.06,
+      "text": "The repairs that we're talking about the HVAC system would be about three hundred to three hundred and seven thousand dollars the elevator",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3036.56,
+      "end": 3043.56,
+      "text": "upgrade would be about a hundred and fifty thousand and if there's funds remaining that would go to the elevated walkway as well as the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3044.08,
+      "end": 3047.26,
+      "text": "the rear the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3047.94,
+      "end": 3052.18,
+      "text": "Replacement of the roof platform in the that's right the roof",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3053.04,
+      "end": 3055.04,
+      "text": "Thank you very much. Dr. Campbell",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3061.56,
+      "end": 3067.3,
+      "text": "Since the school district dropped out and they were given the ARPA money we didn't spend any of it on",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3067.82,
+      "end": 3072.16,
+      "text": "Renovating price school at this point. It's all being spent on the rec center. Is that correct?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3072.16,
+      "end": 3077.3,
+      "text": "There's a portion that was as director Campbell just explained spent on on asbestos abatement already",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3079.69,
+      "end": 3081.69,
+      "text": "Correct",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3082.25,
+      "end": 3088.57,
+      "text": "so are we looking to get that back anyway or it's just done do you have any additional comments",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3088.57,
+      "end": 3092.41,
+      "text": "before we answer additional questions i just want to make sure you have your time and i do want to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3092.41,
+      "end": 3097.85,
+      "text": "say you know the rec center is good but we all know we have lack of youth activities for our",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3097.85,
+      "end": 3104.41,
+      "text": "children in the city and we want to know that if we're investing this money is the city going to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3104.41,
+      "end": 3108.57,
+      "text": "children really going to get to use it it's more of a county thing we have i think one",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3108.57,
+      "end": 3113.79,
+      "text": "representative from council that sits on the board if I'm correct and just want",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3113.79,
+      "end": 3118.53,
+      "text": "to know that we have more input if we're the ones that were invested in the ARPA",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3118.53,
+      "end": 3123.09,
+      "text": "money from the city not from the county is any of the county municipalities",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3123.09,
+      "end": 3127.83,
+      "text": "going to add money because they use the rec center as well thank you thank you",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3127.83,
+      "end": 3138.1,
+      "text": "miss Byrd additional comments from the public on the bill thank you counselor",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3138.1,
+      "end": 3146.14,
+      "text": "ideas in regards to the funds I'm interested in finding out why we haven't",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3146.14,
+      "end": 3153.21,
+      "text": "done anything for the SPCA I mean they've been waiting since June and they",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3153.21,
+      "end": 3159.49,
+      "text": "still haven't fixed their HVAC so I'm just interested just like everybody in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3159.49,
+      "end": 3166.68,
+      "text": "the community that have pets that had when I had to get the wildlife to go",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3166.68,
+      "end": 3174.66,
+      "text": "rescue 15 cats at a raccoon like they have to be shipped somewhere else which",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3174.66,
+      "end": 3180.48,
+      "text": "is spending more gas money and more employees and when are we gonna fix that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3180.48,
+      "end": 3185.4,
+      "text": "council Diaz I appreciate your comment but the funds were discussing our ARPA",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3185.4,
+      "end": 3190.14,
+      "text": "reallocation the SPCA did not apply for ARPA funds we're not awarded any ARPA",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3190.14,
+      "end": 3194.52,
+      "text": "funds so I understand your question but it's not tangential to this bill I",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3194.52,
+      "end": 3202.88,
+      "text": "understand that but it is ARPA money and it is funds thank you any additional",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3202.88,
+      "end": 3212.84,
+      "text": "comments from the public on the bill hearing none mr. Harris mr. man aye mr.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3212.84,
+      "end": 3219.26,
+      "text": "Roy oh aye mr. Cleese all right miss Craig all right miss Diaz mr. Hirsch",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3219.26,
+      "end": 3227.0,
+      "text": "all right president Baker aye I'll take us to the next item on our agenda which",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3227.0,
+      "end": 3233.76,
+      "text": "resolutions we have resolution number 68 2025 this evening mr. Harris a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3233.76,
+      "end": 3238.28,
+      "text": "resolution of the Council of the City of Lancaster authorizing the administration",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3238.28,
+      "end": 3243.44,
+      "text": "to execute a financial assistance application on behalf of the city to the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3243.44,
+      "end": 3247.7,
+      "text": "Pennsylvania infrastructure investment authority and vest for advanced",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3247.7,
+      "end": 3252.32,
+      "text": "wastewater treatment plant projects South train screening improvements and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3252.32,
+      "end": 3258.5,
+      "text": "chlorination facilities improvements motion to approve second we have a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3258.5,
+      "end": 3262.72,
+      "text": "motion and a second this is coming up through Public Works I'm not sure if",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3262.72,
+      "end": 3265.3,
+      "text": "councillor Hershey you have anything or a director Campbell if you have anything",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3265.3,
+      "end": 3269.42,
+      "text": "additional to share with this one this evening I'm gonna lean on director",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3269.42,
+      "end": 3278.85,
+      "text": "Campbell for this one I know this is an application for funding but good evening",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3278.85,
+      "end": 3281.69,
+      "text": "and thank you director Campbell sure thank you very much for this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3281.69,
+      "end": 3286.41,
+      "text": "opportunity as you say this is primarily an administrative request to be able to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3286.41,
+      "end": 3291.73,
+      "text": "apply to pen vest for the money that's necessary for the particular projects",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3291.73,
+      "end": 3295.83,
+      "text": "but I wanted to give a little bit of background and substance behind this",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3295.83,
+      "end": 3300.33,
+      "text": "there these are the there are two projects the South train screenings",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3300.33,
+      "end": 3305.01,
+      "text": "improvement and the chlorination facilities improvements the total",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3305.01,
+      "end": 3311.97,
+      "text": "project cost is approximately seven point three two million dollars the the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3311.97,
+      "end": 3317.55,
+      "text": "city of Lancaster with its partners shares that cost so the part of the cost",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3317.55,
+      "end": 3323.49,
+      "text": "which which is ascribed to the city of Lancaster is approximately 53 percent of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3323.49,
+      "end": 3329.07,
+      "text": "that total seven point three two million and that comes to three point eight",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3329.07,
+      "end": 3333.73,
+      "text": "seven seven million dollars so that is the amount that we're that we're",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3333.73,
+      "end": 3337.73,
+      "text": "applying to penvest for the other municipalities will be responsible for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3337.73,
+      "end": 3341.19,
+      "text": "making their own applications whether through penvest or through other means",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3341.19,
+      "end": 3347.85,
+      "text": "to be able to fill in the difference the purpose is for these two projects one",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3347.85,
+      "end": 3352.65,
+      "text": "the South train screening improvement which is approximately 3.36 million is",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3352.65,
+      "end": 3358.46,
+      "text": "to replace an existing mechanical screen and screening handling equipment with",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3358.46,
+      "end": 3364.18,
+      "text": "two new mechanical screens and provide increased capacity for full redundancy",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3364.18,
+      "end": 3368.6,
+      "text": "for mechanical screening as well as improved screening capture and more",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3368.6,
+      "end": 3373.8,
+      "text": "efficient operation and maintenance which will reduce the operations costs of that part of the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3373.8,
+      "end": 3379.48,
+      "text": "facility the second part is the chlorination facilities improvements at the amount of three",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3379.48,
+      "end": 3386.8,
+      "text": "point eight six million which is installing an emergency chlorine gas scrubber including an",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3386.8,
+      "end": 3392.74,
+      "text": "emergency generator for the chlorination building and control upgrades this critical project would",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3392.74,
+      "end": 3397.78,
+      "text": "provide protection for the wastewater treatment plant and the surrounding community in the event",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3397.78,
+      "end": 3405.0,
+      "text": "of chlorine gas leak so the overall as I say the overall cost is seven point three two million",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3405.0,
+      "end": 3411.24,
+      "text": "dollars fifty three percent of that is ours and we are requesting to make the application for this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3411.24,
+      "end": 3416.88,
+      "text": "and it's fully consistent with a capital plan that was already approved earlier this year in",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3416.88,
+      "end": 3424.14,
+      "text": "a virtually those exact same numbers thank you very much dr. Campbell just and to clarify for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3424.14,
+      "end": 3429.72,
+      "text": "councils and members of the public this project only these particular projects",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3429.72,
+      "end": 3435.64,
+      "text": "and functions are for wastewater specifically that's correct thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3435.64,
+      "end": 3440.86,
+      "text": "water treatment plant and it's and the variety of supported services that make",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3440.86,
+      "end": 3445.48,
+      "text": "sure that we're providing cleaner water back into the conestoga yeah let me take",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3445.48,
+      "end": 3451.11,
+      "text": "out what we put back thank you very much anything additional council Hirsch yeah",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3451.11,
+      "end": 3457.89,
+      "text": "I just wanted to clarify so it's called financial assistance and is this a is this a grant from?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3458.23,
+      "end": 3463.21,
+      "text": "Penvest or is it a low-interest loan? It's a very good. I'm very glad you asked it. It's a low-interest loan",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3463.85,
+      "end": 3471.36,
+      "text": "Do we know approximately what kind of interest rate we could expect ballpark? I do not know but",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3471.94,
+      "end": 3473.94,
+      "text": "Penvest historically has been the lowest",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3474.16,
+      "end": 3479.76,
+      "text": "Interest rates that we can get in the market and the reason we do Penvest be a few years ago",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3480.14,
+      "end": 3482.44,
+      "text": "We it's we started doing penvest",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3483.68,
+      "end": 3487.16,
+      "text": "And it was an extraordinary paperwork process to get there",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3487.16,
+      "end": 3493.26,
+      "text": "But we now know how to do that and do it relatively smoothly because it is the most cost-effective",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3494.0,
+      "end": 3496.14,
+      "text": "Low interest loan that we can get",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3497.46,
+      "end": 3501.76,
+      "text": "Thanks for that context. Thank you additional comments from council on the resolution",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3504.28,
+      "end": 3506.28,
+      "text": "comments from the public on the resolution",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3510.18,
+      "end": 3512.08,
+      "text": "Hearing none. Mr. Harris",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3512.08,
+      "end": 3517.56,
+      "text": "Mr.. Men aye mr. Roya aye mr. Cleese aye miss Craig aye",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3518.74,
+      "end": 3520.52,
+      "text": "Miss Diaz",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3520.52,
+      "end": 3523.1,
+      "text": "Mr.. Hirsch aye I'm president Baker aye",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3524.05,
+      "end": 3526.05,
+      "text": "Thank You director Campbell",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3527.91,
+      "end": 3534.31,
+      "text": "That concludes our legislative agenda for this evening and will bring us to our second public comment period that's open for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3534.57,
+      "end": 3539.77,
+      "text": "Comments on issues not previously discussed on the agenda again duration of comments is three minutes",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3539.87,
+      "end": 3542.05,
+      "text": "Please begin with your name and block of residence",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3542.69,
+      "end": 3546.69,
+      "text": "anyone wishing to make public comment please come to the microphone at this time good evening",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3547.41,
+      "end": 3552.77,
+      "text": "good evening taylor raymond 500 block of saint joseph street and since a couple of people have",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3552.77,
+      "end": 3558.37,
+      "text": "spoken about the spca i just wanted to give some updates on their instagram five days ago they",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3558.37,
+      "end": 3565.65,
+      "text": "posted that the essential hvac replacement has finally been scheduled and they're closed starting",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3565.65,
+      "end": 3568.71,
+      "text": "yesterday through December 11th for that.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3569.49,
+      "end": 3571.09,
+      "text": "I don't like that it took this long",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3571.09,
+      "end": 3574.29,
+      "text": "because it was happening since June like they've",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3574.29,
+      "end": 3578.01,
+      "text": "had that issue back then but it is finally scheduled.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3579.3,
+      "end": 3580.5,
+      "text": "That's all I've got.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3580.5,
+      "end": 3583.18,
+      "text": "DIRECTOR RIVERA- Thank you.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3583.18,
+      "end": 3584.78,
+      "text": "Additional comments for this period.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3584.78,
+      "end": 3587.5,
+      "text": "Good evening again.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3587.5,
+      "end": 3589.02,
+      "text": "DIRECTOR DEWOLF- Ijai Gonzalez",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3589.02,
+      "end": 3591.58,
+      "text": "Toronto block South Ann noticing a gap",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3591.58,
+      "end": 3594.94,
+      "text": "of communication community and engagement",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3594.94,
+      "end": 3598.12,
+      "text": "in our quadrant the southeast 50 percent",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3598.12,
+      "end": 3602.78,
+      "text": "of registered voters in our areas aren't getting out to the polls at all there's two ordinances",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3602.78,
+      "end": 3608.66,
+      "text": "that have been enforced that historically have not the alleyway parking and now trash in front",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3608.66,
+      "end": 3615.22,
+      "text": "of our houses i'm offered an opportunity to be a liaison for our seventh ward precinct five",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3615.22,
+      "end": 3619.58,
+      "text": "over the last month i've been fostering relationships with 10 families on the 300",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3619.58,
+      "end": 3624.4,
+      "text": "and 200 block of south end i've been in communication with corner stores and bodegas",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3624.4,
+      "end": 3630.1,
+      "text": "from Rockland and Susquehanna to East End and Marshall Street.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3630.8,
+      "end": 3633.14,
+      "text": "And I've been mentorship have received mentorship",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3633.14,
+      "end": 3635.4,
+      "text": "from South Ancona Neighbors where I've been able",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3635.4,
+      "end": 3638.64,
+      "text": "to run a community meeting and been informed",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3638.64,
+      "end": 3641.74,
+      "text": "about Lancaster's Leadership Academy.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3642.48,
+      "end": 3645.24,
+      "text": "And again I'm here to inform City Council at large",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3645.24,
+      "end": 3648.1,
+      "text": "if there's issues or topics that are relevant",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3648.1,
+      "end": 3650.44,
+      "text": "to the community I'm here to pass on the word.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3651.65,
+      "end": 3652.45,
+      "text": "Thank you.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3652.45,
+      "end": 3661.19,
+      "text": "is he's one of the concerned neighbors newer members Darlene Byrd I have three quick issues",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3661.19,
+      "end": 3666.29,
+      "text": "I want to speak about one is what Carlos was talking about I mean we talk about these data",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3666.29,
+      "end": 3670.81,
+      "text": "centers being placed in the city we're talking about our neighborhood where a business is placed",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3670.81,
+      "end": 3676.25,
+      "text": "in an alleyway things that happened for years Carlos been living there 37 years I lived on",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3676.25,
+      "end": 3683.19,
+      "text": "the street 47 years and you could park behind there but now because a business came in nobody",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3683.19,
+      "end": 3688.05,
+      "text": "notified us that this business was coming it's there it's big trucks the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3688.05,
+      "end": 3692.45,
+      "text": "alleyway is used by our elementary students and our middle school students",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3692.45,
+      "end": 3697.07,
+      "text": "walking back safety is a major concern we're asking if there's a way that we",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3697.07,
+      "end": 3702.57,
+      "text": "can find out what is going to be allowed to be there what's happening next and we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3702.57,
+      "end": 3707.25,
+      "text": "have this neighborhood engagement but it seems like South End is always left out",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3707.25,
+      "end": 3711.33,
+      "text": "whether it's a Lancaster City Alliance they don't tell us what streets are",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3711.33,
+      "end": 3717.15,
+      "text": "being closed in the southeast if it's happening across town you see it posted this street is going",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3717.15,
+      "end": 3722.81,
+      "text": "to be closed this day from this time and we're getting tired and somebody talked about trust",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3722.81,
+      "end": 3728.01,
+      "text": "with our city council members we need that trust we need to know that we can come here and bring",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3728.01,
+      "end": 3732.21,
+      "text": "issues to you and you're going to hear us the other issue i want to bring up real quick because",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3732.21,
+      "end": 3737.87,
+      "text": "i only have three minutes is our interest rates we know that arpa gets interest for money that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3737.87,
+      "end": 3742.83,
+      "text": "was there is there anywhere where that's on the budget or where that interest was spent because",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3742.83,
+      "end": 3748.23,
+      "text": "we know it's a lot and I haven't heard anything or seen anything about it so I would like to ask",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3748.23,
+      "end": 3754.69,
+      "text": "that question and um and like he said about the trash and I'm going to meet with Steve about that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3754.69,
+      "end": 3765.0,
+      "text": "afterwards him and I have a meeting set up thank you thank you good evening uh good evening",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3765.0,
+      "end": 3770.98,
+      "text": "honorable managers of council thank you my name is Bill Simonson I live on the 800 block of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3770.98,
+      "end": 3777.16,
+      "text": "role with Javanu like many citizens here tonight and many more who could not make it I come here",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3777.16,
+      "end": 3782.96,
+      "text": "dismayed to hear that we are getting AI data centers built in our community and the process",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3782.96,
+      "end": 3792.59,
+      "text": "in which they were approved to be here I think it is the history of America is such that the rich",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3792.59,
+      "end": 3799.79,
+      "text": "win and often the poor are powerless and Lancaster City to me I'm losing hope in it it seems to be a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3799.79,
+      "end": 3806.27,
+      "text": "city that favors the developers the bankers now the tech companies and their wealthy lawyers",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3806.27,
+      "end": 3811.75,
+      "text": "well i would ask tonight that city council unfortunately the mayor is not here but that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3811.75,
+      "end": 3820.15,
+      "text": "we become a city that favors the little person that favors the mom waiting in line at the water",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3820.15,
+      "end": 3826.27,
+      "text": "street mission food pantry wondering whether her food stamps are going to come back on then rather",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3826.27,
+      "end": 3829.27,
+      "text": "that we favor the developers who are going to come in here",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3829.27,
+      "end": 3833.23,
+      "text": "and pollute our waterways, pollute our airways.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3833.23,
+      "end": 3835.39,
+      "text": "They aren't bringing any jobs.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3835.39,
+      "end": 3836.91,
+      "text": "I'm very dismayed.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3836.91,
+      "end": 3839.95,
+      "text": "I hope that this council will do everything in its power",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3839.95,
+      "end": 3843.17,
+      "text": "to stop these data centers from coming to Lancaster",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3843.17,
+      "end": 3844.77,
+      "text": "and ruining our communities.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3844.77,
+      "end": 3848.89,
+      "text": "Please do what is in your power to put those of us",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3848.89,
+      "end": 3852.33,
+      "text": "with the least among us first, not the developers.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3852.33,
+      "end": 3853.17,
+      "text": "Thank you.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3853.17,
+      "end": 3867.08,
+      "text": "thank you good evening hello hello hello can you hear me okay i am robert potter of i'm gonna say",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3867.08,
+      "end": 3871.62,
+      "text": "the 100 block because i don't really know how we do this but i'm over on king street south franklin",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3871.62,
+      "end": 3877.74,
+      "text": "anyways three topics for three minutes okay stick with me so it seems like we're going to get these",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3877.74,
+      "end": 3883.58,
+      "text": "ai dentist centers no matter how much we oppose them or dislike them my first thing i'm hitting",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3883.58,
+      "end": 3889.82,
+      "text": "on is ICE and the police so there's been a glaring lack of the conversation behind ICE this evening",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3889.82,
+      "end": 3895.4,
+      "text": "and I feel like that is something that is painfully relevant in today's world right now",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3895.4,
+      "end": 3902.92,
+      "text": "I believe adding not only the AI data center complementary with red light traffic cameras",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3902.92,
+      "end": 3907.08,
+      "text": "that we were just talking about beforehand and and it's not just me but I'm gonna hit",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3907.08,
+      "end": 3912.68,
+      "text": "uh parking enforcement real quick combining all that with strict parking enforcement I don't know",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3912.68,
+      "end": 3917.42,
+      "text": "if it's just me, but I'm more than sure everyone in here has a ticket they got to pay for or they",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3917.42,
+      "end": 3924.28,
+      "text": "just paid for. But anyways, it's overbearing. And I do believe with the amount that is being put in",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3924.28,
+      "end": 3929.36,
+      "text": "into AI and to data centers and to the crappy infrastructure of Lancaster as a whole, I've been",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3929.36,
+      "end": 3934.22,
+      "text": "here 25 years, it has not really improved that much in the ways that it should. But anyways,",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3934.9,
+      "end": 3939.32,
+      "text": "I really do think that we are setting ourselves to be crushed under the fascist boot of America.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3939.7,
+      "end": 3943.38,
+      "text": "This is about the most democratic America has felt in like – and I'm talking this room.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3943.8,
+      "end": 3947.16,
+      "text": "This is the most democratic it has felt in maybe months.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3947.86,
+      "end": 3953.43,
+      "text": "This is the most serious I can take any government right now because we're all sitting here acting like whatever.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3953.69,
+      "end": 3957.83,
+      "text": "The person in the White House is in a complete joke that doesn't want us all to suffer in one way or another.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3957.83,
+      "end": 3962.89,
+      "text": "I really think we need to take a step back on these AI data centers.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3962.89,
+      "end": 3968.99,
+      "text": "any and all enforcement that seems to go past the people of the city that don't want anything to do",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3968.99,
+      "end": 3973.73,
+      "text": "with this at all at the last meeting we talked about this we said it doesn't benefit the environment",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3973.73,
+      "end": 3978.37,
+      "text": "doesn't benefit the people doesn't benefit the businesses who is it benefiting the millionaires",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3978.37,
+      "end": 3982.05,
+      "text": "billionaires and trillionaires that don't live here don't got to walk on these streets don't",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3982.05,
+      "end": 3987.03,
+      "text": "eat from these bodegas nothing and it's out of it's out of our question it's almost as if a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3987.03,
+      "end": 3992.67,
+      "text": "rapist is in the white house forcing us to do something we don't want to do it is ridiculous",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3993.39,
+      "end": 3998.07,
+      "text": "How long are we going to sit here and act like this isn't what democracy is made of?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3998.35,
+      "end": 4003.57,
+      "text": "Everyone in this room is ticked at the addition of a data center that's going to benefit nobody.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4003.95,
+      "end": 4005.49,
+      "text": "Why is it still happening?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4006.61,
+      "end": 4007.79,
+      "text": "Can anybody answer that?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4009.37,
+      "end": 4010.39,
+      "text": "Other than money?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4012.37,
+      "end": 4012.85,
+      "text": "Exactly.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4013.39,
+      "end": 4018.63,
+      "text": "We've got people on the other side of the globe burning and dying for the exact stuff they are putting in our community.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4018.89,
+      "end": 4020.21,
+      "text": "You think that is any different?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4020.79,
+      "end": 4024.71,
+      "text": "Those data centers are going to clock that you ran that red light, come to your house",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4024.71,
+      "end": 4026.71,
+      "text": "in the middle of the night, and pick you up.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4027.19,
+      "end": 4030.41,
+      "text": "And if you think I am exaggerating, look over in Chicago.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4030.93,
+      "end": 4036.07,
+      "text": "Look over at any black and brown community that has anyone living in it across America.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4036.49,
+      "end": 4039.07,
+      "text": "It is, I'm not swearing, but it is ridiculous.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4039.57,
+      "end": 4040.33,
+      "text": "It is ridiculous.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4040.33,
+      "end": 4044.95,
+      "text": "We are sitting here acting like there's a democracy anymore worth protecting, when it",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4044.95,
+      "end": 4045.45,
+      "text": "is not.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4045.97,
+      "end": 4046.81,
+      "text": "It is a joke.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4046.81,
+      "end": 4056.67,
+      "text": "It is a joke to get up every morning, work with people's kids, and tell them there's a future worth living and fighting for when the fact of the matter is it's always worth fighting for and living for.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4056.89,
+      "end": 4063.86,
+      "text": "But right now, it's for the millionaires and billionaires, not the people in this room that are – and it's all my elders.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4064.3,
+      "end": 4067.44,
+      "text": "There's no real younger people here, and I wonder why.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4067.64,
+      "end": 4070.72,
+      "text": "It's almost like that notification for this meeting was sent out last minute very quietly.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4070.72,
+      "end": 4072.48,
+      "text": "Mr. Palmer, thank you very much.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4076.74,
+      "end": 4078.7,
+      "text": "Any additional comments for this period?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4078.7,
+      "end": 4088.44,
+      "text": "Okay guys, Susie, 800 block of East Orange Street. I was here in the beginning of the summer and I",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4088.44,
+      "end": 4094.84,
+      "text": "read this to council. The mayor wasn't here. She's still not here. But let's just hear what I had to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4094.84,
+      "end": 4100.92,
+      "text": "say about six months ago. So pushing an ungodly agenda while swearing an oath to protect the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4100.92,
+      "end": 4106.82,
+      "text": "people is being rebuked today again. You look down on us by your ignorance and can't believe",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4106.82,
+      "end": 4110.96,
+      "text": "that the S&P 500 is based on the standard and poor.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4110.96,
+      "end": 4113.0,
+      "text": "You see things through the eyes of the wicked",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4113.0,
+      "end": 4117.02,
+      "text": "who pursue their agenda to, we know, kill, steal, and destroy.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4117.02,
+      "end": 4119.04,
+      "text": "There is no unity in this administration",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4119.04,
+      "end": 4122.12,
+      "text": "because us taxpayers who have expressed ourselves",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4122.12,
+      "end": 4125.3,
+      "text": "on this podium gets ignored, delayed, or denied.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4125.3,
+      "end": 4126.42,
+      "text": "Let's talk, you say.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4126.42,
+      "end": 4129.78,
+      "text": "Set up an appointment, but public comments and suggestions,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4129.78,
+      "end": 4134.58,
+      "text": "concerns, et cetera, are, you know, we work hard too.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4134.58,
+      "end": 4136.44,
+      "text": "Some of us have two or three jobs.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4136.44,
+      "end": 4138.2,
+      "text": "We don't have time to talk to you.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4138.2,
+      "end": 4140.1,
+      "text": "We pay you to do your job.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4140.1,
+      "end": 4143.82,
+      "text": "So Lancaster City has lost its customs, heritage, foundation,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4143.82,
+      "end": 4145.62,
+      "text": "its name, Lancaster.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4145.62,
+      "end": 4147.1,
+      "text": "Now it's Lancaster.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4147.1,
+      "end": 4150.44,
+      "text": "And so Lancaster has become the home of survival.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4150.44,
+      "end": 4152.88,
+      "text": "To divide and conquer has always been the quest.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4152.88,
+      "end": 4154.92,
+      "text": "And you prey on the innocent hard workers",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4154.92,
+      "end": 4157.74,
+      "text": "because you are too busy closing down",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4157.74,
+      "end": 4160.86,
+      "text": "departments, relying on IT social technology",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4160.86,
+      "end": 4163.2,
+      "text": "with troubleshooting interruptions.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4163.2,
+      "end": 4166.18,
+      "text": "The government creates funding for all cities and states,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4166.18,
+      "end": 4171.08,
+      "text": "the workers write the grants, push the intake coordinators to execute the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4171.08,
+      "end": 4176.32,
+      "text": "applications to fulfill the needs of the people while they pay their taxes to be",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4176.32,
+      "end": 4182.68,
+      "text": "the Commonwealth that we both invest in. This is not a one-way street. Your",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4182.68,
+      "end": 4187.4,
+      "text": "ignorance has taught a generation to measure their work on takeaways as city",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4187.4,
+      "end": 4192.46,
+      "text": "contracts are being run by outsiders, permitters are forced to use benchmark,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4192.46,
+      "end": 4197.44,
+      "text": "Investors are catching tax breaks and shareholders seem to be the only ones",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4197.44,
+      "end": 4203.8,
+      "text": "receiving equitable gain. For centuries this city relied on volunteers, interns,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4203.8,
+      "end": 4208.9,
+      "text": "graduates, and neighborhoods to find an even balance and take care of our public",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4208.9,
+      "end": 4213.76,
+      "text": "officers while taking pride in the building of infrastructures, cleaning of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4213.76,
+      "end": 4218.68,
+      "text": "parks, working together as one so that the baton can be passed to the next",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4218.68,
+      "end": 4226.6,
+      "text": "graduate who takes pride in the city engagements but this administration has us continuously asking",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4226.6,
+      "end": 4232.28,
+      "text": "for loans passing on properties to the highest bidder while handing investors a lead abatement",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4232.28,
+      "end": 4238.52,
+      "text": "condemned properties that can be remedied by community programs such as critical repair",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4238.52,
+      "end": 4245.96,
+      "text": "government funded funded grants to help in crisis for homelessness lack of housing revitalization",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4245.96,
+      "end": 4253.08,
+      "text": "so much more instead it's better to pour 80 of a new turf at a baseball field and use that money",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4253.08,
+      "end": 4259.64,
+      "text": "for that but i think you get the drift and i think you guys get where i'm going so you will go down",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4259.64,
+      "end": 4265.56,
+      "text": "as the worst administration in lancaster who killed the american dream and broke all the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4265.56,
+      "end": 4272.76,
+      "text": "rules i'm sorry but my grandkids they have to live this and for me seeing a future in lancaster city",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4272.76,
+      "end": 4282.6,
+      "text": "being here 30 plus years i don't see hope and it's shameful 92 properties given to an llc in our city",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4282.6,
+      "end": 4286.68,
+      "text": "community from sacca when they could have gave it back to the community",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4290.04,
+      "end": 4296.76,
+      "text": "thank you that doesn't even work here or pay taxes you know there's no return investment",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4296.76,
+      "end": 4304.13,
+      "text": "which thank you miss gomez are there any additional comments for this period",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4309.06,
+      "end": 4311.5,
+      "text": "Tony Dastra, 700 block of New Holland Avenue.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4311.8,
+      "end": 4313.48,
+      "text": "Ms. Gomez said I could close it out.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4317.34,
+      "end": 4321.34,
+      "text": "So, you know, I just got to say, the young brother speaks the truth,",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4321.46,
+      "end": 4324.94,
+      "text": "and I appreciate that he's putting his heart and soul out here because it is hard to do.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4325.5,
+      "end": 4331.26,
+      "text": "Like, so thank you, because it is important that we remember that ICE is in our community",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4331.26,
+      "end": 4334.38,
+      "text": "and that we need to do everything to protect the 14th Amendment.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4336.68,
+      "end": 4338.44,
+      "text": "So many issues have been touched on tonight.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4338.44,
+      "end": 4347.23,
+      "text": "this is also complex parking ice data center but i want to use my couple minutes to ask a couple",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4347.23,
+      "end": 4355.67,
+      "text": "questions and have one comment uh the comment is as we go as we y'all us as the public go through",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4355.67,
+      "end": 4362.48,
+      "text": "the proposed budget i have always had a little bit of a pit in my stomach when i see tourism",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4362.48,
+      "end": 4367.47,
+      "text": "under department of neighborhood engagement i don't totally understand why tourism is under",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4367.47,
+      "end": 4373.39,
+      "text": "department of neighborhood engagement feels like more of a economic development thing so i think",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4373.39,
+      "end": 4377.83,
+      "text": "that it deserves to be moved from that department so more resources can go into neighborhood",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4377.83,
+      "end": 4384.06,
+      "text": "engagement um i understand there might be some things to split up within that group but that's",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4384.06,
+      "end": 4393.64,
+      "text": "my comment for that uh the two questions i have the first one related to my comments earlier um",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4393.64,
+      "end": 4400.18,
+      "text": "i don't know how it impacts stuff but the other night at langsey stands up data center meeting",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4400.18,
+      "end": 4403.94,
+      "text": "it was like hey is there going to be a city council meeting the city council meeting tonight",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4403.94,
+      "end": 4411.05,
+      "text": "was not on the city's calendar um i don't believe it still is i checked a little bit ago and i do",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4411.05,
+      "end": 4415.73,
+      "text": "not know how that impacts stuff because the thing i know from sunshine law is agendas and the agenda",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4415.73,
+      "end": 4423.22,
+      "text": "was posted so just mentioning that as we continue to improve our functions um and then i guess the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4423.22,
+      "end": 4430.32,
+      "text": "other question would be is what what is our plan for improving the communications technology in",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4430.32,
+      "end": 4437.66,
+      "text": "this room because it's been we're gonna we'll say eight nine months roughly of this setup uh",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4437.66,
+      "end": 4443.24,
+      "text": "people are still kind of i saw some people trying to go to the uh lectern that wasn't there tonight",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4443.24,
+      "end": 4447.56,
+      "text": "because it's not available the public deserves to know when things are going to get back to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4447.56,
+      "end": 4452.61,
+      "text": "quote-unquote normal and start to move in a direction of progress that because while this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4452.61,
+      "end": 4459.37,
+      "text": "is look I appreciate the work done to hold measures together we can see how this isn't",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4459.37,
+      "end": 4466.23,
+      "text": "working for everybody all the time and we should really get back to normal so that's my second",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4466.23,
+      "end": 4474.71,
+      "text": "question is what is the plan to get back to normal with our communications thank you thank you any",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4474.71,
+      "end": 4480.55,
+      "text": "further comments for this period good evening it's just a quick one uh my name is Paul Colbreth",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4480.55,
+      "end": 4488.63,
+      "text": "uh 34 landis drive lancaster pennsylvania uh i just and i may have talked to a council member or",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4488.63,
+      "end": 4497.11,
+      "text": "two about the decommissioned fire station uh i guess number six uh what is the the plan for it",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4497.11,
+      "end": 4504.48,
+      "text": "uh because i'm i was meeting with a couple organizations that do not have a home",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4504.48,
+      "end": 4509.12,
+      "text": "there's organizations that are floundering and they had asked me to approach council",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4509.12,
+      "end": 4513.18,
+      "text": "about the fire station, number six.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4513.34,
+      "end": 4514.92,
+      "text": "And I wanted to go on record to say",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4514.92,
+      "end": 4518.29,
+      "text": "that our organization, NAN,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4518.67,
+      "end": 4521.69,
+      "text": "as well as a couple other organizations",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4521.69,
+      "end": 4525.15,
+      "text": "are wanting to, would like to take a look at that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4525.15,
+      "end": 4528.51,
+      "text": "and would like to throw our hat in the ring",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4528.51,
+      "end": 4532.71,
+      "text": "before council or the mayor or anybody",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4532.71,
+      "end": 4536.89,
+      "text": "dishes that out to a real estate company.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4538.06,
+      "end": 4539.22,
+      "text": "So, all right, thank you.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4539.22,
+      "end": 4543.94,
+      "text": "Thank you Mr. Kohlbreth. I can follow up when I have specific answers for you. I don't have them",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4543.94,
+      "end": 4551.19,
+      "text": "this evening. Additional comments for this period? Kevin Batchelor. I live on the 200 block of North",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4551.19,
+      "end": 4557.5,
+      "text": "Charlotte. Nerve-wracking to talk to all those people but just want to say I moved here a couple",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4557.5,
+      "end": 4565.24,
+      "text": "years ago and we love it. It's great. It's really cool that we can be in front of this group of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4565.24,
+      "end": 4574.45,
+      "text": "people who I know care. I think this group of people here is probably like me in feeling",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4574.45,
+      "end": 4580.85,
+      "text": "pretty disenfranchised and pretty afraid and distrusting of government. And I just filled",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4580.85,
+      "end": 4585.49,
+      "text": "out a paper today that a lot of your names were on, and I checked the box next to your",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4585.49,
+      "end": 4593.29,
+      "text": "name, and I feel like I'm doing my job as a citizen. And I just want to know that you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4593.29,
+      "end": 4601.57,
+      "text": "guys are doing your job it uh it's scary you know I see a bunch of people on this panel and",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4601.57,
+      "end": 4608.29,
+      "text": "frankly I don't see a ton of care in your faces most of the time I see a lot from the right you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4608.29,
+      "end": 4613.95,
+      "text": "guys really seem to care and that's awesome thank you for that I know that this might not be new for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4613.95,
+      "end": 4620.47,
+      "text": "you maybe you're all just used to it maybe you're jaded already we need you to not be jaded we need",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4620.47,
+      "end": 4627.59,
+      "text": "to be in the fight for this community and i need personally man i'm floundering i have like no",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4627.59,
+      "end": 4634.17,
+      "text": "trust in our larger government i want to see it from at least the people we like share the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4634.17,
+      "end": 4640.81,
+      "text": "community with i've met you all i've seen you i saw you outside of a um you know you asked me to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4640.81,
+      "end": 4651.21,
+      "text": "vote for you one time and i did um but that's the last time i saw you and that's weird man and i",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4651.21,
+      "end": 4655.8,
+      "text": "know it's maybe not weird for you but it's weird for me and i think it's probably weird for all",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4655.8,
+      "end": 4664.39,
+      "text": "you guys so we went to that data center thing and frankly just felt like a joke none of you were",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4664.39,
+      "end": 4669.43,
+      "text": "there by the way but that was weird to me too i i really thought you would be there mr aurelio",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4670.3,
+      "end": 4677.0,
+      "text": "i was shocked that you weren't um maybe you think there's nothing that can be done but i don't think",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4677.0,
+      "end": 4681.92,
+      "text": "that's right and I know that this room full of people would love to see you",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4681.92,
+      "end": 4692.61,
+      "text": "guys stand up that's all I have to say are there any additional comments for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4692.61,
+      "end": 4701.09,
+      "text": "this period I will close public comment this evening that will take us to the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4701.09,
+      "end": 4704.99,
+      "text": "next item on our agenda which is the report of the mayor was not provided",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4704.99,
+      "end": 4709.25,
+      "text": "with any from her this evening so we'll move to the next item which is the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4709.25,
+      "end": 4714.23,
+      "text": "report of president of council I want to reiterate from my report this evening",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4714.23,
+      "end": 4719.83,
+      "text": "two things uh first that although we expected the community benefit agreement to be delivered",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4719.83,
+      "end": 4725.59,
+      "text": "in full to council for this meeting i was informed just a few days ago that that would likely not",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4725.59,
+      "end": 4736.08,
+      "text": "happen those meetings and negotiations have been ongoing and i'll just i'll just say i take the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4736.08,
+      "end": 4742.52,
+      "text": "fact that it's taking longer to be a good thing because i believe that means we're asking for",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4742.52,
+      "end": 4750.71,
+      "text": "things that they're not completely comfortable with i don't know i haven't seen it yet but",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4751.35,
+      "end": 4757.03,
+      "text": "that's my take um i will be receiving updates later this week and i again remain committed",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4757.03,
+      "end": 4764.15,
+      "text": "to sharing updates as things move along i have been as transparent as i can be with what i know",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4764.15,
+      "end": 4772.47,
+      "text": "through this process and i understand completely the frustrations in this room i also understand",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4772.47,
+      "end": 4777.75,
+      "text": "the feeling of distrust in our government when we have a federal government that is absolutely",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4777.75,
+      "end": 4786.31,
+      "text": "in chaos dysfunction and on purpose to make us feel this way and i also want to say that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4789.54,
+      "end": 4795.32,
+      "text": "i hope that i hope that we don't ever come across that we're operating in that way",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4796.79,
+      "end": 4801.99,
+      "text": "it's easy to feel like there's a cabal or a conspiracy but something that i've shared with",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4801.99,
+      "end": 4806.71,
+      "text": "folks that i've been able to meet one-on-one with is that unfortunately there is one and it's just",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4806.71,
+      "end": 4813.11,
+      "text": "way bigger than we want to admit and it's way bigger and harder to solve than we ever want to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4813.11,
+      "end": 4818.39,
+      "text": "admit but i do still believe in the type of government and good government that happens",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4818.39,
+      "end": 4824.31,
+      "text": "in rooms like this when folks get together and come and share how they feel to local government",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4824.31,
+      "end": 4828.87,
+      "text": "and local government is at its best when it is not political it should not be political",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4828.87,
+      "end": 4832.77,
+      "text": "when we want to pave a street to not be political when we want to get money to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4832.77,
+      "end": 4837.25,
+      "text": "improve our infrastructure and I hope that we can continue to do that and",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4837.25,
+      "end": 4840.43,
+      "text": "provide the stability where we are able and there's a lot of things in this",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4840.43,
+      "end": 4846.55,
+      "text": "world that are unstable and desperately outside of our control but again I want",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4846.55,
+      "end": 4850.39,
+      "text": "to reiterate and thank everyone who've come here to participate and government",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4850.39,
+      "end": 4855.59,
+      "text": "at this particular level and I would wish that our state and federal",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4855.59,
+      "end": 4862.1,
+      "text": "representatives would be as accessible and get to hear from you all as well for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4862.1,
+      "end": 4869.75,
+      "text": "what it's worth that's my report this evening the next item on our agenda is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4869.75,
+      "end": 4873.59,
+      "text": "council comments counselors are there any do you have any comments this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4873.59,
+      "end": 4880.34,
+      "text": "evening hearing none and having reached the conclusion of our agenda I'll hear a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4880.34,
+      "end": 4887.98,
+      "text": "motion to adjourn motion to adjourn second all in favor aye we are adjourned",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4887.98,
+      "end": 4890.48,
+      "text": "thank you",
+      "speaker": "UNKNOWN"
+    }
+  ]
 }

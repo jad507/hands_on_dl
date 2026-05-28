@@ -6,6 +6,365 @@
     "recurring_threshold_s": 180.0,
     "avg_segment_threshold_s": 15.0
   },
-  "speaker_classification": {},
-  "blocks": []
+  "speaker_classification": {
+    "SPEAKER_00": {
+      "category": "recurring",
+      "total_speech_s": 775.3,
+      "block_count": 16,
+      "segment_count": 111,
+      "avg_segment_s": 7.0,
+      "word_count": 1777
+    },
+    "UNKNOWN": {
+      "category": "commenter_candidate",
+      "total_speech_s": 133.4,
+      "block_count": 15,
+      "segment_count": 23,
+      "avg_segment_s": 5.8,
+      "word_count": 384
+    }
+  },
+  "blocks": [
+    {
+      "block_id": 0,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 551.18,
+      "end": 618.54,
+      "duration_s": 67.4,
+      "segment_count": 6,
+      "word_count": 186,
+      "text": "All right. Good afternoon, everyone. And thank you for joining us today. My name is Mayor Jamie Arroyo. We've been closely monitoring winter storm fern forecasts and are confident that we will receive a significant amount of snow. We are trying to get ahead of it and make things as easy as possible for the residents of the city of Lancaster. We anticipate that tomorrow we will declare a snow emergency to go into effect at 12 p.m. Saturday to allow Public Works crews to safely and effectively clear snow emergency routes. We also anticipate that parking garages will open for residents who park on snow emergency routes at 8 a.m. to allow ample time to move. I want to emphasize that snow emergency routes must be kept clear so emergency vehicles and essential travel can continue. By beginning the snow emergency before the snow starts, we will allow our public works teams to get as much remaining snow off the snow emergency routes as possible before the storm starts. I want to reiterate that this is our anticipated plan. This could change as conditions evolve."
+    },
+    {
+      "block_id": 1,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 619.24,
+      "end": 627.2,
+      "duration_s": 8.0,
+      "segment_count": 1,
+      "word_count": 22,
+      "text": "We will make the final determination about the snow emergency declaration by 7.30 a.m. on Saturday so that residents can be notified."
+    },
+    {
+      "block_id": 2,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 628.56,
+      "end": 704.23,
+      "duration_s": 75.7,
+      "segment_count": 12,
+      "word_count": 196,
+      "text": "city officials will be monitoring monitoring pp l for power outages during the storm we are already looking for possible shelter locations in case this were to happen and we will provide more information if the situation arises to stay up to date throughout the weekend we encourage residents to sign up for red rose alerts to receive real-time updates by phone text and email you can visit cityoflancasterpa.gov alerts to do so and for up-to-date information residents can visit the City Snow Emergency web page at cityoflancasterpa.gov slash snow. I want to take this time to share with our residents that weather conditions, parked vehicles, and available resources all affect how quickly work can be completed. We appreciate your patience as our team works around the clock to clear the streets. Thank you to our public works team, fire, police, and other city departments who are working together to ensure the safety of our residents. And with I'd like to turn it over to Lieutenant Greger. Good afternoon. So I want to start off by saying that it is our goal to not tow a single vehicle through the snow emergency if it's not necessary"
+    },
+    {
+      "block_id": 3,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 704.23,
+      "end": 727.67,
+      "duration_s": 23.4,
+      "segment_count": 4,
+      "word_count": 64,
+      "text": "but we are prepared to do so and there's just some key points that I want to point out to folks in the community that unfortunately if your vehicle is within the emergency lanes that they can be ticketed after the snow emergency is declared now an hour after the snow emergency is declared is when towing will begin and the important thing to"
+    },
+    {
+      "block_id": 4,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 727.67,
+      "end": 786.19,
+      "duration_s": 58.5,
+      "segment_count": 12,
+      "word_count": 179,
+      "text": "take from the tow itself is that the cost of that tow is actually the responsibility of the driver owner of the vehicle rather and the cost for a tow is $300 we are working with four separate tow companies in each one in each quadrant of the city to provide efficient towing whenever the snow emergency is declared and if your vehicle is actually picked up and is required to drop because you caught the tow truck driver you can expect to pay a $200 drop fee for that now if your vehicle is in the emergency lane and we have to dig it out it's a $45 an hour charge for that so we're saying this all upfront with again the goal being to not have to tow a single vehicle and we hope that folks are prepared for this and the Lancaster Parking Authority is going to inform you of opening times for that which is going to give everyone ample time to get their vehicles out of the snow emergency routes so please help us"
+    },
+    {
+      "block_id": 5,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 786.19,
+      "end": 798.26,
+      "duration_s": 12.1,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "to not have to do our job thanks have a great day good afternoon I'm Larry Cohen"
+    },
+    {
+      "block_id": 6,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 798.26,
+      "end": 808.96,
+      "duration_s": 10.7,
+      "segment_count": 2,
+      "word_count": 24,
+      "text": "executive director of the Lancaster Parking Authority I'm here to provide you information about our snow emergency plan as the mayor stated we are"
+    },
+    {
+      "block_id": 7,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 808.96,
+      "end": 814.18,
+      "duration_s": 5.2,
+      "segment_count": 1,
+      "word_count": 14,
+      "text": "providing access to all the residents starting at 8 a.m. on Saturday with a"
+    },
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 814.18,
+      "end": 991.44,
+      "duration_s": 177.3,
+      "segment_count": 30,
+      "word_count": 424,
+      "text": "declaration of the snow emergency at noon and making sure your vehicles are off the streets by 1 p.m. we are giving this prolonged period of time to accommodate all the residents as best as possible and supporting getting the streets cleared once the snow emergency is done during this time all of our parking garages will be free I don't say that very often typically only doing it during a snow emergency most of many of the garages will fill up quickly so I would encourage you to be flexible in the facility that you park in the Prince Street garage is our largest garage in the city and if the garage is in most proximity to your home is blocked off then you should can proceed to the Prince Street garage and have the parking there you will have to pull a ticket when you enter the garage so that doesn't mean you'll be charged that just is an accountability aspect once the snow emergency is done you'll have two hours after that to get your vehicle out so charges will not be incurred until after the snow emergency is lifted two hours afterwards that's why everyone has to at least pull the pull the ticket there will be no meter enforcement during the snow emergency but it's very important that we keep the streets clear but there will not be enforcement as the lieutenant said we will be following and working in coordination with the police department and making sure the snow emergency routes are cleared that is paramount in our responsibilities so just as the police do not want to have a vehicle towed we don't want to issue a citation either so hopefully everyone can abide by that I think that is the key items here thank you good afternoon Matt Metzler, Deputy Director of Public Works. I oversee construction and operations for the City of Lancaster. During the winter, the City of Lancaster Department of Public Works, we maintain about 100 city miles as well as the 36 miles of PennDOT roads that we're under contract to do winter maintenance. So we have 136 miles to deal with this coming weekend. So we just ask everybody to please be patient. We have a very large crew in around the clock them are going to do the best we can. We often pre-treat the roadways with brine before the storm. So if you've seen the white stripes on the streets, that was our crews that came in at three"
+    },
+    {
+      "block_id": 9,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 991.44,
+      "end": 997.72,
+      "duration_s": 6.3,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "o'clock this morning applying brine to try to get ahead of the storm. In terms of priority,"
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 997.98,
+      "end": 1001.8,
+      "duration_s": 3.8,
+      "segment_count": 1,
+      "word_count": 15,
+      "text": "of course, the snow emergency routes are the number one top priority for our crews."
+    },
+    {
+      "block_id": 11,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 1002.52,
+      "end": 1013.24,
+      "duration_s": 10.7,
+      "segment_count": 2,
+      "word_count": 34,
+      "text": "That's going to be the number one effort. And so we can get towards the end of the snow emergency, and then we will worry about the arterial collector roads, the alleys, and then"
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1013.24,
+      "end": 1032.55,
+      "duration_s": 19.3,
+      "segment_count": 3,
+      "word_count": 47,
+      "text": "eventually the bike lanes. In some cases, when we get significant accumulation and the amounts we're talking about right now, it's unfortunately not just a plowing effort. It's often it becomes a removal effort, which includes a lot of specialized equipment, a lot more cost, a lot"
+    },
+    {
+      "block_id": 13,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 1032.55,
+      "end": 1041.23,
+      "duration_s": 8.7,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "more time um so we're expecting that we're preparing for the worst um so our plan does"
+    },
+    {
+      "block_id": 14,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1041.23,
+      "end": 1049.63,
+      "duration_s": 8.4,
+      "segment_count": 1,
+      "word_count": 16,
+      "text": "include potential removal as part of this process um residents you should understand that excuse me"
+    },
+    {
+      "block_id": 15,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 1049.63,
+      "end": 1063.59,
+      "duration_s": 14.0,
+      "segment_count": 3,
+      "word_count": 53,
+      "text": "you will not see black pavement throughout the while it's still actively snowing it does take time for us to get caught up with the accumulation they're talking about and the snow rates they're talking about we're not going to be keeping up during the actual storm itself so if you need to"
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1063.59,
+      "end": 1118.47,
+      "duration_s": 54.9,
+      "segment_count": 10,
+      "word_count": 183,
+      "text": "be traveling please take your time leave extra time to get where you're trying to go and expect it's going to be treacherous at some points the current extended forecast does not look good for next week if anybody's looked ahead the overnight lows for monday tuesday wednesday last time i looked this morning were like three degrees five degrees and five degrees so at those temperatures road salt actually does not work at all. So it's not supposed to get above freezing again after today until I think the last I looked it was the fourth. So we're looking at a full week of below freezing temperatures. So the salt's not going to work and the piles aren't going to melt. So again just please be patient with us. We're going to do the best we can with what we have but mother nature's really putting it to us with the storm. Yeah just I just want to close by saying again everyone be patient be safe if you don't have to be on the roads please don't be on the roads"
+    },
+    {
+      "block_id": 17,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 1118.47,
+      "end": 1124.11,
+      "duration_s": 5.6,
+      "segment_count": 1,
+      "word_count": 20,
+      "text": "and if you do need to be on the roads then just take your time and exercise due caution thanks"
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1124.11,
+      "end": 1155.17,
+      "duration_s": 31.1,
+      "segment_count": 4,
+      "word_count": 66,
+      "text": "good afternoon todd hutchinson the fire chief here in lancaster i'm here just with one quick message as the snow starts to accumulate that they're forecasted we're asking residents to kind of adopt a hydrant and help the firefighters clear those hydrants so they're accessible in case of emergency. When our fires arrive at a fire, the time is of the essence, and the quicker we"
+    },
+    {
+      "block_id": 19,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 1155.17,
+      "end": 1165.51,
+      "duration_s": 10.3,
+      "segment_count": 2,
+      "word_count": 33,
+      "text": "can get water, the quicker the fire will go out. So we're asking the public's help, and as you're clearing your sidewalks, working with your neighbors, kind of adopt a hydrant and make"
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1165.51,
+      "end": 1170.95,
+      "duration_s": 5.4,
+      "segment_count": 1,
+      "word_count": 15,
+      "text": "sure those hydrants are cleared. Three feet in all directions is what we're requesting. It's"
+    },
+    {
+      "block_id": 21,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 1170.95,
+      "end": 1176.97,
+      "duration_s": 6.0,
+      "segment_count": 1,
+      "word_count": 17,
+      "text": "best access for us as the snow starts to accumulate. Again, thank you, and thanks to the"
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1176.97,
+      "end": 1205.9,
+      "duration_s": 28.9,
+      "segment_count": 3,
+      "word_count": 46,
+      "text": "residents for your help in this matter well with that I'm happy to take any questions and if I don't know the answer happy to kick it off to one of these experts yeah that's correct yeah we're trying to give them a little bit more"
+    },
+    {
+      "block_id": 23,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 1205.9,
+      "end": 1214.6,
+      "duration_s": 8.7,
+      "segment_count": 2,
+      "word_count": 27,
+      "text": "runway to get into the garages and also with the conditions constantly or the forecast can consistently evolving we just want to make sure that we're may"
+    },
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1214.6,
+      "end": 1310.75,
+      "duration_s": 96.2,
+      "segment_count": 7,
+      "word_count": 108,
+      "text": "taking the right steps at the right time so far no not that I'm aware of Matt no Nope, they are still the same. Yeah, you can send that out Thank you for asking that question I didn't want to take too deep of a dive but I appreciate the the question There's a little over probably about fifty seven hundred parking spaces in all of our eight garages I will say that during a snow emergency you have 5700 but our goal is to block off every roof of every garage which will allow us to remove the snow without impediment of a vehicle without impediment of"
+    },
+    {
+      "block_id": 25,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 1310.75,
+      "end": 1316.67,
+      "duration_s": 5.9,
+      "segment_count": 1,
+      "word_count": 20,
+      "text": "vehicles on the roof so our we do our best to make sure that the roofs are closed number one"
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1316.67,
+      "end": 1376.2,
+      "duration_s": 59.5,
+      "segment_count": 6,
+      "word_count": 99,
+      "text": "and then we also have some commitments to events to the hotel convention center that some space needs to be held for hotel guests and things of that nature so if the public you know if a garage is closed but the public still sees that there's space available including the roof it there's it's because of the requirements we have with some of our contracts and as I said keeping the roof open thank you we are going to be having some social media posts go out We find it's better when the snow actually starts to accumulate."
+    },
+    {
+      "block_id": 27,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 1376.68,
+      "end": 1382.0,
+      "duration_s": 5.3,
+      "segment_count": 1,
+      "word_count": 14,
+      "text": "We'll put that out to keep it fresh in everybody's memory of their request."
+    },
+    {
+      "block_id": 28,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1389.01,
+      "end": 1436.86,
+      "duration_s": 47.8,
+      "segment_count": 5,
+      "word_count": 63,
+      "text": "Yeah, of course, that's not recommended. We recommend not using your ovens in case you lose power. Try to seek out shelters that the city has in operations in case you lose that power. we never want candles to be used as heating sources or ovens just for safety and carbon monoxide awareness yeah we'll be so one of the things we're requesting"
+    },
+    {
+      "block_id": 29,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 1436.86,
+      "end": 1440.04,
+      "duration_s": 3.2,
+      "segment_count": 1,
+      "word_count": 15,
+      "text": "residents to do is to sign up for Red Rose alerts to get notifications through"
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_00",
+      "category": "recurring",
+      "start": 1440.04,
+      "end": 1507.0,
+      "duration_s": 67.0,
+      "segment_count": 8,
+      "word_count": 110,
+      "text": "that system we'll keep our website up to date on the city of Lancaster PA gov slash snow website and then also social media as well communicating that way to to get the word out to residents absolutely yeah we're anticipating to declare it no later than 730 in the morning but it won't take it into effect at 12 p.m. now that's what we anticipate understanding the forecast have has been evolving over the last few days but we anticipate that it'll take effect at 12 p.m. tomorrow with that thank you so much for joining us today and appreciate you helping to get the word out thank you"
+    }
+  ]
 }

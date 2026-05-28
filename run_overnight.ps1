@@ -1,3 +1,7 @@
+param(
+    [switch]$Force  # Pass -Force to re-process already-completed align/group steps
+)
+
 $env:PYTHONUNBUFFERED = "1"
 $env:PYTHONUTF8 = "1"
 
@@ -25,10 +29,12 @@ python audio_pipeline/transcribe.py 2>&1 | tee logs/transcribe.log
 if ($LASTEXITCODE -ne 0) { Write-Host "transcribe.py failed (exit $LASTEXITCODE) - stopping"; exit 1 }
 
 # --- Alignment & grouping (need both diarize + transcribe outputs) ---
-python audio_pipeline/align.py 2>&1 | tee logs/align.log
+$forceFlag = if ($Force) { @("--force") } else { @() }
+
+python audio_pipeline/align.py $forceFlag 2>&1 | tee logs/align.log
 if ($LASTEXITCODE -ne 0) { Write-Host "align.py failed (exit $LASTEXITCODE) - stopping"; exit 1 }
 
-python audio_pipeline/group_speakers.py 2>&1 | tee logs/group_speakers.log
+python audio_pipeline/group_speakers.py $forceFlag 2>&1 | tee logs/group_speakers.log
 if ($LASTEXITCODE -ne 0) { Write-Host "group_speakers.py failed (exit $LASTEXITCODE) - stopping"; exit 1 }
 
 # --- Post-processing (need grouped output + metadata) ---
@@ -40,5 +46,8 @@ if ($LASTEXITCODE -ne 0) { Write-Host "extract_commenter_blocks.py failed (exit 
 
 python block_duration_histogram.py 2>&1 | tee logs/block_duration_histogram.log
 if ($LASTEXITCODE -ne 0) { Write-Host "block_duration_histogram.py failed (exit $LASTEXITCODE) - stopping"; exit 1 }
+
+python chunk_token_histogram.py 2>&1 | tee logs/chunk_token_histogram.log
+if ($LASTEXITCODE -ne 0) { Write-Host "chunk_token_histogram.py failed (exit $LASTEXITCODE) - stopping"; exit 1 }
 
 Write-Host "All steps complete."

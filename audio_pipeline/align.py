@@ -103,7 +103,7 @@ def assign_speaker(seg_start: float, seg_end: float, rttm_entries: list[dict]) -
     return best_speaker
 
 
-def align_file(stem: str, rttm_mode: str) -> bool:
+def align_file(stem: str, rttm_mode: str, force: bool = False) -> bool:
     whisper_path = WHISPER_DIR / f"{stem}.json"
     rttm_path = RTTM_DIRS[rttm_mode] / f"{stem}.rttm"
     out_path = OUT_DIRS[rttm_mode] / f"{stem}.json"
@@ -114,7 +114,7 @@ def align_file(stem: str, rttm_mode: str) -> bool:
     if not rttm_path.exists():
         print(f"  [{rttm_mode}] SKIP — RTTM not found: {rttm_path.name}")
         return False
-    if out_path.exists():
+    if out_path.exists() and not force:
         print(f"  [{rttm_mode}] Already done, skipping.")
         return False
 
@@ -202,6 +202,11 @@ def main():
         default="both",
         help="Which RTTM mode to align against (default: both)",
     )
+    parser.add_argument(
+        "--force", "-f",
+        action="store_true",
+        help="Overwrite existing output files instead of skipping",
+    )
     args = parser.parse_args()
 
     stems = stems_from_input(args.input)
@@ -222,7 +227,7 @@ def main():
         stem_did_work = False
         for mode in modes:
             try:
-                did_work = align_file(stem, mode)
+                did_work = align_file(stem, mode, force=args.force)
                 if did_work:
                     n_done += 1
                     stem_did_work = True

@@ -188,6 +188,7 @@ def group_file(
     max_gap_s: float,
     recurring_threshold_s: float,
     avg_segment_threshold_s: float,
+    force: bool = False,
 ) -> bool:
     aligned_path = ALIGNED_DIRS[mode] / f"{stem}.json"
     out_path = OUT_DIRS[mode] / f"{stem}.json"
@@ -195,7 +196,7 @@ def group_file(
     if not aligned_path.exists():
         print(f"  [{mode}] SKIP — aligned output not found: {aligned_path.name}")
         return False
-    if out_path.exists():
+    if out_path.exists() and not force:
         print(f"  [{mode}] Already done, skipping.")
         return False
 
@@ -286,6 +287,8 @@ def main():
                         help=f"Total speech (s) above which a speaker is 'recurring' (default: {DEFAULT_RECURRING_THRESHOLD_S})")
     parser.add_argument("--avg-segment-threshold", type=float, default=DEFAULT_AVG_SEGMENT_THRESHOLD_S,
                         help=f"Avg segment (s) below which a speaker is 'recurring' (default: {DEFAULT_AVG_SEGMENT_THRESHOLD_S})")
+    parser.add_argument("--force", "-f", action="store_true",
+                        help="Overwrite existing output files instead of skipping")
     args = parser.parse_args()
 
     modes = ["standard", "exclusive"] if args.mode == "both" else [args.mode]
@@ -320,6 +323,7 @@ def main():
                     max_gap_s=args.max_gap,
                     recurring_threshold_s=args.recurring_threshold,
                     avg_segment_threshold_s=args.avg_segment_threshold,
+                    force=args.force,
                 )
                 if did_work:
                     n_done += 1

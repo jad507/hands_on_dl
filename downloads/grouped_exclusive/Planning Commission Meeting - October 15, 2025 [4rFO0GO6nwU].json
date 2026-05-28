@@ -6,6 +6,57 @@
     "recurring_threshold_s": 180.0,
     "avg_segment_threshold_s": 15.0
   },
-  "speaker_classification": {},
-  "blocks": []
+  "speaker_classification": {
+    "SPEAKER_00": {
+      "category": "commenter_candidate",
+      "total_speech_s": 2359.6,
+      "block_count": 1,
+      "segment_count": 1,
+      "avg_segment_s": 2359.6,
+      "word_count": 2
+    },
+    "UNKNOWN": {
+      "category": "commenter_candidate",
+      "total_speech_s": 1757.7,
+      "block_count": 2,
+      "segment_count": 31,
+      "avg_segment_s": 56.7,
+      "word_count": 46
+    }
+  },
+  "blocks": [
+    {
+      "block_id": 0,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 1080.0,
+      "end": 2181.45,
+      "duration_s": 1101.4,
+      "segment_count": 2,
+      "word_count": 4,
+      "text": "Thank you. Thank you."
+    },
+    {
+      "block_id": 1,
+      "speaker": "SPEAKER_00",
+      "category": "commenter_candidate",
+      "start": 4918.38,
+      "end": 7278.0,
+      "duration_s": 2359.6,
+      "segment_count": 1,
+      "word_count": 2,
+      "text": "Thank you."
+    },
+    {
+      "block_id": 2,
+      "speaker": "UNKNOWN",
+      "category": "commenter_candidate",
+      "start": 7278.02,
+      "end": 7934.32,
+      "duration_s": 656.3,
+      "segment_count": 29,
+      "word_count": 42,
+      "text": "yeah my me and they hurt and do um yeah you know and it it it it it it it it it it it it it it it it If you have any questions, please feel free to reach out to me."
+    }
+  ]
 }

@@ -1,6 +1,4890 @@
 {
   "file": "Traffic Commission Meeting - January 13, 2026 [Lh-YhcNEysQ]",
   "rttm_mode": "exclusive",
-  "speaker_summary": {},
-  "segments": []
+  "speaker_summary": {
+    "SPEAKER_00": {
+      "total_speech_s": 2963.2,
+      "segment_count": 438,
+      "word_count": 6998
+    },
+    "UNKNOWN": {
+      "total_speech_s": 2044.7,
+      "segment_count": 374,
+      "word_count": 3861
+    }
+  },
+  "segments": [
+    {
+      "start": 402.77,
+      "end": 437.1,
+      "text": "Very soon very good I hereby call to order the traffic Commission meeting of January 13th",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 438.46,
+      "end": 441.38,
+      "text": "2026 the first one of 2026. Thank you very very much",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 442.12,
+      "end": 444.12,
+      "text": "The first item. Oh",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 445.74,
+      "end": 452.87,
+      "text": "The first the first item I think we'll do is is we'll start with some key introductions because",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 453.01,
+      "end": 459.83,
+      "text": "It is the beginning of the new year. We have a new council member who is joining as a member of the traffic Commission and",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 459.83,
+      "end": 464.79,
+      "text": "and we're gonna just start with introductions my name is Stephen Campbell",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 464.79,
+      "end": 468.71,
+      "text": "I'm the director of public works for the city of Lancaster we'll start going this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 468.71,
+      "end": 478.73,
+      "text": "way and then we'll go to miss me on good afternoon Cindy McCormick I'm the city",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 478.73,
+      "end": 484.64,
+      "text": "engineer in the Department of Public Works I'm Betsy Logan I'm the planning",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 484.64,
+      "end": 493.31,
+      "text": "bureau chief for the city's planning and economic development and then see me",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 493.31,
+      "end": 497.87,
+      "text": "John just elected City Council and I'm gonna be working with them on traffic Commission",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 503.05,
+      "end": 505.99,
+      "text": "Dorsey some raw patrol services sergeant City of Lancaster",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 507.52,
+      "end": 515.89,
+      "text": "Mindy Gable, I'm the traffic Commission administrator and there's another member who is not present tonight today, which is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 516.53,
+      "end": 518.38,
+      "text": "Philip Kennedy",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 518.38,
+      "end": 520.38,
+      "text": "one of the city residents who is a",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 521.56,
+      "end": 528.52,
+      "text": "Representative of the Commission the first item on the agenda is the minutes of the previous meeting the November 2025 meeting",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 528.66,
+      "end": 541.2,
+      "text": "I'm open to hearing a recommendation to accept those meeting minutes or to make",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 541.2,
+      "end": 549.07,
+      "text": "adjustments to them I hear a motion is there a second there's a motion in a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 549.07,
+      "end": 558.07,
+      "text": "second is there any further discussion hearing none all in favor any opposed",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 558.07,
+      "end": 566.99,
+      "text": "very good that that passes the next item on the agenda is the staff project",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 566.99,
+      "end": 572.83,
+      "text": "updates specifically the residential permit parking program update we have emma ham from",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 572.83,
+      "end": 579.46,
+      "text": "the department of public works public right-of-way i'm emma transportation planner with the city",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 579.46,
+      "end": 584.1,
+      "text": "um so just very quick updates the for the residential permit parking program we have",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 585.46,
+      "end": 592.34,
+      "text": "two pilot programs going right now the southeast pilot program is currently the petitions are out",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 592.34,
+      "end": 597.14,
+      "text": "so i haven't heard any updates yet but the petitions are out for that so it's possible",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 597.14,
+      "end": 603.22,
+      "text": "we would be seeing those at the next traffic commission meeting um and we did have a public",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 603.22,
+      "end": 611.38,
+      "text": "meeting about that about a month ago uh not uh not tremendous attendance but certainly lots of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 611.38,
+      "end": 617.86,
+      "text": "interest in uh permit parking in that area and then for the northwest pilot area um we're going",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 617.86,
+      "end": 624.34,
+      "text": "to be having sort of like a public open house meeting on february 9th at 5 30 and i just heard",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 624.34,
+      "end": 628.9,
+      "text": "back from kabalar that they're willing to host so it'll be held at kabalar right in the neighborhood",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 630.02,
+      "end": 635.94,
+      "text": "and we'll just talk with folks about what an rpp pilot program in that area would look like so",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 635.94,
+      "end": 642.42,
+      "text": "that that's all my updates on rpp for right now any questions i just wanted to to confirm that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 643.06,
+      "end": 646.5,
+      "text": "that means that even though both are going in parallel one is going ahead",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 647.22,
+      "end": 653.62,
+      "text": "ahead of the other a little bit a little bit but i it's all going to depend on whether the petitions",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 654.5,
+      "end": 660.18,
+      "text": "when the petitions are signed by and and make it back here so in terms of implementation i don't",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 660.18,
+      "end": 666.34,
+      "text": "know yet and and i i i hate to put you on the spot this way but just for those who may not be",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 666.34,
+      "end": 674.18,
+      "text": "familiar with what the process is the petitions do what what what information are you collecting for",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 674.18,
+      "end": 680.66,
+      "text": "from the petitions to confirm so just for the petitions we're for the pilot program we're",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 680.66,
+      "end": 688.74,
+      "text": "wanting 60 percent of residents so in 60 of households in the designated pilot area",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 688.74,
+      "end": 693.94,
+      "text": "to say that they want residential permit parking in the neighborhood and then once we get that 60",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 693.94,
+      "end": 699.34,
+      "text": "percent and we review the petitions and they seem to be acceptable then we bring",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 699.34,
+      "end": 703.06,
+      "text": "them back for traffic Commission to traffic Commission to just review",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 703.06,
+      "end": 708.68,
+      "text": "confirm you know make it public that we're moving forward with implementation",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 708.68,
+      "end": 714.18,
+      "text": "and then after that there would probably still be maybe a month or two lag while",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 714.18,
+      "end": 718.12,
+      "text": "we get signage up and make sure everyone's aware like notification to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 718.12,
+      "end": 723.46,
+      "text": "residents all of that so it's it's quite a process very good the only reason I",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 723.46,
+      "end": 727.18,
+      "text": "brought that up was because generally speaking traffic Commission does not do",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 727.18,
+      "end": 732.7,
+      "text": "this kind of work we got a special we got special permission through council",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 732.7,
+      "end": 738.52,
+      "text": "to be able to do that this experiment which is to do a pilot program to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 738.52,
+      "end": 746.21,
+      "text": "determine what what private residential parking would be like or should be like",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 746.21,
+      "end": 749.41,
+      "text": "in the city of Lancaster and we're following through almost to the letter",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 749.41,
+      "end": 756.01,
+      "text": "what that requirement was in order to get the best recommendation so thank you",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 756.01,
+      "end": 761.32,
+      "text": "very much Emma for that report thank you any other questions from council or any",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 761.32,
+      "end": 768.54,
+      "text": "further discussion about the residential permit parking program hearing none",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 768.54,
+      "end": 774.12,
+      "text": "we'll go straight into action the action agenda old business the first item is",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 774.12,
+      "end": 781.22,
+      "text": "item 40-20 25 considering the request of Pamela didn't dint amin to add an all",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 781.22,
+      "end": 788.99,
+      "text": "stop at West Lemon Street and North Mary Street is miss Denton in here I just",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 788.99,
+      "end": 791.39,
+      "text": "want to note that at the November traffic Commission meeting the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 791.39,
+      "end": 795.89,
+      "text": "Commission moved to table the request for a stop sign at Lemon and Mary",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 795.89,
+      "end": 799.61,
+      "text": "pending further study of the Lemon Street corridor between Mulberry and",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 799.61,
+      "end": 804.11,
+      "text": "college staff were not able to provide final recommendations until warmer",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 804.11,
+      "end": 809.85,
+      "text": "weather allows for more accurate bicycle and pedestrian data collection thus no",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 809.85,
+      "end": 815.24,
+      "text": "final decision is expected on this agenda item is there anything else do we",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 815.24,
+      "end": 820.42,
+      "text": "need to know about this item Ben just identify yourself yes hi everyone",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 820.42,
+      "end": 824.76,
+      "text": "Ben Hogan public works engineer for City of Lancaster so if you remember at the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 824.76,
+      "end": 828.98,
+      "text": "last meeting we had recommended approval of always stop control at Mary and lemon",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 828.98,
+      "end": 832.94,
+      "text": "the Commission had tabled that item because they wanted kind of a more",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 832.94,
+      "end": 836.42,
+      "text": "comprehensive look at all the intersections from college to Charlotte",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 836.42,
+      "end": 839.9,
+      "text": "we said we would go back to the drawing board and present it at this meeting",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 839.9,
+      "end": 844.76,
+      "text": "after thinking about it a little bit more our entire basis of always stop",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 844.76,
+      "end": 849.4,
+      "text": "control at that intersection was based off of the pedestrian volumes and if",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 849.4,
+      "end": 853.94,
+      "text": "we're collecting that data in November or later in the winter you're not going",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 853.94,
+      "end": 858.02,
+      "text": "to have that same volume so what we're looking for is to revisit this probably",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 858.02,
+      "end": 861.66,
+      "text": "at the May meeting once pedestrian activity picks back up and we can get",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 861.66,
+      "end": 865.04,
+      "text": "accurate counts because the counts we used for lemon and Mary were from",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 865.04,
+      "end": 871.44,
+      "text": "september so that was a good time of the year with warm weather so that means you'll be able to take",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 871.44,
+      "end": 878.64,
+      "text": "on you'll be able to do the data collection in late march and april or early may so that you",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 878.64,
+      "end": 883.52,
+      "text": "can report it out at the may meeting that's correct yep we'll have that final study for may",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 883.52,
+      "end": 888.48,
+      "text": "very good i very much appreciate that is there any other question or comment about this particular",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 888.48,
+      "end": 896.01,
+      "text": "item do we need to take any special action to continue to keep it on the table i don't think",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 896.01,
+      "end": 905.56,
+      "text": "we do we'll just continue to table it very good thank you very much ben the next item on the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 905.56,
+      "end": 912.92,
+      "text": "action agenda old business is item 41 of 2025 consider the request of bennett crumbling to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 912.92,
+      "end": 922.03,
+      "text": "address speed and parking on buchanan avenue is mr crumbling present was there any research done",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 922.03,
+      "end": 931.21,
+      "text": "by staff at the staff level Mindy do you know if there was any response from mr.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 931.21,
+      "end": 936.92,
+      "text": "crumbling so is and this is the first time this is the second time it's come",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 936.92,
+      "end": 944.34,
+      "text": "before us correct so ordinarily we we look for the applicant to be present to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 944.34,
+      "end": 948.68,
+      "text": "be able to have the question and answer with that person about what's what's",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 948.68,
+      "end": 959.57,
+      "text": "going on for specifics etc and they were officially notified so so with this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 959.57,
+      "end": 966.2,
+      "text": "being the second time we can remove it from the agenda unless and until that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 966.2,
+      "end": 972.24,
+      "text": "person chooses to make another application do we need a motion to do",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 972.24,
+      "end": 981.68,
+      "text": "that second there's a motion in a second is there any further discussion here or",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 981.68,
+      "end": 996.02,
+      "text": "at the public hearing none all in favor any opposed thank you the next item is item 44-2025",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 996.02,
+      "end": 1002.58,
+      "text": "considering the request of james alcamp to install a stop sign at east ross and north and street",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1003.62,
+      "end": 1011.52,
+      "text": "mr olcamp did i pronounce your name correctly okay thank you i've been called worse",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1012.61,
+      "end": 1014.23,
+      "text": "And I'm sure you've been called better.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1014.81,
+      "end": 1015.43,
+      "text": "Well, maybe.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1017.88,
+      "end": 1024.12,
+      "text": "This is the second time I came before the commission for the same intersection and same stop sign.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1024.12,
+      "end": 1030.26,
+      "text": "The last time was many years ago for the same thing.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1031.26,
+      "end": 1039.54,
+      "text": "I know in the past other neighbors in the neighborhood have been here for the same intersection to try and get a stop sign.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1039.54,
+      "end": 1049.34,
+      "text": "um what i would like to do if it's okay is um when you're uh heading west on east ross from",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1049.34,
+      "end": 1058.08,
+      "text": "the five-way down at um reservoir marshall and park avenue yes when you're heading when you're",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1058.08,
+      "end": 1064.28,
+      "text": "heading west when you get up to the next block where uh at my intersection at um",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1064.28,
+      "end": 1070.02,
+      "text": "rot um we haven't shown up here shipping this does not work yet but",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1070.02,
+      "end": 1080.44,
+      "text": "or Ann Ann and Ross yeah that's the five-way now heading up East Ross you get up to Ann and Ross",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1080.44,
+      "end": 1090.62,
+      "text": "and there's no stop signs on Ross just on Ann coming into Ross then you continue east on Ross",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1090.62,
+      "end": 1105.02,
+      "text": "or west on Ross and you get up to uh East Ross and Plum there's a red light and then you continue",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1105.02,
+      "end": 1113.23,
+      "text": "east on Ross, and you get up to Lime Street, and there's a red light, and then you continue east",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1113.23,
+      "end": 1119.33,
+      "text": "on Ross, and you get up to, I only went up as far as Duke, and that's a stop sign, which makes sense",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1119.33,
+      "end": 1125.33,
+      "text": "because Duke's one way south, main artery heading into the city. I did the same thing on Clay,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1126.74,
+      "end": 1136.49,
+      "text": "on East Clay, heading west. You start at, if you start at the five-way, Park Avenue, Franklin,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1136.49,
+      "end": 1144.68,
+      "text": "and clay heading west on new or on clay i'm sorry uh you get up to clay and plum there's a red light",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1144.68,
+      "end": 1153.82,
+      "text": "uh clay and shipping there's a four-way stop sign clay and north lime there's a red light",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1153.82,
+      "end": 1161.8,
+      "text": "clay and duke intersection there's a red light mindy i think you're still on ross",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1161.8,
+      "end": 1188.29,
+      "text": "nope yeah right and all those uh there's four-way stops or red lights the whole way up to duke",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1188.29,
+      "end": 1216.42,
+      "text": "Street on Clay. And I did the same thing for Clay Street. That was Clay. New and Clay are the same",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1216.42,
+      "end": 1222.76,
+      "text": "way. There's four ways at every intersection, some type of stop, either a four-way stop sign or a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1222.76,
+      "end": 1229.68,
+      "text": "red light all the way to Duke Street and continues on actually all the way to Prince, but I only went",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1229.68,
+      "end": 1246.01,
+      "text": "to duke for the for this uh exercise so my my point is that every intersection on ross or not",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1246.01,
+      "end": 1255.66,
+      "text": "ross but clay and new all have some type of stop either a red light or or a uh stop sign four-way",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1255.66,
+      "end": 1263.46,
+      "text": "stop sign um some of the some of the fixes that that have come i guess from other people i'm not",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1263.46,
+      "end": 1270.68,
+      "text": "the first one here for this intersection. My neighbor at 506 East Ross, I think, was",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1270.68,
+      "end": 1279.02,
+      "text": "down. And some of the fixes have been, you eliminated two parking spaces on East Ross",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1279.02,
+      "end": 1288.38,
+      "text": "on the north side of the street, east and west of the intersection. So there's been",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1288.38,
+      "end": 1292.56,
+      "text": "four parking spaces eliminated to give people room to see",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1292.56,
+      "end": 1295.9,
+      "text": "coming out of the intersection on Ann.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1298.04,
+      "end": 1299.4,
+      "text": "Still have accidents.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1301.18,
+      "end": 1304.9,
+      "text": "One of the other things that were done was they added",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1304.9,
+      "end": 1308.39,
+      "text": "blinking red lights on the stop signs",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1308.39,
+      "end": 1313.21,
+      "text": "on Ann Street, both sides. Unfortunately, they're",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1313.21,
+      "end": 1317.23,
+      "text": "not maintained because those red lights have been out, the flashing lights have",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1317.23,
+      "end": 1322.85,
+      "text": "been out for an extended period of time on those flashlights. I did notice the one on Duke Street",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1322.85,
+      "end": 1328.95,
+      "text": "when I was doing this survey that that one is working, but the ones on Ann Street have not",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1328.95,
+      "end": 1334.7,
+      "text": "been working for an extended period of time. They also cut some tree branches away from the stop",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1334.7,
+      "end": 1345.27,
+      "text": "sign on North Ann coming out to East Ross. And I believe all those fixes came from neighbors",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1345.27,
+      "end": 1349.33,
+      "text": "coming here complaining about trying to get the four-way stop sign and these were things that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1349.33,
+      "end": 1354.63,
+      "text": "that ended up being done trying to alleviate trying to get you know instead of the four-way",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1354.63,
+      "end": 1366.06,
+      "text": "stop sign and um i i you know we tried they didn't work um i i don't i'm just asking for either",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1366.06,
+      "end": 1374.8,
+      "text": "a four-way stop sign or possibly i thought of this today uh possibly coming down and on to ross",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1374.8,
+      "end": 1382.79,
+      "text": "um some of the intersections have a huge white lettering stop sign ahead something like what",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1382.79,
+      "end": 1388.13,
+      "text": "whatever the cheaper deal would be i don't know if it's a money issue i don't know what it is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1388.13,
+      "end": 1394.47,
+      "text": "but um the accidents that have been there you know obviously you have some fender benders",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1394.47,
+      "end": 1399.25,
+      "text": "and obviously you have some serious accidents the last two accidents that were there were with",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1399.25,
+      "end": 1405.81,
+      "text": "injuries and i wanted to get to the to the uh lancaster city fire and get the report but i did",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1405.81,
+      "end": 1411.29,
+      "text": "not i did not have a chance to do that do you have a sense of how long ago those last two accidents",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1411.29,
+      "end": 1419.18,
+      "text": "you mentioned were uh probably uh december november and december i think or possibly both",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1419.18,
+      "end": 1425.54,
+      "text": "in november okay and they were both with injuries both of those i know the one woman had a broken",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1425.54,
+      "end": 1434.46,
+      "text": "wrist and i think a child was injured in the other one um the other thing is um that that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1434.46,
+      "end": 1442.69,
+      "text": "should be considered is having the police tied up at an accident there and the fire company",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1442.69,
+      "end": 1452.55,
+      "text": "at an intersection that could possibly have less um incidents if if the four-way stop sign was",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1452.55,
+      "end": 1461.23,
+      "text": "added uh the last i i've the last accident that was there um i directed traffic for the whole time",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1461.23,
+      "end": 1465.87,
+      "text": "because there was only one officer and three cars involved so it's a lot of information that she had",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1465.87,
+      "end": 1471.93,
+      "text": "to get so i and i don't mind doing it but we shouldn't have you know we know how the how the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1471.93,
+      "end": 1477.15,
+      "text": "police are stretched in the fire department and i think if we can alleviate alleviate some some",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1477.15,
+      "end": 1482.59,
+      "text": "problem at an intersection to help keep them from having to respond to stuff",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1482.59,
+      "end": 1487.29,
+      "text": "that maybe doesn't have to be or at least less I'm not saying a four-way",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1487.29,
+      "end": 1490.79,
+      "text": "stop sign we're never going to have an accident there but I think it would I",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1490.79,
+      "end": 1494.85,
+      "text": "think it would definitely help you know thank you very much is there more that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1494.85,
+      "end": 1501.39,
+      "text": "you wanted to say before we that's it thank you stayed nearby okay Ben has",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1501.39,
+      "end": 1506.47,
+      "text": "staff taken a look at this situation can you report out yes hello Ben Hogan",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1506.47,
+      "end": 1512.07,
+      "text": "public works engineer for city of lancaster so we did a traffic study out here for last meeting",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1512.79,
+      "end": 1517.43,
+      "text": "there's very specific criteria for when you should put in an always stop based on state",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1517.43,
+      "end": 1522.71,
+      "text": "and federal guidance that would either be based on site distance the amount of traffic passing",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1522.71,
+      "end": 1527.51,
+      "text": "through the intersection or the history of crashes at the intersection so we took a look at this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1527.51,
+      "end": 1532.95,
+      "text": "intersection performed a study site distance is pretty good at the intersection back in 2011",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1532.95,
+      "end": 1537.83,
+      "text": "as part of a past traffic commission item they put in large parking restrictions like he had mentioned",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1538.95,
+      "end": 1542.71,
+      "text": "i mean that's often not followed when you put in the very large parking restrictions and it's just",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1542.71,
+      "end": 1548.47,
+      "text": "left open the traffic volume does not meet the warrants to do always stop control but what we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1548.47,
+      "end": 1554.55,
+      "text": "found is based on that reportable crash history always stop control is warranted so we pulled",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1554.55,
+      "end": 1561.91,
+      "text": "crash data for the intersection over the 12-month period preceding september 2025 there were five",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1561.91,
+      "end": 1569.19,
+      "text": "crashes where the threshold is five um and in the 36 month period preceding october of 2025",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1569.19,
+      "end": 1574.95,
+      "text": "there were eight crashes which exceeds the warrant of six crashes so based on that information we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1574.95,
+      "end": 1579.99,
+      "text": "would recommend installing always stop control at this intersection as a part of that we have",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1579.99,
+      "end": 1584.79,
+      "text": "a process where we'll put in the signs the blinking lights on top and restrict some",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1584.79,
+      "end": 1589.43,
+      "text": "parking at the intersection as a part of that naya mentioned we have very large parking restrictions",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1589.43,
+      "end": 1594.47,
+      "text": "they're already so our recommendation with the always stop is to remove those large parking",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1594.47,
+      "end": 1599.43,
+      "text": "restrictions which were for site distance open that back up for on-street parking and then just",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1599.43,
+      "end": 1604.23,
+      "text": "restrict parking in accordance with code so that would be 20 feet from the crosswalk or 30 feet",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1604.23,
+      "end": 1610.55,
+      "text": "from the stop signs rather than the 75 plus feet that we have right now and i'll note as well if",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1610.55,
+      "end": 1614.63,
+      "text": "you have issues with the blinking lights at the intersections if they're burnt out we have an app",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1614.63,
+      "end": 1619.19,
+      "text": "called fix it which is great for that you can report it on there or call our office and we can",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1619.19,
+      "end": 1625.27,
+      "text": "address that as well thank you and i will say that usually fix it has a a record of being able to get",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1625.27,
+      "end": 1631.11,
+      "text": "things done within two to three weeks which is usually very very good sometimes it's sooner than",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1631.11,
+      "end": 1639.51,
+      "text": "that but we are finding a lot of the challenges addressed properly through fix it um is there",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1639.51,
+      "end": 1643.59,
+      "text": "anything further that you wanted to be able to share with us ben no that was all thank you are",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1643.59,
+      "end": 1649.51,
+      "text": "there any questions at the level of the council or concerns about what has been recommended by",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1649.51,
+      "end": 1663.96,
+      "text": "staff for this particular intersection any further comment from the public if you'd like to say make",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1663.96,
+      "end": 1675.43,
+      "text": "a comment as well you may please uh just a question on a time frame how long does that take",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1675.43,
+      "end": 1683.16,
+      "text": "to get to get a stop sign uh installed it should be prior to the next traffic commission meeting",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1683.16,
+      "end": 1692.39,
+      "text": "so within the next two months it should be able to go in so is there any further discussion any",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1692.39,
+      "end": 1716.05,
+      "text": "further comment if not does someone want to make a motion we hear a motion is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1716.05,
+      "end": 1723.78,
+      "text": "there a second second having heard a second is there any further discussion",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1723.78,
+      "end": 1729.22,
+      "text": "at the level of the committee traffic Commission any further discussion from",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1729.22,
+      "end": 1739.12,
+      "text": "the public hearing none all in favor any opposed the motion carries this to me is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1739.12,
+      "end": 1749.24,
+      "text": "is is a testament also to the fact that that things change and it never hurts to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1749.24,
+      "end": 1755.7,
+      "text": "raise an issue again if it is if the circumstances have changed so that we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1755.7,
+      "end": 1760.98,
+      "text": "can address it appropriately I would also ask that you stay for a little bit",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1760.98,
+      "end": 1765.98,
+      "text": "longer because we want this towards the tail end of this Commission meeting we",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1765.98,
+      "end": 1771.6,
+      "text": "want to at the Commission level have a discussion about thresholds for for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1771.6,
+      "end": 1779.88,
+      "text": "entry and for asking for review of review of traffic needs especially",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1779.88,
+      "end": 1784.12,
+      "text": "those that are not necessarily related to the traffic Commission or things that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1784.12,
+      "end": 1791.32,
+      "text": "be done administratively but historically come to the traffic commission so if you if you wish you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1791.32,
+      "end": 1797.31,
+      "text": "may stay you certainly can stay and hear hear that discussion as well so thank you very much for that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1799.08,
+      "end": 1807.37,
+      "text": "the next item on the agenda is goes into new business item 01 of 2026 considering the request",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1807.37,
+      "end": 1815.21,
+      "text": "of adrian sedano perez to remove parking spaces on north market street beside 32 west liberty street",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1816.16,
+      "end": 1827.98,
+      "text": "is mr perez present was was there a full submission for him he said he was going to be here",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1828.78,
+      "end": 1835.95,
+      "text": "okay so um we can certainly if you wish we can hold off until the end of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1836.96,
+      "end": 1842.97,
+      "text": "the last new business item to see if he does show and i won't i won't ask for any action we'll just",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1842.97,
+      "end": 1850.68,
+      "text": "go come back to it if he shows up the next item on the agenda is item 02 of 2026 considering the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1850.68,
+      "end": 1855.3,
+      "text": "the request of Jason Schultz to restrict parking in the 800 block of Buchanan",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1855.3,
+      "end": 1866.4,
+      "text": "Avenue by the F&M arts building lot B mr. Schultz Mindy was there an indication",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1866.4,
+      "end": 1874.68,
+      "text": "I did not receive anything back from him okay so this is a case where we again",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1874.68,
+      "end": 1878.36,
+      "text": "since we want the person to be present so that we can have the conversation",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1878.36,
+      "end": 1883.32,
+      "text": "with them as necessary for more detail this is one where we can we can move to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1883.32,
+      "end": 1897.28,
+      "text": "table it till the next meeting do I hear such a motion yes motion is there a",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1897.28,
+      "end": 1914.52,
+      "text": "second second any any further discussion all in favor any opposed thank you just",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1914.52,
+      "end": 1920.04,
+      "text": "for the record the traffic Commission has been joined by Philip Kennedy also a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1920.04,
+      "end": 1927.0,
+      "text": "member as i had mentioned a member of the community representing representative on the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 1927.0,
+      "end": 1934.33,
+      "text": "traffic commission the next item on the new business agenda is item 03 of 2026 considering",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1934.33,
+      "end": 1940.09,
+      "text": "the request of andrew smith to remove residential permit parking in the 400 block of north lime",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1940.09,
+      "end": 1951.92,
+      "text": "street is mr smith present so mr smith is not present i don't believe but i would like to just",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1951.92,
+      "end": 1958.32,
+      "text": "talk briefly about it if that's okay I have no objection does anyone else",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1958.32,
+      "end": 1966.35,
+      "text": "please so this is yet another strange case with the residential permit parking",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1966.35,
+      "end": 1972.09,
+      "text": "program where we had a non-resident request to remove permit parking on a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1972.09,
+      "end": 1977.31,
+      "text": "block and typically that would be a non-starter because residents need to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1977.31,
+      "end": 1983.07,
+      "text": "initiate petitions to start to begin or remove residential permit parking",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1983.07,
+      "end": 1987.87,
+      "text": "however when I looked into this block and it's the 400 block of North Lyme",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1987.87,
+      "end": 1993.55,
+      "text": "Street it turns out that there is literally only one resident who",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1993.55,
+      "end": 1998.53,
+      "text": "qualifies for RPP on this entire block and there are close to or over 40",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 1998.53,
+      "end": 2004.61,
+      "text": "parking spaces so it is in a district that where there are several blocks of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2004.61,
+      "end": 2012.69,
+      "text": "residential permit parking looking at where it is i suspect that rpp was put in place before",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2012.69,
+      "end": 2018.93,
+      "text": "the hospital constructed two large parking garages so probably 20 plus years ago so obviously we're",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2018.93,
+      "end": 2026.69,
+      "text": "having a lot of conflict between hospital workers and residents since that time the hospital has",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2026.69,
+      "end": 2032.93,
+      "text": "bought up a lot of properties in this area so i think lgh owns maybe at least three properties",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2032.93,
+      "end": 2039.15,
+      "text": "on that block of 400 North Lyme this is the block that is the block yes my my",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2039.15,
+      "end": 2046.57,
+      "text": "faint coloring there so I guess the question is a little bit more of a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2046.57,
+      "end": 2053.39,
+      "text": "procedural one I think typically was one way to go about this because the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2053.39,
+      "end": 2057.29,
+      "text": "resident is not the person who initiated this we don't have a petition which is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2057.29,
+      "end": 2063.35,
+      "text": "typically what we would need to remove an RPP block I have not had the contact",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2063.35,
+      "end": 2068.87,
+      "text": "information for that person so one step is just can the parking authority reach out to that person",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2068.87,
+      "end": 2074.97,
+      "text": "and see if they're willing to just have a petition to remove rpp from the block so that's one",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2074.97,
+      "end": 2084.35,
+      "text": "possible way to address this sort of anomaly um one way is we could just remove rpp on this block",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2084.35,
+      "end": 2093.14,
+      "text": "as part of a six-month pilot program and see if anyone complains about it um i should also",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2093.14,
+      "end": 2098.32,
+      "text": "clarify this is daytime parking only so the people who are getting tickets are you know",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2098.32,
+      "end": 2103.94,
+      "text": "people who work in the buildings and people who are going in for appointments things of that nature",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2103.94,
+      "end": 2112.08,
+      "text": "and then the other thing we could do is just decline to act now and wait until we can look",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2112.08,
+      "end": 2117.55,
+      "text": "at the area as a whole like in a perfect world we would look at the area as a whole see if there",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2117.55,
+      "end": 2122.17,
+      "text": "are other residents who are going to park on that block because there are very tight situations in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2122.17,
+      "end": 2128.93,
+      "text": "that area uh parking situations but i was just curious if there are any strong feelings about",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2128.93,
+      "end": 2137.72,
+      "text": "how to proceed with this issue um let me thank you very much for outlining it that way emma let",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2137.72,
+      "end": 2146.49,
+      "text": "me ask one other question um what is anticipated once the once the pilot is finished for assessing",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2146.49,
+      "end": 2156.18,
+      "text": "similar situations were we not going to do kind of either a wholesale assessment of parking and or",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2156.18,
+      "end": 2164.2,
+      "text": "I mean once we get through the permit uh the pilot program sort of phase the recommendations",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2164.2,
+      "end": 2171.42,
+      "text": "of the RPP study did call for sort of regular assessment of RPP districts so going back through",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2171.42,
+      "end": 2175.76,
+      "text": "the districts and saying does this still make sense because as you noted things change circumstances",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2175.76,
+      "end": 2180.48,
+      "text": "change and maybe what was appropriate 20 years ago is no longer appropriate in a district so",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2180.48,
+      "end": 2185.38,
+      "text": "and because of the parking authority's new technology where we can look at parking occupancy",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2185.38,
+      "end": 2193.5,
+      "text": "you know relying on that data to make decisions um so there would be a time in the future that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2193.5,
+      "end": 2199.12,
+      "text": "we would be assessing the district as a whole but i don't know when exactly that will be",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2199.12,
+      "end": 2209.87,
+      "text": "um and this just seemed like one resident for 44 parking spaces right it's quite extreme",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2209.87,
+      "end": 2212.79,
+      "text": "comments or discussion at the level of the commission",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2212.79,
+      "end": 2259.77,
+      "text": "so we did do this we received a petition residents one of the famous comments is because",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2259.77,
+      "end": 2266.0,
+      "text": "park avenue is a cemetery we were wondering petitions from the people",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2266.0,
+      "end": 2296.66,
+      "text": "is there anything that that you or other members of the commission want to recommend as a way to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2296.66,
+      "end": 2308.0,
+      "text": "go forward with the situation because the parking situation was extremely tight in the 400 block",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2308.0,
+      "end": 2321.01,
+      "text": "were actually uh residences and i think maybe even maybe a visit and of course there was the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2321.01,
+      "end": 2362.38,
+      "text": "are there other comments or questions or commentary from the members of the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2362.38,
+      "end": 2370.54,
+      "text": "Commission my inclination is just to remove the permit parking designation",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2370.54,
+      "end": 2376.05,
+      "text": "it doesn't seem to make sense for one residence I don't know why we would keep",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2376.05,
+      "end": 2380.01,
+      "text": "it just for one one person and if there were some kind of extremely strange",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2380.01,
+      "end": 2387.93,
+      "text": "reason why that person absolutely needed it could we somehow mark off one spot I",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2387.93,
+      "end": 2391.91,
+      "text": "think the other important thing that I wanted to mention was just under our new",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2391.91,
+      "end": 2400.97,
+      "text": "criteria that we're floating you know if a district is less than 60% residential",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2400.97,
+      "end": 2405.59,
+      "text": "it's no longer even eligible and so this clearly does not meet that standard",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2405.59,
+      "end": 2409.73,
+      "text": "either so but in a lot of different measures this doesn't it doesn't make",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2409.73,
+      "end": 2420.4,
+      "text": "sense but do we inadvertently create a precedent or break some that is the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2420.4,
+      "end": 2427.97,
+      "text": "issue I don't think it's not breaking any regulatory aspect I guess it was",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2427.97,
+      "end": 2432.89,
+      "text": "just the order of process that we were going through some of the RPP study",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2432.89,
+      "end": 2437.33,
+      "text": "recommendations and whether you know we have gotten requests from other",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2437.33,
+      "end": 2444.25,
+      "text": "neighborhoods as well to just remove all the RPP from certain individuals but so",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2444.25,
+      "end": 2449.57,
+      "text": "yeah I don't want to set a precedent for just going in and removing it without",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2450.47,
+      "end": 2456.48,
+      "text": "doing some kind of process um in the in the other situations were they",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2457.56,
+      "end": 2463.0,
+      "text": "places that otherwise would have been eligible for rpp as opposed to this one where",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2464.05,
+      "end": 2470.88,
+      "text": "there's it would not be eligible for rpp yes the other ones the other areas would be eligible",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2470.88,
+      "end": 2477.3,
+      "text": "they are primarily residential areas a lot of them also were bordering",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2479.27,
+      "end": 2485.59,
+      "text": "um in the area of kunzler right so it's maybe a similar situation but they are primarily",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2485.59,
+      "end": 2492.23,
+      "text": "residential so would it be satisfactory to to request that property owner as you had as one",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2492.23,
+      "end": 2503.68,
+      "text": "of your suggestions had been to to see if one could get the requisite uh signatures 60 of one",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2503.68,
+      "end": 2510.0,
+      "text": "Yeah, and that I mean if the parking authority is willing to share the contact information",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2510.0,
+      "end": 2514.52,
+      "text": "I can reach out to them and see if we can do it. That's sort of the easy fix here",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2515.9,
+      "end": 2520.22,
+      "text": "If I may ask is that something that might be doable as far as the parking",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2526.44,
+      "end": 2551.49,
+      "text": "So in the spirit of trying to stay",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2552.29,
+      "end": 2556.17,
+      "text": "according to Hoyle according to the rules we would ask the that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2557.09,
+      "end": 2559.09,
+      "text": "representative to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2559.09,
+      "end": 2567.67,
+      "text": "to seek the ability to to get signatures and if they do not then the result would",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2567.67,
+      "end": 2584.5,
+      "text": "be that we that we could unilaterally make the determination to remove that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2584.5,
+      "end": 2597.78,
+      "text": "yes it is a good question and I'm I think that may be something we need to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2597.78,
+      "end": 2603.14,
+      "text": "reconfirm or ask ourselves again for consistency going forward that's part of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2603.14,
+      "end": 2617.29,
+      "text": "nature of the pilot being able to understand why no I know it's right it's",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2617.29,
+      "end": 2625.89,
+      "text": "the people who live there who are affected you know like every day well",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2625.89,
+      "end": 2630.93,
+      "text": "and there's also like business a business operator and they really don't",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2630.93,
+      "end": 2636.09,
+      "text": "have any say under sort of the RPP program so yeah it's a it's not a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2636.09,
+      "end": 2643.29,
+      "text": "perfect system so this is there any further discussion about options to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2643.29,
+      "end": 2652.9,
+      "text": "consider and if not are we willing to make a motion to the effect I move that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2652.9,
+      "end": 2657.3,
+      "text": "we recommend that efforts be made to contact the permit holder and see what",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2657.3,
+      "end": 2664.54,
+      "text": "their feelings are and table the rest table the decision there's a motion is",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2664.54,
+      "end": 2669.9,
+      "text": "there a second seconded there's a motion in a second is there any further",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2669.9,
+      "end": 2691.61,
+      "text": "discussion I think part of part of it in the case of being cautious that we're",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2691.61,
+      "end": 2696.36,
+      "text": "crossing the T's and dotting the I's we would want the person to come back and",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2696.36,
+      "end": 2703.58,
+      "text": "say that that this is what they learned or this is what they public notification",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2703.58,
+      "end": 2713.49,
+      "text": "to just it's in a public record any further discussion hearing none so",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2713.49,
+      "end": 2721.84,
+      "text": "hearing none all in favor aye any opposed that motion passes thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2721.84,
+      "end": 2733.26,
+      "text": "very much now we have a moment for public comment are there we we don't",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2733.26,
+      "end": 2737.18,
+      "text": "operate the way the council does where where we only entertain public comments",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2737.18,
+      "end": 2743.04,
+      "text": "of people ask ahead of time are there any public comments at this moment that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2743.04,
+      "end": 2755.14,
+      "text": "people want to entertain? Again, just identify yourself again and your location. James Allcamp,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2755.24,
+      "end": 2761.61,
+      "text": "510 East Ross Street. With all the pipe work that's being done in the city, all the replacing",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2761.61,
+      "end": 2770.18,
+      "text": "of either water or gas, whatever it is, I find it hard to believe that the city allows",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2770.18,
+      "end": 2777.35,
+      "text": "these workers to leave the streets and the conditions that they leave them in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2777.35,
+      "end": 2784.69,
+      "text": "for months and months at a time until they get re until they get re blacktopped i mean they got",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2784.69,
+      "end": 2794.07,
+      "text": "to be able to do a better job than leaving um what they leave it's it's not good i can't believe",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2794.07,
+      "end": 2800.97,
+      "text": "anybody up here that drives on this across the street i mean um duke street lemon street well",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2800.97,
+      "end": 2806.75,
+      "text": "lemon street's finished now it's great uh but all the streets that that that they worked on",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2806.75,
+      "end": 2814.26,
+      "text": "uh orange street um turning off of out by reservoir park when you turned on orange street",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2814.26,
+      "end": 2820.98,
+      "text": "i avoided that like the plague for months after they were finished and their equipment was moved",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2820.98,
+      "end": 2828.34,
+      "text": "and they the condition that they leave the streets on is is unbelievable i can't believe that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2828.34,
+      "end": 2836.22,
+      "text": "that they weren't told to do a little better job of of of black topping until the street is is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2836.22,
+      "end": 2843.48,
+      "text": "completely finished I think that's I think that's an interesting question the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2843.48,
+      "end": 2851.99,
+      "text": "generally speaking the time frame is as short as as practical to try to try to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2851.99,
+      "end": 2855.53,
+      "text": "address it but we do not necessarily have control over all of the entities",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2855.53,
+      "end": 2861.11,
+      "text": "who are doing work subsurface work within the streets where possible we do",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2861.11,
+      "end": 2869.51,
+      "text": "put in temporary temporary blacktop or temporary surfacing that is costly and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2869.51,
+      "end": 2876.65,
+      "text": "if we can manage it in terms of time and scheduling so that the sequences is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2876.65,
+      "end": 2881.21,
+      "text": "appropriate that's the best way to do it Duke Street the the work that was just",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2881.21,
+      "end": 2885.47,
+      "text": "done on Duke Street for instance was within a six week period and it was able",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2885.47,
+      "end": 2890.74,
+      "text": "to be successfully done within that period is there anything else you'd like",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2890.74,
+      "end": 2894.7,
+      "text": "to be able to add to that I would just add that the work that's happening in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2894.7,
+      "end": 2897.7,
+      "text": "the winter time when we don't have the temperature you know when the asphalt",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2897.7,
+      "end": 2902.98,
+      "text": "plants aren't open is very hard because of the you know the cold patch material",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2902.98,
+      "end": 2907.12,
+      "text": "they use and then you get a heavy rainstorm or even snow and then it just",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2907.12,
+      "end": 2912.97,
+      "text": "it does not last so I I totally understand the conditions of some of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2912.97,
+      "end": 2940.23,
+      "text": "those streets right now okay okay yes we definitely want to try and do better in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2940.23,
+      "end": 2945.09,
+      "text": "that field to stay on top of the contractors that are out there but yeah",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2945.09,
+      "end": 2951.23,
+      "text": "sometimes it's just a timing issue but and we do have a new inspector that's",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2951.23,
+      "end": 2954.35,
+      "text": "starting soon so hopefully we have someone that's out you know in the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2954.35,
+      "end": 2958.29,
+      "text": "streets more full-time being able to keep an eye on those things and yes but",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2958.29,
+      "end": 2963.94,
+      "text": "appreciate your comments thank you very much we'll go on to the consent agenda",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2963.94,
+      "end": 2968.92,
+      "text": "and then we'll be able to talk about the item for discussion that I described a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2968.92,
+      "end": 2974.46,
+      "text": "little bit earlier our first item on the consent agenda consent agenda is item",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2974.46,
+      "end": 2980.26,
+      "text": "0 for 2026 the list of following signs being tentatively approved and installed",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 2980.26,
+      "end": 2987.24,
+      "text": "for handicapped parking no parking no no parking signs were removed no load zone",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2987.24,
+      "end": 2994.93,
+      "text": "and no do not block driveway signs were removed because there are so many",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 2994.93,
+      "end": 3002.45,
+      "text": "addresses do you want to do them one at a time or still do them as a group",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3002.69,
+      "end": 3021.48,
+      "text": "there's been a motion is there a second second and I just want to for the public record I want",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3021.48,
+      "end": 3027.84,
+      "text": "to be able to say that 0 5 20 26 is the following signs have been removed a listing of handicap",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3027.84,
+      "end": 3040.43,
+      "text": "parking signs as well as as no no parking signs removed in no load zone signs removed item 0 6",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3040.43,
+      "end": 3045.41,
+      "text": "of 2026 is the following conditional temporary parking permits have been",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3045.41,
+      "end": 3051.55,
+      "text": "issued by LPA and there's a list of those sites and then last but not least",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3051.55,
+      "end": 3057.81,
+      "text": "item 0 7 of 2026 the following conditional temporary parking permits",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3057.81,
+      "end": 3065.85,
+      "text": "have been asked for continuance none so it's a listing of the variety of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3065.85,
+      "end": 3071.61,
+      "text": "addresses and sites for handicapped parking tentatively approved and",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3071.61,
+      "end": 3081.94,
+      "text": "installed removed issued by LPA or temporary parking asked for continuance",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3081.94,
+      "end": 3087.57,
+      "text": "there's been a motion in a second is there any further discussion I just like",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3087.57,
+      "end": 3091.35,
+      "text": "to confirm like all the handicapped parking spaces that were removed can you",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3091.35,
+      "end": 3096.49,
+      "text": "give a little bit of a background as to I know there was an audit but is this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3096.49,
+      "end": 3103.88,
+      "text": "the final there was sort of a period of grace period I guess or trying to figure",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3103.88,
+      "end": 3112.36,
+      "text": "out so just if we get to get a little bit more information okay so I started",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3112.36,
+      "end": 3117.52,
+      "text": "to receive a lot of complaints about people moving and their spaces still",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3117.52,
+      "end": 3121.96,
+      "text": "being there we found that there was a lot of spaces that were not in our",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3121.96,
+      "end": 3131.53,
+      "text": "system so what we did was we this was kind of a year-long audit the renewals",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3131.53,
+      "end": 3138.46,
+      "text": "go out every December for the entire city the ones that do not respond with",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3138.46,
+      "end": 3146.34,
+      "text": "those we send out reminder mailings still giving them a grace period I",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3146.34,
+      "end": 3156.21,
+      "text": "believe it was a month after that we took those signs down we also had the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3156.21,
+      "end": 3161.19,
+      "text": "patrol service aides go out to the streets check all the signs on the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3161.19,
+      "end": 3167.87,
+      "text": "street the ones that I did not have information on I sent letters to them to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3167.87,
+      "end": 3174.75,
+      "text": "get their information the ones that did not respond we had taken down so this is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3174.75,
+      "end": 3182.12,
+      "text": "from those signs and the renewals that were not removed there's about 200 taken",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3182.12,
+      "end": 3193.2,
+      "text": "down in addition to that out of the 200 that are taken down some of those will",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3193.2,
+      "end": 3198.58,
+      "text": "be reinstalled once some of the residents complete their applications",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3198.58,
+      "end": 3204.0,
+      "text": "for renewal part of the issue is a lot of the renewal applications are not",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3204.0,
+      "end": 3209.46,
+      "text": "being completed in a timely fashion so a lot of the process was completely out of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3209.46,
+      "end": 3216.83,
+      "text": "date so this long list of removals that we see here some of these will be",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3216.83,
+      "end": 3222.73,
+      "text": "reinstalled in the future if the spaces are still available based on the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3222.73,
+      "end": 3224.47,
+      "text": "criteria",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3224.47,
+      "end": 3229.57,
+      "text": "Okay, thank you very very much for that anything further from the Commission",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3231.43,
+      "end": 3240.22,
+      "text": "There's been a motion in a second. Is there any further discussion for the discussion from the public hearing none all in favor",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3241.88,
+      "end": 3243.92,
+      "text": "Any opposed",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3243.92,
+      "end": 3245.92,
+      "text": "Thank you that motion carries",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3246.06,
+      "end": 3250.84,
+      "text": "Now the last item is is the item that I had mentioned earlier",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3251.78,
+      "end": 3255.28,
+      "text": "additional business regarding traffic commission request process",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3255.86,
+      "end": 3261.28,
+      "text": "We've we recognized two or three things one. We recognize that we believe that this is a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3262.08,
+      "end": 3264.08,
+      "text": "not only a",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3264.08,
+      "end": 3268.42,
+      "text": "Valid but an important forum for being able to discuss and make aware to the public",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3268.76,
+      "end": 3274.52,
+      "text": "What's going on in terms of the public right-of-way and traffic related issues traffic commission related issues?",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3274.98,
+      "end": 3280.24,
+      "text": "But we also recognize that there's often a number of requests that more appropriately",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3280.84,
+      "end": 3283.12,
+      "text": "can be dealt with as at the administrative level",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3283.12,
+      "end": 3288.76,
+      "text": "and not necessarily require conversation at the Traffic",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3288.76,
+      "end": 3289.58,
+      "text": "Commission level.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3292.37,
+      "end": 3294.27,
+      "text": "Emma, are you willing to be able to give",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3294.27,
+      "end": 3297.35,
+      "text": "a briefing about the context for having this discussion?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3297.35,
+      "end": 3299.73,
+      "text": "What I'd like is for the ability for the Traffic Commission",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3299.73,
+      "end": 3303.65,
+      "text": "to discuss the way that these requests come in so",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3303.65,
+      "end": 3308.09,
+      "text": "that we can do it in the most effective and efficient manner,",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3308.09,
+      "end": 3310.91,
+      "text": "but also the way that spends the right time",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3310.91,
+      "end": 3317.55,
+      "text": "the right issues emma so and i just want to say that we're sort of opening this conversation this",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3317.55,
+      "end": 3324.91,
+      "text": "is an opener and maybe this is something that we revisit um and talk a little bit more about",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3324.91,
+      "end": 3330.19,
+      "text": "you know next time or the time after that so i'm not giving you any formal documentation we're just",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3330.19,
+      "end": 3338.67,
+      "text": "looking to have a conversation so um one of the things we have noticed is um we receive a lot of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3338.67,
+      "end": 3346.59,
+      "text": "complaints about various issues related to traffic safety so whether that's i'd like a stop sign here",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3346.59,
+      "end": 3351.39,
+      "text": "or it's not safe at this intersection or can you redo this crosswalk or there are speeding issues",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3352.11,
+      "end": 3356.83,
+      "text": "lots of different types of complaints and they're coming into us in lots of different ways so",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3356.83,
+      "end": 3363.31,
+      "text": "some folks know to come to traffic commission some don't and so we're receiving emails directly to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3363.31,
+      "end": 3368.35,
+      "text": "staff sometimes people are just mentioning at a public meeting or you know when we're at some",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3368.35,
+      "end": 3375.07,
+      "text": "forum we receive complaints on fix it we now have a street safety mapper where we have",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3375.79,
+      "end": 3383.07,
+      "text": "issues being reported and we're now up to over a hundred issues reported on that street safety",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3383.07,
+      "end": 3392.62,
+      "text": "mapper which is on engage lancaster so there's how things are coming into to us how complaints",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3392.62,
+      "end": 3398.22,
+      "text": "are coming in that's sort of one part of this equation the other part of the equation is how",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3398.22,
+      "end": 3405.2,
+      "text": "traffic commission is sort of being asked to respond on the spot to requests that are coming",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3405.2,
+      "end": 3411.64,
+      "text": "in and sometimes those issues might be you know out of the purview of traffic commission like for",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3411.64,
+      "end": 3416.12,
+      "text": "example traffic commission doesn't need to technically approve if we're putting in",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3416.12,
+      "end": 3421.6,
+      "text": "intersection daylighting really traffic commission is needed to approve",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3421.6,
+      "end": 3429.36,
+      "text": "intersection like traffic control devices or you know removal of parking spaces loading zones those",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3429.36,
+      "end": 3438.19,
+      "text": "types of things the other issue is that with all the requests we're sometimes dealing with them",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3438.19,
+      "end": 3444.37,
+      "text": "one at a time rather than looking at the breadth of the requests and being able to prioritize among",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3444.37,
+      "end": 3450.57,
+      "text": "them so if an issue comes in and we can fix it pretty quickly maybe we're doing that but maybe",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3450.57,
+      "end": 3456.25,
+      "text": "that's not the most important issue and the most important issue hasn't filtered to the correct",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3456.25,
+      "end": 3463.11,
+      "text": "path and so we're not dealing necessarily with the top issues so we want to just have a discussion",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3463.11,
+      "end": 3469.97,
+      "text": "and welcome any ideas about how we're accepting feedback from the public and how we can",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3469.97,
+      "end": 3477.49,
+      "text": "better sort of consider all the requests and prioritize them I realize that's a lot to just",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3477.49,
+      "end": 3481.87,
+      "text": "throw on you here at at a meeting which is why I'm thinking this will be sort of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3481.87,
+      "end": 3487.57,
+      "text": "a continuous set of conversations did you have anything you wanted to add to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3487.57,
+      "end": 3497.92,
+      "text": "that in terms of so one of the things we're contemplating is could we ask all",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3497.92,
+      "end": 3503.96,
+      "text": "traffic safety related issues to come into the traffic safety mapper so if we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3503.96,
+      "end": 3507.66,
+      "text": "as staff get an email we're saying please direct your request to the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3507.66,
+      "end": 3514.3,
+      "text": "traffic safety mapper that way we're creating a large record a large database of information",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3514.3,
+      "end": 3519.74,
+      "text": "that's already mapped where we have contact information so we can take a look and say oh",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3519.74,
+      "end": 3524.86,
+      "text": "it maybe it's easier to say oh we already we had a request about that or we've had five requests",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3524.86,
+      "end": 3530.14,
+      "text": "about that intersection in the last several years so part of it is you know for documentation",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3530.14,
+      "end": 3534.54,
+      "text": "purposes ease of being able to look at where things are located geographically",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3534.54,
+      "end": 3541.92,
+      "text": "um the other thing we were contemplating is overlaying those requests with our high injury",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3541.92,
+      "end": 3549.16,
+      "text": "network so our consultants right now uh have just are in the process of updating our high injury",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3549.16,
+      "end": 3555.06,
+      "text": "network so the corridors intersections locations where we're seeing the most serious and fatal",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3555.06,
+      "end": 3561.92,
+      "text": "crashes the most property damage um so would it make sense for us to take all the requests we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3561.92,
+      "end": 3566.54,
+      "text": "received and then take a look at where they intersect with our high injury",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3566.54,
+      "end": 3573.86,
+      "text": "network so that maybe we're prioritizing the top 20 intersections and then maybe",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3573.86,
+      "end": 3578.2,
+      "text": "we're looking at those all together so maybe there's one traffic Commission",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3578.2,
+      "end": 3582.02,
+      "text": "meeting where we're bringing these 20 intersections and say these are the ones",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3582.02,
+      "end": 3588.74,
+      "text": "we recommend as priority intersections and you know giving the public a chance",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3588.74,
+      "end": 3592.26,
+      "text": "to look at all those intersections all together compared with each other",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3594.42,
+      "end": 3599.3,
+      "text": "and and that might also help the public to recognize how many requests we're receiving",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3600.34,
+      "end": 3606.34,
+      "text": "we would love to be able to fix every intersection and every issue that comes before us but it's just",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3606.34,
+      "end": 3614.42,
+      "text": "not possible given the staff that we have given the funding that we have so that's sort of the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3614.42,
+      "end": 3621.62,
+      "text": "direction we're looking to take the requesting complaint process yes if i can introduce one",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3621.62,
+      "end": 3628.26,
+      "text": "or two other things as well um part of what i'm hearing is that there's there are different",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3628.26,
+      "end": 3633.14,
+      "text": "categories of requests some of them can be dealt with administratively and don't necessarily need",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3633.14,
+      "end": 3639.06,
+      "text": "to take the time of the traffic commission some of them it may be an education process",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3639.06,
+      "end": 3647.0,
+      "text": "of what what are the best options another situation may be what are is there any effort",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3647.0,
+      "end": 3652.44,
+      "text": "currently being exercised to address that particular situation in a different context",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3652.44,
+      "end": 3657.88,
+      "text": "or in a larger context if i remember correctly one of the issues that had come up here",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3658.76,
+      "end": 3667.36,
+      "text": "was also what kind of guidance is available to either the traffic commission itself in terms of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3667.36,
+      "end": 3672.8,
+      "text": "being able to make these decisions but also how does the public understand the nature of",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3672.8,
+      "end": 3678.56,
+      "text": "the challenge or the nature of the problem that they see so i'm seeing education information",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3679.28,
+      "end": 3689.8,
+      "text": "informing and um and uh triage as some of the key challenges as well as still being able to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3689.8,
+      "end": 3695.72,
+      "text": "have a forum that allows us to discuss in earnest issues that may be related to to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3695.72,
+      "end": 3702.26,
+      "text": "developments or to more complicated issues in the public right-of-way is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3702.26,
+      "end": 3712.06,
+      "text": "that yeah and I think it also you know being able to have 20 projects and more",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3712.06,
+      "end": 3716.5,
+      "text": "of an open house forum and saying okay let's look at all these projects I think",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3716.5,
+      "end": 3719.88,
+      "text": "it can be really intimidating sometimes for people to come up and stand in front",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3719.88,
+      "end": 3724.8,
+      "text": "of the traffic Commission and explain something so I think that that it",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3724.8,
+      "end": 3730.32,
+      "text": "removes a little bit of the onus on you know one individual for an issue that maybe is affecting",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3731.2,
+      "end": 3739.26,
+      "text": "a lot of people um i'd like to ask the commission if there's other issues or other challenges that",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3739.26,
+      "end": 3749.23,
+      "text": "might be addressed by either revisiting how we receive requests or how we review them",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3749.23,
+      "end": 3755.53,
+      "text": "are there situations that you you're you've encountered that might be done",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3755.53,
+      "end": 3760.99,
+      "text": "differently or better differently I'm sorry is your microphone on can you just",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3760.99,
+      "end": 3769.37,
+      "text": "be sure you're I've been here since back 1992 is supposed to be requests from a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3769.37,
+      "end": 3775.89,
+      "text": "resident and it would make a request on the issues that would arise either from",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3775.89,
+      "end": 3781.39,
+      "text": "you know dealing with high traffic issues as we've had recently with many",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3781.39,
+      "end": 3787.95,
+      "text": "areas of speeding etc that need to be addressed that needs to be looked at",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3787.95,
+      "end": 3793.53,
+      "text": "because I think that that's where we get the request is from the residents of the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3793.53,
+      "end": 3802.11,
+      "text": "city that make those requests it could be done to even as a group you know that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3802.11,
+      "end": 3809.87,
+      "text": "might make a request for changes that need to be whatever is needed or we being requested that we",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3809.87,
+      "end": 3817.09,
+      "text": "need to look at that process to make sure that we're not doing something that might be I guess",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3817.09,
+      "end": 3825.0,
+      "text": "I can say violating the general rules of what with the traffic Commission was established that that's",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3825.0,
+      "end": 3829.92,
+      "text": "one thing we just need to look at to make sure that we can do that what what you're bringing up",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3829.92,
+      "end": 3837.78,
+      "text": "is is we need to look at it we overlay the or the big issues out there the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3837.78,
+      "end": 3842.1,
+      "text": "number of requests to come in you know generally throughout the city in many",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3842.1,
+      "end": 3850.38,
+      "text": "locations and I'm I can see a lot of that and the bigger issue is yeah we might",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3850.38,
+      "end": 3855.0,
+      "text": "be limited in funding on what we have to do as the city of Lancaster but many of",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3855.0,
+      "end": 3861.02,
+      "text": "the roads and issues we have are state-owned which is a bigger hurdle that we have to cross",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3861.02,
+      "end": 3866.8,
+      "text": "and that that's the one that uh you know we need to have some more cooperation is from",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3866.8,
+      "end": 3875.52,
+      "text": "from pendot yeah and i guess i'll also feel free to add on here i think that's the other thing is",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3875.52,
+      "end": 3881.1,
+      "text": "being able to sort out maybe projects that are already part of other projects so rather than",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3881.1,
+      "end": 3885.9,
+      "text": "you coming in here for us to tell us to tell you well we're already working on that that's",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3885.9,
+      "end": 3889.9,
+      "text": "in the pipeline but it's going to take us two years because of you know maybe a pen dot or",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3889.9,
+      "end": 3895.02,
+      "text": "another or grant funded approval process whatever that looks like being able to sort out okay these",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3895.02,
+      "end": 3898.7,
+      "text": "are the projects we can actually do something where we don't have anything in the works and",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3898.7,
+      "end": 3902.86,
+      "text": "these are the projects where traffic commission doesn't need to take a look at these because we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3902.86,
+      "end": 3910.48,
+      "text": "already have a process for them so i think that's a good point are there other yeah ben were you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3910.48,
+      "end": 3916.16,
+      "text": "wanting to yeah i'd love to note as well i i think it's an issue of fair application throughout the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3916.16,
+      "end": 3920.32,
+      "text": "city where oftentimes we have different representation throughout the city of who",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3920.32,
+      "end": 3926.96,
+      "text": "brings issues to the traffic commission whether we receive those quests through fix it or email",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3926.96,
+      "end": 3932.16,
+      "text": "however we get those will respond saying the proper process come to the traffic commission",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3932.16,
+      "end": 3936.88,
+      "text": "present your issue for a lot of those issues there's no follow-through but we have the data",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3936.88,
+      "end": 3941.88,
+      "text": "offhand to show that these are issues in some cases and we think they should be",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3941.88,
+      "end": 3947.26,
+      "text": "addressed it's oftentimes difficult to get the resident in and tying their name",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3947.26,
+      "end": 3953.22,
+      "text": "to that one particular issue when it affects the city as a whole thank you",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3953.22,
+      "end": 3957.4,
+      "text": "other other comments yeah first of all thanks for opening this conversation I",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 3957.4,
+      "end": 3960.36,
+      "text": "think this is super helpful and I appreciate all the thought that you've",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3960.36,
+      "end": 3964.68,
+      "text": "clearly put into it one thing that I think would be helpful is to have in one",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3964.68,
+      "end": 3968.52,
+      "text": "place if it is not if it's already in one place I don't know where it is a",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3968.52,
+      "end": 3975.15,
+      "text": "list of what precisely is traffic Commission required to approve and what",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3975.15,
+      "end": 3979.43,
+      "text": "is not required for us to approve so that folks could know you know the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3979.43,
+      "end": 3983.01,
+      "text": "difference between those two things and then I think you know funneling folks to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3983.01,
+      "end": 3986.81,
+      "text": "other venues I have really appreciated the open houses I think those are great",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3986.81,
+      "end": 3994.84,
+      "text": "ways to yeah in a less formal setting and a less you know it feels a less like",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 3994.84,
+      "end": 4000.38,
+      "text": "like a lower barrier to get folks into those things and then yeah I would be",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4000.38,
+      "end": 4005.4,
+      "text": "very open to a process where you know without a specific resident request",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4005.4,
+      "end": 4011.14,
+      "text": "maybe staff is coming up with some purpose on a regular basis some",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4011.14,
+      "end": 4016.24,
+      "text": "proposals based on what you're seeing as needs for things that do require traffic",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4016.24,
+      "end": 4018.6,
+      "text": "Commission approval right because obviously as you mentioned not",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4018.6,
+      "end": 4025.42,
+      "text": "everything does and just go do it that's great yeah thank you thank you Philip",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4025.42,
+      "end": 4033.6,
+      "text": "are there other comments or questions about about having this discussion and I",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4033.6,
+      "end": 4037.98,
+      "text": "do want to emphasize that having the discussion may have two parts to it one",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4037.98,
+      "end": 4043.08,
+      "text": "is understanding the issues and better ways of dealing with them but secondly",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4043.08,
+      "end": 4049.4,
+      "text": "if there is an implication in that affects the traffic Commission itself we",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4049.4,
+      "end": 4054.32,
+      "text": "may come up with a recommendation at some later date that requires going back",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4054.32,
+      "end": 4060.72,
+      "text": "to council to allow traffic commission to do that that thing or to make the change that may be",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4060.72,
+      "end": 4067.12,
+      "text": "necessary so as as emma had said this is just a discussion at this moment to better understand",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4067.12,
+      "end": 4072.4,
+      "text": "the challenges and what how can the traffic commission be of better service in the long run",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4076.69,
+      "end": 4081.57,
+      "text": "and yeah i think just adding to that any any thoughts that you have about sort of like",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4081.57,
+      "end": 4086.13,
+      "text": "efficiency of meetings or you know how we're dealing with issues anything like that i think",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4086.13,
+      "end": 4090.99,
+      "text": "we're we're open to I think sometimes traffic Commission can be one of the",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4090.99,
+      "end": 4095.25,
+      "text": "more frustrating I mean I think it can be one of the more frustrating boards or",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4095.25,
+      "end": 4098.73,
+      "text": "Commission's honestly because you know you're so many different types of",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4098.73,
+      "end": 4101.97,
+      "text": "requests you're trying to respond in real time sometimes you need to collect",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4101.97,
+      "end": 4107.27,
+      "text": "background data and you're getting you know a dozen or two requests so yeah",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4107.27,
+      "end": 4111.63,
+      "text": "welcome any other thoughts you have or if you know if you want to email me in",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4111.63,
+      "end": 4118.91,
+      "text": "next month or two and we can you know maybe try to formalize a proposal for what this would look like",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4118.91,
+      "end": 4126.26,
+      "text": "run it by legal make sure we're not you know make sure we're doing it the right way um but yeah",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4127.36,
+      "end": 4134.62,
+      "text": "are there other comments or questions or concerns at the commission level are there other comments",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4134.62,
+      "end": 4141.26,
+      "text": "or concerns at the public level things that you that you think may be done or asked about that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4141.26,
+      "end": 4152.54,
+      "text": "you don't necessarily know about that we might be able to address in the hearing none we do welcome",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4152.54,
+      "end": 4158.78,
+      "text": "you to submit some of these comments directly to at this moment we said you send them to mindy",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4158.78,
+      "end": 4166.78,
+      "text": "cable gable and she will be able to funnel them to the right people as well as continuing",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4168.46,
+      "end": 4171.74,
+      "text": "if if you have discussion items it's easier if you send them to mindy",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4171.74,
+      "end": 4179.37,
+      "text": "but if you send them to fix it or whatever they might or might not get through the through the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4179.37,
+      "end": 4186.71,
+      "text": "maze because it's not a specific issue to be addressed unless it is about a an intersection",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4186.71,
+      "end": 4194.14,
+      "text": "or a address and i'll just say that uh first of all fill back to one of your points about",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4194.14,
+      "end": 4200.4,
+      "text": "maybe there are some just basic website updates we can make to sort of clarify here are the issues",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4200.4,
+      "end": 4205.32,
+      "text": "we're accepting here the ones we don't here's in code you know where it",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4205.32,
+      "end": 4212.7,
+      "text": "outlines specifically what traffic Commission's purview is but the the",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4212.7,
+      "end": 4218.4,
+      "text": "other thing I was gonna say is just completely escaping my mind now I had",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4218.4,
+      "end": 4221.6,
+      "text": "another thought as you were all we're talking is is there a way that we can",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4221.6,
+      "end": 4225.98,
+      "text": "accept comments from folks who can't appear in person like written comments",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4225.98,
+      "end": 4229.4,
+      "text": "because this is something that I've you know I'll see like oh there's gonna be a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4229.4,
+      "end": 4234.44,
+      "text": "zoning hearing and I would like to just put in my two cents that I support this",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4234.44,
+      "end": 4238.54,
+      "text": "but I'm not going to go to a meeting to wait and who knows when it's gonna be",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4238.54,
+      "end": 4242.6,
+      "text": "just to say yes I support this so I don't show up and so nobody hears that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4242.6,
+      "end": 4249.28,
+      "text": "comment so if there were a way that we could you know invite folks to submit",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4249.28,
+      "end": 4254.0,
+      "text": "comments without taking time out of the day I would like to see them as a",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4254.0,
+      "end": 4258.38,
+      "text": "commissioner and I think that's part of what the street safety mapper gives us",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4258.38,
+      "end": 4264.22,
+      "text": "is you can submit comments um and you you maybe don't necessarily have to be at a meeting",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4264.86,
+      "end": 4270.53,
+      "text": "um the other thing i wanted to say is just i think we need to be clear and distinguishing",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4270.53,
+      "end": 4276.53,
+      "text": "that fix it is just for maintenance of existing infrastructure so if you see a traffic light",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4276.53,
+      "end": 4281.73,
+      "text": "that's out or if you see you know a existing daylighting pole that's been knocked down like",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4281.73,
+      "end": 4286.69,
+      "text": "those i think are all appropriate for fix it the traffic commission requests would be related to",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4287.33,
+      "end": 4294.21,
+      "text": "new infrastructure changes in design you know additional traffic control measures",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4295.33,
+      "end": 4301.3,
+      "text": "so that's the distinction but to your point it really needs to be extremely clear on the website",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4301.86,
+      "end": 4308.74,
+      "text": "where you go for for which situation and in that respect i think maybe one thing we might be able",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4308.74,
+      "end": 4315.06,
+      "text": "to do either for the next commission or so is a very brief description of what the traffic",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4315.06,
+      "end": 4319.9,
+      "text": "Commission does and does not have purview over and then be able to make",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4319.9,
+      "end": 4325.0,
+      "text": "sure that that is published in on the website appropriately none of that would",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4325.0,
+      "end": 4331.42,
+      "text": "require any changes to any processes but we would still be open to discussion or",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4331.42,
+      "end": 4334.86,
+      "text": "recommendations about things that may be able to be changed for the betterment of",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4334.86,
+      "end": 4342.24,
+      "text": "the process if there's no further discussion on that again we're open to",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4342.24,
+      "end": 4351.42,
+      "text": "hearing more from you about what you wish and what is problematic but I very",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4351.42,
+      "end": 4358.24,
+      "text": "much appreciate the opportunity to have had this conversation I do want to ask I",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4358.24,
+      "end": 4363.23,
+      "text": "see this gentleman has just entered are you one of the people who had who had",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4363.23,
+      "end": 4383.79,
+      "text": "submitted an application mr. fresh oh the noise the noise I think that's yeah",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4383.79,
+      "end": 4390.71,
+      "text": "the noise Commission would typically meet however they've changed that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4390.71,
+      "end": 4396.35,
+      "text": "process I'll have Jamil contact you regarding it because the Commission is",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4396.35,
+      "end": 4402.12,
+      "text": "not meeting the noise Commission is has been combined with a Board of Appeals",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4402.12,
+      "end": 4406.8,
+      "text": "That are all kind of one commission now, so I'll have to meal contact you",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4409.14,
+      "end": 4410.51,
+      "text": "Okay",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4410.51,
+      "end": 4416.61,
+      "text": "That otherwise concludes our our business for the traffic Commission. I'm willing to entertain a",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4418.11,
+      "end": 4420.11,
+      "text": "Motion to adjourn",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4421.25,
+      "end": 4426.33,
+      "text": "I hear a motion and do I hear a second all in favor",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4428.77,
+      "end": 4432.22,
+      "text": "The traffic Commission has now been adjourned. Thank you very very much",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4433.56,
+      "end": 4466.3,
+      "text": "The first time I came down here, the officer that was on the commission, you know, he said",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4466.3,
+      "end": 4471.56,
+      "text": "during the meeting, I just can't believe that there's enough speed from the former intersection",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4471.56,
+      "end": 4476.42,
+      "text": "up to the red light that that causes a, you know, and I said to him, I said, well, how",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4476.42,
+      "end": 4476.96,
+      "text": "about this?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4477.02,
+      "end": 4478.16,
+      "text": "I said, why don't you come over?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4478.64,
+      "end": 4482.18,
+      "text": "I said, well, sit on my porch, have a cup of coffee, and we'll watch the traffic go",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4482.18,
+      "end": 4482.36,
+      "text": "by.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4482.36,
+      "end": 4490.04,
+      "text": "I can't do that I don't know that's why it's funny though you know Dino how are",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4490.04,
+      "end": 4501.02,
+      "text": "you. Do you remember me? Jay Allcamp. Yeah. I used to live, I ran around the Puglieses. Yeah, yeah. Yeah, yeah. How are you doing, man? I'm doing good. You still in here, man? I'm still in here.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4501.02,
+      "end": 4528.92,
+      "text": "I was down there. I was down there. I was down there. I saw you walking. Well, last time I was down there. I knew it was you.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4528.94,
+      "end": 4530.62,
+      "text": "because after I left I saw you out front.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4531.92,
+      "end": 4533.7,
+      "text": "How's your body doing?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4533.92,
+      "end": 4535.0,
+      "text": "You said you were doing fine.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4550.15,
+      "end": 4557.09,
+      "text": "Yeah, I'm...",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4557.09,
+      "end": 4557.61,
+      "text": "Okay.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4558.79,
+      "end": 4559.81,
+      "text": "Yeah, yeah.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4560.37,
+      "end": 4577.26,
+      "text": "The thing was, Vince was moving.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4577.5,
+      "end": 4578.58,
+      "text": "I got off of Facebook.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4580.05,
+      "end": 4598.04,
+      "text": "Oh, okay.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4611.8,
+      "end": 4612.52,
+      "text": "No, no, no.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4613.34,
+      "end": 4618.48,
+      "text": "Well, yeah, actually I am.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4618.68,
+      "end": 4620.06,
+      "text": "I haven't ever been for a house.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4620.06,
+      "end": 4620.36,
+      "text": "Yeah.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4620.36,
+      "end": 4621.52,
+      "text": "I haven't been for a house.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4623.36,
+      "end": 4623.92,
+      "text": "Right.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4624.26,
+      "end": 4625.32,
+      "text": "Yeah, I'll do it.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4625.32,
+      "end": 4707.07,
+      "text": "It's okay, but six and eight years is not.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4707.09,
+      "end": 4747.7,
+      "text": "Thank you.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4747.72,
+      "end": 4749.9,
+      "text": "You were not on the idea.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4750.34,
+      "end": 4751.1,
+      "text": "Is that sitting here?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4754.19,
+      "end": 4754.31,
+      "text": "Yeah.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4754.47,
+      "end": 4755.07,
+      "text": "It's sitting right here.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4755.61,
+      "end": 4757.3,
+      "text": "I just got promoted.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4761.98,
+      "end": 4762.82,
+      "text": "Yeah, the license.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4763.5,
+      "end": 4765.78,
+      "text": "There are only two people that work.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4766.9,
+      "end": 4767.42,
+      "text": "Company.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4768.24,
+      "end": 4768.48,
+      "text": "I know.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4769.04,
+      "end": 4772.66,
+      "text": "I'm not one of them.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4772.98,
+      "end": 4791.23,
+      "text": "I thought you said.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4793.64,
+      "end": 4794.16,
+      "text": "Queen?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4794.92,
+      "end": 4796.2,
+      "text": "It's not going to be Queen.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4796.42,
+      "end": 4797.1,
+      "text": "It would be.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4797.24,
+      "end": 4799.82,
+      "text": "So it's not going to be Queen, Prince, Duke.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4799.82,
+      "end": 4802.28,
+      "text": "The latest results that we're looking at,",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4802.28,
+      "end": 4815.29,
+      "text": "The north-south ones are, like, if we do anything, it would be orange and pink, which are all, like, half-Mannheim Township, half-Mannheim.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4815.78,
+      "end": 4816.14,
+      "text": "What?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4818.05,
+      "end": 4818.45,
+      "text": "Yeah.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4818.93,
+      "end": 4820.34,
+      "text": "How are you going to do the circle?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4820.7,
+      "end": 4821.82,
+      "text": "That's what I want to know.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4822.06,
+      "end": 4824.02,
+      "text": "How are you doing the circle?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4824.52,
+      "end": 4827.32,
+      "text": "You come up on the curb, you cut around Fulton, and then go?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4834.36,
+      "end": 4841.43,
+      "text": "I would agree.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4841.43,
+      "end": 4847.43,
+      "text": "There's nothing to control traffic, 300 block long.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4847.43,
+      "end": 4851.65,
+      "text": "Right, once you're through pedestrian.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4851.65,
+      "end": 4854.99,
+      "text": "Yeah.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4854.99,
+      "end": 4856.6,
+      "text": "I think King Street.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4856.6,
+      "end": 4857.6,
+      "text": "King Street 2A.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4857.6,
+      "end": 4863.33,
+      "text": "The amount of deliveries on King Street from the west all the way to the east side.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4863.33,
+      "end": 4873.75,
+      "text": "Then how do you tie in the 800 block into the 700 block coming up from 900 block?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4873.75,
+      "end": 4875.75,
+      "text": "Is that the one way, and then...",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4875.75,
+      "end": 4876.93,
+      "text": "That's where it goes down the grocery street?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4876.93,
+      "end": 4877.15,
+      "text": "Yeah.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4877.15,
+      "end": 4882.54,
+      "text": "How do you tie that at that intersection at the step?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4884.8,
+      "end": 4886.64,
+      "text": "Yes, it is definitely.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4887.38,
+      "end": 4887.62,
+      "text": "Sorry.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4892.84,
+      "end": 4896.02,
+      "text": "Just do it in, like, I don't know, maybe four or five more years.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4896.02,
+      "end": 4896.88,
+      "text": "I'm like, it's busy.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4897.12,
+      "end": 4897.64,
+      "text": "I know, it's busy.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4897.88,
+      "end": 4899.12,
+      "text": "Wait, like, four or five more years.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4899.58,
+      "end": 4901.78,
+      "text": "This is not, like, a comedy, you know.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4901.92,
+      "end": 4902.12,
+      "text": "Yeah.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4902.94,
+      "end": 4903.68,
+      "text": "No, for sure.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4904.0,
+      "end": 4904.56,
+      "text": "She won't be here.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4905.2,
+      "end": 4907.13,
+      "text": "What are we doing in the round of five years?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4907.13,
+      "end": 4919.38,
+      "text": "We've been on this traffic ever since the 1990s.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4919.38,
+      "end": 4922.7,
+      "text": "There are horse and buggy.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4922.7,
+      "end": 4925.37,
+      "text": "You're the historian there.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4925.37,
+      "end": 4951.51,
+      "text": "Oh my god, hopefully I don't have a ticket for you guys.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4951.51,
+      "end": 4954.15,
+      "text": "I hope not, I don't want you to get a ticket.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4954.15,
+      "end": 4957.59,
+      "text": "I don't have mines from the city yet.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 4957.59,
+      "end": 4958.67,
+      "text": "Those are for Garden Corp.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4958.67,
+      "end": 4960.61,
+      "text": "I work for Garden Corp. Apartments.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4960.61,
+      "end": 4961.45,
+      "text": "Okay.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4961.45,
+      "end": 4962.42,
+      "text": "You're welcome.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4962.42,
+      "end": 4963.26,
+      "text": "See you.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4963.26,
+      "end": 4964.1,
+      "text": "See you, Laura.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4964.1,
+      "end": 4964.94,
+      "text": "Thank you.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4964.94,
+      "end": 4965.78,
+      "text": "Okay.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4965.78,
+      "end": 4966.62,
+      "text": "Bye.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4966.62,
+      "end": 4967.46,
+      "text": "Oh, you're Garden Corp.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4967.46,
+      "end": 4968.92,
+      "text": "Yes, I'm in Garden Corp.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4968.92,
+      "end": 4971.46,
+      "text": "Oh, do you know Emma?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4971.46,
+      "end": 4973.14,
+      "text": "Yes, I know Emma, of course, hi.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4973.14,
+      "end": 4974.22,
+      "text": "Garden Corp.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4974.22,
+      "end": 4975.06,
+      "text": "Oh, I know.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4975.06,
+      "end": 4977.62,
+      "text": "Nice to meet you, I'm in Garden Corp.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4977.62,
+      "end": 4979.54,
+      "text": "Nice to meet you, I sit on council now.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4979.54,
+      "end": 4980.38,
+      "text": "Hi.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4980.38,
+      "end": 4981.22,
+      "text": "Hi.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4981.22,
+      "end": 4982.06,
+      "text": "Good to meet you.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4982.06,
+      "end": 4982.9,
+      "text": "Good to meet you.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4982.9,
+      "end": 4984.9,
+      "text": "Keith, good to meet you.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4984.9,
+      "end": 4987.9,
+      "text": "Keith's the Director of Finance at the Parking Authority.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4987.9,
+      "end": 4988.9,
+      "text": "Thank you.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4988.9,
+      "end": 4991.9,
+      "text": "I'm the Supervisor of Customer Service at the Parking Authority.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4991.9,
+      "end": 4998.51,
+      "text": "I work a lot on City Council as well.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 4998.51,
+      "end": 5000.51,
+      "text": "Oh, good. We talk about you a lot.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5000.51,
+      "end": 5006.98,
+      "text": "We have some people.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5006.98,
+      "end": 5011.7,
+      "text": "Yeah, because they have parking.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5011.7,
+      "end": 5012.7,
+      "text": "Oh, my gosh.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5012.7,
+      "end": 5013.7,
+      "text": "They can't park in there.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5013.7,
+      "end": 5016.7,
+      "text": "So they get the visitor permit because they're surrounded by a lot of people.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5016.7,
+      "end": 5019.12,
+      "text": "And then there's nothing to park at.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5019.12,
+      "end": 5027.5,
+      "text": "And then they shouldn't be, and they can't do anything.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5027.5,
+      "end": 5028.5,
+      "text": "They have a permit.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5028.5,
+      "end": 5047.16,
+      "text": "$10 a week online, or you can go into the office and get your feedback, but that's what",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5047.16,
+      "end": 5062.5,
+      "text": "we were talking about back in the day.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5062.5,
+      "end": 5071.7,
+      "text": "Visitor parking is going to overflow that street and keep it expanding out and everybody",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5071.7,
+      "end": 5072.7,
+      "text": "gets upset.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5072.7,
+      "end": 5077.06,
+      "text": "But that's the rules that we have to live by.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5077.06,
+      "end": 5080.06,
+      "text": "If you have an off-street parking, you're not eligible for RPP.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5080.06,
+      "end": 5082.06,
+      "text": "Yeah, exactly.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5086.06,
+      "end": 5089.06,
+      "text": "I am supposed to defend them, but at least I don't defend them.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5089.06,
+      "end": 5094.25,
+      "text": "But it's not fair that some people in there that believes in Section 8 has three cars.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5094.25,
+      "end": 5097.25,
+      "text": "So I can barely hold one.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5097.25,
+      "end": 5101.25,
+      "text": "And then they are fighting because they need another ticket for their third car.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5101.25,
+      "end": 5108.82,
+      "text": "Yeah, they get two, but as I said, I have people that have three or four cars.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5108.82,
+      "end": 5111.98,
+      "text": "These are the sections that piss me off big time.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5111.98,
+      "end": 5114.98,
+      "text": "So they have to be parking outside.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5114.98,
+      "end": 5117.98,
+      "text": "I'm not going to intervene for them.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5117.98,
+      "end": 5121.88,
+      "text": "You can't complain.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5121.88,
+      "end": 5122.88,
+      "text": "Exactly.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5122.88,
+      "end": 5124.88,
+      "text": "So I'm totally personalized.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5124.88,
+      "end": 5133.94,
+      "text": "I often get news tidbits about what's going on.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5133.94,
+      "end": 5137.94,
+      "text": "And we bring people, you know, we do, you know, obviously we write it through the tickets.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5137.94,
+      "end": 5146.06,
+      "text": "You've got to hit everybody who is.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5146.06,
+      "end": 5152.03,
+      "text": "One department is fighting another one.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5152.03,
+      "end": 5158.34,
+      "text": "It's the people in the neighborhood who are looking you on the website.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5158.34,
+      "end": 5164.0,
+      "text": "I know it's a whole other mindset.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5164.0,
+      "end": 5198.06,
+      "text": "They should have the information and not have to wait or walk to their subway or to their bus stop to find out.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5198.06,
+      "end": 5200.06,
+      "text": "They should be able to have it or not.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5200.06,
+      "end": 5202.25,
+      "text": "They should be able to have it.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5202.25,
+      "end": 5204.25,
+      "text": "To all of them, I agree with this.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5204.25,
+      "end": 5207.25,
+      "text": "This is one of the reasons why so many things in that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5207.25,
+      "end": 5208.25,
+      "text": "have to do succeed.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5208.25,
+      "end": 5210.25,
+      "text": "We still get a lot of complaints,",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5210.25,
+      "end": 5213.54,
+      "text": "but we have a different paradigm about that kind of engagement.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5213.54,
+      "end": 5216.54,
+      "text": "Oh, it's on the web.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5216.54,
+      "end": 5218.54,
+      "text": "A lot of people don't know we sell business.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5223.05,
+      "end": 5224.05,
+      "text": "Hi, Larry.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5224.05,
+      "end": 5225.05,
+      "text": "Happy New Year to you.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5225.05,
+      "end": 5227.05,
+      "text": "Can you let me know if you're coming next Friday or not?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5227.05,
+      "end": 5228.05,
+      "text": "Yeah, I will.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5228.05,
+      "end": 5265.87,
+      "text": "You can come into the office and we'll give you a 15-day commission.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5265.87,
+      "end": 5271.15,
+      "text": "For my ex-wife, first and last year, I said, gee, do we just lack a venue?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5272.41,
+      "end": 5276.51,
+      "text": "So instead of her parking in whatever lot they had, she wanted to park close to the station.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5276.51,
+      "end": 5281.45,
+      "text": "She paid $2 per day to be able to park one block south of us quick.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5282.39,
+      "end": 5285.73,
+      "text": "She would carry these stuff in and out and in and out and be done in a few weeks.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5286.11,
+      "end": 5287.47,
+      "text": "So I said, you can make some of the money.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5287.66,
+      "end": 5288.66,
+      "text": "And that was four.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5288.66,
+      "end": 5302.61,
+      "text": "Yeah, we can go.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5302.61,
+      "end": 5305.69,
+      "text": "I'm kind of like, I'll drop my car.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5315.19,
+      "end": 5316.33,
+      "text": "Are you late to say happy new year?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5316.43,
+      "end": 5316.85,
+      "text": "No, I know.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5316.97,
+      "end": 5317.17,
+      "text": "No.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5324.13,
+      "end": 5326.07,
+      "text": "Larry's not running my circles.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5326.71,
+      "end": 5328.08,
+      "text": "All good?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5330.61,
+      "end": 5332.49,
+      "text": "Is that a two-hour parking lot?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5332.98,
+      "end": 5333.96,
+      "text": "They look at that.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5333.96,
+      "end": 5345.03,
+      "text": "Even if he has something right now that he's working on that actually bothers you, you know where I'm going.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5346.4,
+      "end": 5347.9,
+      "text": "But that's the thing that's reoccurring.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5349.36,
+      "end": 5350.25,
+      "text": "It's free parking.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5350.83,
+      "end": 5352.5,
+      "text": "No, it doesn't say free parking.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5352.74,
+      "end": 5357.5,
+      "text": "It says you get a two-hour limit.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5357.92,
+      "end": 5360.23,
+      "text": "I didn't even use my two-hour limit.",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5360.29,
+      "end": 5362.45,
+      "text": "Because you parked in a place that didn't pay for it.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5365.54,
+      "end": 5366.4,
+      "text": "I haven't seen a kiosk.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5366.62,
+      "end": 5367.42,
+      "text": "I haven't seen a this.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5367.68,
+      "end": 5368.56,
+      "text": "I haven't seen a sign.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5368.56,
+      "end": 5369.3,
+      "text": "I've got some ideas.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5369.84,
+      "end": 5370.76,
+      "text": "I know you have some ideas.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5370.76,
+      "end": 5379.16,
+      "text": "He's got sites that are underutilized.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5379.9,
+      "end": 5380.66,
+      "text": "Yeah, the cherry box.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5382.84,
+      "end": 5385.28,
+      "text": "But the one you got, I'm not taking a leak.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5385.66,
+      "end": 5386.12,
+      "text": "Yeah, I knew.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5386.12,
+      "end": 5387.76,
+      "text": "It's my name attached to it.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5387.88,
+      "end": 5388.24,
+      "text": "It's there.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5389.24,
+      "end": 5393.32,
+      "text": "So I told Delphs, like, I want you to get in front of it.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5394.23,
+      "end": 5396.35,
+      "text": "Help get in front of it, you know, for sure.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5396.89,
+      "end": 5398.78,
+      "text": "Like, have a community first.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5399.64,
+      "end": 5401.52,
+      "text": "And then ask them what they want.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5401.92,
+      "end": 5404.14,
+      "text": "You could buy the giant.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5404.14,
+      "end": 5406.14,
+      "text": "Yeah.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5406.14,
+      "end": 5408.14,
+      "text": "The giant all the way out there?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5408.14,
+      "end": 5412.07,
+      "text": "And then do more of the, you know, shared parking.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5412.07,
+      "end": 5418.61,
+      "text": "I was looking at the Mason building.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5418.61,
+      "end": 5423.4,
+      "text": "Have you ever been in there?",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5423.4,
+      "end": 5425.4,
+      "text": "The one beside.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5425.4,
+      "end": 5427.4,
+      "text": "Chestnut and water.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5427.4,
+      "end": 5430.8,
+      "text": "One side is too loud.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5430.8,
+      "end": 5432.8,
+      "text": "Like broken up on the side.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5432.8,
+      "end": 5435.28,
+      "text": "Yeah.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5435.28,
+      "end": 5439.31,
+      "text": "But I don't know if that's too much for me.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5439.31,
+      "end": 5461.94,
+      "text": "right but you can park all day with a visitor go to council",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5461.94,
+      "end": 5469.92,
+      "text": "on street rates have to go to council off street do not so i can raise my garage rates without",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5469.92,
+      "end": 5475.96,
+      "text": "council on street i mean that's a question because i don't and i'd rather if i'm going",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5475.96,
+      "end": 5482.72,
+      "text": "to go back to council for anything i'd rather package it with other stuff well and maybe like",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5482.72,
+      "end": 5491.16,
+      "text": "between the sign and there's so many things well that's why i like to see that before when that",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5491.16,
+      "end": 5502.45,
+      "text": "comes out i have the parking you know when we initiated that stuff in 1976 with the parking",
+      "speaker": "SPEAKER_00"
+    },
+    {
+      "start": 5502.45,
+      "end": 5508.13,
+      "text": "permit program i have the original study i mean so the set the recommendations that we're testing",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5508.13,
+      "end": 5512.93,
+      "text": "out with the pilot program right now like they recommend that you look at a district as a whole",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5512.93,
+      "end": 5521.56,
+      "text": "which is a good idea from a policy perspective but trying to get 12 blocks all to do petitions",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5521.56,
+      "end": 5528.28,
+      "text": "at the same time is like it's like hurting cats like it's hard should i should i get a should i",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5528.28,
+      "end": 5551.44,
+      "text": "Dave's going to be here next Friday, we're having a meeting in my office, everyone from the state is coming in, we're executive directors in the state having a meeting in our office next Friday, so Honorado is coming in, Philly is coming in, Allentown, Bethlehem,",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5551.44,
+      "end": 5555.7,
+      "text": "can we do an episode of parking wars",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5555.7,
+      "end": 5565.38,
+      "text": "i watch it on weekends i'll flip it on saturday and sunday mornings",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5565.38,
+      "end": 5567.12,
+      "text": "my kids are coming in like",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5567.12,
+      "end": 5570.74,
+      "text": "just watch just watch",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5570.74,
+      "end": 5571.92,
+      "text": "it's all",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5571.92,
+      "end": 5591.65,
+      "text": "There's a block of Crystal Street right there.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5591.65,
+      "end": 5596.88,
+      "text": "It's like random things I've seen.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5596.88,
+      "end": 5600.04,
+      "text": "I think it depends on what area you're talking about.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5600.04,
+      "end": 5602.04,
+      "text": "Some neighborhoods have lots of them.",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5602.04,
+      "end": 5603.04,
+      "text": "Some of them are...",
+      "speaker": "UNKNOWN"
+    },
+    {
+      "start": 5603.04,
+      "end": 5619.23,
+      "text": "Well, visitors are going to take their chances.",
+      "speaker": "UNKNOWN"
+    }
+  ]
 }
