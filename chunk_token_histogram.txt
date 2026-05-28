@@ -1,0 +1,25 @@
+Chunk token histogram — 67 meetings, 182 chunks, CHUNK_SIZE=50
+Prompt tokens only (system + user + Qwen template); CLASSIFY_MAX_TOKENS=512 not included
+
+      0-2K     15    8.2%  ###############
+      2-4K     26   14.3%  ##########################
+      4-6K     45   24.7%  #############################################
+      6-8K     41   22.5%  #########################################
+     8-10K     31   17.0%  ###############################
+    10-12K     19   10.4%  ###################
+    12-16K      5    2.7%  #####
+    16-32K      0    0.0%  
+      32K+      0    0.0%  
+
+Percentiles -- prompt tokens  |  n_ctx needed (prompt + 512 max_tokens)
+   Pct     Prompt    n_ctx >=
+  ----   --------   ---------
+   p50      6,168       6,680
+   p75      8,522       9,034
+   p90     10,359      10,871
+   p95     10,861      11,373
+   p99     14,301      14,813
+   max     14,345      14,857
+
+  Mean prompt: 6,259 tokens
+  Total chunks: 182  |  Total meetings: 67

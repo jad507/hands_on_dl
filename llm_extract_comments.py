@@ -25,7 +25,7 @@ COMMENTS_DIR        = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\co
 PUBLIC_COMMENTS_DIR = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\bartowski\Qwen_Qwen3.5-9B-Q6_K_L\public_comments"
 ANALYSIS_PATH       = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\bartowski\Qwen_Qwen3.5-9B-Q6_K_L\topic_analysis.json"
 
-N_CTX        = 8192
+N_CTX        = 16384
 CHUNK_SIZE   = 50    # blocks per LLM call — keeps each call well within context
 N_GPU_LAYERS = -1    # offload all layers to GPU
 

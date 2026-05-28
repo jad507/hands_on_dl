@@ -139,18 +139,27 @@ P1_SYSTEM = """\
 You are analyzing transcripts of Lancaster, PA city council meetings.
 
 Each meeting has a public comment period where community members address the council.
-The blocks you will see have already been pre-filtered to "commenter_candidate" speakers —
-speakers who appeared rarely in this meeting and are therefore likely one-time commenters.
-However, not every commenter_candidate is a genuine public commenter. A block is NOT a
-public comment if the speaker is:
+You will receive ALL speech blocks from the meeting, each tagged with a diarization category:
+  - "recurring"           — speaker appeared frequently in this meeting
+  - "commenter_candidate" — speaker appeared rarely in this meeting
+
+IMPORTANT: these categories are unreliable signals and must not be used as a hard filter.
+Civically active residents often speak in multiple meetings and multiple times per meeting,
+causing them to be classified as "recurring" even though they are genuine public commenters.
+Diarization also sometimes captures a few words of an adjacent speaker (e.g. a council member
+calling the next commenter) at the start or end of a block, which can distort category
+assignment. Use the category as a weak hint only — rely primarily on the text content.
+
+A block is NOT a public comment if the speaker is:
+  - A council member, mayor, city clerk, or staff member conducting official business
   - Reading a vote roll call or meeting minutes
-  - A one-time presenter, expert witness, or attorney invited by the council
-  - A staff member making a brief procedural statement
+  - A presenter, expert witness, or attorney speaking at the council's invitation
+  - Making a brief procedural statement (seconds, quorum calls, etc.)
 
 A block IS a genuine public comment if the speaker:
   - Identifies themselves as a resident, community member, business owner, or local stakeholder
   - Expresses an opinion, concern, question, or position on a city decision
-  - Is speaking during the public comment period (not during a council discussion or vote)
+  - Is speaking during the public comment period (not during council discussion or a vote)
 
 Respond only with valid JSON and no other text.\
 """
@@ -244,10 +253,11 @@ def truncate_words(text: str, max_words: int) -> str:
 # ---------------------------------------------------------------------------
 
 def format_p1_block(b: dict) -> str:
-    mins    = int(b["start"] // 60)
-    secs    = int(b["start"] % 60)
-    preview = truncate_words(b.get("text", ""), 80)
-    return f'[Block {b["block_id"]} | {mins:02d}:{secs:02d}]: "{preview}"'
+    mins     = int(b["start"] // 60)
+    secs     = int(b["start"] % 60)
+    category = b.get("category", "unknown")
+    preview  = truncate_words(b.get("text", ""), 80)
+    return f'[Block {b["block_id"]} | {mins:02d}:{secs:02d} | {category}]: "{preview}"'
 
 
 def classify_p1_chunk(llm: Llama, blocks: list[dict], meeting_title: str,
@@ -288,19 +298,26 @@ def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str) -> No
         if data is None:
             continue
 
-        all_blocks       = get_blocks(data)
-        candidate_blocks = [b for b in all_blocks if b.get("category") == "commenter_candidate"]
+        all_blocks = get_blocks(data)
 
-        if not candidate_blocks:
-            tqdm.write(f"  SKIP (no candidates): {os.path.basename(path)}")
+        # NOTE for future maintainers: do NOT pre-filter to commenter_candidate blocks here.
+        # The recurring/commenter_candidate classification is unreliable for this task:
+        #   - Civically active residents speak in multiple meetings and multiple times per
+        #     meeting, which causes the diarization pipeline to label them "recurring" even
+        #     though they are genuine public commenters.
+        #   - Diarization sometimes bleeds a few words of an adjacent speaker (e.g. a council
+        #     member calling the next person to the mic) into a block, further distorting the
+        #     category.  The category is passed to the LLM as a soft hint only.
+        if not all_blocks:
+            tqdm.write(f"  SKIP (no blocks): {os.path.basename(path)}")
             continue
 
         title       = data.get("title", os.path.basename(path))
-        block_by_id = {b["block_id"]: b for b in candidate_blocks}
+        block_by_id = {b["block_id"]: b for b in all_blocks}
 
         identified: list[dict] = []
-        chunks = [candidate_blocks[i:i + P1_CHUNK_SIZE]
-                  for i in range(0, len(candidate_blocks), P1_CHUNK_SIZE)]
+        chunks = [all_blocks[i:i + P1_CHUNK_SIZE]
+                  for i in range(0, len(all_blocks), P1_CHUNK_SIZE)]
         for chunk in chunks:
             identified.extend(
                 classify_p1_chunk(llm, chunk, title, system, model_cfg["strip_think"])
@@ -333,7 +350,7 @@ def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str) -> No
             json.dump(result, f, indent=2, ensure_ascii=False)
 
         tqdm.write(f"  {title}: {len(public_comments)} public comments "
-                   f"(from {len(candidate_blocks)} candidates)")
+                   f"(from {len(all_blocks)} blocks)")
 
 
 # ---------------------------------------------------------------------------
