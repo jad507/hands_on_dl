@@ -29,9 +29,10 @@ import argparse
 import json
 import re
 import os
+import time
 from glob import glob
-from tqdm import tqdm
 from llama_cpp import Llama
+from pipeline_utils import fmt_elapsed, now_str
 
 # ---------------------------------------------------------------------------
 # Paths
@@ -54,33 +55,35 @@ P2_MAX_WORDS = 600
 # except where noted.
 # ---------------------------------------------------------------------------
 MODELS: dict[str, dict] = {
-    # ── Qwen 3.5 9B (three quantisation levels for ablation) ──────────────
+    # ── Qwen 3.5 9B (three quantisation levels for ablation) ─────────────
+    # Weights + KV cache at 16384 ctx (float16): q4≈7.8 GB, q5≈8.7 GB, q6≈9.9 GB — all fit A2000 12 GB
     "qwen3.5-9b-q6": {
         "path":         r"D:\LLM\bartowski\Qwen_Qwen3.5-9B-Q6_K_L.gguf",
         "no_think":     True,   # prepend /no_think to system prompt
         "strip_think":  False,
-        "n_ctx":        8192,
+        "n_ctx":        16384,
         "n_gpu_layers": -1,
     },
     "qwen3.5-9b-q5": {
         "path":         r"D:\LLM\bartowski\Qwen_Qwen3.5-9B-Q5_K_M.gguf",
         "no_think":     True,
         "strip_think":  False,
-        "n_ctx":        8192,
+        "n_ctx":        16384,
         "n_gpu_layers": -1,
     },
     "qwen3.5-9b-q4": {
         "path":         r"D:\LLM\bartowski\Qwen_Qwen3.5-9B-Q4_K_M.gguf",
         "no_think":     True,
         "strip_think":  False,
-        "n_ctx":        8192,
+        "n_ctx":        16384,
         "n_gpu_layers": -1,
     },
+    # Weights 8.9 GB + KV ~2.3 GB ≈ 11.2 GB — tight on A2000 12 GB; watch for OOM
     "qwen3.5-9b-q8": {
         "path":         r"D:\LLM\daniloreddy\Qwen3.5-9B_Q8_0.gguf",
         "no_think":     True,
         "strip_think":  False,
-        "n_ctx":        8192,
+        "n_ctx":        16384,
         "n_gpu_layers": -1,
     },
     # ── DeepSeek R1 Qwen distills (thinking models — strip <think> tags) ──
@@ -88,47 +91,89 @@ MODELS: dict[str, dict] = {
         "path":         r"D:\LLM\bartowski\DeepSeek-R1-Distill-Qwen-7B-Q6_K_L.gguf",
         "no_think":     False,
         "strip_think":  True,   # remove <think>…</think> before JSON parse
-        "n_ctx":        8192,
+        "n_ctx":        16384,
         "n_gpu_layers": -1,
     },
+    # Weights 8.4 GB + KV ~3.2 GB ≈ 11.6 GB — risky on A2000 12 GB; may OOM
     "deepseek-r1-14b": {
         "path":         r"D:\LLM\bartowski\DeepSeek-R1-Distill-Qwen-14B-Q4_K_M.gguf",
         "no_think":     False,
         "strip_think":  True,
-        "n_ctx":        8192,
-        "n_gpu_layers": -1,    # ~9 GB — fits A2000 12 GB but leaves little headroom
+        "n_ctx":        16384,
+        "n_gpu_layers": -1,
     },
-    # ── Phi-4 14B ─────────────────────────────────────────────────────────
+    # Weights 8.3 GB + KV ~2.7 GB ≈ 11.0 GB — tight on A2000 12 GB; watch for OOM
     "phi-4": {
         "path":         r"D:\LLM\unsloth\phi-4-Q4_K_M.gguf",
         "no_think":     False,
         "strip_think":  False,
-        "n_ctx":        8192,
-        "n_gpu_layers": -1,    # ~8.5 GB — fits A2000 12 GB
+        "n_ctx":        16384,
+        "n_gpu_layers": -1,
     },
     # ── Gemma 4 4B effective (MoE) ────────────────────────────────────────
+    # Weights 8.2 GB + small KV (low active-layer count) ≈ 9.7 GB — fits A2000 12 GB
     "gemma-4-4b": {
         "path":         r"D:\LLM\unsloth\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
         "no_think":     False,
         "strip_think":  False,
-        "n_ctx":        8192,
+        "n_ctx":        16384,
         "n_gpu_layers": -1,
     },
-    # ── Llama 4 Scout 17B-16E (split GGUF — llama_cpp auto-loads part 2) ─
+    # ── Llama 4 Scout — NOT RUNNABLE on A2000 12 GB ───────────────────────
+    # "17B-16E" refers to 17B *active* parameters per token (MoE); total weights are
+    # ~109B, quantised to ~59 GB across two GGUF files. Run on the remote 80 GB card.
+    # llama_cpp auto-loads part 2 when given the path to part 1.
     "llama-4-scout": {
+        "backend":      "llama_cpp",
         "path":         r"D:\LLM\unsloth\Llama-4-Scout-17B-16E-Instruct-UD-Q4_K_XL-00001-of-00002.gguf",
         "no_think":     False,
         "strip_think":  False,
-        "n_ctx":        8192,
-        "n_gpu_layers": -1,    # MoE: active params ~5B, full weights ~10 GB
+        "n_ctx":        16384,
+        "n_gpu_layers": -1,
     },
-    # ── Ministral 8B ──────────────────────────────────────────────────────
+    # ── Ministral 8B GGUF (mistralai/Ministral-3-8B-Instruct-2512, Q8_0) ──
+    # Weights 8.5 GB + KV ~2.2 GB ≈ 10.7 GB — fits A2000 12 GB
     "ministral-8b": {
+        "backend":      "llama_cpp",
         "path":         r"D:\LLM\Ministral\Ministral-3-8B-Instruct-2512-Q8_0.gguf",
         "no_think":     False,
         "strip_think":  False,
-        "n_ctx":        8192,
-        "n_gpu_layers": -1,    # ~8.5 GB — fits A2000 12 GB
+        "n_ctx":        16384,
+        "n_gpu_layers": -1,
+    },
+    # ── Ministral 8B native (mistralai/Ministral-3-8B-Instruct-2512, safetensors) ──
+    # consolidated.safetensors ~9.8 GB. Requires HuggingFace transformers.
+    "ministral-8b-hf": {
+        "backend":      "transformers",
+        "path":         r"D:\LLM\Ministral\consolidated.safetensors",
+        "no_think":     False,
+        "strip_think":  False,
+        "n_ctx":        16384,
+        "n_gpu_layers": -1,
+    },
+    # ── Gemma 4 31B — NOT RUNNABLE on A2000 12 GB ─────────────────────────
+    # google/gemma-4-31B-it, bfloat16 safetensors (~59 GB). Run on the remote 80 GB card.
+    # Requires HuggingFace transformers — NOT compatible with this script's llama_cpp
+    # backend. Path points to the model directory, not a single file.
+    "gemma-4-31b": {
+        "backend":      "transformers",
+        "path":         r"D:\LLM\google",
+        "no_think":     False,
+        "strip_think":  False,
+        "n_ctx":        16384,
+        "n_gpu_layers": -1,
+    },
+    # ── Llama 3.1 8B NVFP4 (nvidia/Llama-3.1-8B-Instruct-NVFP4) ──────────
+    # NVIDIA's proprietary FP4 quantisation (~5.7 GB). Requires TensorRT-LLM or
+    # vLLM with NVFP4 support — NOT loadable by llama_cpp. Path points to the
+    # model directory, not a single file.
+    "llama-3.1-nvfp4": {
+        "backend":      "transformers",
+        "path":         r"D:\LLM\nvidia",
+        "no_think":     False,
+        "strip_think":  False,
+        "n_ctx":        16384,
+        "n_gpu_layers": -1,
     },
 }
 
@@ -286,16 +331,21 @@ def classify_p1_chunk(llm: Llama, blocks: list[dict], meeting_title: str,
 def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str) -> None:
     system        = build_system(P1_SYSTEM, model_cfg["no_think"])
     meeting_files = sorted(glob(os.path.join(COMMENTS_DIR, "*.json")))
-    print(f"\nPhase 1: {len(meeting_files)} meeting files\n")
+    total_start   = time.perf_counter()
+    n_done = n_skipped = n_errors = 0
 
-    for path in tqdm(meeting_files, desc="Phase 1"):
+    print(f"\n[{now_str()}] Phase 1 starting: {len(meeting_files)} meeting files")
+
+    for path in meeting_files:
         out_path = os.path.join(out_dir, os.path.basename(path))
         if os.path.exists(out_path):
-            tqdm.write(f"  SKIP (already done): {os.path.basename(path)}")
+            print(f"  SKIP (already done): {os.path.basename(path)}")
+            n_skipped += 1
             continue
 
         data = load_json(path)
         if data is None:
+            n_errors += 1
             continue
 
         all_blocks = get_blocks(data)
@@ -309,11 +359,15 @@ def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str) -> No
         #     member calling the next person to the mic) into a block, further distorting the
         #     category.  The category is passed to the LLM as a soft hint only.
         if not all_blocks:
-            tqdm.write(f"  SKIP (no blocks): {os.path.basename(path)}")
+            print(f"  SKIP (no blocks): {os.path.basename(path)}")
+            n_skipped += 1
             continue
 
         title       = data.get("title", os.path.basename(path))
         block_by_id = {b["block_id"]: b for b in all_blocks}
+
+        print(f"\n[{now_str()}] {title}")
+        t0 = time.perf_counter()
 
         identified: list[dict] = []
         chunks = [all_blocks[i:i + P1_CHUNK_SIZE]
@@ -349,8 +403,12 @@ def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str) -> No
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(result, f, indent=2, ensure_ascii=False)
 
-        tqdm.write(f"  {title}: {len(public_comments)} public comments "
-                   f"(from {len(all_blocks)} blocks)")
+        print(f"  {len(public_comments)} public comments from {len(all_blocks)} blocks"
+              f"  [Elapsed: {fmt_elapsed(time.perf_counter() - t0)}]")
+        n_done += 1
+
+    print(f"\nSummary: {n_done} processed, {n_skipped} skipped, {n_errors} errors")
+    print(f"Total time: {fmt_elapsed(time.perf_counter() - total_start)}")
 
 
 # ---------------------------------------------------------------------------
@@ -385,30 +443,39 @@ def run_phase2(llm: Llama, model_cfg: dict, model_name: str,
         model_cfg["no_think"],
     )
 
-    p1_files = sorted(glob(os.path.join(p1_dir, "*.json")))
+    p1_files    = sorted(glob(os.path.join(p1_dir, "*.json")))
+    total_start = time.perf_counter()
+    n_done = n_skipped = n_errors = 0
+
     if not p1_files:
         print(f"  No Phase 1 output found in {p1_dir} — run Phase 1 first.")
         return
 
-    print(f"\nPhase 2: {len(p1_files)} meetings with Phase 1 output\n")
+    print(f"\n[{now_str()}] Phase 2 starting: {len(p1_files)} meetings with Phase 1 output")
 
-    for path in tqdm(p1_files, desc="Phase 2"):
+    for path in p1_files:
         out_path = os.path.join(out_dir, os.path.basename(path))
         if os.path.exists(out_path):
-            tqdm.write(f"  SKIP (already done): {os.path.basename(path)}")
+            print(f"  SKIP (already done): {os.path.basename(path)}")
+            n_skipped += 1
             continue
 
         data = load_json(path)
         if data is None:
+            n_errors += 1
             continue
 
         comments = data.get("public_comments", [])
         if not comments:
-            tqdm.write(f"  SKIP (no public comments): {os.path.basename(path)}")
+            print(f"  SKIP (no public comments): {os.path.basename(path)}")
+            n_skipped += 1
             continue
 
-        title       = data.get("title", os.path.basename(path))
+        title        = data.get("title", os.path.basename(path))
         theme_scores = []
+
+        print(f"\n[{now_str()}] {title}")
+        t0 = time.perf_counter()
 
         for comment in comments:
             scores = score_comment_themes(
@@ -440,7 +507,12 @@ def run_phase2(llm: Llama, model_cfg: dict, model_name: str,
             json.dump(result, f, indent=2, ensure_ascii=False)
 
         n_scored = sum(1 for e in theme_scores if e["themes"] is not None)
-        tqdm.write(f"  {title}: {n_scored}/{len(comments)} comments scored")
+        print(f"  {n_scored}/{len(comments)} comments scored"
+              f"  [Elapsed: {fmt_elapsed(time.perf_counter() - t0)}]")
+        n_done += 1
+
+    print(f"\nSummary: {n_done} processed, {n_skipped} skipped, {n_errors} errors")
+    print(f"Total time: {fmt_elapsed(time.perf_counter() - total_start)}")
 
 
 # ---------------------------------------------------------------------------
@@ -460,8 +532,10 @@ def main() -> None:
     if args.list:
         print("Available models:")
         for name, cfg in MODELS.items():
-            exists = "✓" if os.path.exists(cfg["path"]) else "✗ NOT FOUND"
-            print(f"  {name:<22} {exists}  {os.path.basename(cfg['path'])}")
+            exists  = "ok" if os.path.exists(cfg["path"]) else "NOT FOUND"
+            backend = cfg.get("backend", "llama_cpp")
+            flag    = "" if backend == "llama_cpp" else f"  [{backend} — not runnable here]"
+            print(f"  {name:<22} {exists}  {os.path.basename(cfg['path'])}{flag}")
         return
 
     if not args.model:
@@ -474,6 +548,15 @@ def main() -> None:
     model_cfg  = MODELS[args.model]
     model_name = args.model
 
+    backend = model_cfg.get("backend", "llama_cpp")
+    if backend != "llama_cpp":
+        print(f"'{model_name}' uses backend '{backend}' and cannot be loaded by this script.")
+        if model_name == "gemma-4-31b":
+            print("  Load with: transformers.AutoModelForCausalLM (bfloat16 safetensors)")
+        elif model_name == "llama-3.1-nvfp4":
+            print("  Load with: TensorRT-LLM or vLLM with NVFP4 support")
+        return
+
     if not os.path.exists(model_cfg["path"]):
         print(f"Model file not found: {model_cfg['path']}")
         return
@@ -483,13 +566,15 @@ def main() -> None:
     os.makedirs(p1_dir, exist_ok=True)
     os.makedirs(p2_dir, exist_ok=True)
 
-    print(f"Loading model: {model_cfg['path']}")
+    print(f"[{now_str()}] Loading model: {model_cfg['path']}")
+    t0  = time.perf_counter()
     llm = Llama(
         model_path=model_cfg["path"],
         n_ctx=model_cfg["n_ctx"],
         n_gpu_layers=model_cfg["n_gpu_layers"],
         verbose=False,
     )
+    print(f"  Loaded in {fmt_elapsed(time.perf_counter() - t0)}")
 
     if args.phase in ("1", "both"):
         run_phase1(llm, model_cfg, model_name, p1_dir)
