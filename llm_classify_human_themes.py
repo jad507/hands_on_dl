@@ -41,9 +41,9 @@ COMMENTS_DIR   = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\comment
 THEMES_MD_PATH = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\data_center_comment_themes.md"
 OUTPUTS_ROOT   = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\llm_outputs"
 
-# Phase 1: blocks per LLM call. At ~100 words/block summary, 15 blocks ≈ 1 500
-# content tokens — comfortable for 8 192 ctx.
-P1_CHUNK_SIZE = 15
+# Phase 1: blocks per LLM call. At ~100 words/block summary, 5 blocks ≈ 500
+# content tokens — leaves ample headroom for reason fields in large meetings.
+P1_CHUNK_SIZE = 5
 
 # Phase 2: truncate comment text to this many words before sending.
 # Keeps total prompt well under 8 192 tokens even with the full themes .md.
@@ -282,7 +282,7 @@ def parse_json_safe(raw: str, context: str) -> dict | None:
     try:
         return json.loads(raw)
     except json.JSONDecodeError:
-        tqdm.write(f"  JSON parse error ({context}): {raw[:120]}")
+        print(f"  JSON parse error ({context}): {raw[:120]}")
         return None
 
 
@@ -422,17 +422,25 @@ def load_themes_md() -> str:
 
 def score_comment_themes(llm: Llama, comment_text: str, meeting_title: str,
                          block_id: int, system: str, strip_think: bool) -> dict | None:
-    text    = truncate_words(comment_text, P2_MAX_WORDS)
-    user_msg = (
-        f"Meeting: {meeting_title}\n"
-        f"Block ID: {block_id}\n\n"
-        f"Public comment text:\n\"{text}\"\n\n"
-        "Score this comment against all four themes."
-    )
-    raw = call_llm(llm, system, user_msg, max_tokens=700, strip_think=strip_think)
-    if raw is None:
-        return None
-    return parse_json_safe(raw, f"P2 block {block_id} from {meeting_title}")
+    context = f"P2 block {block_id} from {meeting_title}"
+
+    def _call(text: str) -> dict | None:
+        user_msg = (
+            f"Meeting: {meeting_title}\n"
+            f"Block ID: {block_id}\n\n"
+            f"Public comment text:\n\"{text}\"\n\n"
+            "Score this comment against all four themes."
+        )
+        raw = call_llm(llm, system, user_msg, max_tokens=700, strip_think=strip_think)
+        if raw is None:
+            return None
+        return parse_json_safe(raw, context)
+
+    result = _call(comment_text)
+    if result is None and len(comment_text.split()) > P2_MAX_WORDS:
+        print(f"  P2 block {block_id}: retrying with {P2_MAX_WORDS}-word truncation")
+        result = _call(truncate_words(comment_text, P2_MAX_WORDS))
+    return result
 
 
 def run_phase2(llm: Llama, model_cfg: dict, model_name: str,
