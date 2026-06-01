@@ -10,7 +10,7 @@ function Run-Model($name) {
     $start = Get-Date
     Write-Host ""
     Write-Host "=== $name  started $($start.ToString('yyyy-MM-dd HH:mm:ss')) ==="
-    python llm_classify_human_themes.py --model $name 2>&1 | tee $log
+    cmd /c "python llm_classify_human_themes.py --model $name 2>&1" | Tee-Object -FilePath $log
     $exit    = $LASTEXITCODE
     $elapsed = (Get-Date) - $start
     $dur     = "{0:hh\:mm\:ss}" -f $elapsed

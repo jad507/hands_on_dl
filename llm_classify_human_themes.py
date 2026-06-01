@@ -325,7 +325,10 @@ def classify_p1_chunk(llm: Llama, blocks: list[dict], meeting_title: str,
     parsed = parse_json_safe(raw, f"P1 chunk from {meeting_title}")
     if parsed is None:
         return [], 1
-    return parsed.get("public_comments", []), 0
+    if "public_comments" not in parsed:
+        print(f"  P1 wrong schema (no 'public_comments' key) from {meeting_title}: {list(parsed)[:5]}")
+        return [], 1
+    return parsed["public_comments"], 0
 
 
 def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str) -> None:
@@ -471,9 +474,13 @@ def run_phase2(llm: Llama, model_cfg: dict, model_name: str,
     for path in p1_files:
         out_path = os.path.join(out_dir, os.path.basename(path))
         if os.path.exists(out_path):
-            print(f"  SKIP (already done): {os.path.basename(path)}")
-            n_skipped += 1
-            continue
+            existing = load_json(out_path)
+            if existing and existing.get("n_failed_comments", 0) == 0:
+                print(f"  SKIP (already done): {os.path.basename(path)}")
+                n_skipped += 1
+                continue
+            prior_failed = existing.get("n_failed_comments", "?") if existing else "?"
+            print(f"  REDO ({prior_failed} prior failed comments): {os.path.basename(path)}")
 
         data = load_json(path)
         if data is None:
@@ -511,19 +518,23 @@ def run_phase2(llm: Llama, model_cfg: dict, model_name: str,
                 "themes":       scores.get("themes") if scores else None,
             })
 
+        n_scored = sum(1 for e in theme_scores if e["themes"] is not None)
+        n_failed = len(theme_scores) - n_scored
+
         result = {
-            "title":        data.get("title"),
-            "video_id":     data.get("video_id"),
-            "upload_date":  data.get("upload_date"),
-            "model":        model_name,
-            "theme_scores": theme_scores,
+            "title":              data.get("title"),
+            "video_id":           data.get("video_id"),
+            "upload_date":        data.get("upload_date"),
+            "model":              model_name,
+            "n_failed_comments":  n_failed,
+            "theme_scores":       theme_scores,
         }
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(result, f, indent=2, ensure_ascii=False)
 
-        n_scored = sum(1 for e in theme_scores if e["themes"] is not None)
+        fail_note = f"  {n_failed} failed" if n_failed else ""
         print(f"  {n_scored}/{len(comments)} comments scored"
-              f"  [Elapsed: {fmt_elapsed(time.perf_counter() - t0)}]")
+              f"{fail_note}  [Elapsed: {fmt_elapsed(time.perf_counter() - t0)}]")
         n_done += 1
 
     print(f"\nSummary: {n_done} processed, {n_skipped} skipped, {n_errors} errors")
