@@ -41,9 +41,9 @@ COMMENTS_DIR   = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\comment
 THEMES_MD_PATH = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\data_center_comment_themes.md"
 OUTPUTS_ROOT   = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\llm_outputs"
 
-# Phase 1: blocks per LLM call. At ~100 words/block summary, 5 blocks ≈ 500
+# Phase 1: blocks per LLM call. At ~100 words/block summary, 3 blocks ≈ 300
 # content tokens — leaves ample headroom for reason fields in large meetings.
-P1_CHUNK_SIZE = 5
+P1_CHUNK_SIZE = 3
 
 # Phase 2: truncate comment text to this many words before sending.
 # Keeps total prompt well under 8 192 tokens even with the full themes .md.
@@ -245,7 +245,7 @@ def load_json(path: str) -> dict | None:
         with open(path, encoding="utf-8") as f:
             return json.load(f)
     except Exception as e:
-        tqdm.write(f"  Could not load {os.path.basename(path)}: {e}")
+        print(f"  Could not load {os.path.basename(path)}: {e}")
         return None
 
 
@@ -306,26 +306,26 @@ def format_p1_block(b: dict) -> str:
 
 
 def classify_p1_chunk(llm: Llama, blocks: list[dict], meeting_title: str,
-                      system: str, strip_think: bool) -> list[dict]:
+                      system: str, strip_think: bool) -> tuple[list[dict], int]:
     user_msg = (
         f"Meeting: {meeting_title}\n\n"
-        "The following blocks are from speakers classified as commenter_candidates "
-        "(appeared only rarely in this meeting):\n\n"
+        "Speech blocks:\n"
         + "\n".join(format_p1_block(b) for b in blocks)
-        + "\n\nIdentify which blocks (if any) are genuine public comments from community members.\n"
+        + "\n\n"
+        "List ONLY the blocks above that are genuine public comments from community members.\n"
+        "Do not include blocks that are not public comments. Do not explain why non-comment blocks were omitted.\n"
         'Return JSON: {"public_comments": [{"block_id": <int>, '
         '"speaker_name": "<full name if stated, else unknown>", '
-        '"is_public_comment": true, '
-        '"reason": "<one sentence why>"}]}\n'
+        '"reason": "<one sentence>"}]}\n'
         'If none are public comments, return: {"public_comments": []}'
     )
-    raw = call_llm(llm, system, user_msg, max_tokens=600, strip_think=strip_think)
+    raw = call_llm(llm, system, user_msg, max_tokens=1500, strip_think=strip_think)
     if raw is None:
-        return []
+        return [], 1
     parsed = parse_json_safe(raw, f"P1 chunk from {meeting_title}")
     if parsed is None:
-        return []
-    return parsed.get("public_comments", [])
+        return [], 1
+    return parsed.get("public_comments", []), 0
 
 
 def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str) -> None:
@@ -339,9 +339,13 @@ def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str) -> No
     for path in meeting_files:
         out_path = os.path.join(out_dir, os.path.basename(path))
         if os.path.exists(out_path):
-            print(f"  SKIP (already done): {os.path.basename(path)}")
-            n_skipped += 1
-            continue
+            existing = load_json(out_path)
+            if existing and existing.get("n_chunk_errors", 0) == 0:
+                print(f"  SKIP (already done): {os.path.basename(path)}")
+                n_skipped += 1
+                continue
+            prior_errors = existing.get("n_chunk_errors", "?") if existing else "?"
+            print(f"  REDO ({prior_errors} prior chunk errors): {os.path.basename(path)}")
 
         data = load_json(path)
         if data is None:
@@ -370,12 +374,13 @@ def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str) -> No
         t0 = time.perf_counter()
 
         identified: list[dict] = []
+        n_chunk_errors = 0
         chunks = [all_blocks[i:i + P1_CHUNK_SIZE]
                   for i in range(0, len(all_blocks), P1_CHUNK_SIZE)]
         for chunk in chunks:
-            identified.extend(
-                classify_p1_chunk(llm, chunk, title, system, model_cfg["strip_think"])
-            )
+            results, err = classify_p1_chunk(llm, chunk, title, system, model_cfg["strip_think"])
+            identified.extend(results)
+            n_chunk_errors += err
 
         public_comments = []
         for item in identified:
@@ -398,13 +403,15 @@ def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str) -> No
             "video_id":        data.get("video_id"),
             "upload_date":     data.get("upload_date"),
             "model":           model_name,
+            "n_chunk_errors":  n_chunk_errors,
             "public_comments": public_comments,
         }
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(result, f, indent=2, ensure_ascii=False)
 
+        error_note = f"  {n_chunk_errors} chunk errors" if n_chunk_errors else ""
         print(f"  {len(public_comments)} public comments from {len(all_blocks)} blocks"
-              f"  [Elapsed: {fmt_elapsed(time.perf_counter() - t0)}]")
+              f"{error_note}  [Elapsed: {fmt_elapsed(time.perf_counter() - t0)}]")
         n_done += 1
 
     print(f"\nSummary: {n_done} processed, {n_skipped} skipped, {n_errors} errors")
@@ -580,7 +587,7 @@ def main() -> None:
         model_path=model_cfg["path"],
         n_ctx=model_cfg["n_ctx"],
         n_gpu_layers=model_cfg["n_gpu_layers"],
-        verbose=False,
+        verbose=True,
     )
     print(f"  Loaded in {fmt_elapsed(time.perf_counter() - t0)}")
 
