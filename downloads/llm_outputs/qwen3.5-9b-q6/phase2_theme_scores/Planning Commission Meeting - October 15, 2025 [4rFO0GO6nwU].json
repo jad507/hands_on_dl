@@ -1,0 +1,87 @@
+{
+  "title": "Planning Commission Meeting - October 15, 2025",
+  "video_id": "4rFO0GO6nwU",
+  "upload_date": "20251016",
+  "model": "qwen3.5-9b-q6",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 0,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1080.0,
+      "end": 2181.45,
+      "text": "Thank you. Thank you.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment contains no substantive content regarding municipal resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, environmental quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not engage with issues of benefit distribution, inequality, or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 1,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4918.38,
+      "end": 7278.0,
+      "text": "Thank you.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment contains no substantive content regarding municipal resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, environmental quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not engage with issues of benefit distribution, inequality, or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 2,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7278.02,
+      "end": 7934.32,
+      "text": "yeah my me and they hurt and do um yeah you know and it it it it it it it it it it it it it it it it If you have any questions, please feel free to reach out to me.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment contains no substantive content regarding municipal resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss distribution of costs/benefits, job narratives, or historical patterns of inequality."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "title": "City Council Committee Meeting - February 3, 2025",
+  "video_id": "aHT_ba_YwG8",
+  "upload_date": "20250204",
+  "model": "qwen3.5-9b-q6",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 29,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 1695.01,
+      "end": 1712.78,
+      "text": "regards to um the items will this be discussed to the public i mean how is this going to be available for the public to ask questions i mean you you're asking or you're going to say that it's going to be presented in march but i think that the community should know",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or infrastructure burdens; it focuses solely on public access to information."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly questions how the public will be able to ask questions and demands that the community be informed, directly addressing information asymmetry and transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, vulnerable populations, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 3584.84,
+      "end": 3591.11,
+      "text": "with the cdbg funds uh thank you and i look forward to working with you guys on the engagement",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or budgetary strain on municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment expresses a willingness to work with officials but does not address transparency, oversight, or distrust of the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 64,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 3591.11,
+      "end": 3612.06,
+      "text": "around the 2026 23rd plan wonderful just a quick comment I'll say from voting on this item just because the organization that I work for assets is listed as an organization in the action plans same from voting thank you are there any",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or budgetary concerns related to municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, oversight, or the fairness of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing, wealth distribution, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 3612.06,
+      "end": 3623.64,
+      "text": "further comments or questions in regards to the funding for the CBD G and housing",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions housing funding but does not discuss municipal utilities, infrastructure strain, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, oversight, or the decision-making process regarding the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While housing is mentioned, the comment does not critique job creation narratives or discuss unequal distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 3623.64,
+      "end": 3631.16,
+      "text": "is is that including some of the shelters does any of that funding go to any of the local shelters",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks about funding for local shelters but does not mention municipal utilities, infrastructure, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, decision-making processes, or accountability of officials regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss physical health, noise, air quality, or quality of life impacts related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the comment touches on social welfare (shelters), it does not explicitly frame the data center project as creating unequal distribution of costs/benefits or challenge the jobs narrative."
+        }
+      }
+    },
+    {
+      "block_id": 67,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 3631.16,
+      "end": 3639.98,
+      "text": "that we have good question the only funding that i saw that went to the shelters was from 2021 that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions funding for shelters but does not connect it to municipal utilities like electricity, water, or waste management, nor does it discuss infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment questions the adequacy of funding for shelters but does not address the transparency, notice, or decision-making process regarding the data center project itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While shelters relate to social welfare, the comment does not discuss physical health impacts, noise, air quality, or the trade-off between health and economic benefits."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The comment highlights a disparity in resource allocation (shelter funding vs. data center), suggesting an uneven distribution of benefits and a critique of priorities, which aligns with the theme of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 68,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 3639.98,
+      "end": 3712.07,
+      "text": "was part of the esg allocation so homeless shelters and service for homeless individuals is out is funded through the emergency solutions grant or esg funding for which we received entitlement funds in 2021 but not since and those same activities are not eligible through cdb for cdbg funding because they are funded with federal entitlement esg funding so cdbg cannot fund shelter activities or activities for the homeless but isn't that considered someone that is unhoused that needs housing yes the so someone who is unhoused would definitely need housing the affordable housing development solutions is for the construction of new housing or the rehabilitation of affordable housing so it's more about the infrastructure of the housing than it is about service to that particular individual and that is in the nuance of what is allowable or unallowable in the federal regulations and how many houses are actually",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses federal funding eligibility for homeless services and housing infrastructure, not municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is clarifying federal grant regulations (ESG vs. CDBG) rather than criticizing the city council's decision-making process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the comment mentions homeless individuals, it does not address physical health impacts, noise, air quality, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on funding eligibility rules rather than the distribution of costs/benefits, job creation critiques, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 69,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 3712.07,
+      "end": 3729.35,
+      "text": "listed for the cbd job dollars to repair do you have a stock number how many we have funded with cdbg how many are going to be funded and the repairs being done is there a stock number a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks about CDBG funding and repair stock numbers but does not mention electricity, water, waste, or infrastructure strain related to the data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the comment questions funding details, it does not address transparency, decision-making processes, or accountability regarding the data center project specifically."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on general funding and repair stock numbers without addressing who benefits, who pays, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 71,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 3808.62,
+      "end": 3816.02,
+      "text": "so so you're looking at probably repairing what three houses with that particular money depends",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment questions the allocation of funds to repair houses rather than addressing municipal infrastructure burdens like electricity, water, or e-waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no mention of decision-making processes, transparency, or official accountability in this brief remark."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not reference health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While it touches on resource allocation, it does not explicitly frame the issue around historical extraction, vulnerable populations, or the uneven distribution of costs and benefits."
+        }
+      }
+    }
+  ]
+}

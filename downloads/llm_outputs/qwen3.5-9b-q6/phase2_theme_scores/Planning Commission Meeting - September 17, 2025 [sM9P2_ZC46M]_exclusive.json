@@ -1,0 +1,1309 @@
+{
+  "title": "Planning Commission Meeting - September 17, 2025",
+  "video_id": "sM9P2_ZC46M",
+  "upload_date": "20250918",
+  "model": "qwen3.5-9b-q6",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 3869.68,
+      "end": 3893.92,
+      "text": "with the lack of the presentations of the city of the environmental review i personally feel that article 1 section 27 of the constitution of pennsylvania which makes the commonwealth a trustee of the public natural resources also requires the city and it's purview to be a trustee as well so why have you not yet disclosed that to the city i",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions environmental review but does not specifically address municipal utilities like electricity, water, waste, or e-waste burdens."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly critiques the lack of environmental review presentations and cites constitutional obligations, framing the issue as a failure of municipal transparency and duty."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the comment references natural resources, it does not connect them to specific health outcomes, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on legal and procedural obligations rather than the distribution of costs/benefits, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 3893.92,
+      "end": 3902.22,
+      "text": "don't know what that means you're talking about the environmental uh testing and a review or any",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment expresses confusion about environmental testing but does not address municipal utilities, infrastructure strain, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker questions the meaning of a process, they do not explicitly address transparency, oversight, or distrust of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment mentions environmental testing but does not connect it to health impacts, noise, air quality, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "There is no mention of who benefits, vulnerable populations, or historical patterns of inequality in this brief statement."
+        }
+      }
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 3902.22,
+      "end": 3973.8,
+      "text": "of those items you want to talk about okay good evening mr dastra yeah you're talking about the uh i think the phase one phase two environmental review um so there's some contamination on site from the junkyard um and i'll let you me or mark give you the updates on where exactly that stands but there's planned or has been excavation there and so the phase one is the assessment of what contamination is there the phase two is the actual remediation of that area all of that the phase one is done the phase two will be underway and that soil will be removed from the site which is of great benefit to the community. It's beyond the stormwater infiltration requirements that the city may ask us to prove does not interfere with contaminants on site. There's there's nothing in the SALDO that I'm aware of that would require us to provide the phase one and phase two but that was not intentionally withheld for any particular reason at all. And I think we'd be happy to provide that all of that documentation to the city. And you know I think this project is very proud to be removing that contamination that has been sitting in the community for decades.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses environmental remediation of a specific site but does not frame the data center as a strain on municipal utilities like electricity, water, or waste management systems."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly addresses the transparency of the environmental review process, defending the withholding of documentation and asserting that the project is proud to remove contamination, directly engaging with how decisions and information are shared."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the comment mentions contamination, it frames the remediation as a benefit rather than expressing concern about health impacts from data center operations like noise or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss who benefits versus who pays, job creation narratives, or historical patterns of extraction; instead, they focus on the technical details of site remediation."
+        }
+      }
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "unknown",
+      "start": 4019.97,
+      "end": 4066.44,
+      "text": "do know that you don't want to hear that but um and douglas doesn't either it is expensive to do that and we're trying so desperately hard to provide affordable housing without subsidies without so yes we could it would just make the price of these houses go up even higher and it just does not seem like a good idea we already have such a huge issue with affordability and we're again the size the simplicity the design all around is intended to bring the cost of new homes",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses housing affordability and construction costs, not municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker critiques the design and cost implications of housing, but does not address transparency, decision-making processes, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly frames housing affordability as a critical issue, arguing that the project would exacerbate inequality by driving up costs for vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 43,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 4066.44,
+      "end": 4116.16,
+      "text": "drastically down that's the that's the real crux of why I mean respectfully in terms of cost I've heard it reported that you're anticipating a three hundred thousand three hundred fifty thousand cost per unit that's already very expensive for members of this community exactly that's concern still I don't think that quite adds up for me um other so you had mentioned earlier that local sourcing will make uh these units easier to maintain and you know you're talking about cost um how this might sound like a big question but like how does that logic hold like what is the guarantee that locally sourcing the materials also makes these easier to maintain um i'm not sure we want to pull pictures",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses unit costs and maintenance logistics but does not address municipal infrastructure burdens like electricity, water, waste, or city budget capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker questions the logic of local sourcing claims but does not address transparency, decision-making processes, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on financial costs and maintenance logistics rather than physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the speaker questions cost assumptions, they do not frame this as an issue of unequal distribution of costs/benefits, historical extraction, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "unknown",
+      "start": 4116.16,
+      "end": 4182.47,
+      "text": "or not but the the the material that where I used on the the cottages is what what we use on pole barns like every day it's like the not-so-fancy standing seam metal and so it's very economical there's lots of options for that and it's practically maintenance free the last 50 plus years we're using a lot of of that in a lot of creative ways and the other items are you know just kind of general wood siding that is you know has long duration guarantees but again you know what sitting on shelves very locally sourced we have lots of Lancaster's awesome it's a melting pot so we have we have an unfair advantage I would say accessing trusses and building materials and so our houses are literally designed with uh with the help of our contractors like what can you get what can you get how can we use this product that you have access to that's how we built the last ones that's how",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses building materials and construction techniques for cottages, with no mention of municipal utilities, infrastructure strain, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker focuses on construction materials and local sourcing, not on decision-making processes, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of health impacts, noise, air quality, or quality of life related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment highlights local economic advantages in sourcing materials but does not address wealth distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 48,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "unknown",
+      "start": 4236.62,
+      "end": 4305.78,
+      "text": "those nuanced uh you can't quite put your finger on it but i think it's a um it was a vision and an idea that we had hey can we make this work and can we embed something brand new into a community and it not be overwhelming an alternative would be like we could just go build like a 6,000 square foot wild crazy thing on on the cliff and I don't know if that would jive right that would not fit in at all so I think to that respect that's how we kind of are kind of deriving success the other thing is too like tangible just can we do this we again designed thought through the building process but the construction of those homes was very efficient which again has a direct correlation to cost and so we're we're taking those you know learned processes and applying them again too",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses building efficiency and cost savings for housing construction, not municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker reflects on a vision and design process for housing, but does not address transparency, oversight, or accountability regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on construction efficiency and community fit, without addressing wealth distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 49,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 4305.78,
+      "end": 4342.16,
+      "text": "you had said that the wooded cliffside is unusable i disagree with that personally in fact i think that using cliff sides can become a remarkably great use for ecological design the insulation the ground provides to the structures you're building within um so i i don't really have a question there i just want to state that for the record that i i think that that doesn't hold water uh the cliff sides are usable it's just you've made a choice to focus on a different type of of design um i'll stop for a second if anybody else has questions a number of questions regarding",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses ecological design and cliffside usability but does not address municipal utilities, infrastructure strain, water supply, or waste management concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker challenges a previous statement, they do not address transparency, decision-making processes, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on design feasibility and ecological considerations rather than noise, air quality, or direct health impacts on residents."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker critiques a design choice but does not connect it to broader issues of wealth distribution, vulnerable populations, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 50,
+      "speaker": "SPEAKER_17",
+      "speaker_name": "unknown",
+      "start": 4342.16,
+      "end": 4437.06,
+      "text": "the affordability of this project you have called this project an affordable project a number of times um 350 000 starter home is not an affordable starter home we need to lessen the cost of housing within this community the average ami of our lancaster city is sixty three thousand dollars a 60 a person making 63 000 cannot afford to live in that housing development on top of that i'm just curious to know self-storage and some of the amenities on the site i heard the word hoa curious to know what that would add to the cost of the housing particularly itself and then i would just recommend that you remove the word affordable from this market rate would be more appropriate although if you can get the prices down i don't think that would happen because of the capacity of the density um that's part of that's part of my spiel the other part is the fire and safety perspective of this if i recall the last time you gentlemen um stood in front of us there were some serious concerns regarding fire safety and access to the water the pressure specifically if there were two fires on either side of that community which we hope would never happen currently it's my understanding that there is not a way to have capacity to serve both of those homes depending on where they're located one of those hydrants could only be running per at a time so I'm curious to know a little bit more about that and I'll pause for a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly raises concerns about water pressure capacity for fire safety, which directly relates to municipal water infrastructure and its ability to serve the community under increased demand."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on project specifics like affordability, HOA fees, and fire safety rather than criticizing the decision-making process, transparency, or official conduct."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While fire safety is mentioned, the comment does not address health impacts, air quality, noise, or the trade-off between economic benefits and physical well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "The speaker challenges the 'affordable' label by citing local income data (AMI) and argues that market-rate housing is more appropriate, highlighting a disconnect between the project's claims and the community's economic reality."
+        }
+      }
+    },
+    {
+      "block_id": 54,
+      "speaker": "SPEAKER_17",
+      "speaker_name": "unknown",
+      "start": 4584.55,
+      "end": 4600.87,
+      "text": "because i do think well i i think if your minimum cost is three hundred thousand dollars you just personally i take offense to you using three hundred thousand dollar homes and the word affordability in the same sentence that is not fair not a thing so it's all relative",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses housing affordability and cost thresholds but does not mention municipal utilities, infrastructure, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker expresses frustration about terminology and fairness but does not address transparency, decision-making processes, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on economic fairness and housing costs rather than physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The speaker challenges the use of the word 'affordability' in relation to high-cost homes, highlighting a disconnect between economic reality and official language, which aligns with critiques of how benefits and costs are distributed."
+        }
+      }
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "unknown",
+      "start": 4602.12,
+      "end": 4642.34,
+      "text": "i appreciate that i appreciate that the the word affordable is directly associated to subsidized i appreciate that being um the issue um affordable is also relative the the average regular home in lancaster city or i think was 386 the last time i saw in lmp and the average new home is 488 so that's lancaster county right now so affordable based on those terms is absolutely affordable but we will try to slow that down or use another word i just think it's really important that we",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses housing affordability and terminology but does not address electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is critiquing the use of the word 'affordable' in a housing context, not addressing transparency, oversight, or the legitimacy of the data center decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns related to the data center operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the comment touches on housing affordability, it does not explicitly connect this to the data center project, historical extraction patterns, or the uneven distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_17",
+      "speaker_name": "unknown",
+      "start": 4642.34,
+      "end": 4717.68,
+      "text": "buy that we are manufacturing realistic housing for the population that we're actually serving i can appreciate that yes the other question i have is in regards to a traffic study and your entrance and exits to and from the development duke street i go down there all the time i essentially could live in county park i run those trails like hundreds of times a week and there has been multiple occasions where i have either almost been hit by a car i can't get out of where i'm coming from so i am not particularly pulling in and out of sunnyside but i'm very familiar with the you know safety of that street and particularly at certain times of day the traffic is a lot is a lot busier now you're going to add let's say 80 homes to round it up with two cars each that's 160 cars going in and out of this site potentially with the current traffic conditions that were already posed on duke street so i'd just like to know a little bit more about what you're doing as far as safety measures to ensure that traffic is entering and exiting that particular property safely and any thoughts on like maybe innovative would you do one way in",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on traffic safety and road capacity rather than municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker asks for clarification on safety measures but does not express distrust of officials, demand oversight, or critique the decision-making process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions safety concerns, they do not link traffic to health outcomes like noise, air quality, or disease."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits versus who bears costs, nor does it critique job creation narratives or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 5363.06,
+      "end": 5432.91,
+      "text": "quick comment um gentlemen right here right here um no you're good um i would just i just have an encouragement uh just kind of going back to what commissioner nicole said about the affordability of your housing um by all means if you have a target resident that you're looking to be in these residents i would encourage you to to mention that because if you take the word affordable and you place it beside hoa hoa all but disqualifies affordable so i would just encourage you moving forward if you are saying that or if you're desiring to have a target resident to say that because it's like a shake in my head moment when i hear you say it's affordable but on one of your slides it says $386,000 starting point so I don't know what world you live in but $386,000 starting to move into a home it's not affordable for a whole bunch of people you guys are really smart men otherwise you want to came up with this plan so",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or municipal budgetary capacity; it focuses on housing affordability and HOA fees."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is not criticizing the decision-making process, transparency, or official accountability; they are critiquing the content of a presentation regarding housing pricing."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or the trade-off between financial benefits and health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly challenges the 'affordable' housing narrative by pointing out the contradiction between the label and the $386,000 price point, highlighting the uneven distribution of costs and benefits for residents versus developers."
+        }
+      }
+    },
+    {
+      "block_id": 73,
+      "speaker": "SPEAKER_29",
+      "speaker_name": "unknown",
+      "start": 5432.91,
+      "end": 5445.35,
+      "text": "just think about that chew that up a little bit and think on that that's all mr. weeks if I may",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a fragmented reference to a previous speaker (Mr. Weeks) and does not address municipal resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the decision-making process, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address wealth distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 74,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 5445.35,
+      "end": 5537.33,
+      "text": "just provide one quick follow-up and this is actually for the broader Commission and the room as well but I just wanted to make note of the HOA issue because I know that that word has some connotation to it about what that what comes along with that and the the HOAs have become increasingly common and to be frank part of that is is also driven by our stormwater ordinance what often happens is there's one facility to serve multiple properties or multiple houses and out of affordability for the development there's usually a central facility that then all of these individual houses become responsible for and there has to be some entity that governs that if these are for sale homes and a perfect example of this is actually the affordable homes that are on Chesapeake Street that Saka built that whole neighborhood there is a part of an HOA and there's a stormwater facility at the bottom of it that all of them have to maintain including the parking lot and the more infrastructure that comes along in these projects more expensive those hoa fees become and i think one of the commendable things about this project is uh mark and joe and the designers involved are trying to take a hard look at the amount of infrastructure that they're providing in this project and that is the only reason mark is able to quote a number as low as he just did because i've never even heard of an hov quite that low before so i think that this team is truly working to try to make this a project where there's low maintenance and that requires the repairing buffers to serve as a storm water and that requires it or us to think creatively about how the roads are and curbs and",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.2,
+          "reasoning": "The speaker discusses stormwater infrastructure and HOA maintenance costs, which tangentially relates to municipal resources, but the focus is on private development costs rather than city-managed utilities like electricity or water supply."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making processes, transparency, or accountability of officials; it focuses on infrastructure design and cost structures."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the data center operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The speaker mentions affordability and HOA fees, touching on economic distribution, but frames it as a design challenge rather than a critique of power dynamics or historical extraction patterns."
+        }
+      }
+    },
+    {
+      "block_id": 85,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 5935.56,
+      "end": 6039.62,
+      "text": "and and what I'm saying is the 60% I think it's I don't necessarily have a question but it's more of a statement you know this Sunnyside area has a long history of being short-sighted with projects for decades going back decades similar to the community that I came out of we've been short-sighted on many projects and short chains so we and with the things that need to be completed it appears as though the community just deserves more of these things that you to complete because that's what they deserve i believe that you know it's a community that has integrity and wants to develop and and needs to have their best interests in mind and what shows that is more completion and further progress and not you know trying to complete repair the plane as you're flying that's i think that's what you said is that what you said yeah it was a nice metaphor at the time yeah so while you're flying yeah so um that's a statement",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or infrastructure burdens; it focuses on community history and development priorities."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker critiques the community's historical short-sightedness and the approach to project completion, which touches on how decisions and progress are managed, though it is more about community character than official process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The speaker frames the community as deserving of completion and progress, implying a critique of how resources and development are distributed, though it is more about community integrity than explicit inequality."
+        }
+      }
+    },
+    {
+      "block_id": 89,
+      "speaker": "SPEAKER_13",
+      "speaker_name": "unknown",
+      "start": 6227.73,
+      "end": 6508.56,
+      "text": "give you the first privilege we are not a 350,000 community we are far from that apparently you want to take them home to Mount Gretna dude you're all base your office mount gretna is an art community they do art shows up there every year people go to the jigger shop they have the theater we don't have that your two houses that you built down back of us was in a floodplain to this day no one knows how you got the okay to build any floodplain because the house that the second one to the left there was a little lean-to built there and the city raised hell about that so how you got to building the floodplain you saw to somebody's pocket and that's all this is about you making billions while we live there we like our little community we don't want to be part of the city where you have all the rich people doing what they're doing because that's not what we're about and you said about our environmental building we got one right across the road in the county park and it has a library why do we need that we don't we want to go to the park we go across the street we don't need it and it's not welcome and I think a lot of them I know we all live among each other but we don't want it the ground that you're trying to build on was a junkyard transmission oil diesel gasoline power steering fluid all went into that ground and you say there's only a some there's decades decades you've been there i've been there yeah i know that decades and it's leaked down into the ground and you can't convince me that there's only it's ridiculous we're not a 350 80 000 community and you want to bring that ain't gonna go we're not coming up there to rent storage so i like i like your one comment that you made affordable people can't afford to live in lancaster cities that's why our homeless rate has going skyrocketed our seniors have to choose between paying their bills or taking their medication not going to a doctor's appointment 350 000 and affordable 100 000 isn't affordable 65 85. bring your prices down there build build buildings like they did on south duke street concrete building not some luxurious building build buildings like that that's affordable like i said that's not even close to mount grunt now that's the top of the hall that you want to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.2,
+          "reasoning": "The speaker mentions a former junkyard with leaking fluids contaminating the ground, which touches on environmental contamination, but does not explicitly discuss municipal utilities like electricity, water, or waste management infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker directly accuses officials of corruption and lack of transparency regarding floodplain permits, stating 'you saw to somebody's pocket' and questioning how they got approval to build in a floodplain."
+        },
+        "health_and_well_being": {
+          "score": 0.6,
+          "reasoning": "The speaker connects the proposed development to broader community well-being by mentioning seniors choosing between bills and medication, and expresses a strong desire to preserve the existing community environment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly frames the issue as a conflict between wealthy outsiders ('rich people') and the local community, criticizing the developer for making billions while residents struggle with affordability and homelessness."
+        }
+      }
+    },
+    {
+      "block_id": 91,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "Dwayne Breneman",
+      "start": 6519.98,
+      "end": 6632.73,
+      "text": "there you're next good evening um i do dwayne breneman b-r-e-n-e-m-a-n good evening i'm a longtime member of sunnyside mennonite church and i currently serve as our church board chair so my comments tonight are on behalf of the church so while there's there's certainly some excitement for us as a church thinking about having new neighbors we also have some significant concerns with this plan and there's one in particular that i want to draw your attention to this evening as presented the plan would have a significant negative impact on sunnyside mennonite church specifically this plan would reduce substantially our occupancy because it would eliminate by my estimation about 23 of our existing 48 parking spaces the church's site plan that was approved in 1996 has these 48 parking spaces on it per city zoning ordinance with 48 spaces we can have 192 people in our building that's based on four occupants per space practically speaking four people don't come in a car so in reality our occupancy is probably a lot lower than that probably one or two people in a car okay so our concerns of churches we need to maintain our current number of parking spaces which allows us to maintain our occupancy and continue to function as a church so if If this tentative plan moves forward, the question for the city is, how will the city ensure that the church maintains our current number of parking spaces? Thank you.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on parking space allocation and church occupancy, not on municipal utilities like electricity, water, waste management, or city budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker asks how the city will ensure parking spaces are maintained, this is a specific operational question about the project's impact on the church, not a broader critique of the decision-making process, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address physical health, noise, air quality, or quality of life concerns related to the data center's operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker represents a specific institution (the church) seeking to protect its operational capacity, but does not frame the issue around broader inequalities, vulnerable populations, or the uneven distribution of costs and benefits across the community."
+        }
+      }
+    },
+    {
+      "block_id": 95,
+      "speaker": "SPEAKER_29",
+      "speaker_name": "John Lentz",
+      "start": 6654.96,
+      "end": 6794.33,
+      "text": "John Lentz. Thank you. I live out in Sunnyside. I was born and raised out in Sunnyside. I worked at the junkyard for 25 years, only closed. So I know what is up there, and I know what's in Sunnyside. And I would love to see Sunnyside grow, but not the way they want them to grow. Like she said, affordable housing. Bring people in to build a nice little house. Why do you need a Taj Mahal to live in? We lived in a little shack back there where the junkyard was at. So we moved up to where my brother bought the house. He lives out there, lives there for 65 years. well what they want to do it does not fit in sunnyside yes we were the scum the city we were always run down didn't have stuff there but you know what there was almost there are 200 homes out there and we knew everybody now where can you go in this city and have that because we were a small knit community and now you want to bring in something this big it's not going to fit i would love to see yes small affordable housing and not what they're playing on what they do and i did live on the corner of duke and davis street my son bought the house there where like she said yes you know i'd see traffic coming down that street every day we sit down in new york traffic up and down up and down up and down and you want to put all this back in there on duke street there's going to be accidents all the time because people it's a 35 mile an hour feeling people do not do 35 miles an hour they go down over that hill and come up over that hill by the time you're on most of the garbage the bridge at duke street with the where duke or davis street is you pull out there them cars are right there for you and we see accidents there all the time so try that what he wants to put back",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker mentions traffic and potential accidents on Duke Street, but does not discuss electricity, water, waste management, or municipal budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker expresses strong opposition to the project's scale and location, but does not critique the decision-making process, transparency, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions traffic accidents, they do not discuss noise, air quality, or direct health consequences like respiratory issues or disease."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly contrasts the proposed 'Taj Mahal' development with the need for 'affordable housing' and critiques the loss of a 'small knit community' to a large-scale project, highlighting the mismatch between community needs and developer priorities."
+        }
+      }
+    },
+    {
+      "block_id": 96,
+      "speaker": "SPEAKER_28",
+      "speaker_name": "Sheila McClucas",
+      "start": 6794.33,
+      "end": 6917.23,
+      "text": "there does not fit into sunny side so thank you thank you sir yes right there sheila mcclucas mc capital c l-u-c-a-s as a resident of sunnyside i would like some clarification on this if he build 79 buildings and we're not able to build anymore are we as residents going to be informed because I have another property out there and eventually would like to do something with and if he puts 79 units in which you know is it gonna to limit what i can do on that other property okay the church has what three vacant lots is that going to limit what they can do on their lives um you know so that is a concern that i'm having at the moment um and knowledge you know nobody really seems to know for sure if he does 79 if we can't do anything else so that does need some clarification on our resident end maybe somebody wants to build on and they can't you know as families grow you know some of your families are parents grandparents and kids sometimes now because they can't afford to have a living arrangement all of their own okay so if they have to build on but they can't that presents a problem in the community that's my concern and being important is the number one thing with that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or municipal budget concerns; it focuses on zoning density and future development rights."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker explicitly asks for clarification on development limits and expresses concern about a lack of knowledge regarding future restrictions, which touches on information asymmetry and the need for transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts related to the data center or development."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions affordability and housing, the focus is on individual property rights and zoning clarity rather than systemic inequality, historical extraction, or the distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 106,
+      "speaker": "SPEAKER_24",
+      "speaker_name": "unknown",
+      "start": 7144.69,
+      "end": 7400.28,
+      "text": "yes sir right i do i i excuse me uh clifford right um i was listening to the plans and i think joe's he's really taking a beating here on this because i remember when we were sitting in that same seat looking for approval for so we can catherine black can put her place in and we went through pure hell to do that and i feel for the guy i think this plan may need some adjustment there but also there's a lot of sore laterals in sunnyside that's not even being used because i think uh back in 1984 they well stewards went in like 85 i think something like that so i think like they took 200 houses out of there there was over 100 houses that were removed from sunnyside because the landlords didn't want to put the money into the houses to meet city code so there is a lot of laterals out there that are not being used now i know there's a lot of people that are not in favor with with joe's plan myself i could not afford that but we can't grow with you know in order to grow you have to have an open mind with things yeah he needs adjustment there's a lot of people even my friends are not happy with it i get that but at the same time what if it was your plan and you're trying to do this you know i just i just think it's unfair for joe to get beat up the way he did um and uh he's got some work to do i agree but i don't see it as a total wipe out i'm sorry sunny side could use some improvement maybe not 300 some thousand dollar houses but that's an expensive project do you buy the land that all the fees involved lawyers engineers permits plum you know it's a lot how do you get your money back you know those houses were a hundred thousand dollars or 150 000 a piece he'd never get the money back his children's grandchildren would reap the benefits from that project so you know he might have to adjust his prices I agree but in order to do something like that it takes money and that's why the city never developed in Sunnyside because it wasn't feasible for them because they didn't see no way how can you build low-income houses there's no money there there's no money to be made so I I think Joe needs a little bit of relief here I'm sorry community I i lived out there i know you people but i do uh believe in expanding i believe in growth and like i said i look at him as a what if that was me what if i wanted to do something you know wow yeah i mean but there has to be a change in sunny side you know maybe this is it maybe not but um i just want the panel and and my neighbors to give the guy a chance you know and and maybe help him instead of condoning the project give him some ideas some input hey joe you know what about this what about that how can that help help us how can we help you joe you know so so that's but bernie i'm just saying i remember bernie i remember when eddie had to go for permission to put the place in you're living in now it's the same thing bernie he didn't have",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or municipal budget burdens; it focuses on housing development feasibility and developer support."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "The speaker references past planning processes and suggests the panel should give the developer a chance and provide input, but does not explicitly critique transparency, notice, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The speaker critiques the feasibility of low-income housing in Sunnyside due to lack of profit, touching on economic barriers, but does not explicitly frame the data center as an inequality issue or challenge the jobs narrative."
+        }
+      }
+    },
+    {
+      "block_id": 108,
+      "speaker": "SPEAKER_24",
+      "speaker_name": "unknown",
+      "start": 7407.7,
+      "end": 7501.16,
+      "text": "the audience right right i'm sorry but i'm i'm just saying i we've all been here before anybody that wants to put something in out there we've all been here before for zoning to do that and we had to go through the same thing joe's going through his plans is bigger that's all but i'm saying you know when k when we had put signs up for zoning for her her place to go in i was worried to death man who's going to show up and oppose against it you know and what am i going to say to to to defend her in her defense you know and we did have lots of problems they didn't want her house out there it's too big it's too beautiful they didn't want it but we got it we it fought but thank god for mayor smith call charlie smith call he stood up for her and said it's going to happen but i'm just saying and now it's you know it's beautiful it sits right in there i'm just saying give the man a chance that's how i i'm a fair guy whether you like it or not i'm fair and i think everybody deserves a fair chance a fair shake and something like this or whether you're putting a single home in a trailer or anything and i i don't understand the sewer the sewage because there's a lot of units taken out so there's a lot of stuff that's not being used in the city for that and i think guy i think they need to re re-look at that i honestly do",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.2,
+          "reasoning": "The speaker briefly mentions sewer/sewage capacity and unused units, which touches on municipal infrastructure, but the focus is primarily on fairness and process rather than a detailed concern about resource strain."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly references past zoning battles, the role of Mayor Smith in approving a previous project, and frames the current situation as a matter of fairness and process, directly engaging with how decisions are made and defended."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The speaker references a past struggle where a developer was opposed due to size/aesthetics but was supported by the mayor, hinting at power dynamics, but the core argument is about fairness and giving a chance rather than systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 109,
+      "speaker": "SPEAKER_21",
+      "speaker_name": "unknown",
+      "start": 7501.16,
+      "end": 7516.36,
+      "text": "because exactly i know that folks we're not we're not having conversations we're not having conversations among the audience we're here for testimony right uh you know i'm just saying i",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or infrastructure costs."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker notes a lack of conversation among the audience, hinting at a desire for more community engagement, but does not explicitly address official transparency or oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 110,
+      "speaker": "SPEAKER_24",
+      "speaker_name": "unknown",
+      "start": 7516.36,
+      "end": 7521.48,
+      "text": "just think the man deserves a fair chance that's all i'm saying okay thank you okay i would just",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment expresses a general sentiment of fairness but does not mention electricity, water, waste, or infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions fairness, they do not address transparency, oversight, or distrust of officials regarding the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no reference to noise, air quality, health conditions, or quality of life impacts in this brief statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, vulnerable populations, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 114,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 7902.23,
+      "end": 7922.55,
+      "text": "my mind because the eco district while we don't have ordinances drafted out in full it does specify lot coverage and so to the point of fulfilling the goals of the ecodistrict going up reduces your lot coverage which also goes in line with having more ecological diversity in the area i'm not a code expert but i do think four plexes might be able to have uh structures with",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses lot coverage and ecological diversity within an eco-district context, but does not address municipal utilities like electricity, water, waste, or budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker references existing ordinances and goals but does not express concerns about transparency, information asymmetry, or distrust of officials regarding the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on lot coverage and ecological diversity rather than noise, air quality, health conditions, or the trade-off between health and economic benefits."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker does not address the distribution of costs and benefits, job creation narratives, vulnerable populations, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 115,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "unknown",
+      "start": 7922.55,
+      "end": 7934.15,
+      "text": "those sprinklers i could be wrong about that as soon as you hit three three it's so that's again two plexes a triplex you're instantly multi-family you are no longer residential building code but",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses building codes and zoning classifications (multi-family vs. residential) without mentioning utilities, infrastructure, or resource strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is making a technical observation about zoning and building codes rather than addressing transparency, oversight, or distrust of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this technical zoning comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or who bears costs, nor does it reference historical patterns of inequality or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 116,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 7934.15,
+      "end": 7938.03,
+      "text": "But even the sizing of your units, you have units that are all the same size.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment questions the uniform sizing of units but does not address electricity, water, waste, or municipal budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment critiques a design detail rather than the decision-making process, transparency, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or the trade-off between health and economic benefits."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits versus who pays, job creation narratives, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 117,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "unknown",
+      "start": 7938.69,
+      "end": 7944.79,
+      "text": "I mean, 1,200 to 1,800 square feet, two and three bedrooms is not the same size.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses housing unit sizes and bedroom counts, with no mention of municipal utilities, infrastructure, or resource strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making processes, transparency, or accountability regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no reference to physical health, noise, air quality, or quality of life impacts in this statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss wealth distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 118,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 7944.81,
+      "end": 7956.25,
+      "text": "Do you have a listing of how many different sized units are offered? Because just from the plans here, and maybe there's more detail, but looking at these plans, they all look approximately the same size.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks about housing unit sizes and does not mention electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a procedural inquiry about the development plans rather than a critique of the decision-making process, transparency, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns related to the data center operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, wealth distribution, or historical patterns of extraction and neglect."
+        }
+      }
+    },
+    {
+      "block_id": 119,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "unknown",
+      "start": 7956.51,
+      "end": 8007.98,
+      "text": "So we did that very strategically. So this is representing a footprint. That footprint, if you look very, very closely, it includes even portions of the garage and the private outdoor living spaces that are also required. Every home now is required to provide 75 square feet of private outdoor space. That footprint, we've strategically laid out the site to allow for any home to go anywhere. So if, again, and that is directly trying to get more diversity. If we said, oh, we can only put this specific two-bedroom right here, if no one buys it, that stinks. We did not want that. We wanted an ability for somebody to say, look, that's what I want. Or, hey, we want a bigger house. Can we get that house there? Yes.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses residential housing design and diversity, not municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is describing a development strategy for housing diversity, not addressing transparency, oversight, or distrust of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or the trade-off between economic benefits and health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on housing design and diversity, not on who bears costs, job creation critiques, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 120,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 8009.91,
+      "end": 8060.4,
+      "text": "1,200 to 18 isn't a huge diversity of range for me, especially when talking about multi-generational housing support. depends on how big the family is of course but three generations can get pretty wide and yeah I just don't feel the creativity has been explored here I don't know your pro forma looks like but as I understand it you acquired the sites for in total six hundred fifty thousand dollars roughly is that is that sir okay like you have a big site and a lot of room to play like like I said earlier if you were just talking about some units of housing i would be way more palatable to some of what's being proposed but you're just putting this across the entire site and that's what we can expect for the entire future of sunnyside then and that's that's concerning and disappointing",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses housing diversity and site acquisition costs but does not address municipal utilities like electricity, water, waste, or the city's budgetary capacity to handle infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker questions the pro forma and site acquisition, they do not frame this as a failure of municipal decision-making, transparency, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on housing design and site usage rather than physical health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker critiques the housing proposal's lack of diversity and creativity but does not explicitly connect this to broader patterns of wealth distribution, historical extraction, or who benefits versus who pays."
+        }
+      }
+    },
+    {
+      "block_id": 126,
+      "speaker": "SPEAKER_23",
+      "speaker_name": "Susan Shorty",
+      "start": 8604.95,
+      "end": 8983.11,
+      "text": "susan shorty t-s-h-e-b-y i just have a few things i'm concerned with i'm 71 years old born and raised in sunnyside so our family is generational from my parents to me and now to nieces and nephews um i plan to leave my house in the family i have ground in front of it where i have room to put another residential building someone can live in with now when i'm gone i don't know what my family would plan to do if they want to put a house there for someone in the family or whatever My other concern is the traffic on Duke Street. That is a road, it's a racing road all the time. We used to call it the highway, because that's how bad that's traveled. And I think they need to do another study about how safe it is going in and out of Davis Street. Because I even drove out there, and it was hard to get out or get in in because of the traffic coming down and going up duke street and they people don't follow the speed limit so you had to really watch to get in or out and still stay safe another issue i have i want to know about um this is kind of off the wall since they're playing on 350 000 homes which are not affordable my home was built in 1925 out there it was remodeled in 1989 that was the year i first got water they could not jackhammer my ground they had to use dynamite because of all the rocks now if they start blasting up in the junkyard area is that going to affect the foundation of my house i'm like right against their property they need my property and uh it's sort of like in the hill my house and then the hill goes up i'm also concerned about drainage storm drainage coming down the hill what would that would do to my house also about the trees and stuff because four years ago we had a lot of wind trees came down off of that property and pulled the electric line out of my house and the fire company had to come out here and put off the streets off in case there was a fire i have lived out there long enough to see fires out there and saw houses burn down to the ground and then to be concerned about all the trees and everything it is a safety issue whether you're going to be up there or not i don't like the thing about the water resources for that it's not safe enough i don't think for you know i would be concerned and worried because if it's dry in the summer and there's a wind going and one of them houses might have a fire sparks deal with the air and those trees they catch I could lose my house or anybody else around there that's going to be close to the buildings you're going to be building. And as far as the junkyard, that ground is not clean. I'm no chemist scientist or whatever, but I'm not stupid either. That oil from the old cars, when they were pushed down to make room for more cars, That oil wasn't drained before they went to the docks. Some of them cars probably were in accidents. And you know, the fluid just ran out of the car and into the ground. And after all them years, and when it rained and stuff, that stuff went deep. It's not just a small area or close to the top of the ground. It's a good idea to take the soil off, but how much soil are you going to have to take off to get it to where it's going to be safe? i wouldn't want to have a house up there with plenty of stuff no way it's going to contaminate whatever is up there and there are certain parts if you look out there that stuff will not grow and then there's other parts of sunnyside arkansas and sort of the wooden stuff it's it's great i have uh stuff that the inscapers use for ground coverage where it holds the soil and stuff together it grows naturally in my backyard i mean there's there's um the environmental stuff the trees the plants there are eagles that live back by the park i mean there are you know animals too out there that some are on the they have to watch you're not allowed to kill them or whatever and i know a couple years ago they someone was allowed to hunt out there and i got really upset because they would go up on the hill behind my house and at that time i had a dog that kept outside and inside and i was always afraid he was going to shoot an hour or whatever whatever he was using and it wouldn't hit with the deer it would hit my house or my dog and i didn't appreciate that either so there's a lot of things that we've really lived without a lot of things because of the attitude the city had with our area and it wasn't only them it was also lamb peter when lamb peter owned the sunny side peninsula so this goes way back it's not just something new you know my house is only assessed at 46 000 now what does that look like against 350 000 and how many people living in magister that want to own a house a first-time house can't afford 350 000 i mean",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The speaker raises concerns about water quality and safety, storm drainage, and potential contamination from the junkyard site, which aligns with the theme of strain on municipal resources and environmental safety."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "The speaker expresses general frustration with city attitudes and historical neglect but does not specifically address the transparency, notice, or oversight of the current data center decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.7,
+          "reasoning": "The speaker explicitly connects the project to safety risks including fire hazards, air quality, and potential contamination that could affect their home and health, framing it as a direct threat to well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.9,
+          "reasoning": "The speaker directly challenges the affordability of the project (350,000 homes) versus their own property value, highlights historical neglect of their area, and frames the issue as one of wealth and power distribution."
+        }
+      }
+    },
+    {
+      "block_id": 127,
+      "speaker": "SPEAKER_21",
+      "speaker_name": "unknown",
+      "start": 8983.11,
+      "end": 8991.83,
+      "text": "that's the unrealistic not too many okay ma'am i i think that the the issue of the fact that this",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is fragmented and does not mention electricity, water, waste, or infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, oversight, or the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no reference to noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing, wealth distribution, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 128,
+      "speaker": "SPEAKER_23",
+      "speaker_name": "unknown",
+      "start": 8991.83,
+      "end": 8996.87,
+      "text": "was going to make that understood that to me that is not affordable but ma'am we've heard from about",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a fragmented sentence that does not address electricity, water, waste, or municipal budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss decision-making processes, transparency, oversight, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address cost-benefit distribution, job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 166,
+      "speaker": "SPEAKER_27",
+      "speaker_name": "Kyle Postalwait",
+      "start": 11203.05,
+      "end": 11457.65,
+      "text": "chairman polite members of uh the commission dr finn members of the public my name is kyle postalwait here from town square engineering representing the property owner which is woodward street llc represented tonight by mr eugenio humais behind me we're discussing 523 woodward Street. This property highlighted there with frontage on both Woodward Street and White Owl Alley, a public alley. The existing property has one single family semi-detached home or an end unit of a row home and the rest is totally empty, just grass and such. The existing home, as Dr. Finn mentioned, is being renovated as part of the Rackle process. But the proposed subdivision of this 0.142 acre property will create two new properties, thus bringing this lot to three lots. And the proposal is to add on two new units onto that existing end unit, thus creating a new single family attached unit and semi-detached unit both of the all three units both the existing and the two proposed would then have paved parking spaces one for each accessible from the alley a small sidewalk going up to the back of the house they will both be connected with new water and sewer laterals one for each property these are proposed to be fee simple lots I'll now discuss the other site features regarding stormwater management it is handled on each property separately so you will see highlighted here a small stormwater infiltration trench beneath the parking area and some grass area of the backyards of each unit and the last site feature I'll mention is the landscaping you'll see three street trees proposed on Woodward Street these will be the first street trees on Woodward Street and they are planted within a small planting strip that runs the length of the frontage so these will be the first three and on the theme of trees are one waiver requested which the shade tree Commission has already signified approval of is regarding street trees it's one ordinance section but sort of a two-parter and that is not to provide street trees on White Owl Alley and the second is for reduced tree spacing between two of the trees due to some utility conflicts these lots are on the slim side so to get 20 feet between each trees is pretty difficult here other past approvals I'll mention namely is a zoning variance that was granted in March of 2024 that allows a reduced front width and lot width that is and a lot area for the single-family semi-detached unit that would be proposed lot 3 here on the end instead of 25 feet width and 2500 square feet we proposed 24.83 feet width and a 2137 square feet I believe other approvals we already have. The city has adopted the Act 537 planning for sewage and the Department of Environmental Protection has already accepted that as well. And lastly I'll note that we've been through a few rounds of review with the city staff and their consultant already. And at this point the comment letter from C.S. Davidson is mostly clean barring a few little plan notation updates and little things like that and at this point any questions about the plan",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a technical presentation by an engineer about a residential subdivision proposal, not a public comment expressing concern about municipal resource strain. It mentions water/sewer laterals and stormwater management as site features, but does not frame these as burdens on the city's infrastructure or budget."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is presenting a pre-approved plan with existing variances and approvals, not criticizing the process, transparency, or accountability of officials. There is no expression of distrust or demand for oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment contains no discussion of health impacts, noise, air quality, or quality of life. It is purely a technical description of a residential development plan."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker represents a property owner and is describing a development proposal without any critique of power dynamics, job creation, or unequal distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 176,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 11662.16,
+      "end": 11679.24,
+      "text": "parcel into three that will be able to be done and the blighted property will just be one of those parcels is that correct and those other two would then be able to be sold am i am i tracking like",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on parcel division and property sales, with no mention of utilities, infrastructure, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is seeking clarification on zoning mechanics rather than expressing distrust, demanding oversight, or criticizing the transparency of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no reference to noise, air quality, health impacts, or quality of life concerns in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, historical extraction, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 177,
+      "speaker": "SPEAKER_19",
+      "speaker_name": "unknown",
+      "start": 11679.24,
+      "end": 11686.72,
+      "text": "what well so if the subdivision goes along with the land development okay so they travel together",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions subdivision and land development but does not reference electricity, water, waste, or budgetary strain on municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of decision-making processes, transparency, oversight, or accountability regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address noise, air quality, health impacts, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, wealth distribution, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 178,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 11686.72,
+      "end": 11700.52,
+      "text": "they can't subdivide and then now okay thank you and the city was um supportive of this plan yes",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or budgetary strain on city resources."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker references the city's support for a plan and subdivision, touching on municipal approval processes, but lacks explicit criticism or demands for transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 179,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 11703.52,
+      "end": 11720.72,
+      "text": "and again the square footage on a single unit is again um the square foot of the footprint",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses square footage and footprint dimensions without mentioning utilities, infrastructure, water, waste, or municipal resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a technical clarification about building dimensions rather than a critique of decision-making, transparency, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this brief technical remark."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, job narratives, vulnerable populations, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 216,
+      "speaker": "SPEAKER_16",
+      "speaker_name": "unknown",
+      "start": 13761.13,
+      "end": 13792.33,
+      "text": "really like on the radar at that point yeah i mean i agree with not wanting storage facilities in r3 and r4 i just don't i don't know that i'm supportive of making it easier to build these kinds of facilities i mean it it seems like it makes sense for this site but you know they don't they don't create many jobs they don't you know they don't foster like pedestrian activity like and even in i mean even in this site like you you are right next to like a strip mall that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or municipal budget concerns; it focuses on job creation and pedestrian activity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss transparency, notice, oversight, or distrust of officials; they are expressing a personal opinion on zoning and development."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or the trade-off between health and economic benefits."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.6,
+          "reasoning": "The speaker challenges the job-creation narrative by arguing that the facilities do not create many jobs or foster pedestrian activity, aligning with Theme 4b."
+        }
+      }
+    },
+    {
+      "block_id": 217,
+      "speaker": "SPEAKER_14",
+      "speaker_name": "unknown",
+      "start": 13792.33,
+      "end": 13798.96,
+      "text": "you know that has uh and some pedestrian activity so i don't know i i i'm i would be concerned about",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions pedestrian activity but does not address electricity, water, waste, or municipal budget concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no reference to decision-making processes, transparency, or accountability in this brief statement."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While pedestrian activity relates to quality of life, the comment is too vague to connect to specific health concerns like noise, air quality, or disease."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 218,
+      "speaker": "SPEAKER_16",
+      "speaker_name": "unknown",
+      "start": 13799.52,
+      "end": 13806.0,
+      "text": "like allowing making it easier to do this kind of thing and even in the cm districts i think that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or budgetary concerns related to municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker references the Planning Commission and CM districts, indicating a focus on the procedural framework and zoning mechanisms."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 231,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 14104.25,
+      "end": 14121.05,
+      "text": "to build the size storage facility that they want to build at that site they would need to go through the variance process so it wouldn't just be special exception because our ordinance doesn't discussed self-storage beyond the 20 000 square feet so they would need a variance to exceed that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on zoning regulations and square footage limits, not on municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "The speaker references the city's ordinance and variance process, indicating engagement with municipal rules, but does not express distrust, demand oversight, or criticize transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or who pays, nor does it critique job creation narratives or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 232,
+      "speaker": "SPEAKER_22",
+      "speaker_name": "unknown",
+      "start": 14121.05,
+      "end": 14135.8,
+      "text": "by 150 percent we're not going to go through this right is there that much demand for self-storage i think now is probably the right time for alyssa to speak to that the answer the short answer is",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment questions the demand for self-storage but does not mention electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is questioning the logic of the project's justification but does not address transparency, official accountability, or community oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns in this brief statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 233,
+      "speaker": "SPEAKER_17",
+      "speaker_name": "unknown",
+      "start": 14135.8,
+      "end": 14158.09,
+      "text": "yes i mean it's coming it's popping up everywhere it's an eyesore it's not nice in communities but it's necessary in some places this particular parcel i'm not against it i just i'm concerned about the sweeping rule for all parcels in lancaster can you come up please thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker does not mention electricity, water, waste, or budgetary strain on city infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker expresses concern about a 'sweeping rule for all parcels' and asks the council to 'come up,' indicating a desire for more specific or localized decision-making rather than a blanket policy."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss noise, air quality, health conditions, or the trade-off between health and economic benefits."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker does not address job creation, housing needs, vulnerable populations, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 234,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 14163.59,
+      "end": 14224.68,
+      "text": "and i can plot the exact numbers right now in lancaster we manage 600 storage facilities but i live right here in lancaster and in the supply of self-storage in the state of pennsylvania is about eight square feet per capita in lancaster within and people use storage within a three mile radius of where they live so it's got a lot of people downtown and really only a handful of very small self-storage properties nearby the occupancy is very high and the rates are really high because they're full so the i think the supply i'll find the number but it's 4.1 square feet per capita the estimated demand is nine square feet per capita so people downtown are driving much further away to find the space and they're paying a lot more than they need to so this is a very relative to many markets i look at across the country this is very underserved what's",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses self-storage facility supply and demand, not municipal utilities like electricity, water, or waste management. It does not address infrastructure strain or municipal budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is presenting data about storage facility occupancy and market conditions, not commenting on the transparency, notice, or accountability of the city council's decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts related to data center operations. The focus is purely on real estate market dynamics."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions high rates and underserved markets, they do not frame this in terms of who benefits versus who pays, historical extraction patterns, or the distribution of costs and benefits between vulnerable populations and developers."
+        }
+      }
+    },
+    {
+      "block_id": 235,
+      "speaker": "SPEAKER_22",
+      "speaker_name": "unknown",
+      "start": 14224.68,
+      "end": 14266.41,
+      "text": "happening that we pent up demand is pushing all the self-storage into places it doesn't want to be can't really be controlled from a security standpoint from just the surrounding land value standpoint so this type of thing really does is push the supply where it should be in a very secure regulated safe fashion so it's it's a response to the pent-up demand market and also smart planning changing really the zone where it wants to be i think it's a smart idea especially",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary strain on municipal infrastructure; it focuses on market demand and land use."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker supports the project as 'smart planning' and does not critique the decision-making process, transparency, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns in this supportive comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment frames the project as a positive market response and does not discuss who benefits, who bears costs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 236,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 14266.41,
+      "end": 14299.45,
+      "text": "in the location i mean your traffic constraints are valid f m's right there though so the students probably could utilize that property a lot for self-storage but i think i don't think anyone up here is concerned about this specific proposal it's just a concern about what other proposals might come from it uh in the interim of like like i said earlier like we need to do the overall comprehensive plan update which isn't your fault um so i'd like to see you move forward but i i'd also think there is a need for pause that's just my opinion",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions traffic constraints but does not discuss electricity, water, waste, or municipal budgetary capacity, which are the core concerns of this theme."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker explicitly calls for a pause and references the need for a comprehensive plan update, indicating a desire for more deliberate, community-led planning processes rather than immediate approval."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or the trade-off between economic benefits and health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or historical patterns of extraction and inequality."
+        }
+      }
+    },
+    {
+      "block_id": 268,
+      "speaker": "SPEAKER_17",
+      "speaker_name": "unknown",
+      "start": 15108.94,
+      "end": 15115.5,
+      "text": "why are we lessening the acreage don't we want to increase the acreage the lessening of the acreage",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment questions the reduction of acreage but does not mention utilities, infrastructure, water, waste, or municipal budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker questions a planning decision, they do not address transparency, information asymmetry, or distrust of officials regarding the process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts in this brief statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not reference job creation, housing needs, vulnerable populations, or historical patterns of extraction and inequality."
+        }
+      }
+    },
+    {
+      "block_id": 269,
+      "speaker": "SPEAKER_19",
+      "speaker_name": "unknown",
+      "start": 15115.5,
+      "end": 15128.94,
+      "text": "will make it apply to less lots less lots i was thinking so by going from instead of it being three to seven acres it being three to five it will include less lots yeah it would impact um",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses zoning lot size changes (3-7 to 3-5 acres) but does not mention electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is discussing zoning parameters and lot counts, not the transparency, notice, or accountability of the decision-making process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns in this brief zoning comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or the distribution of costs and benefits."
+        }
+      }
+    }
+  ]
+}

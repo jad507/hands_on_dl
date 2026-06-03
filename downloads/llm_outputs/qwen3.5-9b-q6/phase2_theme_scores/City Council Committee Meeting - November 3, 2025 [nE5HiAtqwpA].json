@@ -1,0 +1,659 @@
+{
+  "title": "City Council Committee Meeting - November 3, 2025",
+  "video_id": "nE5HiAtqwpA",
+  "upload_date": "20251104",
+  "model": "qwen3.5-9b-q6",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 159,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Jeffrey Zorman",
+      "start": 3644.04,
+      "end": 3664.8,
+      "text": "agenda is the historical historical Commission's recommendation for 248 South Ann Street is there anybody here for that good evening Jeffrey Zorman from Ann Street and the owner I recently purchased a house and on the properties",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions property ownership but does not discuss electricity, water, waste, or infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker references an agenda and a commission recommendation but does not express distrust, demand oversight, or critique the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, historical extraction, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 160,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Jeffrey Zorman",
+      "start": 3664.8,
+      "end": 3670.8,
+      "text": "there is a garage that is very badly rotted has much structural damage I",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions a rotted garage with structural damage but does not connect this to the data center project, municipal utilities, or city infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no reference to city council decisions, transparency, or the process surrounding the data center proposal."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment describes property damage but does not link it to health impacts, noise, air quality, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address wealth distribution, job creation, or who bears the costs versus benefits of the project."
+        }
+      }
+    },
+    {
+      "block_id": 161,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Jeffrey Zorman",
+      "start": 3670.8,
+      "end": 3680.95,
+      "text": "would like to tear that down put in a small pre-manufactured shed fence in the property so that it can be used as a play area for my children thank you so",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on a personal desire to modify a property for children's play, with no mention of municipal utilities, infrastructure, or city resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no reference to city council decisions, transparency, oversight, or the legitimacy of the governance process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the comment mentions children, it frames them as beneficiaries of a play area rather than victims of health risks or environmental harm."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address wealth distribution, job creation, historical extraction, or the uneven burden of costs versus benefits."
+        }
+      }
+    },
+    {
+      "block_id": 189,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Domingo",
+      "start": 4123.83,
+      "end": 4133.47,
+      "text": "champagne Domingo I am a tenant operating univision childcare but I am applying as a partner of Southwest End Holdings we are the proud new owners of",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment introduces the speaker's identity and business interests but does not mention electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, decision-making processes, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 190,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Domingo",
+      "start": 4133.47,
+      "end": 4138.91,
+      "text": "the historic slave maker lock building so I'm here tonight to share the slave",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions a historic building but does not discuss electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making processes, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The reference to a 'slave maker lock building' invokes historical patterns of exploitation and inequality, connecting the site to past injustices."
+        }
+      }
+    },
+    {
+      "block_id": 191,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Domingo",
+      "start": 4138.91,
+      "end": 4171.27,
+      "text": "maker renewal project in an effort to revitalize one of Lancaster's true landmarks it sits on Southwest End Avenue between 1st Street and 2nd Street we are home to about 35 current small businesses including Lancaster Conservancy petals with style posh bridal and luxe salon and spa and the bird in hand farms corporate office at nearly at over 90,000 square feet and nearly three acres most sites of that scale are either industrial or",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment describes the current state of the property and its businesses but does not discuss strain on municipal utilities, infrastructure, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no mention of decision-making processes, transparency, or accountability regarding the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss who benefits or who bears costs, nor do they challenge the job creation narrative or reference historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 251,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Tony Dash",
+      "start": 5404.35,
+      "end": 5501.04,
+      "text": "sense yes thank you are there any further questions from council i'll i'll entertain questions or comments from the public thank you well here's mr dash just coming oh sorry counselor greg uh tony dash is 700 block in new holland avenue i think everybody already knows that i personally disagree with this but i just want to understand what the vision here is if a sale does occur like um i understand we've gone through bidding processes they haven't gone smoothly i'm recognizing that the city is wanting to get rid of the property i feel there's more value in keeping it but what is the hope for the property to do for us like is there a certain budget offset specifically we're going for and i'm just asking because i only see short-term returns on selling the property when if we keep and maintain it we could actually do something with it and the public could know that we could be pushed into doing something with it yeah thank you for the question i would say at this point uh we're looking at this with maximum flexibility i don't think that there is a definitive amount of money that we're looking to return on the property it really is this balance between what price is offered and",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss electricity, water, waste, or infrastructure burdens; they focus on property value and budget offsets."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker questions the city's vision and mentions bidding processes, showing some engagement with how decisions are made, but does not explicitly accuse officials or demand oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss job creation, housing needs, or historical patterns of extraction; they focus on property maintenance and short-term returns."
+        }
+      }
+    },
+    {
+      "block_id": 318,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7027.36,
+      "end": 7050.8,
+      "text": "directing traffic because there's a merge that's coming off of harrisburg pike and three lanes of traffic on dillerville road and so i appreciate that the use that's being considered for this is a low trip use even though i also appreciate council arroyo that a um you know highest best",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses traffic patterns and trip generation but does not address municipal utilities like electricity, water, waste, or budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions the council, the focus is on traffic logistics rather than transparency, oversight, or the legitimacy of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts on residents."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits versus who bears costs, job creation narratives, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 319,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7050.8,
+      "end": 7058.82,
+      "text": "use you know not i'm not you know storage facility got it you know i have and for this particular",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a fragmented statement about storage facilities with no connection to municipal utilities, infrastructure, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no mention of city council decisions, transparency, oversight, or the process of how the project was handled."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not reference health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of who benefits, who pays, job creation, or historical patterns of inequality is present."
+        }
+      }
+    },
+    {
+      "block_id": 320,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7058.82,
+      "end": 7087.2,
+      "text": "site also sitting down off of the it's just the visibility is also really difficult um because it's not at grade with dillerville road itself so those are just that's just my two cents the only thing i was going to tag on to that is it's not just trip generation and high volume it's also The one we considered most seriously was an industrial building but to get trucks in and out of that building is extremely",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions truck traffic and trip generation but does not discuss municipal utilities like electricity, water, waste, or budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker discusses site visibility and logistics but does not address decision-making processes, transparency, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts on residents."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on physical logistics and visibility rather than who benefits, who pays, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 324,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7115.37,
+      "end": 7133.47,
+      "text": "You know the challenges in the site and I frequent that shopping center as well and it's challenging But how did we get from there to the zoning amendments because I see that The how do we arrive at the removal of the special exception",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions site challenges but does not discuss electricity, water, waste, or budgetary burdens on municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker questions the procedural path from the current state to zoning amendments and the removal of special exceptions, directly engaging with how decisions were made and the legitimacy of the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 325,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7134.05,
+      "end": 7138.65,
+      "text": "Understanding that it's a limited. It's more limited and more on the map",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a fragmented observation about the map or project scope but does not address electricity, water, waste, or budgetary burdens on municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not reference decision-making processes, transparency, oversight, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, job narratives, vulnerable populations, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 326,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7138.65,
+      "end": 7150.14,
+      "text": "but it is also removing the special exception so can you talk about how we got to that sure removing the r3 and r4 special exceptions was something that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention utilities, infrastructure, water, waste, or budgetary burdens on the city."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker questions the procedural history of removing special exceptions, indicating a focus on how decisions were made and a demand for transparency regarding the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 336,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7386.72,
+      "end": 7390.32,
+      "text": "oh there's a self storage you know somebody could build a huge self storage",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment suggests an alternative land use (self storage) but does not discuss strain on municipal utilities, infrastructure, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making processes, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss who benefits or who bears costs, nor does it reference historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 337,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7390.32,
+      "end": 7394.64,
+      "text": "facility there and we don't you know our zoning doesn't match that is that kind",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary strain on municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly raises a zoning mismatch, which directly engages with the legitimacy and appropriateness of the municipal decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss who benefits, job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 338,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7394.64,
+      "end": 7401.66,
+      "text": "of the intention that's exactly right but we're primarily thinking about would be a lot consolidation because that's something that anyone could do by right",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses land consolidation and zoning rights but does not mention municipal utilities, infrastructure strain, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker references 'intention' and 'rights' but does not address transparency, oversight, information asymmetry, or distrust of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this brief statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on legal rights and land consolidation without addressing wealth distribution, job narratives, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 342,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7446.31,
+      "end": 7451.19,
+      "text": "uh when this did come to planning commission i do share your anxiety about storage units",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment expresses anxiety about storage units but does not mention electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker references the planning commission timeline but does not critique the process, transparency, or decision-making fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, wealth distribution, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 343,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7452.64,
+      "end": 7460.88,
+      "text": "i do think we're getting a good trade-off by preventing these in our currently zoned residential areas i also was concerned about expanding the permission of storage units in",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or municipal infrastructure burdens; it focuses on zoning and land use."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss transparency, official accountability, or the decision-making process itself, but rather the outcome of zoning decisions."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits versus who pays, job creation narratives, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 344,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7460.88,
+      "end": 7480.88,
+      "text": "our community but that's why the commission had conversation to really narrow this down to one site to prevent it from being a prolific thing and also the um as mr hirsch is pointing out with the date being affixed to it this is a good example of a property that suffers under our current",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions a property and commission decisions but does not discuss electricity, water, waste, or municipal budget burdens."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker references a commission's decision-making process and the rationale for narrowing down to one site, touching on governance but without explicit criticism of transparency or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this fragment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 363,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7782.37,
+      "end": 7802.02,
+      "text": "if we don't get the full million that is being requested for this against this 1.5 million dollar project i'm very open to questions at this moment thank you director campbell um so i read this with great interest i happen to live along this the stretch of street that we're talking",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions a project budget but does not discuss strain on municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions being open to questions, they do not express distrust of officials, demand oversight, or critique the transparency of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or the trade-off between financial benefits and health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker does not challenge the jobs narrative, discuss housing needs, or highlight uneven distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 364,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7802.02,
+      "end": 7812.52,
+      "text": "about so it's exciting hopefully we get the grant I have a couple just two questions I don't know",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment expresses general excitement about a grant but does not mention electricity, water, waste, or infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of transparency, oversight, or the decision-making process; the speaker is simply asking questions."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality of life is present in this brief statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 365,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7812.52,
+      "end": 7818.02,
+      "text": "from what I read that it's explicitly stated but I'm assuming we're talking about like rain gardens",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.2,
+          "reasoning": "The comment references rain gardens, which are stormwater management infrastructure, directly relating to municipal resource management and waste management concerns. However, the speaker is only asking for clarification on a specific detail rather than expressing a broader concern about strain on resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or accountability. It is a procedural question about a specific feature, not a critique of the process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life. The comment is purely about infrastructure clarification."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, job narratives, or historical patterns of inequality. It is a neutral inquiry about a specific amenity."
+        }
+      }
+    },
+    {
+      "block_id": 423,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 9028.49,
+      "end": 9056.74,
+      "text": "and I did a little research income I I looked up um York and Harrisburg Harris actually Harrisburg's population is lower than Lancaster's I find that amazing but um I looked up Harrisburg um Scranton Altoona different cities around Pennsylvania that have the close to the same",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker is comparing population statistics of different Pennsylvania cities but does not mention electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on demographic data and does not address transparency, decision-making processes, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts in this statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker is making a factual comparison about city populations without challenging job narratives, discussing vulnerable populations, or addressing wealth distribution."
+        }
+      }
+    },
+    {
+      "block_id": 424,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 9056.74,
+      "end": 9064.26,
+      "text": "population maybe a little under a little over just to kind of gauge where their council salaries are",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions council salaries but does not discuss electricity, water, waste, or infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While it references council salaries, it does not address transparency, decision-making processes, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address wealth distribution, job creation, or who bears costs versus who benefits."
+        }
+      }
+    },
+    {
+      "block_id": 425,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 9064.26,
+      "end": 9111.11,
+      "text": "some of their council salaries are incredible um Harrisburg right off the top of my head I don't remember the exact figure but I think Harrisburg might be somewhere around 20 and you know they're probably although Harrisburg is the capital their population is less than Lancaster Pennsylvania and all right that's just a little amazing that's it Thank You council Craig I knew that this is something that you've been thinking about as you know your service on council is winding down and I appreciate you know where you're coming from with",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses council salaries and population comparisons but does not address electricity, water, waste, or infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While it mentions a council member's service winding down, it does not address transparency, decision-making processes, or accountability regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment critiques council salaries but does not connect this to the data center project, job creation, or the distribution of costs and benefits."
+        }
+      }
+    }
+  ]
+}

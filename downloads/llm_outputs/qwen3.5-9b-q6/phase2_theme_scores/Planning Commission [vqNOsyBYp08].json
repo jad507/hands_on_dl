@@ -1,0 +1,139 @@
+{
+  "title": "Planning Commission",
+  "video_id": "vqNOsyBYp08",
+  "upload_date": "20250206",
+  "model": "qwen3.5-9b-q6",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 647.06,
+      "end": 663.74,
+      "text": "i was looking at the plan and i know there's one with a little bit more detail that was also sent to us um what are we looking at for egress or maybe windows on the um apartment side sure",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks about building egress and windows for an apartment side, which relates to building safety and design, not municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is asking for clarification on a specific plan detail rather than expressing concerns about transparency, decision-making processes, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or bears costs, job creation narratives, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 663.74,
+      "end": 807.71,
+      "text": "yes so the egress is gonna and i had done the original just hand drawing um architects kind of been working through what she's doing there so the access to the apartments is along west grand street so a few years back i had done the development of 30 north water street and that was creating micro apartments commercial on the first floor by doing that we you know dug down excavated to be able to to provide ada access for that building so the plan with these other apartments so 32 it's 32 and 34 north water street it's just deed wise it's called 32. so lancaster galleries joyce recently retired so i bought the building years back so our agreement was once she retired i was just going to develop the back part of that so the front part of it is staying commercial and then the rear part is this warehouse piece that was added i'm guessing probably in the 60s or something like that it used to be friendly taxi had they would drive in from the street and just work on their taxis in the back which is kind of interesting and unique for sure so ultimately to get access to those we're going to use the current ada ramp which has the level air at the bottom there so based on calculations it's about three inches difference to be able to ramp up to the concrete warehouse floor which is why you see that cut in you know there inside the door that we're going to create there so right now we have mini split HVAC so we're just going to move those over and just extend the entrance you know into that warehouse at that property so as far as windows there are a few small windows around the sides of the the warehouse so as we kind of work through that we're figuring out if egress windows are necessary and previously in the past there had been about eight skylights as part of the roof structure there so we're going to look to add those as well so to get the natural light into the apartments",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses architectural details, ADA access, and HVAC systems for a specific apartment development but does not address municipal utilities, grid strain, water supply, or e-waste concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker describes their own development history and architectural plans without criticizing the city council's decision-making process, transparency, or oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or the trade-off between economic benefits and health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on property development logistics and does not address job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 947.6,
+      "end": 965.27,
+      "text": "were doing the only real question I have is you answered the question slash concern I had at the last meeting which is the commercial space because it's on the water street with the bike lane correct on the note of bike lanes do you have any uh bike parking at your facilities around here",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks about bike parking at the facility, which is a minor infrastructure detail unrelated to municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker references a previous meeting but does not express distrust, demand for oversight, or critique of the decision-making process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, historical extraction, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 965.27,
+      "end": 1023.22,
+      "text": "so there is um at 210 west grand street we have a built-in um bike parking and that at 30 north water street we had like a bike rack you know set up so i mean it's kind of not bolted down but i mean it's available for bike parking. And I had spoken to Jamil about that so. I'm just curious about the size of these apartments. So right around 400 square feet or so. So you know the warehouse itself that's where we're just kind of working through dimensions. So the warehouse itself is about 2,400 square feet. So she was showing these at a little over 400 so which is like 16 so i mean i figure there's probably square footage somewhere that just wasn't calculated but you know studio type apartments so nothing below the minimums that the city requires",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses apartment dimensions and bike parking but does not address electricity, water, waste, or municipal budget burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker questions square footage calculations but does not frame this as a failure of transparency, lack of notice, or distrust of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or the trade-off between economic benefits and health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on physical dimensions and parking logistics without addressing job creation, housing needs, or unequal distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 1024.39,
+      "end": 1030.87,
+      "text": "yeah i mean i think this is a great project especially at that size yeah i mean the ability",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment expresses general support for the project's size and potential without mentioning electricity, water, waste, or infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no reference to decision-making processes, transparency, oversight, or accountability in this brief statement."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The speaker does not raise concerns about noise, air quality, health impacts, or the trade-off between economic benefits and health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or the distribution of costs and benefits."
+        }
+      }
+    }
+  ]
+}

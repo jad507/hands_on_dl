@@ -1,0 +1,35 @@
+{
+  "title": "City Council Committee Meeting - July 1, 2025",
+  "video_id": "GduwovKQ8ek",
+  "upload_date": "20250702",
+  "model": "qwen3.5-9b-q6",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4380.12,
+      "end": 4440.44,
+      "text": "swan hotel project good evening turning around so many times good evening uh lauren finn senior planner for the city this um this sewer planning module is for the swan hotel redevelopment so it's located at 101 south queen street we've been looking forward to the redevelopment of of this hotel for a while it's an interesting piece in that it actually doesn't have to go through a full land development because they're not changing so much to the footprint of the building so they're just going through kind of an abbreviated process in land development and the process with the county as well for the sewer module thank you thanks any questions or comments from council",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses a hotel redevelopment project and sewer planning module, not an AI data center. It does not address electricity, water, waste, or budgetary burdens related to data center infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a procedural update from a city planner explaining the scope of a hotel project. It does not express distrust, demand oversight, or critique the transparency of the data center decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment contains no mention of health impacts, noise, air quality, or quality of life concerns related to data center operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, wealth distribution, or historical patterns of extraction. It is a neutral administrative update about a different project."
+        }
+      }
+    }
+  ]
+}

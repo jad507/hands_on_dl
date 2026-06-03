@@ -1,0 +1,1985 @@
+{
+  "title": "City Council Special Meeting - November 20, 2025",
+  "video_id": "aZVPtb9bsEE",
+  "upload_date": "20251121",
+  "model": "qwen3.5-9b-q6",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1537.96,
+      "end": 1550.52,
+      "text": "You mentioned that once the work is done, that it would be tested, the levels of noise would be tested. Who's going to be doing the testing?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks about noise testing but does not mention electricity, water, waste, or municipal infrastructure costs."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker questions who will conduct the testing, which aligns with the demand for community-led oversight and participation in monitoring operations."
+        },
+        "health_and_well_being": {
+          "score": 0.6,
+          "reasoning": "The comment explicitly references noise levels, which is a direct signal of concern regarding noise pollution and quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 43,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1550.52,
+      "end": 1553.4,
+      "text": "Don't know that that has been established.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a brief statement of uncertainty about a fact but does not reference electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While it expresses uncertainty, it does not explicitly address transparency, oversight, or the legitimacy of the decision-making process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this brief remark."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, job narratives, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1553.4,
+      "end": 1562.22,
+      "text": "Typically, you would hire a third-party consultant to do the testing in line with standard industry practices.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses industry testing standards but does not mention municipal resources like electricity, water, waste, or budget."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker is critiquing the lack of independent oversight and standard industry practices, implying a demand for community-led monitoring and transparency in the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While testing standards might relate to safety, the comment does not explicitly mention health impacts, noise, air quality, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits versus who pays, job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 222,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Bill Simonson",
+      "start": 5787.98,
+      "end": 5882.54,
+      "text": "many people that wish to do so please begin with your name and block of residence for our meeting record you'll be asked to do that and again comments are limited to three minutes per speaker good evening and thank you yes Thank You council members and mayor for having this and it's Bill Simonson this November marks my 14th year living in the city your block of residence right sorry I live on 836 Roll Ridge thank you right at the street from the Lancaster rec first off my apologies I had a lot of fire and brimstone prepared and then the CBA came out so I've sort of amended my remarks so if I ramble a little bit my apologies um first let me just say that seeing everybody here tonight uh my undergrad and graduate work was on participant participatory democracy so seeing this many people show up i know um when we participate in good faith even if we disagree it makes our country stronger so i'm hopeful for that um you know so often these days when we turn on the tv or open your phone so you you you look at the newspaper you kind of realize in many ways i think we blew it and in some ways i i kind of think that's the case here um you know we talk a lot about the benefits of ai well we're i think if i can explain some of the frustration in here",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker does not mention electricity, water, waste, or infrastructure costs. The comment focuses on democratic participation and the community benefits agreement (CBA) rather than municipal resource strain."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly references the CBA and expresses frustration with the process, noting they had prepared 'fire and brimstone' remarks but amended them after the CBA was released. This signals engagement with the legitimacy and transparency of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts. The speaker's focus is on democratic engagement and the CBA document."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions 'benefits of AI,' they do not discuss who bears the costs, job creation critiques, or historical patterns of inequality. The focus remains on the democratic process and the CBA."
+        }
+      }
+    },
+    {
+      "block_id": 223,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 5882.54,
+      "end": 5892.06,
+      "text": "and across our country and i think this is going to be an issue in 2026 and in 2028 ai I mean, we're living in a moment here that wasn't of our own choosing.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses the broader societal context of AI development but does not mention municipal infrastructure, utilities, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not address the city council's decision-making process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the comment implies a lack of agency, it does not explicitly discuss physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The speaker frames the AI moment as something imposed on the community ('wasn't of our own choosing'), highlighting a lack of agency and control over technological forces that shape their lives."
+        }
+      }
+    },
+    {
+      "block_id": 224,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 5893.1,
+      "end": 5931.26,
+      "text": "You know, we are watching tech billionaires sort of steer us into an arms race with China over AGI or ASI. And that makes a lot of us nervous. You know, Dario Armandei was on TV, if you're not familiar. He's the CEO of one of these tech giants. and he recently said that you know within five years time it's quite likely or likely that 50 percent of all entry-level white-collar jobs will be wiped out so you can wonder why some of us are",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses global tech competition and job displacement but does not address municipal infrastructure, utilities, or city budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker expresses concern about the project's implications but does not critique the city council's decision-making process, transparency, or oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on economic displacement and geopolitical competition rather than physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly frames the project as part of a broader power dynamic where tech billionaires and global competition threaten local workers' livelihoods, challenging the job-creation narrative."
+        }
+      }
+    },
+    {
+      "block_id": 225,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 5931.26,
+      "end": 5959.92,
+      "text": "a little nervous about that you know if you have kids who are getting ready to graduate college i mean these people are going on tv elon and others essentially bragging about the fact that a lot of jobs are going to be lost and no one seems to be able to answer what those will be replaced with um once again to bring up dario because he's in the news a lot he's uh promising 50 billion dollars for the creation of data centers across the u.s and in his own words that's going",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipal infrastructure, utilities, water, waste, or budgetary capacity. It focuses on job displacement and economic promises."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss transparency, notice, oversight, or accountability of officials. The focus is on job narratives and economic claims."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts. The concern is economic stability for graduates."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The speaker challenges the job creation narrative by questioning what jobs will replace lost ones, highlighting the uneven distribution of economic risk and benefit."
+        }
+      }
+    },
+    {
+      "block_id": 226,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 5959.92,
+      "end": 5965.28,
+      "text": "to lead to 800 permanent jobs i don't know about anybody else but that doesn't sound like a great",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or municipal infrastructure burdens; it only references job numbers."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of transparency, decision-making processes, or official accountability in this brief statement."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly challenges the job-creation narrative by expressing skepticism about the value of 800 jobs, aligning with the theme's focus on critiquing economic promises against other community needs."
+        }
+      }
+    },
+    {
+      "block_id": 227,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 5965.28,
+      "end": 5971.98,
+      "text": "investment to me and you know listen i understand we're in a small city it's hard there are decisions",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment acknowledges the difficulty of making decisions in a small city but does not mention specific municipal resources like electricity, water, waste, or budget."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker acknowledges the difficulty of decision-making, they do not express distrust, demand for oversight, or critique of the transparency or process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this brief statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits versus who pays, job creation narratives, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 228,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 5971.98,
+      "end": 6041.59,
+      "text": "that need to be made but you know these are and this is a technology that people openly admit you know gregory hinton and others or jeffrey hinton and others who worked for you know chat gpt and google who's left over safety concerns that we don't really know as it gets stronger whether we can control it so i think some of that is born out of our frustration here because this is mr. Simonson thank you thank you good evening your last name Jen for our meeting record Rogers thank you I'm gonna try to I have a lot to say so I'm gonna try to be quick I'm a marketer I'm not anti AI but I I know you guys don't want to talk too much about the zoning but I just want to say that I feel this entire process is very indicative of Trump's America where our representatives do something and then force us to react so I don't really appreciate that that is not how the democratic process works this is clearly",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or municipal infrastructure burdens; it focuses on AI safety and political process."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly critiques the democratic process, comparing it to 'Trump's America' and expressing frustration that representatives act first and force the community to react, which aligns with distrust and process concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions AI safety concerns, they do not connect this to physical health, noise, air quality, or quality of life impacts on residents."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment critiques the political process but does not address the distribution of costs/benefits, job narratives, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 229,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 6041.59,
+      "end": 6045.85,
+      "text": "not a warehouse and I don't want that to be forgotten now that we've just moved",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment references a warehouse but does not discuss municipal resources like electricity, water, waste, or budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making processes, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss who benefits or who bears costs, nor does it reference historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 230,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 6045.85,
+      "end": 6135.31,
+      "text": "on to the CBA I see a lot of money centered language as I said I'm a marketer ideal in language and we're not having the same conversation we can't eat money we can't breathe you know money and we're in a historic community that is very old you know around the founding of our country I don't want to see it destroyed this is a very special place not everybody wants endless development development is not inherently a good word we're not all concerned about two million dollars ten million dollars some of us like living in a smaller community where we feel like we have an impact and not only that to say oh we're gonna give you ten million dollars or act as though that that making this enforceable is somehow a bonus it should be enforceable that shouldn't be a bonus and again you know saying well we're gonna dictate how you use these millions of dollars it's not gonna go to affordable housing it's gonna go to tax breaks which means they're not actually giving us money they're turning around and taking those tax breaks and utilizing it for themselves and I just feel like you guys think we're really gullible and that you can throw a bunch of legal jargon and a lot of millions of dollars towards us and we're gonna go cool this when is this gonna be collaborative it's a community benefit agreement it should be written by the community and this is not satisfactory and it's a lot of the people in here are Democrats and I do not appreciate you know I may are taking a page from Trump's book forcing us to act retroactively and then dipping",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss electricity, water, waste, or infrastructure burdens on the city's utilities."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly critiques the CBA process, demanding community-written agreements, accusing officials of using legal jargon and money to manipulate, and expressing deep distrust in the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.8,
+          "reasoning": "The speaker uses the 'can't eat money, can't breathe money' frame to reject financial benefits in exchange for health/environmental costs, and expresses a desire to preserve the historic community's quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.9,
+          "reasoning": "The speaker challenges the job/benefit narrative by noting tax breaks go to developers, accuses officials of being 'gullible' and 'taking a page from Trump's book,' and frames the issue as a power imbalance where the community is being manipulated."
+        }
+      }
+    },
+    {
+      "block_id": 232,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Taylor Raymond",
+      "start": 6141.23,
+      "end": 6208.92,
+      "text": "thank you good evening hi taylor raymond 500 block of saint joseph street um so i've spent the last month or two reading up on community benefits agreements what makes a strong one what makes a weak one and i'll say there are a lot of really good things in this i appreciate the work that you've done however it is a community benefits agreement without the community so really it is the mayor's benefits agreement um that's not acceptable to me honestly um the community absolutely should have had a lot more input we should have been told of all of these updates we should have been kept in the loop on the negotiating process um and we weren't we also got the uh the draft of this two days ago as anybody uh in here with a full-time job understands it's really hard to read a 32-page legal document on the evenings and lunch breaks for in two days",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss electricity, water, waste, or infrastructure burdens on the city's resources."
+        },
+        "municipal_process": {
+          "score": 0.95,
+          "reasoning": "The speaker explicitly critiques the Community Benefits Agreement (CBA) process, citing lack of community input, delayed notice, and information asymmetry regarding the 32-page legal document."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The speaker critiques the CBA as a 'mayor's benefits agreement' rather than a community one, implying a power imbalance where officials benefit without community input, though it lacks explicit references to historical extraction or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 236,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Theresa Womble",
+      "start": 6314.8,
+      "end": 6416.52,
+      "text": "owners are Carissa the owner is Carissa they've created a standard practice LLC's for each building one in the same okay thank you mm-hmm thank you you can feel free to move that down if you need to great great good evening thank you good evening my name is Theresa Womble and I live at the 200 block of East Orange Street and I'm in addition to being a resident of Lancaster City I also am a leader at Armstrong World Industries so I'm here tonight in support of the CBA and the growth that can come from these investments as many of you know Armstrong has been a major manufacturer and employee employer in Lancaster county for over 100 years and currently we have about 1 000 employees in this area who are interested in seeing growth continue to happen so the investments that are being made by the cba will benefit our company and our employees and their families in addition armstrong is happy bdb supplying product that go into these projects which will support our employee base as well as the investments we can make back into the community so i appreciate the work that the city council and the mayor have done to put together a creative solution that i think is a great opportunity almost unique for the city to continue growth thank you thank you good evening",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker does not mention electricity, water, waste, or municipal budget burdens; instead, they focus on economic benefits and corporate support."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker expresses support for the CBA and the city council's work, rather than criticizing the process, transparency, or decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns; the comment focuses entirely on economic growth."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker does not challenge the jobs narrative or discuss unequal distribution of costs/benefits; they explicitly support the investment and job growth."
+        }
+      }
+    },
+    {
+      "block_id": 237,
+      "speaker": "UNKNOWN",
+      "speaker_name": "daryl legacy",
+      "start": 6416.52,
+      "end": 6421.96,
+      "text": "good evening my name is daryl legacy i live in the 100 block of north mary street",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is purely an introduction stating the speaker's name and address, with no mention of utilities, infrastructure, or resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making processes, transparency, or accountability; it is a standard opening statement."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no reference to health impacts, noise, air quality, or quality of life concerns in this introductory remark."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment contains no analysis of benefits distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 238,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "daryl legacy",
+      "start": 6421.96,
+      "end": 6522.02,
+      "text": "and i also want to thank the council for the work that they've done on this i know this is a very complicated project um i do have a few questions one is it feels like this is a pay to pollute agreement it feels like they are just going to pay the 20 million dollars and say oh well we couldn't get to 100 energy and there's nothing stopping them from doing that um this is the cost of doing business. This is like a rounding error on their budget. I think another problem with that is while this is a rounding error for them, it also is a super volatile sector right now. I just was looking and Corweave, which I know is not Carissa, but Corweave, which is going to be using at least one of these buildings, has lost almost, I think it's like 35% of their stock since June, their stock price. So these companies are just going to be promising all of this money, promising all this revenue and then what happens when they go out of business and throw the keys on the roof as we heard we're stuck with this vacant building I think that's a big problem and I think it's something that needs to be addressed I think we should not be pre-complying with this idea that the zoning agreement does not apply retroactively I realize that that is I'm sure the biggest demand that they have I'm sure they will not sign this agreement without that but I think that's something to consider if it is so important to them they must think there's at least a chance that this could be retroactive. If there was no chance, they would just say, whatever, we don't care. Legally, we're going to win. So I think that's something that we should be concerned about. I think also a bad deal could be worse than no deal. I'm not convinced that this is a bad deal yet, but I think we should at least consider the possibility. I also think there's something to be gained by telling these companies that we are not open for their business. Yes, there's some",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly connects the financial volatility of the companies to the risk of being left with a vacant building and infrastructure burden, framing the project as a long-term liability for the city's resources and maintenance capacity."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The comment directly critiques the 'pay to pollute agreement' and the zoning agreement's retroactive application, expressing distrust in the deal-making process and demanding stronger legal protections for the community."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions 'pollute,' the focus is on financial liability and corporate bankruptcy rather than direct health impacts like noise, air quality, or disease."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "The speaker challenges the 'jobs narrative' by highlighting corporate volatility and the risk of abandonment, arguing that the community bears the risk while companies promise revenue, reflecting an uneven distribution of cost and benefit."
+        }
+      }
+    },
+    {
+      "block_id": 239,
+      "speaker": "UNKNOWN",
+      "speaker_name": "daryl legacy",
+      "start": 6522.02,
+      "end": 6526.36,
+      "text": "risk. It's possible that if we don't sign this agreement, they build anyway, they win the court",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or municipal infrastructure burdens; it focuses solely on legal risk and project approval."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker expresses concern about the legal and procedural outcome of not signing an agreement, implying a lack of control over the decision-making process and the potential for the project to proceed regardless of community consent."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts in this specific comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The comment reflects a power imbalance where the developer can 'win the court' and proceed regardless of the community's stance, suggesting the community lacks leverage against the project."
+        }
+      }
+    },
+    {
+      "block_id": 240,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 6526.36,
+      "end": 6753.95,
+      "text": "case, and they just pollute and do whatever they want. Now, they're already bound by the state and federal laws, though I really appreciate them agreeing that they will be bound by the laws. So I think it's potentially in our benefit to just say, no, we're not going to do that. Then we gum up the works. We do everything we can to slow down their construction. We do everything to make it uncomfortable for them. And then all of us here, we go protest. We protest. We block construction. We do everything it takes to slow this down. They don't want that. They want us to just say, oh, well, I guess it's the best we could get. I don't think that's a good idea. and then lastly I would love to know if any members of the city of the city government and or the mayor signed an NDA and now I know the nature of NDAs are that you're not gonna say yes I signed an NDA but whether it's here or in public I'm gonna take anything other than a resounding no as yes that you did and I think that is a huge problem there was a huge article that just came out saying they're all requiring city officials to sign NDAs and then to block FOIA requests that is a huge problem and I would feel much more trust I would have much more trust if I knew for sure that that did not happen with anyone here including the zoning director who just single-handedly approved this thank you no I was not asked to sign an NDA I'll allow any member of council who wishes to to make no I did not sign an NDA I did not sign an NDA I was asked I i did not sign an nda i did not sign an nda at all i did not sign an nda i did not sign an nda thank you good evening good evening my name is eric souder i'm from east petersburg i am the founder of regional local climate organization i'd like to thank the city for your work on this it's a very thoughtful document as has been mentioned i believe there are numerous impacts like land use water consumption and on-site emissions that could actually be significantly worse if these data centers were not located adjacent to the city so that is one concern that i have if this were somewhere else but my primary focus is energy the through the greenhouse gas inventory that regional developed for the county we can show that the two data centers will use a combined electricity consumption that's 10 times that of the city and 82 percent of the entire County combined and this is really enormous and unprecedented so in light of that I'd like to highlight several elements of the CBA where I see the greatest opportunity for us to make progress toward a resilient Lancaster moving forward first the CBA places much of the work within the context of the city's climate action plan I know there's been real interest in seeing the city expand this to a community climate action plan this is necessary to develop up climate strategy that covers all lancaster residents and in addition to city operations second i'm glad that there's a thermal heat mitigation plan required in section 4.4 i really encourage the city to explore opportunities here fully there's several examples of data centers especially in europe that are using waste heat in district loops to heat buildings as i discussed this idea across the community i learned of earlier efforts to investigate a central heating plant at F&M Park City and the hospital combined so it shows that there's been real interest from the community to explore things like this and shuttle heat quite the distance so I think there are real possibilities there that we need to explore 300 megawatts in as energy is 300 megawatts out as heat and we have an opportunity to use that third I'm encouraged by the 100% renewables commitment but it also matters where where that energy comes from. You could imagine a forest being cut down",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly discusses electricity consumption (300 megawatts), water consumption, and emissions as burdens on municipal resources, and references the city's climate action plan and heat mitigation."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker directly questions whether city officials signed NDAs, demands transparency regarding FOIA requests, and criticizes the lack of trust in the zoning director's approval process."
+        },
+        "health_and_well_being": {
+          "score": 0.6,
+          "reasoning": "The speaker mentions on-site emissions and greenhouse gases, but the focus is more on climate impact and energy consumption than direct health consequences like noise or respiratory disease."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The speaker critiques the distribution of costs and benefits by highlighting the disproportionate energy use relative to the city and county, but does not explicitly discuss vulnerable populations or historical extraction patterns."
+        }
+      }
+    },
+    {
+      "block_id": 241,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 6753.95,
+      "end": 6756.39,
+      "text": "to install solar and satisfy the requirement.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions solar installation but does not discuss strain on municipal resources like grid capacity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no reference to decision-making processes, transparency, or accountability in this brief statement."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of who benefits, who bears costs, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 242,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 6756.39,
+      "end": 7048.05,
+      "text": "So I'd like us to explore creative collaborations with the tenants to purchase energy in an escalating manner that helped us to deploy local renewables through that. You can imagine our phones, like Carrier will give us the phone to lock us into those ongoing payments. The real value here is that energy. And I'd look to creative ways that we can use this moment do the energy and renewables deployment that we need to buffer our community from rising electric costs so to me this really comes down to our creativity and imagination if this is happening to use this moment to be as transformative as we can thanks thank you good evening hi my name is emily baldies i live at the 100 block of north mary street i just wanted to briefly thank the council members for their contributions this evening also city solicitor and the experts that information was very helpful i have some residual concerns i think we've heard a lot of really valid concerns from other commentators so i'm just going to focus on air quality for a minute in the cba that was shared with us air quality is addressed in a single paragraph in section 3.2 that essentially states that the ai hubs will comply with state and federal emissions laws and well i'm glad to know that ai hub owners are willing to not break the law this still feels woefully insufficient to me and so while we're considering whether this version of the agreement is the best path forward i would also like to suggest that council consider potential public health costs especially around air pollution which ai data centers have been proven to produce. I have concerns about the fact that the backup generators, I learned this evening, there are going to be 176 of those, that those generators directly release harmful air pollutants like nitrogen oxides. There are also a significant amount of pollutants created by the extra energy usage that AI data centers produce. And those types of air pollution, we all know, contribute to diseases like asthma, lung cancer, heart attacks, etc. As I was researching this particular issue in the couple of days that we had after the CBA came out, I found a couple of studies, one of which was conducted by scientists at Caltech and UC Riverside, and they warn of tremendous public health costs that attend air pollution increases, like the types that we're talking about here they found that the amount of electricity needed to train a large language model produced the amount of air pollution equivalent to more than 10,000 round trips by car from LA to New York City they estimate that national public health costs national to be clear from these diseases caused by air pollution and aggravated by data centers will be around 20 billion by 2030 if You'd prefer an example closer to home. They talked about the AI data centers in Northern, Virginia those create air pollution that drifts into Pennsylvania, Maryland, New York, New Jersey, Delaware and creates regional are estimated to create regional public health costs of between 190 and 260 million dollars per year and that can increase if those centers are operating at maximum permitted levels all of which is to say The potential benefits to the city as provided and negotiated in the CBA sound like a lot of money But the potential costs also sound Tremendous and so I hope that as we're considering this City Council will keep the cost benefit in mind. Thank you Feel free to move that to wherever you need. Good evening Good evening. My name is Jamie Morrison. I am the Vice President and General Manager of LV Concrete. Our office is at 1287 Loop Road in Lancaster City, and we were lucky enough to do the foundation package in Building 1. We have 44 employees. 60% of them are residents of Lancaster County. The rest of them are in central PA, so they are benefiting directly for the work that we were able to obtain. We think this is a great reuse of brownfield sites, and it gives our employees work to do locally, and a lot of times, construction work slows down in the winter, and this is an opportunity for all our employees to benefit and make a good living close to home. So I appreciate everybody's work in this, and I support it.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.2,
+          "reasoning": "The first speaker mentions using the project to deploy local renewables and buffer the community from rising electric costs, which touches on electricity supply and cost. However, the second speaker focuses on air quality and health, and the third speaker supports the project for job creation, so the overall focus on municipal resources is minimal."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The second speaker mentions that the CBA information was helpful and that the air quality section in the agreement feels insufficient, which touches on transparency and the adequacy of the agreement. However, there is no strong accusation of bad faith or demand for community-led oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.9,
+          "reasoning": "The second speaker explicitly focuses on air quality, citing studies about nitrogen oxides from generators, air pollution from energy usage, and specific health consequences like asthma, lung cancer, and heart attacks. They also mention public health costs and compare to other regions."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The third speaker supports the project because it provides jobs for local residents, which touches on the jobs narrative. However, they do not challenge the narrative or discuss uneven distribution of costs and benefits in a critical way; they simply state their company benefits."
+        }
+      }
+    },
+    {
+      "block_id": 245,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Jordan Farrell",
+      "start": 7053.56,
+      "end": 7057.94,
+      "text": "Good evening. Good evening. Jordan Farrell, East Petersburg.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a standard greeting and introduction, containing no substantive content related to municipal resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the decision-making process, transparency, or accountability of city officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this brief introduction."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss economic distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 246,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7057.94,
+      "end": 7094.22,
+      "text": "My company is IREX, right across the street here, over on Lime Street. We are a specialty contracting company. We employ around 100 employees in the local community here. And another thing is I've been working with, involved with EDC, Finance Corporation, for the last, since 2019. I say these things to illustrate how involved in the community and the well-being of the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker introduces their company and employment numbers but does not discuss electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker mentions involvement with EDC and Finance Corporation but does not critique the decision-making process, transparency, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The speaker mentions 'well-being' in the context of community involvement but does not discuss health impacts, noise, air quality, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker highlights local employment and community involvement but does not challenge the jobs narrative, discuss wealth distribution, or reference historical inequality."
+        }
+      }
+    },
+    {
+      "block_id": 247,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7094.22,
+      "end": 7097.86,
+      "text": "community, economic well-being of the community.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a fragment that does not mention utilities, infrastructure, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making processes, transparency, oversight, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not reference physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss distribution of costs/benefits, job creation, housing, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 248,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7097.86,
+      "end": 7138.08,
+      "text": "I'm here to express support for the data center and the community benefit agreement. This project represents a meaningful investment to the community's long-term well-being. It will transform two vacant industrial buildings into modern facilities that are going to provide thousands of construction jobs and hundreds of permit jobs to the community as was previously mentioned it will help to employ people here locally that will be able to have construction jobs close to home I respectfully urge council to approve the community benefits agreement allowing this project to move forward and bring with it the opportunity to advance the economic health of our",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment expresses support for the project and does not raise concerns about strain on municipal resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker supports the Community Benefits Agreement (CBA) and urges approval, rather than questioning the process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment frames the project as beneficial to long-term well-being through economic health, without raising concerns about noise, air quality, or direct health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker explicitly supports the job creation narrative and economic benefits, rather than challenging the distribution of costs and benefits or highlighting inequality."
+        }
+      }
+    },
+    {
+      "block_id": 249,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Shawn was Nikki",
+      "start": 7138.08,
+      "end": 7155.91,
+      "text": "community thank you thank you good evening my name is Shawn was Nikki and I live my address is in Lancaster but I don't live in Lancaster I live closer to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a brief introduction and does not address electricity, water, waste, or budgetary concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is only providing their name and address, with no mention of transparency, oversight, or distrust of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of noise, air quality, health conditions, or the trade-off between health and economic benefits."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 250,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Shawn was Nikki",
+      "start": 7155.91,
+      "end": 7172.03,
+      "text": "Landisville actually I hate this this is about I mean I don't like the data centers too but I don't like speaking publicly I'm saying it's a little bit",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker expresses general dislike for data centers but does not mention specific municipal resources like electricity, water, waste, or budget."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the decision-making process, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss who benefits, who pays, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 251,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Shawn was Nikki",
+      "start": 7172.03,
+      "end": 7182.72,
+      "text": "it's a little bit north of getting a root canal but this is really important and I want to talk about it because I think it's gonna drastically affect",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions a root canal as a metaphor for importance but does not discuss electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no mention of decision-making processes, transparency, or accountability regarding the city council's actions."
+        },
+        "health_and_well_being": {
+          "score": 0.5,
+          "reasoning": "The speaker uses a root canal metaphor to signal personal health importance, but does not explicitly connect this to data center impacts on air quality, noise, or community health."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address wealth distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 252,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7182.72,
+      "end": 7211.65,
+      "text": "Lancaster City and Lancaster County for years to come so again like everybody has said Thank You council for working on this for making something out of nothing and having things having that there be concrete benefits but as has been said the community got to look at this on on Tuesday and it's Thursday and",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or infrastructure burdens; it focuses on the timeline and process of the council's work."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker references the council's work and the timeline (Tuesday to Thursday), implying a critique of the speed or transparency of the decision-making process, which aligns with concerns about information asymmetry and process legitimacy."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts in this specific comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, or the distribution of costs and benefits between the community and developers."
+        }
+      }
+    },
+    {
+      "block_id": 253,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7211.65,
+      "end": 7231.94,
+      "text": "if it is this important and if it is this this big I think the community deserves more time to review it and make suggestions if there could be that allowance to be made that would be great I don't as a I don't know as a parent of",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or infrastructure burdens on the city."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly calls for more time for community review and suggestions, directly aligning with the demand for community-led oversight and participation."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 254,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7231.94,
+      "end": 7337.21,
+      "text": "two kids I don't appreciate somebody going through a long presentation of all the benefits and then saying at the end if you say no you get nothing that feels not like they wish to be invested in the community that they wish to say take this so that we can take whatever we want it doesn't feel like a partnership without a more time obviously I only have a couple of things to say but I did want to say that I would very much like to have nuclear energy stricken from the clean energy list that's on there as a clean energy LPE units 1 & 2 are mentioned in article 8 for the financial agreements but not LPW there's nothing in there about that and I don't know if this is a legally binding document if they're not in there if they can just go out on that the letter of credit can be substituted for a company of a hundred million dollars net worth please get rid of that uh as somebody has mentioned core weave has lost 40 of its stock valuation in the last six months um that is that is not a very uh good idea i feel like and uh there's new info coming out all the time we just got to see something from the lancaster county planning commission that has a lot of new ideas and recommendations and we'd love to be able to take that into account as a community thank you thank you good evening evening thank you for the opportunity to speak",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions financial agreements and stock valuation but does not discuss municipal utilities like electricity, water, waste, or e-waste burdens."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker critiques the lack of partnership, the structure of the financial agreement, and the need to incorporate new planning commission recommendations, reflecting concerns about process and transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "The speaker questions the partnership dynamic and mentions stock valuation, but does not explicitly address historical extraction, vulnerable populations, or the jobs narrative."
+        }
+      }
+    },
+    {
+      "block_id": 255,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7337.21,
+      "end": 7347.29,
+      "text": "this evening jeremy young i'm a city resident but here tonight i'm here on behalf of the organization i work for lancaster city alliance one of several economic development focused organizations",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker only introduces themselves and their organization's role in economic development, without mentioning utilities, infrastructure, or resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a standard introduction and does not address transparency, decision-making processes, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this introductory statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the speaker represents an economic development organization, they do not critique job narratives, discuss wealth distribution, or reference vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 256,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7348.17,
+      "end": 7368.13,
+      "text": "including economic development company of lancaster county we have a representative here tonight from that organization the lancaster chamber and socket development corporation We collectively wrote a letter to council, and hopefully you received that letter dated yesterday, November 19th, in support of the Community Benefits Agreement.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions economic development and a letter supporting a Community Benefits Agreement but does not discuss municipal utilities, infrastructure strain, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker references a collective letter to council and the Community Benefits Agreement, indicating engagement with the procedural framework, though it expresses support rather than criticism of the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits versus who pays, job creation critiques, or historical patterns of inequality; it focuses on institutional support for the agreement."
+        }
+      }
+    },
+    {
+      "block_id": 257,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7368.31,
+      "end": 7373.91,
+      "text": "And if you don't mind, for the record, I'll just paraphrase that letter for everyone here tonight.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a meta-statement about paraphrasing a letter and contains no substantive content regarding municipal resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the comment references a letter (which could relate to process), it does not address transparency, oversight, or accountability in the decision-making process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, environmental quality, noise, or well-being concerns in this brief introductory remark."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, job narratives, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 258,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7375.92,
+      "end": 7462.23,
+      "text": "Together, we as economic development organizations focused on the city and the county support the adoption of the Lancaster AI Hub Community Benefits Agreement. over the past several weeks we've listened carefully to residents concerns we met with the carissa technologies team and city staff to understand the project and this agreement in particular in detail those conversations have given us confidence that if implemented and monitored with care this community benefits agreement can channel a private investment toward clear enforceable benefits for the residents of lancaster we recognize environmental impacts are a major concern and very rightfully so but we see this agreement as a tool that puts expectations mitigation measures and accountability in writing rather than leaving them to chance and that's really key we really feel that this agreement puts us in the best and strongest possible place and in a better place than where we would be if we did not have an agreement just as importantly the agreement is structured to deliver community-centered outcomes especially those tied to economic development right here in the city of lancaster including training and upskilling for city residents support for entrepreneurs and small businesses adapting an ai enabled economy a sustainability fund to advance local priorities and expanded access to ai tools and education so that lancaster can remain competitive for all these reasons we",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss strain on municipal utilities like electricity, water, or waste management; instead, it focuses on the benefits agreement as a tool for accountability and economic development."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker frames the Community Benefits Agreement as a mechanism to address transparency and accountability, arguing it provides structure and enforceable expectations rather than leaving mitigation to chance, which touches on process legitimacy."
+        },
+        "health_and_well_being": {
+          "score": 0.2,
+          "reasoning": "The speaker acknowledges environmental impacts as a major concern but does not elaborate on specific health outcomes like noise, air quality, or disease, instead pivoting to the agreement as a mitigation tool."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The comment explicitly centers on economic development, training, upskilling, and community-centered outcomes, directly addressing the distribution of benefits and the empowerment of residents versus developers."
+        }
+      }
+    },
+    {
+      "block_id": 259,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7462.23,
+      "end": 7466.47,
+      "text": "respectfully urge you to approve the community benefits agreement and we are here to support you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or budgetary strain on municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While it references the Community Benefits Agreement (CBA), it expresses support rather than critiquing the process, transparency, or decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 260,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Tony Dastro",
+      "start": 7467.03,
+      "end": 7476.9,
+      "text": "thank you for your time and consideration thank you good evening tony dastro 700 block new holland",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a standard greeting and introduction with no mention of utilities, infrastructure, or resource concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no reference to health impacts, noise, air quality, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment contains no analysis of benefits distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 267,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7543.41,
+      "end": 7554.19,
+      "text": "We need to let it carry through. Frank should have his day at the Zoning Hearing Board, as well as anyone else who wants to be a party to that. We deserve to have that heard through on appeal. and that appeal can be appealed",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or infrastructure burdens on the city."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly references the Zoning Hearing Board and appeals, framing the issue as a procedural matter that needs to be heard through the proper legal channels."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits, job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 268,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7554.19,
+      "end": 7555.99,
+      "text": "so this is not just a once and done thing",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention utilities, infrastructure, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The phrase 'not just a once and done thing' implies a desire for ongoing oversight or participation, which aligns with the demand for community-led monitoring."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address benefits distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 269,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7555.99,
+      "end": 7560.03,
+      "text": "we are at the beginning of potentially a very long process and the public is not content",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or budgetary strain on city infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly notes that 'the public is not content,' directly addressing the legitimacy and public satisfaction with the ongoing municipal decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no reference to physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss who benefits, job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 273,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7928.42,
+      "end": 7934.98,
+      "text": "support our small business i don't see why we need to spend 250 000 to look once again at how to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, decision-making processes, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not reference noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 274,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "ro potter",
+      "start": 7934.98,
+      "end": 7966.18,
+      "text": "do that thank you thank you good evening hi i'm ro potter of i never get this right but i'm on 67 south franklin street i don't know if that's the hundred block or the six zero block exactly it just doesn't make sense anyway anyway this is not my first meeting up here i do see some first-time faces though some of them are susan ties telling us to be okay with what's happening even though they're not being clear about really anything i've gone to this type",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or budgetary concerns related to municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly criticizes the lack of clarity from officials and accuses them of misleading the community, which aligns with information asymmetry and distrust."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 275,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7966.18,
+      "end": 7971.54,
+      "text": "of meeting they had an ai summit down at the ware center about last week and the number one thread",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions an AI summit but does not discuss electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment references a summit but does not address transparency, decision-making processes, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this brief statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, wealth distribution, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 276,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7971.54,
+      "end": 8058.12,
+      "text": "that i've noticed throughout all this is that it's fucking vague there's nothing that is just saying like hey right out in the open this is our plan this is what we're doing it all has to look like technological mumbo jumbo and it's just supposed to go over the average person's mind like who who wants to be here protesting this shit at eight o'clock at night on a thursday i got to be up at four in the morning tomorrow. I don't want to do this. And yet we have suits and ties out here telling us to be okay. And what? Pass our time, twiddle our thumbs, and what else? It just doesn't make any sense to me. I'm sorry. I don't like being born into a city. You know, I didn't really have much of a pick. We're all put here for one way or another unless you moved in. But anyways, I really, really don't like when people come into our city, tell us what to feel, how to feel and what to do about it and then that's it we don't get any decisions on it it doesn't make any sense to me the amount of times that people come out and protest this thing and said we want a different approach or a different you know and we're all at the height of the ai bubble too this thing could pop in any month from now i don't know if you pay attention and they don't want you to but i think it's sam altman open ai guy or someone running nvidia just traded all their fucking stock what is that going to thank you peter teal someone just said it what does that tell you this is a bubble waiting the burst and you know why because it's not sustainable we're sitting here talking about currently making construction jobs currently boosting the economy",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or municipal budget burdens; it focuses on communication style and economic sustainability."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly critiques the lack of transparency, vague plans, and the disconnect between officials and the community, framing the process as manipulative and unfair."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions working hours, they do not discuss noise, air quality, or physical health impacts of the data center itself."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The speaker challenges the economic narrative, questions the sustainability of the project, and critiques the disconnect between 'suits' and the community, highlighting unequal power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 277,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8058.12,
+      "end": 8064.8,
+      "text": "what is the long term are we are we dumb what is the long term think on the long term your air",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a fragmented question about long-term thinking regarding air, but it does not explicitly address municipal resources like electricity, water, waste, or budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the decision-making process, transparency, or accountability of officials; it is a general inquiry about long-term planning."
+        },
+        "health_and_well_being": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly raises concern about 'air' in the long term, which directly aligns with Theme 3's focus on air quality and its impact on health and quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the distribution of costs and benefits, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 278,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8064.8,
+      "end": 8112.04,
+      "text": "your water your they're already complaining about birth rates so what's next they fuck our air up we can't produce i'm sorry if i'm using profanity i can't but it just is so short-sighted and of course it's about money of course it's about businesses it's never about the people when you're talking about building warehouses and all this other stuff when we walk by the same potholes that have been here longer than i've been alive they don't make any sense at all and i know y'all doing your best i see all the time really and you just got elected mayor so i hope you're equipped for this but for real they're doing their best and we're trying to communicate but really it's the people that come out and say, hey, be okay with it or else. What does that mean? Because I'd rather find out what else means rather than letting them do whatever with our city.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.6,
+          "reasoning": "The speaker explicitly mentions water quality issues and air pollution, framing the data center as a strain on municipal resources like water and air quality, though the focus is more on the degradation of these resources than the infrastructure burden itself."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker directly addresses the mayor and city council, expressing distrust in the process, criticizing the 'short-sighted' decision-making, and questioning the pressure being put on residents to accept the project."
+        },
+        "health_and_well_being": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly links the project to air pollution ('fuck our air up'), birth rates, and general well-being, arguing that the project harms the community's health and quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.9,
+          "reasoning": "The speaker frames the issue as a conflict between business interests and people, noting that 'it's about money' and that the community bears the costs while businesses profit, echoing historical patterns of neglect."
+        }
+      }
+    },
+    {
+      "block_id": 279,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Nancy Griffith",
+      "start": 8112.12,
+      "end": 8123.97,
+      "text": "It doesn't make any sense. Thank you. Good evening. Hi. My name is Nancy Griffith. I live on the zero block of South Lyme.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is purely an introduction and contains no substantive content regarding municipal resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the decision-making process, transparency, or accountability of city officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss economic distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 280,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Nancy Griffith",
+      "start": 8125.16,
+      "end": 8148.92,
+      "text": "So I was wondering if there's ever been an assessment done of property values in cities that already have existing data centers. if that analysis has been done I will tell you I just recently moved to Lancaster Lancaster sorry I just pronounced it wrong you can tell go on that's okay for a certain quality of life that I was hoping to get here had I",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker asks about property value assessments in other cities with data centers but does not discuss municipal utilities, infrastructure strain, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, decision-making processes, community oversight, or distrust of officials; it focuses on a factual inquiry about property values."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions 'quality of life,' they do not reference specific health impacts, noise, air quality, or the trade-off between health and economic benefits."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss who benefits versus who pays, job creation narratives, housing needs, or historical patterns of extraction and inequality."
+        }
+      }
+    },
+    {
+      "block_id": 281,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Nancy Griffith",
+      "start": 8148.92,
+      "end": 8154.48,
+      "text": "known that these data centers were in progress I never would have bought a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker expresses regret about purchasing property without knowing the project was in progress, directly addressing information asymmetry and lack of transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 282,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8154.48,
+      "end": 8176.77,
+      "text": "home here never would have moved here so you can imagine my frustration if these data centers come to fruition I'm leaving getting out of here thanks thank you good evening I love on the 800 block of 3rd Street and I'm just gonna speak",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker expresses personal frustration and intent to leave but does not discuss specific municipal resources like electricity, water, waste, or budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker expresses frustration, they do not address the decision-making process, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment mentions personal frustration and intent to relocate but does not reference health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker's statement is a personal reaction to the project's potential impact on their decision to stay, but it does not analyze systemic inequality, benefit distribution, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 283,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8176.77,
+      "end": 8180.07,
+      "text": "to some stuff that hasn't been spoken to and that I don't think anybody's gonna",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a fragment that does not mention utilities, infrastructure, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, oversight, decision-making processes, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not reference health impacts, noise, air quality, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss benefits distribution, job creation, housing, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 284,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8180.07,
+      "end": 8197.13,
+      "text": "speak to but I'm gonna start with my favorite chant which says earth my body water my blood air my breath and fire my spirit the animals who live at Longs Park are my brothers and sisters I'm there in sacred community with all of us",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipal infrastructure, utilities, or resource management concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly invokes non-human populations (animals at Longs Park) as 'brothers and sisters' and frames the community as sacred, directly aligning with Theme 4a."
+        }
+      }
+    },
+    {
+      "block_id": 285,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8197.13,
+      "end": 8203.57,
+      "text": "and there are community members here too that I feel like aren't being represented",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention utilities, infrastructure, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly states that community members are not being represented, which directly addresses the theme of unmet expectations with elected officials and demands for accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The comment touches on representation and who is being heard, which relates to power dynamics, but it is less specific than comments about wealth distribution or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 286,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8203.57,
+      "end": 8300.5,
+      "text": "there's a specific part of the CBA that I forgot to write down the numbers and letters but it says that there's like certain residential zones and certain park zones this is in regards to the noise and about the nighttime and I'm sure you can find it but it talks about how the park zones have different rules for the resident zones and that there's different rules at nighttime for the noise and so I want to talk about the animals who live in the park and who are going to be affected by the nighttime noise and how important how incredibly important those animals lives as individuals and families who have homes here in our city and share this land with us how important they are that they also are healthy and well trees the same thing goes for the trees there's a section 8 I wrote down four point six point two where it says integrate native species it doesn't say that they need to use all native species and there's absolutely no reason why you wouldn't make them use all native species there's just no excuse for not having that in the language at all there's plenty of local companies it's super easy to have all native plants there's there's no excuse for not having that language in there just into integrate native is all it says um and then the other two chunks um that are concerning",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or municipal budgetary capacity; it focuses on noise regulations and landscaping."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker references specific sections of the Community Benefits Agreement (CBA) and critiques the language used, indicating engagement with the process and terms of the agreement."
+        },
+        "health_and_well_being": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly connects nighttime noise to the health and well-being of animals and trees, framing environmental quality as a core concern."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The speaker advocates for the rights of non-human entities (animals, trees) and critiques the developer's language, touching on the distribution of care and responsibility."
+        }
+      }
+    },
+    {
+      "block_id": 287,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8300.5,
+      "end": 8311.86,
+      "text": "to me i mean all of this is concerning to me and i'll be there with a sign no matter if this gets signed or not or whatever happens um i agree with so many of the other things that were said but",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment expresses general concern but does not mention specific municipal resources like electricity, water, waste, or budget."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions being there with a sign, they do not address transparency, oversight, or the decision-making process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not reference health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "There is no mention of who benefits, job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 288,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8312.5,
+      "end": 8331.22,
+      "text": "the other two chunks that stick out to me is um you know this grandfathered in thing that's happening with the proposed zoning ordinance and hearing that like there's no development plan in place for building three specifically i'm wondering like if there's no plan in place now why are we giving them two years they're not grandfathers they haven't even been born yet",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary strain on municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker directly critiques the zoning ordinance process, questioning the lack of a development plan and the logic of granting a two-year grandfathered period for a project that does not yet exist."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, vulnerable populations, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 289,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8332.02,
+      "end": 8337.3,
+      "text": "um and the thing that somebody else said about how the city can only report or complain about",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment fragment does not address electricity, water, waste, or budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The comment references the city's ability to report or complain, which touches on municipal oversight and accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, job narratives, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 290,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Kevin Bachelor",
+      "start": 8337.3,
+      "end": 8389.99,
+      "text": "the noise once every two years is blasphemy i can't even believe that we should be able to complain whenever we want thank you thank you good evening good evening my name is kevin bachelor uh 200 block of north charlotte street i just wanted to say a couple things I think it's clear from the energy in this room that nobody likes a bully and as we heard very plainly when our solicitor was asked what happens if we don't accept this agreement Carissa technology is a bully they are a bully dressed up like a partner please don't be complicit in the bullying of our city thank you good evening good evening my name is Matthew Barden 800 block of North Prince there are a lot of things I want to touch on that have been touched",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or municipal budgetary capacity; it focuses on the developer's behavior and the process of negotiation."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly frames the developer as a 'bully' and criticizes the city for being 'complicit,' which aligns with the theme of distrust, accusation, and moral condemnation of the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions 'noise,' they do so to criticize the frequency of noise complaints allowed by the city, not to express concern about the data center's operational noise pollution affecting health or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The speaker accuses the developer of bullying and the city of complicity, which touches on power dynamics, but the focus is more on the immediate negotiation process than on broader patterns of inequality or distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 291,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8389.99,
+      "end": 8393.87,
+      "text": "on here already how toothless our ability to actually inspect that they",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention utilities, infrastructure, water, electricity, or waste management, so it does not engage with this theme."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly critiques the city's ability to inspect the project, directly addressing the theme of municipal oversight and accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts in this specific comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss wealth distribution, job creation, or historical patterns of inequality, focusing instead on procedural oversight."
+        }
+      }
+    },
+    {
+      "block_id": 292,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8393.87,
+      "end": 8428.01,
+      "text": "are meeting these requirements is we're relying on self reporting from a corporation I want to I want to let that sit for a minute we're relying on self reporting we can talk about the sustainability of the jobs it claims to create these are short-term jobs these aren't even in fact it the large portion of these aren't jobs they're creating they're creating work for those jobs and somebody else said we can find better places for that work elsewhere that mean more to our community we could talk about the health cost these we can talk about the fact that corporations skirt fines because it as it was said it was a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or municipal budgetary capacity; it focuses on corporate self-reporting and job sustainability."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker critiques the reliance on corporate self-reporting rather than independent verification, which touches on information asymmetry and process legitimacy, though it is not a direct accusation of official misconduct."
+        },
+        "health_and_well_being": {
+          "score": 0.5,
+          "reasoning": "The speaker explicitly mentions 'health cost' and the ability of corporations to 'skirt fines,' directly engaging with the theme of health consequences and regulatory failure."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The speaker challenges the job creation narrative by calling them 'short-term' and 'work for those jobs,' and contrasts corporate benefits with community needs, highlighting the uneven distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 293,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8428.01,
+      "end": 8437.05,
+      "text": "fraction of their actual worth we can talk about the fact that all of this has been done without community engagement this isn't a community benefits",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or infrastructure burdens on the city's resources."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly critiques the lack of community engagement and frames the project as not being a legitimate community benefits agreement, directly addressing the process and transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The comment implies a disconnect between the community and the decision-makers, suggesting an unequal power dynamic where the community was excluded from the process."
+        }
+      }
+    },
+    {
+      "block_id": 294,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8437.05,
+      "end": 8448.67,
+      "text": "agreement this is a hostage negotiation we've seen a number of cities across this entire country push back on these data centers that are being forced on",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or infrastructure burdens on the city's resources."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker frames the agreement as a 'hostage negotiation' and references other cities pushing back, indicating a critique of the process and lack of agency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.9,
+          "reasoning": "The 'hostage negotiation' metaphor directly addresses power dynamics, coercion, and the community being forced into an unfavorable position against larger entities."
+        }
+      }
+    },
+    {
+      "block_id": 295,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8448.67,
+      "end": 8454.83,
+      "text": "them and win and i ask why not us why are you treating this like a foregone conclusion that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or infrastructure costs."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker questions the decision-making process, implying it is treated as a foregone conclusion rather than a community decision."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The speaker challenges the assumption that the project will proceed, questioning why the community is not considered in the decision."
+        }
+      }
+    },
+    {
+      "block_id": 296,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8454.83,
+      "end": 8469.42,
+      "text": "we have to settle for this we don't we can win this and we deserve to win this we don't deserve to have one one zoning permit change everyone's lives in in this city in this community we can",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or infrastructure burdens; it focuses on community agency and zoning permits."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker challenges the zoning permit change as a decision that affects everyone's lives, implying a lack of community consent or fair process, though it does not explicitly accuse officials of bad faith."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts in this specific comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The speaker frames the community as deserving a better outcome and capable of winning, suggesting a struggle against an unequal power dynamic where the community is being forced to settle."
+        }
+      }
+    },
+    {
+      "block_id": 298,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Baruch Dewar",
+      "start": 8473.1,
+      "end": 8604.8,
+      "text": "toothless argument agreement excuse me thank you good evening good evening my name is baruch dewar i'm a 35-year resident of the city live in the thousand block of west clay street just a couple of points here that were raised some of which would be nice to hear answers to before you vote and i was not a party to the beginnings of this process but it appears to me as the first time that i've been exposed to this is this is a classic case of it may not be what you did it's how it's done you know and i was a chief counsel of a pennsylvania state agency for eight years uh worked in government for a long time worked for several governors um under the office of general counsel um you know uh to which is the agency that staffs all the attorneys and all the the state agencies. And that is the one lesson that I probably had driven home to me over and over and over again as a government lawyer attempting to pull off something like this. Great work being done here. Excellent work being done here. But you can't get past the concept of it may not be what was done. It's how you did it or how it was done. And I'm just seeing a room of people here who are driving that point home in spades you know this is clear there is clearly though as somebody mentioned trust whatever whatever was the precursor that led us all to here to this today today clearly there has been an issue of broken trust at this point and again you can't say it enough times it may not be what is the end result but it's how it was done that you know breaks that trust and creates problems that you know can last for you know quite a long time with your constituency so that's just my experience for a long time and you know in government service my other question which is this is the one I would kind of like to get an answer to is I'm not sure",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker does not mention electricity, water, waste, or budgetary strain on municipal infrastructure. The focus is entirely on the process of decision-making."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The speaker explicitly frames the project as a 'classic case' of 'how it's done' breaking trust, citing their background as a government lawyer to validate the community's concerns about transparency and procedural integrity."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts in this specific comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the speaker critiques the process, they do not discuss the distribution of costs/benefits, job creation, housing needs, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 300,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8613.5,
+      "end": 8661.64,
+      "text": "being used i mean i understand if that is just the take it or leave it position that they have put on the table then sometimes you may have to leave it because i really don't understand the logic of 10 years and then no more concern no more requirements why why would you do that to somebody who clearly is expressing the intent to put tens of millions of dollars into something and to be there for decades potentially why 10 years and then stop that just makes no sense to me so another small point these 176 generators could have all been required to be powered by biodiesel not petroleum diesel and you know pennsylvania is the only state in the country that has a biodiesel",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The speaker directly addresses the infrastructure burden by questioning the 10-year limit on requirements and suggesting biodiesel for generators, which relates to long-term municipal management of energy resources and environmental impact."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The speaker critiques the logic of the 10-year requirement and the 'take it or leave it' position, expressing confusion about the decision-making rationale and the lack of ongoing oversight beyond a decade."
+        },
+        "health_and_well_being": {
+          "score": 0.4,
+          "reasoning": "The suggestion of biodiesel over petroleum diesel implies a concern about air quality and emissions, which connects to health impacts, though it is framed more as an operational suggestion than a direct health complaint."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "The comment touches on the developer's intent to invest tens of millions, but does not explicitly address the uneven distribution of costs and benefits or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 301,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8661.64,
+      "end": 8677.64,
+      "text": "mandate in our you know diesel that is dispensed at the pump um and we stuck our neck out on that one and we're not even a producer of biodiesel thank you but excuse me thank you 10 the 10-year",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions diesel and biodiesel mandates but does not connect this to the data center's impact on municipal resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of the decision-making process, transparency, or accountability of city officials regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address noise, air quality, or direct health consequences related to data center operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While it touches on fuel mandates, it does not frame the data center project in terms of who benefits versus who bears the costs or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 302,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Charlotte Altmer",
+      "start": 8677.64,
+      "end": 8700.92,
+      "text": "issued address thank you good evening good evening my name is charlotte altmer i live on the 200 block of north charlotte street you're gonna have to hear the whole thing some of it's a repeat of what others have said but i don't know how to simplify it on the fly so you're gonna have to stick with me for the whole of this i'll start by voicing an objection to the background point",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker mentions a background point objection but does not discuss electricity, water, waste, or infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker objects to a 'background point,' they do not explicitly address transparency, notice, or official accountability in this specific excerpt."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality of life concerns in this opening statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 303,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8700.92,
+      "end": 8706.44,
+      "text": "a in the cba quote to unlock productivity and innovation gains this is debatable and brings",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or infrastructure burdens on the city."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, oversight, or the legitimacy of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not reference noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The speaker challenges the economic justification ('unlock productivity and innovation gains') of the project, questioning the value proposition and implying a disconnect between promised benefits and reality."
+        }
+      }
+    },
+    {
+      "block_id": 304,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8706.44,
+      "end": 9146.64,
+      "text": "me to my most macro concern and that is the role lancaster is playing in supporting an industry that is grossly unregulated and whose preeminent experts agree poses existential risk to humanity and in the nearer term is positioned to take away jobs from human beings i am pro innovation and growth but i desire to have that innovation and growth be values driven and well considered the rush to get in on ai boom is naive and risky and i fail to see how it supports the city's own plan the comprehensive plan that's been referenced tonight i want to highlight the dollars represented in the cba the proposed lancaster county community foundation being funded in the amount of 20 million dollars as a percentage of this project doesn't scratch a quarter of a percent this sounds like a lot of money but it's not it's not it's 0.2 percent of the project The Sustainable Development and Clean Energy Fund introduced lands like a farce, the idea that we're going to turn a blind eye to known truths in favor of nice-sounding commitments. Data centers are ravenous for limited resources such as water and electric. If you look at the direct and indirect emissions of a data center, you see the issue. Across the organization's entire value chain, you get into troubling truths. The manufacturing of semiconductors and required refrigerants used in data centers are full of forever chemicals which wreak havoc on the sites in which they are manufactured and will eventually wreak havoc on the sites where they are disposed of. Data centers growing across the U.S. will require 22 percent more grid power by the end of 25 and on and on and on. We know this. While the community benefits agreement is asking for clean energy, I think it's important to acknowledge the massive demand for electricity across this sector is problematic, period. Just yesterday and today, WGL, LNP talking about PPNL bringing forward a rate hike right it's a problem i seeing as the community didn't have a say in this work prior to this approval and commencement of the work trust has been broken and i again asked the city council how do you plan to restore trust with the residents that you are meant to represent and serve a recommendation is to deeply listen to what's being shared in tonight's special meeting show humility show patience and ensure the concerns raised tonight are appropriately considered before you authorize and approve the cba beyond the fundamental objection i have to the data center in lancaster i will call out a few specifics in the cba itself section 7.1 transparency is key annual reporting should include third-party noise reporting water use and third-party water quality reports electric use is outlined and a third-party air quality report if the environmental concerns have all been addressed as the agreement suggests show us that your third party audits we've reached three minutes thank you very much good evening good evening my name is Jerry Clase I want to make sure I'm not violating protocol I do not live in Lancaster City that's just fine East Enfield 1352 Jasmine Lane East Enfield I have a couple questions it's about energy okay I know you can't tell us what they will be paying for um electricity but can you publish some indication whether it's 50 90 80 of what the typical resident would pay i would not be happy if i found out that we're subsidizing half of their energy costs because they're paying with 50 of what i am uh have you done a study uh that would show what the projected energy costs would be going out for the next five ten years one with the data center using all the power they do and number two without the energy that the data center would be using i think the numbers are going to be pretty staggering on what the rates are going to uh happen to the citizens of this fine city and thirdly um have they talked at all about uh fusion nuclear power uh i would i know it's five to ten years out but it's something that i think really needs to be discussed uh and it could bring some real benefits to the community of lancaster thank you thank you good evening good evening hi thank you guys for being here and all the work that's done my name is francis musselman i'm on the 500 block of west chestnut street um i understand that the agree i understand today that the agreement text in front of you is the final and today's vote is yes or no with no amendments is that right that's correct i also understand that the 20 million dollars has already been conceptually allocated so a no vote is being framed as leaving that money on the table my concern is that in section 10.1 it states that we're locking Lancaster into a 20-year industrial agreement is it a 20-year industrial agreement have we been talking about the limit especially with the 10-year energy deal so you have a 10-year energy deal but then we're in a 20-year industrial agreement in one of the fastest changing sectors on earth i was at the open house talking to the gensler architects and they said that in within a year they have to go and redesign some of the buildings because it's moving so quickly so this agreement will last until 2045. is that right do we know we didn't talk about the limit so the most of the money is going to be arriving in the first three years and then the impacts are going to continue for 20 years the risks are long term and the leverage is short term if you choose to vote yes i'm asking you to pair that vote with a concrete commitment on implementing number one creating a formal community oversight body to track this agreement including noise diesel use energy mix and how the 20 million is actually spent require public number two require public reporting at least annually or like quarterly actually on key metrics and energy use clean energy share generator testing noise levels and finally open up a 20 million dollar plan to generally genuinely get public input not just a pre-decided list that part i think is the one that hurts the most but it's 20 years and i think that that should also be reason to pause because it just feels like a very long time thank you good evening hello my name is pat eichmann and i do not live in this city either",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.9,
+          "reasoning": "The speaker extensively discusses strain on municipal resources including electricity grid capacity, water consumption, and e-waste disposal, explicitly linking these to the city's infrastructure and budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly questions the transparency of the Community Benefits Agreement (CBA), demands third-party audits and public reporting, and calls for a community oversight body to restore trust."
+        },
+        "health_and_well_being": {
+          "score": 0.8,
+          "reasoning": "The speaker connects data center operations to health risks through emissions, refrigerants, and noise, while also questioning the trade-off between financial benefits and environmental harm."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "The speaker challenges the job creation narrative by highlighting the city's plan for housing and community development, and questions the distribution of costs versus benefits."
+        }
+      }
+    },
+    {
+      "block_id": 305,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 9146.64,
+      "end": 9151.6,
+      "text": "i wish i did right now i live less than a mile from the greenfield data center",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment expresses personal proximity to the site but does not discuss municipal infrastructure, utilities, or resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making processes, transparency, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While proximity implies potential impact, the speaker does not explicitly mention health, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss benefits distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 306,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 9152.48,
+      "end": 9171.36,
+      "text": "and i just want to ask the people in here tonight that are supporting this project would they want to live have the data center in their backyard would they be okay with that um i doubt it and i ask you to for the harrisburg center do you want to take your children out to longs park",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or municipal budget concerns; it focuses on residential proximity and park access."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss transparency, official accountability, or the decision-making process itself, but rather poses a rhetorical question about community values."
+        },
+        "health_and_well_being": {
+          "score": 0.5,
+          "reasoning": "The comment implies health and quality of life concerns by asking if supporters would want the facility in their backyard and referencing children's access to Longs Park, though it does not explicitly cite noise, air quality, or specific diseases."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The speaker directly challenges the job-creation narrative by asking supporters to consider living near the facility and explicitly connects the project to the loss of children's access to Longs Park, highlighting unequal distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 307,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 9171.36,
+      "end": 9176.4,
+      "text": "knowing there are all kinds of air particles floating around the air and poisonous uh",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions air particles but does not connect them to municipal infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment expresses concern about air quality but does not address the decision-making process, transparency, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly references 'air particles' and 'poisonous' substances, directly engaging with concerns about air quality and health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, job narratives, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 308,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 9177.76,
+      "end": 9246.56,
+      "text": "not nitro oxides or whatever floating around i don't think you want to do that do you want to shop at Wegmans with all this pollution and water pollution out there I don't think so and I just want to reiterate that these the core we've data center is their stock has tumbled they are highly highly leveraged it's like a house of cards there's a it's called circular financing there are so many privately private equity firms in this financing you pull one card out and that whole house could crash so they are highly leveraged and if you're thinking of your 20 million dollars if they go bankrupt your 20 million dollars is gone and that might not be too far away because sam altman the ceo of open ai i read the article he did agree that we are going to be in an ai bubble and it's going to pop so i just want to i'll leave that out there Thank you. Good evening. Good evening, councillors. My name is Ezra Rothman. I lead",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions water pollution but frames it as a general concern about shopping at Wegmans rather than a specific strain on municipal water infrastructure or supply. It does not discuss electricity, waste, or municipal budget capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not address how decisions were made, transparency, or the legitimacy of the municipal process. The focus is entirely on the financial viability of the developer."
+        },
+        "health_and_well_being": {
+          "score": 0.5,
+          "reasoning": "The speaker explicitly mentions 'pollution' and 'water pollution' and questions the desirability of living near it, which connects to air/water quality concerns. However, the primary focus is financial risk rather than direct health impacts like noise or disease."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the speaker discusses financial risk and corporate leverage, they do not frame this in terms of unequal distribution of costs/benefits, historical extraction patterns, or the job creation narrative. The concern is about the project's solvency, not systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 312,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 9272.28,
+      "end": 9300.5,
+      "text": "past this data center is not replacing a clean use in our community this was previously an active industrial use that operated 24 7 with heavy truck traffic with emissions and with significantly higher water usage so I do think that we need to be clear about that as we talk about the past uses and the past impacts of this site on our community. Let me talk about the present. I love living in",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.2,
+          "reasoning": "The speaker mentions water usage and emissions from past industrial use, which tangentially relates to municipal resources, but the focus is on historical context rather than current strain on city infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making processes, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.3,
+          "reasoning": "The speaker references emissions and heavy truck traffic from past use, which implies health concerns, but does not explicitly connect these to the data center's impact on residents' physical health or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The speaker notes the site was previously an active industrial use, hinting at historical patterns of use, but does not explicitly frame the issue around who benefits versus who pays or challenge the jobs narrative."
+        }
+      }
+    },
+    {
+      "block_id": 313,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 9300.5,
+      "end": 9316.16,
+      "text": "Lancaster County because of the opportunities I have here. I have opportunities to have a well-paying job and live in a community that I think is accessible. My wife and I can walk to restaurants and I can quickly also get out and enjoy the wonderful environmental amenities that we have in",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on personal employment and lifestyle benefits rather than municipal infrastructure burdens like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not address decision-making transparency, community oversight, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions enjoying environmental amenities, they do not express concern about health risks, noise, or air quality from the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment highlights personal economic opportunity and quality of life without critiquing the distribution of costs, benefits, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 314,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 9316.16,
+      "end": 9347.9,
+      "text": "this community. And a big part of that, especially the economic side, is the diversity of our economy in Lancaster County and that leads to a strong vibrant and resilient economy that also leads me to the future we have an opportunity here to take AI and high tech which is objectively part of our future and bake that into our community that comes with innovation that comes with jobs that comes with money to support us as a community pipelining",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on economic diversity and future opportunities rather than concerns about municipal infrastructure burdens like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not address transparency, decision-making processes, or accountability; instead, they advocate for integrating AI into the community's future."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or the trade-off between economic benefits and physical well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the comment mentions jobs and economic support, it frames them as positive community benefits rather than critiquing unequal distribution or challenging the jobs narrative."
+        }
+      }
+    }
+  ]
+}

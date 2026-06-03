@@ -1,0 +1,139 @@
+{
+  "title": "City Council Committee Meeting - September 16, 2025",
+  "video_id": "XzF6-XCVRFc",
+  "upload_date": "20250917",
+  "model": "qwen3.5-9b-q6",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 1807.99,
+      "end": 1826.66,
+      "text": "If I may the only question I have is for example if someone is coming in late and it's a constituent and by having the public comment in the beginning but not at the end when that hinder on some of the people that do work late and come to the meetings at a later time.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses meeting logistics and timing for constituents, not municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker critiques the structure of the public comment period, suggesting it hinders late-arriving constituents, which touches on procedural fairness and accessibility."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address wealth distribution, job creation, or historical patterns of inequality, focusing instead on meeting logistics."
+        }
+      }
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 2931.54,
+      "end": 2955.35,
+      "text": "just have one question in regards to any one that would employ with the city that would make any death threats or any comments publicly is that something that would be included in here as well of any type of misconduct with the ethic boards well i mean that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary strain on municipal resources; it focuses on employee conduct and ethics."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While it mentions ethics boards and misconduct, it does not address the data center project's decision-making process, transparency, or community oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss physical health, noise, air quality, or quality of life impacts related to data center operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address wealth distribution, job creation critiques, or historical patterns of extraction and neglect."
+        }
+      }
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 3173.06,
+      "end": 3188.8,
+      "text": "polite council chambers thank you well actually I do have the cancellation from I believe that was in August and there was one in July that they were both canceled and I know that because I came personally and was told it was canceled",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses meeting cancellations and does not address electricity, water, waste, or infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker references personal knowledge of meeting cancellations, implying a disconnect between official records and community experience, but does not explicitly demand oversight or accuse officials of bad faith."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 3201.44,
+      "end": 3229.43,
+      "text": "a question in regards to the um the board's commission and authorities is there any way that we could add like right next to um the title the number of how many are per members. For example the airport authority is there five members is it 10 members.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks for clarification on board composition and membership numbers, which does not address electricity, water, waste, or budgetary strain on municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the comment relates to governance structure, it is a procedural inquiry about board composition rather than a critique of transparency, accountability, or decision-making fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment contains no reference to physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address wealth distribution, job creation, vulnerable populations, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 59,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 3282.62,
+      "end": 3293.18,
+      "text": "question is actually being questioned by a community member that wanted to know why the numbers of members are not there. So that's that's something I would probably",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker references a community member questioning the number of members, which touches on transparency and accountability in the council's composition or decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing, vulnerable populations, or historical patterns of inequality."
+        }
+      }
+    }
+  ]
+}

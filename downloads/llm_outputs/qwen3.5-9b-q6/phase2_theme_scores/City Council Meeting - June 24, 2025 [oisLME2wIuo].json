@@ -1,0 +1,243 @@
+{
+  "title": "City Council Meeting - June 24, 2025",
+  "video_id": "oisLME2wIuo",
+  "upload_date": "20250625",
+  "model": "qwen3.5-9b-q6",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "Molly Degger",
+      "start": 516.16,
+      "end": 548.26,
+      "text": "good evening good evening council my name is Molly Degger I'm one of the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is an incomplete greeting and introduction, containing no substantive content related to municipal resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the decision-making process, transparency, or accountability of city officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, environmental quality, or quality of life concerns in this brief introduction."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss economic distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_11",
+      "speaker_name": "unknown",
+      "start": 548.26,
+      "end": 607.11,
+      "text": "deputy directors for the Department of Public Works I oversee the sustainability and environment division last month I was among several city representatives who had the pleasure of serving as judges at the school district of Lancaster's STEM fair we were inspired by the creativity and thoughtfulness of the students who were tasked with solving real-world environmental issues facing Lancaster City Isabel Keeler a student at Wharton Elementary prepared an impressive project urging the city to consider banning single-use plastic bags her work directly supports the community goals outlined in the city's comprehensive plan our future Lancaster specifically in system for growing greener which calls for reducing waste and protecting natural resources and system five building community and capacity which emphasizes the importance of environmental health and community engagement. Isabelle has been invited here this evening to briefly present her report to Council and I'm pleased to introduce her now.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment references environmental goals and waste reduction but does not frame the data center project as a strain on municipal utilities like electricity, water, or e-waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss decision-making processes, transparency, or accountability regarding the data center project; instead, they introduce a student presentation."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the student's project mentions environmental health, the comment itself does not express concern about noise, air quality, or direct health consequences from the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or pays, job creation narratives, or historical patterns of extraction; it focuses on student achievement and city goals."
+        }
+      }
+    },
+    {
+      "block_id": 11,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "Isabel Keeler",
+      "start": 607.11,
+      "end": 689.36,
+      "text": "I'm nine years old and I go to Wharton Elementary. My science fair project is that the City of Lancaster should ban single-use plastic bags. My research has found that there is three things that happen to plastic bags after we use them. We put them in water, which hurts the animals that live there. We burn them in fire, which releases toxins into the air that we breathe in. Or we bury them in the earth, which decomposes in 1,000 years. There's also some places that have already banned single-use plastic bags, like Lancaster Township in Philadelphia. I did the math, and by the time I graduate from McCaskey High School, people in the city of Lancaster will have used 188 million bags. My conclusion, people only use plastic bags for 12 minutes, but they last 1,000 years on the earth. If the city of Lancaster bans single-use plastic bags, it will be good for the environment and the people of Lancaster.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses plastic bags and their environmental impact, but does not address the specific municipal resources (electricity, water, waste management infrastructure, or budget) related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not comment on the decision-making process, transparency, or accountability of city officials regarding the data center proposal."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the comment mentions toxins released into the air, it is framed around plastic bag pollution rather than the specific health impacts of data center operations (noise, air quality from cooling, etc.)."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the distribution of costs and benefits, job creation, or historical patterns of inequality in the context of the data center project."
+        }
+      }
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 736.94,
+      "end": 764.08,
+      "text": "Well, I have always been an advocate of plastic. I'm a scuba diver. So going scuba diving, the last thing I wanna see is our life animals that I would consider sea mammals, especially having that ingested in their bellies. So thank you so much for advocating. continue advocating get your friends together so we can stop making plastic because it's really",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses plastic pollution and marine life but does not address municipal utilities, electricity, water supply, or e-waste specific to the data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not mention city council decisions, transparency, oversight, or the process of how the data center project was handled."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions environmental harm to animals, they do not connect this to human health, noise, air quality, or the specific trade-offs of the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits versus who pays, job creation, housing needs, or historical patterns of extraction related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 32,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 2540.23,
+      "end": 2556.64,
+      "text": "counselor craig thank you council um i think i already know the answer to this but the future debt planning of 159.2 million although that's in the future there is a possibility that we could",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly references 'future debt planning' and a specific dollar amount ($159.2 million), directly engaging with the theme of municipal budgetary capacity and financial burden."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, decision-making processes, or accountability; it focuses solely on financial figures."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss who benefits versus who pays, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 2663.1,
+      "end": 2683.22,
+      "text": "in regards to um the grants have you have we received any additional objections or denials from the federal government at all because i know that there's a a lot of things that have been cut but i wasn't sure if we might have received anything additional",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks about federal grant status and does not address municipal infrastructure, utilities, or resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment inquires about administrative outcomes (grant denials) rather than criticizing the decision-making process, transparency, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, environmental quality, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address wealth distribution, job creation, vulnerable populations, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 3265.08,
+      "end": 3284.68,
+      "text": "And I ask that question because, you know, we need to know the gravity of what we're facing and how important it is to get these things addressed as fast as humanly possible, you know? So thank you.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or budgetary concerns related to municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, oversight, or the legitimacy of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not reference noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3395.96,
+      "end": 3456.18,
+      "text": "senior planner uh city um this plan uh this sewer amendment is for 523 woodward street um this property is being subdivided um and so it's going from one parcel to three parcels and what the land developer is doing is adding on so it's a it's a group of row homes and the developer is adding on to the end and so redeveloping the end unit and then adding on two additional units and so the sewer capacity will go from having to serve one unit to having to serve three units i think that the the most interesting part of this land development just for your own knowledge is that it's a former rackel property and so it's nice to see that it's moving forward through land development and it's about to go to the planning commission probably pretty soon thank you for the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions sewer capacity increasing from one to three units, but this is a minor subdivision of existing residential property, not a large-scale AI data center project. It does not frame the project as a strain on municipal resources in the context of the data center themes."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is providing factual information about a specific land development project (523 Woodward Street) and its status, without expressing concerns about transparency, accountability, or the decision-making process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the development."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or who bears costs, nor does it reference historical patterns of extraction or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 3495.96,
+      "end": 3639.38,
+      "text": "Yeah, these are more free-spoken comments. This weekend, I was driving for Uber. I understand this is more of a traffic commission thing, but I just want to say it publicly that we really should figure something out here. One of the weirdest nights I've had driving, some positive interaction, some negative. The positive interaction was somebody came down from Hershey because they heard about our nightlife and they loved it. uh so it's always good to have someone come down from another place and be like yeah it's cool here i love it great nightlife but the trade-off to that nightlife in my experience uber driving is parking and uh there's two locations i think we really need to grapple with a parking situation one being telus 360 on the weekends i think having those uh parking spaces in front of the bars free would be amazingly helpful to traffic flow and congestion at night, maybe reduce some conflicts, protect some pedestrians, and the other one, which is more close to home here, right outside of City Hall, it's really frustrating to me to see people park their cars not too far from parking garages with the intention to get drunk in the city of Lancaster and then pull off and drive away, especially in a no parking zone outside i think it's something we need to handle more seriously as a public as a government because at the end of the day i mean let's take all the drunk driving stuff aside we have parking garages for a reason we invest in this infrastructure for a reason and i do not like seeing people just look for free parking especially when they're going out to get have a a good time so yeah I would appreciate more attention to that maybe some things put together because it does need to change in ordinance like I said I understand this is a traffic Commission thing but I'm not gonna come on 3 30 on that day I am typically working so I'm sharing those concerns here and I hope you guys move on plastic bags sooner rather than later that's all I have",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses parking and traffic congestion, not municipal utilities like electricity, water, or waste management. It does not address infrastructure strain on city resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker mentions the Traffic Commission and City Council but does not critique the decision-making process, transparency, or accountability of officials regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions drunk driving and pedestrian safety, these are not framed as health impacts from data center operations (noise, air quality, etc.) but rather as general traffic safety issues."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address wealth distribution, job creation, or historical patterns of extraction. It focuses on local traffic and parking ordinances unrelated to the data center."
+        }
+      }
+    }
+  ]
+}

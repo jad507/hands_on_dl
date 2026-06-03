@@ -1,0 +1,139 @@
+{
+  "title": "City Council Meeting - February 11, 2025",
+  "video_id": "JJbmuzCmd6s",
+  "upload_date": "20250212",
+  "model": "qwen3.5-9b-q6",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Ed",
+      "start": 550.66,
+      "end": 577.84,
+      "text": "resolution the council president if I may counselor I'm ed I just want to thank councillor Craig for introducing this resolution and I want to thank the city of Lancaster for its commitment to celebrating black history month especially in a time nationally where it does not seem to be prioritized so I just want to thank members of council and thank the city for its commitment to our black community here in Lancaster Thank You councillor I'm an additional",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment expresses gratitude for Black History Month recognition and does not mention electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker thanks the council for a specific initiative rather than criticizing the decision-making process, transparency, or accountability regarding the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the comment touches on community recognition, it does not address the distribution of costs/benefits, job narratives, or historical patterns of extraction related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "Susie Gomez",
+      "start": 1695.14,
+      "end": 1721.11,
+      "text": "Good evening. Susie Gomez, 100 Block of North Reservoir Street. Thank you. Can you explain to me CBBG funding? Is that government funding? Yes, that's federal government funding. OK. So total investment of, you said, $25.6 million?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks for clarification on funding sources and amounts but does not address municipal infrastructure burdens like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker questions the funding source, they are not expressing distrust of officials, demanding oversight, or criticizing the transparency of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits versus who pays, job creation narratives, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 59,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 1740.54,
+      "end": 1773.53,
+      "text": "And that is government funding, correct? Yes. OK. The other question would be, you had mentioned increased funding. The $305,000 is being allocated, is that correct? Reallocated. Reallocated. So you're going from 2020 to 2024 to show rejected funds? Can you explain that a little better?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment questions budget allocation and fund reallocation but does not frame the data center as a strain on municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker directly challenges the transparency and accuracy of financial reporting, questioning how funds were allocated and whether the explanation for rejected funds is clear, which aligns with demands for transparency and accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on fiscal transparency rather than the distribution of costs and benefits, historical extraction patterns, or the job creation narrative."
+        }
+      }
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 1834.58,
+      "end": 1843.51,
+      "text": "um you want to reassess and make changes for what for what you're reassessing",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a vague request for reassessment without mentioning specific municipal resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The comment expresses a desire for the council to reconsider their decision, which touches on the process of how decisions are made, but lacks specific accusations of bad faith or demands for transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or who pays, nor does it reference historical patterns of inequality or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 1859.33,
+      "end": 1878.76,
+      "text": "this measure yeah but you're turning it in you're you're also really doing the annual action plan right you're taking all that into consideration without so meaning that there is funds available for housing and that's what these fun",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions housing funds but does not discuss municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker references an annual action plan and funding availability but does not address transparency, oversight, or distrust of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly connects the data center measure to housing funds, challenging the prioritization of economic development over community needs like housing."
+        }
+      }
+    }
+  ]
+}

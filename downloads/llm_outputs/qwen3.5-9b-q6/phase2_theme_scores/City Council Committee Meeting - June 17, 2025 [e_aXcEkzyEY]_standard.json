@@ -1,0 +1,139 @@
+{
+  "title": "City Council Committee Meeting - June 17, 2025",
+  "video_id": "e_aXcEkzyEY",
+  "upload_date": "20250618",
+  "model": "qwen3.5-9b-q6",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 3905.46,
+      "end": 3910.58,
+      "text": "final amount like it can the charter change it let's say you want to change it to like 10",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses charter changes and numerical limits but does not reference municipal utilities, infrastructure, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The comment references the ability to change a charter or limit, which touches on governance rules and decision-making authority, though it lacks specific focus on transparency or oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this brief statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 3911.78,
+      "end": 3918.54,
+      "text": "again the provisions in this code every one of them is changeable okay thank you thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker references the 'provisions in this code' being changeable, directly engaging with the legitimacy and stability of the municipal regulatory process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 3918.54,
+      "end": 3979.94,
+      "text": "counselor med thoughts and questions there you go uh thank you council president and uh thank you uh barry for your presentation this evening and i really appreciate some of the good governance measures around procurement and around the budgets i guess my only question and guidance that i would like to seek throughout this process is you know how much of this should we leave kind of not specifically defined and how much should we for example when it comes to things like accounts like how like should we make sure that each individual fund has its own individual account and does payroll have its own individual account or are these things that we should kind of leave um by your recommendation as a little bit less specific and like you know the charter gives us the guidance but how specific on some of these things should we go in the code",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on budgetary accounting and procurement procedures rather than the physical strain of utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker engages with governance measures and asks for guidance on how specific the code should be, which touches on the transparency and clarity of municipal decision-making processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts related to the data center operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the distribution of costs and benefits, job creation narratives, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 4532.1,
+      "end": 4601.6,
+      "text": "in the 600 block of North Shippen and I have a couple questions one of them is on the procurement numbers and I was a bit surprised to see that the threshold for a public bid is just 23,000 and change that that seems like a pretty small sum for what strikes me as a fairly involved and onerous procedure I was curious is that state law requiring that or is there room to wiggle on that and then if I can just comment I just give them both to you is speaking of money there has been a lot of talk in the last year and a half or so about council salaries and I don't know if you want to address that as part of the administrative code but I think it would be an excellent idea to make a plan on how council is going to increase salaries that haven't been increased in a very long time so that there is some sort of plan in place and it's not this always like oh should we do this no I don't want to anger the electorate should we do this no I don't want to anger the electorate that you know",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses procurement thresholds and council salaries, which are administrative and fiscal topics, but does not address the data center's impact on municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker questions the transparency and rationale behind procurement thresholds and criticizes the council's hesitation to address salary increases due to fear of angering the electorate, reflecting concerns about decision-making processes and accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the comment touches on council salaries, it does not address the distribution of costs and benefits of the data center project, nor does it reference vulnerable populations or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Marshall Miller",
+      "start": 4737.96,
+      "end": 4785.38,
+      "text": "Great. um marshall miller 100th block of east vine street um it sounds like the final version of this will be voted on in november just curious um how has the ability to put like input changes things of that nature leading up to the final passage or is it just final passage in november will be a process where amendments are added to do all of the changes that council would like to see separately you said that this document pulls from a bunch of different sources and i'm just curious if there is like a version of the document that outlines what is coming directly from the charter that cannot be changed or you know touched because it has to fulfill requirements in the charter and if that exists that would be helpful for me to see and probably counsel as well uh the the answers",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks procedural questions about the document's relationship to the city charter and amendment processes, with no mention of utilities, infrastructure, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly questions the transparency of the amendment process, asks for clarification on which parts of the document are fixed by charter versus negotiable, and requests to see the source document, directly engaging with information asymmetry and process legitimacy."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this procedural inquiry."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, historical extraction patterns, or the distribution of costs and benefits between the community and developers."
+        }
+      }
+    }
+  ]
+}
