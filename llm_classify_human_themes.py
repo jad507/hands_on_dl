@@ -50,6 +50,60 @@ P1_CHUNK_SIZE = 3
 P2_MAX_WORDS = 600
 
 # ---------------------------------------------------------------------------
+# JSON Schemas (passed to llama.cpp's grammar-constrained sampler so the model
+# physically cannot emit invalid output — illegal tokens are masked at sample
+# time. Eliminates ~all schema-compliance errors. Truncation by max_tokens is
+# still possible and is handled via per-block / per-comment retries.)
+# ---------------------------------------------------------------------------
+P1_SCHEMA: dict = {
+    "type": "object",
+    "properties": {
+        "public_comments": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "block_id":     {"type": "integer"},
+                    "speaker_name": {"type": "string"},
+                    "reason":       {"type": "string"},
+                },
+                "required": ["block_id", "speaker_name", "reason"],
+            },
+        }
+    },
+    "required": ["public_comments"],
+}
+
+P2_THEME_KEYS = [
+    "municipally_managed_resources",
+    "municipal_process",
+    "health_and_well_being",
+    "power_dynamics_and_inequality",
+]
+
+P2_SCHEMA: dict = {
+    "type": "object",
+    "properties": {
+        "themes": {
+            "type": "object",
+            "properties": {
+                key: {
+                    "type": "object",
+                    "properties": {
+                        "score":     {"type": "number", "minimum": 0.0, "maximum": 1.0},
+                        "reasoning": {"type": "string"},
+                    },
+                    "required": ["score", "reasoning"],
+                }
+                for key in P2_THEME_KEYS
+            },
+            "required": P2_THEME_KEYS,
+        }
+    },
+    "required": ["themes"],
+}
+
+# ---------------------------------------------------------------------------
 # Model registry
 # RTX A2000 12 GB VRAM — every model should fit with n_gpu_layers=-1
 # except where noted.
@@ -262,7 +316,10 @@ def strip_think_tags(text: str) -> str:
 
 
 def call_llm(llm: Llama, system: str, user: str, max_tokens: int,
-             strip_think: bool) -> str | None:
+             strip_think: bool, schema: dict | None = None) -> str | None:
+    response_format: dict = {"type": "json_object"}
+    if schema is not None:
+        response_format["schema"] = schema
     response = llm.create_chat_completion(
         messages=[
             {"role": "system", "content": system},
@@ -270,7 +327,7 @@ def call_llm(llm: Llama, system: str, user: str, max_tokens: int,
         ],
         temperature=0.0,
         max_tokens=max_tokens,
-        response_format={"type": "json_object"},
+        response_format=response_format,
     )
     raw = response["choices"][0]["message"]["content"].strip()
     if strip_think:
@@ -336,24 +393,23 @@ def _p1_retry_user_msg(block: dict, meeting_title: str) -> str:
 def classify_p1_chunk(llm: Llama, blocks: list[dict], meeting_title: str,
                       system: str, strip_think: bool) -> tuple[list[dict], int]:
     raw = call_llm(llm, system, _p1_user_msg(blocks, meeting_title),
-                   max_tokens=1500, strip_think=strip_think)
-    if raw is None:
-        return [], 1
-    parsed = parse_json_safe(raw, f"P1 chunk from {meeting_title}")
-    if parsed is not None and "public_comments" in parsed:
-        return parsed["public_comments"], 0
+                   max_tokens=1500, strip_think=strip_think, schema=P1_SCHEMA)
+    if raw is not None:
+        parsed = parse_json_safe(raw, f"P1 chunk from {meeting_title}")
+        if parsed is not None and "public_comments" in parsed:
+            return parsed["public_comments"], 0
 
-    if parsed is not None:
-        print(f"  P1 wrong schema from {meeting_title}: {list(parsed)[:5]} — retrying {len(blocks)} block(s) individually")
-    else:
-        print(f"  P1 JSON parse error from {meeting_title} — retrying {len(blocks)} block(s) individually")
+    # Grammar constraints prevent schema mismatch, so reaching here means the
+    # output was truncated by max_tokens (invalid JSON). Retry each block
+    # individually — far smaller per-call output, less likely to hit the cap.
+    print(f"  P1 truncated/invalid from {meeting_title} — retrying {len(blocks)} block(s) individually")
 
     # Retry each block one at a time with a simpler prompt
     recovered: list[dict] = []
     n_still_failed = 0
     for block in blocks:
         retry_raw = call_llm(llm, system, _p1_retry_user_msg(block, meeting_title),
-                             max_tokens=200, strip_think=strip_think)
+                             max_tokens=300, strip_think=strip_think, schema=P1_SCHEMA)
         if retry_raw is None:
             n_still_failed += 1
             continue
@@ -469,23 +525,41 @@ def score_comment_themes(llm: Llama, comment_text: str, meeting_title: str,
                          block_id: int, system: str, strip_think: bool) -> dict | None:
     context = f"P2 block {block_id} from {meeting_title}"
 
-    def _call(text: str) -> dict | None:
-        user_msg = (
-            f"Meeting: {meeting_title}\n"
-            f"Block ID: {block_id}\n\n"
-            f"Public comment text:\n\"{text}\"\n\n"
-            "Score this comment against all four themes."
-        )
-        raw = call_llm(llm, system, user_msg, max_tokens=700, strip_think=strip_think)
+    def _call(text: str, simpler: bool = False) -> dict | None:
+        if simpler:
+            user_msg = (
+                f"Public comment from {meeting_title} (block {block_id}):\n"
+                f'"{text}"\n\n'
+                "Score this comment 0.0-1.0 on each of the four themes."
+            )
+        else:
+            user_msg = (
+                f"Meeting: {meeting_title}\n"
+                f"Block ID: {block_id}\n\n"
+                f"Public comment text:\n\"{text}\"\n\n"
+                "Score this comment against all four themes."
+            )
+        raw = call_llm(llm, system, user_msg, max_tokens=700,
+                       strip_think=strip_think, schema=P2_SCHEMA)
         if raw is None:
             return None
-        return parse_json_safe(raw, context)
+        parsed = parse_json_safe(raw, context)
+        if parsed is None or "themes" not in parsed:
+            return None
+        return parsed
 
     result = _call(comment_text)
-    if result is None and len(comment_text.split()) > P2_MAX_WORDS:
+    if result is not None:
+        return result
+
+    if len(comment_text.split()) > P2_MAX_WORDS:
         print(f"  P2 block {block_id}: retrying with {P2_MAX_WORDS}-word truncation")
         result = _call(truncate_words(comment_text, P2_MAX_WORDS))
-    return result
+        if result is not None:
+            return result
+
+    print(f"  P2 block {block_id}: retrying with simpler prompt")
+    return _call(truncate_words(comment_text, P2_MAX_WORDS), simpler=True)
 
 
 def run_phase2(llm: Llama, model_cfg: dict, model_name: str,
@@ -577,6 +651,58 @@ def run_phase2(llm: Llama, model_cfg: dict, model_name: str,
 
 
 # ---------------------------------------------------------------------------
+# Pre-flight
+# ---------------------------------------------------------------------------
+
+def run_preflight(model_cfg: dict, phase: str) -> bool:
+    """Validate environment before loading the model. Returns False on any
+    hard failure so main() can bail before the slow model load."""
+    import subprocess
+    print(f"[{now_str()}] Pre-flight checks")
+    ok = True
+
+    path = model_cfg["path"]
+    if not os.path.exists(path):
+        print(f"  FAIL: model file not found: {path}")
+        ok = False
+    else:
+        print(f"  OK   model file ({os.path.getsize(path) / 1e9:.2f} GB)")
+
+    if not os.path.isdir(COMMENTS_DIR):
+        print(f"  FAIL: comments directory missing: {COMMENTS_DIR}")
+        ok = False
+    else:
+        n = len(glob(os.path.join(COMMENTS_DIR, "*.json")))
+        if n == 0:
+            print(f"  FAIL: no meeting JSONs in {COMMENTS_DIR}")
+            ok = False
+        else:
+            print(f"  OK   {n} meeting files")
+
+    if phase in ("2", "both"):
+        if not os.path.exists(THEMES_MD_PATH):
+            print(f"  FAIL: themes file missing: {THEMES_MD_PATH}")
+            ok = False
+        else:
+            print(f"  OK   themes definition file")
+
+    try:
+        result = subprocess.run(
+            ["nvidia-smi", "--query-gpu=name,memory.free,memory.total",
+             "--format=csv,noheader"],
+            capture_output=True, text=True, timeout=5,
+        )
+        if result.returncode == 0:
+            print(f"  OK   GPU: {result.stdout.strip()}")
+        else:
+            print(f"  WARN nvidia-smi exit {result.returncode}; GPU state unknown")
+    except Exception as e:
+        print(f"  WARN nvidia-smi check failed: {e}")
+
+    return ok
+
+
+# ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
 
@@ -618,8 +744,8 @@ def main() -> None:
             print("  Load with: TensorRT-LLM or vLLM with NVFP4 support")
         return
 
-    if not os.path.exists(model_cfg["path"]):
-        print(f"Model file not found: {model_cfg['path']}")
+    if not run_preflight(model_cfg, args.phase):
+        print("Aborting before model load.")
         return
 
     p1_dir = os.path.join(OUTPUTS_ROOT, model_name, "phase1_public_comments")
