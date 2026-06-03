@@ -302,33 +302,68 @@ def format_p1_block(b: dict) -> str:
     secs     = int(b["start"] % 60)
     category = b.get("category", "unknown")
     preview  = truncate_words(b.get("text", ""), 80)
-    return f'[Block {b["block_id"]} | {mins:02d}:{secs:02d} | {category}]: "{preview}"'
+    return f'Block {b["block_id"]} ({mins:02d}:{secs:02d}, {category}): "{preview}"'
 
 
-def classify_p1_chunk(llm: Llama, blocks: list[dict], meeting_title: str,
-                      system: str, strip_think: bool) -> tuple[list[dict], int]:
-    user_msg = (
+def _p1_user_msg(blocks: list[dict], meeting_title: str) -> str:
+    return (
         f"Meeting: {meeting_title}\n\n"
         "Speech blocks:\n"
         + "\n".join(format_p1_block(b) for b in blocks)
         + "\n\n"
         "List ONLY the blocks above that are genuine public comments from community members.\n"
         "Do not include blocks that are not public comments. Do not explain why non-comment blocks were omitted.\n"
-        'Return JSON: {"public_comments": [{"block_id": <int>, '
-        '"speaker_name": "<full name if stated, else unknown>", '
-        '"reason": "<one sentence>"}]}\n'
+        "\n"
+        "Your response must be a JSON object with exactly this structure:\n"
+        '{"public_comments": [{"block_id": <int>, "speaker_name": "<full name if stated, else unknown>", "reason": "<one sentence>"}]}\n'
         'If none are public comments, return: {"public_comments": []}'
     )
-    raw = call_llm(llm, system, user_msg, max_tokens=1500, strip_think=strip_think)
+
+
+def _p1_retry_user_msg(block: dict, meeting_title: str) -> str:
+    return (
+        f"Meeting: {meeting_title}\n"
+        f"{format_p1_block(block)}\n\n"
+        "Is the block above a genuine public comment from a community member?\n"
+        "\n"
+        'If YES, respond with: {"public_comments": [{"block_id": '
+        f'{block["block_id"]}'
+        ', "speaker_name": "<name or unknown>", "reason": "<one sentence>"}]}\n'
+        'If NO, respond with: {"public_comments": []}'
+    )
+
+
+def classify_p1_chunk(llm: Llama, blocks: list[dict], meeting_title: str,
+                      system: str, strip_think: bool) -> tuple[list[dict], int]:
+    raw = call_llm(llm, system, _p1_user_msg(blocks, meeting_title),
+                   max_tokens=1500, strip_think=strip_think)
     if raw is None:
         return [], 1
     parsed = parse_json_safe(raw, f"P1 chunk from {meeting_title}")
-    if parsed is None:
-        return [], 1
-    if "public_comments" not in parsed:
-        print(f"  P1 wrong schema (no 'public_comments' key) from {meeting_title}: {list(parsed)[:5]}")
-        return [], 1
-    return parsed["public_comments"], 0
+    if parsed is not None and "public_comments" in parsed:
+        return parsed["public_comments"], 0
+
+    if parsed is not None:
+        print(f"  P1 wrong schema from {meeting_title}: {list(parsed)[:5]} — retrying {len(blocks)} block(s) individually")
+    else:
+        print(f"  P1 JSON parse error from {meeting_title} — retrying {len(blocks)} block(s) individually")
+
+    # Retry each block one at a time with a simpler prompt
+    recovered: list[dict] = []
+    n_still_failed = 0
+    for block in blocks:
+        retry_raw = call_llm(llm, system, _p1_retry_user_msg(block, meeting_title),
+                             max_tokens=200, strip_think=strip_think)
+        if retry_raw is None:
+            n_still_failed += 1
+            continue
+        retry_parsed = parse_json_safe(retry_raw, f"P1 retry block {block['block_id']} from {meeting_title}")
+        if retry_parsed is None or "public_comments" not in retry_parsed:
+            n_still_failed += 1
+        else:
+            recovered.extend(retry_parsed["public_comments"])
+
+    return recovered, (1 if n_still_failed > 0 else 0)
 
 
 def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str) -> None:
