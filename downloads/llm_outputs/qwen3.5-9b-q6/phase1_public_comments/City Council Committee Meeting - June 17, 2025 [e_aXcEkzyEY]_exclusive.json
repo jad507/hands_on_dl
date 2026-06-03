@@ -3,34 +3,25 @@
   "video_id": "e_aXcEkzyEY",
   "upload_date": "20250618",
   "model": "qwen3.5-9b-q6",
-  "n_chunk_errors": 2,
+  "n_chunk_errors": 0,
   "public_comments": [
     {
-      "block_id": 24,
+      "block_id": 21,
       "speaker": "SPEAKER_07",
-      "start": 3905.46,
-      "end": 3910.58,
+      "start": 3843.56,
+      "end": 3861.35,
       "speaker_name": "unknown",
-      "reason": "Speaker discusses charter change provisions in a manner consistent with public comment during a council meeting.",
-      "text": "final amount like it can the charter change it let's say you want to change it to like 10"
+      "reason": "speaker asks a question about budget transfers during public comment period",
+      "text": "questions question regarding the transfers you're saying that it's five percent of the funds in the budget light items does it matter how much it is like if it's in the millions it's five"
     },
     {
-      "block_id": 25,
-      "speaker": "SPEAKER_03",
-      "start": 3911.78,
-      "end": 3918.54,
+      "block_id": 23,
+      "speaker": "SPEAKER_10",
+      "start": 3900.42,
+      "end": 3905.46,
       "speaker_name": "unknown",
-      "reason": "Speaker confirms provisions in the code are changeable, consistent with public comment.",
-      "text": "again the provisions in this code every one of them is changeable okay thank you thank you"
-    },
-    {
-      "block_id": 26,
-      "speaker": "SPEAKER_04",
-      "start": 3918.54,
-      "end": 3979.94,
-      "speaker_name": "unknown",
-      "reason": "Speaker thanks the council president and presenter, asks a question about governance measures, and identifies as a community member seeking guidance.",
-      "text": "counselor med thoughts and questions there you go uh thank you council president and uh thank you uh barry for your presentation this evening and i really appreciate some of the good governance measures around procurement and around the budgets i guess my only question and guidance that i would like to seek throughout this process is you know how much of this should we leave kind of not specifically defined and how much should we for example when it comes to things like accounts like how like should we make sure that each individual fund has its own individual account and does payroll have its own individual account or are these things that we should kind of leave um by your recommendation as a little bit less specific and like you know the charter gives us the guidance but how specific on some of these things should we go in the code"
+      "reason": "speaker clarifies budget increase versus transfer during public comment period",
+      "text": "for an increase to the overall budget it's just a transfer between the departments so that's the"
     },
     {
       "block_id": 37,
@@ -38,7 +29,7 @@
       "start": 4532.1,
       "end": 4601.6,
       "speaker_name": "unknown",
-      "reason": "Speaker identifies a specific address and asks questions about procurement thresholds during the public comment period.",
+      "reason": "The speaker asks questions about procurement thresholds and state law during what appears to be a public comment period.",
       "text": "in the 600 block of North Shippen and I have a couple questions one of them is on the procurement numbers and I was a bit surprised to see that the threshold for a public bid is just 23,000 and change that that seems like a pretty small sum for what strikes me as a fairly involved and onerous procedure I was curious is that state law requiring that or is there room to wiggle on that and then if I can just comment I just give them both to you is speaking of money there has been a lot of talk in the last year and a half or so about council salaries and I don't know if you want to address that as part of the administrative code but I think it would be an excellent idea to make a plan on how council is going to increase salaries that haven't been increased in a very long time so that there is some sort of plan in place and it's not this always like oh should we do this no I don't want to anger the electorate should we do this no I don't want to anger the electorate that you know"
     },
     {
@@ -46,8 +37,8 @@
       "speaker": "SPEAKER_05",
       "start": 4737.96,
       "end": 4785.38,
-      "speaker_name": "Marshall Miller",
-      "reason": "Speaker identifies as a resident and asks questions about the public comment process and timeline for a city decision.",
+      "speaker_name": "marshall miller",
+      "reason": "The speaker identifies themselves as a resident and asks questions about the public comment process during the public comment period.",
       "text": "Great. um marshall miller 100th block of east vine street um it sounds like the final version of this will be voted on in november just curious um how has the ability to put like input changes things of that nature leading up to the final passage or is it just final passage in november will be a process where amendments are added to do all of the changes that council would like to see separately you said that this document pulls from a bunch of different sources and i'm just curious if there is like a version of the document that outlines what is coming directly from the charter that cannot be changed or you know touched because it has to fulfill requirements in the charter and if that exists that would be helpful for me to see and probably counsel as well uh the the answers"
     }
   ]

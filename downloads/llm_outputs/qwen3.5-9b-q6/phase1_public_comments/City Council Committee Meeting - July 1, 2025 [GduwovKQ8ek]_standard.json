@@ -3,15 +3,24 @@
   "video_id": "GduwovKQ8ek",
   "upload_date": "20250702",
   "model": "qwen3.5-9b-q6",
-  "n_chunk_errors": 3,
+  "n_chunk_errors": 0,
   "public_comments": [
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_01",
+      "start": 2064.74,
+      "end": 2150.43,
+      "speaker_name": "tony dastra",
+      "reason": "The speaker identifies themselves as a resident from the 700 block of New Holland Avenue and expresses personal frustration regarding audio quality during the public comment period.",
+      "text": "from council any questions from the public yes i do thank you tony dastra 700 block new holland avenue i i just really need to express the frustration at the audio for a moment because i'm sitting there and i understand i'm not frustrated any individual here i know it's stuff to work through but it's not a laughing matter these sort of issues if they carry through to the live stream or the difference between someone tuning in to engage themselves civically and educate themselves and not so i just need to say that and leave it there um the only question i have is i mean we've already made changes to certain other uh processes in the city regarding the sale of property um has there been any investigation as to whether these vehicles could be used for local nonprofit needs because while i respect getting the highest dollar value for these things sometimes the greatest return comes from empowering our community organizations"
+    },
     {
       "block_id": 51,
       "speaker": "SPEAKER_00",
       "start": 4380.12,
       "end": 4440.44,
       "speaker_name": "unknown",
-      "reason": "Speaker discusses the Swan Hotel redevelopment project and identifies as a community member providing input during the public comment period.",
+      "reason": "The speaker is presenting information about the Swan Hotel project as a community member or stakeholder during the public comment period, though the text suggests they may be a planner rather than a resident.",
       "text": "swan hotel project good evening turning around so many times good evening uh lauren finn senior planner for the city this um this sewer planning module is for the swan hotel redevelopment so it's located at 101 south queen street we've been looking forward to the redevelopment of of this hotel for a while it's an interesting piece in that it actually doesn't have to go through a full land development because they're not changing so much to the footprint of the building so they're just going through kind of an abbreviated process in land development and the process with the county as well for the sewer module thank you thanks any questions or comments from council"
     }
   ]

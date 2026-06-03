@@ -3,7 +3,7 @@
   "video_id": "gyhG_Bp4bV4",
   "upload_date": "20250603",
   "model": "qwen3.5-9b-q6",
-  "n_chunk_errors": 1,
+  "n_chunk_errors": 0,
   "public_comments": [
     {
       "block_id": 3,
@@ -11,7 +11,7 @@
       "start": 635.91,
       "end": 724.31,
       "speaker_name": "unknown",
-      "reason": "Speaker identifies as a lifelong Lancaster resident with local ties and speaks during the public comment period.",
+      "reason": "speaker identifies as a lifelong lancaster resident with local ties and expresses personal background relevant to community concerns",
       "text": "uh lancaster resident lifelong lancaster resident uh born and raised uh graduated mccaskey high school a couple years of college now a couple degrees in college master's in human services and masters of social work uh i spent my first probably 20 years with the boys and girls club of lancaster as the operations director uh then i moved on to uh children and youth and spent the next few several years there as the uh supervisor in the child neglect unit uh at that time i was tapped to take over the urban league of lancaster as the president and ceo uh which i've held that position for about five years before moving on and uh i ended up at daddy stevens college where and i was the director of multicultural affairs student engagement and student retention it's where i retired from i actually retired from there i'm currently the president of the local branch of the national action network which is the social service organization that that targets issues dealing with the quality of life issues here in lancaster city for our community residents thank you so much"
     },
     {
@@ -20,17 +20,8 @@
       "start": 741.35,
       "end": 752.93,
       "speaker_name": "unknown",
-      "reason": "Speaker asks a question regarding accountability and fairness to residents during the public comment period.",
+      "reason": "speaker asks a question about accountability and fairness to residents indicating a community member's perspective",
       "text": "right around we'll we'll be in with you how do you see yourself holding accountability to the checks and balance needed for the city and fairness to her residents uh"
-    },
-    {
-      "block_id": 15,
-      "speaker": "SPEAKER_10",
-      "start": 1036.57,
-      "end": 1763.71,
-      "speaker_name": "unknown",
-      "reason": "Speaker expresses concern about council members' ability to analyze issues and balance personal opinions, indicating a public comment on city governance.",
-      "text": "really be comfortable with uh your ability to understand the issues and to really analyze the issue and then like you said make sure that your your personal opinions and things but also"
     },
     {
       "block_id": 16,
@@ -38,17 +29,8 @@
       "start": 1763.71,
       "end": 1793.37,
       "speaker_name": "unknown",
-      "reason": "Speaker explicitly states they are there to guide city officials on decisions reflecting community values, identifying as a community member during the public comment period.",
+      "reason": "speaker identifies as a community member expressing values and purpose for attending the meeting",
       "text": "proactively guide city officials on how to make good decisions that reflect the values of justice diversity transparency and community benefit considering both the intended and unintended impacts of the decisions we make and the desires that our residents have for their communities so that's what really brings me uh here to this table thank you so much i'll do it now"
-    },
-    {
-      "block_id": 17,
-      "speaker": "SPEAKER_04",
-      "start": 1794.65,
-      "end": 1800.33,
-      "speaker_name": "unknown",
-      "reason": "Speaker asks a question about accountability and checks and balances for the city, consistent with a public comment on city governance.",
-      "text": "so how do you see yourself holding accountability to checks and balance needed for the city and the"
     },
     {
       "block_id": 24,
@@ -56,7 +38,7 @@
       "start": 1969.96,
       "end": 1977.56,
       "speaker_name": "unknown",
-      "reason": "Speaker asks a question about elected officials' integrity and community trust during the public comment period.",
+      "reason": "speaker asks a question about elected officials and community trust during public comment period",
       "text": "Thank you for being here. Thank you. How do you believe that integrity and honesty and elected officials can help build trust and engagement in the community"
     },
     {
@@ -65,7 +47,7 @@
       "start": 1977.56,
       "end": 2026.8,
       "speaker_name": "unknown",
-      "reason": "Speaker discusses ethical codes and community trust in the context of city officials during the public comment period.",
+      "reason": "speaker discusses ethical code of conduct and community trust in response to previous question",
       "text": "yeah um integrity um i think people like to think of it as you know making the right decision when nobody's looking um and i think that the ethical code of conduct or an ethical framework would help um develop trust uh with the community uh knowing that there is guidelines for decision making in the city that put the community at the center. When integrity is mentioned, I think when we hold our city officials and myself to integrity, I think it comes down to is when nobody's watching across the table inside the committee meetings, are we treating each other with respect, have similar goals towards justice, truth, and ultimately community benefit."
     },
     {
@@ -74,7 +56,7 @@
       "start": 2027.4,
       "end": 2041.32,
       "speaker_name": "unknown",
-      "reason": "Speaker asks a question about decision consistency across cases during the public comment period.",
+      "reason": "speaker asks about decision consistency during public comment period",
       "text": "Thank you. Thank you. Thank you for being here tonight. How will you ensure that your decisions, your decisions are consistent across cases?"
     },
     {
@@ -83,7 +65,7 @@
       "start": 2213.42,
       "end": 2300.72,
       "speaker_name": "Chris Solt",
-      "reason": "Speaker identifies as a candidate introducing themselves during the public comment period and expressing their background and connection to the city.",
+      "reason": "The speaker identifies themselves as a candidate and addresses the council during what appears to be a public comment or candidate interview period.",
       "text": "Mayor, Madam President, Council Members, I'm really honored to be here and also really enjoyed hearing the interviews of the other candidates. My name is Chris Solt. I was born and raised in Vermont. I actually grew up in Burlington, Vermont, which I'll get back to next very quickly. Then I moved to Cleveland, Ohio, and I lived in the inner city there for about 27 years. And then my wife and I moved here in 2018. And we love it here. We're never moving. Love this place dearly. I worked for an organization called 10,000 Villages, which is just 20 minutes north of here, starting in 2006. And I traveled to the city often. And so I got to know the city for about 20, last 20 years and fell in love with it. So I kind of feel like this is kind of my kind of new adopted home. Yeah, so I've worked in the fair trade world for about 20 years and I saw somebody sent me this opportunity and I was like, oh, I see a lot of what I've devoted my career to in this position. I think that what you all do in public service is I think a very special kind of calling and also has a special responsibility, which I think is something that should be shared with the community. So I think that's really interesting new opportunity for the city to help, I'd say, be a better"
     },
     {
@@ -92,7 +74,7 @@
       "start": 2303.01,
       "end": 2315.68,
       "speaker_name": "unknown",
-      "reason": "Speaker addresses a council member directly with a question about accountability and fairness, indicating they are a community member speaking during the public comment period.",
+      "reason": "The speaker addresses a council member directly with a question about accountability and fairness, indicating they are a community member speaking during the public comment period.",
       "text": "Okay. Councilor Diaz. Thank you for coming. How do you see yourself holding accountability to the checks and balance needed for the city and fairness to our residents?"
     },
     {
@@ -101,17 +83,8 @@
       "start": 2315.68,
       "end": 2386.9,
       "speaker_name": "unknown",
-      "reason": "Speaker discusses their organization's code of practice and fairness in relation to small businesses, expressing a position relevant to city business during the public comment period.",
+      "reason": "The speaker discusses their passion for fairness and their organization's code of practice, which aligns with a community member expressing an opinion during public comment.",
       "text": "Yeah. Well, as you could probably tell, like being in the fair trade world, the fairness is something that is something is very passionate i'm very passionate about um and uh kind of interestingly in my organization now we have a code of practice that we hold 200 uh small businesses to the united states and canada they've agreed to behave a certain way and they've asked us to hold them accountable so i'm very familiar with that kind of dance right it's a very important one to make I think that within a group having lots of diverse opinions, that's all very great, and building community within that group is important, but to understand the letter of the law, right, and the rule of law that we have agreed to work with, right? So I think being very mindful and building a lot of understanding with what are the tools that we are actually using to work, rather than, like, my own personal opinion about a policy or something that impacts me as a resident, I think continuously grounding ourselves in the basis of the ethics act, which is passed by the, you know, Pennsylvania legislature."
-    },
-    {
-      "block_id": 35,
-      "speaker": "SPEAKER_03",
-      "start": 2389.58,
-      "end": 2390.56,
-      "speaker_name": "unknown",
-      "reason": "Speaker addresses a council member by name, which is typical behavior for a community member during the public comment period.",
-      "text": "Councilor Hirsch."
     },
     {
       "block_id": 42,
@@ -119,7 +92,7 @@
       "start": 2556.09,
       "end": 2567.53,
       "speaker_name": "unknown",
-      "reason": "Speaker addresses council president directly about integrity and trust in elected officials during public comment period.",
+      "reason": "speaker addresses council president and asks about integrity and trust in elected officials during public comment period",
       "text": "council president thank you for being here this evening how do you believe that integrity and honesty and elected officials can build trust and engagement in the community yeah but um someone"
     },
     {
@@ -128,7 +101,7 @@
       "start": 2567.53,
       "end": 2613.69,
       "speaker_name": "unknown",
-      "reason": "Speaker continues discussion on political dialogue and trust between residents and elected officials in Lancaster City.",
+      "reason": "speaker continues discussion on political dialogue and trust between residents and elected officials",
       "text": "else just mentioned our current um political dialogue and um you know the tone right now is is really stark i think that in lancaster city um especially we have an opportunity to control what we have going in our community the integrity and trust that you all have and and lancaster elected officials have with residents is the currency by which you are able to spend the trust of the residents and the you know that you're supposed to represent their interests and if that's you know if that's seen as somehow damaged or somehow tainted in some way then it doesn't allow you to fully represent all the residents in the city to make the best community possible"
     },
     {
@@ -137,7 +110,7 @@
       "start": 2613.69,
       "end": 2634.92,
       "speaker_name": "unknown",
-      "reason": "Speaker asks council president about ensuring decisions are consistent regardless of political power or connections.",
+      "reason": "speaker thanks council president and asks about ensuring consistent decisions regardless of political connections",
       "text": "i mean it's really the biggest issue right thank you council clicks thank you council president thank you for being here tonight and uh how will you ensure that your decisions are consistently worst cases within the commission regardless of a person's political power or connections"
     },
     {
@@ -146,7 +119,7 @@
       "start": 5880.18,
       "end": 5934.63,
       "speaker_name": "Marlisa Yoder Bontrager",
-      "reason": "The speaker identifies as a resident, introduces themselves, and explains their long-term involvement with tree planting in the community, which is a genuine public comment during the committee's discussion of appointing members to the Shade Tree Commission.",
+      "reason": "The speaker identifies themselves as a resident and expresses their desire to serve on the Shade Tree Commission during the public comment period.",
       "text": "why you want to serve on the shade tree commission okay my name is marlisa yoder bontrager i live on i first moved to south hand street in 1988 so i've been there for a long long time and i've been involved with tree planting in that area just about since 1988 um and it's been neighborhood tree planting it's been also in the northeast um and um yeah i just i value trees really highly wherever they are but i think in an urban environment especially with the city's goals for water storm water reduction general life quality cooling all those things i think they're just a really valuable asset and i'd like to do more to support the city in getting more trees in the ground keeping the ones that we have healthy thank you"
     },
     {
@@ -155,7 +128,7 @@
       "start": 5946.9,
       "end": 5966.06,
       "speaker_name": "unknown",
-      "reason": "Speaker asks about city tree canopy efforts and what is going well or could be improved, indicating a community member's opinion during public comment.",
+      "reason": "speaker discusses city tree canopy and street trees as a community member",
       "text": "there things that you feel like as far as what the city is doing and getting us both the street trees and shade trees but also just its overall tree canopy things of the city should do better or what maybe things that are that are going well yeah I"
     },
     {
@@ -164,35 +137,8 @@
       "start": 5966.06,
       "end": 6027.97,
       "speaker_name": "unknown",
-      "reason": "Speaker suggests specific improvements to tree planting strategies and coordination between departments, consistent with a resident's public comment.",
+      "reason": "speaker proposes changes to tree planting approaches and storm water reduction as a community member",
       "text": "think that we could do change the traditional approach of just putting a single sidewalk street tree in to doing planting strips to doing cluster planting in areas where we're off the sidewalk a little bit uh and in that way create more habitat and more storm water reduction um i think that there could be more coordination probably between departments i um i don't know a lot of the background but it seems to me like sometimes sidewalks are uh put in without maybe consultation with the from the from the tree perspective from the um city arborist and the urban the urban what are you called mike forester forester um so i would like to see a very tight connection between when work is being done and um always keeping in mind what the opportunities might be for adding tree trees to whatever"
-    },
-    {
-      "block_id": 108,
-      "speaker": "SPEAKER_09",
-      "start": 6417.04,
-      "end": 6478.32,
-      "speaker_name": "unknown",
-      "reason": "Speaker addresses council member Ryan and discusses redevelopment site challenges, indicating they are a community member providing input during public comment.",
-      "text": "so how are we going to get 21 munich's community in there i think um ryan if i might jump in i've got a few notes here and if i uh misstate it please uh correct me um you're right council craig it's not a particularly large uh property this has been one of the challenges for the redevelopment of the site is uh it is a significant investment to do the historic rehabilitation of the building but then making the economics work of the project has been really challenging which is why it has sit um sat vacant for quite some time um this particular use for the for the site is actually a really good fit it's going to be a boutique hotel but it's a contactless hotel model um and i have in my notes here that is a total of 11 units uh for the building is that is that correct yes okay um it does make more sense than i apologize yes"
-    },
-    {
-      "block_id": 109,
-      "speaker": "SPEAKER_15",
-      "start": 6478.32,
-      "end": 6486.98,
-      "speaker_name": "unknown",
-      "reason": "Speaker appears to be responding to previous comments or expressing personal thoughts, consistent with public comment format.",
-      "text": "i have a lot of stuff floating around in my head so i pulled after something else"
-    },
-    {
-      "block_id": 110,
-      "speaker": "SPEAKER_09",
-      "start": 6486.98,
-      "end": 6529.08,
-      "speaker_name": "unknown",
-      "reason": "Speaker references historical commission recommendations and zoning interpretation, providing context on a site issue typical of public comment.",
-      "text": "okay great yes uh and i thought ryan described very well that there's just a small portion of the building that requires demolition but as a whole this historic asset is being preserved the historical commission did recommend approval I don't believe it was controversial in any way that's why we don't have anybody here from the historical commission this evening just a little more context on the site we had a zoning interpretation question earlier in the process that zoning interpretation question has been resolved the project is on a good track right now and still i need to go uh through land development i believe uh um or some portion of land development"
     }
   ]
 }

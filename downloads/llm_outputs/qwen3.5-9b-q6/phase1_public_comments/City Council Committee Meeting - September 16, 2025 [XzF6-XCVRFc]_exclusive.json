@@ -3,34 +3,25 @@
   "video_id": "XzF6-XCVRFc",
   "upload_date": "20250917",
   "model": "qwen3.5-9b-q6",
-  "n_chunk_errors": 2,
+  "n_chunk_errors": 0,
   "public_comments": [
-    {
-      "block_id": 26,
-      "speaker": "SPEAKER_06",
-      "start": 1807.99,
-      "end": 1826.66,
-      "speaker_name": "unknown",
-      "reason": "Speaker identifies a concern about public comment timing for late-arriving constituents during a council meeting.",
-      "text": "If I may the only question I have is for example if someone is coming in late and it's a constituent and by having the public comment in the beginning but not at the end when that hinder on some of the people that do work late and come to the meetings at a later time."
-    },
     {
       "block_id": 45,
       "speaker": "SPEAKER_06",
       "start": 2931.54,
       "end": 2955.35,
       "speaker_name": "unknown",
-      "reason": "Speaker asks a question about city employment misconduct and ethics board policies during the public comment period.",
+      "reason": "The speaker asks a question about city employment policies and ethics, indicating they are a community member seeking clarification during the public comment period.",
       "text": "just have one question in regards to any one that would employ with the city that would make any death threats or any comments publicly is that something that would be included in here as well of any type of misconduct with the ethic boards well i mean that"
     },
     {
-      "block_id": 55,
+      "block_id": 51,
       "speaker": "SPEAKER_05",
-      "start": 3173.06,
-      "end": 3188.8,
-      "speaker_name": "unknown",
-      "reason": "Speaker identifies as having personal knowledge of cancellations and addresses the council directly during public comment period.",
-      "text": "polite council chambers thank you well actually I do have the cancellation from I believe that was in August and there was one in July that they were both canceled and I know that because I came personally and was told it was canceled"
+      "start": 3097.25,
+      "end": 3144.86,
+      "speaker_name": "Irene Grievous",
+      "reason": "The speaker identifies themselves as a resident and raises concerns about ethics commission meetings and potential sunshine law violations.",
+      "text": "Irene Grievous, 400 Block of West End Avenue. My understanding is there was a some kind of ethics commission or some kind of meeting yet that has not been publicly made and I've actually had tried to come to two previous scheduled ones and they were canceled and I was not even aware that they had been rescheduled isn't that a violation of the sunshine law and when were these meetings for the ethics and planning for the ethics Commission do you have anything further thank you I'm"
     },
     {
       "block_id": 57,
@@ -38,17 +29,8 @@
       "start": 3201.44,
       "end": 3229.43,
       "speaker_name": "unknown",
-      "reason": "Speaker asks a question about board commission membership numbers during the public comment period, identifying as a community member.",
+      "reason": "The speaker asks a question about board commission membership numbers during the public comment period, identifying as a community member.",
       "text": "a question in regards to the um the board's commission and authorities is there any way that we could add like right next to um the title the number of how many are per members. For example the airport authority is there five members is it 10 members."
-    },
-    {
-      "block_id": 59,
-      "speaker": "SPEAKER_06",
-      "start": 3282.62,
-      "end": 3293.18,
-      "speaker_name": "unknown",
-      "reason": "Speaker clarifies that the previous question was asked by a community member and provides context during the public comment period.",
-      "text": "question is actually being questioned by a community member that wanted to know why the numbers of members are not there. So that's that's something I would probably"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "video_id": "vqNOsyBYp08",
   "upload_date": "20250206",
   "model": "qwen3.5-9b-q6",
-  "n_chunk_errors": 1,
+  "n_chunk_errors": 0,
   "public_comments": [
     {
       "block_id": 7,
@@ -11,17 +11,8 @@
       "start": 647.06,
       "end": 663.74,
       "speaker_name": "unknown",
-      "reason": "Speaker asks a question about egress and windows on the apartment side of a plan, indicating they are a community member reviewing the proposal.",
+      "reason": "speaker asks questions about the plan and egress during public comment period",
       "text": "i was looking at the plan and i know there's one with a little bit more detail that was also sent to us um what are we looking at for egress or maybe windows on the um apartment side sure"
-    },
-    {
-      "block_id": 8,
-      "speaker": "SPEAKER_00",
-      "start": 663.74,
-      "end": 807.71,
-      "speaker_name": "unknown",
-      "reason": "Speaker discusses egress, architectural drawings, and past development experience, indicating they are a stakeholder providing feedback on the plan.",
-      "text": "yes so the egress is gonna and i had done the original just hand drawing um architects kind of been working through what she's doing there so the access to the apartments is along west grand street so a few years back i had done the development of 30 north water street and that was creating micro apartments commercial on the first floor by doing that we you know dug down excavated to be able to to provide ada access for that building so the plan with these other apartments so 32 it's 32 and 34 north water street it's just deed wise it's called 32. so lancaster galleries joyce recently retired so i bought the building years back so our agreement was once she retired i was just going to develop the back part of that so the front part of it is staying commercial and then the rear part is this warehouse piece that was added i'm guessing probably in the 60s or something like that it used to be friendly taxi had they would drive in from the street and just work on their taxis in the back which is kind of interesting and unique for sure so ultimately to get access to those we're going to use the current ada ramp which has the level air at the bottom there so based on calculations it's about three inches difference to be able to ramp up to the concrete warehouse floor which is why you see that cut in you know there inside the door that we're going to create there so right now we have mini split HVAC so we're just going to move those over and just extend the entrance you know into that warehouse at that property so as far as windows there are a few small windows around the sides of the the warehouse so as we kind of work through that we're figuring out if egress windows are necessary and previously in the past there had been about eight skylights as part of the roof structure there so we're going to look to add those as well so to get the natural light into the apartments"
     },
     {
       "block_id": 15,
@@ -29,7 +20,7 @@
       "start": 947.6,
       "end": 965.27,
       "speaker_name": "unknown",
-      "reason": "Speaker asks a question about bike parking at facilities during the public comment period, indicating they are a community member providing feedback.",
+      "reason": "The speaker asks a question about bike parking and apartment size during the public comment period, indicating they are a community member providing feedback.",
       "text": "were doing the only real question I have is you answered the question slash concern I had at the last meeting which is the commercial space because it's on the water street with the bike lane correct on the note of bike lanes do you have any uh bike parking at your facilities around here"
     },
     {
@@ -38,7 +29,7 @@
       "start": 965.27,
       "end": 1023.22,
       "speaker_name": "unknown",
-      "reason": "Speaker responds to a previous question about bike parking and discusses apartment sizes, indicating they are a community member providing feedback.",
+      "reason": "The speaker responds to the previous question about bike parking and provides details about facilities, showing they are a community member engaged in the discussion.",
       "text": "so there is um at 210 west grand street we have a built-in um bike parking and that at 30 north water street we had like a bike rack you know set up so i mean it's kind of not bolted down but i mean it's available for bike parking. And I had spoken to Jamil about that so. I'm just curious about the size of these apartments. So right around 400 square feet or so. So you know the warehouse itself that's where we're just kind of working through dimensions. So the warehouse itself is about 2,400 square feet. So she was showing these at a little over 400 so which is like 16 so i mean i figure there's probably square footage somewhere that just wasn't calculated but you know studio type apartments so nothing below the minimums that the city requires"
     },
     {
@@ -47,7 +38,7 @@
       "start": 1024.39,
       "end": 1030.87,
       "speaker_name": "unknown",
-      "reason": "Speaker expresses an opinion about the project size during the public comment period, indicating they are a community member providing feedback.",
+      "reason": "The speaker expresses an opinion about the project being a great one, which is typical of a public comment from a community member.",
       "text": "yeah i mean i think this is a great project especially at that size yeah i mean the ability"
     }
   ]

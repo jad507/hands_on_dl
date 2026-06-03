@@ -3,7 +3,7 @@
   "video_id": "aHT_ba_YwG8",
   "upload_date": "20250204",
   "model": "qwen3.5-9b-q6",
-  "n_chunk_errors": 4,
+  "n_chunk_errors": 0,
   "public_comments": [
     {
       "block_id": 29,
@@ -11,8 +11,17 @@
       "start": 1695.01,
       "end": 1712.78,
       "speaker_name": "unknown",
-      "reason": "Speaker expresses concern about public access to information and questions during the public comment period.",
+      "reason": "The speaker is asking questions about public access to information during a meeting, which is characteristic of a community member during a public comment period.",
       "text": "regards to um the items will this be discussed to the public i mean how is this going to be available for the public to ask questions i mean you you're asking or you're going to say that it's going to be presented in march but i think that the community should know"
+    },
+    {
+      "block_id": 58,
+      "speaker": "SPEAKER_08",
+      "start": 3386.96,
+      "end": 3414.85,
+      "speaker_name": "unknown",
+      "reason": "The speaker thanks the city for prioritizing housing and affordable housing, indicating a community member expressing an opinion during public comment.",
+      "text": "just a comment I want to thank the city for continuing to prioritize housing and affordable housing and home repair and continuing to thank you guys for the"
     },
     {
       "block_id": 63,
@@ -20,7 +29,7 @@
       "start": 3584.84,
       "end": 3591.11,
       "speaker_name": "unknown",
-      "reason": "Speaker references CDBG funds and expresses willingness to work on engagement, indicating a community stakeholder perspective during public comment.",
+      "reason": "speaker references working with city staff on CDBG funds and expresses interest in engagement",
       "text": "with the cdbg funds uh thank you and i look forward to working with you guys on the engagement"
     },
     {
@@ -29,7 +38,7 @@
       "start": 3591.11,
       "end": 3612.06,
       "speaker_name": "unknown",
-      "reason": "Speaker references voting on an item and mentions an organization they work for, indicating a community stakeholder perspective during public comment.",
+      "reason": "speaker references voting on an item and mentions their organization's involvement in action plans",
       "text": "around the 2026 23rd plan wonderful just a quick comment I'll say from voting on this item just because the organization that I work for assets is listed as an organization in the action plans same from voting thank you are there any"
     },
     {
@@ -38,7 +47,7 @@
       "start": 3612.06,
       "end": 3623.64,
       "speaker_name": "unknown",
-      "reason": "Speaker asks for further comments or questions regarding funding, indicating a community stakeholder perspective during public comment.",
+      "reason": "speaker asks for further comments or questions regarding city funding",
       "text": "further comments or questions in regards to the funding for the CBD G and housing"
     },
     {
@@ -47,7 +56,7 @@
       "start": 3623.64,
       "end": 3631.16,
       "speaker_name": "unknown",
-      "reason": "Speaker asks a question about funding for local shelters during the public comment period.",
+      "reason": "speaker asks a question about funding for local shelters during public comment",
       "text": "is is that including some of the shelters does any of that funding go to any of the local shelters"
     },
     {
@@ -56,7 +65,7 @@
       "start": 3631.16,
       "end": 3639.98,
       "speaker_name": "unknown",
-      "reason": "Speaker responds to the previous question about shelter funding during the public comment period.",
+      "reason": "speaker responds to previous question about shelter funding",
       "text": "that we have good question the only funding that i saw that went to the shelters was from 2021 that"
     },
     {
@@ -65,7 +74,7 @@
       "start": 3639.98,
       "end": 3712.07,
       "speaker_name": "unknown",
-      "reason": "Speaker provides detailed information about funding sources for homeless shelters and asks a follow-up question during the public comment period.",
+      "reason": "speaker provides detailed explanation about funding sources for homeless shelters",
       "text": "was part of the esg allocation so homeless shelters and service for homeless individuals is out is funded through the emergency solutions grant or esg funding for which we received entitlement funds in 2021 but not since and those same activities are not eligible through cdb for cdbg funding because they are funded with federal entitlement esg funding so cdbg cannot fund shelter activities or activities for the homeless but isn't that considered someone that is unhoused that needs housing yes the so someone who is unhoused would definitely need housing the affordable housing development solutions is for the construction of new housing or the rehabilitation of affordable housing so it's more about the infrastructure of the housing than it is about service to that particular individual and that is in the nuance of what is allowable or unallowable in the federal regulations and how many houses are actually"
     },
     {
@@ -74,7 +83,7 @@
       "start": 3712.07,
       "end": 3729.35,
       "speaker_name": "unknown",
-      "reason": "Speaker asks specific questions about CDBG funding and stock numbers for repairs, indicating they are a community member seeking information during the public comment period.",
+      "reason": "speaker asks specific questions about CBD job dollars and funding details during public comment period",
       "text": "listed for the cbd job dollars to repair do you have a stock number how many we have funded with cdbg how many are going to be funded and the repairs being done is there a stock number a"
     },
     {
@@ -83,7 +92,7 @@
       "start": 3808.62,
       "end": 3816.02,
       "speaker_name": "unknown",
-      "reason": "Speaker responds to a previous comment by asking for clarification on the number of houses to be repaired, consistent with a community member engaging in public discussion.",
+      "reason": "speaker responds to previous comment with question about number of houses to be repaired",
       "text": "so so you're looking at probably repairing what three houses with that particular money depends"
     }
   ]

@@ -3,16 +3,25 @@
   "video_id": "JJbmuzCmd6s",
   "upload_date": "20250212",
   "model": "qwen3.5-9b-q6",
-  "n_chunk_errors": 2,
+  "n_chunk_errors": 0,
   "public_comments": [
     {
       "block_id": 10,
       "speaker": "SPEAKER_03",
       "start": 550.66,
       "end": 577.84,
-      "speaker_name": "Ed",
-      "reason": "Speaker identifies as a community member thanking the council and city for their commitment to Black History Month and the Black community.",
+      "speaker_name": "ed",
+      "reason": "the speaker identifies as a community member thanking the council and city for their commitment to the black community during the public comment period",
       "text": "resolution the council president if I may counselor I'm ed I just want to thank councillor Craig for introducing this resolution and I want to thank the city of Lancaster for its commitment to celebrating black history month especially in a time nationally where it does not seem to be prioritized so I just want to thank members of council and thank the city for its commitment to our black community here in Lancaster Thank You councillor I'm an additional"
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_01",
+      "start": 974.99,
+      "end": 1045.73,
+      "speaker_name": "unknown",
+      "reason": "speaker discusses a cost-sharing agreement resolution and road ownership in a manner consistent with public comment",
+      "text": "resolution is essentially uh entering the city into a cost-sharing agreement with maynham township as many of you may know marshall avenue is along the northern border and southern of the city and the southern border of man i'm township um and it zigzags pretty chaotically and so this kind of allows the city to enter into an agreement where um they are taking on the portion of the cost that uh is proportionate to the city's ownership of the road which in this case these improvements are primarily going to be to improve uh biking and walking infrastructure along marshall ave total cost is roughly 62 000 so it's a pretty low cost project on the whole the city is going to take 82 percent of that as they own 82 percent of that roadway it's not a full resurfacing project it's base improvements to the roadway to allow the additional infrastructure to be put in and my understanding is that the work is slated to take place later this year it's a correct director Campbell is nodding so that's pretty much the deal"
     },
     {
       "block_id": 57,
@@ -20,7 +29,7 @@
       "start": 1695.14,
       "end": 1721.11,
       "speaker_name": "Susie Gomez",
-      "reason": "Speaker identifies as a resident and asks questions about city funding during the public comment period.",
+      "reason": "Speaker identifies as a resident and asks questions about city funding during the public comment period",
       "text": "Good evening. Susie Gomez, 100 Block of North Reservoir Street. Thank you. Can you explain to me CBBG funding? Is that government funding? Yes, that's federal government funding. OK. So total investment of, you said, $25.6 million?"
     },
     {
@@ -29,26 +38,8 @@
       "start": 1740.54,
       "end": 1773.53,
       "speaker_name": "unknown",
-      "reason": "Speaker continues asking clarifying questions about funding allocations during the public comment period.",
+      "reason": "Speaker continues asking clarifying questions about funding allocations during the public comment period",
       "text": "And that is government funding, correct? Yes. OK. The other question would be, you had mentioned increased funding. The $305,000 is being allocated, is that correct? Reallocated. Reallocated. So you're going from 2020 to 2024 to show rejected funds? Can you explain that a little better?"
-    },
-    {
-      "block_id": 63,
-      "speaker": "SPEAKER_08",
-      "start": 1834.58,
-      "end": 1843.51,
-      "speaker_name": "unknown",
-      "reason": "Speaker asks a question about reassessing and making changes, indicating a community member's concern during public comment.",
-      "text": "um you want to reassess and make changes for what for what you're reassessing"
-    },
-    {
-      "block_id": 65,
-      "speaker": "SPEAKER_08",
-      "start": 1859.33,
-      "end": 1878.76,
-      "speaker_name": "unknown",
-      "reason": "Speaker discusses annual action plans and funding for housing, expressing an opinion on city measures during public comment.",
-      "text": "this measure yeah but you're turning it in you're you're also really doing the annual action plan right you're taking all that into consideration without so meaning that there is funds available for housing and that's what these fun"
     }
   ]
 }

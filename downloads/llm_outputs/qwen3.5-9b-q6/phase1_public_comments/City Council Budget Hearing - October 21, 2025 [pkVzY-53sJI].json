@@ -3,15 +3,24 @@
   "video_id": "pkVzY-53sJI",
   "upload_date": "20251022",
   "model": "qwen3.5-9b-q6",
-  "n_chunk_errors": 6,
+  "n_chunk_errors": 0,
   "public_comments": [
+    {
+      "block_id": 124,
+      "speaker": "UNKNOWN",
+      "start": 2686.16,
+      "end": 2757.9,
+      "speaker_name": "unknown",
+      "reason": "The speaker explicitly invites public comments and questions, indicating they are a staff member or council member conducting official business rather than a community member providing public comment.",
+      "text": "over the next couple of years great thank you um any questions or comments from the public come on up good evening mr stu drier go ahead um a couple of comments and then a couple of questions um preface by saying um recognize that budgeting is a months-long process and listening to a 10-minute presentation and jotting a few notes is not the same as pouring over the stuff for months so with that caveat um number one um congratulations for actually drawing you know spending less on treasury three percent less that's fantastic and um you know keep up the good work and look for doing that in other"
+    },
     {
       "block_id": 126,
       "speaker": "UNKNOWN",
       "start": 2800.14,
       "end": 2803.9,
       "speaker_name": "unknown",
-      "reason": "Speaker discusses land development plan and permit processes, indicating a community member or business owner concerned about city procedures.",
+      "reason": "speaker discusses land development plan and permit processes as a community member",
       "text": "land development plan and then i have to go somewhere else to get my permit i have to go"
     },
     {
@@ -20,7 +29,7 @@
       "start": 2803.9,
       "end": 2858.94,
       "speaker_name": "unknown",
-      "reason": "Speaker questions the efficiency and cost implications of proposed changes to permit processes, consistent with public comment on city decisions.",
+      "reason": "speaker questions efficiency of permit process and its impact on expenses as a community member",
       "text": "to department of public works and then have to go to see my permit get my permit it's certainly not clear to me how that would make things more efficient or streamlined so that would be my main question and um again uh if we're making things more streamlined ultimately they should reduce expenses and personnel and it sounds like we're increasing expenses and personnel so i'm not sure how that all adds up um would also suggest and i'm going to put on my strong hounds strong towns lancaster hat for a second here uh one way to streamline permittings by actually reducing and and eliminating regulations strong towns has what they call the six policies for a housing ready city one of them is streamline the approval process cities can implement 24 hours approvals for straightforward projects like duplex conversions backyard cottages and starters homes making"
     },
     {
@@ -29,7 +38,7 @@
       "start": 2858.94,
       "end": 2863.76,
       "speaker_name": "unknown",
-      "reason": "Speaker comments on the benefits of streamlined development processes, consistent with public comment on city decisions.",
+      "reason": "speaker discusses development costs and community benefits as a community member",
       "text": "it easier and faster to get built this reduces cost encourages development and provides communities"
     },
     {
@@ -38,7 +47,7 @@
       "start": 2863.76,
       "end": 2868.98,
       "speaker_name": "unknown",
-      "reason": "Speaker discusses housing development and local economy incentives, consistent with a community member's perspective on city policy.",
+      "reason": "The speaker discusses housing development and local economy incentives, which aligns with a community member's perspective on city policy.",
       "text": "with the homes they need without unnecessary and costly delays it also incentivizes small"
     },
     {
@@ -47,7 +56,7 @@
       "start": 2868.98,
       "end": 2876.97,
       "speaker_name": "unknown",
-      "reason": "Speaker continues discussing developers and local economic impact, consistent with a community member's perspective on city policy.",
+      "reason": "The speaker continues discussing developers and incremental development, indicating a stakeholder's opinion on economic impact.",
       "text": "developers and incremental development which helps the local economy yeah my"
     },
     {
@@ -56,35 +65,44 @@
       "start": 2876.97,
       "end": 2896.22,
       "speaker_name": "unknown",
-      "reason": "Speaker asks a specific question about billing cycles and resident experience, consistent with a community member seeking clarification on city services.",
+      "reason": "The speaker asks a specific question about billing cycles, suggesting a resident's concern about city services.",
       "text": "question then is twofold number one reducing billing cycles from 17 to 4 is that something that city residents would be seeing would that change what they're experiencing terms of their billing it initially may change because the billing"
-    },
-    {
-      "block_id": 246,
-      "speaker": "UNKNOWN",
-      "start": 5405.1,
-      "end": 5412.51,
-      "speaker_name": "unknown",
-      "reason": "Speaker references a previous council member's point and appears to be continuing a discussion rather than introducing themselves as a resident or community member during the public comment period.",
-      "text": "uh president baquet mentioned this before related to someone who can help guide and navigate and be"
     },
     {
       "block_id": 247,
       "speaker": "SPEAKER_00",
       "start": 5412.51,
       "end": 5449.14,
-      "speaker_name": "unknown",
-      "reason": "Speaker identifies themselves as a resident of the 800 block of George Street and provides specific comments regarding the permit coordinator and management structure.",
+      "speaker_name": "tim stuhlder",
+      "reason": "The speaker identifies themselves as a resident from the 800 block of George Street and provides comments on the permit coordinator role.",
       "text": "a consultant i give uh credit we we've hired one permit coordinator kelly already and she's been serving that role and in some ways it's just she she can't get to everything and she's also not within a management structure yet and that's the purpose of the office i agree with you it is exciting and i thank you for your answers thanks thank you uh tim stuhlder 800 block of george street uh as before a couple of comments and then a question uh yeah as far as comments i would um"
     },
     {
-      "block_id": 248,
+      "block_id": 270,
       "speaker": "UNKNOWN",
-      "start": 5449.14,
-      "end": 5490.66,
+      "start": 5932.31,
+      "end": 5973.22,
       "speaker_name": "unknown",
-      "reason": "Speaker references previous council member comments and offers suggestions regarding building codes and systematic inspections, indicating a stakeholder perspective.",
-      "text": "second what marshall said i've also heard concerns about um permitting and streamlining that and making it more transparent would be fantastic um on along the same lines um improving the building codes function would also be really i think important and and welcome so adding an official that sounds like a good way to to do that on the systematic inspections um i would suggest cped might want to consider a couple of things first of all we have been doing lead safety remediation there are several hundred homes that have been successfully remediated as we've heard"
+      "reason": "The speaker discusses their work with city organizations and staff, indicating they are a community member or stakeholder providing feedback on city operations.",
+      "text": "conversation with those organizations so far i can say that i work very very closely for lancaster city with lancaster city alliance and um you know we've got marshall and jeremy and i leadership levels doing a ton of work that could be happening at a staff level as well and it makes it very uh difficult to get uh sort of all the output that you could if you were fully staffed thank you great thank you and just uh a comment um regarding my day job around economic development having close relationships with a lot of nonprofits that do great work around economic development"
+    },
+    {
+      "block_id": 271,
+      "speaker": "SPEAKER_00",
+      "start": 5973.22,
+      "end": 6008.42,
+      "speaker_name": "unknown",
+      "reason": "The speaker provides feedback on small business support and city resources, clearly expressing a community perspective during the public comment period.",
+      "text": "one of the consistent feedback that i've received that the city is can do a lot more to lean into small business support and navigating the amount of resources that exist within our community and also navigating some of the departments within city hall from a small business perspective so really appreciate you uh looking into this position for for future use um also just a comment around the lead abatement and completing that grant the number of homes that uh were serviced through that grant that that's a huge deal and i just want to commend you and your team to getting"
+    },
+    {
+      "block_id": 272,
+      "speaker": "UNKNOWN",
+      "start": 6008.42,
+      "end": 6012.9,
+      "speaker_name": "unknown",
+      "reason": "The speaker comments on the effort to build trust and run a program, consistent with a community member sharing their experience.",
+      "text": "that accomplished i know it was a heavy lift to get that program up and running building trust"
     },
     {
       "block_id": 396,
@@ -92,7 +110,7 @@
       "start": 8489.97,
       "end": 8494.93,
       "speaker_name": "unknown",
-      "reason": "Speaker asks a question about community advocacy for state pension contributions to relieve municipal burden, indicating a resident or stakeholder perspective.",
+      "reason": "speaker asks a question about police budget and state contributions during public comment period",
       "text": "at the police budget you know a question comes to my mind on you know what can we do and what can"
     },
     {
@@ -101,7 +119,7 @@
       "start": 8494.93,
       "end": 8535.62,
       "speaker_name": "unknown",
-      "reason": "Speaker continues discussing state contributions and police bureau pensions, referencing a presentation and advocating for more state funding.",
+      "reason": "speaker continues discussing advocacy for state pension contributions and police bureau funding",
       "text": "the community do to kind of advocate for a higher state contribution towards pensions to kind of give a little bit of relief to municipalities across the state given that it's kind of a flat you know contribution from the state you know what are ways that we could kind of advocate for more money for police bureaus and for pensions from the state probably a director campbell question i'm not really sure what we what more we can do um yeah i i i can try and get you an answer to that i don't have it right now though thank you i don't want to put her on the spot but"
     },
     {
@@ -110,7 +128,7 @@
       "start": 8535.62,
       "end": 8556.88,
       "speaker_name": "unknown",
-      "reason": "Speaker responds to a question about advocacy, referencing a previous presentation and emphasizing the need to keep advocating for state funding.",
+      "reason": "speaker responds to previous comment about state funding and advocates for continued advocacy",
       "text": "i don't have the answer to that i mean they don't have a real good answer except to just say keep advocating i mean you can see you saw in the october 6 presentation that our our costs with that continue to increase every year exponentially compared to what we get from the state so it's important to keep advocating for more from the state yeah and with you"
     },
     {
@@ -119,7 +137,7 @@
       "start": 8717.13,
       "end": 8729.77,
       "speaker_name": "unknown",
-      "reason": "Speaker discusses safe routes to schools and crossing guards, indicating a community concern during public comment.",
+      "reason": "The speaker discusses safe routes to schools and crossing guards, indicating a community concern during public comment.",
       "text": "zero efforts and our safe routes to schools so we know that those positions are are very critical in the city and we appreciate all the crossing guards that we have because uh is a really really"
     },
     {
@@ -128,7 +146,7 @@
       "start": 8729.77,
       "end": 8737.61,
       "speaker_name": "unknown",
-      "reason": "Speaker continues discussing the difficulty of the crossing guard job, consistent with public comment content.",
+      "reason": "The speaker continues discussing the crossing guard position and concludes their statement, consistent with public comment.",
       "text": "thankless and tough job um and um and so yes i think that's all i have to say about that i don't"
     },
     {
@@ -137,8 +155,26 @@
       "start": 8737.61,
       "end": 8756.25,
       "speaker_name": "unknown",
-      "reason": "Speaker elaborates on the challenges of crossing guard positions, consistent with public comment content.",
+      "reason": "The speaker elaborates on the difficulties of the crossing guard position, maintaining the public comment theme.",
       "text": "know if there's anything else to add yeah i would just add that it is a tough position to fill because it's a hour two in the morning an hour two in the afternoon so to get yelled at yeah an hour in the morning to yell that and then an hour or two in the afternoon there's been a ton of discussion as the mayor said there's been a ton of discussions but it's been a tough position"
+    },
+    {
+      "block_id": 411,
+      "speaker": "SPEAKER_00",
+      "start": 8756.89,
+      "end": 8762.49,
+      "speaker_name": "unknown",
+      "reason": "speaker expresses concern about abuse endured by drivers and community reflection",
+      "text": "from what i've seen it's worse than thankless it's i've seen the abuse that some of them endure and"
+    },
+    {
+      "block_id": 412,
+      "speaker": "UNKNOWN",
+      "start": 8762.49,
+      "end": 8779.61,
+      "speaker_name": "unknown",
+      "reason": "speaker expresses hope regarding sergeant summerall filling positions and thanks the council",
+      "text": "it's unfortunate it's a bad reflection on our drivers particularly in our community and i would just say i do really hope that i told sergeant summerall that i hope that he proves me wrong and fills every one of those positions i would love to see that as well thank you"
     },
     {
       "block_id": 417,
@@ -146,7 +182,7 @@
       "start": 8894.56,
       "end": 8902.72,
       "speaker_name": "unknown",
-      "reason": "Speaker identifies as a community member advocating for park ranger positions at Colleton Park during the public comment period.",
+      "reason": "speaker discusses community needs and advocates for park ranger positions during public comment period",
       "text": "the community particularly around colleton park like i thought uh the invictus partnership was great i think that that park ranger role is is critically needed so i would love for uh the"
     },
     {
@@ -155,7 +191,7 @@
       "start": 8902.72,
       "end": 8940.17,
       "speaker_name": "unknown",
-      "reason": "Speaker congratulates a retiring official and discusses accreditation benefits, indicating they are a community member speaking during the public comment period.",
+      "reason": "speaker congratulates retiring official and adds comments about park ranger positions during public comment period",
       "text": "department and council to consider that in future years yeah the only thing i would add with the park rangers um when you create a position that they're now city employees it's you know is you you have that position yeah so it's it's a long-term investment yeah thank you 800 block of george street um yeah so first of all uh congratulations on your upcoming retirement um also um huge huge congratulations on achieving accreditation um that has all kinds of you know"
     },
     {
@@ -164,8 +200,35 @@
       "start": 8940.17,
       "end": 8959.3,
       "speaker_name": "unknown",
-      "reason": "Speaker advocates for the city budget during the public comment period, consistent with a community member's position.",
+      "reason": "speaker advocates for city budget considerations during public comment period",
       "text": "positive benefits for the department the city and so forth so that's that's amazing that's absolutely fantastic so broadly speaking what I'm coming up to advocate for is I do think that the city budget in what essentially is a"
+    },
+    {
+      "block_id": 441,
+      "speaker": "SPEAKER_00",
+      "start": 9290.88,
+      "end": 9342.24,
+      "speaker_name": "unknown",
+      "reason": "speaker discusses city safety staffing and budget savings as a community member during public comment",
+      "text": "pretty significant that we've gone from a 145 to 128 that is an enormous amount of savings to budget over time and we're that we're not staffing at a level that's not appropriate to the call volume of our city and it speaks to the gains that we've made in safety our homicide rates are down et cetera et cetera i gotta stop talking because i jinx it but you see where i'm going tim and so i would say that that staffing study does answer your questions about what the relative need is for policing and the reduction from 145 to 128 speaks to the efforts that we've made to address what is the value and what should that number be in terms of maintaining public"
+    },
+    {
+      "block_id": 442,
+      "speaker": "UNKNOWN",
+      "start": 9342.24,
+      "end": 9361.06,
+      "speaker_name": "unknown",
+      "reason": "speaker continues discussing police staffing deployment and cost savings as a community member during public comment",
+      "text": "safety in the city and i would just add that the staffing study didn't just tell us what the number of officers should be it told us when we should be deploying those officers the times so we looked at that and we adjusted our minimum staffing around those times which when we're fully"
+    },
+    {
+      "block_id": 443,
+      "speaker": "SPEAKER_00",
+      "start": 9361.06,
+      "end": 9379.17,
+      "speaker_name": "unknown",
+      "reason": "speaker asks about incremental officer costs as a community member during public comment",
+      "text": "staffed will cut down significantly as well on cost if i could ask um the incremental cost of one officer roughly speaking uh new officers i think start out at 65 65 000 um fringe benefits"
     }
   ]
 }
