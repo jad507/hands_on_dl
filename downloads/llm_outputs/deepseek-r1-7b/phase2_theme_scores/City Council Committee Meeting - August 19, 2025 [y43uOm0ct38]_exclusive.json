@@ -1,0 +1,269 @@
+{
+  "title": "City Council Committee Meeting - August 19, 2025",
+  "video_id": "y43uOm0ct38",
+  "upload_date": "20250820",
+  "model": "deepseek-r1-7b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 0,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 784.08,
+      "end": 868.43,
+      "text": "good evening everyone i now call to order this special meeting work session of lancaster city council for august 19th 2025. a few reminders for all of you as we get started this meeting and its participants are being recorded this is a non-legislative working session of council this evening public comment will be taken at the end of the meeting on topics related to this evening's presentation of the administrative code as always comments are limited to three minutes per speaker and must begin with your name and block of residence for our meeting record also as a reminder questions on these sections the admin code will be taken after tonight's meeting by both the public and by council we'll get a review of the timing at the end of the meeting members of council we have one piece of business before we begin our presentation that's the approval of the minutes of our july 15th 2025 administrative code working session you've been provided a copy of those minutes i'll hear a motion motion to approve second we have a motion and a second counselors are there any comments on those minutes hearing none mr harris if you would madam president do we um i apologize as soon as i said that i realized i had not officially taken a role so we'll put a pause on that and we will take the roll call of members thank you for keeping us straight mr harris",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality issues."
+        }
+      }
+    },
+    {
+      "block_id": 1,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 868.43,
+      "end": 884.93,
+      "text": "here here thank you very much we'll now pick up that motion to approve the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and doesn't provide specific information about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and doesn't provide specific information about decision-making processes or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and doesn't provide specific information about health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and doesn't provide specific information about power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 2,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 884.93,
+      "end": 895.56,
+      "text": "minutes of our last administrative code working session on July 15th we had a motion and a second any council comments on the minutes hearing none mr. Harris",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information about decision-making process or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information about health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information about power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 3,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Mr. Metz",
+      "start": 895.56,
+      "end": 908.7,
+      "text": "Mr. Metz? Aye. Mr. Arroyo? Aye. Mr. Glees? Aye. Ms. Craig? Aye. And President Becker? Aye. Thank you so much.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 4,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Mr. Henberger",
+      "start": 908.7,
+      "end": 912.84,
+      "text": "All right that will take us into tonight's presentation. Mr. Henberger",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No specific mention of resources, utilities, or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 6,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Mr. Hand Burger",
+      "start": 3977.55,
+      "end": 4031.13,
+      "text": "presentation proceed thank you very much mr. hand burger to remind members of council that next meeting is September 16th that will be our next work session and as we did in the last work session we'll be going through the sections and having discussion and looking for consensus before this is presented as an ordinance in a regular meeting of City Council I just want to kind of follow up and and ask because you know the last section there was a lot of consensus right off the bat the the things were very clear I think if members of Council have specific additions and edits that they would like to present for discussion would you prefer that that come to you for the next meeting or would you prefer that they hold them until we are in that work session i'm not sure what the best way to present that would",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, costs, benefits distribution, or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "Unknown",
+      "start": 4031.13,
+      "end": 4083.99,
+      "text": "be from my perspective um i don't need advance notice but if council wants my opinion on how's the best way to draft this is this saying what i wanted to say feel free to reach out to me you know this is supposed to be discussion amongst yourselves but I'm here to help facilitate that so I would encourage my role as a facilitator I'm not in control of it it's your document to do with as you desire I'm happy to take a review of anything you might be proposing ideas you might be proposing if you you know if you'd rather understand is this gonna be allowed by law sure reach out to me before you get an answer of no or oh I have to research that I might be able to get the research done before the next meeting so from that from I think that if the purpose of that question and of course reaching out",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention anything related to electricity, water, waste management, or infrastructure costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, fairness, or decision-making processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss health impacts, air quality, or safety concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not touch on job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Unknown",
+      "start": 4083.99,
+      "end": 4136.91,
+      "text": "to you separately again to avoid discussion that which would violate sunshine law yes thank you and same with members of the public submitting those questions and comments through the portal so that we can be prepared to discuss them although it will be open after the meeting on the 16th it would best to talk about them before the 16th if possible so thank you very much for that this evening we will now counselors move into public comment during this meeting it's open to comments on the administrative code sections that were presented this evening comments are limited to three minutes per speaker and must begin with the speaker's name and block of residence for our meeting record if anyone wishes to make public comment this evening you can please proceed to the microphone at the end of the table and you may need just to turn that on",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "Tony Daschle",
+      "start": 4140.1,
+      "end": 4243.82,
+      "text": "tony daschle 700 block of new holland avenue as you work through advertising requirements i encourage you to have redundancy built into the system mentioned websites going down but newspapers being an old style those two things working in concert could be great redundancy is the reason we have two traffic lights on one pole so if one goes out you don't blow through a red light and kill somebody so redundancy in the advertising i think in the 21st century is necessary and then on the note of transportation metaphors as you work through the city engineer whether in this document or otherwise i encourage you to prioritize the position of city engineer to be given to somebody who has municipal traffic engineering certification as dictated by title 17 title 67 chapter 212 and i encourage that because that sort of certification empowers our city to have more control over the traffic control devices on state roads reduces the friction we need to have friction or just delay we have with pen dot it allows us to for example change signal timings to experiment we don't have to submit a report to ask PennDOT to do it we have to follow their standards but it empowers the city to do it themselves so those are my two main things based off the subject of tonight yeah thank you thank you very much are there any additional",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or fairness in decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or distribution of benefits."
+        }
+      }
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Counselors",
+      "start": 4243.82,
+      "end": 4264.44,
+      "text": "comments from the public on this evening's content hearing none we'll close public comment this evening and that is the end of our agenda counselors I'll hear a motion to adjourn second the motion and a second all in favor aye we are adjourned thank you very much",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspects of resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss decision-making processes or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health issues or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power dynamics, costs, or inequality."
+        }
+      }
+    }
+  ]
+}

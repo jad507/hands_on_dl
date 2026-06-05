@@ -1,0 +1,2687 @@
+{
+  "title": "City Council Meeting - September 9, 2025",
+  "video_id": "H5Gp_GuYYYg",
+  "upload_date": "20250912",
+  "model": "deepseek-r1-7b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 0,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "The City Council",
+      "start": 469.62,
+      "end": 602.48,
+      "text": "good evening everyone i'll now call to order this september 9th meeting of lancaster city council welcome a couple reminders here at the top of the meeting before we begin this meeting and its participants are being recorded this evening and do please take a moment to silence your phones and devices if you haven't done so already i'll make one note about the agenda resolution number 63 is not being taken up this evening it will appear on our agenda for the 23rd of september so at our next regular meeting during our meeting this evening there will be opportunities for public comment the first general public comment period is for residents that have registered in advance for the opportunity to speak about items not on the agenda residents may also comment on individual items on our legislative legislative agenda that's item nine in front of us tonight finally a second public comment period will be at the end of the agenda for anyone wishing to speak to address council about items not on the agenda all other speakers will be reminded all speakers rather will be reminded to begin with your name and block of residence for our meeting record and address our comments toward council please be advised that public comment is not a question and answer period all comments are limited to three minutes per speaker and to keep time there will be a light in front of me that turns green when a speaker begins it will blink yellow when there is one minute remaining and blink red when three minutes has been expended. At the end of three minutes the speaker will be asked to end their comment. I appreciate everyone's cooperation to maintain order and equal time and also remind speakers and everyone in the room that members of the audience will be and council are expected to conduct themselves in an orderly manner and remain respectful to others. Thank you. And now for all of those who are willing and able please rise for the Pledge of Allegiance. Mr. Harris would you please call the roll of members this evening. Yes Madam President.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 1,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "The City Council",
+      "start": 602.48,
+      "end": 611.34,
+      "text": "Mr. Menn. Here. Mr. Arroyo. Here. Mr. Glees. Here. Ms. Gregg. Here. Ms. Diaz. Mr. Hirsch. Here.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No specific mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No explicit discussion of decision-making process or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No explicit reference to power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 2,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "The City Council",
+      "start": 611.34,
+      "end": 622.26,
+      "text": "And President Beke. Here. Councillor Diaz is excused this evening. Our next item is the approval of the minutes of the August 26, 2025 meeting of Council.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 3,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "mr harris",
+      "start": 622.26,
+      "end": 626.54,
+      "text": "Motion to approve. Second. We have a motion and a second.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a simple motion approval without any detailed discussion of resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process concerns, information asymmetry, or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No health or well-being concerns expressed."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of inequality, jobs, or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 4,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "councillors",
+      "start": 626.54,
+      "end": 633.82,
+      "text": "Councillors are there are there any comments on the meeting minutes? Hearing",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not provide any specific information about resources or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health or well-being issues related to the AI data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss any power dynamics, costs, or inequality related to the project."
+        }
+      }
+    },
+    {
+      "block_id": 5,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "mr harris",
+      "start": 633.82,
+      "end": 642.75,
+      "text": "i'm mr harris mr med aye mr roya aye mr cleese aye miss craig all right and president becker",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 6,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "mr harris",
+      "start": 642.75,
+      "end": 659.5,
+      "text": "aye we'll move into proclamations honors awards and resolutions of recognition this evening we begin with council resolution number 56 2025 mr harris a resolution of the council of the city",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on council actions and resolutions, not directly on resource management issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is about the process of honoring awards, not on how resources or decisions are managed."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or resources related to the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address inequality, jobs, or resource distribution."
+        }
+      }
+    },
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "the organization welcoming america",
+      "start": 659.5,
+      "end": 669.74,
+      "text": "of lancaster recognizing welcoming week in the city of lancaster and celebrating the city's continuing designation as a certified welcoming city by the organization welcoming america",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or budgetary concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues, air quality, or noise pollution."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of jobs, economic benefits, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "zyra faloo",
+      "start": 671.13,
+      "end": 688.51,
+      "text": "motion to approve second we have a motion and a second counselors thank you very much for allowing me to introduce this this evening uh tonight we have uh zyra faloo uh from the city of lancaster who will be speaking to our efforts uh maintaining our welcoming city status and the events that we",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_11",
+      "speaker_name": "unknown",
+      "start": 688.51,
+      "end": 698.12,
+      "text": "have for Welcoming Week, or perhaps we have Millsy Carrasco.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 698.12,
+      "end": 699.22,
+      "text": "We welcome you.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 11,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 699.22,
+      "end": 706.42,
+      "text": "You can use either one of the mics there, Zaira, thank you, and you may just have to turn it on with the button.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Unknown",
+      "start": 706.42,
+      "end": 707.42,
+      "text": "Thank you for joining us.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, utilities, or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, decision-making, or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, safety, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "Unknown",
+      "start": 707.42,
+      "end": 714.28,
+      "text": "Yeah, push the button. You got it.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 14,
+      "speaker": "SPEAKER_11",
+      "speaker_name": "Unknown",
+      "start": 714.28,
+      "end": 1181.02,
+      "text": "You got it. Here we go. Roll the light. Okay, great. Thank you, everyone. I WILL BE PROVIDING AN UPDATE ON THE OFFICE OF LANGUAGE SERVICES WHICH SUPPORTS THE CERTIFIED AND IS REQUIRED BY THE CERTIFIED WELCOMING CERTIFICATION AND ALSO SUPPORTS OUR DIVERSE COMMUNITY MEMBERS. SO AGAIN, GOOD EVENING, COUNCIL MEMBERS AND MAYOR ZARAJI. THANK YOU FOR THE OPPORTUNITY TO PRESENT ANOTHER UPDATE FROM THE OFFICE OF LANGUAGE SERVICES. I am here to share our mission, our work, and why it is critical to ensuring equitable access to city services for all our residents. Next slide, please. Our mission is clear. We are dedicated to ensuring that all residents have equal access to city services, regardless of the language they speak. To achieve this mission, we provide three core services. Translation services, interpretation services, language support and consulting some service highlights over the past eight months are we have supported 25 initiatives in-person community engagements whether by personally attending the events or meetings or by sending an in-person interpreter. We have translated more than 100 documents social media posts and flyers fostered cultural group connections with public safety and other departments provided staff training and provided language access consultation for department initiatives have access census local language demographics and survey staff for language access improvement. Next slide please. The bright there. Thank you. And so this slide is a snapshot of all the city community engagement supported by language access as As part of the DUN department of neighborhood engagement and part of the engagement team, language access also provides support as the city team goes to events and engages in city initiatives through community partner events and meetings. Some of the events, for example, have been ASL interpretations at Celebrate Lancaster to like supporting the team members at the African-American Cultural Affair as they were tabling and providing engagement to the community at the events and many more than 25 events that I have attended or supported. Next slide, please. Slide four provides appropriate analytics comparison of 2023 and 2024, highlighting an increase in usage by year as staff receive training become more acquainted with language access tools and services next slide please and here is um this slide provides a glance at department proprio language line usage the 2025 proprio one platform usage remains strong and is increasing and those statistics will be provided in 2026 once the year 2025 is over and we collect all the data as you may observe our police department continues to utilize as the department that uses as the most among many all the other departments that are using our language line services and I would like to take a moment to acknowledge and and thank all city department staff, including the police bureau, for having a dedicated heart to serving our multicultural community with dignity and respect, without regard of what language a person may speak. It truly embodies the city's core values of quality, teamwork, integrity, and respect. Thank you for being champions of language access and for upholding the values that make our communities stronger together. Next slide, please. Why are we doing this work? The Office of Language Services has conducted assessments to understand the population being served. Here are some preliminary census findings from, for example, language spoken at home. It highlights that 34.8% of households speak a language other than English at home IN COMPARISON TO THE ACTUAL LARGER AREA OF LANCASTER COUNTY AND EVEN THE STATE OF PENNSYLVANIA, THE CITY OF LANCASTER REMAINS WITH A VERY DIVERSE COMMUNITY. IN ADDITION, 28.80% OF HOUSEHOLDS SPEAK SPANISH AT HOME, AND OF THE 28%, 45.8% OF THE SPANISH SPEAKING POPULATION IS LIMITED ENGLISH PROFICIENT. We also serve several small language communities such as Swahili, Arabic, Haitian Creole and over 23 languages represented as requested languages within our language line which have very high limited English proficient percentages, often lacking access to adequate language support because the languages are limited, of limited diffusion and there's less community members to support each other. So 57 countries are represented in the city through places of birth. Next slide, please. Therefore the Office of Language Services launched a staff survey to receive feedback on the services and tools being provided to staff to improve services. We have not received the official report, however, I am sharing preliminary survey results with you. 77% OF PARTICIPANTS, STAFF PARTICIPANTS, ARE AWARE OF LANGUAGE SERVICES AND REPORT USE OF PROPRIO AND LEVERAGE BILINGUAL STAFF, HIGHLIGHTING THE IMPORTANCE OF TRAINING OUR BILINGUAL STAFF. 45% OF PARTICIPANTS ARE FACING CHALLENGES AND TO BETTER SERVE, HAVE REQUESTED SUPPORTS in training with scenarios, quick reference guides, basic language phrases, among other requests. In conclusion, some trends from our preliminary findings are a need to increase bilingual staff training, evaluate new language access technologies, and elevate communications among staff. And thank you for this opportunity to provide this update on the Office of Language Services. In addition to that, in celebration of Welcoming Week, the city of Lancaster has the Welcoming Week lineup of events that began last Friday with International First Friday and continues throughout the week through September 17th.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspects of electricity, water supply, waste management, or fiscal burden on the city."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss decision-making processes, information asymmetry, or accountability issues related to the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health issues, air quality, or noise pollution related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power imbalances, job creation, or historical patterns of resource extraction and distribution."
+        }
+      }
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 1184.69,
+      "end": 1204.31,
+      "text": "Thank you so much for your presentation this evening and highlighting the work of the Language Access Program. It's really vital to ensuring that everyone has access to city services. and just excited to recognize Welcoming Week September 12th through the 21st. Councilors, any questions or comments? Councilor Med.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality issues."
+        }
+      }
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 1204.31,
+      "end": 1236.72,
+      "text": "Thank you, Council President. Thank you for the presentation. I just wanted to take the time to thank the administration and the Department of Neighborhood Engagement for continuing to work, even during times of challenges and uncertainty, continuing to work with our many community partners to ensure that we continue to celebrate our commitment to welcoming and diversity here in the City of Lancaster, and language access initiatives show how we can continue those intentional services and make sure that everybody has a dignified experience here in the city of lunch so i just want to take that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or distribution of benefits."
+        }
+      }
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 1236.72,
+      "end": 1279.45,
+      "text": "time to thank you all thank you other council comments that's president thank you zyra for the presentation um thank you for all of the tremendous work that you and your department are doing it's really important I if I understood the one statistic on the one slide correctly you said that 34.8 percent of people are speaking a language other than English at home I mean I think well we just ought to put that in perspective that means one in every three people we run into in Lancaster City are speaking another language at home and you know not doesn't mean they're not speaking English out in public but like it's important that we're doing this and so I just want to commend all the work you're",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Rachel Helwig",
+      "start": 1279.45,
+      "end": 1309.61,
+      "text": "doing thank you any other council comments on the resolution comments from the public on the resolution as you may be the first person you may need just to flip it on perfect all right thank you can you hear me okay yeah thank you of course my name is rachel helwig i'm the associate director",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_17",
+      "speaker_name": "Unknown",
+      "start": 1309.61,
+      "end": 1456.88,
+      "text": "for development and engagement at church world service lancaster and first i would like to echo council members comments in gratitude and recognition of Zyra her leadership and professionalism as well as the Department of Neighborhood Engagement and the Office of Language Services in particular I am really honored to get to be Zyra's colleague and I work with her closely so thank you for your leadership and for sharing this with us tonight at Church World Service Lancaster we believe that a thriving community is one where everyone feels safe valued and and supported. We may not all speak the same languages but we all share a love for our families and a desire to make our communities better. We'd like to thank City Council and the city of Lancaster for your ongoing commitment to building a welcoming community where everyone feels a sense of belonging and has the tools they need to thrive. Resolutions like this and the one honoring Hispanic Heritage Month following along with the sustained commitment to language access to integrating diverse voices into city planning and initiatives all show the city's commitment to a community where everyone is welcomed and valued for their diverse histories traditions and cultures that are making lancaster stronger these past nine months have been extremely challenging for our refugee and immigrant neighbors as well as refugee resettlement organizations like cws lancaster right now the indefinite suspension of the u.s refugee resettlement program remains largely in place stranding thousands of refugees who had been conditionally approved for resettlement including some who were scheduled to arrive here in lancaster and rejoin their families they have been separated from and sweeping changes to the u.s immigration system are generating fear among immigrant communities regardless of visa status we know that these actions do not reflect our values or who we are as a community welcoming is a core part of who we are in lancaster and who we've always been although these are challenging times tonight's resolution and continued commitment to welcome demonstrates that the beauty of lancaster as a welcoming place for human dignity and agency is honored and the diversity of background is cherished will not be destroyed thank you for your ongoing support thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making process or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality issues."
+        }
+      }
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Unknown",
+      "start": 1456.88,
+      "end": 1467.95,
+      "text": "very much are there any further comments from the public on the resolution hearing none mr harris",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific resources or infrastructure issues, so it scores 0.0 on this theme."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any process or decision-making concerns, so it scores 0.0 on this theme."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health or well-being issues, so it scores 0.0 on this theme."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any power dynamics or inequality concerns, so it scores 0.0 on this theme."
+        }
+      }
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "mr medley aye mr royal aye mr cleese aye mr craig aye mr hirsch aye president baker aye",
+      "start": 1468.83,
+      "end": 1477.39,
+      "text": "mr medley aye mr royal aye mr cleese aye mr craig aye mr hirsch aye president baker aye",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No specific resources or infrastructure are mentioned."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process issues like oversight or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No health concerns or environmental impacts discussed."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of inequality or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "mr harris",
+      "start": 1478.36,
+      "end": 1491.0,
+      "text": "thank you counselors and thank you to our department of neighborhood engagement the next item on our agenda this evening is resolution number 57 2025. mr harris",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 23,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "mr medley aye mr royal aye mr cleese aye mr craig aye mr hirsch aye president baker aye",
+      "start": 1491.0,
+      "end": 1509.31,
+      "text": "a resolution of the council of the city of lancaster recognizing september 15 2025 through october 15 2025 as Hispanic heritage month and encouraging awareness among the citizens of lancaster of the important contributions from people of latino descent motion to approve",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspects of resources, infrastructure, or budgetary impacts."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss decision-making processes, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health issues or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Council President",
+      "start": 1509.31,
+      "end": 1514.27,
+      "text": "second you have a motion and a second counselor royal thank you council president i don't have",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific resources or infrastructure issues, so it scores 0.0 on this theme."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any process or decision-making concerns, so it scores 0.0 on this theme."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health or well-being issues, so it scores 0.0 on this theme."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any power dynamics or inequality concerns, so it scores 0.0 on this theme."
+        }
+      }
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Community member",
+      "start": 1514.27,
+      "end": 1559.31,
+      "text": "much to add but just uh it's truly an honor to introduce this resolution every year to honor hispanic heritage month which begins september 15th through october 15th as we look around through different community organizations and community leaders that are led by hispanic community leaders it's truly we definitely get to see the impact by our hispanic community right here in lancaster and our community is better for it along with the welcoming city ordinance the hispanic heritage month resolution is just a reminder that now more than ever we need to be unapologetic of celebrating diversity equity and inclusion in our home here in lancaster city regardless of what's happening outside so i'm very grateful",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, utilities, infrastructure, or related issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, decision-making, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, well-being, noise, air quality, or health consequences."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, jobs, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Council member",
+      "start": 1559.31,
+      "end": 1582.34,
+      "text": "for council to stand behind this resolution thank you very much council royal i will just add that at our next regular meeting we will have a visit from a member of the governor's Hispanic Heritage Month excuse me the governor's Commission on Latino Affairs to read the governor's proclamation for the same and I'm excited to have them join us here in Lancaster for that any additional council comments on the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Mr. Harris",
+      "start": 1582.34,
+      "end": 1602.43,
+      "text": "resolution from the public hearing none mr. Harris mr. Mudd aye mr. Roya aye mr. Aye. Mr. Gregg? Aye. Mr. Hirsch? Aye. And President Baker? Aye. Thank you very much.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No specific resources or concerns are mentioned."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process issues, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No health or well-being concerns expressed."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of costs, benefits, jobs, or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 28,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Mr. Harris",
+      "start": 1602.43,
+      "end": 1611.6,
+      "text": "Our next item on this part of the agenda is resolution number 58, 2025. Mr. Harris?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 29,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Mr. Roya",
+      "start": 1611.6,
+      "end": 1625.8,
+      "text": "Resolution of the Council of the City of Lancaster calling on the legislature of the Commonwealth of Pennsylvania to pass legislation to adopt Senate Bill 504, the Community Soil Energy Act, and to allow for the creation of community",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 1625.8,
+      "end": 1633.51,
+      "text": "energy programs in pennsylvania motion to approve the motion and the second uh this is being",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not provide specific information about energy resources or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the process or decision-making behind the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health concerns or impacts related to the project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss power dynamics, costs, or inequality related to the project."
+        }
+      }
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 1633.51,
+      "end": 1714.88,
+      "text": "introduced by councillor hirsch thank you council president this resolution voices support for pa senate bill 504 an act providing for the creation of community energy facilities in pennsylvania including community solar facilities this legislation creates a regulatory framework to help create community solar facilities in pennsylvania allow electricity or electric customers to source their power from solar even if they do not have a suitable roof or space for solar panels on their own property, which is many folks here in Lancaster City. It passed on a bipartisan vote in the Pennsylvania State House by a vote of 114 yeas to 89 nays and was referred to the Consumer Protection and Professional Licensure Committee in the Pennsylvania State Senate. There are 235 proposed community solar facilities in Pennsylvania that a study from Penn State suggests could add 520 permanent jobs and create 83.3 million dollars of economic activity all while increasing green energy production here in the Commonwealth while we've discussed been discussing issues around energy production climate and energy demand on our grid I think it's important that Pennsylvania passes this legislation to increase renewable energy production as well as increase the resilience of our power grid and that concludes my remarks",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 32,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 1714.88,
+      "end": 1753.3,
+      "text": "on this resolution thank you very much councilor hirsch i appreciate you bringing this to our attention and the explanation that you provided both here and writing to counselors so we had a full understanding of what's been going on are there any additional council comments on the resolution from the public good evening you can bring that down to wherever you need to go and just reminder to begin with your name and block of residence thank you my name is elizabeth hoffman",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No indication of concern regarding resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process issues, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No reference to power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "i live in the 200 block of east ross street and thank you again councillor hirsch for shepherding through this resolution i'm a member of third act pennsylvania that works on climate and democracy and one of our top goals is getting state lawmakers to pass community solar for pennsylvania and as we all know energy is getting more expensive in part because of data centers and also we're using more ac because the summers are hotter and community solar",
+      "start": 1753.3,
+      "end": 1867.84,
+      "text": "i live in the 200 block of east ross street and thank you again councillor hirsch for shepherding through this resolution i'm a member of third act pennsylvania that works on climate and democracy and one of our top goals is getting state lawmakers to pass community solar for pennsylvania and as we all know energy is getting more expensive in part because of data centers and also we're using more ac because the summers are hotter and community solar is one of the fastest ways to get more energy on the grid and that can help bring down prices because it doesn't have to go through pjm that operates our electric grid also pennsylvania ranks a really embarrassing 49th among states in growth of renewable energy and we get less than one percent of our energy from solar and as councillor hirsch said a lot of people in microsoft can't have solar now because they are renters or the roofs are too shady or they just can't afford it and with community solar a business a farmer or a non-profit puts up a solar array such as on warehouse roofs brownfields are farms as part of agrivoltaics and then the residents subscribe to the project with guaranteed savings and i subscribed to one of these in when i lived in maryland and i really appreciated both the savings and knowing that i was helping put solar energy on the grid so again thank you for passing this resolution we're trying to get other municipalities to do this too this morning pittsburgh city council passed it and i think tonight allegheny county is passing it so thank you very much thank you very much we're good company any additional",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.7,
+          "reasoning": "The comment highlights concerns about increased electricity costs and water usage, which fall under Theme 1. The speaker mentions the strain on the city's resources due to data centers, indicating a direct impact on infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The speaker thanks Councillor Hirsch for her role in the resolution, suggesting a process-oriented perspective, though the main focus is on community goals and renewable energy, not specifically the process of decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health issues or concerns related to air quality, noise pollution, or health impacts from data centers."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The comment addresses the financial burden on residents and the lack of renewable energy access, touching on inequality but not explicitly discussing power dynamics or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "mr harris mr med aye mr royale aye mr cleese aye miss craig aye mr hirsch aye and president becky aye",
+      "start": 1867.84,
+      "end": 1888.85,
+      "text": "comments from the public on the resolution hearing none mr harris mr med aye mr royale aye mr cleese aye miss craig aye mr hirsch aye and president becky aye that will take us to the next part of",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No specific mention of resources, utilities, or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No explicit discussion about decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks, noise pollution, or air quality concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No explicit reference to job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "mr harris we have comments for the first public comment period tonight we do first",
+      "start": 1888.85,
+      "end": 1906.93,
+      "text": "our agenda which is the first public comment period reserved for residents who've contacted the city clerk prior to the meeting to request the opportunity to address council again duration of comments is limited to three minutes per speaker and please begin with your name and block of residents uh mr harris we have comments for the first public comment period tonight we do first",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any resources or infrastructure concerns, such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is about the process of the meeting itself, not about the project's impact on resources or decision-making fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health issues or environmental impact related to the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_14",
+      "speaker_name": "Frank Arculio",
+      "start": 1906.93,
+      "end": 2113.9,
+      "text": "is frank arculio good evening good evening everyone and thank you for this opportunity to speak uh i want to particularly thank the council uh for the resolution passed at the last meeting requesting a draft to amend the city ordinance to be more specifically directed of the regulations the manner in which data centers can be regulated through our zoning code I know counselors Ahmed and Craig were not here at the time so they didn't get to vote on it but I would hope that both of you are highly supportive I would expect that you would be of that so that's good and that's progress in less than two weeks I will be having an appeal before the zoning hearing board disputing the classification of the data center as proposed and so what did happen without telling anyone and by anyone I mean the council the Planning Commission and certainly the general public the administration gave approval for two data centers by calling those data centers warehouses basically the the classification is wholesale trade and storage which data centers clearly or not but having classified them this way it gave the developers the right to do anything within within that zoning classification without any scrutiny whatsoever so I am faced in less than two weeks with trying to convince the zoning hearing board that a data center is not a warehouse how in the world could I possibly do that well I realized that I've already answered my own question the City Council has unanimously voted to request an ordinance amendment that deals with data centers specifically in their own classification and not as warehouses so the City Council by its action has said and declared that data centers are not wholesale trade and storage warehouses and should not be regulated accordingly so look in your in email inbox counselors because I'm going to send you emails to ask you to testify as a witness at that zoning hearing board to show the the board that in fact data centers and warehouses are two different things I'll also ask you in that email to sign on to the appeal along with me and some of the other residents in the city of Lancaster thank",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker criticizes the lack of transparency in the decision-making process, calling for public input and detailing the lack of scrutiny for data centers, which raises concerns about fairness and legitimacy of the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Mr. Harris",
+      "start": 2113.9,
+      "end": 2121.08,
+      "text": "you very much thank you very much mr. Harris we have additional commenters for",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not provide specific concerns about resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, fairness, or decision-making processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health issues or environmental impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Irene Bravis",
+      "start": 2121.08,
+      "end": 2177.96,
+      "text": "this period we do have a president next is irene bravis thank you good evening um i am here again",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not provide any specific information about resources or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention anything about decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any health concerns or well-being issues related to the AI data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss any issues related to power distribution, inequality, or the impact on vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 39,
+      "speaker": "SPEAKER_13",
+      "speaker_name": "Mary Jones, Sean Carter, Jeremy Newman and many others",
+      "start": 2177.96,
+      "end": 2277.05,
+      "text": "this evening regarding um drafting a possible resolution for the property located in the 901 mountain street that has been under condemnation since 2021. major repairs have already been completed and certified no no full re-inspection has ever taken place the community is ready to help as previously mentioned in prior city council meetings residents like mary jones sean carter jeremy newman and many others are willing to finish any remaining of the 2021 items that were listed in the condemnation for 901 manor street the city keeps issuing citations at other properties while 901 manor street remains unresolved this delay this delays affordable housing during a crisis my request to city council is very simple either allow the community to finish any remaining items listed in the 2021 condemnation items or have the city complete them at cost and just fill me would that be simple then re-inspect lift the condemnation and restore the housing this property needs to be back on the uh on the housing market in the midst of a price of a housing crisis thank you thank you mr harris are there any further",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality issues."
+        }
+      }
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "Lancaster Public Library staff",
+      "start": 2336.87,
+      "end": 3093.86,
+      "text": "leave some hard copies of this presentation for any counselors or community members that would like i left it with mr harris so counselors mayor sirachi president and community members thank you for this chance to share on behalf of lancaster public library we value this partnership and we so appreciate the opportunity to share each year about what's been happening at the library and to also make a request for the coming year lancaster public library which if you don't know is just right back there uh our mission oh sorry i'm john heinle i'm the director of donor advising for Lancaster Public Library, the whole USB thing threw me off, and also a city resident, and with me are our executive director, Lisa Holland, and our library manager, Karina Burns, and our board president back there, Debbie Keys. When we have a chance for questions at the end, our two librarians might answer them instead of me, depending on the question. Lancaster Public Library's mission is to inspire, empower, and strengthen our community by connecting people with information ideas and enriching experiences and our vision by providing equitable access to vital educational resources exceptional programming and community building opportunities lancaster public library is recognized as a dynamic center and a corner of knowledge and a cornerstone of a thriving lancaster community in our last complete year 2024 here are some stats on how city residents used the library nearly 50 percent 46 percent of city residents are library card holders which is really cool over 156 000 materials were borrowed by city residents within the year and to give an idea of the value of those free resources for the community that is four and a half million dollars in free resources that our community access within one year and that's just the materials that are checked out that doesn't include uh things like being able to come in and use wi-fi attending programs and the many other valuable resources that people access through the library and beyond Lancaster City all the the work that we're doing in the broader community we had over 236,000 patron visits to the library over half a million items were circulated to members of the community and one of the most vital resources that is offered is access to internet and and devices which as we all know if we're paying for devices and or internet at home is expensive and so that is a an incredible thing for people to access and we had over 80 000 connections to either our public computers or to the free wireless internet we offer a lot of things beyond just books which you're probably familiar with but if you're not here are some examples and i won't go through all of them in detail but a few that i want to highlight our business and reference center is a really exceptional resource and unique not only to the county but in the surrounding counties the types of databases and other resources that are available through that are the sorts of things that programs like score the business mentoring program they send clients to come utilize those resources and we get people from well beyond lancaster to access that the The Autism Resource Center is one that we would love for the community to become more aware of, resources specifically for individuals or families who have someone who is on the autism spectrum or has a different sensory disorder. I mentioned some of the Internet pieces. Another one I want to call out is our workrooms and meeting rooms, and those are available for rent which is a revenue stream for us but also we have flex office which is a small meeting room there that is available for non-profits to use for free to meet with clients so i want you as leaders in the community and community members to be aware of that we would love to see that continue to be utilized even more and along with the programs and lots of fun items that can be checked out like i've checked out the parachute for our neighborhood night out things like that that. Another one is our e-resources. A lot of people are familiar with Libby and Hoopla, so there's e-books, audio books, streaming, all sorts of things. Again, stuff that is very expensive if you're doing it by subscription, free to access for the community. And I specifically want to call out Loat for Kids, which is a new resource that we added just this year. As we've been, and I appreciated the language access presentation, as we have been working at language access as well, it's very hard to get children's books in the many different languages represented in our community and this digital resource is an amazing tool it has dozens and dozens of different languages children's books that are available both you you can there digitally either to read or as audiobooks and one of our new neighbors friends a family from Afghanistan that joined the community this year I sat down with them and was looking at this and they were able to play one of these children's books alternating between English and I forget which of their home languages they have several that they their family speaks one of their languages we were able to alternate it between English and their their language of their home and it's an amazing resource for families children to learn English but also for adults to be able to learn English so I want people to know about that and please do spread the word about that as we partner with the city on on language access and being a welcoming city we have continued to see increase in our program attendance in 2024 we saw an 18% increase in attendance at our programs we just came off of our summer reading for 2025 over 4,000 community members participated and we offered over 200 programs and over a thousand of the summer reading challenges were completed which was really cool a few of the new programs and there are many more but some of the highlights that were added that were new last year read it and eat it cookbook club has been very popular. We did our first fully ASL story time we also did our fully our first fully Spanish story time and we added a future architects club and there's a lot of popular programs a few are baby story time which keeps having a lot of people come out to it and that one is really special because especially for new parents who have had their first child and are looking for community and connection many people form relationships and find support coming to that baby story time which is really special and many other clubs and and book clubs and programs that we have as well in terms of our funding um we broke it out a little bit more in this one that we have in previous presentations 64 percent of our our revenue is generated by the library and 36 comes 36 percent comes from government sources uh significantly over seven percent is through arpa funding which the city has been an amazing partner on and that will extend through 2026. after that one of the things we're looking at is how do we build sustainable funding as that as that goes away we're very grateful to the municipalities like lancaster city who support us financially that's about nine percent um and fundraising between the work that uh my department does and our friends volunteers uh it makes up about fifty percent of our budget so amazing community support that we're very very grateful for uh and is vital to our ability to continue offering these services to the community While the national average for support for libraries from local municipalities is much higher because of the way that Pennsylvania is structured it's a little bit different. Pennsylvania recommends five dollars per capita from local municipalities for funding. We average among the 14 municipalities that we're responsible for serving one dollar per capita. Lancaster, thank you, you are above that average pushing two dollars per capita and we're very very grateful for that i'll get into that a little bit more in a in a later slide here we are the eighth largest service area within the state of pennsylvania of 450 libraries and to show how amazing this resource is for our community we have the 18th largest catalog of materials among the libraries in pennsylvania and this is just lancaster public library this is not the county-wide system all the libraries included it's just downtown and the mountville branch so really a lot of wonderful things for our community to access we are incredibly appreciative of the city of lancaster and the financial support that we have received and faithful generous partnership over many years and especially as we came into this year and the question of home rule and all of that the various budget scenarios we knew that it may not play out this way and we are so grateful uh for uh that ongoing support at 110 000 again this year um and we do hope that you will consider uh at least that again moving into next year um and we are again very grateful for the support through arpa as well and later on tonight we will make the presentation on the length the local share account grant that we'll be applying for with the city but we do encourage you to consider continuing to increase as our costs are going up if we did get five dollars per capita from the 14 municipalities that we serve it would be 1.1 million dollars which is nearly half of our annual budget so if each of those municipalities continues to push up that amount that is being given the way that we'll be able to serve the community will will really grow additionally I mentioned the support of our community in the last five years so recent and active donors 782 individual community members have given to Lancaster Public Library and businesses and other community organizations 74 different ones over that time so we do really applaud and express our gratitude to our incredibly generous community so what's next and what are our dreams especially as we do grow our funding and our sustainability through the arpa funding we have added our on-the-go mobile library which we are incredibly excited about this is an incredible step for us and lisa as director for these past years has wanted to really work at overcoming barriers in our community and making sure that everyone in our community can access the resources of the library and taking away mobility issues and language access issues awareness all sorts of things so this year we launched this we have a full-time outreach specialist and a new van that's pictured there in the corner that is getting out went on tuesdays in the park rotated to the different city parks of the summer and partnering with schools and other community programs 42 community organizations already have been partnered with and over 5 000 community members have had interactions with this mobile library so we're very excited to be offering that and to grow that and grow our partnerships as we can increase our funding some of the things that we hope to do are expand those community partnerships even more and capitalize on that new program that we have launched we want to grow our asl spanish and other community language offerings so that we better represent the community and serve our community in all this diversity we would love to extend our evening hours for working professionals that find it hard to get into the library during our hours we would love to hire a social worker to support our patrons in additional ways and we would love to have more staff presence out on the floor to take the initiative in approaching and supporting patrons and whatever they might need there is a qr code on there that goes to our website not to our donation page but you can get there from that and there is my contact information as well and uh yeah welcome any questions and again uh lisa or karina might join me in answering any",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention anything about electricity, water supply, waste management, or budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss decision-making processes, information asymmetry, or the fairness of community involvement in public projects."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health issues, noise pollution, air quality, or health consequences of data center operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss unequal distribution of costs and benefits, historical patterns, or fairness in job creation."
+        }
+      }
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Community Member",
+      "start": 3093.86,
+      "end": 3143.05,
+      "text": "questions thank you so much for your presentation this evening um i do have a question off the bat so having seen you know these presentations for now several years it seems sort of anecdotally if i'm remembering correctly that your participation has gone up since your new location could someone uh speak to the way that things have changed like day to day in the library since it moved to its new location the good the bad the the positive what how much how much would you say it has increased since the new location opened don't be shy one of the things we've seen",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 43,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "Community Member",
+      "start": 3143.05,
+      "end": 3293.51,
+      "text": "for sure is people just coming and enjoying the space it's a lot more open to people who are there to just relax and read or work with their ipads or their laptops it's just a much more open and lighting space we have more computer access than we did at the old building it's a much more open area also for computers and we have 16 public computers and they are well used very very well used we have the terrace area now which is wonderful we never had anything like that before and people are definitely enjoying that during the summer as far as our children's area that has really picked up we divided out our children and our teen sections that was something huge in this building and you know we've seen the differences there we are able to really focus more on teens now and we can really do some of the great programming that brings them in like anime club and team gaming and so that's been fantastic um the attendance at our like our baby story time that john was talking about we doubled that we had one in the old building now we have it twice on a tuesday because we had so many babies who wanted to come to baby story time and of course their parents do um and so that has grown our summer reading um is growing we went downhill with that after 2020 but that is starting to pick up again and i think moving into the new building having more accessibility to outdoor programming we've been doing a lot of things at musser park and out in the plaza has grown some numbers there as well for summer reading so we're getting back to where we were before so really overall they're just meeting spaces that's so much better than in the old building we had one auditorium that we shared for children teens tweens adults and now we have three or four spaces and we can do more programs at the same time so now we sometimes have two adult programs going on at the same time because we have two rooms with a wall in between and we can also have one or two children's programs going on upstairs at the same time so we can just do more programming each day we can get more programming in so lots and lots of benefits as far as the space and the community gathering that we have in",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.7,
+          "reasoning": "The comment highlights increased computer access and outdoor spaces, which may imply strain on existing resources like electricity and water supply."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker focuses on community benefits rather than addressing the decision-making process or information asymmetry."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No direct mention of health issues or air quality concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The speaker emphasizes community gains without addressing inequality or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Community Member",
+      "start": 3293.51,
+      "end": 3321.46,
+      "text": "the building thank you so much it's it's always nice to hear about opportunities for spaces where people can just exist without the expectation to spend any money because we don't have any of those besides the library and that's why it's so valuable so thank you for that counselors any questions or comments on presentation this evening thank you so much for joining us this evening i would just quickly add",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 3321.46,
+      "end": 3369.7,
+      "text": "one other piece in answer to that question too uh is that i think being on ewell plaza and all of the community events that are happening in ewell plaza and bins park is growing awareness in the community of the library because it's right there and other than a couple i started with the library less than two years ago so in the new building other than taking my nieces and nephews to check out books my only other time in the library before i went to interview was i had to go to the bathroom when i was at the hispanic heritage festival so i went in so i really do think that that partnership as well and like some intentionality that uh we've had between the city and the library that i think we can continue to grow has really given opportunities for people to to become familiar with the library or to be reminded of it to get into it and see the new new space and then access",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 46,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 3369.7,
+      "end": 3382.93,
+      "text": "resources i agree thank you for being an anchor in that public space for us lisa yes as you may",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 47,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 3382.93,
+      "end": 3448.75,
+      "text": "remember we had a little incident last march with uh story hour and i want to say that although it was horrible as we went through it it has brought the staff together the silver lining is we all realized what the mission and vision were and work very hard now to stay within that and to be welcoming and really thinking through every new program or any new policy that it doesn't put up any kinds of barriers and that is something that I want to commend the staff on for for doing so in all bad things something good comes out of and that was what was good out of it and it's how we have progressed in the last year and a half just to be who we are and welcoming to everybody thank you so much I appreciate you coming and joining",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or community oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues, noise, air quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of jobs, inequality, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 48,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "us",
+      "start": 3448.75,
+      "end": 3452.11,
+      "text": "us this evening thank you thanks for the opportunity and thank you again for your",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information on resource usage or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process concerns, decision-making, or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No information about health impacts or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information on inequality, costs, or benefits distribution."
+        }
+      }
+    },
+    {
+      "block_id": 49,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "councilor hirsch",
+      "start": 3452.11,
+      "end": 3499.43,
+      "text": "support and partnership tech before we continue all right as we are getting reset we'll move to our next item on the agenda which is reports of committees of council these are the meetings that were held on september 2nd 2025 first is our public safety committee um in councilor diaz's absence uh councilor hirsch would you mind reviewing the work of the public safety committee",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 50,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "councilor hirsch",
+      "start": 3499.43,
+      "end": 3514.95,
+      "text": "yes the public safety committee met and heard um one item and one item was uh tabled uh the item that was heard it will be heard later on the legislative agenda resolution 59 adopting the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information on resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information on process or decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information on health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information on power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 54,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "economic development committee",
+      "start": 3528.79,
+      "end": 3534.07,
+      "text": "economic development committee did not meet finance committee council royal thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues related to the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts or concerns related to the project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "council president",
+      "start": 3534.07,
+      "end": 3563.51,
+      "text": "council president the finance committee did meet we discussed bill number six 2025 which authorized issuance of a 32 million dollar general general obligation note this is for the 42 inch water transmission line replacement the total project is for 41 million dollars but this interim financing would only be for 32 million dollars to ensure that the project is shovel ready and so we can secure long-term financing from penvest that concludes my report council",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct mention of resources or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No explicit discussion of process fairness or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts or benefits."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of inequality or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "president",
+      "start": 3563.51,
+      "end": 3568.47,
+      "text": "president thank you very much community planning committee councillor craig thank you council",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a thank you and does not address any of the resources or infrastructure aspects."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a thank you and does not address any process or decision-making aspects."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment is a thank you and does not address any health or well-being aspects."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a thank you and does not address any power dynamics or inequality aspects."
+        }
+      }
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "president",
+      "start": 3568.47,
+      "end": 3587.91,
+      "text": "president um community planning did meet we had five items on the agenda all five women no four of which will come up on our legislative agenda that concludes thank you very much and",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information on resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information on process or decision-making"
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information on health or well-being issues"
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information on power dynamics or inequality"
+        }
+      }
+    },
+    {
+      "block_id": 58,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "personnel committee counselor",
+      "start": 3587.91,
+      "end": 3605.86,
+      "text": "personnel committee counselor colleagues thank you madam president the personal committee did meet on september 2nd and we view nominations for reappointment to the public art advisory board and sewer appeals board that concludes my report madam president thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, utilities, or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 59,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "councillor",
+      "start": 3605.86,
+      "end": 3614.92,
+      "text": "much that takes us to our legislative agenda this evening we begin with those nominations for appointment councillor clicks thank you madam president I make",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspects of resources, infrastructure, or budgetary concerns related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the process or decision-making behind the project, including transparency, accountability, or community oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health risks, air quality, noise pollution, or health consequences related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, jobs, or distribution of costs and benefits, including non-human populations or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "Keisha feeling",
+      "start": 3614.92,
+      "end": 3639.2,
+      "text": "a motion to reappoint Keisha feeling to the public art advisory board for a term from July 31st 2025 to July 31st 2027 and Stephen Campbell to the sewer appeals board for a term from September 12 2025 to September 12 2030 second thank",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is about reappointing individuals to advisory boards, not about the AI data center project or its implications for municipal resources or process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact related to the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address inequality, jobs, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 62,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "Tony Dasha",
+      "start": 3659.82,
+      "end": 3720.78,
+      "text": "Tony Dasha 700 block in New Holland Avenue I actually think both of these nominations should go forward I just want to point out an inconsistency in logic which is that we have a board here that's strictly advisory so we're having conversations about other entities and i'm coming to say that advisory bodies are important bodies just because they don't have any we'll say power in a conventional sense they do have power they're educational they help you have an inter wow interface with the people you need to talk to advisory bodies are important so we as a city really shouldn't be discussing matters for the public and saying that just because something is not empowered to for example discipline or take action against it doesn't mean it doesn't have value thank you any additional",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "mr harris, mr minn, mr royale, mr cleese, mr craig, mr hirsch",
+      "start": 3720.78,
+      "end": 3736.64,
+      "text": "comments from the public on the nominations hearing none mr harris mr minn aye mr royale aye mr cleese aye mr craig aye mr hirsch aye",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No specific resources or infrastructure are mentioned."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process issues like oversight or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No health concerns or environmental impacts discussed."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of costs, benefits, or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 3792.34,
+      "end": 3799.62,
+      "text": "architectural review board motion to approve second we have a motion on a second counselor",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 67,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 3799.62,
+      "end": 3843.57,
+      "text": "craig anything additional on those two items honestly nothing more than what was said in the resolution um the 344 west chestnut street is i think one of the things that we should point out is that the west elevation facing north it's going to be mounted on the west elevation point facing north charlotte street per the submitted plan stipulating that the sign be mounted within the mortar joints not directly into the stone so nothing more than than that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, utilities, infrastructure, or costs related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues related to the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise pollution, or air quality concerns related to the project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits related to the project."
+        }
+      }
+    },
+    {
+      "block_id": 68,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 3843.57,
+      "end": 3857.94,
+      "text": "thank you very much counselor craig and both of those were recommended for our approval any additional council comments on the applications comments from the public or the applicants",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 69,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Mr. Harris, Mr. Mann, Mr. Royal, Mr. Cleese, Miss Craig, Mr. Hirsch",
+      "start": 3862.13,
+      "end": 3871.09,
+      "text": "hearing none mr harris mr mann aye mr royal aye mr cleese aye miss craig aye mr hirsch aye",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 70,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Mr. Baker",
+      "start": 3871.09,
+      "end": 3880.59,
+      "text": "president baker aye next item are ordinances for first reading we have administration bill number",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not provide any specific information about resources or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention anything about decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any health concerns or well-being issues related to the AI data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss any issues related to power distribution, inequality, or the impact on vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 71,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Mr. Harris",
+      "start": 3880.59,
+      "end": 3927.71,
+      "text": "7 2025 mr harris at norton's of the council of the city of lancaster county of lancaster commonwealth of pennsylvania adopting a five-year capital plan for the fiscal years of 2026 to 2030 the program providing for the proper acquisition repair and provision for the necessary equipment and infrastructure for the effective and efficient delivery of public services including projects resulting in the additions replacements or changes to city facilities infrastructure and equipment allowing for a severance provision providing for the repeal of inconsistent ordinances and providing for an effective date motion to approve second this is our first reading this",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making processes, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts or environmental quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No reference to costs, benefits, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 3927.71,
+      "end": 3937.87,
+      "text": "evening but good job everyone we were on the ball that's right um so this item is for our first reading we have had the capital budget presented to us several times at council royal anything to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No direct reference to process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No direct reference to health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No direct reference to power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 73,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 3937.87,
+      "end": 3955.25,
+      "text": "add this evening nothing to add and maybe well excuse me one thing to add thank you and maybe director campbell could provide clarification but uh there may this may not be uh approved at the next uh meeting until we receive quotes for the interest rates i believe or",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No clear indication of concern regarding resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of transparency, process fairness, or community oversight issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No references to health impacts, noise, or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of job creation, costs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 74,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3957.49,
+      "end": 3972.78,
+      "text": "no this one should be approved at the next meeting um the the water main financing will be the first reading will be next meeting so that one confusing all the financing ones thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention anything related to water supply, electricity, waste management, or budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, fairness, or accountability in the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss health risks, air quality, or quality of life issues related to the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address inequality, jobs, or historical patterns of resource extraction."
+        }
+      }
+    },
+    {
+      "block_id": 75,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "director campbell",
+      "start": 3972.78,
+      "end": 4053.94,
+      "text": "director campbell thank you and i just want to say to director campbell and director stephen campbell as well because i know they've worked closely together on this that i'm incredibly proud that we have this capital budget in front of us it's really it's kind of a momentous thing and i'm glad that we're doing it because it shows a level of fiscal responsibility that i think that other cities could learn from and in fact the fact that we are being responsible stewards to our tax dollars and making a plan five years out for these incredibly expensive and complicated infrastructure projects speaks volumes to the planning that goes into our Department of Public Works and our administrative services budget as well so thank you for all the work that you put into this additional comments from council on the first reading comments from the public on the first reading hearing none i will thank everyone and we will be voting on this in our next meeting so thank you next item on the agenda this evening is resolutions we will begin with administration resolution number 59 2025 mr harris a resolution of the city council of the city of lancaster",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality issues."
+        }
+      }
+    },
+    {
+      "block_id": 76,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "director campbell",
+      "start": 4053.94,
+      "end": 4062.3,
+      "text": "adopting the 2025 lancaster county hazard mitigation plan motion to approve second we have",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 77,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "counselor diaz",
+      "start": 4062.3,
+      "end": 4067.5,
+      "text": "a motion and a second um in lieu of counselor diaz counselor hirsch would you please review this one",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 81,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Mr. Harris",
+      "start": 4146.1,
+      "end": 4157.75,
+      "text": "it aye the next item is resolution number 60 2025 mr harris a resolution of the council of the city",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a resolution and does not address resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a resolution and does not address process or decision-making aspects."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment is a resolution and does not address health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a resolution and does not address power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 82,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Mr. Hager",
+      "start": 4157.75,
+      "end": 4185.27,
+      "text": "of lancaster approving an amended easement agreement between the city of lancaster and hayward arcade condominium association granting an amended easement to hager arcade for encouragements into the public right away over under and within north market street and west grant street as more fully set forth in the amended amended easement agreement motion to approve second a motion and",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspect of resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the process of decision-making, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health risks or well-being concerns related to the project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address inequality, jobs, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 83,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "Counselor Craig",
+      "start": 4185.27,
+      "end": 4220.25,
+      "text": "a second counselor craig thank you council president um um was originally um the original resolution we went over in may the amendment is because of a of an incorrectly listed height measurement from 15 feet to 13 feet 6 inches which complies with the city's ordinances so just a slight error in measurement that was corrected",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or budgetary impact."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 84,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Councillor Craig",
+      "start": 4222.17,
+      "end": 4226.81,
+      "text": "thank you very much councillor craig any additional comments from council on the resolution",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not provide any specific information about resources or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a thank you and does not address any process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health issues or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss any issues related to power distribution or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 85,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "The public",
+      "start": 4226.81,
+      "end": 4251.99,
+      "text": "from the public the next two resolutions that we have in front of us are",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 86,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Director Campbell",
+      "start": 4251.99,
+      "end": 4301.47,
+      "text": "application authorizing applications to the local shares account program I don't know if director Campbell you wanted to add any context before we begin to hear these this evening for council or the members of public or i'm happy to we've done these a couple of years in a row i'll just remind members of council in the public that these applications to our local shares accounts are actually applications for funding at the state level they need to be authorized by the municipality so we will hear them and treat them as resolutions to vote on but the funding is not coming from the city of lancaster for the projects that we're about to hear about so uh we begin with resolution number 62 2025 uh mr harris sorry resolution 61. oh i'm so sorry i was i was there and then i i scrolled resolution 61 2025 mr harris a resolution",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No explicit discussion about decision-making process or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No explicit discussion about inequality or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 87,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Lancaster Public Library",
+      "start": 4301.47,
+      "end": 4318.58,
+      "text": "of the council of the city of lancaster authorizing the filing of the commonwealth finance finance authority local share account application for funding in the amount not to exceed one million dollars for Lancaster Public Library's book resort sustainability project. Motion to approve.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is about funding for a library project, which is unrelated to AI data centers and falls under Lancaster's general budget management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment pertains to standard funding approval and does not address municipal governance processes or decision-making fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No health or well-being concerns are mentioned regarding the project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is about funding and does not touch on inequality or power dynamics related to AI data centers."
+        }
+      }
+    },
+    {
+      "block_id": 88,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Lancaster Public Library",
+      "start": 4318.82,
+      "end": 4330.23,
+      "text": "Second motion and a second. I will welcome our representatives from the Lancaster Public Library to speak to their local shares account application. Welcome back.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 89,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "John Heinlein",
+      "start": 4330.23,
+      "end": 4334.05,
+      "text": "Thank you. Still John Heinlein still director of donor advising at Lancaster Public Library.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues related to the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts or concerns related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 91,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "local shares account funding for the book resort sustainability project would allow Lancaster Public Library to purchase and renovate the property at 225 North Marshall Street completing key renovations to update that building. The project's anticipated budget breakdown includes seven hundred and fifty thousand for the purchase which slight adjustment to the wording that you received does [truncated]",
+      "start": 4337.47,
+      "end": 4511.74,
+      "text": "I'll read through the proposal that's been submitted and want to thank city staff especially Jen for support in this whole process. Yeah local shares account funding for the book resort sustainability project would allow Lancaster Public Library to purchase and renovate the property at 225 North Marshall Street completing key renovations to update that building. The project's anticipated budget breakdown includes seven hundred and fifty thousand for the purchase which slight adjustment to the wording that you received does not include the closing costs so seven hundred fifty thousand plus closing costs and then twenty thousand for administrative fees and the remaining hopefully two hundred or more thousand for renovations renovations would be prioritized with probably the HVAC system the electrical and roofing to be prioritized based on the budget for each of those items. The Friends of Lancaster Public Library which is a volunteer group currently leases the book resort facility at 225 North Marshall Street it's a volunteer run operation that sorts and sells gently used books through the Marshall Street bookstore Giuliana bookstore which is the at the downtown branch online and at annual events like the big book sale and a smaller one on site next weekend if anyone's interested and so the the yeah the big book sale which just celebrated its 70th anniversary so an incredible history there the facility is ideally suited to its purpose with a storefront and sufficient warehouse space to house and process the 200 over 250 000 books and materials that are included annually in the big book sale as well as other sales throughout the year the adjoining parking lot which has the same owner and is leased by horse inn provides crucial access for volunteer and customer parking and for the flow of traffic for community members to drop off their book donations ownership would protect this vital revenue generating operation that contributes over two hundred thousand dollars annually to the library and continued rental income from the horse in's lease and there's desire on both sides of this to continue that partnership would also help with the financial sustainability so yeah we appreciate the support with this it is it's an incredible community resource we have a lot of people who volunteer and the volunteers have wonderful community amongst themselves and the sales offer a really great opportunity for the community to access affordable books not quite as affordable as literally checking them out at the library but low-cost books that people can own which is a really special resource to the community and it is a very important financial support to the library every year doing all the wonderful things that we talked about earlier thank you thank",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 92,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "very much a question for you uh one first thank you for answering the important question was that is the horse and still the native park there so thank you um and two i guess i did not realize that the facility wasn't already owned by the library so who are the owners currently",
+      "start": 4511.74,
+      "end": 4526.78,
+      "text": "very much a question for you uh one first thank you for answering the important question was that is the horse and still the native park there so thank you um and two i guess i did not realize that the facility wasn't already owned by the library so who are the owners currently",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 93,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "Al Med Bed",
+      "start": 4526.78,
+      "end": 4552.14,
+      "text": "if you would not mind disclosing yeah al med bed uh and he uh he has expressed the desire for the library and for horse in both of which are uh have a long history with the the family uh the desire for both the library and uh horse end to continue to be able to have uh those facilities um and the family as well as uh on board with that so all parties are excited about this that's great to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or distribution of benefits."
+        }
+      }
+    },
+    {
+      "block_id": 95,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "President",
+      "start": 4560.24,
+      "end": 4585.19,
+      "text": "president thank you for the presentation and i was wondering how the library measure measures on the success of its projects for example how they measure the you can say if the investments are paying off so all those elaborate measures like for this facility specifically or the other",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 96,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "Unknown",
+      "start": 4585.19,
+      "end": 4667.89,
+      "text": "like the programming oh the programming yeah so we are required by the state and listen can speak to this if I miss anything. We're required by the state to measure a whole bunch of different metrics that we're submitting on a monthly and annual basis. And that does include the the amount of items that are circulating. It includes the access to public computers and wireless sessions attendance at programs all sorts of things like that. So a lot of what we're measuring is really related to the community usage and how that compares year to year when we're looking at our own work and how that compares as well to other libraries within Lancaster County and peer libraries throughout the state would give us kind of a gauge for that but also community feedback I would say is really vital to that and so yeah some of the things like with the Spanish story times ASL story times that we've added the the evident desire for that and the way that that meets needs in the community the feedback that we have gotten on those sorts of things tells us that that adding those accessibility and diversity components so that we are able to reach more of our community and more meaningful ways that that that says a lot to us about what we're doing anything",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making processes, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, air quality, or noise pollution."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of jobs, housing, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 97,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "Unknown",
+      "start": 4667.89,
+      "end": 4728.05,
+      "text": "good at I would make it very simple and say numbers of attendees and the feedback from the community our programming has jumped year after year since we've moved so that's three years but it we are keeping the programs that the community comes come and and participate in and after a while we let go of programs that have run their course or were not something that the community needed so we have a very close relationship to what their needs are and and what we will provide the best we can thank you we've also we've also increased the uh grant",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention anything related to electricity, water, waste management, or infrastructure costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, information asymmetry, or decision-making processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss noise, air quality, health risks, or well-being issues."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 98,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "Unknown",
+      "start": 4728.05,
+      "end": 4745.47,
+      "text": "funding that we receive from different sources which has been helpful as well to uh there's of course different things that they're looking for us to report on uh and so that has increased the number of things that we're tracking that are actually helpful metrics for us as well in IN ADDITION TO THE STATE REQUIRED METRICS.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No direct reference to process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No direct reference to health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No direct reference to power dynamics or inequality issues."
+        }
+      }
+    },
+    {
+      "block_id": 99,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "Unknown",
+      "start": 4745.47,
+      "end": 4757.08,
+      "text": "HOW DO THESE FUNDS BENEFIT, FOR EXAMPLE, WORKING FAMILIES, STUDENTS, SENIORS?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 100,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "Unknown",
+      "start": 4757.08,
+      "end": 4866.72,
+      "text": "IN A VARIETY OF WAYS. AGAIN, COMING IN AND USING TECHNOLOGY FOR FREE. WHEN WE WERE IN THE BUILDING THAT WAS ACROSS THE STREET, WE HAD 12 PUBLIC COMPUTERS AND MAYBE IN THE LAST YEAR that we were there there were people one or two people at them immediately upon moving we have 16 that are always always busy so that's one way our program attendance for adults is growing for the Business Center we have every person that goes through the score program is sent to the library and we have people from Dauphin and York County's coming and using those facilities because the databases are very expensive for an individual to buy or to and to just rent or whatever but so that's a way that we know that we are reaching people the feedback from a baby story time literally it is almost out of control at one point we had 36 babies at one story time that's why we divided it up and that's why we give the opportunity that if your baby sleeps in the morning you might want to come in the afternoon and vice versa and the feedback from the organizations that we are partnering with too they're seeing an increase in number of people taking part in the programs that they too are providing and",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making processes, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No explicit mention of job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 101,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "Unknown",
+      "start": 4866.72,
+      "end": 4901.08,
+      "text": "that we are hosting. Those partnerships would be one of the things I would highlight too that has increased with the new location because of the space we have available we're able to partner even more with different organizations, and there's many, but like Career Link, Penn State nurses would come in and offer resources. And so a big part of it is being a resource hub. We're not the experts, we're not offering the service itself necessarily, but making the space where people know they can come to access all sorts of resources is a big part of what we're doing.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 102,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "unknown",
+      "start": 4901.08,
+      "end": 4903.37,
+      "text": "Thank you. Thank you so much.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention anything related to electricity, water, waste management, or infrastructure costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not indicate any concerns about decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health issues or concerns related to air quality or noise pollution."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not indicate any concerns about unequal distribution of costs, benefits, or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 103,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 4903.37,
+      "end": 4919.81,
+      "text": "I would also say that increase in donor support to if we weren't doing something that they wanted. I don't think we would get the amount of money that we got in the in 2024 for the support of the work we do.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 104,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 4921.4,
+      "end": 4936.9,
+      "text": "Thank you. Additional comments from counsel on the application the resolution from the public on the resolution. Here now Mr.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and lacks specific details about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and does not address municipal processes or decision-making aspects."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and does not mention any health-related issues or concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and does not discuss power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 105,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Harris, Mr. Mennon, aye Mr. Roya, aye Mr. Brees, aye Mr. Craig, aye Mr. Hirsch, President Baker, aye",
+      "start": 4936.9,
+      "end": 4946.58,
+      "text": "Harris Mr. Mennon aye Mr. Roya aye Mr. Brees aye Mr. Craig aye Mr. Hirsch aye President Baker aye",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 106,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Mr. Harris, a resolution of the council in the city of Lancaster authorizing",
+      "start": 4947.3,
+      "end": 4965.72,
+      "text": "thank you so much thank you our next item another local shares account application authorization is resolution number 62 2025 Mr. Harris a resolution of the council in the city of Lancaster authorizing",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information on resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No information about decision-making process or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No information on job creation, costs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 107,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "filing of the common law finance finance authority local share account application for funding in the amount not to exceed one million dollars for anchor lancaster's day shelter renovations at tenfold",
+      "start": 4965.72,
+      "end": 4979.0,
+      "text": "filing of the common law finance finance authority local share account application for funding in the amount not to exceed one million dollars for anchor lancaster's day shelter renovations at tenfold",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is about funding for renovations, which doesn't directly relate to resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "It doesn't address the process or transparency of decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No indication of inequality or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 108,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Anonymous",
+      "start": 4981.34,
+      "end": 4998.6,
+      "text": "second a motion and a second uh are the applicants from anchor lancaster here this evening oh that's right thank you i apologize for that so counselors we did hear presentation from anchor lancaster at our last meeting are there any additional comments on the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 109,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "Anonymous",
+      "start": 4998.6,
+      "end": 5018.01,
+      "text": "application from council council craig i just want to mention the incredible work that anchor lancaster does as far as their services for homeless folks in the community it's incredible",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 110,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Anonymous",
+      "start": 5018.01,
+      "end": 5026.44,
+      "text": "thank you very much any comments from the public on the resolution",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is brief and does not address any specific resource management issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a thank you and does not address municipal process concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health or well-being issues."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 111,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Mr. Harris, Mr. Mann, Mr. Arroyo, Mr. Quince, Miss Craig, Mr. Hirsch",
+      "start": 5026.44,
+      "end": 5036.28,
+      "text": "hearing none mr harris mr mann aye mr arroyo aye mr quince aye miss craig aye mr hirsch aye",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No specific resources or concerns are mentioned."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No explicit discussion about decision-making processes or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No health or well-being concerns expressed."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, costs, or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 112,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "President Baker",
+      "start": 5036.28,
+      "end": 5065.28,
+      "text": "president baker aye and as a reminder as i mentioned at the top of the meeting resolution number 63 which is a similar application by htc mid-atlantic will be heard at our next meeting on the 23rd so that takes us then to our second public comment period which is open for uh for items not on the agenda duration of comments is limited to three minutes per speaker please begin with your name and block of residence there's anyone wishing to make comment during this period please proceed to the microphone",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any specific resources or infrastructure concerns, such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss decision-making processes, transparency, or accountability issues related to the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health concerns or environmental impacts related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, job creation, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 113,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "Tony D'Astra",
+      "start": 5065.28,
+      "end": 5245.28,
+      "text": "at this time good evening Tony D'Astra 700 block of New Holland Avenue to be very frank I'm not feeling my best right now but I'm gonna paraphrase something I hear weekly that keeps me moving I know one of you knows where this comes from I I won't give up, shut up, let up. I must go till they come, teach till I drop, preach till I'll know, and work till they stop me. My body's trying to stop me right now, but I'm not going to allow that to hold me up whenever I can. The public library deserves the full $5 recommended by the state, if not more. I understand why certain programming has been avoided for the moment. We are living in a time where people are coming for, frankly, our lives in whatever aspect they can find. I've had people ask me over the last week what we can do for trans individuals in our community. And I've also seen, in response to some of the past programming, people threatening to pull their, frankly, very minor contributions to the library. the library needs to be as funded as well funded as possible so that they can continue providing the programming that makes people feel seen and welcome in this community because when we're only giving them something that they like like I said I'm not I'm not feeling my best and I'm really not trying to crash out on y'all right really not this is a time where a lot of us are worried about what might come but you do not light a candle and put it under a bowl we have to be a beacon for people to feel safe and comfortable amidst this tumultuous situation not just our city or county or state our country is finding ourselves in if not the world so whatever happens please give the library their five dollars per capita please thank you thank you are there any further",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being issues."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 115,
+      "speaker": "SPEAKER_16",
+      "speaker_name": "Mayor Sriracha",
+      "start": 5258.62,
+      "end": 5414.33,
+      "text": "mayor Sriracha Thank You council president tonight I'd like to share a few updates on the city's permitting process city staff across departments have been working hard to improve the permit process from top to bottom making it faster clear and ultimately fully online council is probably aware but for public fee process permits for many different things special events renting out our pavilions our fire marshals are related to permitting fire suppression systems of course building permits are the most common uh and in 2024 the city issued 2 315 building permits and as of july 31st 2025 we've already issued 1 232 and that's just building permits so while we have made real progress there's still a lot more to do relating to our permitting staff have developed a new system to track permits across departments including an internal dashboard to make the process easier to follow and processing times have also been significantly reduced the city recently hired a new permit coordinator her name is Kelly and many of you know James who now serves as the bureau chief of building codes the permit coordinator role also serves as the main point of contact for building permits helping to move them through the process and resolve any holdups in the coming weeks a site plan will be required for all exterior permits to expedite the review process and additionally all commercial drawings and plans will move to online submission only and we're preparing for all permits to go online in 2026 using a platform called city view we've launched a permit finder tool i want to give a shout out to dj ramsey and wyatt barringer for their work as well as many departments to assist in developing this permit finder tool which is now available at city of lancaster pa.gov forward slash permits this educational tool allows residents business owners and contractors to select the type of project they're planning and to see which permits may be required which will hopefully provide better customer service and more thorough permitting for the projects that are coming in into city hall and that concludes my report council president thank you thank you very much for those updates mayor",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on the city's permitting process and the efficiency of issuing building permits, but it does not directly address resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The comment discusses the city's permit process, including the work done by staff and the new permit coordinator, which relates to how decisions are made and monitored."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health issues, air quality, or noise pollution related to the AI data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address inequality, jobs, or vulnerable populations, nor does it reference historical patterns of extraction or power dynamics."
+        }
+      }
+    }
+  ]
+}

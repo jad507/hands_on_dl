@@ -1,0 +1,1413 @@
+{
+  "title": "Press Conference - Data Center Community Benefits Agreement",
+  "video_id": "WHN2o2S6X-Q",
+  "upload_date": "20251119",
+  "model": "deepseek-r1-7b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 0,
+      "speaker": "UNKNOWN",
+      "speaker_name": "dj",
+      "start": 334.32,
+      "end": 359.25,
+      "text": "dj yeah that's good okay oh no broken glasses are we good okay dj we ready to go all right",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, utilities, or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, decision-making, or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, safety, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 1,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Amber",
+      "start": 359.25,
+      "end": 583.88,
+      "text": "welcome everyone glad to see you all here in city council chambers amber has a summary of the community benefits agreement that she's going to pass out moments ago the proposed community benefits agreement with the owners of 216 greenfield road and 1375 harrisburg pike was sent to city council and posted on the city's website i want to take this opportunity to share additional details though much of this has really been shared with the public and city council already and to offer my perspective small cities everywhere are grappling with aging infrastructure and the changing nature of industry and economic development lancaster is no exception much of the job and tax generating industrial activity that once powered cities like ours is no longer here during my time in office the upmc hospital on college avenue kunzler and lsc communications formerly rr donnelly all closed each time the city has faced the same challenge how to shape the future of properties we do not own one tool for shaping that future is zoning zoning establishes where uses are permitted and helps guide the long-term character of our built environment but zoning alone cannot secure the kinds of community benefits or operational commitments that residents reasonably expect in the face of new and emerging technologies while acknowledging community concern about needing data center specific zoning regulations and working to create those we simultaneously chose a more proactive path rather than rely solely on the limits of zoning we pursued a community benefits agreement a tool that allowed us to negotiate environmental protections operational standards and community benefits and investments that go far beyond what zoning can require in doing so Lancaster secured commitments that I believe are atypical for data center development anywhere in Pennsylvania so let me recap several environmental and quality of life performance commitments that were previously outlined in October I'll start with water from the start I made clear that these data centers could not rely on cooling methods requiring massive volumes of water especially after last year's drought the CBA requires a closed loop cooling system meaning water will be reused not continually consumed further this closed loop system will not have any added chemicals it is just water second topic noise with a residence within a thousand feet of the greenfield site and a park adjacent to the harrisburg pike site noise was a central concern the cba includes language ensuring that data center noise may not exceed pre-construction ambient noise levels at each property. Air quality. Data centers rely on diesel generators for emergency backup. Understanding when and how these generators could operate was critical. We submitted a formal letter to the DEP expressing our questions, concerns, and recommendations. Ultimately, it is the Pennsylvania Department of Environmental Protection that will regulate generator use and has determined that CARISA is using best available technology, which includes a selective catalytic reduction system with an integrated catalyzed diesel particulate filter to capture and significantly",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.7,
+          "reasoning": "The comment discusses the community benefits agreement and mentions the need for water reuse and closed-loop cooling systems, indicating concern about resource management and infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The speaker addresses concerns about environmental and noise regulations, suggesting a focus on process fairness and transparency in community benefits agreements."
+        },
+        "health_and_well_being": {
+          "score": 0.5,
+          "reasoning": "The comment mentions noise levels and air quality concerns, which relate to health impacts, but the score is lower because the focus is more on the process than direct health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The speaker emphasizes the uniqueness of the community benefits agreement and the potential for historical patterns of extraction and neglect, indicating concern about inequality and the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 2,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Community organization",
+      "start": 583.88,
+      "end": 591.08,
+      "text": "reduce harmful air emissions. Importantly, these generators are tertiary power sources",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 987.74,
+      "end": 1009.02,
+      "text": "2 million square feet of industrial use and parking for over 1300 vehicles like many legacy manufacturing locations these facilities operated 24 7 with heavy truck and employee traffic production noise significant water usage and emissions the previous use was born in an era",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The comment highlights the strain on Lancaster's resources, mentioning heavy truck and employee traffic, significant water usage, and emissions, which directly impact the city's infrastructure and budget."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The speaker refers to the process of development, noting the previous use and the need for ongoing oversight, which touches on the community's involvement and the legitimacy of the benefits agreement."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health issues or concerns related to air quality, noise pollution, or other health impacts of the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "The comment addresses the scale of the project and its potential impact on jobs and infrastructure, which relates to the unequal distribution of benefits and costs, aligning with the power dynamics discussed."
+        }
+      }
+    },
+    {
+      "block_id": 10,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1009.02,
+      "end": 1021.5,
+      "text": "when there was much less awareness of community needs and environmental protections since then industrial uses have continued to evolve over time to be more productive and responsive to community",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 11,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1021.5,
+      "end": 1050.96,
+      "text": "needs now before the recent interest in data centers the strongest market demand for sites like this was for distribution warehouses and that is not the highest and best use for a city like lancaster by contrast high-tech investment and innovation belong in cities through this cba we can secure a future-focused highly productive use that addresses community concerns while",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 12,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1050.96,
+      "end": 1066.19,
+      "text": "investing in the foundation of an AI hub in Lancaster. The construction of this project alone will bring more technical, skilled, and diverse employment opportunities than a typical warehouse or industrial development.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1066.19,
+      "end": 1077.29,
+      "text": "At the same time, educators, businesses, nonprofits, and entrepreneurs in our community are trying to figure out how AI will factor into their futures.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 14,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1077.29,
+      "end": 1089.38,
+      "text": "Having AI-oriented firms and resources located here can strengthen existing businesses, support innovative startups, and prepare residents for the jobs of tomorrow.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1089.38,
+      "end": 1097.46,
+      "text": "And this is not just abstract. Recently, I spoke to a McCaskey student who was exploring tech and AI career opportunities",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 16,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1097.46,
+      "end": 1106.5,
+      "text": "and volunteering her time to support computer literacy. When I asked her if she envisioned herself building a career in Lancaster, her answer",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1106.5,
+      "end": 1119.13,
+      "text": "was no, because she didn't think there were enough high-tech jobs here for her. This project can be the catalyst to start to change that perception and create momentum",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 18,
+      "speaker": "UNKNOWN",
+      "speaker_name": "EDC",
+      "start": 1119.13,
+      "end": 1133.42,
+      "text": "toward a higher-tech economy. Over the course of the next year, as the Mayor mentioned, EDC will lead a process to engage community and project leaders to identify specific opportunities to leverage this investment",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Lancaster City",
+      "start": 1133.42,
+      "end": 1140.68,
+      "text": "and the new expertise coming to our community. Lancaster City and its residents will be the primary focus",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 20,
+      "speaker": "UNKNOWN",
+      "speaker_name": "EDC",
+      "start": 1140.68,
+      "end": 1179.44,
+      "text": "of this strategy, recognizing there will be opportunity for impact beyond the borders of the city. Specifically through the Economic Development Fund established through the CBA, we have an opportunity to position our community as a model for how digital infrastructure can foster shared prosperity, workforce opportunity, and innovation-driven economic growth. Bigger picture, we find ourselves in a time of unprecedented technological advancement and change. As a community, our opportunity is to work together to unite environmental sustainability",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1179.44,
+      "end": 1189.0,
+      "text": "with economic growth in ways that directly benefit and enhance the quality of life of Lancaster residents. As I turn it back over to the mayor,",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 22,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1189.0,
+      "end": 1272.96,
+      "text": "I do want to recognize her leadership the commitment of her staff as they have navigated this complex process and set a path forward for our community and other communities like ours thank you thank you i want to just also welcome chris delves who is the director of community planning and economic development he's also joining today and at this time i know we just shared a lot of information and you now have that one pager in front of you i'm happy to take questions from each of you yes well that's just it i don't think the city did give up i think the city navigated a process in which these projects can move forward with construction on both of these sites on greenfield road and harrisburg pike and in return we have received commitments that are both environmental and quality of life focused as well as benefits related to the investment that is being made and those two things we tracked separately the very very first priority was securing the environmental commitments and quality of life commitments related",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality issues."
+        }
+      }
+    },
+    {
+      "block_id": 23,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1272.96,
+      "end": 1278.42,
+      "text": "to water noise air quality and energy and then the second part was figuring",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 24,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1278.42,
+      "end": 1284.18,
+      "text": "out how to structure the investments the community investments that are being",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not provide specific information about resource usage, infrastructure strain, water, or waste issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, information asymmetry, or fairness in decision-making processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health risks, air quality, noise, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, economic benefits, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1284.18,
+      "end": 1301.4,
+      "text": "made to both advance our community and our local economic development efforts as well as our sustainability goals. Well there are a lot of deadlines that are",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 26,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1301.4,
+      "end": 1313.9,
+      "text": "included and they will need to meet those and there are a variety of levels of enforcement related to this up into including the closing of the operations",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1313.9,
+      "end": 1551.32,
+      "text": "or the preventing them from even starting operations and so each of those milestones are included in the in the complete CBA and I let you read it yes so there there's gonna be milestones a lot of them at the start but each building is contemplated as a specific project and so we'll be doing this three times yes both locations can potentially be data centers whether or not they all of those buildings get built is not for me to decide that is for Carissa its investors and its tenants however what this agreement does is facilitates and provides a clear path to being able to develop those sites with the understanding that they still have to follow all of our land development planning processes building code etc etc and uphold these commitments I'm gonna ask you have you visited these sites the first site on Greenfield Road is a a million square foot facility with high power lines overhead a um a sub a switching station and 800 and so parking spaces uh it does not exactly feel like charming is the right word to describe that or the other site that's on harrisburg pike which both also include a spur for train line as well so charming is not how i would describe that yes and there are specific benchmarks for 80% and above and then 60% and above they cannot drop below 60% clean energy to power these plants at any time correct clean energy is defined actually Chris knew it was coming so you made sure that I had that definition from the from the CBA any source of energy that produces low or no get greenhouse gas emissions compared to carbon fuel sources including but not limited to solar wind hydro geothermal ocean and nuclear power new jobs that are coming lots of construction jobs and I'll say that there's a lot of interest locally in those construction jobs and about a hundred and fifty permanent jobs at each facility yeah yeah each campus I think it is Carissa Technology Parks ideal to have these three facilities up and operational by 2029 but lots of things can happen between now and then actually Chris do you want to take this",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 28,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Chris Delves",
+      "start": 1551.32,
+      "end": 1572.54,
+      "text": "one yeah good afternoon everybody I'm Chris Delves I'm director of community planning and economic development for the City of Lancaster I appreciate the question Chris this is an important one just wanted to emphasize something the mayor said before one of the foundational purposes and intentions of",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 29,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1572.54,
+      "end": 1576.68,
+      "text": "of this negotiation was really to focus first and foremost",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention anything related to electricity, water, waste management, or infrastructure costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, information asymmetry, or fairness in decision-making processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss health risks, air quality, or physical well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 30,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1576.68,
+      "end": 1584.78,
+      "text": "on the environmental and the quality of life commitments. That actually took the lion's share of the time during our negotiations to get to a lot",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1584.78,
+      "end": 1592.2,
+      "text": "of what the mayor described earlier. That said, we are very excited about the investments in the community as well.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 32,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1592.2,
+      "end": 1595.48,
+      "text": "As the mayor said, we're gonna have two separate funds.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1595.48,
+      "end": 1602.16,
+      "text": "The sustainability fund is something that we see as an extension of primarily the climate action plan.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 34,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1602.16,
+      "end": 1621.28,
+      "text": "There's also specific policies and actions that are listed in the comprehensive plan within our growing greener chapter. And this could be a number of different things. This could be solar power generation. This could work toward energy efficiency",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1622.2,
+      "end": 1625.56,
+      "text": "within homes in the city of Lancaster.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 36,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Unknown",
+      "start": 1625.56,
+      "end": 1640.7,
+      "text": "We really have not gotten to that point yet because we've really focused on getting to the finish line with the community benefits agreement, but that will be a robust process to make that determination. I think the most important point here is that we do",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Unknown",
+      "start": 1640.7,
+      "end": 1652.8,
+      "text": "have strategic guidance that we're going to be relying on to help us make those decisions. As you probably know, energy investments typically tend to cost a lot of money, so this could",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.7,
+          "reasoning": "The comment mentions the cost of energy investments and their impact on the city's budgetary capacity, which relates to managing resources."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The reliance on strategic guidance and potential cost overruns could indicate issues with decision-making processes and transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No direct mention of health impacts or concerns related to air quality or noise pollution."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The cost implications and strategic reliance suggest concerns about inequality in resource distribution and economic benefits."
+        }
+      }
+    },
+    {
+      "block_id": 38,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Unknown",
+      "start": 1652.8,
+      "end": 1670.0,
+      "text": "be one or two investments in big projects, or it could be a multitude. We're just not sure yet well as the mayor said this is phased over the course of the development of the three",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 39,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1670.0,
+      "end": 1685.66,
+      "text": "buildings I think we looked at a lot of zoning text ordinances we listened a lot to the concerns",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality issues."
+        }
+      }
+    },
+    {
+      "block_id": 40,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1685.66,
+      "end": 1703.78,
+      "text": "and and I will also give credit where credit is due so did Carissa and we did to echo Chris's remarks spend a lot more time on the environmental and quality of life commitments but there is no community benefit agreement that we used as a model this is what we decided was",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1703.78,
+      "end": 1713.09,
+      "text": "best for our community I'm not going to speak on behalf of members of council",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 42,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Arroyo",
+      "start": 1713.09,
+      "end": 1806.7,
+      "text": "but I will say that council president and council vice president now mayor elect Arroyo have been briefed continuously briefed through this process yes there's six so at the at the onset when there's construction financing that's the when that is secured and they draw on that that is the first payment the second payment comes with the operation of the facility itself for each project separately and for each fund that was a major concern of mine i mean we understand as a community how important it is that we transition from fossil fuels to clean energy and that's been a priority of mine it's driven our climate action plan it is why we purchase all green energy for the city of Lancaster operations and I think that that is why it took us so long to get to this agreement",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.6,
+          "reasoning": "The comment highlights concerns about the city's transition to clean energy, which relates to resource management and infrastructure needs."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker emphasizes the importance of community involvement in the process, indicating their desire for oversight and transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts or concerns related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "The comment touches on the community's role in transitioning away from fossil fuels, which could be seen as addressing historical patterns of energy use and inequality."
+        }
+      }
+    },
+    {
+      "block_id": 43,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1806.7,
+      "end": 1816.77,
+      "text": "because there are not the marketplace related to electric and how it is produced is very",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.6,
+          "reasoning": "The comment expresses concern about the lack of marketplace-related electric resources, which ties into the strain on Lancaster's resources, particularly the electric infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No explicit mention of process issues like information asymmetry or lack of transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts or air quality concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 44,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1816.77,
+      "end": 1874.3,
+      "text": "competitive right now and we know that data centers are a part of that and we weren't not just going to allow it to just to happen uh that these data centers would be powered by fossil fuels so that was a really clear priority of mine throughout this process that is exactly right chris it took us a little longer to get to a place where we both felt comfortable and i will just again carissa did uh they stuck with the process uh to get us to a place where we all felt comfortable um would i have liked more yes absolutely but them committing at the outset of 100 clean energy is a pretty big deal i'm going to tell you that i hope we're done with data",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1874.3,
+      "end": 1885.34,
+      "text": "centers in the city of lancaster that these are the two because honestly there are not other large industrial sites in the city of this size that would be um you know these sites were chosen for",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.7,
+          "reasoning": "The comment highlights the selection of industrial sites, which relates to resource management and infrastructure needs."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The mention of 'these sites were chosen for' implies a process discussion, though not explicitly about fairness or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.6,
+          "reasoning": "The choice of sites may reflect existing power dynamics and inequality, as industrial development often prioritizes profit over community needs."
+        }
+      }
+    },
+    {
+      "block_id": 46,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1885.34,
+      "end": 1918.49,
+      "text": "a reason and as ezra outlined they were heavily used industrial sites with a long history It might be used as a model for other communities across Pennsylvania, and I hope that's so. Yes, but if they fall below 60%, they're not operating.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 47,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1924.5,
+      "end": 1931.62,
+      "text": "So each, if they, it's a disincentive, because we recognize that money here is not the object.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.7,
+          "reasoning": "The comment expresses concern about the financial benefits not offsetting health risks, which relates to Theme 3. However, it also mentions the burden on the city's resources, aligning with Theme 1."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The speaker raises concerns about the legitimacy of the benefits agreement, pointing to potential distrust and lack of transparency, which is part of Theme 2."
+        },
+        "health_and_well_being": {
+          "score": 0.8,
+          "reasoning": "The speaker directly addresses the trade-off between financial benefits and health risks, which is a key aspect of Theme 3."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The comment touches on the idea of unequal distribution of benefits and risks, which is part of Theme 4."
+        }
+      }
+    },
+    {
+      "block_id": 48,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1931.76,
+      "end": 1933.26,
+      "text": "The object is clean energy.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 49,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1933.86,
+      "end": 1946.24,
+      "text": "So if they start at 100%, all those commitments are met, and there are no additional payments. And then it proceeds to ratchet down. So if they go lower than 100, then they have to make payment.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 50,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1946.78,
+      "end": 1955.98,
+      "text": "If they go lower than 80%, that's one payment. If they go lower than, I'm sorry, lower than 100, 280, and then from 60 to 79.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1956.36,
+      "end": 1959.18,
+      "text": "But if they fall below 60%, they're not operating.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 52,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1959.52,
+      "end": 1987.95,
+      "text": "Okay. Obviously, I'll work with you.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 53,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1988.23,
+      "end": 2068.37,
+      "text": "Yes. I think that, in particular, related to water, the technology exists in which large volumes of water do not need to be used. It's a financial decision. Do not give in. It's really that simple. I mean, we, I have, I am for a few more days still the mayor of the city of Lancaster and have been advocating a lot around water, water quality issues, storm water, all of that facets of water. To yield to development that consumes the volume of water that is necessary to cool under the previous iteration of data centers to me is unfathomable, and it is not correct. And I believe that elected leaders across Pennsylvania who are contemplating this, there is technology, and Carissa has shown us that that is true, to cool these facilities using a closed-loop system. And that technology exists, and every community should be demanding its use to these two properties.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The comment highlights concerns about water usage and the need for closed-loop cooling systems, indicating a focus on infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The speaker expresses distrust in the process, mentioning elected leaders and the need for transparency and accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No direct references to health issues or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "Concerns about financial decisions and equitable distribution of benefits."
+        }
+      }
+    },
+    {
+      "block_id": 54,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Carissa",
+      "start": 2069.96,
+      "end": 2096.04,
+      "text": "Correct? Correct. Our conversations with Carissa, I met them in May. At that point, that was the first time we had actually any concept of what they were attempting to do.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Unknown",
+      "start": 2096.8,
+      "end": 2113.25,
+      "text": "And I would say that we were met with transparency and a level of dedication to seeing how to accomplish this",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.7,
+          "reasoning": "The comment does not directly address resources like electricity, water, or waste management, but it does touch on the process of monitoring and oversight, which is part of Theme 2. However, the primary focus is on the process, not the resources themselves."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker emphasizes transparency and accountability, which are key aspects of Theme 2. They mention wanting ongoing involvement in monitoring, aligning with Sub-theme 2a about community-led oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health issues, air quality, or noise pollution, which are central to Theme 3."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.6,
+          "reasoning": "The comment does not address job creation, housing needs, or historical patterns of inequality, which are part of Theme 4. However, it does touch on the process of monitoring, which is related to Theme 2."
+        }
+      }
+    },
+    {
+      "block_id": 56,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Unknown",
+      "start": 2113.25,
+      "end": 2131.49,
+      "text": "and to meet our objectives, which we were really clear about from the outset. um so yeah anything to add to that pardon me i did not sign an nda at no at any time during this",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2131.49,
+      "end": 2162.06,
+      "text": "process their ability to construct the the buildings is contingent upon payments being",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention anything related to electricity, water, waste management, or infrastructure costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, fairness, or the process of decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss health risks, air quality, or well-being issues."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 58,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2162.06,
+      "end": 2167.2,
+      "text": "made to the city and so if that appeal is successful and the projects don't move forward",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 59,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2167.2,
+      "end": 2176.08,
+      "text": "there are no payments to the city of lancaster other questions all right thanks for your time today. I really appreciate it.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being issues."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality concerns."
+        }
+      }
+    }
+  ]
+}

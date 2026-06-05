@@ -29,8 +29,8 @@ function Run-Model($name) {
 # --- llama_cpp models, comfortably within A2000 12 GB ---
 # Run-Model "qwen3.5-9b-q4"
 # Run-Model "qwen3.5-9b-q5"
-Run-Model "qwen3.5-9b-q6"
-# Run-Model "deepseek-r1-7b"
+# Run-Model "qwen3.5-9b-q6"
+Run-Model "deepseek-r1-7b"
 # Run-Model "gemma-4-4b"
 # Run-Model "ministral-8b"
 

@@ -1,0 +1,87 @@
+{
+  "title": "Planning Commission Meeting - October 15, 2025",
+  "video_id": "4rFO0GO6nwU",
+  "upload_date": "20251016",
+  "model": "deepseek-r1-7b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 0,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1080.0,
+      "end": 2181.45,
+      "text": "Thank you. Thank you.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention anything related to electricity, water, waste management, or infrastructure costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not indicate any concerns about decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health issues, air quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 1,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4918.38,
+      "end": 7278.0,
+      "text": "Thank you.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment 'Thank you.' does not provide any specific information related to the four identified themes. It is a generic acknowledgment without addressing any of the themes such as resource usage, process fairness, health impacts, or power dynamics."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment 'Thank you.' does not indicate any concern or discussion about the decision-making process, transparency, or accountability related to the data center project. It is a neutral response without addressing the municipal process themes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment 'Thank you.' does not express any concern or discussion about health impacts, air quality, noise pollution, or health vs. economic benefits. It is a generic thank you without addressing health-related themes."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment 'Thank you.' does not indicate any discussion about job creation, housing needs, historical patterns of extraction, or vulnerability of non-human populations. It is a neutral response without addressing power dynamics or inequality themes."
+        }
+      }
+    },
+    {
+      "block_id": 2,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7278.02,
+      "end": 7934.32,
+      "text": "yeah my me and they hurt and do um yeah you know and it it it it it it it it it it it it it it it it If you have any questions, please feel free to reach out to me.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    }
+  ]
+}

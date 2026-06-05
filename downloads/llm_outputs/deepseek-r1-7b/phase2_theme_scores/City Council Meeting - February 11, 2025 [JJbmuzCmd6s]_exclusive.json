@@ -1,0 +1,1907 @@
+{
+  "title": "City Council Meeting - February 11, 2025",
+  "video_id": "JJbmuzCmd6s",
+  "upload_date": "20250212",
+  "model": "deepseek-r1-7b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 0,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Lancaster City Council",
+      "start": 328.62,
+      "end": 417.06,
+      "text": "good evening everyone it's 630 and I now call to order this February 11th 2025 meeting of Lancaster City Council a few things at the top of the meeting first an announcement we had an executive session it was held this evening Tuesday February 20 25th February 11th 2025 excuse me this evening at 6 p.m. at Council Chambers City Hall to discuss personnel and legal matters related to a pension disability request of michael deets thank you president oh that's later sorry i'm gonna that's gonna that will appear in our legislative agenda this evening i'm gonna continue with my other reminders at the top of the meeting uh this meeting and its participants are being recorded please take a moment to silence your phones and other devices as a courtesy to others if you haven't done so already during this meeting there will be several opportunities for public comment anyone making comment should do so at the microphone right in front of you there so you can be heard comments should be related to issues that have or may come before council as legislative items and should be addressed toward council rather than to others in the room each speaker will be given three minutes to keep time you will see the light here in front of me turn green when a speaker begins it'll turn yellow when there's one minute remaining and it will turn green when three minutes has been exhausted thank you to everyone in advance for ensuring that everyone has equal time and now for all of those who are willing and able please rise for the pledge",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific resources or infrastructure issues related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the process or decision-making behind the project, such as transparency or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss any health concerns or impacts related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address inequality, jobs, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 1,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Mr. Harris",
+      "start": 417.06,
+      "end": 442.12,
+      "text": "of Allegiance mr. Harris would you please call the roll of members yes",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information on resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information on process or decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information on health or well-being issues."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information on power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 2,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Madam President, Mr. Met here, Mr. Royal here, Mr. Cleese, miss Greg here, miss Diaz here, mr. Hirsch here, president Baker here.",
+      "start": 442.12,
+      "end": 455.85,
+      "text": "madam president mr. met here mr. royal here mr. Cleese yeah miss Greg here miss Diaz here mr. Hirsch here president Baker here we'll now move to the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "Score of 0.0 because the comment doesn't mention any resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "Score of 0.0 because the comment doesn't address process or decision-making aspects."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "Score of 0.0 because the comment doesn't mention health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "Score of 0.0 because the comment doesn't address power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 3,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "mr. Harris",
+      "start": 455.85,
+      "end": 465.92,
+      "text": "approval of the minutes of the January 28th 2025 regular meeting of counsel motion to approve second we have a motion and a second are there any",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspects of resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss decision-making processes or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health concerns or environmental impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address inequality, jobs, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 4,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "mr. man I",
+      "start": 465.92,
+      "end": 481.46,
+      "text": "council comments on the minutes hearing none mr. Harris mr. man I mr. Roya I mr. Glees I miss Craig all right miss Diaz I mr. Hirsch all right",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No specific resources or infrastructure are mentioned."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process issues like oversight or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No health concerns or environmental impacts discussed."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of costs, benefits, or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 5,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "mr. Harris",
+      "start": 481.46,
+      "end": 501.1,
+      "text": "the president Baker I the next item on our agenda our proclamations honors awards and resolutions of recognition which we have won this evening resolution number 9 2025 mr. Harris this minute president resolution of the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information on resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information on process or decision-making"
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information on health or well-being issues"
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information on power dynamics or inequality"
+        }
+      }
+    },
+    {
+      "block_id": 6,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 501.1,
+      "end": 515.94,
+      "text": "council the city of Lancaster designating February 2025 as Black History Month in the city of Lancaster and recognizing resistance to injustice by injustice by African Americans throughout Lancaster history motion to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any resources or infrastructure issues, so it scores 0.0 on this theme."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is about designating a month and recognizing resistance, not about municipal processes or decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There's no mention of health issues or well-being related to AI data centers."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is about cultural recognition and historical resistance, not about power dynamics or inequality related to AI infrastructure."
+        }
+      }
+    },
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 515.94,
+      "end": 519.22,
+      "text": "approve second we have a motion and a second",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention anything related to resources, infrastructure, or budgetary concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the process or decision-making behind the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss health impacts or well-being related to the project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 519.22,
+      "end": 532.1,
+      "text": "councillor Craig council president this resolution was read into record during the committee meeting last week and I don't feel the need to reread it because",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "councillor Craig",
+      "start": 532.1,
+      "end": 550.66,
+      "text": "it's quite lengthy Thank You councillor Craig and thank you for reading that into our meeting record and we thank you and the work that you did together as with previous years this was drafted with the help of the local chapter of the NAACP are there any additional comments council comments on the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "counselor I'm ed",
+      "start": 550.66,
+      "end": 577.84,
+      "text": "resolution the council president if I may counselor I'm ed I just want to thank councillor Craig for introducing this resolution and I want to thank the city of Lancaster for its commitment to celebrating black history month especially in a time nationally where it does not seem to be prioritized so I just want to thank members of council and thank the city for its commitment to our black community here in Lancaster Thank You councillor I'm an additional",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues, noise, air quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 11,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "members of council",
+      "start": 577.84,
+      "end": 589.74,
+      "text": "comments from members of council from the public on the resolution very none",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is vague and does not provide specific information about resources or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the process or decision-making behind the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health issues or well-being related to the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss inequality, jobs, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Mr. Harris",
+      "start": 589.74,
+      "end": 606.51,
+      "text": "mr. Harris mr. Mudd hi mr. Roy oh hi mr. Cleese hi mr. Craig hi miss Diaz hi mr. Hirsch hi the president Baker hi thank you the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information about decision-making process or transparency"
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information about health issues or environmental impact"
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information about jobs, inequality, or historical patterns"
+        }
+      }
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Mr. Harris",
+      "start": 606.51,
+      "end": 660.01,
+      "text": "next item on our agenda is public comment this is section reserved for residents of contacted the city clerk prior to the meeting to request the opportunity to address City Council again duration of comments is limited to three minutes per speaker just confirming mr. Harris are there any public comments for this period no matter president when no one contacted me in advance of the me thank you very much then we'll rule we'll move on to our next agenda item this evening which is reports requested by counsel I don't believe we have any of those is that correct mr. Harris that is correct thank you the next item on our agenda is reports of committees of council these are the meetings held on February 3rd 2025 we begin with the Public Safety Committee councillor Diaz the public safety did not meet Thank You councillor Diaz Public Works Committee councillor Hirsch Thank You council president the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information about decision-making process or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information about health impacts or well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information about power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 14,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "Unknown",
+      "start": 660.01,
+      "end": 690.81,
+      "text": "Public Works Committee had three agenda items all of which will be seen in our in our agenda this evening here at Council resolution 10 authorizing cost-sharing agreement man I'm Township and resolutions 15 and 16 which are seeking approval for use of right-of-way their permit applications and agreements that are to be made with railway auditing management services and Norfolk Southern and that concludes the report of the Public Works Committee Thank You",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality issues."
+        }
+      }
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "councillor harsh",
+      "start": 690.81,
+      "end": 695.13,
+      "text": "councillor harsh Economic Development Committee councillor med Thank You",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information on resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information on process or decision-making"
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information on health or well-being issues"
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information on power dynamics or inequality"
+        }
+      }
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "council president",
+      "start": 695.13,
+      "end": 698.73,
+      "text": "council president the Economic Development Committee did not meet thank",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any resources or infrastructure issues, so it scores 0.0 on this theme."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any process or decision-making concerns, so it scores 0.0 on this theme."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health or well-being issues, so it scores 0.0 on this theme."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any power dynamics or inequality concerns, so it scores 0.0 on this theme."
+        }
+      }
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "you Finance Committee counselor Arroyo",
+      "start": 698.73,
+      "end": 749.93,
+      "text": "you Finance Committee counselor Arroyo Thank You council president the Finance Committee did meet we had three items on our agenda for that evening we discussed resolution number 1225 amending the supplemental pension plan for city employees and resolution number 1325 exonerating of utility fees excuse me exoneration of utility fees both of those items will be on the agenda later this evening we also received an update on a bond issuance from director Campbell she gave an overview of an upcoming general obligation bond issuance that will be brought forward to council in a proposed ordinance the bond issue will be for a total of fifty three point excuse me fifty five point three million dollars and the debt will be divided among the general fund water fund and sewer fund next month we will also have a list a list of the projects that will be funded by the bond issue that concludes my",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making process or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality issues."
+        }
+      }
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "councillor Arroyo",
+      "start": 749.93,
+      "end": 753.43,
+      "text": "report council president Thank You councillor Arroyo community planning",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information on resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information on process or decision-making"
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information on health or well-being issues"
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information on power dynamics or inequality"
+        }
+      }
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "councillor Craig",
+      "start": 753.43,
+      "end": 772.87,
+      "text": "committee councillor Craig Thank You council president community planning did meet we had one item on the agenda that was administration resolution 1425 adopting substantial amendments to community to community development block grant annual action plan and that will come up on our agenda our legislative",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, utilities, or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, safety, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "councillor Craig",
+      "start": 772.87,
+      "end": 777.83,
+      "text": "agenda and just a little book thank you very much councillor Craig and personnel",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific resources or infrastructure issues related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any process or decision-making aspects related to the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss any health or well-being concerns related to the project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "committee councillor colleagues",
+      "start": 777.83,
+      "end": 791.59,
+      "text": "committee councillor colleagues thank you madam president the personal Committee did meet on February 3rd and review a nomination to reappointment to the city revitalization and improvement zone authority that conclude my reports",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No indication of concern about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process issues like transparency or fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts or benefits."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No reference to power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "council Craig",
+      "start": 791.59,
+      "end": 813.57,
+      "text": "thank you very much we'll now move into our legislative agenda the first item is an authorization of action this is related to our executive session and this would be authorizing or denying a request for disability pension for Michael Dietz I believe council Craig you wanted to address this thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, utilities, or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, safety, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 23,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "police pension board",
+      "start": 813.57,
+      "end": 845.98,
+      "text": "upon recommendation of the Bureau of police officers relief the police pension board City Council met in an exact executive session to review the disability pension application of Michael Dietz based upon the unanimous recommendation of the police of the Bureau of police officers relief and the information provided to counselors during the executive session I hereby make a move to approve Michael Dietz application for a disability pension",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or utilities."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is about a pension application and does not address municipal process or decision-making fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address inequality, jobs, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Community Member",
+      "start": 845.98,
+      "end": 865.73,
+      "text": "second Thank You counselor Craig we have a motion and a second to approve the request are there any council comments on the motion from the public hearing",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Unknown",
+      "start": 865.73,
+      "end": 876.1,
+      "text": "none mr. Harris mr. met I mr. Roy oh hi mr. Cleese I miss Craig I miss Diaz mr.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too brief and doesn't provide specific information about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment doesn't address process or decision-making aspects, only mentions individuals and misses the mark on specifics."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or well-being, just casual greetings and references to individuals."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment doesn't touch on inequality, jobs, or distribution of benefits."
+        }
+      }
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Community Member",
+      "start": 876.1,
+      "end": 889.01,
+      "text": "Hirsch all right the person Baker I move into the second item on our legislative agenda this evening these are nominations for appointments councillor",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspects of resources, infrastructure, or budgetary concerns related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the process or decision-making behind the project, including transparency, accountability, or community oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health risks, air quality, noise pollution, or health consequences related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, job creation, distribution of costs and benefits, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 889.01,
+      "end": 912.51,
+      "text": "clicks thank you madam president that this nomination was this was with you to February 3rd by the personal committee and full consoles now I'll make a motion to reappoint the Shelby Norman to the city revitalization and improvement zone authority for a term from December 31st of 2024 to December 31st of 2029",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 28,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 912.51,
+      "end": 931.1,
+      "text": "second we have a motion and a second on the appointment any additional council comments from the appointment of miss Nauman from the public hearing none mr.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information about decision-making process or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information about health impacts or well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information about power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 29,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 931.1,
+      "end": 937.92,
+      "text": "Harris mr. Mennon aye mr. Roya aye mr. Cleese aye mr. Craig aye",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment appears to be a simple yes/no vote on a proposal, with no indication of concern for resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No discussion of process fairness, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No indication of power dynamics, inequality, or concerns about distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 974.99,
+      "end": 1045.73,
+      "text": "resolution is essentially uh entering the city into a cost-sharing agreement with maynham township as many of you may know marshall avenue is along the northern border and southern of the city and the southern border of man i'm township um and it zigzags pretty chaotically and so this kind of allows the city to enter into an agreement where um they are taking on the portion of the cost that uh is proportionate to the city's ownership of the road which in this case these improvements are primarily going to be to improve uh biking and walking infrastructure along marshall ave total cost is roughly 62 000 so it's a pretty low cost project on the whole the city is going to take 82 percent of that as they own 82 percent of that roadway it's not a full resurfacing project it's base improvements to the roadway to allow the additional infrastructure to be put in and my understanding is that the work is slated to take place later this year it's a correct director Campbell is nodding so that's pretty much the deal",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Mr. Harris",
+      "start": 1083.5,
+      "end": 1090.1,
+      "text": "administration resolution number 11 2025 mr. Harris a resolution of the council",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a resolution number and does not provide specific information about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a resolution number and does not provide specific information about decision-making processes or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment is a resolution number and does not provide specific information about health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a resolution number and does not provide specific information about power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Lancaster pride committee",
+      "start": 1090.1,
+      "end": 1099.18,
+      "text": "of the city of Lancaster approving the pride flag raising to acknowledge the start of Pride Month in June 2025 as brought forth by the Lancaster pride",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspect of resources, infrastructure, or budgetary concerns related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the process or decision-making behind the AI data center project, such as transparency, oversight, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health risks or well-being concerns related to the AI data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power dynamics, inequality, or the distribution of costs and benefits related to the AI data center project."
+        }
+      }
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Motion introducer",
+      "start": 1099.18,
+      "end": 1141.75,
+      "text": "Association motion to approve second we have a motion and a second members of council thank you so much for allowing me to introduce this resolution this is for a flag raising that will take place on June 2nd 2025 with the inclement weather date of June 3rd 2025 the the request was submitted in a timely manner and we look forward to raising the flag again this coming June for Pride Month there any additional council comments on the resolution from the public hearing",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making process, transparency, or accountability issues related to the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise pollution, or air quality concerns related to the project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or distribution of costs and benefits related to the project."
+        }
+      }
+    },
+    {
+      "block_id": 39,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Mr. Harris",
+      "start": 1141.75,
+      "end": 1149.98,
+      "text": "none mr. Harris mr. Matt hi mr. Roy hi mr. Glees hi miss Craig Craig all right",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too brief and lacks specific details about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is too brief and doesn't address process or decision-making aspects."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment is too brief and doesn't mention health issues or well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is too brief and doesn't touch on inequality or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 40,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Mr. Hirsch",
+      "start": 1149.98,
+      "end": 1169.24,
+      "text": "miss Diaz hi mr. Hirsch hi and president Baker hi our next item on the agenda is resolution number 12 2025 mr. Harris a resolution of the city of the city of",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Mr. Glees",
+      "start": 1169.24,
+      "end": 1197.86,
+      "text": "lancaster lancaster county pennsylvania amending the city of lancaster supplemental pension plan in order to reflect that the effective january 1st 2023 i'm sorry that effective january 1st 2023 the matching percentage with respect to a police officer hired on or before on or after january 1 2011 became equal to 35 percent of the amount contributed by the participant",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct relation to resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No health concerns or environmental impact mentioned."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of costs, benefits, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 43,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "through this resolution during our last finance committee meeting we are amending the city of lancaster supplemental pension plan to reflect the correct amount of matching contribution for police officers hired on or after january 1 of 2011. the plan currently incorrectly states that this is a 25 this is 25 so this resolution will correct the matching contribution amount to 35 we reinstated the plan last year at this time in february of 2024 with the inclusion then of [truncated] ",
+      "start": 1210.02,
+      "end": 1256.87,
+      "text": "through this resolution during our last finance committee meeting we are amending the city of lancaster supplemental pension plan to reflect the correct amount of matching contribution for police officers hired on or after january 1 of 2011. the plan currently incorrectly states that this is a 25 this is 25 so this resolution will correct the matching contribution amount to 35 we reinstated the plan last year at this time in february of 2024 with the inclusion then of firefighters who were included starting in january 2024 however we didn't make the correct uh excuse me however we failed to make the correct to the matching percentage for police at that time this resolution will correct that thank you very much counsel Arroyo are there",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, utilities, infrastructure, or costs related to AI data centers."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is about pension plan adjustments, not related to AI data center development or municipal processes related to such a project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues, air quality, noise pollution, or direct health consequences of AI data centers."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment pertains to pension plan adjustments, not addressing inequality, power dynamics, or costs/benefits distribution related to AI infrastructure."
+        }
+      }
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "any additional counsel comments on the resolution from the public hearing none",
+      "start": 1256.87,
+      "end": 1267.78,
+      "text": "any additional counsel comments on the resolution from the public hearing none",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not provide any specific information about resources or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any process or decision-making aspects."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health-related issues or concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss any power dynamics, costs, or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Mr. Harris, Mr. Mudd, Mr. Arroyo, Mr. Cleese, and Miss Greg",
+      "start": 1267.78,
+      "end": 1275.28,
+      "text": "mr. Harris mr. Mudd aye mr. Arroyo aye mr. Cleese aye miss Greg all right miss",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information about decision-making process or transparency"
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information about health issues or environmental impact"
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information about power dynamics or inequality"
+        }
+      }
+    },
+    {
+      "block_id": 46,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Diaz, Mr. Hirsch, and Mr. Harris",
+      "start": 1275.28,
+      "end": 1290.26,
+      "text": "Diaz mr. Hirsch aye president BK aye we will now move to administration resolution number 13 2025 mr. Harris a resolution of the of the council the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information on resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information on process or decision-making"
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information on health or well-being impacts"
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information on power dynamics or inequality"
+        }
+      }
+    },
+    {
+      "block_id": 47,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "City of Lancaster",
+      "start": 1290.26,
+      "end": 1312.71,
+      "text": "city of Lancaster exonerating 2024 water charges in the amount of sixty three thousand seven hundred dollars and fifty cents and sewer charges in the amount of sixty four thousand one hundred and ten dollars and sixty four cents for city owned or related properties at 25 locations motion to approve second we",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No clear indication of concern regarding resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of transparency, process fairness, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No references to health impacts or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No indication of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 49,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 1318.33,
+      "end": 1359.06,
+      "text": "is a resolution that is brought before council on an annual basis it is done because the city tracks water and sewers sewer usage as city properties mostly to detect leaks or unusual usage we don't bill ourselves for this usage the charges are exonerated annually to clear them from the financial accounts two properties on the list are not city owned the library and the fire line at the Lancaster Airport the water and the sewer service to the library is considered an in-kind contribution from the city and the service to the airport is done in exchange for the airport providing the city use of its large capacity snow blowers in case of a storm thank you very much council royal are",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Mr. Harris",
+      "start": 1371.24,
+      "end": 1378.68,
+      "text": "done mr. Harris mr. men ah mr. Roy oh hi mr. Glees hi miss Greg all right",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 52,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Miss Diaz",
+      "start": 1378.68,
+      "end": 1390.92,
+      "text": "miss Diaz mr. Hirsch hi hi we will now move to resolution number 14 2025 mr.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too brief and doesn't provide specific information about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment doesn't address the process or decision-making behind the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There's no mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment doesn't discuss inequality, jobs, or costs."
+        }
+      }
+    },
+    {
+      "block_id": 53,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Mr. Harris",
+      "start": 1390.92,
+      "end": 1437.66,
+      "text": "Harris a resolution of the council the city of Lancaster authorizing the mayor to submit substantial amendments for the following documents one the combined 2021 to 2025 consolidated plan and the 2021 annual action plan and to the 2022 annual action plan and three the 2023 annual action plan and for the 2024 annual action plan to the US Department of Housing and Urban Development the submission includes projected changes in the use of funds for the Community development block grant program during the 2021 2022 2023 and 2024 programs motion to approve",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "Susie Gomez",
+      "start": 1695.14,
+      "end": 1721.11,
+      "text": "Good evening. Susie Gomez, 100 Block of North Reservoir Street. Thank you. Can you explain to me CBBG funding? Is that government funding? Yes, that's federal government funding. OK. So total investment of, you said, $25.6 million?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, utilities, infrastructure, or costs related to the project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues related to the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or health consequences related to the project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, job creation, or historical patterns related to the project."
+        }
+      }
+    },
+    {
+      "block_id": 58,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "Unknown",
+      "start": 1721.11,
+      "end": 1740.54,
+      "text": "The $25.6 million that I was referencing just now was the amount of affordable housing investment we've made since 2018 to 2024 across many different funding streams. The CDBG allocation is about $1.5 million per year.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality issues."
+        }
+      }
+    },
+    {
+      "block_id": 59,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "Unknown",
+      "start": 1740.54,
+      "end": 1773.53,
+      "text": "And that is government funding, correct? Yes. OK. The other question would be, you had mentioned increased funding. The $305,000 is being allocated, is that correct? Reallocated. Reallocated. So you're going from 2020 to 2024 to show rejected funds? Can you explain that a little better?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Ms. Gomez",
+      "start": 1773.53,
+      "end": 1779.99,
+      "text": "Ms. Gomez, just to make sure you keep your time, is there anything further that you'd like Ms. Geyser to explain?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 61,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "Ms. Geyser",
+      "start": 1779.99,
+      "end": 1784.85,
+      "text": "She can explain it now. Okay. That's why I'm asking. Great. Just wanna make sure.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 62,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "Ms. Geyser",
+      "start": 1784.85,
+      "end": 1834.58,
+      "text": "Yeah. Ms. Geyser? So due to changes over the past four years in spending, mostly due to caps and staff vacancies, we have needed to change how we anticipated to spend the money to what is realistic at this point today. And so these changes represent reallocating money that we had previously allocated or council had previously allocated from 2021 to 2024 and shifting them from one bucket of into other buckets and primarily critical repair and lead hazard control and affordable housing Thank You mr. yes so one last question",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention anything related to electricity, water, waste management, or infrastructure costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss decision-making processes, transparency, or accountability issues related to the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health risks, air quality, noise pollution, or health consequences of the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention unequal distribution of costs, vulnerable populations, or historical patterns of extraction and neglect."
+        }
+      }
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 1834.58,
+      "end": 1843.51,
+      "text": "um you want to reassess and make changes for what for what you're reassessing",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No direct reference to process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No direct reference to health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No direct reference to power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 64,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 1843.51,
+      "end": 1859.33,
+      "text": "these funds from the years we are required to update these plans as funds are reallocated into these different categories so we are doing that with",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not directly address resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health issues or environmental impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address inequality, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 1859.33,
+      "end": 1878.76,
+      "text": "this measure yeah but you're turning it in you're you're also really doing the annual action plan right you're taking all that into consideration without so meaning that there is funds available for housing and that's what these fun",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 1878.76,
+      "end": 1901.68,
+      "text": "and and we are reallocating unspent funds from staffing vacancies over the past four years into affordable housing and lead hazard control and critical repair projects so they're getting more money the affordable housing and critical repair projects are receiving more funding out of administrative",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 67,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 1901.68,
+      "end": 1908.48,
+      "text": "costs and into the actual affordable housing yes so my point very quickly was",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 68,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 1908.48,
+      "end": 1923.99,
+      "text": "just that because of that there's funding available we have a housing crisis in Lancaster City and I think that is very unfair to the public any",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 69,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "mr. harris",
+      "start": 1923.99,
+      "end": 1966.99,
+      "text": "additional public comments on the resolution hearing on and before we go I'll just make clear to council as this guys are reiterated twice during her presentation that these are funds that are being reallocated into affordable housing support of the products and out of administrative costs mr. Harris the next item on our legislative agenda is administration resolution number 15 2025",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 70,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "mr. harris",
+      "start": 1966.99,
+      "end": 1990.54,
+      "text": "mr. Harris a resolution of the council of the city of Lancaster authorizing the mayor to sign the standard height lease I'm sorry height license agreement between Norfolk Southern Railway Company and remit a payment of $5,000 for fees required to the license agreement on behalf of the city of Lancaster motion to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No explicit discussion of decision-making process or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of inequality, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 71,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "council hirsch",
+      "start": 1990.54,
+      "end": 1996.38,
+      "text": "approve second we have a motion and a second council hirsch thank you council president uh",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any resources or infrastructure issues, so it scores 0.0 on this theme."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is about voting on a motion, not about the process or governance issues, so it scores 0.0."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health issues or well-being, so it scores 0.0."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address inequality or power dynamics, so it scores 0.0."
+        }
+      }
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 1997.18,
+      "end": 2036.9,
+      "text": "resolutions number 15 and 16 are very similar in nature they are essentially agreements that give us or we are essentially approving the ability to use the right of way to do future infrastructure projects in this case it's a ductile pipe that is in columbia pennsylvania as part of our water infrastructure there and so applying and paying this permit fee essentially allows uh that work to be done um that's really all there is to this thank you very much counselor",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspect of electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health risks or environmental quality issues."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address inequality, jobs, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 73,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "mr. harris",
+      "start": 2037.86,
+      "end": 2068.89,
+      "text": "are there any additional comments on the resolution from council from the public hearing none mr. Harris next item on the agenda is administration resolution number 16",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information about decision-making process or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information about health impacts or well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information about power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 74,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "mr. harris",
+      "start": 2068.89,
+      "end": 2090.69,
+      "text": "2025 mr. Harris a resolution of the Council of the City of Lancaster authorizing the mayor to sign a standard-type license agreement between between Railway Auditing and Management Services and a permit of $6,750 for fees required in the license agreement on behalf of the City of Lancashire.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is about a license agreement and fees, which doesn't directly relate to resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "It discusses a legal agreement and fees, not about decision-making processes or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No indication of power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 75,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "COUNCILOR HIRSCH",
+      "start": 2090.69,
+      "end": 2094.06,
+      "text": "Motion to approve. Second.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a motion to approve and does not address any of the four themes."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a motion to approve and does not address any of the four themes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment is a motion to approve and does not address any of the four themes."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a motion to approve and does not address any of the four themes."
+        }
+      }
+    },
+    {
+      "block_id": 77,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "UNKNOWN",
+      "start": 2097.74,
+      "end": 2117.85,
+      "text": "Yes, pretty much the same thing. It's just entering into an agreement with Railway Auditing and Management Services in this case as opposed to Norfolk Southern, which is previous resolution. um yeah just paying the permit fee to allow right of uh use to um replace or to conduct work there",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention anything related to electricity, water, waste management, or infrastructure costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the fairness of decision-making, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss health impacts, air quality, or noise pollution."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention jobs, housing, or historical patterns of wealth distribution."
+        }
+      }
+    },
+    {
+      "block_id": 78,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Mr. Harris",
+      "start": 2117.85,
+      "end": 2133.14,
+      "text": "so thank you very much any additional council comments on resolution 16. from the public hearing none, Mr. Harris",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 79,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Mr. Minton, aye Mr. Sorolla, aye Mr. Lease, aye Mr. Gregg, aye Ms. Stevens, aye Mr. Grish, aye and President Baker, aye",
+      "start": 2133.14,
+      "end": 2144.72,
+      "text": "Mr. Minton, aye Mr. Sorolla, aye Mr. Lease, aye Mr. Gregg, aye Ms. Stevens, aye Mr. Grish, aye and President Baker, aye",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No specific concerns about resources or infrastructure are mentioned."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No explicit discussion about decision-making processes or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No indication of power imbalances or inequality issues."
+        }
+      }
+    },
+    {
+      "block_id": 80,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "the podium at this time",
+      "start": 2144.72,
+      "end": 2179.13,
+      "text": "that concludes our legislative agenda if I'm following along correctly and we'll take this to our second public comment period this evening, this is open for comment on issues not previously on the agenda duration of comments is limited to three minutes per speaker and please begin with your name and block of residence for our meeting record if anyone wishes to make a public comment please come up to the podium at this time hearing none we'll close the second public comment period this evening and we will move to our next item which is the report of",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information on energy, water, or waste issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No information about health impacts or concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of costs, benefits, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 81,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "Mayor Mayor sir",
+      "start": 2179.13,
+      "end": 2312.3,
+      "text": "the mayor mayor sir thank you council president first i'm pleased to share that the city of lancaster along with the school district of lancaster was awarded 74 000 by the pennsylvania commission on crime and delinquency the state grant will allow a school district and partners to research and design an effective cross-sector intervention strategy to reduce gun and group-related violence in Lancaster, and I'm truly grateful for our partnership with the district. Additionally, applications for police officers and cadets positions are now open. We are eager to bring on new officers and cadets. The cadet program, as you know, bridges the gap between high school graduation and turning Turn 21, for those who are interested in pursuing a career in law enforcement. The application is just open on February 1st, and we have 77 officer applications so far and 260 people who have expressed interest. Encourage all of you to help us get the word out, so thank you in advance. And check out lcbpcareers.com for more information. And second, I want to spotlight the Department of Neighborhood Engagement. It's become a tradition that on Valentine's Day, which is coming up on Friday, and I know everybody's just thinking about the Eagles Parade, but do not forget your Valentine's. The department announces new initiatives and launches applications for their long-standing programs. The state-old Love Your Block grants are back, now entering its seventh year. The program awards grants to residents dedicated to revitalizing their neighborhoods through community-led projects. Love Your Block is made possible through the generous support of the Hyde Foundation. we're also launching the neighborhood art project which is designed to encourage public art and create a place making in our neighborhoods so the call for artists will also go out on february 14th inviting local artists to apply for opportunities to create public art that reflects the vibrancy and diversity of lancaster community the neighborhood art project is supported by the national endowment for the arts and you can learn more about these programs and apply to take part at the city of lancaster.gov forward slash neighborhoods and that concludes my report tonight thank you council president thank you mayor sirachi uh the next item on the agenda",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being issues."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 83,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Government Study Transition Committee member",
+      "start": 2325.55,
+      "end": 2363.07,
+      "text": "i just wanted to report back to the members of council that the government study transition committee did meet on january 29th and went over the purview of our work which is to make sure and ensure the transition to a homework charter moves in a timely manner with both the administrative code and the ethics commission our next meeting will be tuesday april 29th at 5 p.m in council chambers it will also be live streamed and i just wanted to report back that we did meet and the purview of our work is to ensure the timely transition to the newly elected home rule charter that concludes my report",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or budgetary impact."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, costs, benefits distribution, or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 84,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 2363.07,
+      "end": 2375.49,
+      "text": "thank you councilman and i appreciate you taking the time to serve on that important board any additional council comments hearing on and reaching the end of our agenda this evening",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information on resource usage or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process concerns, information asymmetry, or fairness issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts or environmental quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No reference to costs, benefits, or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 85,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 2375.49,
+      "end": 2381.49,
+      "text": "i'll hear a motion to adjourn motion to adjourn all in favor aye we're adjourned thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspects of resources, infrastructure, or budgetary concerns related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the process or decision-making surrounding the project, including transparency, accountability, or community oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health concerns, air quality, noise pollution, or health-related impacts of the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power dynamics, inequality, job creation, or the distribution of costs and benefits between the community and other stakeholders."
+        }
+      }
+    }
+  ]
+}

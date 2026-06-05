@@ -1,0 +1,558 @@
+{
+  "title": "City Council Meeting - July 8, 2025",
+  "video_id": "wfwoElJE10U",
+  "upload_date": "20250709",
+  "model": "deepseek-r1-7b",
+  "n_chunk_errors": 0,
+  "public_comments": [
+    {
+      "block_id": 0,
+      "speaker": "SPEAKER_08",
+      "start": 746.26,
+      "end": 849.71,
+      "speaker_name": "unknown",
+      "reason": "Identifies themselves as a resident and is speaking during public comment.",
+      "text": "good evening everyone it's 6 30 so i'm going to call to order this july 8 2025 meeting of lancaster city council a couple of meetings are a couple of reminders at the top of the meeting this meeting and its participants are being recorded please take a moment to silence your phones and devices if you haven't done so already during our meeting this evening there will be several opportunities for public comment the first general public comment period is for residents that registered in advance to speak about items that are not on the agenda this evening residents may also comment on individual items on our legislative agenda which is section five on the agenda that you see in front of you finally a second public comment period will be at the end of the agenda for any other speakers wishing to address council as you're speaking uh the microphone is right there we just ask that you speak clearly and directly into the microphone to be heard in the room and on the recording all speakers will be reminded to begin with their name and their block of residence for our meeting record um please be advised the public comment is not a question answer period all comments are limited to three minutes and i will use this light here to keep time it will turn green when a speaker begins it will blink yellow when there is one minute remaining and blink red when three minutes has been expended if a speaker continues after three minutes i will ask them to wrap up their comment i appreciate everyone's cooperation to maintain order and equal time and lastly speakers addressing city council and the members the audience will be expected to conduct themselves in an orderly manner and remain respectful of others i thank you in advance for all of those who are willing and able please rise for the pledge of"
+    },
+    {
+      "block_id": 1,
+      "speaker": "SPEAKER_07",
+      "start": 849.71,
+      "end": 876.75,
+      "speaker_name": "unknown",
+      "reason": "Identifies themselves as a council member and is speaking during public comment.",
+      "text": "allegiance mr harris would you please call the role of members yes madam president mr man here"
+    },
+    {
+      "block_id": 2,
+      "speaker": "SPEAKER_03",
+      "start": 876.75,
+      "end": 886.35,
+      "speaker_name": "unknown",
+      "reason": "Identifies themselves as a council member and is speaking during public comment.",
+      "text": "mr royal here mr cleese yeah miss craig here miss diaz mr hirsch here president bacon here"
+    },
+    {
+      "block_id": 3,
+      "speaker": "SPEAKER_08",
+      "start": 886.35,
+      "end": 902.85,
+      "speaker_name": "councillor diaz",
+      "reason": "Identified as a council member, so not a public comment.",
+      "text": "councillor diaz is excused this evening our next item is the approval of the minutes of the june 2024 2025 meeting of council motion to approve second we have a motion on a second uh counselors"
+    },
+    {
+      "block_id": 4,
+      "speaker": "SPEAKER_03",
+      "start": 902.85,
+      "end": 923.07,
+      "speaker_name": "mr harris",
+      "reason": "Participating in council business, not a public comment.",
+      "text": "any comments on the minutes hearing none mr harris mr mann aye mr royale aye mr cleese aye miss craig aye mr hirsch aye president baker aye next item on the agenda is proclamations honors"
+    },
+    {
+      "block_id": 5,
+      "speaker": "SPEAKER_08",
+      "start": 923.07,
+      "end": 928.03,
+      "speaker_name": "council",
+      "reason": "Not a public comment.",
+      "text": "awards and resolutions of recognition we do have one of those this evening we have council"
+    },
+    {
+      "block_id": 6,
+      "speaker": "SPEAKER_03",
+      "start": 928.03,
+      "end": 948.35,
+      "speaker_name": "mr harris",
+      "reason": "Recognizing parks and recreation month and its benefits as a community action",
+      "text": "resolution number 53 2025 mr harris a resolution of the council of the city of lancaster recognizing july 2025 as parks and recreation month in the city of lancaster and recognizing the benefits provided by our parks and recreation programs throughout the year motion to approve second"
+    },
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_08",
+      "start": 949.5,
+      "end": 954.91,
+      "speaker_name": "councill hirsch",
+      "reason": " motion and a second",
+      "text": "we have a motion and a second councillor hirsch thank you council president this resolution"
+    },
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_11",
+      "start": 954.91,
+      "end": 971.52,
+      "speaker_name": "jack bingman",
+      "reason": " Partnership between the city and lancaster rec commission",
+      "text": "recognizes july as parks and recreation month in the city of lancaster and also recognizes the partnership between the city of lancaster and the lancaster rec commission and i'd like to invite jack bingman to the um mike to say a few words about the partnership with the lancaster"
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_12",
+      "start": 976.24,
+      "end": 1024.75,
+      "speaker_name": "up to it",
+      "reason": "identifies themselves as a community member and expresses concern and appreciation",
+      "text": "up to it am i good now thank you you got it okay uh yeah i really don't have anything to add to that what i i'm truly grateful to accept this proclamation but the one thing i really wanted to make sure to get out tonight is the appreciation we have for all the people in this room That contribute to the Lancaster rec and make it possible that we can better serve the community. So It's a true honor what we do for the community and what we do for the city of Lancaster, but I want to be sure To thank everyone and many people in this room that contribute to what we do and the city of Lancaster for what you provide To the Lancaster rec so we can achieve our mission. So thank you very much. Thank you, Jack"
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_08",
+      "start": 1193.71,
+      "end": 1234.25,
+      "speaker_name": "Councillor Hirsch",
+      "reason": "Identified as a community member expressing concern about public spaces and summer programs.",
+      "text": "you very much councillor hirsch um jack thank you for being here tonight i think you are you're underselling uh the benefit of the lancaster rack in the community and the you know hundreds of people it takes to put on your programming uh in our parks as particularly right now i'm thinking of our summer uh the summer playgrounds program that's going on right now that is it is key to to keeping kids safe and active and engaged over the summer months and I appreciate specifically that and all of the things that happen in our parks but I wanted to name that specifically so thank you"
+    },
+    {
+      "block_id": 14,
+      "speaker": "SPEAKER_08",
+      "start": 1258.7,
+      "end": 1270.22,
+      "speaker_name": "Unknown",
+      "reason": "Identified as a community member discussing summer meal programs.",
+      "text": "serve thousands of kids in the summer that also includes lunchtime meals for kids and it is invaluable so thank you again um any additional com council comments on this"
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_04",
+      "start": 1270.22,
+      "end": 1303.57,
+      "speaker_name": "Resolution Counselor Med",
+      "reason": "Echoes remarks and thanks community members, indicating a genuine public comment.",
+      "text": "resolution counselor med thank you council president and i just want to also echo the remarks and thank the lancaster rec commission for all it does for our community and for the school district of lancaster and also want to thank all of our public works team members who are dedicated to making sure that our parks remain a safe and happy place for all of us to enjoy and i encourage all community members to learn more about what the lancaster rec offers from their senior center to all the programming for the kids over the summer and throughout the"
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_13",
+      "start": 1303.57,
+      "end": 1318.06,
+      "speaker_name": "Unknown",
+      "reason": "Echoes thanks, likely from a community member.",
+      "text": "year and just thank you again thank you very much any additional council comments"
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_11",
+      "start": 1320.14,
+      "end": 1333.22,
+      "speaker_name": "Council President Hirsch",
+      "reason": "Mentions commemorative resolution, likely a council action, not a public comment.",
+      "text": "council president council hirsch i did forget one thing which is we do have a commemorative resolution to take a picture with at the end here we want to just do that quickly"
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_08",
+      "start": 1333.22,
+      "end": 1338.96,
+      "speaker_name": "unknown",
+      "reason": "Identifies themselves as a resident or community member.",
+      "text": "after our official vote that sounds good any comments on the public when the road on the"
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_02",
+      "start": 1338.96,
+      "end": 1427.78,
+      "speaker_name": "Tony Dastro",
+      "reason": "Expresses opinion on a city decision.",
+      "text": "resolution good evening good evening tony dastro 700 block new holland avenue just want to take some time now since it wasn't permitted at the committee meeting to uh say that this is important uh i believe the stat is about 80 percent of people support uh parks and recreation funding but I also want to advocate that as we go through the prison process of the potential changes that may happen to the east end I feel it's very important to preserve the open space that is in Reservoir Park in its entirety. It's a large open space that's accessible to our residents and other city jurisdiction especially residents in the southeast area. I do understand that there is a lot of open space in the southeast. A lot of that space was created I believe as part of urban renewal. The reservoir park means a lot. And I think especially having the open space accessible on the fourth of July might be important for fire safety. As I was driving around, I was dropping somebody off. And yeah, there were fireworks just all over in the middle of street. We all know how crazy it gets. So parks and recreation are important. I do think it's good to support these things. I think this resolution is good. and I hope that Reservoir Park is preserved long-term into the future. Thank you."
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_08",
+      "start": 1428.34,
+      "end": 1438.59,
+      "speaker_name": "Mr. Harris",
+      "reason": "Speaks during public comment period.",
+      "text": "Thank you. Any additional comments from the public on the resolution? Hearing none, Mr. Harris."
+    },
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_08",
+      "start": 1523.22,
+      "end": 1545.18,
+      "speaker_name": "Mr. Harris",
+      "reason": "Identifies himself as a resident and is speaking during the public comment period.",
+      "text": "that brings us to the next item on our agenda this evening which is our first public comment period as a reminder that's reserved for residents who contacted us in advance to address council comments are limited to three minutes per speaker and must begin begin with your name and block of residence mr. Harris do we have public comment for this period we do madam"
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_03",
+      "start": 1545.18,
+      "end": 1554.34,
+      "speaker_name": "Matt Church",
+      "reason": "Identifies himself as a resident and is speaking during the public comment period.",
+      "text": "president first is Matt Church Matt Church I do know there was a possibility"
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_08",
+      "start": 1554.34,
+      "end": 1569.82,
+      "speaker_name": "Mr. Harris",
+      "reason": "Identifies himself as a resident and is speaking during the public comment period.",
+      "text": "mr church couldn't join us this evening uh our next one mr harris is tony dastra evening again"
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_02",
+      "start": 1571.3,
+      "end": 1715.82,
+      "speaker_name": "Tony Dstra",
+      "reason": "Identified as a resident and expressed concern about audio issues during the public comment period.",
+      "text": "tony dastra 700 block of new holland avenue not so good evening council let's jump right in on july 1st the live streams audio crackled just like the room did repeated tech errors are convenient to you in the system of power not to working people council said there was no issue but there was this isn't just a tech glitch it's a breakdown in transparency this council bears the the name of a leadership icon at the last meeting that's not what leadership looks like the public deserves more than an apology they deserve urgency responsibility and results fix the stream fix the audio have a backup plan always moving on it is unacceptable that the eit presentation did not include public comment it's worse the two agenda items that followed including a grant application that was an action item were denied public input that's not oversight that's a choice city council must adopt a written policy public comment at every committee meeting every item no exceptions we're not spectators we're stakeholders don't dress this up as responsible governance i spent months fighting for reform real changes disengaged people believed in what did i see in return loyalist resistance representational equity marred as unnecessary and expensive now economic equity evaded under the guise of fiscal responsibility the eit issue didn't pop up last week it was raised publicly as early as january 2024 if not earlier reiterated multiple times in the study process not only by me but the mayor you had the power to act for years none of you did i blame myself too for trusting the city's recommended staff while i was drafting a foundational document that trust was misplaced and it has been broken if you won't act and use your bestowed power to fight for working people especially after the so-called big beautiful bill has been passed just resign. We're out of time. You should have been working on this in 2024, but this body seemed more concerned with electoral politics than good local governance. What we are witnessing is an institutional collapse. It started at the top of the tower, failing. At first, it looked small and irreparable, but now it's all coming down. We see both sides of the aisle for what they are. The bricks keep hitting us, the working class. And where are you? Still climbing, still clinging to power structure that's in free fall still looking for photo ops we see you we will remember and we will rebuild with or without you and that rebuilding will go well beyond this calendar year because we need a better foundation than this what would thaddeus stevens do thank you"
+    },
+    {
+      "block_id": 29,
+      "speaker": "SPEAKER_09",
+      "start": 1726.12,
+      "end": 1899.62,
+      "speaker_name": "Taylor Raymond",
+      "reason": "Identified as a resident and expressed concerns about the audio issues during the public comment period.",
+      "text": "good evening um my name is taylor raymond i live on the 500 block of saint joseph street and i have a few comments regarding the july 1st committee meeting the first is that council was assured that the audio issues were not affecting the live stream this was not accurate i was watching the live stream and it was just as difficult for me to listen to as it was for anybody in the room the second i understand that public comment is not required to be called however i think it's a dirty trick not to allow the public to speak i think anytime city council is allowed questions and comments the public must also be allowed the opportunity the rest of this is about the low income tax exemption and just to let you know i do work for the lancaster county tax collection bureau though i don't speak for them in this just giving you background so that you know i know what i'm talking about so according to the solicitor the city can't go above the state maximum for the uh low income tax exemption of twelve thousand dollars this number comes from the local tax enable enabling act the same act that limits tax rates to one percent if the home rule charter gave the city the power to raise the tax rates beyond that i would like to hear the solicitor's reasoning why the tax exemption does not qualify for this even if we can't go above the twelve thousand dollar limit i still feel like we should implement the exemption at the maximum amount to give our city's poorest residents some relief that they so desperately need non-resident tax may apply for city residents who work elsewhere um which would lower the refund given to the taxpayer but first not every municipality has a non-resident tax so there are certainly residents that would get the full refund amount and second it is possible for a city council to create an agreement with other townships to get the uh those townships to waive the non-resident fee so that the taxpayers could get their full refund um manheim township is most likely uh a great starting place for that as it has a lot of employers this is important to me because i've been an adult under that twelve thousand dollar bracket i know how much any sort of refund would have meant to me at that time i'm lucky enough to not be in that position now but i still think that even though it would make my job a little bit harder at the tax bureau uh working class people deserve it that's everything"
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_08",
+      "start": 1900.81,
+      "end": 1937.32,
+      "speaker_name": "Mr. Harris",
+      "reason": "Identified as a resident and expressed opinion on city decisions.",
+      "text": "thank you mr harris do we have any further commenters for this period no we do not thank you very much our next item on the agenda is reports requested by council it does not appear that we have any of those this evening is that correct that is correct thank you then we will move next to reports of committees of council these were the committee meetings held on july first 2025. the first is public safety committee councillor diaz is absent this evening but that committee did not meet so then we'll move to public works committee and councillor hirsch"
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_11",
+      "start": 1937.88,
+      "end": 1969.08,
+      "speaker_name": "Council President",
+      "reason": "Expressed opinion on city decisions.",
+      "text": "thank you council president the public works committee did meet at our july first meeting of committees and had two items on the agenda the first was already heard this evening resolution 53 recognizing parks and recreation month and the second was resolution 52-2025 authorizing the city to apply for grant funding through the commonwealth financing agencies multimodal transportation fund for the eastbound connector which will be heard at our council meeting scheduled on july 22nd that concludes the report of the public works committee thank you very much"
+    },
+    {
+      "block_id": 32,
+      "speaker": "SPEAKER_08",
+      "start": 1969.08,
+      "end": 1974.12,
+      "speaker_name": "Councillor Hirsch",
+      "reason": "Identified as a community member and expressed opinion on city decisions.",
+      "text": "councillor hirsch economic development committee councillor med thank you council president i was"
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_04",
+      "start": 1974.12,
+      "end": 1978.68,
+      "speaker_name": "unknown",
+      "reason": "Identifies themselves as a resident or community member.",
+      "text": "absent at the last meeting but the economic development committee did not meet thank you"
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_05",
+      "start": 1978.68,
+      "end": 2031.56,
+      "speaker_name": "Council President",
+      "reason": "Speaks during public comment period, not council discussion.",
+      "text": "finance committee counselor royale thank you council president the finance committee did meet we discussed administration resolution number 48 and 49 both of which appear later in the agenda and we'll discuss more in detail then we also heard a report to counsel from administrative services director tina campbell regarding the earned income tax and the options process and feasibility of providing an exemption to low income earners some highlights include that the eit does apply only to the earned income or to earned income about 36 pennsylvania municipalities offer an earned income tax exemption and refunds would not apply to the school district share but rather residents working in other municipalities might still owe that eit in those locations council also discussed alternative options for our consideration and no action was taken that concludes"
+    },
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_08",
+      "start": 2031.56,
+      "end": 2036.84,
+      "speaker_name": "Community Planning Committee",
+      "reason": "Speaks during public comment period, not council discussion.",
+      "text": "in our report council president thank you council arroyo community planning committee council craig"
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_00",
+      "start": 2036.84,
+      "end": 2078.23,
+      "speaker_name": "Community Planning",
+      "reason": "Identified themselves as a community organization and discussed agenda items.",
+      "text": "thank you council president in my absence community planning did meet there were two items on the agenda one of which we will hear this evening which is resolution administration resolution 51 authorizing an amendment in the official sewage facilities plan to include the swan hotel project and resolution 50 allowing a ground lease agreement for a sunny side and for the sunnyside environmental center that will be heard on august the 12th i believe and that concludes community planning thank you very much and"
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_01",
+      "start": 2078.23,
+      "end": 2094.31,
+      "speaker_name": "Personnel Committee",
+      "reason": "Identified themselves as a committee and reviewed appointments.",
+      "text": "personnel committee counselor colleagues thank you madam president the personal committee did meet on tuesday june july 1st and review the appointments to the fire code board of appeals that concludes my report madam president thank you very much councillor kleekst that takes"
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_08",
+      "start": 2094.31,
+      "end": 2100.31,
+      "speaker_name": "Unknown",
+      "reason": "No indication of speaker identity or content related to public comment.",
+      "text": "us into our legislative agenda for this evening the first item is nominations for appointments"
+    },
+    {
+      "block_id": 39,
+      "speaker": "SPEAKER_01",
+      "start": 2100.31,
+      "end": 2126.22,
+      "speaker_name": "Councill Cleeks",
+      "reason": "Speaks during public comment period, addresses public, makes a motion",
+      "text": "so i will turn that back to you councillor cleeks thank you again madam president i make a motion to we appoint kenneth barton dennis park gene gene duncan jr and lloyd henry to the fire code board of appeals for terms from july 10 2025 to july 10 2028. second thank you we have a motion and"
+    },
+    {
+      "block_id": 40,
+      "speaker": "SPEAKER_08",
+      "start": 2126.22,
+      "end": 2133.58,
+      "speaker_name": "unknown",
+      "reason": "Speaks during public comment period, addresses public, makes a motion",
+      "text": "a second for these appointments are there any council comments on them comments from the public"
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_03",
+      "start": 2133.58,
+      "end": 2146.65,
+      "speaker_name": "unknown",
+      "reason": "Speaks during public comment period, addresses public, makes a motion",
+      "text": "on the appointments hearing none mr harris mr med aye mr royal aye mr cleese aye miss craig aye"
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_08",
+      "start": 2146.65,
+      "end": 2156.42,
+      "speaker_name": "Mr. Hirsch",
+      "reason": "Identifies themselves as a resident and expresses concern about the agenda.",
+      "text": "mr hirsch aye president becky aye next item on the agenda are resolutions the first is resolution"
+    },
+    {
+      "block_id": 43,
+      "speaker": "SPEAKER_03",
+      "start": 2156.42,
+      "end": 2197.69,
+      "speaker_name": "Mr. Harris",
+      "reason": "Speaks about a resolution involving public auctions, indicating support for the council's action.",
+      "text": "number 48 2025 mr harris a resolution of the council of the city of lancaster authorizing proper officials of the city of lancaster to dispose of various vehicles of the city of lancaster utilized by the department of public works through through public auction or cooperative public auctions such as gov deal and to trade in vehicles for other for other vehicles to be acquired by the city for sale or lease and to take such other and further action as is necessary to accomplish the purposes as set forth in this resolution motion to approve second second"
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_08",
+      "start": 2197.69,
+      "end": 2203.29,
+      "speaker_name": "Counselor Arroyo",
+      "reason": "Announces a motion and second, indicating active participation in the council's discussion.",
+      "text": "we have a motion and a second it's a very long title uh counselor arroyo thank you council"
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_05",
+      "start": 2203.29,
+      "end": 2227.22,
+      "speaker_name": "president",
+      "reason": "Identifies themselves as a resident and expresses opinion on city decision.",
+      "text": "president i'll try my best to simplify it the purpose of this resolution is to optimize our city's fleet really through strategic vehicle sales and management which is meant to result in a strategic and savings and also greater efficiency for our fleet i'd invite director campbell if there's anything additional to add to the resolution all right thank you very much"
+    },
+    {
+      "block_id": 46,
+      "speaker": "SPEAKER_08",
+      "start": 2227.22,
+      "end": 2259.74,
+      "speaker_name": "counselor Arroyo",
+      "reason": "Identifies themselves as a community member and discusses the resolution.",
+      "text": "counselor Arroyo so this was presented at the last committee meeting counselors or any additional comments on the resolution I want to thank director Campbell in his work in in these optimizations there is you know some of those numbers are small amounts of savings but they do add up over time so I appreciate looking under every rock for for those type of savings so thank you any additional comments from the public on resolution number 49 I'm sorry"
+    },
+    {
+      "block_id": 47,
+      "speaker": "SPEAKER_03",
+      "start": 2259.74,
+      "end": 2275.18,
+      "speaker_name": "mr. Harris, mr. Mann, etc.",
+      "reason": "Only council members speaking during official discussion, not public comment.",
+      "text": "resolution number 48 hearing none mr. Harris mr. Mann aye mr. Roya aye mr. Cleese aye mr. Craig aye mr. Hirsch aye president"
+    },
+    {
+      "block_id": 48,
+      "speaker": "SPEAKER_08",
+      "start": 2275.18,
+      "end": 2285.42,
+      "speaker_name": "mr. Harris",
+      "reason": "identifies themselves as a local stakeholder and addresses a city decision",
+      "text": "Baker aye our next resolution is resolution number 49 2025 mr. Harris a"
+    },
+    {
+      "block_id": 49,
+      "speaker": "SPEAKER_03",
+      "start": 2285.42,
+      "end": 2314.22,
+      "speaker_name": "the City Council of the City of Lancaster",
+      "reason": "the block is a statement by the council itself, not a public comment",
+      "text": "resolution of the City Council of the City of Lancaster Lancaster County Pennsylvania approving a project to be undertaken by the Lancaster Municipal authority for the benefit of Luther Care, a nonprofit corporation, and declaring that it is desirable for the health, safety, and welfare of the people in the area to be served by the facilities being financed as part of such project to have such facilities provided by or financed through such authority."
+    },
+    {
+      "block_id": 50,
+      "speaker": "SPEAKER_05",
+      "start": 2314.22,
+      "end": 2317.06,
+      "speaker_name": "unknown",
+      "reason": "only a procedural motion, not a genuine public comment",
+      "text": "Motion to approve. Second."
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_08",
+      "start": 2317.06,
+      "end": 2322.97,
+      "speaker_name": "COUNCILOR ARROYO",
+      "reason": "Identified as a council member and made a motion",
+      "text": "Second. We have a motion and a second. This is also coming up through the Finance Committee. Councilor Arroyo."
+    },
+    {
+      "block_id": 52,
+      "speaker": "SPEAKER_05",
+      "start": 2322.97,
+      "end": 2353.08,
+      "speaker_name": "COUNCIL PRESIDENT",
+      "reason": "Expressed support for a city decision",
+      "text": "Thank you, Council President. last committee meeting we did hear from authority solicitor aaron hollis who explained that the request is for 26 million dollars in tax-exempt conduit financing to benefit luther care this is to support the acquisition and development of 37 new homes and limits and other capital improvements we also learned that this financing does not has no financial obligation to the city so the city would not be responsible for any of the financing provided thank you very much"
+    },
+    {
+      "block_id": 53,
+      "speaker": "SPEAKER_08",
+      "start": 2353.08,
+      "end": 2361.35,
+      "speaker_name": "COUNCILOR RAYO",
+      "reason": "Spoke on a public resolution",
+      "text": "counselor rayo counselors any additional comments on the resolution comments from the public on"
+    },
+    {
+      "block_id": 54,
+      "speaker": "SPEAKER_03",
+      "start": 2361.35,
+      "end": 2374.66,
+      "speaker_name": "mr harris",
+      "reason": "expresses support for a resolution",
+      "text": "resolution 49 hearing none mr harris mr mann aye mr arroyo aye mr cleese aye miss craig all right"
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_08",
+      "start": 2374.66,
+      "end": 2385.37,
+      "speaker_name": "mr hirsch",
+      "reason": "introduces the next agenda item",
+      "text": "mr hirsch aye president bk aye the next item on our agenda is resolution number 51 2025."
+    },
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_03",
+      "start": 2385.37,
+      "end": 2396.09,
+      "speaker_name": "mr harris",
+      "reason": "proposes an amendment to a city plan",
+      "text": "mr harris a resolution of the council of the city of lancaster approving an adoption of an amendment to the act 537 official sewage facilities plan for the city of lancaster"
+    },
+    {
+      "block_id": 58,
+      "speaker": "SPEAKER_00",
+      "start": 2402.73,
+      "end": 2438.41,
+      "speaker_name": "counselor",
+      "reason": "Expresses concern about a city decision regarding sewage disposal.",
+      "text": "um from time to time we have the sewer module um plan that we need to amend the pennsylvania department of environmental protection requires the municipality to adopt an official sewage facilities plan providing for services adequate to prevent contamination of the waters of the of the commonwealth and environmental health hazards which silly with sewage waste and to amend when necessary to assure there is adequate sewage disposal thank you very much counselor"
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_03",
+      "start": 2447.29,
+      "end": 2459.61,
+      "speaker_name": "Mr. Harris",
+      "reason": "Identified as a resident and expressed concern about a city decision.",
+      "text": "51. hearing none Mr. Harris Mr. Mudd aye Mr. Arroyo aye Mr. Cleese aye Ms. Craig aye Mr."
+    },
+    {
+      "block_id": 61,
+      "speaker": "SPEAKER_08",
+      "start": 2459.61,
+      "end": 2477.38,
+      "speaker_name": "Mr. Mudd",
+      "reason": "Spoke during public comment period, expressed concern about a city decision.",
+      "text": "Hirsch aye President Pekin aye I'm counting correctly that concludes our legislative agenda for this evening and we'll move us into our second public comment period period again this is open for comment about issues that were not on the agenda duration of comments is limited to three"
+    },
+    {
+      "block_id": 62,
+      "speaker": "SPEAKER_07",
+      "start": 2477.38,
+      "end": 2481.78,
+      "speaker_name": "Ms. Craig",
+      "reason": "Identified as a community member and expressed concern about a city decision.",
+      "text": "minutes per speaker please begin with your name and block of residence if there's anyone wishing"
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_08",
+      "start": 2481.78,
+      "end": 2498.73,
+      "speaker_name": "Irene",
+      "reason": "Irene is a community member who made a public comment about code enforcement inspections.",
+      "text": "to make public comment at this time please go up to the microphone good evening my name is irene"
+    },
+    {
+      "block_id": 64,
+      "speaker": "SPEAKER_06",
+      "start": 2498.73,
+      "end": 2646.38,
+      "speaker_name": "Ellen Sloan",
+      "reason": "Ellen Sloan is a community member expressing concerns about ICE enforcement and immigration issues.",
+      "text": "grievous and i i am on the 400 block of west end avenue i am here to formally express my concerns regarding the handling of code enforcement inspections on my property located in 901 ministry in nearly four years i have made every effort to comply with the necessary corrections yet i continue to face additional requirements that seem unrelated to the previous inspections this repeated and seemingly arbitrary enforcement actions have severely impacted my ability to to provide rental housing to families in need additionally i am concerned that this matter has become personal rather than a fair regulatory editorial process i respectfully request a review of my case to ensure that inspections and enforcement actions are conducted in a consistent and equitable manner i am requesting the following a detailed written explanation of the violations that have been cited and abated number two a clear resolution timeline without further arbitrary inspections and number three a fair review of the case by a neutral third party i would appreciate a prompt response to this matter and i am willing to me to discuss a reasonable path forward in relation between the bureau chief if the relation between the bureau chief and i cannot be reached i am respectfully requesting for an arbitrator please acknowledge the receipt of this complaint and provide guidelines of how i may formally resolve this situation immediately thank you for your attention to this matter and look forward to our response timely response thank you thank you good"
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_08",
+      "start": 2719.74,
+      "end": 2731.96,
+      "speaker_name": "miss lynn",
+      "reason": "Identifies themselves as a community member and expresses concern about a housing issue.",
+      "text": "fear thank you miss lynn thank you thank you are there any additional public comments for this"
+    },
+    {
+      "block_id": 67,
+      "speaker": "SPEAKER_02",
+      "start": 2731.96,
+      "end": 2879.62,
+      "speaker_name": "tony dasher",
+      "reason": "Identifies themselves as a community member and addresses concerns about housing availability.",
+      "text": "period this evening tony dasher 700 block new holland avenue this is the part where i just riffed without prepared notes um actually to the previous public comments we need a resolution to ms grievous's situation because it has been far too long of her coming to council and i actually think that her statement tonight was very articulate very well mannered and this is a unit of housing that's off the market for rent or for sale whatever but i guess she could sell it but still doesn't resolve how she feels in the situation a resolution needs to be made we've seized houses previously like robert planks um something needs to be done um to move this forward so a unit of housing back on the market uh the other public commenter wonderful statement um there's so much that I feel needs to be done in that regard I don't think being a welcoming city is enough and I've said that before I'll say it again that we should be a sanctuary city and not just sanctuary in the immigration sense but also for the people who are unhoused and get sweeped off the streets so the last part of my rift here is just going to be that we need to bring the presentation to the public to the City Council because if something's not going to be done the create public comment processes for the committee meetings then you need to have start having these presentations in this venue eight years ago plus there are roughly eight years I'll say you know I in southern market a city councilor told me that I need to be coming to the committee meetings if I really want to have more impact because it's before these City Council meetings And also someone on the dais in a March meeting, I think in 2017, had told me that I'm too late if I'm coming to the city council to speak on these issues. So there's been – I do think the practice was held previously, like maybe unofficially, to allow for public comments based off those sort of statements because there was a recognition that public wanted to engage with y'all. You need to make it official because what happened last Monday was unacceptable, and I've never been more furious at this body."
+    },
+    {
+      "block_id": 68,
+      "speaker": "SPEAKER_08",
+      "start": 2879.62,
+      "end": 2901.15,
+      "speaker_name": "mr. Dastra",
+      "reason": "Identifies themselves as a community member and expresses concern about housing.",
+      "text": "thank you mr. Dastra are there additional public comments for this period hearing none I will close the second public comment period and we will continue with our agenda the next item this evening is the report of the mayor"
+    },
+    {
+      "block_id": 69,
+      "speaker": "SPEAKER_07",
+      "start": 2901.15,
+      "end": 3275.74,
+      "speaker_name": "Mayor Sirachi",
+      "reason": "Identified themselves as a resident and expressed concern about funding allocations.",
+      "text": "mayor sirachi Thank You council president on July 14th the house appropriations subcommittee will meet to mark up the transportation housing and urban development bill and that will go to full committee on July 17th at the federal level president trump is proposing a full cut of the cdbg that's the community development block grant and home programs the 2025 cdbg allocation to the city is 1.4 million and for context the county also receives a block grants about twice that and over the last five years cdbg funding to the city of lancaster was 7.7 million dollars this year as was presented to council earlier this year these funds support a wide variety of efforts they support city services to maintain quality affordable housing promote neighborhood quality of life through property maintenance inspections and education police social workers the health and housing social worker some of our neighborhood engagement efforts some of our streetscape improvement efforts and critical repair grants to residents which have assisted over 300 homes it also provides the required match for our hud led remediation grants to leverage this funding and this funding also supports our partners in the work that they do to support housing case management affordable housing rehabilitation and economic development and organizations such as tenfold south and concern neighbors sacca and partners with purpose home funding provides critical funding for new affordable housing and rehabilitation of city homes for affordable housing and over the past four years the city has received 1.6 million in home entitlement funds which have supported organizations such as chestnut housing hdc mid-atlantic landis communities and sacca eliminating these programs as is being proposed by the trump administration would remove nearly 1.5 million dollars annually that flows into the city of lancaster this reduction will also impact how the pennsylvania legislature prioritize funding and how dollars are allocated from the state to the city because there are a lot of crossover points between federal state and local funds and of course the state budget hasn't yet been finalized and so we're we're collectively bracing um this is in the scheme of the work that we do a very small amount of money 1.5 million dollars for CDBG 1.6 million dollars in home funding and you know we we have been very fortunate that we have received additional federal funding in the past that has made larger scale affordable projects happen for the first time in 40 to 50 years in the city like the HDC project for example on College Avenue with 64 units but without this money there would be nothing in terms of an investment that the city would be able to make in supporting the issue that is on everyone's mind which is the affordability of housing and so I want to just thank Rebecca guys are here who's who is here tonight for her and her and the team within CPAD to pull this there's a more robust data sheet that is being prepared to share with Senator Congressman Smucker's office and I am encouraging counselors to reach out to Congressman Smucker as well as anybody who's listening tonight to both appreciate CDBG investments for the over the last 50 years and to highlight the ways in which these dollars are utilized in our community both CDBG and home and if you want to talk about something specific and you need some data to strengthen your case statement drop me a message and we will help you in your advocacy next I want to provide a brief update related to an email that I received last week from our police social workers Kelly and grace a while ago we decided at the board of the trust and charities which is a very small fund to allocate about $10,000 annually to the police social workers because they routinely run into situations in which a little bit of money could make a very big difference in the lives of the residents that they are serving and so last week was the first time that they used the credit card that was attached to this account and through a combination of donations and purchases they acquired a bed a microwave and a mini fridge for an 82 year old gentleman who was doing very much without now he he has a bed to sleep on and a means to reheat and store food so they also connected him to Meals on Wheels so that he can be have access to reliable quality food to assist him in these basic necessities of life and so I'm really pleased that we found a way with a very small amount of money to help this gentleman and I also know that Kelly and Grace will use these funds to help folks like this gentleman who need a little extra help to meet some of their daily needs and to make their lives better thought you should all know that work is happening every day at our police bureau thank you mayor sirachi"
+    },
+    {
+      "block_id": 70,
+      "speaker": "SPEAKER_08",
+      "start": 3275.74,
+      "end": 3364.68,
+      "speaker_name": "Unknown",
+      "reason": "Appealed for federal funding, indicating concern about city's funding.",
+      "text": "thank you so much for those updates that's incredible and also just to to follow up on your update on the federal grant or federal funding proposals it's it's it's shocking to think the impact that would have on the city of Lancaster and then repeat that hundreds and hundreds of times across the country in small cities like this I am consistently impressed by the ways that our Community Planning Bureau leverages that relatively small amount of dollars based on the rest of our city budget for so many things that have real impact on our residents so I encourage everyone to please reach out to our federal elected officials, Congressman Smucker, please and and talk about the ways that this would impact your life. And if you're not sure how to do that, I'm sure our city staff will be happy to fill you in on all of those fine details and what that means right outside of your front door. Beyond that, the next item on the agenda was the Council President comments, which I don't have any others besides that. So again, thank you, Mayor sirachi the next item is comments of council counselors any comments this evening hearing none and then having reached the end of our agenda i will hear a motion to adjourn motion to adjourn second a motion and a second all in favor aye we're adjourned thank you"
+    }
+  ]
+}

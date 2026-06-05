@@ -1,0 +1,4195 @@
+{
+  "title": "City Council Meeting - November 25, 2025",
+  "video_id": "Re1Nhz9g1aM",
+  "upload_date": "20251126",
+  "model": "deepseek-r1-7b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 3,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 504.25,
+      "end": 518.49,
+      "text": "During our meeting this evening There will be opportunities for public comment The first general public comment period is for residents that have registered in advance to speak about items that are not on the agenda residents may also comment on individual items on our legislative agenda at",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 4,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 518.49,
+      "end": 537.62,
+      "text": "section 9 finally a second public comment period will be at the end of the agenda for any other speakers wishing to address counsel all speakers are reminded to please begin with your name and block of residence for our meeting record comments are limited to three minutes per speaker to keep time I'll use this timing light it'll turn green when a speaker begins it will blink",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality issues."
+        }
+      }
+    },
+    {
+      "block_id": 5,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 537.62,
+      "end": 548.72,
+      "text": "yellow when there is one minute remaining and blink red when three minutes has been exhausted when three minutes has been reached I will ask a speaker to conclude their comment and I appreciate everyone's cooperation to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or costs/benefits distribution."
+        }
+      }
+    },
+    {
+      "block_id": 6,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Mr. Harris",
+      "start": 548.72,
+      "end": 633.96,
+      "text": "maintain equal time and order speakers addressing City Council members of the audience members of council are expected to conduct themselves in an orderly manner and remain respectful of others now for all of those who are willing to please rise for the Pledge of Allegiance mr. Harris would you please call the roll of members yes madam president mr. men mr. Arroyo here mr. Cleese yeah miss Craig here miss Diaz mr. Hirsch here the president Baker here counselors Ahmed and Diaz are excused this evening next item on the agenda is the approval of the minutes of the November 11th 2025 meeting of Council motion to approve second we have a motion and a second councillors any comments on those minutes hearing none mr. Harris mr. Roya I mr. Cleese I miss Craig all right mr. Hirsch all right I'm president Baker I next item on the agenda proclamations honors awards and resolutions of recognition it does appear that we have",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspects of resource management, such as electricity, water, or waste. It focuses on procedural matters like roll calling and speaker etiquette."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker addresses the process of conducting council meetings, including roll calling and procedural respect, which relates to how decisions are made and monitored."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health issues, air quality, or noise pollution related to the AI data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, or historical patterns of inequality or extraction."
+        }
+      }
+    },
+    {
+      "block_id": 7,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Mr. Harris",
+      "start": 633.96,
+      "end": 642.92,
+      "text": "none this evening confirming mr. Harris that that is correct that is case thank you appreciate it that will take us then to our first public comment period again",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Mr. Diaz",
+      "start": 642.92,
+      "end": 665.67,
+      "text": "this is reserved for residents who have contacted the city clerk prior to the meeting um please begin with your name and block of residence for our meeting record uh mr harris do we have speakers for this public comment period we do madam president uh first we have tony dastra thank you you may need to turn that on i'm not sure if it's on yet or not good evening it's a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 9,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Tony Dash",
+      "start": 665.67,
+      "end": 688.79,
+      "text": "lot uh hello tony dash is 700 block of new holland avenue um this is just kind of a comment related to winter maintenance because it's coming up it's getting cold it's going to start snowing soon and i recall last year having several days of icy bike lanes i think it was around president's day",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No reference to inequality, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Unknown",
+      "start": 688.79,
+      "end": 698.87,
+      "text": "if my memory serves me correctly it was almost a week long of having the bike lanes iced over especially with the changes coming to administration i just want to encourage",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 11,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Unknown",
+      "start": 698.87,
+      "end": 711.11,
+      "text": "city government to make sure the resources are there to manage the bike lanes properly this season um and you know i also recognize that we can't remove all snow at once if we need to get",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 711.11,
+      "end": 715.43,
+      "text": "uh some sort of signage to say bike lane closed to temporary close off the bike lanes because they",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, utilities, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, decision-making, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues, air quality, noise, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, jobs, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 13,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 715.43,
+      "end": 731.48,
+      "text": "are part of the roadway it leaves the city open to massive massive liability if someone uses the bike lane and gets hurt so whether whether you get cones barricades whatever they just say bike lane closed i think that'd be very prudent and that's really all i have to say i think the bike lane",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 14,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 731.48,
+      "end": 736.04,
+      "text": "maintenance has improved over the course of the year um leaf pickup especially i've seen the i've",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention anything related to electricity, water, waste management, or infrastructure costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, fairness, or decision-making processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss health issues, air quality, or noise pollution."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention jobs, housing, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 15,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 736.04,
+      "end": 766.85,
+      "text": "seen those guys picking up with the uh man the brand sticking in my head but i can't say it uh cool sweepers or cool leaf pickers i think uh we're doing better than we were doing last year but i just want to make sure i encourage the city to not uh drop the ball in any transition that we're all ready to go because i will be very upset if this year i go to use the bike lane like i did last year and almost wipe out thank you that is genuinely all I have to say I hope you guys have a fun public hearing and have a great night thank you so much",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 17,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 778.14,
+      "end": 782.28,
+      "text": "which we have won this evening it is the public hearing on our zoning amendments",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 782.28,
+      "end": 826.15,
+      "text": "the zoning amendment itself will come up under our legislative agenda but as with zoning changes we are required to hold a public hearing so at this time I will declare the public hearing open and I will ask anyone who is presenting into the record to come forward please begin with your name and who you're representing with the city or or otherwise I will say that if we use the the seating closest we might want to move down a little bit just because of the way the the live stream captures everybody and also the time be heard so",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspects of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is about the process of holding a public hearing, not about the fairness or transparency of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health issues or environmental impact on residents."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss economic benefits, job creation, or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 19,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 826.15,
+      "end": 837.95,
+      "text": "perfect thank you very much good evening I'm Betsy Logan I'm the planning bureau chief for the city Claudia shank with McNeese Wallace and",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information on resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information on process or decision-making"
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information on health or well-being issues"
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information on power dynamics or inequality"
+        }
+      }
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 837.95,
+      "end": 849.83,
+      "text": "Eric I'm here on behalf of the developer 1031 Dillerville Road LP hi Melissa Stiles storage asset management on behalf of Dillerville Road good evening",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 21,
+      "speaker": "UNKNOWN",
+      "speaker_name": "bill swernick with david miller associates",
+      "start": 849.83,
+      "end": 859.7,
+      "text": "bill swernick with david miller associates representing the applicant thank you bear",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information on resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information on process or decision-making"
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information on health or well-being issues"
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information on power dynamics or inequality"
+        }
+      }
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 859.7,
+      "end": 875.59,
+      "text": "with me while i get this sure set up new technology um once again good evening tonight",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, decision-making, or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 23,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 875.59,
+      "end": 879.91,
+      "text": "we're here for the public hearing for a zoning ordinance text amendment to allow self-storage",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspects of resources, infrastructure, or budgetary concerns related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is about a self-storage zoning amendment and does not pertain to the process or fairness of decision-making regarding the AI data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts or concerns related to the AI data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to power dynamics or inequality related to the project."
+        }
+      }
+    },
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 879.91,
+      "end": 903.4,
+      "text": "facilities over 20 000 square feet an area and to amend the zoning map sorry okay so this amendment has two parts to it it's um the zoning text amendment itself which adds a second use category",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 25,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 903.4,
+      "end": 915.4,
+      "text": "for self-storage exceeding 20 000 square feet it establishes design standards for self-storage facilities it removes self-storage as a special exception in the r3 and r4 residential zoning",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 915.4,
+      "end": 921.24,
+      "text": "districts and it creates design standards for buildings in the central manufacturing zoning",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 27,
+      "speaker": "UNKNOWN",
+      "speaker_name": "UNKNOWN",
+      "start": 921.24,
+      "end": 969.34,
+      "text": "DISTRICT WHICH EXCEEDS 50,000 SQUARE FEET. THE ZONING MAP AMENDMENT WHICH IS THE SECOND PART IS TO REZONE A PARCEL OF LAND FROM THE C3 COMMERCIAL DISTRICT TO CM ZONING DISTRICT AND CLAUDIA WILL REVIEW THAT AFTER MY PRESENTATION. SO WITH THE TEXT AMENDMENT CURRENTLY ZONING THE ZONING ORDINANCE ALLOWS SELF-STORAGE FACILITIES THAT ARE LESS THAN 20 000 square feet in areas as follows so in the central manufacturing district it's a use by right in the r3 r4 mixed use and commercial district it's by special exception there are currently no provisions for self-storage facilities that exceed 20 000 square feet in any zoning district",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct mention of resources or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No explicit concerns about decision-making fairness or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No references to health impacts or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of costs, benefits, jobs, or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 28,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "UNKNOWN",
+      "start": 971.26,
+      "end": 978.54,
+      "text": "the proposed amendment would allow self-storage facilities greater than 20 000 square feet",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 29,
+      "speaker": "UNKNOWN",
+      "speaker_name": "UNKNOWN",
+      "start": 979.1,
+      "end": 985.74,
+      "text": "or with no size restriction sorry um to be allowed in the cm zoning district now this is the only",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 985.74,
+      "end": 990.86,
+      "text": "zoning district it would be allowed in by right there are also size restrictions on the lots",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 31,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 990.86,
+      "end": 1067.77,
+      "text": "which would be a minimum of three acres and a maximum of five acres they cannot have direct access to a public street and they have to be in existence as of july 1st 2025. these site criteria restrictions especially the direct access to a public street restrict self-storage facilities from being built throughout the city the majority of the areas that in the city that have large enough lots or those between the two and five acres are in the northern part of the annex of the city um and the one like the cm zoning districts that are in the southern part of the the city all have direct access to public streets so for example kunzler the old kunzler site would not be able to do it because it'd have direct access onto the public additional requirements for self-storage facilities would be that they would have to be climate controlled buildings there would be a minimum of two stories in height there would be buffering and screening requirements for exterior garage type doors facing the public right of way security fencing would be required and the outdoor storage of vehicles has to be located",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on site criteria for self-storage facilities, which relates to land use and infrastructure access, but does not directly address energy, water, or waste management issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the process or decision-making behind the project, such as transparency or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, air quality, or noise pollution related to the self-storage facilities."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, economic benefits, or inequality related to the project."
+        }
+      }
+    },
+    {
+      "block_id": 32,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1067.77,
+      "end": 1088.89,
+      "text": "in the side or rear yard and all services must be paved where they're parked during our text amendment discussions with the applicant it became apparent that there were some long-term impacts of allowing self-storage facilities in the r3 and r4 residential districts since the use table was",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 33,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1088.89,
+      "end": 1101.37,
+      "text": "being updated for the self-storage facilities with no size limits we requested that they remove the special exception requirement to have r3 and r4 zoning districts for self-storage that were",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1102.25,
+      "end": 1111.24,
+      "text": "less than 20 000 square feet this change creates approximately two new non-conforming",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 35,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1111.72,
+      "end": 1122.6,
+      "text": "facilities however if they want to expand their their facility and they're already in an r3 they can go through the special exception process so they're not limited in what they can and can't",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1122.6,
+      "end": 1131.37,
+      "text": "do on their property with as an existing use and then finally we wanted to ensure that new",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific resource management issues related to electricity, water, waste, or budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address concerns about decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss any health impacts or well-being concerns related to the AI data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not touch on issues of inequality, job creation, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 37,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1131.37,
+      "end": 1197.08,
+      "text": "large box buildings had to meet some building design standards especially those that are not in one of the historic districts that have a little bit more regulation on those standards So, a new section of the zoning ordinance is being added for buildings that are greater than 50,000 square feet, which would require specific design standards. It focuses on building entrances and building facades, as well as flat roofs. It would require that they have a parapet and that all rooftop equipment is screened. This also provides flexibility in design options. There are about six to seven choices, and they would have to pick three of those choices in the ordinance to meet those standards. wouldn't go through a design review committee or anything like that but it will provide some visual relief on long walls and identify like the primary location of a building so in summary the textmen will add a new use category for self-storage it will establish design standards",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1197.08,
+      "end": 1203.48,
+      "text": "for self-storage facilities it will create design standards for buildings in the cm zoning district",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs related to the project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts or environmental quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, costs, or benefits distribution."
+        }
+      }
+    },
+    {
+      "block_id": 39,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1203.48,
+      "end": 1214.71,
+      "text": "and it will remove self-storage as a special exception in the r3 in our zoning district and claudia will present about the zoning map amendment thank you thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 40,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1216.1,
+      "end": 1220.5,
+      "text": "um good evening claudia shank with mcneese walson nurick again on behalf of the applicant",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 41,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1221.14,
+      "end": 1231.14,
+      "text": "so the property that we're going to discuss tonight if you turn to tab 1 in your packet and i believe i sent it over to bernie too if you're able to pull it up on the screen bernie",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1231.14,
+      "end": 1256.74,
+      "text": "just to orient you to the development site it's located at 1031 dillerville road the area that we're talking about developing is outlined in blue on the plan it's about a two and a half acre unit in a two unit site condominium the other portion of that condominium located directly to the south was recently sold to heck construction and they've put their",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 43,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1256.74,
+      "end": 1263.78,
+      "text": "lancaster office building there the property is currently improved with a commercial building",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1263.78,
+      "end": 1275.99,
+      "text": "that's leased to an automotive repair shop there are some storage uses also on the property really we don't believe that's the highest and best use of this property the applicant in this",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 45,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Anonymous",
+      "start": 1275.99,
+      "end": 1286.23,
+      "text": "matter is affiliate of oak tree development group oak tree has done a number of projects throughout the county and in the city as well probably most noteworthy would be the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 46,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Anonymous",
+      "start": 1286.23,
+      "end": 1295.47,
+      "text": "city gate project that they completed but also the building where RGS is located was done by oak tree the UPMC outpatient center was done by them as",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 47,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Anonymous",
+      "start": 1295.47,
+      "end": 1300.51,
+      "text": "well and the going bananas facility right up the road from this was",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, decision-making, or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues, noise, or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, costs, benefits, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 48,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1300.51,
+      "end": 1316.75,
+      "text": "completed by them so they've done a number of projects in this area and really think that this site is a prime opportunity for redevelopment if you look at the second sheet there in your packet or on the screen that's a excerpt",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 49,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1316.75,
+      "end": 1319.99,
+      "text": "from the zoning map that shows the property if you just want to scroll down",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 50,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1319.99,
+      "end": 1347.06,
+      "text": "one it's primarily located in the city's c3 commercial district Bernie are you able to scroll to the next yeah it should just all be one so you can see there on the map the current zoning of the property primarily located in the three c3 regional commercial zoning district there is a very small portion",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 51,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1347.06,
+      "end": 1350.74,
+      "text": "along the northern side of the property that is in the central manufacturing",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 52,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1350.74,
+      "end": 1388.78,
+      "text": "zoning district that's the gray with the c3 being the pink so we are proposing to rezone the property from c3 to central manufacturing central manufacturing is a district where self storage is currently allowed and we think in conversation with the city it's it's a better fit to keep self storage in that district rather than moving into the commercial areas we've been in discussion with the city about this project for quite some time we've been working on it with betsy since she was appointed director and moving forward with the text amendment proposal that's before you this evening we wanted to craft",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, utilities, or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 53,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1388.78,
+      "end": 1392.7,
+      "text": "something that would facilitate development on this property which we believe is an appropriate",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific resources or infrastructure concerns, so it scores 0.0 on this theme."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any process or decision-making concerns, so it scores 0.0 on this theme."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health or well-being concerns, so it scores 0.0 on this theme."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any power dynamics or inequality concerns, so it scores 0.0 on this theme."
+        }
+      }
+    },
+    {
+      "block_id": 54,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1392.7,
+      "end": 1399.58,
+      "text": "location for self-storage given site constraints in particular the limited access this property",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 55,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1399.58,
+      "end": 1404.38,
+      "text": "only is accessed via an access easement to the south over the shopping center property",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1405.42,
+      "end": 1463.02,
+      "text": "but also to meet the city's needs and interests in limiting self-storage in residential areas as betsy indicated currently your ordinance does not permit any facilities over 20 000 square feet and it doesn't really contemplate a multi-story self-storage facility which is what we're looking to do here what we think is the appropriate fit so again we're proposing the rezoning to cm of this parcel betsy walked you through in detail the text amendment and what would be required in order to develop a self-storage facility within the cm district larger than 20 000 square feet it's really quite limited as betsy explained and that was at the recommendation of the planning commission if you want to go to the next page this would be the third exhibit in your packet so this shows currently where self-storage facilities are allowed in the city the areas that are in green",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts or environmental quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 57,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1463.02,
+      "end": 1468.06,
+      "text": "permit them by special exception they are permitted by right in the areas in orange",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 58,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1468.94,
+      "end": 1487.74,
+      "text": "under the proposed zoning they would no longer be permitted in the r3 and r4 zoning districts they would continue to be permitted up to a maximum of 20 000 square feet by special exception in the mixed use in c1 districts and then by right in the cm without maximum size restrictions just",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 59,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1487.74,
+      "end": 1493.82,
+      "text": "on lots that meet the criteria that betsy laid out if you go to the next page in the packet",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1495.02,
+      "end": 1508.06,
+      "text": "it's exhibit four you can see the way that this is going to change the ability to construct self-storage in the city so dark blue properties self-storage would be permitted by right up to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 61,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1508.06,
+      "end": 1514.62,
+      "text": "20 000 square feet light blue permitted by special exception up to 20 000 square feet and then orange",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 62,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1514.62,
+      "end": 1650.09,
+      "text": "permitted above 20 000 square feet and again that more or less is limited to our property betsy also walked through the design standards that we've incorporated in the amendment i do want to emphasize that those would apply to all buildings greater than 50 000 square feet in the cm district so we'll apply to our facility of course but other new construction as well we did present this to the planning commission they recommended approval with with certain changes which have been incorporated into the draft that's before you this evening so i'm going to turn it over at this point to bill swarnick the next sheet in the packet is the concept plan it's exhibit five in the packet in front of you and let bill walk that through with you thank you claudia what we have proposed uh this uh exhibits oriented a little differently than the others so north is actually to the right on this exhibit so if i'm referring to north it would be that direction south is to your left what what you can see on the plan is a concept for the establishment of a self-storage building the dimensions on there right now are roughly 200 by 200 square 200 feet as was indicated this property does not have access directly off of dillerville road there is an access easement that is highlighted in that cross-hatched yellow highlighted area that easement allows for access from this property over to the entrance on dillerville road there to the south of the proposed building is where the heck headquarters or lancaster headquarters is being redeveloped in that existing building what we have shown is again a 200 by 200 square building there is a gate and there would be an enclosed area going towards the north and encompass the area generally on the north side and east side of the building we need to retain accessibility around the building for maneuvering of vehicles associated with the heck use of the property and with the proposed self-storage use site would be served",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 63,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1650.09,
+      "end": 1694.34,
+      "text": "by public sewer and water there'd be adequate parking to accommodate the proposed use a very low trip generation type uses proposed here and that's part of the reason for the selection of this site stormwater management would be accomplished through both the elimination of impervious areas and the establishment of water quality infiltration galleries parking as I highlighted would be on a small amount would be on the north side of the building there to also be opportunities for parking elsewhere on the site however the parking demand for this use is very small and we can talk about the use otherwise and how many attendants or how many cars are anticipated to be",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 64,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1694.34,
+      "end": 1701.78,
+      "text": "there during a normal day of operation that's generally our kind of what we",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not provide specific concerns about resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no indication of issues with decision-making processes or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No direct references to health impacts or well-being are present."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, jobs, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 65,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1701.78,
+      "end": 1706.58,
+      "text": "have proposed if you want to go on to the next page I do just want to share",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No specific mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1706.58,
+      "end": 1718.7,
+      "text": "with council again if you pause there on the smaller image you can see a Google aerial image of what the property looks like today you can see that you know it",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 67,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1718.7,
+      "end": 1722.96,
+      "text": "again we feel it's not in its highest and best use currently and we'd like to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.7,
+          "reasoning": "The comment expresses concern about the project not being in its highest and best use, which relates to resource management and potential overuse of resources like land or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker is questioning the project's value and potential impact, which could relate to how resources are allocated and managed by the city."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health issues or concerns related to air quality, noise, or health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.6,
+          "reasoning": "The concern about the project not being in its highest and best use could imply issues with resource distribution and inequality."
+        }
+      }
+    },
+    {
+      "block_id": 68,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1722.96,
+      "end": 1753.8,
+      "text": "improve upon the appearance and the usability of the site if you scroll to to the next page you can see what the site will look like redeveloped we zoom out a little bit there you can see the head construction building that's there now they've completed that and then the self storage so it is a large building but it is a significant improvement to the overall appearance of the site I'm gonna ask our colleague with storage asset management at this point in time",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 69,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1753.8,
+      "end": 1762.02,
+      "text": "to share a little bit information I know there have been questions in the past about you know there's been growth in self-storage in Lancaster County is",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 70,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Melissa Stiles",
+      "start": 1762.02,
+      "end": 1859.76,
+      "text": "there a need for it here why was the site identified and I think she can speak to some of those questions yes thank you Melissa Stiles with storage asset management so if we look at the nation the national square foot per capita is around seven point seven six so just under eight in Lancaster City the availability is one point one four so the residents here in Lancaster City have a substantial gap of the demand that they need for storage so this not only do they not have the storage that they need it also is shown in the imbalance of pricing so if we look at a national trend right now self storage prices are declining by over 6% but here in Lancaster City year-over-year pricing is actually up 5% so it's showing you know a strong indicator that the supply is just not keeping up with the demand here in Lancaster City so the low square footage per capita and then the upward pressure on the rate show that this market needs additional storage capacity just a few points in summary and then we'll certainly open it up for any questions from council again we think this is a logical extension of the CM zoning district to the north this property is identified on your future land-use map as being suitable for a general commercial or industrial use we believe the design standards that are being proposed by the city and incorporated into this amendment are consistent as well with the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No score assigned because the comment does not directly address resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No score assigned because the comment does not discuss decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No score assigned because the comment does not address health issues or well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No score assigned because the comment does not discuss inequality, jobs, or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 71,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1859.76,
+      "end": 1869.24,
+      "text": "comprehensive plan which emphasizes the importance of ensuring that buildings are designed in a way that's compatible with the local context and the surrounding features",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1869.88,
+      "end": 1875.56,
+      "text": "and I think both the city and the county plan would emphasize and support redevelopment of",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 73,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1875.56,
+      "end": 1881.48,
+      "text": "underutilized properties and so we believe that this site is appropriate for that and with the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 74,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1881.48,
+      "end": 1918.08,
+      "text": "rezoning and the tax amendments we would be able to accomplish that so with that we're happy to answer any questions that council has thank you very much just a reminder that we're in the public hearing portion our actual legislative action will come later in the agenda this evening I'll open it up for any council comments or questions for the hearing I will also open it up to the public if anyone has any comments for the hearing okay one's going twice okay I thank you all is there anything",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of transparency, process fairness, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts or environmental quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of costs, benefits distribution, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 78,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Community member",
+      "start": 1947.42,
+      "end": 2042.15,
+      "text": "happened at this time we will close the public hearing for this amendment as always it is nice to see you all right as we transition i'm going to give a moment to just bring back our agenda and we are at the interim reports of committees of council and i don't believe we have any of those council members that we don't have any okay wonderful then we will move into our legislative agenda at this time we will begin with items for the heritage conservation District Mr.. Harris when you're ready no rush Considering the following applications and recommendations from the Historical Commission for improvements to properties in the Heritage Conservation District First is John K. Hanks owner of 239 East Chestnut Street Proposes removal of a modern concrete stoop on the building's facade retaining the front entry steps And the second is SACA development corporation owner of 470 Beaver Street proposes construction of a two-story freestanding house on a cleared parcel at the corner of Hazel Street and both of those applications were recommended for approval by the Historical Commission Motion to approve second. We have a motion and a second Council Craig, do you have anything additional or any additional questions?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 79,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Community member",
+      "start": 2042.15,
+      "end": 2046.49,
+      "text": "I do not nothing other than what we've had here. Perfect. Thank you very much",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 80,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Community member",
+      "start": 2046.49,
+      "end": 2177.48,
+      "text": "councillors any comments on the items I don't believe the applicants are here but I just want to make sure okay there any comments from the public on the items hearing none mr. Harris mr. Roya I mr. Glees all right miss Craig all right mr. Hirsch all right the president Baker I that will take us to item B on our legislative agenda these are ordinances for final passage we begin with administration bill number six twenty twenty five mr. Harris an ordinance authorizing the occurrence of non electoral debt of the city of Lancaster Lancaster County Pennsylvania by the issuance of a principal amount general obligation note series a of 2025 the series a note the series a note is being issued for the purpose of providing funds for paying costs and expenses for the design and construction of improvements to the city's water system and related costs and expenses including the fees and costs of issuing the series a note and the construction period interest excuse me construction period interest on the series a note determining to sell the series a note at a private sale by invitation approving the form of the series a note fixing the date interest and maturity of the series a note making a covenant for the payment of the debt service on the series a note pledging the full faith credit and taxing power of this city in support of the series a note providing for the filing of required documents providing for the appointment of a sinking fund depository for the series a note and authorizing execution sale and delivery thereof and other necessary action motion to approve second we have a motion and a second council arroyo Thank You council",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 81,
+      "speaker": "UNKNOWN",
+      "speaker_name": "president",
+      "start": 2177.48,
+      "end": 2183.12,
+      "text": "president excuse me back in October we had previously discussed the interim",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 82,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2183.12,
+      "end": 2210.8,
+      "text": "financing for the 42 inch main which serves as the backbone of our water distribution system tonight is the second reading of this proposal to borrow 32 million dollars to pre-order essential materials enabling the project to start promptly it is imperative that this project begins in March of 2027 and these capital expenditures were incorporated to the cost of the water fund and I believe director Campbell is here to speak more into the bill yes",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.6,
+          "reasoning": "The comment highlights the financial aspects of the project, specifically the need for capital expenditures for the water distribution system, which ties into the city's resources and infrastructure management."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker emphasizes the importance of starting the project on time and the role of the city's financial resources, suggesting potential concerns about the process's transparency and fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention or implication of health risks or concerns related to the project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The comment focuses on financial resources and project timelines rather than discussing inequality, jobs, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 83,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2210.8,
+      "end": 2221.24,
+      "text": "thank you very very much and I have Darrell Peck here also to talk a bit more about the financial challenges related to the the nature of the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 84,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2221.24,
+      "end": 2323.32,
+      "text": "transfer as you stated this is a very important project we've been talking about this project for almost eight years the this this this map for instance shows you the key phases that we're talking about at this moment but phase one actually had been performed from May of 2019 through August of 2022 and phase phase one was the phase from oyster point reservoir which is to the far right of the map into the city the parts that we need to do now which took several years of engineering as well as recognizing some of the challenges and involved is the most expensive part and in order to get it done in a particular manner in a particular order we need to be able to order the materials which have a very long lead time and which are the majority of the cost of the phases to a to B and phase three of the work the work will be if we get this fund the funding that were that Darrell will be talking to you about on time we'll be able to get this work the materials ordered so that they can start to arrive in the spring and be able to perform the work within that 12 month period from about March of 2026 through March of 2027 I'm going to turn it over to Daryl now so that he can tell more about the financial machinations a good evening",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality issues."
+        }
+      }
+    },
+    {
+      "block_id": 85,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2323.32,
+      "end": 2348.88,
+      "text": "pleasure to be here tonight I handed I gave you out two presentations I one presentation is for what's called the interim financing that you're just introduced the series 225 a note i gave you another one for the second next agenda item just for convenience so if everybody has the one referred to as series a of 2025 note uh so again this is the interim financing for the materials portion uh that mr campbell just",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspects of electricity, water supply, waste management, or budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss information asymmetry, lack of transparency, or the legitimacy of decision-making processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health risks, air quality, noise pollution, or health consequences related to AI data centers."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address unequal distribution of costs and benefits, non-human populations, or historical patterns of extraction and neglect."
+        }
+      }
+    },
+    {
+      "block_id": 86,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2348.88,
+      "end": 2357.52,
+      "text": "alluded to um really again this is sort of critical to move this project forward in in",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 87,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2357.52,
+      "end": 2360.88,
+      "text": "the most efficient manner and quite frankly the most cost effective manner",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or costs/benefits distribution."
+        }
+      }
+    },
+    {
+      "block_id": 88,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2362.64,
+      "end": 2373.76,
+      "text": "and this was discussed at the finance committee meeting back on september the 2nd i know it dates back a little bit but uh really remember talk about that's the same sort of presentation",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 89,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2373.76,
+      "end": 2417.43,
+      "text": "we've just refined it with the final proposal that we got and i do want to reinforce that this work has been talked about for years and it is part of the capital plan that was also approved earlier this year right so on page one again as mr. Campbell alluded to you've been working on this plan water transmission project for a number of years to get the system redundancy and resiliency you know you only have one transmission main from the river to supplement River to the reservoir I think it's fair to say that that pipe was installed in 1955 and probably has far exceeded its useful",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.6,
+          "reasoning": "The comment highlights the age and potential need for updating the water transmission system, indicating concern about the city's infrastructure capacity."
+        },
+        "municipal_process": {
+          "score": 0.4,
+          "reasoning": "The speaker refers to the project being part of the capital plan and approved earlier, suggesting a lack of transparency or oversight in the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts or concerns related to the project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The comment touches on the age of infrastructure but doesn't directly address inequality or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 90,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2417.43,
+      "end": 2428.13,
+      "text": "life so the estimated cost of the project according to Department of Public Works is fifty two point five six million the city has a grant fund of",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.7,
+          "reasoning": "The comment mentions the cost of the project and the city's grant fund, indicating concerns about the financial burden on the city's resources."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The comment doesn't directly address transparency or fairness in the decision-making process, so it scores lower on this theme."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There's no mention of health impacts or concerns related to the project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.6,
+          "reasoning": "The comment touches on the financial aspect but doesn't specifically address inequality or distribution of benefits."
+        }
+      }
+    },
+    {
+      "block_id": 91,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2428.13,
+      "end": 2436.81,
+      "text": "three point two million dollars available for the project and the permanent financing for this project in the amount of a little over forty nine",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 92,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2436.81,
+      "end": 2457.21,
+      "text": "million is expected to be be secured from Pennsylvania Infrastructure Investment Authority or pen vest low interest loan compared to a more conventional bank loan or bond issue so very advantageous in order for this to to move forward the city and its project engineer already submitted the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 93,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2457.21,
+      "end": 2467.71,
+      "text": "application to pen vest back at the end of October and that was prior to that deadline and the pen best meeting will be on January 21st for the consideration",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 94,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2467.71,
+      "end": 2484.57,
+      "text": "of the request and and hopeful award of that of that financing you know as was alluded to you know based upon the time required until the city will actually be awarded and receive the funding this interim financing of 32 million dollars",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 95,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2484.57,
+      "end": 2505.57,
+      "text": "will allow the city to have funding kind of in hand if you will and able to go out and purchased the $30 million of equipment that you otherwise wouldn't have felt comfortable doing without having the PennVest financing in hand. And certainly the city has determined that pre-ordering of these materials will do one,",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 96,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2505.57,
+      "end": 2518.79,
+      "text": "it will allow the construction to proceed more quickly when the actual installation contracts are bid and awarded, and you also expect to get better bids for the contractor",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 97,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2518.79,
+      "end": 2543.06,
+      "text": "because the contractor will be able to say, okay, I'm bidding and I'm starting work tomorrow. Otherwise, the bidder would have bid and say, okay, now I'm going to start work in six months. So as you can expect, you're going to get better execution or better pricing of your contracts. Ultimately, the interim financing will be paid off or rolled into the PennVest financing that will close sometime towards the mid to late end of 2026.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 98,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2544.2,
+      "end": 2552.32,
+      "text": "This is probably a good point to say this is much better. while it seems like an extra step while it seems like you might be incurring interest expense",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or costs."
+        }
+      }
+    },
+    {
+      "block_id": 99,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2553.12,
+      "end": 2570.96,
+      "text": "originally the plan was for this 30 million dollars to be included in the 2025 bond back in march right so by doing this interim financing the 30 million dollars while while yes you will incur some interest expense on this interim financing it's far better to borrow that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 100,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2570.96,
+      "end": 2575.52,
+      "text": "30 million dollars at the penvest rates than what you would have borrowed it at in the bond issue",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 101,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2575.52,
+      "end": 2586.08,
+      "text": "back in the beginning of the year so very advantageous again extra step yes extra administrative time absolutely but but far better uh benefit for the city and the rate payers",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 102,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2587.98,
+      "end": 2600.38,
+      "text": "um on page two uh is the timetable uh above the yellow line has already occurred uh below the yellow line obviously the council meeting tonight to consider the ordinance uh we expect to close",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, decision-making, or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of inequality, jobs, or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 103,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2600.38,
+      "end": 2685.56,
+      "text": "on the interim financing uh on december 22nd the project projects will be ordered sometime in early january uh the the penvest financing uh award is contemplated for january 21st and you know may june-ish uh the project the materials should be uh received and the construction bids uh will be a construction contract will be bid and awarded uh later in 2026 september october and november the city will will go through the legislative process for the penvest financing the permanent financing uh you'll close on the penvest financing and then when we close them at penvest financing you'll pay off uh the interim loan so you'll never have two debts out the same time and then the project is estimated to be completed in April of 27 the interim financing will serve two purposes it's is to be able to order the equipment and pay for the equipment upon delivery it's also a cash flow loan during the construction phase so because pen best works on the reimbursement basis using it you will award the contracts pay the contractor make the payment, and then you'll get money from PennVest 30 days later, 60 days later. So you have the cash flow loan if you need it. So the interim financing will serve those two purposes.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 104,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2687.16,
+      "end": 2715.6,
+      "text": "In terms of proposals, we indicated we went out and solicited proposals for this $32 million. It has a term of two and a half years. We went out to 26 banks. We got five banks to propose. We got six proposals. The most favorable proposal is from Fulton Bank at a fixed rate of 4.33%. That'll be on a later page. Over on page three, the interim financing is",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No explicit mention of process issues like oversight, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of costs, benefits, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 105,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2715.6,
+      "end": 2721.3,
+      "text": "structured as a drawdown loan or a line of credit feature. And it's also prepayable at any time",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 106,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2721.3,
+      "end": 2726.58,
+      "text": "without penalty. So certainly you're minimizing the interest expense. You won't even draw on",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 107,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2726.58,
+      "end": 2778.68,
+      "text": "this loan until the equipment is actually delivered absent needing some sort of down payment. But the line is there if you need to make a down payment. The interim financing is going to mature on June 1st of 2028. I just padded it an extra year. We all know construction can have delays. So I don't want to come back here and say we need to extend the line of credit. so we already added one more extra year for for contingency purposes so following up is a summary of the 30 million dollar in financing and then I'll have a graphical presentation of water fund debt service so on page four is again the source and uses for the two purpose financing in the top box the interim financing will be 32 million dollars of that 30 million dollars is",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 108,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2778.68,
+      "end": 2815.44,
+      "text": "the amount to purchase the materials the estimated capitalized interest the goal is the goal and plan here is to have the line of credit be available to pay the interest expense on this loan during 2026 so there's not a budgetary impact and then it'll certainly pay the financing costs as well and then the the million 283 there you see the reserve for project cash flow that's for during construction phase. And again, it's a drawdown loan. You only use it to the extent you need it. So it's just kind of there as a backstop. The table in the middle, I have to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 109,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2815.44,
+      "end": 2840.54,
+      "text": "show you this. Based upon the Fulton Bank proposal of 4.33%, this is the so-called not to exceed debt service. So worst case, worst case, if you had drawn all the money on day one and it remains outstanding until 2028, this is what you'd pay. But the box at the bottom is key. The estimated interest expense we expect you to incur is the approximate $649,000, which is sort of that six",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of transparency, process, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts or environmental quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No reference to jobs, inequality, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 110,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2840.54,
+      "end": 2845.42,
+      "text": "months of interest expense from the time you purchase the equipment until you close on the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs related to the project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 111,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Unknown",
+      "start": 2845.42,
+      "end": 2860.25,
+      "text": "PENVEST loan. So, you know, but again, it's not interest you wouldn't have otherwise paid. Lastly, on page five, I think, you know, I try to show a picture. It's worth much better than a lot",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 112,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Unknown",
+      "start": 2860.25,
+      "end": 2869.67,
+      "text": "numbers on a page and this is looking forward now okay I know we're talking focus today on the thirty two million dollar interim financing but looking",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 113,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Unknown",
+      "start": 2869.67,
+      "end": 2882.21,
+      "text": "forward there's you may have permanent financing for that you're not going to pay thirty thirty two million dollars off two years from now so the graphical presentation before you the red bars are the existing water fund debt service and",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 114,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2882.21,
+      "end": 2908.9,
+      "text": "the blue bars are the projected or anticipated water fund debt service with the additional 49 million dollars of the pen best loan so that's what that presentation is is trying to show is showing you forward-looking again at the pen best loan that's expected sometime next year with that I will entertain",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on water debt service and loans, which are related to water management but does not directly address electricity, water quality, or e-waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is discussing financial projections related to loans, not the process or transparency of decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is about financial planning and loans, not about power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 115,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2908.9,
+      "end": 2916.76,
+      "text": "any questions thank you very much councillors any comments or questions I",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and lacks specific content about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and does not address municipal processes or decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and does not mention any health-related issues or concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and does not discuss power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 116,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2916.76,
+      "end": 3014.56,
+      "text": "don't have one we will also take any comments or questions from the public on on the bill counselor royal council president thank you um so thank you for the presentation uh counselors bond council has provided each of us with a black line version of the ordinance authorizing and directing the issuance of the general obligation note series a of 2025 in an original principal amount equal to 32 million dollars such ordinance was introduced as administrative bill number six 2025 before this council on september 23rd 2025. i hereby move to amend the ordinance labeled administration bill number six 2025 to include the additions deletions and other changes referenced on such black lined black lined version of the ordinance which will be reworded with the minutes of this meeting and which can be summarized as follows in the third line of the caption deleting dollar sign blank and replacing it with 32 million dollars in the third whereas clauses deleting dollar sign blank and replacing it with 32 million dollars inserting into the fifth whereas clause the name fulton bank national association the series a purchaser in section one of the ordinance the leading dollar sign blank and replacing it with 32 million dollars as the amount of indebtedness authorized by the ordinance in section 9 of the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, utilities, or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, decision-making, or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, safety, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 120,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Councillor Royal",
+      "start": 3055.62,
+      "end": 3084.5,
+      "text": "on exhibit b attaching the series a note purchase proposal on exhibit c attaching the a note to exceed debt service schedule second thank you councillor royal we have a motion and a second on the amendment um it being that that was what was presented to us is there anything additional uh mr pack that you would have after an emotion to amend uh no it's based on your",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 121,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Councillor Pack",
+      "start": 3084.5,
+      "end": 3090.82,
+      "text": "recommendation so counselors uh any comments on the motion to amend thank you council president",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspects of resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the process or decision-making behind the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 122,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Director Campbell",
+      "start": 3090.82,
+      "end": 3146.18,
+      "text": "If I may counter around the last bullet line on exhibit C attaching but not to exceed that service schedule Got it any additional council comments on the amendment I have none but to say thank you for your work in preparing this and putting us in the best position possible To pay the least amount of interest possible and director Campbell to do these projects in a smart way Comments from the public on the amendment All right hearing none. We will first take a vote on the motion to amend. Mr. Harris Mr. Roya. Aye. Mr. Cleese. All right. Miss Craig. Aye. Mr. Hirsch. Aye President Baker aye We will now go back to the original motion motion to approve the bill number six now as amended",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality issues."
+        }
+      }
+    },
+    {
+      "block_id": 123,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 3146.98,
+      "end": 3151.76,
+      "text": "last call for any council comments Last call from questions from the public",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a placeholder and does not provide specific content about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a placeholder and does not provide specific content about decision-making processes or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment is a placeholder and does not provide specific content about health impacts or well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a placeholder and does not provide specific content about power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 126,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Mr. Harris",
+      "start": 3166.73,
+      "end": 3255.14,
+      "text": "returning briefly to our agenda the next item on our on our agenda for final passage is administration bill number 13 2025 mr. Harris when you're when you're ready an ordinance increasing the indebtedness of the city of Lancaster Lancaster County Pennsylvania by the issue of of a guaranteed revenue bond in the maximum principal amount of seven hundred and fifty six thousand one hundred and thirty two dollars for construction of new water service lines to replace lead service lines to improve the city's water mature water conveying system fixing the form dates interest and maturity thereof making a covenant the payment of the debt service on the bond providing for the filing of the required documentation with the Department of Community and Economic Development to incur any and exclude additional debt of the governmental unit providing for the appointment of a sinking fund depository for the bond providing for the authorized signatories and authorizing execution sale and delivery thereof motion to approve second we have a motion and a second",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making processes, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of jobs, inequality, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 128,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3259.52,
+      "end": 3264.58,
+      "text": "a pen vest loan for the lead service line replacement with a total cost of 1.7",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No indication of concern about resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process issues like transparency or fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts or environmental concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No indication of power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 129,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Unknown",
+      "start": 3264.58,
+      "end": 3272.0,
+      "text": "million dollars the project will be funded through a combination of nine hundred and eight nine hundred and fifty three thousand dollar grant and a seven",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 130,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Unknown",
+      "start": 3272.0,
+      "end": 3344.59,
+      "text": "hundred and fifty six fifty six thousand dollar loan the loan will have a fixed interest rate of 1% and there is no prepayment penalty and I also turn it over to director Campbell for the rest of this bill yeah yes thank you again you've summarized it very very well from the presentation that was made earlier this is one of those otherwise unfunded mandates where we were fortunate enough to get funding from Penvest and from the from the state for the majority of the work to be done this is now the last part which which would allow us to get it done at a reasonable interest rate and it's for the lines that have already been identified to date this is also part of the lead and copper rule which we've been hearing about over the last two or three years we've been spending a lot of time trying to identify what lines need to be replaced which ones do not need to be replaced we still have another year and a half or so to be able to continue to identify but this gets us going with the ones that have already been identified I'll turn it over to Darrell to talk about the financing sure",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No explicit discussion about decision-making processes or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion about inequality, jobs, or economic benefits."
+        }
+      }
+    },
+    {
+      "block_id": 131,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Unknown",
+      "start": 3344.59,
+      "end": 3398.42,
+      "text": "thank you again this is my second handout that's referenced as the guaranteed water revenue bond series of 2026 this presentation was previously given the Finance Committee on November the 3rd so more recently in your memory Bank and this presentation is exactly the same nothing is new you know there was really nothing new to happen since I made that presentation but I'll certainly go over it again so the city here the city is proceeding with the with the water system improvement project that mr. Campbell alluded to replacement of existing lead lines and a hundred and eight existing I guess homes estimated cost of projects is 1.7 million this in this case the city has already received the funding offer from from Pennsylvania Infrastructure Investment Authority or pen vest it's already been summarized the pen vest",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of water, electricity, or waste management issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of transparency, process fairness, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or environmental impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, job creation, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 132,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3398.42,
+      "end": 3403.2,
+      "text": "funding offer very favorable has the two components the seven fifty six thousand",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 133,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 3403.2,
+      "end": 3428.26,
+      "text": "one hundred thirty dollar loan term of 30 years and the interest rate is one percent for the entire term then the grant portion no repayment a stress set no repayment nine hundred fifty three thousand two hundred and six dollars so that's the outline of the funding offer on page two again above the yellow line",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making process or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No reference to jobs, costs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 134,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3428.26,
+      "end": 3453.28,
+      "text": "already occurred below the yellow line again tonight second council's consideration of second reading of the ordinance to formally accept the pen best offer the schedule looking forward the the construction bids have been received and they're just going to be awarded in December yet yes that's correct okay we're in the process of reviewing and checking references etc so",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of inequality, jobs, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 138,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3504.56,
+      "end": 3517.64,
+      "text": "interest components so I didn't put a graph together this one because it's sort of difficult to see $29,000 of incremental debt service so with that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 139,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 3517.64,
+      "end": 3522.2,
+      "text": "again I'll entertain any questions and otherwise you can move forward with the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No specific mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No explicit discussion about decision-making process or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No explicit mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 140,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3522.2,
+      "end": 3573.58,
+      "text": "ordinance thank you very much councillors any comments from the public council around Thank You council president councillors bond council has provided each of us with an updated version of the ordinance authorizing and directing the issuance of the pen best guaranteed revenue bond series of 2025 in an original principal amount not to exceed seven hundred fifty six thousand dollars seven hundred fifty six thousand one hundred and thirty two dollars such ordinance was introduced as administrative bill number 13 2025 before this council on November 11th 2025 I hereby move to amend the ordinance labeled administration bill 13 2025 to include the exhibits on such",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 144,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Mr. Cleese",
+      "start": 3627.68,
+      "end": 3649.97,
+      "text": "Now returning to the original motion to approve bill number 13 2025 now as amended last call for council comments and comments from the public Hearing none. Mr. Harris. Mr. Roya. Hi Mr. Cleese. All right. Miss Craig. All right",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No specific mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No indication of process concerns or lack of transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts or environmental concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of inequality or power dynamics related to the project."
+        }
+      }
+    },
+    {
+      "block_id": 145,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Mr. Hirsch",
+      "start": 3650.88,
+      "end": 3657.76,
+      "text": "Mr. Hirsch. Hi. I'm president Baker. Hi Gentlemen, thank you very much. Thank you. Thank you very very much",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No relevant information on resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No relevant information on process or decision-making"
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No relevant information on health or well-being issues"
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No relevant information on power dynamics or inequality"
+        }
+      }
+    },
+    {
+      "block_id": 146,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Mr. Harris",
+      "start": 3662.45,
+      "end": 3714.33,
+      "text": "The next item for final passage on our agenda this evening is administration bill number 14 2025 mr. Harris an ordinance of the Lancaster City Council Amending chapter 300 of the Code of the City of Lancaster To resume any portion of the property identified as Lancaster County tax parcel ID number 339 to 0 3 2 0 0 0 0 0 0 zero from the c3 district regional commercial to the CM district central manufacturing and to permit self storage facilities without size restrictions in the CM district central manufacturing on lots containing a minimum of three acres and a maximum of five acres which do not have direct access to to a public street",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 150,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Community member",
+      "start": 3743.45,
+      "end": 3836.5,
+      "text": "presentation and a thorough hearing thank you very much counselors any comments on bill number 14 I'll take a moment to thank city staff for finding a creative solution and also helping to put some guide guidance in our zoning about these large large buildings and also looking out for the fact that we have very few places in our city in which to put them so thank you for your work comments from the public on the bill hearing none mr. Harris mr. Roya hi mr. Cleese aye miss Craig aye mr. Hirsch aye I'm president Baker aye next item on this portion on the agenda is bill number 15 2025 mr. Harris if you would an ordinance of the Lancaster City Council increasing the annual compensation for members of Lancaster's of City Council from $8,000 per annum to 10,000 per annum providing for the repeal of inconsistent ordinances providing for the severability of the ordinance and providing that the ordinance shall take effect in accordance with the Charter of the City of Lancaster motion to approve second we have a motion and a second I'll just make a quick note that in the printed",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 152,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Community member",
+      "start": 3841.12,
+      "end": 3880.87,
+      "text": "confirmed it does indeed read 2028 in case you caught that typoed version counselor craig thank you council president um i really don't have a lot to add to this other than um you know it's been almost two decades since council has had a salary increase and i just think it's about time compared to some of the other cities that are around us of equal size and a little bit smaller and also a little bit larger Thank you very much council Craig I think your reasoning for introducing this is well taken and I would also add that through the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No clear indication of concern regarding resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of transparency, process fairness, or community oversight issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion about health impacts, air quality, or safety concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No reference to costs, benefits distribution, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 153,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 3880.87,
+      "end": 3894.25,
+      "text": "passage of the Home Rule Charter Council benefits for the ability to have health benefits Was removed so overall the impact and cost is still down in the legislative department of the city",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 154,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3895.78,
+      "end": 3900.32,
+      "text": "It also for what it's worth Does include an increased number of meetings?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 155,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 3901.12,
+      "end": 3905.48,
+      "text": "And increase them a level of oversight on the city budget, which is appreciated",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.7,
+          "reasoning": "The comment emphasizes the need for increased oversight on the city budget, which ties into managing resources and infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "It suggests a demand for ongoing community involvement in monitoring and regulating the project, aligning with municipal process themes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There's no mention of health issues or concerns related to the project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "It touches on the idea of oversight affecting community resources, which relates to power dynamics and inequality."
+        }
+      }
+    },
+    {
+      "block_id": 156,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Mr. Harris",
+      "start": 3907.36,
+      "end": 4040.64,
+      "text": "Any additional council comments on the bill from the public what remains of it? That was not a slight to you just a counting in the room then hearing none. Mr. Harris. Mr. Roya. Aye Mr. Cleese. All right, miss Craig. All right, mr. Hirsch. All right president Baker aye we thank you for being here mr. shoulder all right that will take us to item C on our legislative agenda this evening this is ordinances for first reading we have two the first is administration bill number 11 2025 mr. Harris an ordinance of the council the City of Lancaster County of Lancaster Commonwealth of Pennsylvania appropriating the specific sums estimated to be required for the specific purposes of the city government here and after set forth during the year of 2026 allowing for a severance provision providing for the repeal of inconsistent ordinances and providing for an effective date thank you very much mr. Harris we're gonna take a minute to figure out what that noise is something is playing through something okay got it okay we're on the first reading of our um of our budget for 2026. um i'll begin with council arroyo and then i believe mayor srachi had some additions and notes if you have anything counselor royal yes thank you council president uh just to inform council in the public that since october the city council has conducted two budget hearings to review the administration's proposed budget during these hearings department leads presented their accomplishments from 2025 and outlined their goals for 2026. the budget has undergone some modifications throughout this process and i just wanted to take a moment to commend mayor sirachi director of administrative services tina campbell and the other directors and bureau chiefs who received council feedback",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 157,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Mr. Roya",
+      "start": 4040.64,
+      "end": 4050.88,
+      "text": "and implemented the necessary changes this is a result of the new budget process incorporated into the city's new home rule charter and as chair of finance committee and the counselor for almost",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No clear indication of concern regarding resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of transparency, process fairness, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts or environmental quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No reference to job creation, inequality, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 158,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Mr. Cleese",
+      "start": 4050.88,
+      "end": 4080.32,
+      "text": "six years i personally can say that i appreciated this process and the opportunity to give feedback the proposed budget does not include any proposed property tax increases or earned income tax increase that concludes my comments thank you mayor sirachi thank you very much dj do you want to advance to the next slide um so uh council counselor arroyo mayor elect arroyo you have",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 162,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Unknown",
+      "start": 4110.85,
+      "end": 4160.89,
+      "text": "replacement has ended we are seeing earned income tax revenues continue to grow as projected but I will say that when I talk about the 10-year projections are we continue to take a very conservative view of earned income tax revenues over time there are of course increases in expenses that we've discussed following feedback from the initial budget and also you know just having more information to work with as the year went on we made several changes following the presentation last Tuesday and those changes have been incorporated and updated on the city's website 1.3 million dollars has been eliminated from",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 163,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Unknown",
+      "start": 4160.89,
+      "end": 4166.99,
+      "text": "the 2026 budget it does contemplate using 1.5 million dollars in general",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct reference to resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, decision-making, or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 164,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Unknown",
+      "start": 4166.99,
+      "end": 4406.6,
+      "text": "fund reserves and using data center permit fees to reduce debt and cover costs related to permitting itself and this was all predicated on a number of things one council's desire to not use any general fund reserves for the ongoing 2026 budget as it was presented initially so that is the that is that elimination but we are also contemplating in this budget a zero dollar transfer to the general fund from the water fund those were the big that was a big conversation that we had last Tuesday as part of discussion I want to just also say that there are no rate increases proposed for water solid waste recycling sewer or stormwater and that the PUC rate case that was submitted on September 30th which would impact customers outside the city is continuing to move through typically a months-long process and so our team is providing an incredible amount of data to the PUC as part of that rate case submission I do want to call councils attention to the next slide this has also been updated on the city's website and I just want to note that the budget projections have been updated and last week you you received a pre-home rule and a post-home rule budget projection this is the post-home rule budget projection it is the reality that we are living in right now there was in the revenue line, a modest drop off in revenue between 2026 and 2027. That was further investigated and there was an error that was made in the formula that was used to calculate revenue moving forward. There was actually a double counting of the water transfer of $4 million. So once we addressed that revenue change, we were able to run these projected numbers again, and you can see they look very different than what was presented last week. The overall surplus going out to 2035 has been cut in half, roughly, if I'm remembering correctly and we're looking at again cumulative impacts over time I do want to caution council as we look at this is that not to get too hung up on the outer years of this chart or even the public this assumes no tax increases it assumes no future revenue transfers it assumes no additional pay down of debt it does not contemplate the potential of additional permit revenue from phase two of Greenfield a data center there's a lot that's not here and a lot that could be added that could potentially wipe out those projected deficits over time even just adding water transfer revenue back into this mix would eliminate those deficits so let me just say that I appreciate the conversation that's been had about the budget over time and the engagement I just want to underscore what councillor Arroyo shared it was really different in introducing this so early and only a single budget you remember last year we implemented we brought a budget forward early we didn't introduce it formally but we had a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.7,
+          "reasoning": "The comment discusses the city's budgetary capacity and the use of general fund reserves, which relates to resource management and potential strain on municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The comment addresses the budget process, including revenue changes and potential future impacts, which touches on municipal decision-making and accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health issues or environmental impact related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.6,
+          "reasoning": "The comment raises concerns about funding sources and potential inequities, such as relying on permit fees and general fund reserves, which may disproportionately affect certain groups."
+        }
+      }
+    },
+    {
+      "block_id": 166,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4410.86,
+      "end": 4473.5,
+      "text": "was easier but there are still considerations moving forward I related to the water fund which we discussed last last week and with that I will take any questions or comments from public or from council sorry back to you thank you very much I just wanted to say that I appreciate the collaboration through this process and I do agree that the changes made in the in the new charter have allowed for longer conversations and honestly more openness and transparency for the public in in these additional meetings and hearings and the additional steps that have been put in place so I think it's a wonderful change I'm also really glad to see that there wasn't it I'm not usually glad that there's an error but I'm glad that there was an error in those projections and want to thank city staff who have been working on them and and who have helped us uncover those it certainly does make a big difference it certainly looks very",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No clear indication of concern regarding resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The comment mentions increased transparency and public involvement, which relates to the municipal process theme."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No indication of concerns about inequality or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 167,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 4473.5,
+      "end": 4479.1,
+      "text": "different than what we saw last week and answer some of our outstanding questions So thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 168,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "COUNCIL",
+      "start": 4479.44,
+      "end": 4536.28,
+      "text": "Council any additional comments for this first read of the 2026 budget Council Hirsch Thank You council president. I will say I you know have made comment here before about the use of reserves and kind of the levels of expense Upon reviewing it. I am you know mostly comfortable with the budget as it stands not because BECAUSE WE KNOW WHAT'S GOING TO HAPPEN EXACTLY IN 2026, BUT BECAUSE I THINK WE HAVE A ROUGH IDEA AND THERE'S JUST A LOT OF UNCERTAINTY. SO I DO WANT TO SAY MORE IN OUR SECOND READING ABOUT THAT WITH SOME SPECIFICS, BUT I THINK, YOU KNOW, WE HAVE A LOT OF UNCERTAINTY TO of contend with in general um be it the macro economy be it what's going to happen with the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention anything related to electricity, water supply, waste management, or infrastructure costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the fairness, transparency, or legitimacy of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss health impacts, air quality, or outdoor activities."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 170,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "TIM STUHLDREIER",
+      "start": 4544.28,
+      "end": 4606.72,
+      "text": "but that's all i would comment at this time on on the budget as proposed thank you council hirsch any additional comments from council from the public good evening uh tim stuhldreier 800 block of george street uh first of all i completely second what councilman arroyo said at the top about the budget process um the idea of home rule was to for council to see the budget earlier uh for there to be more opportunity for the budgeting uh for public engagement member of the public engaging so seems like we're uh moving in the right direction on that um along the lines of what councillor Hurst just said yeah we are passing a budget that as written proposes a 1.5 million draw on reserves but previous budgets",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs related to AI data centers."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability issues related to AI data centers."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts or well-being related to AI data centers."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits related to AI data centers."
+        }
+      }
+    },
+    {
+      "block_id": 171,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 4606.72,
+      "end": 4613.86,
+      "text": "have been similar and we have been able in the course of the year to come in a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No clear indication of concern regarding resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of transparency, process fairness, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No references to health impacts or environmental quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No indication of power imbalances or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 172,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4613.86,
+      "end": 4627.02,
+      "text": "little above on revenue come a little bit below on expenses I actually looked at every budget since 2018 um and on balance we end up with a net positive about 2.78 million",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 173,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 4627.82,
+      "end": 4631.9,
+      "text": "over those years so that gives me some level of confidence that we can do that for",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 174,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4632.86,
+      "end": 4734.98,
+      "text": "2026. uh nevertheless uh you know uh one thing i've said here before is uh i would like to see you know council visibly engage in this room with this budget you know to my mind that would potentially involve deliberation possibly even um you know proposing amendments uh council has always had the ability to propose amendments provided that we do not uh exceed our revenue projections uh that power is preserved in the home rule charter so you know been covering council since 2015 would really be cool to see that happen at least once if council were to want to take a look at some some options when the budget went back for a second go-round most of the major line items were not changed two that remained unchanged were parks and rec and the fire department not saying i haven't taken a deep dive to know if if either of those areas would be susceptible to some pruning. But most of the other departments, as far as I could tell in my top line glance, did appear to take some haircut in that process. Lastly, and I see my time is clicking. Hope counsel could give me a little bit of indulgence here. Couple of things. The revenue and expense terms in the chart that's above there, above your heads in 2026, the revenue and expenses",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 175,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 4734.98,
+      "end": 4738.02,
+      "text": "do not seem to accord with the corresponding figures",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources or infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process or decision-making concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics or inequality concerns."
+        }
+      }
+    },
+    {
+      "block_id": 176,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4738.02,
+      "end": 4783.43,
+      "text": "in the budget document itself. I'm not sure why that would be the case. So I have that question. This is a bit of a look back, but in 2026, we are I'm sorry when we move from 2024 to 2025 the water fund fees were projected rise from I believe 34 and change to 38.8 I've asked director Campbell this but I'm I'm curious as to why there was such a big jump in projected water revenue that seems to be one reason why we're facing a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.6,
+          "reasoning": "The comment raises concerns about water revenue projections, which ties into water supply and potential budgetary impacts, aligning with Theme 1. However, the speaker does not explicitly mention water quality or infrastructure strain, so the score is moderate."
+        },
+        "municipal_process": {
+          "score": 0.4,
+          "reasoning": "The comment questions the budget justification and asks about the water revenue increase, indicating concerns about decision-making processes and transparency. However, it doesn't directly address information asymmetry or oversight, so the score is lower."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, air quality, or noise pollution, so this theme doesn't apply."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The comment doesn't address job creation, housing needs, or historical patterns of inequality, so the score is low."
+        }
+      }
+    },
+    {
+      "block_id": 177,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 4783.43,
+      "end": 4790.38,
+      "text": "than expected deficit this year um i'll just take one more question because we've already",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific resource or infrastructure issues related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any process-related concerns such as transparency, fairness, or accountability in the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss any health-related concerns or impacts on residents' well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any issues related to power distribution, inequality, or the impact on vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 178,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4790.38,
+      "end": 4817.72,
+      "text": "gone over almost a minute understood thank you uh and then um in terms of earned income tax uh it looks like we have a projection uh 12.5 percent increase 2025 to 2026. my understanding is some of that would have to do with the current lag but just wanted to raise that to council's attention for possibly one more look thank you thank you very much um i think i might well i",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No clear connection to infrastructure issues."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No clear connection to process or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No clear connection to health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No clear connection to inequality or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 179,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 4817.72,
+      "end": 4821.72,
+      "text": "could speak to maybe one of those questions we've heard about water fund fees and director campbell",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not directly address water supply, quality, or cost issues related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address concerns about decision-making processes, transparency, or accountability related to the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health-related concerns or impacts on residents' well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, distribution of costs and benefits, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 180,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4821.72,
+      "end": 4877.27,
+      "text": "you can feel free to jump in but i think we've talked uh in the recent meetings about unexpected lower use in water were we previously using projections that that proposed an increase usage in previous years I'm just I'm guessing but thank you we were looking at projections that showed either a current maintaining that level or not a decrease not taking into account the fact that we were encountering a drought and people actually were very good at conserving water usage and so that that impacts the the revenue projections it is the case that there is a national trend in part due to more efficient appliances more efficient water fixtures",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.6,
+          "reasoning": "The comment discusses water usage projections and the impact of a drought on water conservation, which relates to the city's water supply and potential budgetary implications."
+        },
+        "municipal_process": {
+          "score": 0.4,
+          "reasoning": "The comment mentions the legitimacy of the community benefits agreement process by referencing projections and drought impacts, but it doesn't explicitly address information asymmetry or lack of transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health issues, noise pollution, air quality, or direct health consequences related to the AI data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The comment doesn't address inequality, jobs, or vulnerable populations, focusing instead on water usage and drought impacts."
+        }
+      }
+    },
+    {
+      "block_id": 181,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 4877.27,
+      "end": 4886.95,
+      "text": "etc but that would not have been so substantial as to make the difference we believe it's the drought and compliance that made the difference",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 182,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4886.95,
+      "end": 4907.73,
+      "text": "thank you I think the other thing that I'm not totally sure Tim if this answers your question was we had to postpone our rate case to PUC and so that meant that our revenue projection between 24 and 25 is different because it got pushed for",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 183,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 4907.73,
+      "end": 4914.27,
+      "text": "the rate case to be decided in 2026 so the revenues increase in 2026",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 184,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4914.27,
+      "end": 4946.02,
+      "text": "contemplate a PUC approved increase a very conservative because they do not they do they do not ever grant a hundred percent of the request thank you council president council Hirsch I'll venture to answer the first question because I think I just noticed something on the 10-year table which is that the 2026 revenue is the total figure which would include the 1.5 million on the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No clear indication of concern regarding resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of transparency, process fairness, or information asymmetry."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No references to health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of costs, benefits distribution, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 185,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 4946.02,
+      "end": 4958.8,
+      "text": "draw so you'd probably want to subtract that 1.5 million out of the 2026 revenue line and then you would see a reduction of roughly 1.5 million in the in the in",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": ""
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": ""
+        }
+      }
+    },
+    {
+      "block_id": 186,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Councillor Hirsch",
+      "start": 4958.8,
+      "end": 5142.46,
+      "text": "the fund balance the reserve fund balance Jake is shaking his head yes he's got that thank you Thank You councillor Hirsch any additional comments from the public again this is a first read thank you everyone we will now move for first reading of administration bill number 12 2025 mr. Harris in ordinance of the Council of the City of Lancaster County of Lancaster Commonwealth of Pennsylvania amending to 7026 of the code of the City of Lancaster to levy on all persons and property within the City of Lancaster subject to taxation for the year 2026 for general revenue purposes twelve point six four mills on each dollar of assessed valuation of real estate the The same being the sum of $1.264 of each $100 of said assessed valuation, which tax for billing purposes is to be included in the billing of the tax levied on property for general revenue purposes, providing for the repeal of inconsistent ordinances, providing for the severability of the ordinance, and providing for an effective date. imposition of the twelve point six four millage rate imposes no change on the taxes imposed during the calendar year 2024 thank you very much mr. Harris counselor rail I have nothing additional to add it does what it says on the bill anything additional from city staff or other comments from council on the first read just appreciate we're not raising taxes yes makes it a little easier comments from the public on the first reading okay hearing none thank you we will take that up at our next meeting along with the budget the final item on our legislative agenda this evening item D resolutions was administration resolution number 80 2025 mr. Harris a resolution of the council the city of Lancaster declaring official intent to reimburse general funds used to construct new water service lines to replace slid sir service lines to improve the city's water conveying system with funds received from the Pennsylvania infrastructure investment authority motion to approve second we have a motion and a second councillor Arroyo I know this is coming this is related to your previous items if you have anything additional for it I'll just make a note to council that we received a notice from director tina campbell director of administrative services that is part of the pen vest requirements they have requested a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of electricity, water, or other resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making process or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or environmental impact."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of jobs, housing, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 187,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Mr. Harris",
+      "start": 5142.46,
+      "end": 5147.1,
+      "text": "reimbursement resolution in addition to the ordinance that we passed earlier this evening",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of resources, infrastructure, or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues or well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 188,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Mr. Hirsch",
+      "start": 5147.1,
+      "end": 5188.76,
+      "text": "and this resolution state the city is willing to cover the cost of the project with general operating funds until the pen best reimbursement is received and this is standard practice for penvest loans anything I missed from city staff yes that's it great comments from council on the resolution from the public hearing none mr. Harris mr. Roya hi mr. Cleese hi miss Craig hi mr. Hirsch hi",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific resources or infrastructure concerns, so it scores 0.0 on this theme."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the process or transparency of decision-making, so it scores 0.0 on this theme."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health concerns or environmental impacts, so it scores 0.0 on this theme."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address inequality, jobs, or distribution of costs and benefits, so it scores 0.0 on this theme."
+        }
+      }
+    }
+  ]
+}

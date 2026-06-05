@@ -759,7 +759,7 @@ def main() -> None:
         model_path=model_cfg["path"],
         n_ctx=model_cfg["n_ctx"],
         n_gpu_layers=model_cfg["n_gpu_layers"],
-        verbose=True,
+        verbose=False,
     )
     print(f"  Loaded in {fmt_elapsed(time.perf_counter() - t0)}")
 

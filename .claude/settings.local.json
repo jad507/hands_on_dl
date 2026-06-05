@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(\\(Get-Item \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\hands_on_dl\\\\logs\\\\llm_classify_qwen3.5-9b-q6.log\"\\).Length; \\(Get-Item \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\hands_on_dl\\\\logs\\\\llm_classify_qwen3.5-9b-q6.log\"\\).LastWriteTime)"
+    ]
+  }
+}
