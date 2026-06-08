@@ -1,0 +1,191 @@
+{
+  "title": "City Council Meeting - February 11, 2025",
+  "video_id": "JJbmuzCmd6s",
+  "upload_date": "20250212",
+  "model": "ministral-8b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Ed",
+      "start": 550.66,
+      "end": 577.84,
+      "text": "resolution the council president if I may counselor I'm ed I just want to thank councillor Craig for introducing this resolution and I want to thank the city of Lancaster for its commitment to celebrating black history month especially in a time nationally where it does not seem to be prioritized so I just want to thank members of council and thank the city for its commitment to our black community here in Lancaster Thank You councillor I'm an additional",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on Black History Month and community appreciation, with no mention of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address governance, transparency, or procedural concerns about the AI data center or municipal decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, environmental quality, or well-being related to the data center or its operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the comment references community commitment, it does not critique power structures, inequality, or uneven distribution of benefits/costs tied to the AI data center proposal."
+        }
+      }
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 974.99,
+      "end": 1045.73,
+      "text": "resolution is essentially uh entering the city into a cost-sharing agreement with maynham township as many of you may know marshall avenue is along the northern border and southern of the city and the southern border of man i'm township um and it zigzags pretty chaotically and so this kind of allows the city to enter into an agreement where um they are taking on the portion of the cost that uh is proportionate to the city's ownership of the road which in this case these improvements are primarily going to be to improve uh biking and walking infrastructure along marshall ave total cost is roughly 62 000 so it's a pretty low cost project on the whole the city is going to take 82 percent of that as they own 82 percent of that roadway it's not a full resurfacing project it's base improvements to the roadway to allow the additional infrastructure to be put in and my understanding is that the work is slated to take place later this year it's a correct director Campbell is nodding so that's pretty much the deal",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.7,
+          "reasoning": "The comment explicitly discusses municipal cost-sharing for road infrastructure improvements, framing it as a shared burden between the city and Maynham Township, directly engaging with municipally managed resources."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment is procedural but lacks critique of transparency, participation, or accountability—it simply describes an existing agreement without questioning its legitimacy or process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, quality of life, or concerns about noise, air quality, or environmental hazards."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on cost distribution between municipalities without addressing broader inequities, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 49,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 1318.33,
+      "end": 1359.06,
+      "text": "is a resolution that is brought before council on an annual basis it is done because the city tracks water and sewers sewer usage as city properties mostly to detect leaks or unusual usage we don't bill ourselves for this usage the charges are exonerated annually to clear them from the financial accounts two properties on the list are not city owned the library and the fire line at the Lancaster Airport the water and the sewer service to the library is considered an in-kind contribution from the city and the service to the airport is done in exchange for the airport providing the city use of its large capacity snow blowers in case of a storm thank you very much council royal are",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The comment explicitly discusses the city's water and sewer infrastructure management, including unusual usage tracking and financial handling of municipal properties, directly engaging with municipally managed resources."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "Mention of annual resolution and city practices is procedural but does not critique transparency, participation, or accountability in the AI data center process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "Focuses on internal city operations and reciprocal agreements (e.g., snow blowers), not broader equity or power dynamics related to the AI data center."
+        }
+      }
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "Susie Gomez",
+      "start": 1695.14,
+      "end": 1721.11,
+      "text": "Good evening. Susie Gomez, 100 Block of North Reservoir Street. Thank you. Can you explain to me CBBG funding? Is that government funding? Yes, that's federal government funding. OK. So total investment of, you said, $25.6 million?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment only asks about funding details and does not engage with municipal resources, utilities, or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment briefly references a funding mechanism (CBBG) but does not critique transparency, participation, or accountability in the municipal process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, quality of life, or bodily concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses solely on funding specifics without addressing distribution of costs/benefits, inequality, or broader systemic concerns."
+        }
+      }
+    },
+    {
+      "block_id": 59,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 1740.54,
+      "end": 1773.53,
+      "text": "And that is government funding, correct? Yes. OK. The other question would be, you had mentioned increased funding. The $305,000 is being allocated, is that correct? Reallocated. Reallocated. So you're going from 2020 to 2024 to show rejected funds? Can you explain that a little better?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on funding reallocation and unclear financial details, not municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker directly questions transparency and accountability in budgeting decisions, demanding clarification on reallocated funds and past funding rejections, which critiques municipal decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, environmental quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The comment hints at financial inequity (e.g., 'rejected funds') but lacks explicit framing of power dynamics, vulnerable populations, or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 68,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 1908.48,
+      "end": 1923.99,
+      "text": "just that because of that there's funding available we have a housing crisis in Lancaster City and I think that is very unfair to the public any",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "Briefly references 'funding available' as a decision factor, but lacks explicit critique of process or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or bodily harm."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.9,
+          "reasoning": "Directly critiques the unequal allocation of resources—prioritizing developer funding over housing needs, framing it as unfair to the public."
+        }
+      }
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 1997.18,
+      "end": 2036.9,
+      "text": "resolutions number 15 and 16 are very similar in nature they are essentially agreements that give us or we are essentially approving the ability to use the right of way to do future infrastructure projects in this case it's a ductile pipe that is in columbia pennsylvania as part of our water infrastructure there and so applying and paying this permit fee essentially allows uh that work to be done um that's really all there is to this thank you very much counselor",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The comment explicitly references water infrastructure and the right-of-way for a ductile pipe, directly engaging with municipally managed utilities."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment is procedural but does not critique transparency, fairness, or accountability—just a neutral explanation of permit approval."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or quality-of-life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, equity, or historical patterns—only a technical permit discussion."
+        }
+      }
+    }
+  ]
+}

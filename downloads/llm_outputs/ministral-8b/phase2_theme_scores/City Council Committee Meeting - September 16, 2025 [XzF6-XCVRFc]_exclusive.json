@@ -1,0 +1,165 @@
+{
+  "title": "City Council Committee Meeting - September 16, 2025",
+  "video_id": "XzF6-XCVRFc",
+  "upload_date": "20250917",
+  "model": "ministral-8b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 1807.99,
+      "end": 1826.66,
+      "text": "If I may the only question I have is for example if someone is coming in late and it's a constituent and by having the public comment in the beginning but not at the end when that hinder on some of the people that do work late and come to the meetings at a later time.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment critiques a procedural aspect (timing of public comment) but does not address transparency, oversight, or accountability in decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss cost-benefit distribution, inequality, or systemic power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 2248.46,
+      "end": 2287.36,
+      "text": "that up so that was my concern it didn't really establish a clear timeframe or a deadline for submitting that that memorandum which I think is I think the memorandum is great I think it's important if we're going to be considering legislation that it should have sort of a rubric for addressing questions but my in my opinion it should be at the first committee the first presentation so whether that be committee whether that be a regular meeting of counsel it should accompany that first presentation I think that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of infrastructure, utilities, or resource burdens related to the data center."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "Focuses on procedural fairness, lack of clear deadlines, and the need for structured oversight (memorandum rubric) in decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or bodily harm."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Indirectly critiques process fairness, but no explicit framing of unequal cost/benefit distribution or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 2931.54,
+      "end": 2955.35,
+      "text": "just have one question in regards to any one that would employ with the city that would make any death threats or any comments publicly is that something that would be included in here as well of any type of misconduct with the ethic boards well i mean that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment tangentially references oversight (ethics boards/misconduct) but lacks focus on transparency, community participation, or decision-making legitimacy."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or bodily harm—only vague workplace conduct."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations—only a narrow workplace policy concern."
+        }
+      }
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Irene Grievous",
+      "start": 3097.25,
+      "end": 3144.86,
+      "text": "Irene Grievous, 400 Block of West End Avenue. My understanding is there was a some kind of ethics commission or some kind of meeting yet that has not been publicly made and I've actually had tried to come to two previous scheduled ones and they were canceled and I was not even aware that they had been rescheduled isn't that a violation of the sunshine law and when were these meetings for the ethics and planning for the ethics Commission do you have anything further thank you I'm",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "Directly raises concerns about transparency, lack of public notice, and alleged violations of the Sunshine Law regarding ethics commission meetings."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Indirectly suggests distrust in governance processes, but no explicit framing of power dynamics, inequality, or uneven cost-benefit distribution."
+        }
+      }
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 3173.06,
+      "end": 3188.8,
+      "text": "polite council chambers thank you well actually I do have the cancellation from I believe that was in August and there was one in July that they were both canceled and I know that because I came personally and was told it was canceled",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "Directly references canceled public comment opportunities, highlighting information asymmetry and lack of transparency in the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Indirectly suggests distrust in officials' handling of community input, but no explicit framing of power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 3201.44,
+      "end": 3229.43,
+      "text": "a question in regards to the um the board's commission and authorities is there any way that we could add like right next to um the title the number of how many are per members. For example the airport authority is there five members is it 10 members.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is entirely procedural and unrelated to municipal resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment critiques the clarity of the board's composition, which could be interpreted as a minor procedural concern about transparency in governance structure, but it lacks broader implications about fairness or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, environmental impact, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, inequality, or systemic power structures."
+        }
+      }
+    }
+  ]
+}

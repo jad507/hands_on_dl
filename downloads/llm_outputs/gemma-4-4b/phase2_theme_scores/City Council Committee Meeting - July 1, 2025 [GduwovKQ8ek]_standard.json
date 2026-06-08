@@ -1,0 +1,139 @@
+{
+  "title": "City Council Committee Meeting - July 1, 2025",
+  "video_id": "GduwovKQ8ek",
+  "upload_date": "20250702",
+  "model": "gemma-4-4b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 1871.46,
+      "end": 1893.4,
+      "text": "dr campbell i'm looking at the exhibit a and i just so maybe maybe i just need to kind of conceptualize we're talking about fleet management because some of the vehicles in the first list are things like dump trucks and sweepers and gators and so is enterprise fleet management also managing our fleet of those sort of specialty vehicles as well it's a very good question they",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses fleet management of municipal vehicles and does not mention strain on city utilities or resources related to the data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a technical question about an exhibit and does not address how decisions were made or the transparency of the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, or air quality related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on operational logistics (fleet management) and does not address the distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "Tony Dastra",
+      "start": 2064.74,
+      "end": 2150.43,
+      "text": "from council any questions from the public yes i do thank you tony dastra 700 block new holland avenue i i just really need to express the frustration at the audio for a moment because i'm sitting there and i understand i'm not frustrated any individual here i know it's stuff to work through but it's not a laughing matter these sort of issues if they carry through to the live stream or the difference between someone tuning in to engage themselves civically and educate themselves and not so i just need to say that and leave it there um the only question i have is i mean we've already made changes to certain other uh processes in the city regarding the sale of property um has there been any investigation as to whether these vehicles could be used for local nonprofit needs because while i respect getting the highest dollar value for these things sometimes the greatest return comes from empowering our community organizations",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention strain on utilities, water, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker questions the city's process regarding property sales, suggesting an alternative use that prioritizes community benefit over maximum dollar value."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address physical health, noise, or air quality concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The speaker challenges the prioritization of maximum financial return, arguing that empowering local non-profits represents a more equitable distribution of resources."
+        }
+      }
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 2221.2,
+      "end": 2235.44,
+      "text": "a note i want to just ensure council and members of the public in the room that we have been told that the live stream is not affected by the popping noises that we're hearing it's coming in through the speaker in the room and so the audio feed is coming in separately",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses audio equipment issues within the meeting room itself, not the city's core utilities like water or power."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "It touches on the mechanics of the public meeting (live stream/audio feed), which relates tangentially to process, but is primarily a technical observation."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The noise mentioned is related to the meeting's internal sound system, not the operational noise pollution from the proposed data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the distribution of costs, benefits, or power dynamics related to the data center project."
+        }
+      }
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 4127.68,
+      "end": 4186.14,
+      "text": "councilor council president mr hanberger thank you so much for the summary and for everyone's work on the lease agreement i know it's it's an intense and long document and i just wanted to say that i appreciate that it has uh continued to capture the um the the pieces of the letter intent that were originally included that were originally improved by approved by council that were so important to us in this in this particular agreement including the build standards but also the resident program resident engagement and programming to benefit the residents and having that continuous reporting in there is incredibly important and i think that um i just wanted to say to council and in general that i think that this is a model for ways that we need to build that into anything that happens in our community because we can build that in from the beginning and i feel like we've done that here so i feel really good about that so thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on the structure and content of the lease agreement rather than specific strains on city utilities or resources."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker praises the council's work in ensuring the lease captures important elements like resident engagement and continuous reporting, highlighting a positive aspect of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns regarding health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "By emphasizing the 'resident program' and 'resident engagement,' the speaker touches on the distribution of benefits to the community, though it is framed positively."
+        }
+      }
+    },
+    {
+      "block_id": 61,
+      "speaker": "SPEAKER_11",
+      "speaker_name": "Hodge",
+      "start": 4721.59,
+      "end": 4726.97,
+      "text": "Hodge. Director Campbell, could you tell us some of the benefits",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a general inquiry about benefits and does not mention specific strains on city resources like water or power."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "This is a procedural question directed at a director, not a commentary on the fairness or transparency of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any concerns regarding noise, air quality, or direct health impacts of the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While asking about benefits touches on the distribution of outcomes, the comment is too vague to engage with themes of inequality or historical power dynamics."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "title": "City Council Meeting - February 11, 2025",
+  "video_id": "JJbmuzCmd6s",
+  "upload_date": "20250212",
+  "model": "gemma-4-4b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 519.22,
+      "end": 532.1,
+      "text": "councillor Craig council president this resolution was read into record during the committee meeting last week and I don't feel the need to reread it because",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a procedural statement and does not mention any strain on city resources like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "It references a resolution being read into record during a committee meeting, touching lightly on the procedural aspect of governance."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment contains no discussion regarding health, noise, or air quality impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely procedural and does not address the distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "I'm ed",
+      "start": 550.66,
+      "end": 577.84,
+      "text": "resolution the council president if I may counselor I'm ed I just want to thank councillor Craig for introducing this resolution and I want to thank the city of Lancaster for its commitment to celebrating black history month especially in a time nationally where it does not seem to be prioritized so I just want to thank members of council and thank the city for its commitment to our black community here in Lancaster Thank You councillor I'm an additional",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on thanking the council for celebrating Black History Month and does not mention infrastructure, utilities, or resource strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While it references a council resolution, the comment is purely congratulatory and does not engage with the process of decision-making, transparency, or accountability regarding the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns, noise, air quality, or quality of life related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment addresses community recognition and cultural celebration, not the uneven distribution of costs, benefits, or power related to the AI data center."
+        }
+      }
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 974.99,
+      "end": 1045.73,
+      "text": "resolution is essentially uh entering the city into a cost-sharing agreement with maynham township as many of you may know marshall avenue is along the northern border and southern of the city and the southern border of man i'm township um and it zigzags pretty chaotically and so this kind of allows the city to enter into an agreement where um they are taking on the portion of the cost that uh is proportionate to the city's ownership of the road which in this case these improvements are primarily going to be to improve uh biking and walking infrastructure along marshall ave total cost is roughly 62 000 so it's a pretty low cost project on the whole the city is going to take 82 percent of that as they own 82 percent of that roadway it's not a full resurfacing project it's base improvements to the roadway to allow the additional infrastructure to be put in and my understanding is that the work is slated to take place later this year it's a correct director Campbell is nodding so that's pretty much the deal",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment discusses cost-sharing for road improvements, which relates to municipal resources, but it is not focused on the AI data center's strain on utilities or budget capacity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is purely informational regarding a specific infrastructure agreement and does not address how decisions were made or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment mentions improving biking and walking infrastructure, which relates to quality of life, but it does not express concern about health risks from the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment describes a financial agreement between two municipalities regarding road ownership and cost distribution, but it does not frame this within broader patterns of extraction or unequal benefit/cost distribution related to the AI project."
+        }
+      }
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "Susie Gomez",
+      "start": 1695.14,
+      "end": 1721.11,
+      "text": "Good evening. Susie Gomez, 100 Block of North Reservoir Street. Thank you. Can you explain to me CBBG funding? Is that government funding? Yes, that's federal government funding. OK. So total investment of, you said, $25.6 million?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a direct question about the source of funding, not a statement about the strain on city resources like water or power."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker is inquiring about the nature of the funding (federal vs. local), which relates to the transparency and mechanics of the municipal decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns regarding health, air quality, noise, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "By asking about federal funding, the speaker is implicitly questioning where the financial power and resources are originating, touching on the distribution of financial responsibility."
+        }
+      }
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 1834.58,
+      "end": 1843.51,
+      "text": "um you want to reassess and make changes for what for what you're reassessing",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague to connect to specific strains on city utilities or resources."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The question implies a critique of the council's decision-making process or the scope of their review."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health impacts, pollution, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or who bears the costs of the project."
+        }
+      }
+    },
+    {
+      "block_id": 68,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 1908.48,
+      "end": 1923.99,
+      "text": "just that because of that there's funding available we have a housing crisis in Lancaster City and I think that is very unfair to the public any",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention strain on utilities, water, or city budgets."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made or the transparency of the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss physical health impacts, noise, or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "The speaker frames the situation as unfair to the public by contrasting available funding with the existing housing crisis, highlighting an uneven distribution of resources."
+        }
+      }
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 1997.18,
+      "end": 2036.9,
+      "text": "resolutions number 15 and 16 are very similar in nature they are essentially agreements that give us or we are essentially approving the ability to use the right of way to do future infrastructure projects in this case it's a ductile pipe that is in columbia pennsylvania as part of our water infrastructure there and so applying and paying this permit fee essentially allows uh that work to be done um that's really all there is to this thank you very much counselor",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.3,
+          "reasoning": "The comment directly references water infrastructure and permits, linking to the city's managed resources, though it is purely administrative."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment is highly technical and procedural, focusing on the mechanics of resolutions and permits rather than the process of decision-making itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health impacts, pollution, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a technical update on infrastructure work and does not address issues of unequal distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 81,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 2179.13,
+      "end": 2312.3,
+      "text": "the mayor mayor sir thank you council president first i'm pleased to share that the city of lancaster along with the school district of lancaster was awarded 74 000 by the pennsylvania commission on crime and delinquency the state grant will allow a school district and partners to research and design an effective cross-sector intervention strategy to reduce gun and group-related violence in Lancaster, and I'm truly grateful for our partnership with the district. Additionally, applications for police officers and cadets positions are now open. We are eager to bring on new officers and cadets. The cadet program, as you know, bridges the gap between high school graduation and turning Turn 21, for those who are interested in pursuing a career in law enforcement. The application is just open on February 1st, and we have 77 officer applications so far and 260 people who have expressed interest. Encourage all of you to help us get the word out, so thank you in advance. And check out lcbpcareers.com for more information. And second, I want to spotlight the Department of Neighborhood Engagement. It's become a tradition that on Valentine's Day, which is coming up on Friday, and I know everybody's just thinking about the Eagles Parade, but do not forget your Valentine's. The department announces new initiatives and launches applications for their long-standing programs. The state-old Love Your Block grants are back, now entering its seventh year. The program awards grants to residents dedicated to revitalizing their neighborhoods through community-led projects. Love Your Block is made possible through the generous support of the Hyde Foundation. we're also launching the neighborhood art project which is designed to encourage public art and create a place making in our neighborhoods so the call for artists will also go out on february 14th inviting local artists to apply for opportunities to create public art that reflects the vibrancy and diversity of lancaster community the neighborhood art project is supported by the national endowment for the arts and you can learn more about these programs and apply to take part at the city of lancaster.gov forward slash neighborhoods and that concludes my report tonight thank you council president thank you mayor sirachi uh the next item on the agenda",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on grants, police hiring, and neighborhood programs, not on strain on utilities or city infrastructure resources."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "It reports on city initiatives and grant programs, which relates to municipal action, but does not critique the process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.1,
+          "reasoning": "It mentions a grant to reduce violence, which is a public health concern, but the comment is primarily an announcement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "It highlights community revitalization grants and police recruitment, touching on resource distribution, but lacks critical framing."
+        }
+      }
+    }
+  ]
+}

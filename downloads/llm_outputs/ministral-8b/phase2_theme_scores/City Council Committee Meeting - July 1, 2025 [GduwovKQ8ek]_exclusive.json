@@ -1,0 +1,139 @@
+{
+  "title": "City Council Committee Meeting - July 1, 2025",
+  "video_id": "GduwovKQ8ek",
+  "upload_date": "20250702",
+  "model": "ministral-8b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_11",
+      "speaker_name": "unknown",
+      "start": 1905.39,
+      "end": 1925.76,
+      "text": "counselor colleagues thank you consulate Jimmy the consular way thank you and there you can but what is the process for determining a public vehicle is ready for disposal what what we have it's a very good question what",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is incoherent and unrelated to municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, oversight, or accountability in municipal decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment lacks context or framing about cost-benefit distribution, inequality, or systemic power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "Tony Dastra",
+      "start": 2064.74,
+      "end": 2150.43,
+      "text": "from council any questions from the public yes i do thank you tony dastra 700 block new holland avenue i i just really need to express the frustration at the audio for a moment because i'm sitting there and i understand i'm not frustrated any individual here i know it's stuff to work through but it's not a laughing matter these sort of issues if they carry through to the live stream or the difference between someone tuning in to engage themselves civically and educate themselves and not so i just need to say that and leave it there um the only question i have is i mean we've already made changes to certain other uh processes in the city regarding the sale of property um has there been any investigation as to whether these vehicles could be used for local nonprofit needs because while i respect getting the highest dollar value for these things sometimes the greatest return comes from empowering our community organizations",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker briefly critiques the audio quality as a barrier to civic engagement, hinting at procedural accessibility issues, but does not focus on transparency or decision-making legitimacy."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "The comment explicitly critiques the prioritization of maximizing property sale value over community benefit, framing it as a power imbalance between city officials and local nonprofits."
+        }
+      }
+    },
+    {
+      "block_id": 47,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 4192.18,
+      "end": 4250.39,
+      "text": "my question is just around the I guess I just want to make sure I understand correctly what I read there's quite a lot of you know reading to do but in particular in the agreements surrounding the water line as I read it it read as though that partners for environmental stewardship would be required to allow for an easement for a water line to go through the preserve and I guess is there any legal protection they would have in regards to if I guess we're talking about a preserve and then building a water line through it as their legal protection over over the preserve piece of the property if that makes sense does my question make sense so I mean keep in",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The comment explicitly focuses on water infrastructure (easement for a water line) and the preservation of land, directly engaging with municipal water supply concerns."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker questions the legality and protections in agreements, signaling concern about transparency and accountability in the municipal process regarding easements and land use."
+        },
+        "health_and_well_being": {
+          "score": 0.1,
+          "reasoning": "No direct mention of health impacts, noise, air quality, or bodily harm—only infrastructure and legal protections."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "Indirectly raises concerns about land preservation (a vulnerable resource) and potential corporate influence over public assets, but no explicit critique of inequality or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4380.12,
+      "end": 4440.44,
+      "text": "swan hotel project good evening turning around so many times good evening uh lauren finn senior planner for the city this um this sewer planning module is for the swan hotel redevelopment so it's located at 101 south queen street we've been looking forward to the redevelopment of of this hotel for a while it's an interesting piece in that it actually doesn't have to go through a full land development because they're not changing so much to the footprint of the building so they're just going through kind of an abbreviated process in land development and the process with the county as well for the sewer module thank you thanks any questions or comments from council",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is entirely focused on a hotel redevelopment project and sewer planning, with no mention of AI data centers, electricity, water, waste, or budgetary concerns."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment briefly references the 'abbreviated process' for land development, but it does not critique transparency, fairness, or accountability—just describes procedural steps."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or quality-of-life concerns related to the project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power imbalances, cost-benefit distribution, or historical patterns of extraction—only procedural logistics for a hotel."
+        }
+      }
+    },
+    {
+      "block_id": 61,
+      "speaker": "SPEAKER_11",
+      "speaker_name": "Hodge",
+      "start": 4721.59,
+      "end": 4726.97,
+      "text": "Hodge. Director Campbell, could you tell us some of the benefits",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a direct question about benefits and does not engage with concerns about infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, oversight, or procedural concerns—it is purely informational and lacks critique of decision-making processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, environmental quality, or quality-of-life concerns—only a request for information."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss cost-benefit distribution, historical patterns, or vulnerable populations; it is neutral and non-committal on equity or power dynamics."
+        }
+      }
+    }
+  ]
+}

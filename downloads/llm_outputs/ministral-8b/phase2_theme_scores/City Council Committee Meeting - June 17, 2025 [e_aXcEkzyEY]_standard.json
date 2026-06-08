@@ -1,0 +1,217 @@
+{
+  "title": "City Council Committee Meeting - June 17, 2025",
+  "video_id": "e_aXcEkzyEY",
+  "upload_date": "20250618",
+  "model": "ministral-8b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 3403.66,
+      "end": 3409.72,
+      "text": "tell me if this is broad enough or if this is too specific and and I'm looking",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unclear and lacks substantive content about municipal resources or utilities."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No discussion of decision-making, transparency, or community involvement is present."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, quality of life, or bodily concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No reference to cost-benefit distribution, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3558.42,
+      "end": 3580.23,
+      "text": "with the Charter and the information that were given here am I going to be able to find like all most of the answers that I need and if I can't find the answers that I need who I call so I need a book like yours well you don't",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "Directly critiques transparency and accessibility of information, questioning how decisions are communicated and who to contact for answers."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or bodily harm."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No reference to cost-benefit distribution, vulnerable populations, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 3705.31,
+      "end": 3756.84,
+      "text": "Thank you Madam President. So I haven't read it yet so I don't have really many questions but I was looking at section one where we have the definitions and how did you come up with those concepts or where did you get them? Because I know that we have other concepts, for example, like the departments, bureau, office. Sometimes we said, for example, the bureau of Lancaster, the police bureau of city of Lancaster, or for example, we said the Department of Administrative Services or the Department of Neighborhood Engagement. We have offices, we have boards, commissions, authorities.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural and definitional questions about municipal terminology, with no mention of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker questions how definitions were developed, which touches on procedural transparency and municipal governance, but does not critique decision-making or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, environmental quality, or well-being is present in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power structures, inequality, or uneven distribution of costs/benefits—only bureaucratic structure."
+        }
+      }
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 3843.56,
+      "end": 3861.35,
+      "text": "questions question regarding the transfers you're saying that it's five percent of the funds in the budget light items does it matter how much it is like if it's in the millions it's five",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on budgetary percentages and does not address infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment critiques the allocation of funds within the budget, which could be interpreted as questioning how municipal resources are managed, but it lacks explicit discussion of transparency, participation, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, environmental impact, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, inequality, or broader systemic issues."
+        }
+      }
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 3918.54,
+      "end": 3979.94,
+      "text": "counselor med thoughts and questions there you go uh thank you council president and uh thank you uh barry for your presentation this evening and i really appreciate some of the good governance measures around procurement and around the budgets i guess my only question and guidance that i would like to seek throughout this process is you know how much of this should we leave kind of not specifically defined and how much should we for example when it comes to things like accounts like how like should we make sure that each individual fund has its own individual account and does payroll have its own individual account or are these things that we should kind of leave um by your recommendation as a little bit less specific and like you know the charter gives us the guidance but how specific on some of these things should we go in the code",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on municipal budgeting and governance procedures, not on infrastructure, utilities, or resource management related to the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker explicitly raises concerns about governance, transparency, and procedural specificity in decision-making, aligning with demands for clarity and oversight in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, environmental quality, or well-being related to the data center or its operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power imbalances, cost-benefit distribution, or inequality—it is purely procedural and administrative."
+        }
+      }
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 4257.51,
+      "end": 4288.55,
+      "text": "uh thank you and i just have one final question and it's kind of in regards to like um with this new charter and some of the ambiguities of what state law is currently what state laws may change um is there anything in the administrative code that we could kind of put in to protect i don't want to say protect the city and council but so that every for instance every other day somebody isn't saying oh this state law actually you can do this or council should do this because of the state law when it's kind of responsible governance to not just act on everything just because we have",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of electricity, water, waste, or budgetary concerns."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "Focuses on administrative ambiguity, state law interpretation, and responsible governance—key concerns about process, transparency, and accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or bodily harm."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Indirectly hints at systemic uncertainty but lacks explicit framing of cost-benefit distribution or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 4532.1,
+      "end": 4601.6,
+      "text": "in the 600 block of North Shippen and I have a couple questions one of them is on the procurement numbers and I was a bit surprised to see that the threshold for a public bid is just 23,000 and change that that seems like a pretty small sum for what strikes me as a fairly involved and onerous procedure I was curious is that state law requiring that or is there room to wiggle on that and then if I can just comment I just give them both to you is speaking of money there has been a lot of talk in the last year and a half or so about council salaries and I don't know if you want to address that as part of the administrative code but I think it would be an excellent idea to make a plan on how council is going to increase salaries that haven't been increased in a very long time so that there is some sort of plan in place and it's not this always like oh should we do this no I don't want to anger the electorate should we do this no I don't want to anger the electorate that you know",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procurement thresholds and council salaries, with no mention of municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment critiques the procurement process (a procedural matter) and suggests a plan for council salaries, which could imply a lack of transparency or proactive governance—but it does not directly address community involvement or accountability in the AI data center context."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or well-being is present."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power imbalances, inequality, or uneven distribution of costs/benefits related to the AI data center or broader systemic issues."
+        }
+      }
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Marshall Miller",
+      "start": 4737.96,
+      "end": 4785.38,
+      "text": "Great. um marshall miller 100th block of east vine street um it sounds like the final version of this will be voted on in november just curious um how has the ability to put like input changes things of that nature leading up to the final passage or is it just final passage in november will be a process where amendments are added to do all of the changes that council would like to see separately you said that this document pulls from a bunch of different sources and i'm just curious if there is like a version of the document that outlines what is coming directly from the charter that cannot be changed or you know touched because it has to fulfill requirements in the charter and if that exists that would be helpful for me to see and probably counsel as well uh the the answers",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural questions about amendments and charter compliance, with no mention of infrastructure, utilities, or resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly questions transparency, the ability to influence the process, and the structure of amendments—key concerns about municipal decision-making and procedural fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, environmental quality, or bodily well-being is present."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The comment hints at a desire for clarity in rules (e.g., 'what cannot be changed'), but this is procedural rather than a critique of power imbalances or uneven distribution of costs/benefits."
+        }
+      }
+    }
+  ]
+}

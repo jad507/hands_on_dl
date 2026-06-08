@@ -1,0 +1,61 @@
+{
+  "title": "Home Rule Transition Committee Meeting - July 29, 2025",
+  "video_id": "c0vXcHFIjvA",
+  "upload_date": "20250730",
+  "model": "ministral-8b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 780.49,
+      "end": 791.98,
+      "text": "only question with the updates on the ethics commission is i know that they are going to be setting the schedule for when they meet but how frequently will they be so that that's up to them",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is entirely focused on procedural logistics of the ethics commission and does not address infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment references the ethics commission's schedule, which is a municipal process, but it is purely procedural and lacks critique or concern about transparency, oversight, or fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, environmental impact, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not engage with issues of cost-benefit distribution, inequality, or systemic power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "Tony D'Astra",
+      "start": 1321.1,
+      "end": 1487.74,
+      "text": "Tony D'Astra 700 block of New Holland Avenue. So I'm here because I'm really frustrated at the original draft. I don't think that we are handling this transition completely appropriately, although that is not entirely exclusively the responsibility of the people here today. I do feel like the administrative code is observing the powers of the ethics Commission because even though the Charter outlines certain things that are prohibited this Charter still also requires that the ethics commode code is written by the ethics Commission and adopted by counsel and there's a public meeting prior so having anything related to the ethics section of the Charter included in the admin code makes me go well is it now subject to the same rules does it nullify those rules it puts it in a real state of question for me because this charter is the guiding document for the city so when we have these things built into the admin code and not the ethics code it makes me question why we're having these meetings rushed so we can get this done by the i shouldn't say these meetings are rushed but these meetings to rush an admin code by the end of this year when the ethics code has a shorter timeline and is required by the end of this year we have six more months for the admin code so it's kind of backwards how things are operating and what y'all really need to be advocating for more than the promotion of these meetings is getting the ethics commission moving they have a deadline to me sooner than you guys on this on the admins code on the administration code section so um look i don't expect that we're ever going to have a room full of people to discuss these issues i mean jesus look at how i'm addressed right now like i got these crazy socks on i'm coming from work i'm biking here like otherwise i would have respected you guys enough to put my suit on okay um and respected the subject matter as well but yeah like i i'm i'm really frustrated and i'm hoping that you guys listen to me that we need to article 5 needs to come out that needs to be like recommended to the ethics commission for their consideration but it needs to come out of the admin code all the all the sections of the code relating to the ethics of chapter 12 of the charter need to be handled by the ethics commission which as i understand has not met yet they've only been appointed we should all be concerned by that right now because we're how more than halfway through the year so they have five months to get something to you mr ahmed and the rest of council that should be a concern to y'all here and to the public as a whole okay really upset thank you though for listening thanks for coming you i i can't remember if you were in the room",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural and administrative issues related to the ethics commission and administrative code, with no mention of municipal resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly critiques the rushed process, lack of transparency, and procedural fairness, emphasizing the need for proper public meetings, adherence to deadlines, and separation of administrative vs. ethics code responsibilities."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or well-being—only procedural concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "While the speaker expresses frustration with systemic delays and lack of accountability, the comment does not explicitly address power dynamics, inequality, or uneven distribution of costs/benefits—it’s primarily procedural."
+        }
+      }
+    }
+  ]
+}

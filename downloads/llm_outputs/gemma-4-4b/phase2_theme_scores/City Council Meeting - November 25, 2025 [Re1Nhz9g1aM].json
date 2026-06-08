@@ -1,0 +1,373 @@
+{
+  "title": "City Council Meeting - November 25, 2025",
+  "video_id": "Re1Nhz9g1aM",
+  "upload_date": "20251126",
+  "model": "gemma-4-4b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 9,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 665.67,
+      "end": 688.79,
+      "text": "lot uh hello tony dash is 700 block of new holland avenue um this is just kind of a comment related to winter maintenance because it's coming up it's getting cold it's going to start snowing soon and i recall last year having several days of icy bike lanes i think it was around president's day",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses general winter maintenance and icy bike lanes, which is unrelated to the specific resource strains of an AI data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or the conduct of city officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on infrastructure maintenance (ice/snow) rather than direct health impacts like noise or air quality from the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of unequal distribution of costs, benefits, or vulnerable populations in this comment."
+        }
+      }
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 711.11,
+      "end": 715.43,
+      "text": "uh some sort of signage to say bike lane closed to temporary close off the bike lanes because they",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses temporary bike lane closures and signage, which does not relate to the data center's strain on utilities or city budget."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a logistical request about traffic management and does not address how the data center project was decided or communicated."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment is purely about temporary traffic control and does not mention noise, air quality, or health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a localized operational request and does not engage with broader issues of wealth distribution or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 15,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 736.04,
+      "end": 766.85,
+      "text": "seen those guys picking up with the uh man the brand sticking in my head but i can't say it uh cool sweepers or cool leaf pickers i think uh we're doing better than we were doing last year but i just want to make sure i encourage the city to not uh drop the ball in any transition that we're all ready to go because i will be very upset if this year i go to use the bike lane like i did last year and almost wipe out thank you that is genuinely all I have to say I hope you guys have a fun public hearing and have a great night thank you so much",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on general city maintenance (sweepers, bike lanes) and does not mention the AI data center's impact on utilities or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker expresses a desire to encourage the city not to 'drop the ball' during transitions, which is a mild reference to municipal performance, but it is not directly about the data center process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment mentions a near-accident on a bike lane but does not discuss health risks related to the data center's operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a general civic observation about city services and personal safety, lacking any discussion of unequal distribution of costs or benefits related to the AI project."
+        }
+      }
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Melissa Stiles",
+      "start": 837.95,
+      "end": 849.83,
+      "text": "Eric I'm here on behalf of the developer 1031 Dillerville Road LP hi Melissa Stiles storage asset management on behalf of Dillerville Road good evening",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a formal introduction by a representative of the developer and does not address any municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "This is a procedural opening statement and does not comment on the fairness or transparency of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The speaker makes no mention of health concerns, pollution, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely introductory and does not engage with issues of cost distribution or power imbalances."
+        }
+      }
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 985.74,
+      "end": 990.86,
+      "text": "zoning district it would be allowed in by right there are also size restrictions on the lots",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses purely on zoning regulations and lot size, not on resource strain like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "By referencing zoning districts and restrictions, the speaker is commenting on the established municipal rules governing the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no mention of health impacts, noise, or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a technical statement about land use rules and does not address who benefits or who bears the costs."
+        }
+      }
+    },
+    {
+      "block_id": 33,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1088.89,
+      "end": 1101.37,
+      "text": "being updated for the self-storage facilities with no size limits we requested that they remove the special exception requirement to have r3 and r4 zoning districts for self-storage that were",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on zoning regulations for self-storage facilities and does not mention city resources like water, power, or waste."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment relates to the process of zoning changes and special exceptions, indicating engagement with municipal governance rules."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a technical request regarding zoning codes and does not address broader issues of wealth distribution or power imbalances."
+        }
+      }
+    },
+    {
+      "block_id": 54,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1392.7,
+      "end": 1399.58,
+      "text": "location for self-storage given site constraints in particular the limited access this property",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses site constraints and access for a self-storage location, which does not mention municipal resources like water, power, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a factual statement about a property's physical limitations and does not address how decisions were made or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, or any impact on residents' physical health or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses purely on logistical site constraints and does not engage with issues of cost distribution, vulnerable populations, or historical power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 96,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2505.57,
+      "end": 2518.79,
+      "text": "it will allow the construction to proceed more quickly when the actual installation contracts are bid and awarded, and you also expect to get better bids for the contractor",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on the speed and quality of contracting, not on the strain on city utilities or resources."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "This comment directly addresses the procedural aspect of the project, specifically how the bidding and awarding of installation contracts will affect the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no mention of health impacts, noise, air quality, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The focus is on contractual efficiency and bidding, not on the distribution of costs, benefits, or power imbalances."
+        }
+      }
+    },
+    {
+      "block_id": 150,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3743.45,
+      "end": 3836.5,
+      "text": "presentation and a thorough hearing thank you very much counselors any comments on bill number 14 I'll take a moment to thank city staff for finding a creative solution and also helping to put some guide guidance in our zoning about these large large buildings and also looking out for the fact that we have very few places in our city in which to put them so thank you for your work comments from the public on the bill hearing none mr. Harris mr. Roya hi mr. Cleese aye miss Craig aye mr. Hirsch aye I'm president Baker aye next item on this portion on the agenda is bill number 15 2025 mr. Harris if you would an ordinance of the Lancaster City Council increasing the annual compensation for members of Lancaster's of City Council from $8,000 per annum to 10,000 per annum providing for the repeal of inconsistent ordinances providing for the severability of the ordinance and providing that the ordinance shall take effect in accordance with the Charter of the City of Lancaster motion to approve second we have a motion and a second I'll just make a quick note that in the printed",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural matters and compensation changes, not on the strain of the data center on utilities or city resources."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker acknowledges and thanks city staff for providing guidance in the zoning process, which relates to municipal decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns regarding health, noise, or quality of life related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is procedural, focusing on council compensation and zoning guidance, not on the distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 158,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4050.88,
+      "end": 4080.32,
+      "text": "six years i personally can say that i appreciated this process and the opportunity to give feedback the proposed budget does not include any proposed property tax increases or earned income tax increase that concludes my comments thank you mayor sirachi thank you very much dj do you want to advance to the next slide um so uh council counselor arroyo mayor elect arroyo you have",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses solely on the absence of tax increases in the budget and does not mention strain on utilities or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker mentions appreciating the process and giving feedback, which is a mild engagement with the procedural aspect."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no mention of health concerns, pollution, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a procedural closing statement regarding tax policy and does not address the distribution of costs or benefits related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 166,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4410.86,
+      "end": 4473.5,
+      "text": "was easier but there are still considerations moving forward I related to the water fund which we discussed last last week and with that I will take any questions or comments from public or from council sorry back to you thank you very much I just wanted to say that I appreciate the collaboration through this process and I do agree that the changes made in the in the new charter have allowed for longer conversations and honestly more openness and transparency for the public in in these additional meetings and hearings and the additional steps that have been put in place so I think it's a wonderful change I'm also really glad to see that there wasn't it I'm not usually glad that there's an error but I'm glad that there was an error in those projections and want to thank city staff who have been working on them and and who have helped us uncover those it certainly does make a big difference it certainly looks very",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions the 'water fund' but does not express concern about strain, quality, or cost related to the data center project."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker explicitly praises the increased openness, transparency, and longer conversations resulting from changes in the city charter."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention noise, air quality, or any direct health concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The focus is on procedural improvements and data accuracy, not on the uneven distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 170,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Tim Stuhldreier",
+      "start": 4544.28,
+      "end": 4606.72,
+      "text": "but that's all i would comment at this time on on the budget as proposed thank you council hirsch any additional comments from council from the public good evening uh tim stuhldreier 800 block of george street uh first of all i completely second what councilman arroyo said at the top about the budget process um the idea of home rule was to for council to see the budget earlier uh for there to be more opportunity for the budgeting uh for public engagement member of the public engaging so seems like we're uh moving in the right direction on that um along the lines of what councillor Hurst just said yeah we are passing a budget that as written proposes a 1.5 million draw on reserves but previous budgets",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on the general budget and reserve draw, not specifically on the resources strained by the data center project (water, power, waste)."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The speaker directly references and supports the concept of 'home rule' regarding the budget process and public engagement opportunities."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health concerns, pollution, or quality of life impacts related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is limited to procedural budget mechanics and does not address the uneven distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 174,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4632.86,
+      "end": 4734.98,
+      "text": "2026. uh nevertheless uh you know uh one thing i've said here before is uh i would like to see you know council visibly engage in this room with this budget you know to my mind that would potentially involve deliberation possibly even um you know proposing amendments uh council has always had the ability to propose amendments provided that we do not uh exceed our revenue projections uh that power is preserved in the home rule charter so you know been covering council since 2015 would really be cool to see that happen at least once if council were to want to take a look at some some options when the budget went back for a second go-round most of the major line items were not changed two that remained unchanged were parks and rec and the fire department not saying i haven't taken a deep dive to know if if either of those areas would be susceptible to some pruning. But most of the other departments, as far as I could tell in my top line glance, did appear to take some haircut in that process. Lastly, and I see my time is clicking. Hope counsel could give me a little bit of indulgence here. Couple of things. The revenue and expense terms in the chart that's above there, above your heads in 2026, the revenue and expenses",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment briefly mentions budget and revenue projections, which relates to municipal finances, but does not specifically address the strain from the data center project."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker directly addresses the council's role, demanding visible engagement, deliberation, and the use of their power to propose amendments to the budget."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health concerns, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "The speaker discusses the distribution of budget cuts across departments, touching on how financial decisions affect different municipal functions."
+        }
+      }
+    },
+    {
+      "block_id": 178,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4790.38,
+      "end": 4817.72,
+      "text": "gone over almost a minute understood thank you uh and then um in terms of earned income tax uh it looks like we have a projection uh 12.5 percent increase 2025 to 2026. my understanding is some of that would have to do with the current lag but just wanted to raise that to council's attention for possibly one more look thank you thank you very much um i think i might well i",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment mentions an increase in earned income tax projections, which relates to municipal budget capacity, but it is not directly tied to the data center's resource consumption."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker is raising a financial projection to the council's attention, which touches on the oversight function of the council, but it is not a critique of the decision-making process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no mention of health, air quality, noise, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "By pointing out a tax increase, the speaker is indirectly addressing how financial burdens are distributed across the community."
+        }
+      }
+    }
+  ]
+}

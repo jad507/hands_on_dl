@@ -1,0 +1,35 @@
+{
+  "title": "City Council Ethics Code Work Session - November 6, 2025",
+  "video_id": "VZRKugPc6QU",
+  "upload_date": "20251107",
+  "model": "ministral-8b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 166,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3100.04,
+      "end": 3116.11,
+      "text": "And I think my question is a little bit similar to the Consul President's question. Will there be an appeal process if a respondent believes that a fighting was made in error?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural fairness (appeal process) and does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The comment directly engages with municipal process by questioning the fairness of decision-making and the existence of an appeal mechanism for perceived errors."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, environmental impact, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power imbalances, cost-benefit distribution, or systemic inequality."
+        }
+      }
+    }
+  ]
+}

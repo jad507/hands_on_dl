@@ -1,0 +1,607 @@
+{
+  "title": "City Council Budget Hearing - November 18, 2025",
+  "video_id": "W6aSdOttjPk",
+  "upload_date": "20251119",
+  "model": "gemma-4-4b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1695.52,
+      "end": 1725.6,
+      "text": "campbell thank you very much and the memo that you provided to council laying this out ahead of time was extremely helpful i wanted to go back to that second projection slide and just to be clear about what is projected on there and what isn't projected on there so you mentioned um it assumes no owner's equity transfer from the water fund over time you mentioned it assumes no adjustment to tax rate does it include the forecasted growth of earned",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.2,
+          "reasoning": "The comment references financial projections related to the water fund and tax rate adjustments, which touches upon municipal fiscal capacity."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The speaker is directly engaging with and seeking clarification on a memo provided to the council, focusing on the transparency and detail of the official documentation."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment is purely administrative and financial, containing no discussion of health impacts or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The discussion of tax rates and fund transfers is related to resource distribution, but it is highly technical and lacks the broader narrative of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 58,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1732.58,
+      "end": 1786.17,
+      "text": "thank you council president counselor med uh thank you mr vice president thank you uh director Campbell. My question is given that there was a structural deficit in the general fund even after home rule I appreciate the projections. I do have some concerns about like the sustainability of the elimination of the transfers from the water fund to the general fund. Would you be able to talk about that a little bit? I understand there's going to be a task force but I mean what is this to do to future projections down the line yeah so this is the what what is showing on the screen is projecting it without any transfer so this is sort of what the the future would be without any transfer i don't i i wouldn't say that that it's the city's administration that the city administration's recommendation that we continue that i think it's simply something that needs to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.6,
+          "reasoning": "The comment directly questions the sustainability of eliminating transfers from the water fund to the general fund, focusing on municipal financial health and resource allocation."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment is focused on budgetary projections and administrative recommendations rather than the fairness or transparency of the decision-making process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The speaker does not mention any concerns related to physical health, air quality, or noise pollution."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is purely technical regarding municipal finance and fund transfers, not about the uneven distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 64,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2009.87,
+      "end": 2027.32,
+      "text": "question is around the areas of focus for cost savings that you mentioned so deployment health care focusing on cutting costs their debt elimination and the deployment of you know technologies that might save us cost over the long",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment mentions 'cost savings' and 'deployment of technologies,' which vaguely touches on municipal financial management, but does not specifically address infrastructure strain like water or power."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a general question about the city's budget and cost-saving strategies, not about the process of the data center approval."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "By focusing on 'debt elimination' and 'cost savings,' the speaker is engaging with the distribution of financial burdens and benefits within the city's fiscal structure."
+        }
+      }
+    },
+    {
+      "block_id": 65,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2027.32,
+      "end": 2039.5,
+      "text": "term my question is just is there any sense of what those savings are going to mean year over year and then in the long run of this projection that we're",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment mentions 'savings' and 'projection,' which relates tangentially to the city's budgetary capacity, but it is too vague to strongly engage with resource strain."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker is questioning the validity and long-term meaning of projections, which touches upon the reliability and transparency of the municipal planning process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on financial projections and savings, showing no engagement with physical health or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "By questioning the long-term financial projections, the speaker is implicitly questioning who benefits from the projected savings and how those benefits are distributed."
+        }
+      }
+    },
+    {
+      "block_id": 75,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2203.44,
+      "end": 2225.5,
+      "text": "cost savings going to be you know ten million dollars over the next ten years is it gonna be 20 is it gonna be 30 I don't know I'm not sure that I could say it would be 30 million over the next 10 years be quite impressive but the reason",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment mentions potential financial figures related to the project, which touches on budgetary capacity, but it is too vague to strongly engage with resource strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment focuses solely on the potential financial return of the project and does not address how decisions were made or the process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life in this statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "By questioning the magnitude of the promised financial benefits, the speaker implicitly engages with the distribution of economic gains."
+        }
+      }
+    },
+    {
+      "block_id": 90,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2807.1,
+      "end": 2868.28,
+      "text": "lot of assumptions it is still a 28.5 million dollar flip in a 60 70 million dollar uh general fund budget in in 12 months um i guess my questions oh and what one more um i guess this is a question for confirmation i recall in previous years director hopkins saying that the reason we make these transfers from the water fund to the general fund is there's an equity component the water fund draws from rate payers outside the city it also draws from large non-taxable properties within the city and that this is a way of getting those folks to pay a little bit more of their fair share and hold city ratepayers a little bit more harmless so i'd ask confirm that that is the case and ask council to consider that as it thinks about these issues and i see my light blinking there so my two questions are",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.4,
+          "reasoning": "The comment directly discusses the financial impact of a large transfer on the general fund budget, which relates to the city's budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker is questioning the rationale behind existing financial transfers and asking the council to consider this context when making decisions."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The speaker references an 'equity component' in water fund transfers, arguing for a fairer distribution of costs among different property types."
+        }
+      }
+    },
+    {
+      "block_id": 102,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2992.24,
+      "end": 3040.28,
+      "text": "really closely as well because that then also affects interest rates yeah I think part of this Tim is that yes we have known that the water fund is needed and if you talk to the other director Campbell and he like this has been a sore a source of much consternation this this four million dollar transfer which the four million dollars started with the 27 2018 budget it was the last budget prepared by under the gray administration beginning with my administration we've done revenue replacement for a couple of years we were trying to capitalize some trying to address this in 2023 and 2024 and I",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.6,
+          "reasoning": "The comment directly discusses the need for a water fund and a $4 million transfer related to budget planning, linking to municipal financial management of resources."
+        },
+        "municipal_process": {
+          "score": 0.4,
+          "reasoning": "The speaker references past administrations and budget preparation, indicating a discussion about the historical and ongoing municipal decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on financial transfers and budget history, with no mention of health impacts or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The mention of different administrations suggests a discussion of shifting political power, but the focus remains heavily on fiscal mechanics."
+        }
+      }
+    },
+    {
+      "block_id": 115,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 3287.92,
+      "end": 3297.76,
+      "text": "Arch Street I'm thinking back to the last budget hearing and particularly looking or thinking about the police budget um and and i might be wrong about this so you may",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment only references a past police budget hearing and does not mention data centers or municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a preamble to a discussion and does not engage with themes of transparency, oversight, or official conduct regarding the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, air quality, noise, or quality of life related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague and focused on a different budgetary topic (police) to address power dynamics related to the AI project."
+        }
+      }
+    },
+    {
+      "block_id": 118,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3321.44,
+      "end": 3355.34,
+      "text": "is very helpful but i'm wondering why are we not considering uh you know kind of a phased approach to trying to get to that 128 number uh with the police department i i work very closely with the police department i'm in the citizen police academy right now i understand that they're understaffed and that our police department could do a lot more with that full staffing but that is a significant increase and then and those are costs you know when you hire staff and you hire police officers those are costs that are really hard to bring back down if we need to over the next couple years so I'm just curious why the administration",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment discusses the financial costs associated with staffing the police department, which relates to municipal budget capacity, but it does not specifically address the AI data center's impact on utilities or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a procedural question about budget allocation and staffing levels, not a critique of how the data center decision-making process was handled."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on police staffing costs and budget constraints, showing no engagement with health or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "By focusing on the difficulty of reducing long-term staffing costs, the speaker touches on the allocation of public resources and the financial burden on the municipality."
+        }
+      }
+    },
+    {
+      "block_id": 168,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4350.89,
+      "end": 4362.97,
+      "text": "a lot more resources and coordinations we might need supplies technology equipment the events remain the core part of our cities like activation drawing people downtown support",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment mentions needing 'more resources' and 'supplies,' which vaguely touches on municipal capacity, but it is not specifically tied to the data center's strain on utilities."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on city events and activation, not on how decisions were made or the transparency of the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "By emphasizing the importance of 'activation drawing people downtown,' the speaker implicitly prioritizes community vitality and local economic function over external development pressures."
+        }
+      }
+    },
+    {
+      "block_id": 201,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 4846.24,
+      "end": 4852.7,
+      "text": "So whether we're engaging with our civic engagement programs, who is not at the table,",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention city resources, utilities, or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The phrase 'who is not at the table' directly relates to concerns about inclusion and participation in decision-making processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no reference to physical health, air quality, or noise pollution."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The focus on who is or is not 'at the table' speaks to issues of equitable representation and power distribution within the community."
+        }
+      }
+    },
+    {
+      "block_id": 204,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4865.98,
+      "end": 4914.06,
+      "text": "lancaster residents thank you thank you so much director carasco no further questions thank you thank you any additional questions or comments from council councilor mitt uh thank you mr vice president thank you director carasco for the presentation um what are some ways that we can increase revenues from the special events um i really appreciated the grants the the slide about the grants and I just had a question about when we're having these events like how are some ways that we could also increase revenues from each of them oh my gosh there's so many I'm trying to get to that side I would say the I'm not sure where that side is I would say that just a couple of things is you know previously we didn't charge for vendors and so the opportunity just to even",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on increasing revenue from special events and vendor fees, not on the strain of data center utilities."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is engaged in a general budget discussion about revenue generation, not commenting on the fairness or transparency of the data center decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is purely administrative regarding event revenue streams and does not address the uneven distribution of costs or benefits related to the AI project."
+        }
+      }
+    },
+    {
+      "block_id": 207,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 4927.0,
+      "end": 4931.7,
+      "text": "more different types of vendors that are selling not only food but can we have",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses vendor types and food sales, which does not relate to city utilities or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or official accountability regarding the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on local commerce and food availability, not on physical health risks or quality of life impacts from the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a general request for local economic diversity and does not engage with issues of unequal cost/benefit distribution or systemic power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 212,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4961.34,
+      "end": 5070.32,
+      "text": "there's a couple of things that we can tweak that will continue to build but the easiest thing is getting more vendors there and we have the space for that and so that's really like the easiest thing like how can we invite more people and to increase those revenues thank you and that concludes my questions any additional questions or comments from counsel from the public great thank you director Carrasco thank you so much and with that we'll move to the office of the mayor the budget before you for the office of mayor and I'm just gonna talk through this I didn't have any slides contemplates as we've discussed the rehiring of the chief of staff position it also which is the largest increase in the budget there are also increases proposed related to conferences for the incoming administration as well as travel an increase in the travel line so the the total projected budget for the mayor's office is four hundred and twenty four thousand one hundred and forty six thousand dollars with an increase of nine percent having to take any questions it's a whopping mmm eleven lines in the budget easiest presentation so far thank you sir any questions or comments from council councillor council president thank you could you talk a little bit about the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on budget line items and administrative staffing increases, not on the strain of the data center on utilities."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment is part of a budget hearing, which is a municipal process, but it does not critique the *process* of decision-making regarding the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is purely administrative and fiscal regarding the Mayor's office budget, lacking commentary on unequal distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 222,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 5405.7,
+      "end": 5448.02,
+      "text": "My concern is whether you are having a chance to deliberate, talk amongst yourselves, and offer well-considered proposals to the administration for possible incorporation candidly as a city taxpayer i'm also hoping that you can end up passing a budget that does not draw on the reserves that seemed a lot more doable prior to this evening i would still like to see that as a goal as i said i think in the previous hearing this is about as good a years we're gonna have the economy's humming low unemployment etc a lot of headwinds coming down the pike so you know again",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on the city's general budget and reserves, not specifically on the resources strained by the data center project (water, power, waste)."
+        },
+        "municipal_process": {
+          "score": 0.4,
+          "reasoning": "The speaker expresses a desire for the council to deliberate candidly and offer well-considered proposals, touching on the quality of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health concerns, pollution, or quality of life impacts related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The focus is on fiscal responsibility for taxpayers and the economy, rather than the uneven distribution of risks or benefits from the AI project."
+        }
+      }
+    },
+    {
+      "block_id": 226,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 5488.66,
+      "end": 5624.92,
+      "text": "um when will an updated budget be posted and is there a chance that we could also have a brief explanation of the changes maybe not a full red line but just something the public can see i believe it is posted um and i i um this is a good moment to say that you know we the administration the council has weighed in and had wanted to see reductions in the general fund utilization and so what we presented tonight was actually a four point six million dollar shifts so that was one point if we go back to that original is like 1.3 million dollar reduction in general fund expenses with an additional 1.5 million dollar reduction in debt out of the general fund with utilization of permit fees to offset general fund and a slightly larger use of reserves now council can decide that we're not going to eliminate the entirety of that 3.6 million dollars and we're going to carry a little bit more deficit in the water fund council could also decide that we should be thinking not just about transfers from the water fund but also looking at the sewer fund which is actually healthier than the water fund there's there are a lot of different possibilities moving forward this was in response the changes were in response to council that you know we needed to back off on the general fund on utilizing reserves and so I think we did that in a significant while also addressing the transfer from the water fund just to address the specific question I do believe it is online the with the changes and we will also have these presentations online tomorrow I just I wanted to make a similar point that mayor srachi just as a member of council that because we started this process earlier generally we have a budget address and then followed almost immediately",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment discusses budget shifts and fund utilization (water fund, sewer fund), which relates to municipal resources, but it is focused on general fiscal management rather than the specific strain of the data center."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The speaker is directly discussing the process of budget creation, changes, and the need for public visibility into those decisions, touching on transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment contains no discussion regarding physical health, noise, or air quality related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is purely administrative and budgetary, lacking commentary on the uneven distribution of costs or benefits related to the AI project."
+        }
+      }
+    },
+    {
+      "block_id": 228,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 5629.56,
+      "end": 5646.71,
+      "text": "hearings happen before that official first read while we can't deliberate not in public we could go to the administration with our concerns suggestions questions and i agree that this is a reflection of those things that have happened so for what it's worth yeah and",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any strain on city resources like water, power, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The speaker is directly commenting on the timing and nature of public hearings, suggesting that input should happen before official readings."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any physical health concerns, noise, or air quality related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses narrowly on procedural timing rather than the distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 236,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7405.94,
+      "end": 7464.0,
+      "text": "for also running a tight ship i know it's uh very impressive on what you're able to do um here in the city with so many moving pieces uh just one question regarding the drop in water consumption um my understanding is that we're looking at trends uh and i'm not sure if that work has been completed or not but uh do we continue to foresee in the future that we will see a drop in water consumption over the years and is that cause for concern it is a very good question um i believe that we will continue to see a modest but decrease but not at the level that we've seen recently a huge part of the decrease that we've seen recently was related to the to the drought and the fact that many in our community were very compliant and very conscious conscious and conscientious in dealing with water conservation measures i don't know chris if there's anything else you wanted to be able to add to something like that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.6,
+          "reasoning": "The comment directly addresses water consumption trends and future projections, which falls under the scope of municipally managed water resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a technical inquiry about water trends and does not address how decisions were made or the transparency of the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While water is related to health, the comment focuses purely on consumption trends and drought compliance, not on direct health impacts like pollution or noise."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker is discussing municipal water usage statistics and conservation efforts, not the uneven distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 248,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7870.18,
+      "end": 7917.17,
+      "text": "thank you that's helpful and then my other question kind of relates to an earlier question I had about like cost savings and I know we're very much at the outset of this so I understand if there's not many much in the way of answers right now I am curious though about the expansion of solar facilities for city property and just how that works as far as seeing either cost savings or are there going to be like I guess some kind of energy credit that comes back to the city how does that result or how would that result in cost savings for the city in the long run if you have some time councillor Hirsch I",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.6,
+          "reasoning": "The comment directly inquires about the financial mechanisms (cost savings, energy credits) related to expanding city solar facilities, which relates to municipal energy management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment is a procedural question seeking information from a council member about city planning and budgeting, rather than criticizing the process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health impacts, pollution, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "While it touches on municipal financial health, the focus is on operational efficiency (solar credits) rather than the uneven distribution of costs or benefits from the data center."
+        }
+      }
+    },
+    {
+      "block_id": 251,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7942.51,
+      "end": 8092.57,
+      "text": "councilman Thank You mr. vice president Thank You director Campbell this presentation was very helpful and I know this question was probably exhausted many times but if we were to bring the water fund equity transfer to two million like it was in 2023 and 2024 what implications would that have on the water fund on the water fund alone it would allow us most likely to be in a healthier situation but i can't say that we'd be in the same surplus situation that we had episodically for those two years the costs have gone up significantly when when when uh when director campbell mentioned that we're still going into 2026 with a 2 million dollar deficit in water 750 000 of that is the electrical increase for the new contract that's that's something that would not have been anticipated um at that extraordinary level so there's no guarantee of what it would have been but it would have been a healthier cash flow and a healthier financial position for us to continue to move forward in i do believe that the way we're we're framing it which is to not have that transfer this coming year and take this time through a working group etc to look at the opportunities the options and the ways that the the water transfer as well as other cost implications might be affected will be very very useful we have information from pfm that was cited in in tina's presentation they're the the financial accounting municipal accounting organization that had done some of the preliminary study work for us a couple of years ago they would be able to to give us more input and there's a lot of information about how many of these utilities are morphing in how they manage themselves financially thank you because I mean I do want to state that I do have some anxieties about eliminating the transfers in the in the long run given you know it would it would significantly change the projections that we've seen previously so I just you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The speaker directly discusses the water fund, electrical increases related to new contracts, and the city's overall financial health regarding utilities."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The comment engages with the process of decision-making by referencing working groups, financial studies, and the implications of current policy choices."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on financial and budgetary matters, not on physical health or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The discussion is highly technical and focused on municipal finance rather than broader issues of wealth distribution or social equity."
+        }
+      }
+    },
+    {
+      "block_id": 257,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8204.25,
+      "end": 8234.78,
+      "text": "transfers are happening I would say just to reiterate what director Tina Campbell mentioned council should consider this as an annual one-time thing for this moment to be able to get to this next piece of work does that help counselor yes I know I'm kind of kicking it forward but it's it's there's a lot to unpack there thank you then just my final question is in regards to the debt",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.3,
+          "reasoning": "The comment mentions 'debt' in the context of budget discussions, which relates to the city's fiscal capacity, a core element of Theme 1."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment is procedural, referencing council discussions and moving items forward, but does not critique the *process* itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health, air quality, noise, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The mention of 'debt' touches on fiscal distribution, but the comment is too vague to strongly engage with themes of unequal benefit or historical extraction."
+        }
+      }
+    },
+    {
+      "block_id": 264,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8419.48,
+      "end": 8425.35,
+      "text": "things happen that aren't budgeted thank you and that's why it's important for us",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.4,
+          "reasoning": "The comment directly references things that 'aren't budgeted,' which aligns with concerns over the city's fiscal capacity to handle unforeseen costs."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "By emphasizing the need for budgeting, the speaker is implicitly commenting on the adequacy and foresight of the municipal decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no mention of physical health, air quality, noise, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "The reference to unbudgeted items touches on the uneven distribution of financial risk, though it is very general."
+        }
+      }
+    },
+    {
+      "block_id": 271,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8590.27,
+      "end": 8647.38,
+      "text": "IN PARTICULAR, WATER RATES FALL ON THE UNTAXABLE PROPERTIES THAT DO NOT PAY PROPERTY TAXES AND THOSE INCLUDE SOME PRETTY AFFLUENT ENTITIES INCLUDING F&M AND LGH, ALSO INCLUDES COUNTY government i don't know you know how you could model the incidence of doing a partial transfer leaving something in here leaving something out there but again the the incidences are are different if property taxpayers are bearing the burden versus if rate payers are bearing the burden so that's my comment my question would be to director campbell in this case department of public works director campbell i noticed that it looks like most of the enterprise funds are at or are either really close to breaking even or are even running a slight deficit that suggests that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.7,
+          "reasoning": "The comment directly discusses how water rates and financial burdens are distributed across different property types, linking to the city's utility funding structure."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment is highly technical regarding financial modeling and enterprise funds, focusing on budgetary mechanics rather than the process of decision-making or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns related to physical health, air quality, noise, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.6,
+          "reasoning": "The speaker explicitly addresses the uneven distribution of financial burdens, contrasting the impact on property taxpayers versus rate payers and untaxable entities."
+        }
+      }
+    }
+  ]
+}

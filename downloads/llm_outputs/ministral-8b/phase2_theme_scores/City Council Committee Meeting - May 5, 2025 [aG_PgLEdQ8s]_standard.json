@@ -1,0 +1,295 @@
+{
+  "title": "City Council Committee Meeting - May 5, 2025",
+  "video_id": "aG_PgLEdQ8s",
+  "upload_date": "20250506",
+  "model": "ministral-8b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 1061.42,
+      "end": 1070.6,
+      "text": "Thank you, Mayor Srirachi. Just one question. Would you be able to elaborate a little bit more on the income criteria for, that will be listed in the deed restriction?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on deed restrictions and income criteria, with no mention of infrastructure, utilities, or resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker explicitly asks for clarification on a procedural/legal detail (deed restrictions) tied to the project, signaling engagement with how decisions are structured and enforced."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or bodily harm—only a procedural question."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No critique of cost-benefit distribution, historical patterns, or vulnerable populations—purely a procedural inquiry."
+        }
+      }
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 1154.4,
+      "end": 1172.22,
+      "text": "comments comes limit Thank You counselor my question goes towards some of the deed restrictions and just to be clear this is in perpetuity for ever and there is the along with the land is the agreement that it's gonna stay in this",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on deed restrictions and perpetuity of land use agreements, with no mention of infrastructure, utilities, or resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker explicitly questions the permanence and enforceability of agreements, implying distrust in the process of ensuring compliance and transparency around land use decisions."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or well-being concerns is present."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address broader power structures, cost-benefit distribution, or vulnerable populations—only legal permanence of agreements."
+        }
+      }
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 1220.47,
+      "end": 1241.07,
+      "text": "and then also just my final question given that this is on a residential block well we will soccer also commit to making sure that the roads are the way that they were found when the development is done and what will the impact of the development have on the neighbors on the block so with with any",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.3,
+          "reasoning": "Mentions roads (infrastructure) and neighbor impacts, but lacks explicit focus on electricity, water, or waste—scored modestly for municipal resource concerns."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "Demands accountability for road conditions post-development, hinting at oversight but no direct critique of transparency or process fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.1,
+          "reasoning": "Neighbor impacts are vague; no explicit health risks (noise, air quality, etc.) or trade-off framing."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of uneven costs/benefits, historical patterns, or vulnerable populations—purely local, immediate concerns."
+        }
+      }
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 1241.07,
+      "end": 1286.09,
+      "text": "construction there are definitely impacts to the to the surrounding residents and soccer has as I mentioned been doing projects on these few blocks three four and five hundred of Beaver Street I I'm not I'm not anticipating that there is going to be need for a lot of work in the streets there may be sidewalk related work that needs to get done but that would that all of this has to go through our you know our building codes all of that process has to happen and so this is just the conveyance of the property to Sokka at this point",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.3,
+          "reasoning": "Mentions potential sidewalk-related work and building codes, indicating minor infrastructure concerns but no direct focus on electricity, water, or e-waste."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "Explicitly references property conveyance, building codes, and procedural compliance, framing the transaction as a municipal process step."
+        },
+        "health_and_well_being": {
+          "score": 0.1,
+          "reasoning": "Briefly notes 'impacts to surrounding residents' but lacks specificity on health risks, noise, or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations—focuses solely on procedural logistics."
+        }
+      }
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 1331.39,
+      "end": 1345.83,
+      "text": "question I guess is regarding the 15-year restrictions when year 16 comes does that mean that I mean I know that Saka most likely wouldn't sell it to like the highest bidder but what happens to the land agreement at year 60 yeah",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses solely on the land agreement timeline and does not address infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment raises a procedural concern about the long-term enforceability of the land agreement, implying a lack of clarity in municipal oversight or contract terms."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, environmental impact, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss distribution of costs/benefits, inequality, or broader systemic issues—only contractual specifics."
+        }
+      }
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_13",
+      "speaker_name": "unknown",
+      "start": 1486.44,
+      "end": 1590.92,
+      "text": "okay so um i just had a comment um i firmly believe that if the city is considering transferring two properties to saka an organization that sells homes at market price for profit we should instead prioritize preparation for the polite and dixon families mayor stated that the city can simply give away the fire station 6 property which raises questions about fairness and community benefit rather than allowing a profit driven transaction we should honor the legacy of nelson polite senior a reverend leader or of the civil rights movement after whom the city hall is named and his father abraham polite whose parents were enslaved in ridgeland north south carolina this deep historic historical connection underscores the need of restorative justice additionally we should support reverend kevin polite's vision for community upliftment as he emphasized last tuesday focusing on providing resources for our community's children and supporting the less fortunate by redirecting these properties to initiatives led by the polite family we can invest in soe future fostering equity and opportunity while paying tribute to their enduring contribution to our city's history and values and i do know that saka is receiving this um as a grant so i'm not saying it's for profit i'm just speculating that there are other things that we could also implement thank you thank you ms gomez any",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment critiques the fairness of property transfers and raises questions about community benefit, but does not explicitly discuss transparency or process failures."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.9,
+          "reasoning": "The comment explicitly frames the issue as one of historical injustice, equity, and restorative justice, critiquing profit-driven transactions and advocating for resources to uplift marginalized groups (e.g., children, less fortunate) while honoring the legacy of the Polite family."
+        }
+      }
+    },
+    {
+      "block_id": 39,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "Jose Rivera",
+      "start": 2010.03,
+      "end": 2027.95,
+      "text": "any questions from the public jose rivera honey block of corn my question is are we getting a new",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and does not address any municipally managed resources or utilities."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is unclear and does not reference decision-making, transparency, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, quality of life, or physical/environmental well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is too fragmented to address power dynamics, inequality, or distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 40,
+      "speaker": "SPEAKER_11",
+      "speaker_name": "unknown",
+      "start": 2027.95,
+      "end": 2044.48,
+      "text": "water station you know because that whole thing is like only 1800s for that particular um well yes all the tainted water and everything what they'll do is they'll expand the capacity for",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The comment explicitly references 'tainted water' and 'expand the capacity' for water, directly engaging with Sub-theme 1b (water supply/quality) and the broader concern about municipal water infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of transparency, oversight, or procedural concerns—only resource-related issues."
+        },
+        "health_and_well_being": {
+          "score": 0.3,
+          "reasoning": "Indirectly implies health risks via 'tainted water,' but lacks explicit focus on noise, air quality, or direct health outcomes."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, vulnerable populations, or historical patterns—only a narrow focus on water."
+        }
+      }
+    },
+    {
+      "block_id": 69,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 2774.78,
+      "end": 2795.2,
+      "text": "you guys been destroying the history of this city for the longest we have a historical committee and it's mindless because you guys still go and take down historical buildings so stop it just like the one i'm talking about you kept just the face of it but and then you destroyed the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on historical preservation, not municipally managed resources like utilities or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment critiques city actions but does not address transparency, oversight, or procedural fairness in the AI data center context."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, environmental impact, or quality-of-life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While it critiques city actions, the focus is on cultural/historical preservation, not systemic inequality or power dynamics tied to the AI data center project."
+        }
+      }
+    },
+    {
+      "block_id": 74,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 2895.69,
+      "end": 3003.23,
+      "text": "from the public hey rivera 100 block of coral street uh me and you are a compulsive uh bike riders ain't we um and the bike lanes are perfect i love them but there's one problem we got company trucks parking on our designated bike lane especially i have pictures i have to developed them so you guys can see ugi pp and now i haven't seen uh water and sewage i've seen city's horse truck on it blocking our road now the problem here is if they blocking the bike lane on the other on the outside of of the street where the passenger gets out if they're blocking that lane you have to go around it and right now you're jumping into traffic very dangerous i already got pushed off the road four times i see multiple people get hurt because the drivers do not pay attention or they really don't care plain and simple and and we all take well the adults we all take those bike lanes they're very good they're quick but the parking authority will start giving tickets if they're going to park on if they want to make more money give them parking tickets for being on the bike lane thank you very much um i do want to respond",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on local infrastructure issues (bike lanes, parking) but does not address municipally managed resources like electricity, water, or waste related to the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not critique decision-making, transparency, or accountability regarding the AI data center or city council processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment discusses traffic safety and bike lane use but does not mention health impacts, air quality, noise, or health trade-offs related to the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker’s concerns are localized to parking enforcement and traffic safety, with no reference to broader power dynamics, inequality, or systemic impacts of the AI data center."
+        }
+      }
+    },
+    {
+      "block_id": 75,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 3003.23,
+      "end": 3055.96,
+      "text": "to that because all i will say is i see it too i hear you um i see you know obstructions in bike lanes you can call the police not emergency line and they will ticket those vehicles um i've I've witnessed it myself so I just want to remind you that that is an option you can call the non-emergency line the only other thing I'll say is like you know I hope that some of these bike lanes you know they've been put in in the last five five ish years you know I think about what will the culture around them be like ten twenty fifty years from now and I do hope that to some extent like people i guess adapt to them being there i guess like i think some of it is just the newness of them to some extent too um yeah that's what i would say about that thank you very much",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on bike lanes and traffic enforcement, with no mention of municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not address decision-making, transparency, or accountability in municipal processes related to the AI data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss health impacts, air quality, noise pollution, or well-being concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The topic is unrelated to power dynamics, inequality, or the AI data center project; it centers on traffic and infrastructure adaptation."
+        }
+      }
+    }
+  ]
+}

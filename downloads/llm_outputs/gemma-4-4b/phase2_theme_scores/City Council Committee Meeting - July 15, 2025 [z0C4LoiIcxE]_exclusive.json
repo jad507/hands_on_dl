@@ -1,0 +1,321 @@
+{
+  "title": "City Council Committee Meeting - July 15, 2025",
+  "video_id": "z0C4LoiIcxE",
+  "upload_date": "20250716",
+  "model": "gemma-4-4b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 6,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 667.41,
+      "end": 708.45,
+      "text": "about you know i kind of thought and i racked my brain as i looked at it again because i was like i'm not sure i mean maybe it doesn't make much of a difference but i thought you know um having the budget activity like the what on the far left then the due date and then who's responsible for it would just kind of read better like like just the way it reads now it kind of um like the date isn't as relevant to people necessarily as like the what and so if you start with the what and then say like so preparation of budget when's it due it's due on before the last meeting of council and um the resp the responsible parties um i mean i might be splitting hairs so i just",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses the formatting of a budget document, not the strain on physical resources like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker is commenting on the clarity and organization of a municipal document (the budget), which relates tangentially to how city information is presented."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment contains no discussion of health, noise, air quality, or personal well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses purely on administrative document structure and does not address issues of wealth distribution or power imbalance."
+        }
+      }
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 1012.21,
+      "end": 1024.13,
+      "text": "uh councilman arroyo i actually don't have any questions or comments i thought um yeah i thought the changes that were suggested during the last reading were very valid and yeah feel good about",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment expresses general approval of suggested changes and contains no discussion of infrastructure strain or resource usage."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is supportive of the process and changes, not questioning how decisions were made or demanding oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns regarding health, noise, air quality, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of who benefits, who pays, or issues of unequal distribution of costs or power."
+        }
+      }
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1024.13,
+      "end": 1065.12,
+      "text": "it councilman hirsch i just had one question um section three which is on page 25 of the admin code that's before us it talks about the sale of personal property am i correct my understanding is that this threshold for sale personal property as far as like resolution approval by council is about 2500 dollars and is that coming from state law because I just didn't see that listed here and like is there just superseding state law that governs that or no there's no there's again what we",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on administrative code and property sale thresholds, not on city resources like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The speaker is directly questioning the legal basis and scope of the administrative code being used in the proceedings, indicating a focus on procedural rules."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health, air quality, noise, or any impact on residents' physical well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is purely technical regarding municipal finance regulations and does not address the distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1141.86,
+      "end": 1148.44,
+      "text": "you know maybe I don't know what an appropriate threshold is but maybe that's something we ought",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague to connect to specific strains on city resources like water or power."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker suggests the need for an 'appropriate threshold,' which implies a desire for some form of regulatory standard or process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention noise, air quality, or any direct health concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or who bears the costs of the project."
+        }
+      }
+    },
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1189.82,
+      "end": 1204.76,
+      "text": "helpful that context kind of more answers my question on that and as of right now I don't I don't really have much else so councilman I'm in thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a brief acknowledgment and does not raise any concerns regarding city resources or utilities."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is simply concluding their remarks and does not comment on the process or decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment contains no discussion of health impacts, noise, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of cost distribution, power imbalances, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 1205.32,
+      "end": 1250.68,
+      "text": "my only question is kind of a process question as it relates to budgets with the charter and with adopting the new admin code is there something that would prevent us or would it be wise to put things in the admin code for future budgets like like for example if council wanted to you know make it a requirement that a certain amount is in the critical repairs program each year i mean technically that would have to be adopted and approved by each council for each subsequent budget moving forward or with the new charter can we you know in the admin code put certain budget allocations for future budgets",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment touches on budget allocations, which relates to municipal finances, but it is framed as a procedural question rather than a direct concern about resource strain from the data center."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker is explicitly asking about the procedural mechanisms (charter, admin code) for setting future budgetary requirements, which directly engages with how municipal decisions are made."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health, pollution, noise, or quality of life in any way."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The focus is purely on administrative and budgetary procedure, not on the distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 1321.06,
+      "end": 1345.45,
+      "text": "possible each year. Yeah and I guess like if it was like kind of like you know our reserve funds needs to be at x percent of the budget or if we are there's many different examples but that's what I was wondering kind of in like a good financial management way is there are kind of are we able to do that and like a one shot through the code or does it have to be annual",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment touches on financial management and budget reserves, which relates tangentially to the city's fiscal capacity, but does not specifically mention the data center's resource strain."
+        },
+        "municipal_process": {
+          "score": 0.4,
+          "reasoning": "The speaker is asking procedural questions about how financial rules (like reserve fund requirements) are codified and implemented by the city council."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health, noise, air quality, or any impact on residents' well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The focus is purely on municipal financial procedure rather than the distribution of costs or benefits related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 29,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 1373.67,
+      "end": 1436.78,
+      "text": "And I would just add that in contrast to the Home Rule Charter, which cannot be changed changed the admin code can also be changed on a regular basis and and a budget is my understanding has always been that a budget is an annual allocation and that you cannot make commitments for future budget years but you can have policy guidance to direct the allocation or the capital or capital reserves or whatever policy statement there is but annually you would still need to have that budget allocation and because it's an annual allocation just the same that there's obviously policy that is embedded into a budget at the same time you can change the admin code so even if you're trying to prioritize it through the admin code the place where it is going to effectuate the most changes actually in the budget yeah and",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment discusses budget allocation and administrative codes, which relates tangentially to fiscal capacity, but does not specifically mention utilities or resource strain."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker is deeply engaged in discussing the mechanics of municipal governance, specifically how policy and budget allocations can be changed or prioritized by elected bodies."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment contains no discussion regarding physical health, air quality, noise, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The discussion touches on how administrative codes and budgets allocate power, but it is highly technical and lacks the broader narrative of unequal distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 1436.78,
+      "end": 1444.82,
+      "text": "that's that was that was really the basis of my question was kind of from like the policy side and like can we set policies that would affect future",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too general and does not mention specific municipal resources like water, power, or waste."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker mentions 'policy side' and 'set policies,' which relates to governance, but it is too vague to strongly engage with process concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any specific concerns regarding health, noise, or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely procedural and does not discuss the distribution of costs, benefits, or power structures."
+        }
+      }
+    },
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "Tony Dastra",
+      "start": 1639.73,
+      "end": 1671.32,
+      "text": "microphone on thank you tony dastra 700 block new holland avenue a variety of minor concerns but i'll just start with my biggest concern which is i actually think article 5 of the admin code asserts the authority of the ethics commission that was expressly written under article 12. i do understand the logic but i think the ethics commission needs to have their input on that and it needs to be part of the ethics code not the administrative code Mr. Dastra, just a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention utilities, infrastructure strain, or resource consumption."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker is directly challenging the legal and procedural framework of how city codes and commissions are structured and applied."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on administrative law and ethics codes, not on physical health or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "While procedural challenges touch on power, the focus is narrowly on the correct placement of regulatory authority rather than broader issues of wealth or extraction."
+        }
+      }
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 1679.24,
+      "end": 1749.3,
+      "text": "but to some earlier points made by people up on the day or rather at the table the charter is the bible and let me actually look up something in my three minutes. I could be wrong but I do believe that the charter can be amended through referendums so long as it's not affecting the government structure some of my other concerns to these proposed administrative code changes i think are appropriate there through that mechanism i think there are some ways the city's opening itself up to legal challenges between the powers of of itself frankly because there's language not included in the charter that the administrative code puts different prescriptions onto so So, yeah, I think a lot of this does make sense. I think there's a lot of logic and reason, but I think the process through which a lot of this is being done isn't congruent without how it needs to occur. So I'll save the extra 45 seconds of my time and give it back. Thank you.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on municipal governance structure and legal processes, not on resource strain like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker directly critiques the process of administrative code changes, referencing the city charter and potential legal challenges to how decisions are being made."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The comment touches on the distribution of power within the city government (charter vs. administrative code) but does not address broader social or economic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 50,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 1859.28,
+      "end": 1864.56,
+      "text": "seated for a new mayor is seated i think it's extremely important so thank you for that are",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a general expression of thanks and does not mention any municipal resources or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a brief acknowledgment of the mayor, not a substantive critique or discussion of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment contains no discussion regarding health, air quality, noise, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague to engage with themes of unequal distribution of costs or benefits."
+        }
+      }
+    }
+  ]
+}

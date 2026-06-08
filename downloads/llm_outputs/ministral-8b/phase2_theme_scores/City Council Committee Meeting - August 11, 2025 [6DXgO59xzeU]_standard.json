@@ -1,0 +1,321 @@
+{
+  "title": "City Council Committee Meeting - August 11, 2025",
+  "video_id": "6DXgO59xzeU",
+  "upload_date": "20250812",
+  "model": "ministral-8b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 2,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Katie Shifflett",
+      "start": 651.82,
+      "end": 699.58,
+      "text": "me uh my name is katie shifflett i'm with semais properties um i would love to join this board i not only work downtown but i also live downtown i have my entire life so i think it would be an amazing opportunity to join this board and really help with everything that the did is involved with between safety cleanup outreach i think all the things that they have done in the past few years have been great i have an opportunity to see firsthand from both a residential and a commercial side um the different things that the city has done how it's grown over the years from something simple to something extraordinary and i think that i could be a great asset to the board itself",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on personal qualifications and local engagement, with no mention of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker briefly references 'outreach' and 'cleanup' as past city efforts, but does not critique process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment centers on personal involvement and local pride, with no critique of power structures, inequality, or uneven distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 4,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 707.45,
+      "end": 718.89,
+      "text": "thank you counselor colleagues and thank you for your willingness to serve my only question is how do you see the role of the downtown investment district and diversifying opportunities for",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of transparency, oversight, or procedural concerns about the data center decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The comment briefly references 'diversifying opportunities,' which *could* imply economic equity, but it is too vague to strongly align with power dynamics or inequality themes."
+        }
+      }
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Mason Sauer",
+      "start": 1054.49,
+      "end": 1105.24,
+      "text": "my name is mason sauer i've been plumbing here at lancaster city and i've been plumbing in lancaster city and the surrounding areas for about eight years now i obtained a master's license for lancaster city york reading harrisburg and it's it's always been a passion of mine although it sounds a little strange in plumbing but um it's something that i absolutely love and being appointed to be part of the board is i'm very honored and um yeah i will respect and have integrity when the board meets and all the decisions that we make uh is there anything",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on personal professional background and appointment to a board, with no mention of infrastructure, utilities, or municipal resource concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No discussion of transparency, oversight, or critique of decision-making processes—only a statement about personal commitment to integrity."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No reference to health impacts, noise, air quality, or quality-of-life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is entirely self-focused and lacks any framing of systemic inequity, cost-benefit distribution, or broader social/political critique."
+        }
+      }
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 1112.12,
+      "end": 1155.86,
+      "text": "codes that Lancaster City amends every so often and I have found that it's a little difficult to get the word out to the other plumbers I think it would be good at least with my knowledge and my connections that I can get that word out so all the plumbers can come together and you know successfully you know plumb this place in you know so yeah but with my extensive knowledge in the plumbing code only with the IPC and the local codes this is yeah this is really exciting for me thank you are there any questions or",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on plumbing codes and personal connections among plumbers, with no mention of municipal utilities, infrastructure strain, or public resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not address transparency, decision-making, or community oversight—only their own professional role and networking."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or trade-offs between economic benefits and well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is self-focused and lacks critique of systemic inequities, job distribution, or broader power structures."
+        }
+      }
+    },
+    {
+      "block_id": 23,
+      "speaker": "SPEAKER_16",
+      "speaker_name": "unknown",
+      "start": 1854.33,
+      "end": 1882.9,
+      "text": "all right and i think i will stop there now thank you for the presentation director campbell um just one question regarding some of the revenue lines that you mentioned franchise fees parking violations and pension state funds can you clarify what franchise fees are and the percentage of parking violations that get received by the city looking at larry cohen the president of the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on municipal revenue sources (franchise fees, parking violations) rather than resource strain or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment briefly acknowledges the presentation but does not critique process fairness, transparency, or accountability—just seeks clarification on revenue details."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address cost-benefit distribution, historical patterns, or vulnerable populations—only procedural revenue questions."
+        }
+      }
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 1889.86,
+      "end": 1901.43,
+      "text": "percentage are you asking the percentage or which fines we're collecting um so i think my",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is incoherent and unrelated to municipal resources or utilities."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No engagement with governance, transparency, or accountability is present."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, quality of life, or environmental impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, inequality, or systemic power structures."
+        }
+      }
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_16",
+      "speaker_name": "unknown",
+      "start": 1901.43,
+      "end": 1911.51,
+      "text": "understanding is that uh the city of lancaster does not receive a hundred percent of parking tickets etc there's a percentage that's paid out to the city yes so there's an administrative",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "Mention of administrative processes (e.g., parking tickets) is tangential to the data center debate and lacks direct relevance to transparency or decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health, noise, air quality, or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address cost-benefit distribution, inequality, or systemic power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 1911.51,
+      "end": 1928.68,
+      "text": "would you mind coming to the mic so the public can who might be watching at home can um i'm not",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and does not address any municipal resources, utilities, or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is unclear and does not reference decision-making, transparency, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, quality of life, or physical/environmental well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment lacks substance and does not discuss power structures, inequality, or distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 2123.88,
+      "end": 2151.56,
+      "text": "and thank you director campbell this report was very helpful my question was regarding the unfilled positions and the vacancies are we planning to keep those vacancies throughout the rest of the fiscal year and given that we are seeing revenues a little bit ahead of what were anticipated is there any um is there any discussions about bringing some of those positions back um to kind of uh alleviate some of the other staff pressures sure yeah none of the positions",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on municipal staffing and budgetary management, not on data center infrastructure or resource strain."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment references fiscal transparency and staffing decisions, but does not address data center-specific process concerns like oversight, notice, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, environmental quality, or quality-of-life considerations related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss power imbalances, cost-benefit distribution, or systemic inequities tied to the data center proposal."
+        }
+      }
+    },
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3125.22,
+      "end": 3156.15,
+      "text": "Works Committee council ideas in relations to our new AI core where that's going to be and basically implement it into our city and also partially named Peter Township will they also provide us updates on how much water how much electricity that's going to be used to the public as with",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "Explicitly asks about water and electricity usage, directly engaging with municipally managed utilities (Sub-theme 1a and 1b)."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "Mentions 'updates to the public' and 'implement it into our city,' suggesting a demand for transparency and community involvement, but lacks explicit critique of process fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Briefly references 'Peter Township' (potential cross-jurisdictional inequality), but no deeper critique of benefit/cost distribution or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 58,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 3167.67,
+      "end": 3228.82,
+      "text": "underway thank you and if i could just add to that to say that the former use of lsc was consuming more water than the proposed new use and so i just want to make sure that everybody's aware of that and as it relates to the electricity usage that is really an issue for the pennsylvania utilities commission which regulates issues related to electricity and i would remind council that we are part of a 13 state consortium that is a wholesale retailer called pjm and would direct your attention to recent activities by the shapiro administration to address those rates and that really functions outside of this body any other uh comments or",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The comment explicitly addresses water consumption (former use vs. proposed use) and electricity usage, framing both as municipal resource concerns, though it also deflects responsibility to external regulators."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "Mentions the Pennsylvania Utilities Commission and PJM consortium as external bodies, subtly questioning local authority over electricity regulation, but does not directly critique transparency or process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Briefly references water/electricity costs as systemic issues but lacks explicit critique of uneven benefit distribution or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "Taylor Raymond",
+      "start": 3260.3,
+      "end": 3282.25,
+      "text": "for the meeting record all right taylor raymond 500 block of saint joseph street um i just wanted some clarification on the reduced timelines you said from uh 10 days to five days for one of them and 10 to 8 for another is that calendar days or business days that is a very good question",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is purely procedural and does not address infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker raises a question about process transparency (timeline definitions) and procedural fairness, directly engaging with municipal decision-making clarity."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, quality of life, or physical well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss cost-benefit distribution, inequality, or systemic power structures."
+        }
+      }
+    }
+  ]
+}

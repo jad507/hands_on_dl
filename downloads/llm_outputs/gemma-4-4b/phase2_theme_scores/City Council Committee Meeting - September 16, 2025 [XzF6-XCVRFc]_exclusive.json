@@ -1,0 +1,191 @@
+{
+  "title": "City Council Committee Meeting - September 16, 2025",
+  "video_id": "XzF6-XCVRFc",
+  "upload_date": "20250917",
+  "model": "gemma-4-4b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 1807.99,
+      "end": 1826.66,
+      "text": "If I may the only question I have is for example if someone is coming in late and it's a constituent and by having the public comment in the beginning but not at the end when that hinder on some of the people that do work late and come to the meetings at a later time.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention city resources, utilities, or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker is commenting on the procedural timing of the public comment session, which relates to how the municipal meeting is run."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address physical health, air quality, or noise pollution."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on meeting logistics rather than the distribution of costs or benefits related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1828.84,
+      "end": 1886.42,
+      "text": "Well again there's never going to be perfect right so perfect can be the enemy of good. One thing I would note is it's going to depend on how council determines to handle public comment. There's no guarantee that it will just be at the beginning or that it wouldn't be, as Ms. Baquet indicated, beginning and end. And council's practice may be that it asks for public comment on each motion or action that's being taken, which means that now there's already multiple areas for public comment. You know, you could argue that somebody can only stay early. So both sets of comment work. will say that the concept of public comment as defined by the sunshine act is intended to make sure that comment can be had before city council action is taken because if let's assume in your scenario somebody came late they would still then have the opportunity to comment on the things that already happened at the next council meeting which wouldn't be more than two weeks later",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on procedural rules for public input rather than resource strain."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker is directly discussing the mechanics, timing, and scope of how the council handles public comment, which relates to process legitimacy."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, or air quality in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the distribution of costs, benefits, or power imbalances related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 2248.46,
+      "end": 2287.36,
+      "text": "that up so that was my concern it didn't really establish a clear timeframe or a deadline for submitting that that memorandum which I think is I think the memorandum is great I think it's important if we're going to be considering legislation that it should have sort of a rubric for addressing questions but my in my opinion it should be at the first committee the first presentation so whether that be committee whether that be a regular meeting of counsel it should accompany that first presentation I think that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any strain on city resources like water, power, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker is directly commenting on the procedural aspects of the legislation, specifically the need for a clear timeframe and rubric for addressing questions."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on legislative procedure and documentation, not on health impacts or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is purely about the structure of the legislative review process and lacks commentary on who benefits or bears the costs."
+        }
+      }
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 2931.54,
+      "end": 2955.35,
+      "text": "just have one question in regards to any one that would employ with the city that would make any death threats or any comments publicly is that something that would be included in here as well of any type of misconduct with the ethic boards well i mean that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention city resources like water, power, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker is questioning the oversight and ethical standards of those involved in the process, which touches on accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on workplace conduct and ethics, not on physical health or environmental quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "It touches on the ethical conduct of those in power, but it is too general to strongly engage with themes of wealth distribution or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Irene Grievous",
+      "start": 3097.25,
+      "end": 3144.86,
+      "text": "Irene Grievous, 400 Block of West End Avenue. My understanding is there was a some kind of ethics commission or some kind of meeting yet that has not been publicly made and I've actually had tried to come to two previous scheduled ones and they were canceled and I was not even aware that they had been rescheduled isn't that a violation of the sunshine law and when were these meetings for the ethics and planning for the ethics Commission do you have anything further thank you I'm",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention city resources like water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker directly questions the transparency and adherence to public meeting laws (sunshine law) regarding ethics and planning meetings."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on procedural issues and public access to information, not on health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "A very minor connection exists as procedural failures can reflect unequal access to governance, but the focus is purely on process."
+        }
+      }
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 3173.06,
+      "end": 3188.8,
+      "text": "polite council chambers thank you well actually I do have the cancellation from I believe that was in August and there was one in July that they were both canceled and I know that because I came personally and was told it was canceled",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment only addresses meeting cancellations and does not mention infrastructure, utilities, or resource strain."
+        },
+        "municipal_process": {
+          "score": 0.4,
+          "reasoning": "The speaker is referencing the scheduling and notification process of the council meetings, which relates to procedural aspects of governance."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns, pollution, or quality of life impacts in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the distribution of costs, benefits, or power dynamics related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 3201.44,
+      "end": 3229.43,
+      "text": "a question in regards to the um the board's commission and authorities is there any way that we could add like right next to um the title the number of how many are per members. For example the airport authority is there five members is it 10 members.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention utilities, infrastructure strain, or resource consumption related to the data center."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker is questioning the structure and composition of a governing board, which relates to how municipal bodies operate."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no reference to health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural transparency regarding board membership numbers, not on the distribution of costs or benefits."
+        }
+      }
+    }
+  ]
+}

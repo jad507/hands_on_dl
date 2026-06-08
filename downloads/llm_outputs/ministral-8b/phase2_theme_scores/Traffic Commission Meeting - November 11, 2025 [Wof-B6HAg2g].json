@@ -1,0 +1,815 @@
+{
+  "title": "Traffic Commission Meeting - November 11, 2025",
+  "video_id": "Wof-B6HAg2g",
+  "upload_date": "20251112",
+  "model": "ministral-8b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Jessica Cardona",
+      "start": 788.11,
+      "end": 810.79,
+      "text": "considering the request of Jessica Cardona to replace the stop sign at Fairview Avenue in Fremont Street miss Cardona can you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to municipally managed resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment references a request for a stop sign replacement, which is a procedural matter but lacks explicit critique of transparency, fairness, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power dynamics, inequality, or uneven distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "A World of Valencia",
+      "start": 1238.58,
+      "end": 1245.2,
+      "text": "well my name is a world of Valencia and I own the property at seven six seven six six Fremont Street",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment only identifies a property owner and location; no discussion of infrastructure, utilities, or municipal resource strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making, transparency, oversight, or procedural concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No reference to health impacts, noise, air quality, or quality-of-life considerations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations—only a personal property claim."
+        }
+      }
+    },
+    {
+      "block_id": 39,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1250.44,
+      "end": 1255.58,
+      "text": "something is being done if anything and I did want to mention also what he was saying about",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague and incomplete to engage with any municipal resource concerns."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment references 'what he was saying' but lacks specificity about process, transparency, or accountability—barely above 0.0."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or bodily impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 40,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1255.58,
+      "end": 1261.48,
+      "text": "the going up the wrong way I don't know if it's something that you saw or was it the videos I sent",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unclear and does not address infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment is vague but could *potentially* relate to transparency or information sharing if the 'videos' referenced were meant to highlight process issues—but no clear connection is made."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or bodily impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1261.48,
+      "end": 1299.3,
+      "text": "in the videos okay okay this is an occurrence that happens daily the videos that I sent in were just I visit my parents weekly so this is just me getting there and seeing happened just to see it and then getting you know the videotape from it and in one of them I'm not sure if you guys had an opportunity to see it there was a near miss on one like and this i even have another one that just happened november again again i was just getting it to my parents house so i don't know why these vehicles are going up the wrong way i don't think it's that they don't know because this vehicle is parked on either side of the street so obviously they know that this is a one",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on traffic violations and does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not critique decision-making, transparency, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power dynamics, inequality, or broader systemic issues—only a localized traffic issue."
+        }
+      }
+    },
+    {
+      "block_id": 74,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2009.45,
+      "end": 2032.0,
+      "text": "Yeah. Any further discussion or comment about what needs to be addressed? Maybe identifying an alternate? well my my other reason the thing that prompted my question is are there any user like any industries or anything in that stretch that take regular deliveries by those large trucks",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on logistics and delivery operations, not municipally managed utilities like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No critique of decision-making, transparency, or accountability is present—only a practical question about traffic/industrial activity."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Indirectly raises a logistical burden on local infrastructure (truck traffic), but no explicit critique of power imbalances, equity, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 87,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Keith Radicek",
+      "start": 2371.88,
+      "end": 2378.56,
+      "text": "i hope so you might as well keith radicek lakers parking authority how many net spaces would have",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unclear and does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is fragmented and does not reference decision-making, transparency, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment lacks context about costs, benefits, or inequality—it appears to be an incomplete or nonsensical reference to parking."
+        }
+      }
+    },
+    {
+      "block_id": 88,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Keith Radicek",
+      "start": 2378.56,
+      "end": 2398.71,
+      "text": "to be uh reduced in this model do i go back to larry and go we're losing 10 spaces we're losing 20 spaces we're losing five spaces do we know that number none of these spaces are metered so they're just empty spaces right they're not regulated anyway there's no residential",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on parking spaces and their regulation, not municipally managed utilities like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker references a lack of clarity about parking space reductions ('do we know that number') and implies a need for accountability ('go back to Larry'), suggesting procedural oversight concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, environmental quality, or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address broader equity, historical patterns, or uneven distribution of costs/benefits—only parking logistics."
+        }
+      }
+    },
+    {
+      "block_id": 89,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Keith Radicek",
+      "start": 2398.71,
+      "end": 2415.82,
+      "text": "permit parking there's no metered parking okay so i did thank you um was i mistaken that part of the advantage is to be able to provide some drop-off space or is that a different location",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is entirely focused on parking logistics and does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not critique decision-making, transparency, or accountability—it is a procedural inquiry about parking rules."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment lacks discussion of cost-benefit distribution, historical patterns, or vulnerable populations—it is purely logistical."
+        }
+      }
+    },
+    {
+      "block_id": 90,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2416.79,
+      "end": 2445.02,
+      "text": "near the school i think the main advantage near the school was eliminating sort of any parking on the south side of the street because there's a lot of um there's some spaces that are used sort of to drop off children but there's no sidewalk on that side of the street and there's So there's a lot of mid block crossing and it's kind of a dangerous crossing area trying to discourage any kind of very good Very good. Thank you very much for that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on local traffic and pedestrian safety near a school, not municipally managed utilities or infrastructure like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No discussion of decision-making, transparency, or accountability in municipal processes—only a localized traffic concern."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While pedestrian safety is relevant to well-being, the comment does not address health risks, air quality, noise, or health trade-offs."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of cost-benefit distribution, historical patterns, or vulnerable populations—only a specific traffic/pedestrian issue."
+        }
+      }
+    },
+    {
+      "block_id": 99,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2671.15,
+      "end": 2685.62,
+      "text": "correct thank you thank you for adding this to the agenda today i think there are others here who might want to and but i'll kick it off um i live at 507 west lemon so i face the intersection",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is purely procedural and location-specific, with no mention of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not address transparency, oversight, or decision-making processes—only acknowledges the agenda and introduces themselves."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or quality-of-life concerns is present."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment lacks framing of cost-benefit distribution, historical patterns, or vulnerable populations—it is purely logistical."
+        }
+      }
+    },
+    {
+      "block_id": 100,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2685.62,
+      "end": 2754.03,
+      "text": "we're looking at and i i've never seen it that empty which is which is great maybe it's a sign of the future but um what i've been noticing is the cars from north mary which are coming south to north um periodically somebody is uh stop generally they stop and then proceed through the intersection without looking both ways. There's a lot of near misses happening and if I try to understand it as a lay person I understand that they've come through a series of one-way crossings. They've crossed orange, chestnut, walnut and lemon is the first one where they have two directions coming. So whether it's that they're not catching on that there's two directions or the bike lane may be obstructing some visibility I'm not sure I'm really glad for the businesses that are thriving not only the ice cream shop there but the Kevlar restaurant but that adds a lot of in-and-out traffic too I'm not sure a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on traffic patterns and local business activity, with no mention of municipally managed utilities, infrastructure strain, or resource allocation."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not address decision-making, transparency, or accountability in municipal processes; instead, they describe observed traffic behavior."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or quality-of-life concerns—only traffic safety and local commerce."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not critique power structures, inequality, or uneven distribution of costs/benefits; it is purely observational about traffic and business activity."
+        }
+      }
+    },
+    {
+      "block_id": 101,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2754.03,
+      "end": 2757.59,
+      "text": "four-way stop is the answer that's just one of the things I put in my note",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague and unrelated to municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making, transparency, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, well-being, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss power dynamics, inequality, or distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 103,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2772.05,
+      "end": 2783.84,
+      "text": "state your name in the block uh the block that you live on uh yeah so i am the uh owner of cablar",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and does not address any municipally managed resources or utilities."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is too brief and lacks any reference to municipal decision-making, transparency, or process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, well-being, or quality-of-life concerns is present."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not engage with issues of power, inequality, or distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 105,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2840.58,
+      "end": 2862.79,
+      "text": "or chestnut or you know they're all kind of treated like three ways it kind of even if it's a one way even i feel like i can kind of see sort of see i think that's everybody and then sometimes somebody's cruising at 45 miles an hour and it's hard to you know hard to see that car but uh but yeah we'd love to come to some sort of resolution that makes it safer very good thank you very very much is anyone else wanting to speak on this item from the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on local traffic safety and speeding, not municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No discussion of decision-making, transparency, or accountability in municipal processes—only a request for traffic safety improvements."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, air quality, noise, or bodily harm—only traffic-related safety concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No framing of uneven costs/benefits, historical patterns, or vulnerable populations—purely a localized traffic issue."
+        }
+      }
+    },
+    {
+      "block_id": 106,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Steve Farina",
+      "start": 2862.79,
+      "end": 2885.94,
+      "text": "public in the introduction to the issue yes please and again your name and block of residence hey I'm Steve Farina I live on the 400 block of Lancaster Avenue so",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is purely procedural and lacks any discussion of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No critique of decision-making, transparency, or accountability is present—only a procedural introduction."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations—only a basic identification."
+        }
+      }
+    },
+    {
+      "block_id": 107,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2885.94,
+      "end": 2910.99,
+      "text": "I'm like to the left of this and down a little it is a really busy intersection There's a ton of kids. My wife and I just started letting our 12-year-old walk there by herself. It's a really busy intersection, especially with the ice cream shop. They pull a lot of children in. With Cabellar, they pull a lot of everybody else in. With Brandy's right",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on local traffic and pedestrian safety, not municipally managed utilities or infrastructure like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making, transparency, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While children's safety is implied, the comment does not address health risks, air quality, noise pollution, or health trade-offs."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The comment highlights a vulnerable population (children) and a local business (ice cream shop) as focal points, but does not explicitly critique power dynamics, inequality, or broader systemic issues."
+        }
+      }
+    },
+    {
+      "block_id": 108,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2910.99,
+      "end": 2928.46,
+      "text": "there, there's been that dumpster blocking a good portion of that corner on Mary. There used to be crossing guards there probably 10, 12 years ago in the mornings and afternoons for school children. That hasn't been there in a long time. There was a man, Chuck Layman,",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of electricity, water, waste management, or budgetary concerns related to the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making, transparency, or accountability in the data center process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or quality-of-life concerns tied to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on local traffic and school safety, unrelated to broader power dynamics or inequality related to the AI data center."
+        }
+      }
+    },
+    {
+      "block_id": 109,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2928.46,
+      "end": 2940.98,
+      "text": "who was hit and killed there in 2015 in a hit and run. So it is, they go fast on Lemon Street in both directions.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on traffic safety and a past incident, with no mention of municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making, transparency, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While traffic safety indirectly relates to public well-being, the comment lacks explicit concerns about health impacts, noise, air quality, or health trade-offs."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss power structures, cost-benefit distribution, or historical patterns—only a localized traffic safety concern."
+        }
+      }
+    },
+    {
+      "block_id": 110,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2942.58,
+      "end": 2948.92,
+      "text": "And like one of the previous comments said, With it being the first two-way street,",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too brief and does not address infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making, transparency, or community involvement."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No reference to cost-benefit distribution, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 111,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2948.92,
+      "end": 2956.88,
+      "text": "it's not a spot where people really stop and look. I've also seen two or three, at least two,",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague and lacks any reference to municipal utilities, infrastructure, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making, transparency, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss power imbalances, costs/benefits distribution, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 112,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2956.88,
+      "end": 2960.92,
+      "text": "maybe three people turn the wrong way onto Mary off Lemons.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making, transparency, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment has no connection to health, well-being, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely about a localized traffic issue and does not discuss power dynamics, inequality, or broader systemic impacts."
+        }
+      }
+    },
+    {
+      "block_id": 113,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2960.92,
+      "end": 2967.6,
+      "text": "So I think a four-way stop would be a good way to just get people to stop and think",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making, transparency, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely about traffic safety and does not engage with power dynamics, inequality, or distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 123,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3214.12,
+      "end": 3300.7,
+      "text": "me ask that joe sitzel i also live on the 400 block of lancaster avenue next to steve so i think he said most of it i just wanted to ask and put it under consideration there's a also some sort of metal bike stop i don't know what it is pamela maybe you know the history there but that also blocks kind of like the view look to the right it's in front of splits and giggles does anyone know if I don't know what that's for I don't think it's used that much it's a bike rack okay but I do think that impedes viewing also I have a two-year-old I go to the ice cream shop often and we cross over the road to cab or often and that also sort of impedes the view of pedestrians crossing to see if cars are coming down Lancaster of coming down lemon so I just want to mention that for further consideration and say I also support you know a stop sign here I think it would help pedestrians any other comments a question",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on local infrastructure (bike racks, stop signs, pedestrian visibility) but does not address municipally managed utilities like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker requests consideration of traffic improvements but does not critique transparency, decision-making, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions pedestrian safety (e.g., crossing visibility), the comment does not frame concerns in terms of health risks, noise, air quality, or trade-offs between economic benefits and well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is localized to pedestrian safety and minor infrastructure, with no discussion of broader power imbalances, historical patterns, or unequal distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 126,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 3365.02,
+      "end": 3385.95,
+      "text": "design the enforcement the implementation i i do have um maybe some concerns just with the fact that there are no other stop signs along lemon street so sort of driver expectation would",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on traffic enforcement and driver expectations, with no mention of municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment briefly touches on implementation concerns, but lacks explicit critique of transparency, accountability, or community involvement in decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or quality of life—only traffic-related concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No reference to cost-benefit distribution, vulnerable populations, or systemic inequities—purely a localized traffic enforcement observation."
+        }
+      }
+    },
+    {
+      "block_id": 127,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3385.95,
+      "end": 3400.78,
+      "text": "be a concern i mean we have done the cross traffic does not stop or i'm not sure if there's look",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague and unrelated to municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making, transparency, or community involvement in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 128,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 3400.78,
+      "end": 3498.6,
+      "text": "could be done and you say in the interim as a trial questions commentary wishes proposals yeah I would just add bikes through that regularly along that bike lane and it definitely is a high traffic area I don't know I would like to see something I hearing a four-way stop makes sense kind of inclines me towards approving it it is true that there are no other I'm trying to think of my bike right along that road and I don't think there are no other four there are no other stops on Lemon Street so it would be like a little bit on incongruous but I don't know I still think it might be worth it yes please as you mentioned flashing red light or something that sometimes calls attention to the four-way stop there there are no four-way stop signs but there are the stoplights at Charlotte and so perhaps a light above it would call attention to it I'm glad for the consideration you're giving to it and it's welcome to hear",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on traffic management and bike infrastructure, with no mention of municipally managed utilities, electricity, water, waste, or budgetary concerns."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker briefly acknowledges the city's consideration of traffic solutions, but there is no critique of transparency, process fairness, or accountability—only a neutral observation about proposed traffic measures."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health impacts, noise, air quality, or quality-of-life concerns related to the AI data center or broader environmental issues."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of cost-benefit distribution, historical patterns of extraction, or vulnerable populations—only a localized traffic and bike lane proposal."
+        }
+      }
+    },
+    {
+      "block_id": 132,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 3573.59,
+      "end": 3580.35,
+      "text": "warranted having a stop sign but that under special considerations given this",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making, transparency, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague and lacks context about costs, benefits, or inequality related to the AI data center or broader power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 133,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3580.35,
+      "end": 3602.49,
+      "text": "the unique circumstances here that it's it's allowed to be encountered and even though there's no other stop four-way stop or intersection at this I mean at this street there are two other signaled intersections nearby are any of those of",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making, transparency, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is fragmented and lacks context about costs, benefits, or power disparities."
+        }
+      }
+    },
+    {
+      "block_id": 134,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 3602.49,
+      "end": 3634.67,
+      "text": "concern are those things we need to either put in a context or understand differently there's also the school uh people walk into school uh both up to wharton and also the reynolds so that that's another uh consideration to take and i'm not sure what the status with the school district uh is with having school crossing guards to get their work school crossing guards i think up until probably the last year of two years ago i haven't seen one",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No direct mention of municipally managed resources like electricity, water, waste, or budget."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "Raises a procedural concern about school crossing guards, implying a lack of clarity or oversight in municipal safety protocols, but does not explicitly critique decision-making or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No explicit discussion of health impacts, noise, air quality, or direct harm to residents."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "Focuses on a local safety concern (school crossings) without framing it as a broader issue of inequity, extraction, or uneven distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 163,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Randy Doutrick",
+      "start": 4531.43,
+      "end": 4581.8,
+      "text": "to present land development plans at 558 Longfellow Drive Mr. Doutrick thank you for your patience my name is Randy Doutrick I completed the land development plans for 558 Longfellow we're proposing a four unit apartment building there each unit will have three bedrooms and we're required have one parking space per unit but we actually have seven parking spaces and one ada parking space and we the existing site if you look at is line with all massive pine trees that's all been cleared out already for the for the proposed sidewalk and the street trees we are in our third review with the city and we're down to pretty minimal comments and so i just came to the Commission's meeting is seen by any concerns",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on a residential development plan with no mention of municipal utilities, infrastructure strain, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker references being 'in our third review' with the city, indicating some engagement with municipal procedures, but no critique of transparency, fairness, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is limited to parking and tree clearance for a residential project; no discussion of cost-benefit distribution, historical patterns, or vulnerable populations."
+        }
+      }
+    }
+  ]
+}

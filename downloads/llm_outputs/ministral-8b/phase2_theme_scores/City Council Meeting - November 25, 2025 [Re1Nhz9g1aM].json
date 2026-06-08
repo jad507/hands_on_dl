@@ -1,0 +1,243 @@
+{
+  "title": "City Council Meeting - November 25, 2025",
+  "video_id": "Re1Nhz9g1aM",
+  "upload_date": "20251126",
+  "model": "ministral-8b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 9,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Tony Dash",
+      "start": 665.67,
+      "end": 688.79,
+      "text": "lot uh hello tony dash is 700 block of new holland avenue um this is just kind of a comment related to winter maintenance because it's coming up it's getting cold it's going to start snowing soon and i recall last year having several days of icy bike lanes i think it was around president's day",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to municipally managed resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making, transparency, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely about winter maintenance and does not engage with power dynamics, inequality, or broader systemic issues."
+        }
+      }
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Tony Dash",
+      "start": 688.79,
+      "end": 698.87,
+      "text": "if my memory serves me correctly it was almost a week long of having the bike lanes iced over especially with the changes coming to administration i just want to encourage",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment briefly references 'changes to administration,' which could imply a critique of governance or process, but lacks specificity about transparency, oversight, or decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to power dynamics, inequality, or distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 11,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Tony Dash",
+      "start": 698.87,
+      "end": 711.11,
+      "text": "city government to make sure the resources are there to manage the bike lanes properly this season um and you know i also recognize that we can't remove all snow at once if we need to get",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.3,
+          "reasoning": "The comment briefly references municipal resource management ('resources to manage the bike lanes') but does not engage with the AI data center or its specific infrastructure demands (electricity, water, waste)."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No discussion of decision-making, transparency, or accountability—only a general call for resource allocation unrelated to the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or trade-offs between well-being and economic benefits."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No critique of cost-benefit distribution, historical patterns, or vulnerable populations—focus is on generic municipal maintenance."
+        }
+      }
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 711.11,
+      "end": 715.43,
+      "text": "uh some sort of signage to say bike lane closed to temporary close off the bike lanes because they",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making, transparency, or oversight in the data center process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to broader power dynamics, inequality, or systemic impacts of the data center."
+        }
+      }
+    },
+    {
+      "block_id": 13,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 715.43,
+      "end": 731.48,
+      "text": "are part of the roadway it leaves the city open to massive massive liability if someone uses the bike lane and gets hurt so whether whether you get cones barricades whatever they just say bike lane closed i think that'd be very prudent and that's really all i have to say i think the bike lane",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on roadway and bike lane safety but does not address municipally managed utilities like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment briefly implies a procedural oversight (e.g., lack of barricades) but does not critique broader governance, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, air quality, noise, or bodily harm—only physical infrastructure safety."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations—only a localized infrastructure concern."
+        }
+      }
+    },
+    {
+      "block_id": 15,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 736.04,
+      "end": 766.85,
+      "text": "seen those guys picking up with the uh man the brand sticking in my head but i can't say it uh cool sweepers or cool leaf pickers i think uh we're doing better than we were doing last year but i just want to make sure i encourage the city to not uh drop the ball in any transition that we're all ready to go because i will be very upset if this year i go to use the bike lane like i did last year and almost wipe out thank you that is genuinely all I have to say I hope you guys have a fun public hearing and have a great night thank you so much",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on street maintenance (leaf picking) and bike lanes, not municipally managed resources like electricity, water, or waste related to the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making, transparency, oversight, or distrust regarding the AI data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health impacts, air quality, noise, or trade-offs between economic benefits and well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations—only a general comment on city services unrelated to the AI data center."
+        }
+      }
+    },
+    {
+      "block_id": 169,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 4536.28,
+      "end": 4544.28,
+      "text": "puc rate case um what changes uh is an incoming administration going to consider um you know so",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague and lacks specific mention of municipal resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment references an 'incoming administration,' which could imply a shift in governance or decision-making, but it is too brief to clearly engage with transparency, oversight, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, quality of life, noise, air quality, or health trade-offs."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 174,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4632.86,
+      "end": 4734.98,
+      "text": "2026. uh nevertheless uh you know uh one thing i've said here before is uh i would like to see you know council visibly engage in this room with this budget you know to my mind that would potentially involve deliberation possibly even um you know proposing amendments uh council has always had the ability to propose amendments provided that we do not uh exceed our revenue projections uh that power is preserved in the home rule charter so you know been covering council since 2015 would really be cool to see that happen at least once if council were to want to take a look at some some options when the budget went back for a second go-round most of the major line items were not changed two that remained unchanged were parks and rec and the fire department not saying i haven't taken a deep dive to know if if either of those areas would be susceptible to some pruning. But most of the other departments, as far as I could tell in my top line glance, did appear to take some haircut in that process. Lastly, and I see my time is clicking. Hope counsel could give me a little bit of indulgence here. Couple of things. The revenue and expense terms in the chart that's above there, above your heads in 2026, the revenue and expenses",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on budget deliberation and council procedures, with no mention of infrastructure, utilities, or resource strain related to the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly critiques the council’s process, calling for visible engagement, amendments, and scrutiny of budget decisions—directly addressing transparency, accountability, and procedural fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or well-being; the comment is purely procedural and fiscal."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Mention of budget cuts to parks/rec and fire department *could* subtly imply resource redistribution, but the focus remains on municipal budgeting, not systemic inequality or AI-specific power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 176,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4738.02,
+      "end": 4783.43,
+      "text": "in the budget document itself. I'm not sure why that would be the case. So I have that question. This is a bit of a look back, but in 2026, we are I'm sorry when we move from 2024 to 2025 the water fund fees were projected rise from I believe 34 and change to 38.8 I've asked director Campbell this but I'm I'm curious as to why there was such a big jump in projected water revenue that seems to be one reason why we're facing a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.9,
+          "reasoning": "Directly references water fund fees and projected revenue increases, framing municipal water supply as a financial burden and resource under strain."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "Questions the city's budget projections and engages with municipal decision-making by asking Director Campbell for clarification, indicating distrust or curiosity about transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Indirectly touches on financial burden but lacks explicit framing of inequality, historical patterns, or vulnerable populations."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "title": "City Council Ethics Code Work Session - November 6, 2025",
+  "video_id": "VZRKugPc6QU",
+  "upload_date": "20251107",
+  "model": "gemma-4-4b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 75,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1707.58,
+      "end": 1723.53,
+      "text": "and I was given a ticket for that, is that a violation of this? It shouldn't be if I'm actually serving on the board. Non-pecuniary public awards in recognition of public service.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses ethics codes and public service awards, not the strain on city utilities or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The speaker is directly questioning the application of municipal rules (Ethics Code) and the fairness of official actions regarding board service."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address physical health, air quality, noise, or quality of life related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "While related to governance, the focus is on procedural rules rather than the unequal distribution of economic or environmental burdens."
+        }
+      }
+    },
+    {
+      "block_id": 90,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1930.69,
+      "end": 1959.97,
+      "text": "about wrongful acts we're talking about a wrongful complaint so complaints filed when there's no real basis for doing so without any real facts those should be subject to a penalty so that we make sure that what we don't get is a series of complaints that have personal attacks built into them that don't have any merit or basis that are spending city resources in the form of the investigators that are will discuss later and that are involving the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment mentions complaints spending city resources (investigators), which tangentially relates to municipal capacity, but the focus is on the nature of the complaints, not infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker is directly addressing the integrity and proper functioning of the municipal process by calling for penalties against baseless complaints that waste city resources."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss physical health, air quality, noise, or quality of life impacts related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The comment touches on the misuse of power within the municipal system (filing baseless complaints), but it is not focused on the distribution of economic or environmental burdens."
+        }
+      }
+    },
+    {
+      "block_id": 149,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2832.79,
+      "end": 2861.11,
+      "text": "to date and open to questions I have a question for you maybe I missed it somewhere in here is there any provision for appeal whether by the complainant if the violation is not deemed it isn't successful in the preliminary investigation or the investigation process or by the subject so if for the complainant no once the investigator determines that there's no violation or",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on procedural rules for ethics investigations and does not mention city resources like water, power, or budget."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "This comment directly questions the procedural mechanisms of the investigation process, specifically regarding appeal rights for both complainants and subjects."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The discussion is purely administrative and procedural, containing no references to physical health, air quality, or noise."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "While procedural fairness relates to power, the comment is too narrowly focused on the mechanics of an appeal to score highly on systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 156,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2970.9,
+      "end": 2988.88,
+      "text": "that makes sense thank you and again that's a preservation of resources um and also um protecting those who are complained about from a process that shouldn't happen if there's nothing that's been presented that it's on its face leaves one to believe it should it should continue",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.3,
+          "reasoning": "The comment mentions 'preservation of resources,' which aligns generally with Theme 1, though it is vague."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker discusses the fairness of a 'process' and what 'shouldn't happen,' directly engaging with procedural legitimacy and accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention physical health, air quality, noise, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.4,
+          "reasoning": "The reference to 'protecting those who are complained about' touches on issues of vulnerability and fairness within the system."
+        }
+      }
+    },
+    {
+      "block_id": 166,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3100.04,
+      "end": 3116.11,
+      "text": "And I think my question is a little bit similar to the Consul President's question. Will there be an appeal process if a respondent believes that a fighting was made in error?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses an appeal process related to a 'fighting' error, which is unrelated to city resources like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The question directly addresses procedural fairness and recourse within a system, aligning with concerns about how municipal processes operate."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health concerns, pollution, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "While procedural fairness touches on power, the comment is too narrowly focused on an appeal mechanism to strongly engage with themes of systemic inequality or resource distribution."
+        }
+      }
+    }
+  ]
+}

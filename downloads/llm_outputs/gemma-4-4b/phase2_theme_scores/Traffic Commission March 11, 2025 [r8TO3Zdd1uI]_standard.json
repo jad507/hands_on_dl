@@ -1,0 +1,945 @@
+{
+  "title": "Traffic Commission March 11, 2025",
+  "video_id": "r8TO3Zdd1uI",
+  "upload_date": "20250312",
+  "model": "gemma-4-4b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 864.44,
+      "end": 873.44,
+      "text": "You mentioned that in the future you might add another ramp and a crosswalk. Is that a future project just because it involves more cost than putting up the signs?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.3,
+          "reasoning": "The comment questions the prioritization of infrastructure improvements (ramps, crosswalks) based on cost, which relates to municipal budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "It touches on the planning process by questioning the sequencing of future projects, but it is not primarily about transparency or official conduct."
+        },
+        "health_and_well_being": {
+          "score": 0.1,
+          "reasoning": "The mention of a crosswalk relates tangentially to pedestrian safety, which is a component of quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses narrowly on cost-benefit analysis of specific traffic improvements rather than broader issues of wealth distribution or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "Josh Novak",
+      "start": 1214.26,
+      "end": 1313.76,
+      "text": "requester is mr josh novak yes yes um good afternoon i'm josh novak i'm the general manager for the lancaster marriott and lancaster county convention center and before you as the agenda indicated is the renewal um for utilization of the parking spots uh designated parking spots there on east king street right in front of the hotel and plow restaurant as activity at the hotel and convention center continues to increase these spots are really imperative to help accommodate uh arriving guests for both the hotel and events as you know if you've been downtown our driveway is a bit limited so when there are heavy activity going on there these spots are very very important for us to help unload guests and those who are arriving to the facility it also cuts down tremendously on volume of cars who are coming up queen street towards penn square who are in that turning lane waiting to turn into the driveway so uh we have been leasing them from the lancaster parking authority uh and it continues to be a very important area for us and it is currently legally a loading zone i mean yes we un i don't know the official designation of it but it we use it for loading and unloading yeah it is not it's not used to park it's it's for loading and unloading and we are a 24-hour business so this happens um around the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment mentions leasing parking spots from the Lancaster Parking Authority, which is a municipal entity, but the focus is on operational necessity rather than strain on core utilities."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a business request regarding parking utilization and does not address how municipal decisions were made or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The speaker discusses traffic flow and guest accommodation, with no mention of health impacts or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a commercial request for resource use and does not engage with broader themes of wealth distribution or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 1484.04,
+      "end": 1503.87,
+      "text": "for valet services for sure i would just say somebody who has used a hotel i might not have read it ahead of time that I'm supposed to go in the garage initially until I went and got it doesn't surprise me that even if you're trying to get folks to go",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses valet services and hotel procedures, which does not relate to city utilities or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a personal anecdote about a hotel experience and does not address the municipal decision-making process or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no mention of health concerns, air quality, noise, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is focused on a service experience and does not engage with broader issues of wealth distribution or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 1587.46,
+      "end": 1597.07,
+      "text": "discussion any discussion from the public parking authority supports the request I'm sorry parking",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a procedural statement regarding parking authority support and does not address resource strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a brief procedural note and does not engage with issues of transparency or decision-making fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no mention of health, air quality, noise, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely administrative and does not discuss the distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 1641.0,
+      "end": 1659.66,
+      "text": "he was gonna be here tonight and well he looks like a good man to be on this",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a personal endorsement of an individual and does not mention city resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions are made, transparency, or the conduct of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns, pollution, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a personal observation about a person's character and does not engage with systemic power structures or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 1720.19,
+      "end": 1731.71,
+      "text": "the loading zone i think we talked about the fact was going to be a loading zone on lemon street",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment only discusses a loading zone on a specific street and does not mention strain on utilities or city resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a factual reference to a prior discussion and does not address how decisions were made or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, or air quality in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely logistical regarding street use and does not address broader issues of cost distribution or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 54,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 1758.32,
+      "end": 1784.84,
+      "text": "and that's and that was a three today and there's four there right now the fire engine couldn't even turn to get down or tractor and trailer cannot turn at that street right now I've had loading zones for 65 years and all of a sudden we're not using",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on existing traffic and infrastructure limitations (fire engine access, turning radius) rather than the strain of a data center on utilities or budget."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or the conduct of city officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The speaker discusses traffic flow and access issues, which are logistical concerns, not direct health impacts like noise or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a localized complaint about current street functionality and parking availability, lacking a broader critique of wealth distribution or systemic power imbalances."
+        }
+      }
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 1888.95,
+      "end": 1948.96,
+      "text": "sergeant drays told me something completely different he said it was not up to him and he came out and spoke against me here when I called when I called when this all happened I don't know why after 41 years nobody on the block ever complained and all of a sudden there was a person complaining I'm not complaining about loading zones that are 24 7 7 days a week I'm not asking for something like that which there are in the city I'm not asking for a loading zone in front of the liquor control store which they they load from the side. So it's all retail. So if somebody loses our loading zone, which I pay for, and goes to Lancaster Pickle Company, that's not good if you can't get a parking space on the block. They can't",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on parking and loading zones, which are local traffic management issues, not the core municipal resources like water or power infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "There is a minor mention of conflicting information from a city official ('sergeant drays told me something completely different'), but the focus is on a specific local dispute."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address noise, air quality, or any direct health concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The narrative is a localized dispute over parking rights and commercial access, lacking broader commentary on systemic inequality or resource extraction."
+        }
+      }
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 2000.69,
+      "end": 2028.9,
+      "text": "request was withdrawn at the meeting and it looks like in the intro there's been a new request that was handled administratively for a handicapped parking spot which has been installed and then another request for a load zone and i see um that the recommendation from summer i believe was to deny it because it seems like a more appropriate space for a load zone would be mid-block.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses parking and load zones, which are related to municipal services, but does not address core resource strains like water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment references administrative handling of requests and prior recommendations, touching lightly on the procedural aspects of city decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on traffic and parking logistics and does not mention health, noise, or air quality concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely administrative regarding traffic flow and does not engage with broader issues of wealth distribution or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 2030.25,
+      "end": 2042.99,
+      "text": "So you're putting the loading zone that people use on Lemon Street so when the purveyors that go to the Belvedere, they have to cross two intersections",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses traffic flow and loading zones, which relates to municipal services but does not specifically address core resources like water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a direct operational critique of a traffic decision, not a commentary on the fairness, transparency, or process of how the decision was made."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses purely on logistical inconvenience (crossing intersections) and does not mention health impacts like noise or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment addresses a localized logistical issue for purveyors and residents and does not engage with broader themes of wealth distribution or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 2075.32,
+      "end": 2106.99,
+      "text": "No, south would be, yes, I guess, if you want to call it south, yeah. So there is even another loading zone space at Lemon and Duke, which is not even used anymore. That's used for going to the funerals and the dentist offices and places like that. That's not loading and unloading either. So you have four car parking space on Lemon Street that has no businesses.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on parking and loading zones, which are related to traffic management rather than core municipal utilities like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or the conduct of city officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, or direct health impacts related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a localized observation about street space allocation and parking availability, not a broader critique of wealth distribution or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 76,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 2159.73,
+      "end": 2185.98,
+      "text": "fine, just as long as we have a loading zone. We have Airbnbs, we've got antique shops, we've got pickle shops, we've got nail salons, they all get shipments. What people are used to is they're used to the loading zone at this location. That's why I said it'd be more convenient and I'd be willing to pay for",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on commercial logistics (loading zones) rather than strain on core municipal utilities like water or power."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or accountability in the municipal process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, or direct health impacts related to the development."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely transactional regarding commercial convenience and does not address broader issues of wealth distribution or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 78,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 2198.06,
+      "end": 2258.91,
+      "text": "what the requests were or how it got changed but but I did after after the final summary of all this went down which I was very new I thought it was a a handicap and adding the loading zone to the behind the handicap section. When Travis Goode came to our place, he said when they were putting the 20.9 setback, he said they would probably add the two parking spaces behind that, and that calmed us down. I mean, we were all upset, you know, without notice and everything else that's happened to us. I think it's not the right way to do business, and I think we should be treating businesses in Lancaster a little bit better than what we're doing here.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on parking and zoning changes, not on strain on utilities like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker explicitly complains about lack of notice and the process by which changes were made, indicating a concern over how decisions were handled."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns related to physical health, noise, or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The speaker expresses a feeling of being treated poorly by the process, suggesting an imbalance in how the community is being managed by local entities."
+        }
+      }
+    },
+    {
+      "block_id": 82,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 2277.11,
+      "end": 2282.38,
+      "text": "Why not put it back where it was originally? Can I ask that question?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention city resources, utilities, or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "It is a procedural question about location, which touches lightly on the decision-making process, but lacks substantive critique."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no reference to health impacts, air quality, or noise."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely logistical and does not address issues of cost distribution or power imbalances."
+        }
+      }
+    },
+    {
+      "block_id": 85,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "Larry Cohen",
+      "start": 2288.84,
+      "end": 2336.06,
+      "text": "Larry Cohen, Parking Authority. There was a mid-block loading zone that was paid for by building characters. They had it for several years. Marty gave it up, I think, at least over a year ago. because he stated that folks were just parking there and it wasn't being used as a loading zone. So I just wanted to let you know whatever decision you make, there was a mid-block pretty much in front of building characters. Of course, we need to enforce it, right? So that folks are not just parking there. But in the recent past, there was and it was given up by the building characters who paid for it. So I just wanted to let you know that.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses parking zone allocation and enforcement, which is a municipal function, but it does not address core resources like water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker is providing historical context regarding a municipal decision (giving up a loading zone), which touches on administrative process, but it is not a critique of transparency or governance."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment is entirely focused on parking logistics and zoning, showing no connection to physical health or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the uneven distribution of costs or benefits, nor does it reference vulnerable populations or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 87,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 2347.46,
+      "end": 2382.22,
+      "text": "because everybody knows it. The people from out of town, they know it. They go to the Belvedere, the meat guys, the booze guys, you know, they all go there. So it's convenient. Our guys know it. All the postmen, all the drop-off guys to the pickle shop and all that there's all there all that the Korean restaurants they drop they park down there and put their food bring their food up to the restaurant yeah it's I mean you know and it's safer",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses local traffic patterns and business convenience, not the strain on city utilities or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or the conduct of city officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on convenience and safety related to local commerce, not on physical health risks like noise or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "It vaguely references different groups ('out of town,' 'our guys') using a specific location, but it does not engage with systemic power imbalances or unequal distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 92,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 2432.15,
+      "end": 2450.28,
+      "text": "so marty from building characters had made the request for that loading zone mid-block on queen and he means he paid for it over the however many years and within the last year or two He said he did not want to pay for the loading zone anymore.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses a private request for a loading zone and payment history, which does not relate to city-wide resources like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a specific anecdote about a private agreement and payment, not a critique of the municipal decision-making process or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on a localized, private financial transaction regarding a loading zone, lacking broader themes of systemic inequality or resource distribution."
+        }
+      }
+    },
+    {
+      "block_id": 93,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 2450.28,
+      "end": 2453.38,
+      "text": "So the mid-block loading zone was removed?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is solely about a change in traffic infrastructure (loading zone) and does not mention utilities, water, or city budget strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a simple factual inquiry about a change, not a critique of how the decision was made or a demand for oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address noise, air quality, or any direct impact on residents' physical health or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or pays, nor does it connect the traffic change to broader issues of wealth or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 96,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 2462.86,
+      "end": 2468.86,
+      "text": "Well, that wasn't the original request, but if you're modifying that request... You've changed the request around. If you want to...",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is purely procedural and does not mention city resources like water, power, or waste."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker is commenting on a change or modification to a request, which relates to the process of decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any physical health concerns, noise, or air quality issues."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on the mechanics of the request change rather than who benefits or bears the costs."
+        }
+      }
+    },
+    {
+      "block_id": 102,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 2491.26,
+      "end": 2496.06,
+      "text": "Well, we have to enforce it, for sure.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a general statement about enforcement and does not mention city resources like water, power, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The phrase 'we have to enforce it' vaguely relates to the need for rules or oversight, but lacks specific engagement with process transparency or distrust."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address noise, air quality, or any direct health concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is too brief and general to engage with themes of unequal distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 105,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 2505.18,
+      "end": 2519.49,
+      "text": "I think Marty was paying for that loading zone that's a whole nother",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses a specific loading zone payment, which does not relate to the city's core utilities or infrastructure strain from data centers."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a brief, localized observation about a payment, not a critique of the decision-making process or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, air quality, noise, or quality of life related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is too narrow and localized to engage with broader themes of wealth distribution or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 112,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 2586.96,
+      "end": 2605.4,
+      "text": "The more action is down this way because they can hit the Belvedere, they can hit the store across the street, they can hit all the antiques, and they can hit the gallery, and they change over. They can hit the pop-up shop, and they change constantly.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on local traffic patterns and commercial activity, not on city utilities or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no discussion regarding the decision-making process, transparency, or accountability of city officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment discusses commercial accessibility and traffic flow, not direct impacts on residents' physical health or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "It vaguely touches on the economic vitality of a specific commercial area, but does not address systemic power imbalances or unequal distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 135,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 2907.39,
+      "end": 2962.56,
+      "text": "answer that question here but why why is neither block from this block there's no setbacks. So on North Queen Street. So you're parking within 20 feet of a crosswalk based on the vehicle code. But that's not true because on Chesson Street, there's no setback. Well, it's not, it's not marked everywhere. But that's just what the vehicle code says. Just like you can't park 15 feet from a fire hydrant. So mine was the first one on Queen Street to get this. I'm sorry? My, my block and my, that corner there was the first one to get this on Queen",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on local traffic and parking regulations, not on city utilities or resource strain."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker is referencing and questioning the application of existing municipal codes (vehicle code), which touches tangentially on governance, but is not about the decision-making process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The discussion is strictly about parking regulations and traffic placement, with no mention of health impacts or quality of life beyond traffic flow."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the distribution of costs, benefits, or power dynamics related to the data center project."
+        }
+      }
+    },
+    {
+      "block_id": 139,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 3007.15,
+      "end": 3042.71,
+      "text": "I trust your opinion. My digging in is it doesn't do anything. It takes up parking spaces. That's what it does. It sets back people. Now you have on Lemon Street you still have two loading zones on Lemon Street at two different locations with no businesses. What happens there? Does that make sense?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment mentions parking spaces and loading zones, which relate to municipal infrastructure, but the focus is on local street use rather than core utilities like water or power."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or the conduct of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, or direct health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "The speaker points out how the development negatively impacts existing community resources (parking/street space) and affects local residents."
+        }
+      }
+    },
+    {
+      "block_id": 147,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 3066.97,
+      "end": 3090.97,
+      "text": "And the second one is at the apartment building right across the street where I'm at. They have a loading zone in the back in the garage. You go in the garage and you load all your furniture up and it goes up the elevator. Why is there two there? There's only a corner store and a hair salon there. And she only has one appointment a day.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses local commercial activity and parking/loading zones, not the strain on city utilities like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or the conduct of city officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on local business logistics and traffic flow, not on health impacts like noise or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a localized observation about commercial density and logistics, lacking commentary on systemic inequality or resource distribution."
+        }
+      }
+    },
+    {
+      "block_id": 150,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 3104.71,
+      "end": 3116.6,
+      "text": "zone I mean have people sleeping on the ground okay okay okay thank you very",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention city resources, utilities, or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made or the transparency of the process."
+        },
+        "health_and_well_being": {
+          "score": 0.1,
+          "reasoning": "Mentioning people sleeping on the ground touches tangentially on social well-being, but is not directly related to data center health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The comment highlights a visible social issue (homelessness) which relates to the uneven distribution of community burdens and vulnerability."
+        }
+      }
+    },
+    {
+      "block_id": 156,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3227.35,
+      "end": 3253.58,
+      "text": "public right of way well actually it is and that's what i'm trying to to do with that is show that it is a public street and it has gone back and forth over 50 years that i've been involved with it that is private or public and i i don't understand what the city's problem is with it if it's not if it's not a public street then really no street in the city of lancaster is",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on the legal status of a street, not on the strain of utilities or municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker is challenging the city's determination regarding the public nature of a right-of-way, which relates to municipal governance and decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention noise, air quality, or any direct impact on resident health."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is narrowly focused on property/street classification rather than broader issues of wealth distribution or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 160,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3366.88,
+      "end": 3390.56,
+      "text": "that adjudicates that type of a case well okay when i was talking with the city's council for this uh neil albert we agreed that it was they agreed it was a city street their only contention was the width of the street the city at that point in time that was their only contention",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on a past agreement regarding street classification and width, not on the strain of utilities or resources."
+        },
+        "municipal_process": {
+          "score": 0.4,
+          "reasoning": "It references a prior agreement made with the city council, touching upon the procedural history of a local decision."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns related to health, air quality, noise, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is purely administrative regarding street designation and does not address broader issues of wealth distribution or power imbalance."
+        }
+      }
+    },
+    {
+      "block_id": 162,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3414.86,
+      "end": 3421.93,
+      "text": "did the city patch some of the potholes it may have been a mistake no they've always they've",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment mentions potholes, which relates to municipal maintenance, but it is a very general complaint not specifically tied to the AI data center project's resource strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or official conduct regarding the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on road conditions and does not discuss noise, air quality, or direct health impacts from the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a localized complaint about infrastructure maintenance and does not engage with broader issues of wealth distribution or systemic power."
+        }
+      }
+    },
+    {
+      "block_id": 165,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3462.6,
+      "end": 3478.52,
+      "text": "okay it'll tie up the traffic some of the times then because we have to unload tractor trailers i mean we've been operating there for next year next year will be our 100th year of operating there so it'll just tie up the traffic when we have to unload tractor trailers",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses solely on traffic congestion from commercial operations, not on strain on municipal utilities like water or power."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or the conduct of city officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "Traffic congestion is a logistical issue, but the comment does not connect it to specific health impacts like noise or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "It touches slightly on the operational impact of a business, but it does not frame this in terms of unequal distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 173,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 3702.03,
+      "end": 3787.97,
+      "text": "So during the daytime, as you see the pictures here, the tow trucks are parked. They're legally parked. So like I said, they do not fall under the commercial vehicle designation. designation. So you could post the, you know, no commercial vehicle signs just as they're posted in 11 o'clock, but it wouldn't apply to these particular vehicles. So the best way to enforce is either to have people constantly call or have two or three blasts where they're ticketed and get the message. So the correspondence I had back and forth was that it was resolved, at least for that period of time. um like speaking to the tow truck owners they were willing to move their vehicles have their small tow truck there parked to the rear of the property as long as it was uh part of an approved path for parking within the residence um so at this point in time i hadn't heard anything else from uh the person who had initially lodged a complaint it would take some follow-up if to see whether they're still having an issue but again it's happening at night you know that's at the time that we can actually, you know, bring any sort of enforcement and quite frankly, people just aren't up in the middle of the night looking out their window to see if there's a tow truck park there. Council member, you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on parking enforcement and traffic regulations, not on city utilities or resource strain."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "The speaker discusses the process of resolving a complaint and the limitations of current enforcement methods, touching on municipal procedure."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The discussion is purely logistical regarding vehicle parking and enforcement, with no mention of health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the distribution of costs or benefits related to the AI data center or broader societal inequalities."
+        }
+      }
+    },
+    {
+      "block_id": 175,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 3798.08,
+      "end": 3832.32,
+      "text": "but I didn't. I would have to schedule for her to come in to see because she does work, so she's not able to come around this time. But she did bring it to my attention. And the elderlies that are living on the opposite direction that the neighbor question was, they're elderly, and they had to get to garages in order to avoid the constant trying to get parking, because those tow trucks are there.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on parking and tow trucks, which relates to local traffic management but does not specifically address municipal resources like water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a personal anecdote about a neighbor's issue and does not address the process of decision-making, transparency, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.1,
+          "reasoning": "The comment mentions the difficulty elderly residents have navigating parking issues, which touches slightly on quality of life, but it is not a direct health concern."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The comment highlights an unequal burden placed on elderly residents who must struggle with parking issues caused by tow trucks, suggesting a disparity in how neighborhood issues are managed."
+        }
+      }
+    },
+    {
+      "block_id": 179,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 3910.33,
+      "end": 3928.81,
+      "text": "enforcement well if they have a park there when the majority of the community that comes home from work and they do have to move it in order for them to have the space there to park so I would say they'd have to move it out of the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on parking space and park relocation, which does not directly address municipal utilities like water, power, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss how decisions were made, transparency, or the conduct of elected officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The discussion is purely logistical regarding parking and park space, with no mention of noise, air quality, or health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "A very slight connection exists as it touches on the allocation of public space (park vs. parking), which relates to resource distribution, but it is not a core critique of power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 184,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 3980.81,
+      "end": 4012.2,
+      "text": "I think part of it may be having clarity in the immediate neighborhood of what to do and when these vehicles are allowed and when they're not allowed, so that one gets into the right rhythm, but also enforcing the trucks not being there when they're not supposed to be there, so that there's greater flexibility in terms of parking availability.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on traffic flow and parking regulations rather than the strain on core municipal utilities like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or the conduct of elected officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The discussion is purely logistical regarding vehicle movement and parking, not related to noise, air quality, or direct health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a localized operational request about traffic management and does not engage with broader issues of wealth distribution or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 187,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 4038.02,
+      "end": 4083.98,
+      "text": "Okay. Like I said, I spoke to her in January of this year. And like I said, I don't have the dates on when we issued tickets, but we did issue tickets on all of our tow trucks, which the vehicle owner called me, upset about it, obviously, responded to the station, spoke to the desk sergeant. uh, sort of consider also spoke to, um, the total tow truck over because they are one of our proof totals and advise them on what the ordinance is and what the expectation was. So, um, I don't mind following up with her to see if the problem still is persisting or if it hasn't been resolved. That would be",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses traffic enforcement and towing procedures, which are administrative functions, not the strain on core utilities like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker is describing an administrative follow-up process regarding ordinance enforcement, which touches lightly on municipal procedure."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on traffic violations and towing, showing no engagement with physical health or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The narrative is a procedural update on a specific enforcement action and does not address broader issues of wealth distribution or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 190,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 4114.54,
+      "end": 4148.38,
+      "text": "So it would be greatly appreciated if you can follow through and see if that situation has changed. Now that the weather is changing, it may be something that needs to be repeated in order to reinforce to people that they shouldn't be parking here. Yes. When they're not allowed to be parking there, but get into the right rhythm of it. Correct. Thank you. so is there any further action to be taken on that particular item",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on parking enforcement and traffic patterns, not on city utilities or infrastructure strain from data centers."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker is asking about the follow-through and next steps on a specific municipal item, which touches lightly on process accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention noise, air quality, or any direct health impacts related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is narrowly focused on parking regulations and enforcement, lacking broader commentary on wealth distribution or systemic inequality."
+        }
+      }
+    }
+  ]
+}

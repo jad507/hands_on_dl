@@ -1,0 +1,373 @@
+{
+  "title": "Planning Commission Meeting - September 3, 2025",
+  "video_id": "5PuBv9zFX3I",
+  "upload_date": "20250904",
+  "model": "gemma-4-4b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 1281.57,
+      "end": 1300.8,
+      "text": "hi just a couple questions how old is the existing store that's on the site and i was wondering if you possible just to briefly summarize um how the current the new store differs from the current one is it going to be like a larger store does it have more pumps",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on retail store characteristics (size, pumps) and does not mention city utilities or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is asking logistical questions about a store's physical attributes, not commenting on the decision-making process or transparency of the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely informational regarding a retail site and does not address issues of wealth distribution, vulnerable populations, or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 1410.81,
+      "end": 1432.97,
+      "text": "with where it is now great i do got some uh kerosene is still going to be an option at this store after the remodel is done no more kerosene losing a diesel pump fun fact i trained in this store uh it's a fun time uh just my only thing is keep the ice the same i don't like that nugget ice",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses local store operations (kerosene, ice) and does not reference city infrastructure, utilities, or resource strain from the data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a personal observation about a local business remodel and does not address the decision-making process or transparency of the city council."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment mentions kerosene and ice quality but does not connect these to the health risks, air quality, or noise pollution associated with data centers."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is focused on consumer preference regarding a local store's amenities and does not engage with broader issues of wealth distribution or systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_11",
+      "speaker_name": "unknown",
+      "start": 1656.28,
+      "end": 1687.0,
+      "text": "question you did give a timeline the project okay completion maybe okay thank",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment only asks for a project timeline and does not mention strain on city resources like water or power."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "Asking for a timeline relates to the process of project execution, suggesting a need for clarity on how the project will unfold."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no mention of health impacts, noise, or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely logistical and does not address issues of who benefits or who bears the costs."
+        }
+      }
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 2749.96,
+      "end": 2842.84,
+      "text": "I mean as I recall when we were talking about setting up public hearing really wasn't done with the intention that we would actually impact or change the zoning decision I recall it really being that we just needed to learn more about how the decision was made so I don't think there was any disillusionment on this body that we were somehow going to you know reverse the zoning officers decision at that hearing or our impact you know the course of what was already done at that hearing I think we were just interested in giving the public an opportunity to understand because as we all know land use decisions land use and zoning is not always one a topic that's easily understood by the public is because it's very niche and often obscure process to the layperson so now the question in my mind is now is that something I think this we should still engaging on some level you know it's just you know having staff explain how the decision was made just so the public has an understanding of how it was made is that something that is worth going through the additional work of setting up a public hearing or can that just be a briefing item at a future regular meeting so the public can still have that information on how the decision was accomplished how the decision was made so necessarily going through the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on the process of decision-making and public understanding, not on resource strain like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker directly discusses the purpose of public hearings, the need for public understanding of zoning decisions, and how information about the decision was conveyed."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The comment touches lightly on the power dynamic of complex, obscure land use decisions being difficult for the layperson to understand."
+        }
+      }
+    },
+    {
+      "block_id": 62,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 2955.75,
+      "end": 3091.54,
+      "text": "that's something yeah i just wanted to uh kind of support uh what um porter was saying you know i think the idea was to get information about how this decision was made i think it's disappointing to me that the administration has chosen not uh to engage with that us on that i agree you know with this letter that obviously zoning we don't have authority over zoning but it is of our interest to know how our zoning code is being interpreted and how that process works so um you know i i am hopeful that some of that information will come out at the zoning hearing board um i again been disappointed the administration's not sharing any of that information uh i checked the you know the frequently asked questions uh page again there's no mention of the you know use not provided for that is in the zoning code that could have been applied in this case there's been no information about why that wasn't applied so that's what i was hoping to get out of a hearing um you know but if the administration is not going to participate i would agree with uh with porter at least having you know at our maybe it's the october meeting or later after we have the information that was shared the zoning hearing board for us to better understand how those decisions were made i also want to say i think i think it has not been like it's been confusing both in the reporting of lmp and the council meeting when we're talking about the zoning amendment there folks think that this is going to apply to the current projects and i don't see that i don't see any avenue for that and again it feels like we're not being transparent about that i mean we would probably have a lot more people here tonight if they knew that was the case so i think it's really important that the administration is clear about what that zoning amendment can and cannot do and again we just haven't seen much transparency on those issues so some of this um you know i think there's two separate things here definitely supporting the the zoning amendment you need to be clear that that does not apply uh to the the current projects um and then i still think we need answers about how this original decision was made and if we don't get that at the zoning hearing board um",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on procedural issues and transparency, not on the strain on city utilities like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker repeatedly expresses disappointment over the administration's lack of engagement and transparency regarding how zoning decisions were made."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, or any direct health concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The comment touches on the power dynamic between the public and the administration regarding information control, but it is primarily procedural."
+        }
+      }
+    },
+    {
+      "block_id": 64,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 3098.26,
+      "end": 3230.02,
+      "text": "stolzbus and mr stevens over here um i'm open to the idea of not having a public hearing if we're not going to get the participation of the administration which i also think is a disappointment uh disservice to the residents of the city of lancaster who want transparency i feel like what we were doing as many or yeah i'll say many of us up here have been saying uh we've been in the pursuit of information um so i do want to call to light uh what number is this a h of our powers um requests from other departments and agencies of the city all information available which relates to the work of the commission i think it's important for us in the process of drafting this new zoning ordinance to also reflect on the conversations that have occurred between the developer and city zoning and i'm an open government guy i know that that sometimes is a little bit worrisome in government because a lot of information information overload but i feel like the public deserves to see the documentation that has been for example provided to lmp i believe through right to know requests and hopefully have that information available to the public ideally accessible on the faq page for the data center on its website prior to the zoning hearing board meeting because this is ultimately residents as far as i understand it currently this is residents speaking their interests trying to do what they can to have an impact in their community and i feel what we can do is this body is give them as much information as possible to equip them for the argument that they have to make before this quasi-judicial body so i do feel that we should at least exercise ah and request these prior conversations between the developer and our city zoning office and make those documents available to the public i'll put my two cents in",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention strain on utilities, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly demands transparency, access to documentation from developer-city conversations, and criticizes the lack of administrative participation."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on procedural fairness and information access, not on physical health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The speaker touches on the power imbalance by advocating for residents to be equipped to challenge the process, but the focus remains procedural rather than systemic inequality."
+        }
+      }
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_13",
+      "speaker_name": "unknown",
+      "start": 3230.02,
+      "end": 3260.53,
+      "text": "as well um agreed i don't think we need a public hearing but and especially because i think the public may be confused about our role but i do think we should keep it as an agenda item possibly on that october first meeting for having it um still just to allow for it to be part of the conversation again in lieu of a public hearing i mean i would agree with that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any strain on city resources like water, power, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.4,
+          "reasoning": "The speaker is directly discussing the procedural aspects of the meeting, specifically the need for a public hearing and how the topic should be managed by the commission."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses purely on procedural logistics and does not address who benefits or who bears the costs."
+        }
+      }
+    },
+    {
+      "block_id": 67,
+      "speaker": "SPEAKER_11",
+      "speaker_name": "unknown",
+      "start": 3362.64,
+      "end": 3391.8,
+      "text": "say i'm in support of the commissioner's um requests in terms of this data center and the hearing you know I think it's important for the transparency you know I think the character of this commission we thrive and we respect transparency so I think that's important we want to make sure that that's that continues to go",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any strain on city resources like water, power, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker explicitly supports the commissioner's requests regarding transparency and the character of the commission."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no mention of health concerns, noise, or air quality related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses solely on procedural integrity and transparency, not on the distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 68,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 3391.8,
+      "end": 3424.8,
+      "text": "forward in light of transparency are we able to put this schedule that's on the bullet on the faq page just so it's easily accessible by the public to be able to see when these milestones are being met and to know when um key participation opportunities will present themselves what does it mean you can check like is that like a hard process is there",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention strain on city resources like water, power, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly asks for transparency by requesting that project milestones and participation opportunities be made easily accessible to the public."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on procedural information access and does not address physical health or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "There is a very slight implication of unequal access to information, but the focus remains procedural rather than on systemic power imbalances."
+        }
+      }
+    },
+    {
+      "block_id": 83,
+      "speaker": "SPEAKER_13",
+      "speaker_name": "unknown",
+      "start": 4075.6,
+      "end": 4100.03,
+      "text": "can this memo be made public or is that not do we have a motion on the floor okay mr chair i would",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any strain on city resources like water, power, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker is directly questioning the public availability of a memo, which relates to transparency and the process of information sharing."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no reference to health concerns, pollution, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses narrowly on procedural access to documents rather than broader issues of who benefits or who bears the cost."
+        }
+      }
+    },
+    {
+      "block_id": 85,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 4131.46,
+      "end": 4210.44,
+      "text": "very briefly just to clarify I think some of my earlier comments and questions that my only purpose really to suggest some of the things we talked about was really in the interest of public education I certainly did not want to give the impression that was in any way trying to undermine the credibility of staff i know you'll work extraordinarily hard and i certainly i may not have agreed with the decision made by the zoning officer totally appreciate that he made that in his professional capacity and speaking as someone who has sat on the other side of that desk i know that is rarely an easy thing to do so i just really want to emphasize that my interest in making some of suggestions i made earlier was really in the interest of public education just to help the public understand how some of these processes work because it's not always immediately apparent so i do apologize if some of my comments gave the impression that i was trying to dig for something that could undermine the credibility of staff i know we are extraordinarily fortunate in this city to have an incredibly talented and hard-working group of people supporting the work that we do so i just wanted to make sure that was on the record and i do apologize again if any of my comments seem to suggest otherwise that's excellent question all in favor",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any strain on city resources like water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker discusses the zoning process and the role of staff, but the focus is on clarifying intent rather than criticizing the process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There are no mentions of health concerns, noise, or air quality in this statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is focused on procedural deference and education, not on the distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 90,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 4266.95,
+      "end": 4378.31,
+      "text": "what you said ms sufert about you know essentially community cooperation what we can do with more foresight um i there's two points to make and what i have to say i agree with you but i think the thing holding us back the most and i've said this for more than a year now is our lack of updates to the zoning code since we adopted the comprehensive plan i'm very upset that we are in this position in part because i feel somewhat responsible that we haven't done that work yet i don't fully understand why i respected uh the hecticness we experienced as a body and as a city with the departure of douglas after that moment but i feel like some of that work is the foresight we need to have for these things going forward we are in a specific situation right now though um as someone who works in municipal government i do respect the qualifications and experience of other municipal staff and other municipalities um but the thing that bothers me the most and why i want to know the background information is because a persuasion a persuasive argument for something that wasn't explicitly given in our zoning ordinance had to be made and as respectfully as i can say this i really want to understand why this data storage processing center is considered under the warehousing and storage use which explicitly excludes processing i understand that processing in different contexts has different impacts but it's very important to me to understand what case was made to make that reasonable in the eyes of our zoning officer and that's why i'm so dead set on trying to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment mentions the classification of the use (warehousing vs. processing) but does not directly address strain on utilities like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker is highly focused on the procedural aspects, specifically questioning the zoning classification and demanding to understand the rationale behind the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention noise, air quality, or any direct health impacts related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The speaker's focus is on regulatory compliance and process rather than the uneven distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 93,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 4444.37,
+      "end": 4459.16,
+      "text": "a timeline perspective and remind me when your proposals are due and when is the decision being",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention infrastructure, utilities, or resource strain."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker is directly asking for timelines and due dates, which relates to the procedural aspects of decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no reference to health, noise, or environmental quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses purely on administrative scheduling rather than the distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 100,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 4753.34,
+      "end": 4794.02,
+      "text": "information any public comment Taylor Taylor Taylor yep so that memo that you received I while we were sitting here I was trying to look online to see if it was made public made available to the public and I can't find it so where would I be able to see that or is it not actually available to the public at the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention city resources like water, power, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker is directly questioning the availability and public access to official documentation, which relates to transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses solely on document accessibility and does not address health concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a procedural inquiry about information access and does not address broader issues of wealth or power distribution."
+        }
+      }
+    }
+  ]
+}

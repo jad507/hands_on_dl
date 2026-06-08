@@ -1,0 +1,555 @@
+{
+  "title": "City Council Committee Meeting - September 2, 2025",
+  "video_id": "bNf9xj20-xg",
+  "upload_date": "20250903",
+  "model": "gemma-4-4b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 744.91,
+      "end": 754.86,
+      "text": "council colleagues thank you i would just like to say that uh miss finney has been a great public advocate for art here in the city and i look forward to seeing her reappointment",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention city resources, utilities, or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a general expression of support for a council member, not a critique of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on local advocacy for arts and does not address the distribution of costs or benefits related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_14",
+      "speaker_name": "unknown",
+      "start": 758.69,
+      "end": 774.67,
+      "text": "Councillor Kleeks. Just also want to add, many of you know Keisha through her work as an artist here in Lancaster City. And as someone that serves on that board, I think it's really important that we have local artists on that board. So I'm really glad that we're reappointing Keisha.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on local arts representation on a board and does not mention city resources like water, power, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "It touches tangentially on the composition of a governing board, which relates to process, but the focus is on artistic representation, not procedural fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns, pollution, noise, or quality of life impacts related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is about ensuring diverse representation (artists) on a board, not about the uneven distribution of economic costs or benefits from the data center."
+        }
+      }
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 1816.45,
+      "end": 1928.39,
+      "text": "not not the committee but i just want to thank um tina and the department of public works and with the assist from concord i think one of the things that's very momentous about this and i just don't want it to get lost in in the mix is the point that tina was making about the aggressive schedule in the past we have not been we have been borrowing money to do the design and then and then do the construction and we have had large sums of money that have been sitting not being utilized in in an aggressive time fashion and that is a habit that we have been trying to work ourselves out of I think for the last eight years because when you borrow money you should be spending it very quickly within three to four years you that money should be in the ground and then that should be coming back this is going to be really aggressive with a borrowing here we are at the end of almost you know the end of 2025 2028 this project is complete so two years in these are the kinds of benchmarks that council should be asking for in the future to really understand if the capital projects are indeed ready and that we're going to spend the money in the time frame that we need to and so i really applaud tina director campbell the directors campbell steve and tina for really leading off on this work and the kind of planning that went into the capital planning effort overall is allowing us to do this and council should also be really monitoring the frequency in which we are going to penvest for rate case increases because as tina mentioned this is a very this is a once in a generation um uh improvement that is being made and while it's 40 million dollars for this phase it's a lot more than that when you add all",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.6,
+          "reasoning": "The speaker discusses the aggressive schedule for capital projects and the need to monitor rate case increases related to spending, directly touching on municipal financial capacity."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The comment focuses heavily on the need for council to monitor benchmarks, planning efforts, and the process of capital project execution."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns regarding health, noise, air quality, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is focused on municipal financial management and project timelines rather than the distribution of costs or benefits to vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 23,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 1993.2,
+      "end": 2006.32,
+      "text": "thank you mr vice president um and thank you for the presentation this was very helpful um my only question is and you may have answered this when we do have the rfps from the banks is that going to be something that council will approve or is that something that the administration",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention strain on city resources like water, power, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.4,
+          "reasoning": "The speaker is questioning the decision-making authority—whether the Council or the Administration will approve future steps (RFPs), which relates to governance structure."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any physical health concerns, noise, or air quality issues."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a procedural question about administrative vs. council authority and does not address broader issues of wealth distribution or power imbalance."
+        }
+      }
+    },
+    {
+      "block_id": 28,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 2085.49,
+      "end": 2154.42,
+      "text": "53 north water street good evening mayor good evening council this um resolution is a recommendation from the historical commission to approve a demolition of a two-bay one-story freestanding cement block garage behind where the bread peddler is at 53 on 53 north water street it is it was built in the 1940s and they did receive zoning approval on july 23rd and the historical commission is recommended recommended approval at their meeting on august the 7th for demolition of this and it will remain as a surface parking lot cut and dried are there any questions",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses a specific property demolition and zoning approval, not the strain on city utilities or resources from a data center."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "It mentions the involvement of the Historical Commission and zoning approval, which relates tangentially to municipal processes, but does not critique the process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no mention of health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely informational regarding a local property decision and does not address broader issues of cost distribution or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 2169.41,
+      "end": 2177.65,
+      "text": "reason why they want to demolish it is because they feel like it's not safe to try and pull two cars in there so i believe it's going to remain as a surface parking lot as far as i",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses the status of a parking lot and demolition, not the strain on city utilities like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment offers a personal opinion on a property's future use and safety, without addressing how the decision was made or the transparency of the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, or direct health impacts related to the data center or the property."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely descriptive regarding the physical state of a property and does not engage with broader issues of cost distribution or power imbalances."
+        }
+      }
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 2259.03,
+      "end": 2301.88,
+      "text": "here so take it away thank you the original resolution was passed by city council on may 14 2024 and if you recall it granted an easement so that balconies for the condominium condominiums can hang over north water street and west grant street the original easement agreement incorrectly listed the required height of the balconies as 15 feet above the street but the amended easement agreement is intended to correct the minimum height to 13 feet and six inches which is in compliance with the city ordinance is current and currently in place and that is the only change to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses a condominium easement and balcony height, which is unrelated to the city's utility or resource management for data centers."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "It references a specific resolution and amended agreement, touching tangentially on municipal documentation, but it is not a critique of the decision-making process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on architectural specifications and legal agreements, showing no concern for health or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is purely technical regarding property lines and building codes, lacking any commentary on wealth distribution or power imbalances."
+        }
+      }
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 2361.58,
+      "end": 2369.5,
+      "text": "but how far is the bump out i guess that's the question yeah thank you councillor hirsch that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a simple logistical question about a physical structure and does not address resource strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a procedural question about a physical detail and does not engage with how decisions were made or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no mention of health impacts, noise, or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely technical and does not address issues of cost distribution, power, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 2676.5,
+      "end": 2933.14,
+      "text": "the explanation good evening thank you for taking the opportunity to hear what i have to say tonight so anchor lancaster is a non-profit that works with the homeless and low income here in lancaster city right now we are our program is housed inside of first united methodist church we've been renting space there for the last nine years we started as just a breakfast program and last year I think we served 42,000 meals to our hungry neighbors we like to listen to what our neighbors have to say and we found out that many of them were taking baths in sinks at market at CVS and we had showers so we started a shower program the goal was to do 12 showers a week last year we did 6,000 showers so yeah um and then during covid we realized that all the public buildings were closed and so we started a day center it just seemed to make sense to us and then we started a laundry program and started a case management program our case management program helped people with um building resumes applying for jobs finding housing helping connect them to medical services drug rehabs and just really meeting them wherever wherever they are we partner with many different other agencies here in the city we work with lancaster general we work with penn state health we work with upmc we work with the social workers at the police station we work with the social workers at tenfold and from the food hub and the outreach worker who works with the merchants here in the city and so our space at the day center it started as just a temporary winter shelter and then we did a temporary summer shelter and we quickly outgrew our space our space was only able to hold less than 20 people and literally it was wall to wall and so we've been searching for another place for our day center and we are just so grateful for tenfold and when they did the temporary shelter last year that one of my caseworkers and i went down and volunteered for the overnight shelter and as i'm standing in that shelter i was just like hmm i wonder if we could be here too so we started a conversation with tenfold and they just have welcomed us with open arms we went for one week we've been there for eight months and we're looking to make more of a permanent partnership with tenfold so we can heat that area cool that area much more efficiently than what it is being done now with that we will need to do some construction of a temporary space but something that we put up a wall and I feel bad saying that we want to put up wall because we're trying to tear walls down with our neighbors but we can put in heating and we can put in cooling and that is our phase one um plan but we're also exploring whether we will move the entire program down to the tenfold space where we would put in a commercial kitchen and if you've been in the garage it's very large and it would be the kitchen the dining room and the day center and then we would there's an annex that is next to it which would be offices it would be our laundry we place for case management to work also would be for bathrooms and showers and that is the request for the funding for",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment mentions needing to install heating and cooling, which relates to utility needs, but the focus is on the non-profit's operational expansion, not a strain on city infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is presenting a need for funding and partnership expansion, not commenting on the fairness or transparency of municipal decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.3,
+          "reasoning": "The comment details services that directly address community health and well-being, such as providing showers, medical connections, and shelter."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The entire narrative centers on serving vulnerable populations (homeless, low-income) and addressing systemic inequalities in access to basic needs like shelter and hygiene."
+        }
+      }
+    },
+    {
+      "block_id": 46,
+      "speaker": "SPEAKER_16",
+      "speaker_name": "unknown",
+      "start": 2941.41,
+      "end": 2972.26,
+      "text": "committee i just want to thank you for your services for our community i know it's hard i've worked with a board of rescue mission i volunteer and to feed them that's about as far as i go but it's nice to talk to them and see where they're at in life and how they want to improve their life and these services are really important for them to find work and also shelter so thank you so much you're welcome any further questions from the committee",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on thanking the committee for their services and discussing social support, not on city infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker acknowledges the committee's role and the importance of their services, which is a mild engagement with municipal function, but it is not a critique of the process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment discusses social services (shelter and work) for a specific population, but does not address physical health risks like noise or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.4,
+          "reasoning": "The speaker highlights the importance of services like shelter and finding work for vulnerable populations, touching upon the uneven distribution of basic needs."
+        }
+      }
+    },
+    {
+      "block_id": 47,
+      "speaker": "SPEAKER_14",
+      "speaker_name": "unknown",
+      "start": 2972.26,
+      "end": 3026.98,
+      "text": "council as a whole thank you council craig just also echoing so much gratitude for the work that anchor does and in particular the willingness to collaborate with other organizations in the city i think is really commendable and it shows you know that we can do a lot to meet a lot of need um and i think what i hear you saying when you're talking about all these things meals showers place to be place to be out of the heat of the cold like you're meeting immediate needs and when we collaborate as as you know all every one of us that's a part of this community if we work together we can do a lot more and so that's one thing that i've admired as i've watched the work that you guys have done and the way that your programming has grown over the years so i just want to really commend you guys best of luck with the application thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on praising existing community collaboration and services, not on the strain of data center resources."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment praises the council's collaborative efforts, which touches tangentially on the process of governance, but does not critique it."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The speaker mentions meeting immediate needs like shelter from heat/cold, but this is in the context of existing social services, not data center health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The comment praises collaboration to meet community needs, which aligns with addressing inequality, but it is a general commendation rather than a critique of power dynamics related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 3036.44,
+      "end": 3050.7,
+      "text": "First of all, thank you for sharing the outline of the vision, it seems very exciting. Just because we have the mics in front of us, if there's an opportunity for folks to invest their time or treasure into the organization, how can they find out more information?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention city resources, utilities, or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "It is a general inquiry about how the public can engage further, which touches lightly on process, but is not a critique of the process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no mention of health, noise, air quality, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a general request for information on investment opportunities and does not address issues of unequal distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_13",
+      "speaker_name": "unknown",
+      "start": 3123.45,
+      "end": 3156.73,
+      "text": "plain 123 south christian why this is a small item on your calendar here but you keep talking about well you don't i mean it always comes up parking throughout lancaster city and i'm always wondering about all the massive parking lots that we have why can't a lot of them be permeable so we don't have all this water running into the source thank you and i think",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.6,
+          "reasoning": "The comment directly addresses water runoff from large parking lots, linking it to the strain on the city's water system and drainage."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker briefly questions why the topic is a 'small item' on the calendar, indicating a minor procedural observation."
+        },
+        "health_and_well_being": {
+          "score": 0.1,
+          "reasoning": "The concern is focused on water management and infrastructure, not direct impacts like noise or air quality on human health."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "By focusing on city-wide infrastructure issues like parking lots, the speaker touches on how municipal planning affects the shared environment."
+        }
+      }
+    },
+    {
+      "block_id": 62,
+      "speaker": "SPEAKER_16",
+      "speaker_name": "unknown",
+      "start": 3417.3,
+      "end": 3430.73,
+      "text": "thank you so much i do have a question for you would this be with the grants would that be in addition to the FEMA grants as well or is that all combined so there used to be",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on the structure of funding (grants) rather than the strain on physical resources like water or power."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The question relates to the administrative process of funding and how different financial mechanisms (FEMA grants) are combined."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns regarding health, air quality, noise, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely administrative regarding funding sources and does not address issues of unequal distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 3476.84,
+      "end": 3496.7,
+      "text": "presentation one question I had is what the county recently ending its partnership with the hazmat environmental fire rescue company does that have any thing to do with this proposal or is that going to affect the plan at all it's a good question so the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a procedural question about a separate county partnership and does not mention city resources like water, power, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "It is a question directed at the presentation, indicating engagement with the meeting's proceedings, but it does not critique the process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address noise, air quality, or any direct health impacts of the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on a specific operational detail (hazmat partnership) and does not address broader issues of cost distribution or power imbalances."
+        }
+      }
+    },
+    {
+      "block_id": 67,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 3539.68,
+      "end": 3551.97,
+      "text": "planning to work with the neighboring county i just wanted to make sure that the work that we're doing would cover any outside third party that is coming in and absolutely so they're currently",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention strain on city utilities, water, or electricity infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker is inquiring about the scope of the work to ensure it covers outside third parties, which relates to the completeness of the municipal process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, or air quality in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The focus on 'outside third party' suggests an awareness of external actors influencing the local situation, touching lightly on power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 69,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 3572.8,
+      "end": 3584.08,
+      "text": "was that the rotten eggs that was the rotten eggs yes just just so everybody knows there was an incident with the spill of rotten eggs so uh but that was our hazard incident it was nothing more",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions a 'spill of rotten eggs' but does not connect it to the data center's strain on city utilities like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a brief report of a past incident and does not address how the data center project was managed or the transparency of the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While a spill could imply a hazard, the comment is too vague and lacks any discussion of long-term health impacts related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the distribution of costs or benefits, nor does it reference vulnerable populations or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 3631.79,
+      "end": 3637.87,
+      "text": "chief mendez and i uh to have a discussion um per your comments at the last meeting i haven't",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a brief conversational opening and does not mention any municipal resources or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment references previous meetings but does not engage with the process, transparency, or accountability of the decision-making itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life in this brief statement."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague to suggest any discussion about the uneven distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 76,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 3659.46,
+      "end": 3672.5,
+      "text": "chief mendez and and i would just qualify that if i may and until there's a meeting right you had requested a meeting with chief and i okay thank you thank you that would be all for public",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a procedural acknowledgment of a requested meeting and does not address resource strain."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "It briefly references a requested meeting with a city official, touching minimally on the process, but offers no substantive critique."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment contains no discussion regarding health, noise, or environmental quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely procedural and does not engage with issues of benefit distribution or power structures."
+        }
+      }
+    },
+    {
+      "block_id": 87,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "Tony Dastra",
+      "start": 3908.17,
+      "end": 3991.17,
+      "text": "from council from the public tony dastra 700 block of new holland avenue um i think this is a good resolution but i do have a request of council for the future um i didn't realize until i'd say a month ago that there was an executive order that determined english is the national language of the united states uh i've long enjoyed the fact that that wasn't the case i think that lancaster needs to consider making spanish an official second language to the city i think there's enough contributions by the hispanic community and spanish speakers that it validates it i mean even the agendas at these meetings are now bilingual which is a great thing I think Lancaster City should Formalize Spanish as an official second language in the government. Thank you. Thank you. Mr. Dastro Any additional public comment? Mr. Vice president, where might people go to nominate their fellow community members? Oh, that's a good question I",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention strain on city utilities, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker is addressing the council and suggesting a change to city policy (language recognition), which relates tangentially to municipal governance."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on language policy and does not address physical health or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The speaker advocates for recognizing the contributions of the Hispanic community, touching upon issues of representation and equity within the city structure."
+        }
+      }
+    },
+    {
+      "block_id": 90,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "Elizabeth Hoffman",
+      "start": 4236.36,
+      "end": 4355.28,
+      "text": "are none i will open up to comments from the public elizabeth hoffman 200 block of east ross and thank you very much counselor hirsch for taking this on i'm with a group called third act pennsylvania it's people in their third act of life and we're working on climate change and democracy and this bill is a big focus of our work we're working with a lot of other organizations in like a group called our solar PA and Pennsylvania has been trying to pass this for ten years now this is the eleventh year it's a great way for people who can't afford to put solar on the roof or if their house is too shady or the renters whatever they subscribe to a solar project so they're not actually owning it leasing it or anything they're just subscribing it and I did have this in Maryland and it's you know you don't notice it on your bill there's consolidated billing so you just select that you want to subscribe to a project and you get a credit and you're putting solar electrons on the grid so Pennsylvania is 49th it ranks 49th in the growth of renewable energy so we're really falling behind we only we get less than 1% of our energy from solar so we think this is an easy way to add solar to the grid and thank you again for considering it are there any other comments from the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment discusses adding solar electrons to the grid, which relates to energy, but it focuses on policy advocacy rather than strain on existing municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a policy advocacy speech promoting a specific bill and does not address the fairness, transparency, or process of the current data center decision."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The speaker focuses entirely on renewable energy policy and grid growth, not on direct health impacts like noise or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.4,
+          "reasoning": "The speaker addresses energy access for those who 'can't afford to put solar on the roof or if their house is too shady,' touching on economic equity in energy access."
+        }
+      }
+    }
+  ]
+}

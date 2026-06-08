@@ -1,0 +1,347 @@
+{
+  "title": "City Council Committee Meeting - February 3, 2025",
+  "video_id": "aHT_ba_YwG8",
+  "upload_date": "20250204",
+  "model": "ministral-8b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 1246.92,
+      "end": 1252.68,
+      "text": "Thank you, Vice. I'd like to know a little bit more about the truck.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague and lacks any explicit connection to municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making, transparency, or accountability in the municipal process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss power imbalances, costs/benefits distribution, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 1616.15,
+      "end": 1632.33,
+      "text": "That helps a lot. And just my follow-up question is, given that these are some of the first three-year plans, are we confident in our ability to service the whole debt, given the need for additional bonds after the planning or design phase?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.9,
+          "reasoning": "The comment explicitly raises concerns about the city's financial capacity to service debt and issue additional bonds, directly addressing municipal budgetary strain (Sub-theme 1c)."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker questions the city's ability to manage the project's financial lifecycle, implying distrust in planning transparency and fiscal responsibility (Sub-theme 2b)."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or quality-of-life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "Indirectly critiques the city's ability to handle costs fairly, but lacks explicit focus on power imbalances, vulnerable groups, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 29,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 1695.01,
+      "end": 1712.78,
+      "text": "regards to um the items will this be discussed to the public i mean how is this going to be available for the public to ask questions i mean you you're asking or you're going to say that it's going to be presented in march but i think that the community should know",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "Directly addresses transparency, public access to information, and community involvement in decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or bodily harm."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Indirectly critiques unequal access to information, but no explicit focus on cost-benefit distribution or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 1721.47,
+      "end": 1783.13,
+      "text": "march but yeah i would also just say that the master parks plan implementation does include all of the engagement that we did that lays out um the plans for many of the parks that are on the list vision zero is similar as part of the act of transportation which has been approved by city council um and the vision zero and active transportation both both of those things and then as it relates to the other aspects the Welcome Center funding and other general maintenance facilities that is all part of our facilities condition assessment work that DPW has been doing as part of its long-term control plan so I would say on the major projects for the general fund the majority of them have been vetted um through the public and through this uh through council body as it relates to water and wastewater um are you asking about those counselor diaz or just the first",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.3,
+          "reasoning": "Mentions water/wastewater and DPW's long-term control plan (facilities maintenance), but no direct critique or concern about AI data center impacts on municipal utilities."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "Explicitly references public engagement, council approval of Vision Zero/active transportation, and facilities condition assessment as part of transparent, structured municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health risks, noise, air quality, or quality-of-life impacts—focus is on park planning and infrastructure."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No critique of power imbalances, cost-benefit distribution, or historical patterns; purely procedural and administrative."
+        }
+      }
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 1824.64,
+      "end": 1871.45,
+      "text": "community to speak into it as well. And I think that's also the benefit of the adoption of the home rule charter requiring the long term capital plan to be laid out for the public so that there is more broad awareness of the types of investments that are required in our water, wastewater and stormwater infrastructure to meet state and federal regulation. So that's going to be a much bigger conversation because it is breathtaking the amount of money that is necessary and to address our infrastructure needs and also the federal state requirements the other",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.9,
+          "reasoning": "Explicitly addresses water, wastewater, and stormwater infrastructure as municipally managed resources, emphasizing financial burden and regulatory compliance."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "Highlights the home rule charter’s role in public transparency and long-term planning, framing municipal decision-making as accountable to community input."
+        },
+        "health_and_well_being": {
+          "score": 0.1,
+          "reasoning": "No direct mention of health impacts, noise, air quality, or bodily harm—focus is on infrastructure and process."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "Indirectly references systemic financial strain on infrastructure but lacks explicit critique of power imbalances or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 1942.8,
+      "end": 1966.69,
+      "text": "to be my last question in regards to um these projects do we have anything included that was already added in regards to the grants is there any grants that we had added into this because i'm just trying to figure out what the difference between the debt and also the minus the grants",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on financial accounting (debt vs. grants) without addressing infrastructure, utilities, or resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker explicitly questions transparency in financial decision-making, implying a lack of clarity about how funds were allocated or accounted for in the project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, environmental quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The comment hints at financial inequity (e.g., 'what the difference between the debt') but lacks explicit framing of who bears costs/benefits or systemic power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 1996.69,
+      "end": 2021.14,
+      "text": "My last question, I'm sorry. I just thought of this just because I know that there's a large, there's a big question mark on what the federal government is going to be doing. Have you received anything or any notices of grants that may have been already either denied or that they are going forward with it?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on federal government actions and grants, with no mention of Lancaster's municipally managed resources or utilities."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment indirectly references transparency by asking about notices and decisions, but it does not critique local governance or demand community involvement."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, quality of life, or bodily harm is present."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address uneven distribution of costs/benefits, historical patterns, or vulnerable populations—only federal decision-making."
+        }
+      }
+    },
+    {
+      "block_id": 48,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 2469.77,
+      "end": 2485.32,
+      "text": "Thank you, Constable Hirsch. Thank you, Dr. Campbell, for the presentation. What would be the role of the city in those projects? Will the city be involved in ongoing oversight of those projects?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment asks about city involvement but does not explicitly address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The comment directly engages with municipal process by demanding clarity on oversight and city involvement, signaling distrust or uncertainty about transparency and accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power dynamics, inequality, or uneven distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 59,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 3414.85,
+      "end": 3453.86,
+      "text": "presentation just a question about some of the moves that were made due to staffing levels not being filled such as Department engagement or city program administration and future plans you know these positions are restaffed you know will we go after those dollars to cover you know those positions because i do think and i think some of these positions are very popular such as the department of neighborhood engagement or you know small business development and i just wanted to know what the plans were you know to try to get those positions refilled and how the cdpg grants could help them can we",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on city staffing and budgeting for municipal programs, not on data center-specific resource strains (electricity, water, waste, etc.)."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker critiques municipal decision-making by questioning staffing levels, engagement processes, and budget allocation—directly addressing transparency and accountability in city operations."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or well-being concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "Indirectly touches on resource allocation disparities (e.g., prioritizing programs like neighborhood engagement) but lacks explicit critique of power structures or inequality tied to the data center project."
+        }
+      }
+    },
+    {
+      "block_id": 61,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 3499.05,
+      "end": 3519.27,
+      "text": "thank you and then in regards to the police social work program of being geographically only for the or not being allowed in the downtown investment area if you just spend on that and just kind of if you just kind of re-explain uh the police social work aspect of it sure so cdbg",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to municipally managed resources like electricity, water, waste, or budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment briefly references a program (*police social work*) and a funding mechanism (*CDBG*), but does not engage with transparency, oversight, or accountability in municipal decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, vulnerable populations, or systemic inequities—only a procedural clarification about a social work program."
+        }
+      }
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 3584.84,
+      "end": 3591.11,
+      "text": "with the cdbg funds uh thank you and i look forward to working with you guys on the engagement",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is purely procedural and lacks any discussion of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "Mentions 'engagement' and 'working with you guys,' which *vaguely* suggests a procedural or collaborative tone, but no critique of transparency, oversight, or fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, quality of life, or bodily concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations—only a generic expression of cooperation."
+        }
+      }
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 3623.64,
+      "end": 3631.16,
+      "text": "is is that including some of the shelters does any of that funding go to any of the local shelters",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment subtly critiques whether city funds or benefits are being allocated transparently or equitably, but it lacks explicit focus on process fairness or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health, noise, air quality, or bodily harm—only funding for shelters."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "The comment directly questions who benefits from funding (local shelters) and whether vulnerable populations (shelter residents) are receiving support, highlighting an uneven distribution of resources."
+        }
+      }
+    },
+    {
+      "block_id": 69,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 3712.07,
+      "end": 3729.35,
+      "text": "listed for the cbd job dollars to repair do you have a stock number how many we have funded with cdbg how many are going to be funded and the repairs being done is there a stock number a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unclear and appears to be a fragmented question about CDBG funding for repairs, with no explicit mention of municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment references funding and accountability, which could loosely relate to municipal process concerns (e.g., transparency in resource allocation), but it lacks specificity about decision-making, oversight, or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No connection to health, well-being, or quality-of-life impacts is present in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power dynamics, inequality, or uneven distribution of costs/benefits—only funding logistics."
+        }
+      }
+    }
+  ]
+}

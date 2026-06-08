@@ -1,0 +1,243 @@
+{
+  "title": "City Council Committee Meeting - June 17, 2025",
+  "video_id": "e_aXcEkzyEY",
+  "upload_date": "20250618",
+  "model": "gemma-4-4b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 2,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 2937.34,
+      "end": 2943.06,
+      "text": "council and so this is you know if a small piece of real estate is better in",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague and does not mention any strain on city resources like water, power, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or accountability in the municipal process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is too brief and lacks any discussion regarding the distribution of costs, benefits, or power structures."
+        }
+      }
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3558.42,
+      "end": 3580.23,
+      "text": "with the Charter and the information that were given here am I going to be able to find like all most of the answers that I need and if I can't find the answers that I need who I call so I need a book like yours well you don't",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention city resources like water, power, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker is directly questioning the adequacy of provided information and the availability of official guidance, which relates to transparency and process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address physical health concerns, noise, or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The query touches slightly on who holds the knowledge and who is responsible for providing answers, hinting at a power imbalance in information access."
+        }
+      }
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 3705.31,
+      "end": 3756.84,
+      "text": "Thank you Madam President. So I haven't read it yet so I don't have really many questions but I was looking at section one where we have the definitions and how did you come up with those concepts or where did you get them? Because I know that we have other concepts, for example, like the departments, bureau, office. Sometimes we said, for example, the bureau of Lancaster, the police bureau of city of Lancaster, or for example, we said the Department of Administrative Services or the Department of Neighborhood Engagement. We have offices, we have boards, commissions, authorities.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any strain on city resources like water, power, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The speaker is questioning the foundational concepts and terminology used in the documentation, which relates to how the city organizes and frames its governance."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment makes no reference to health concerns, pollution, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The focus is purely on administrative terminology and structure, not on the distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 3822.33,
+      "end": 3835.02,
+      "text": "can we add the other definitions of what you can you can add or delete anything from this document this is your document not my document thank you that's all I have for now thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any municipal resources, utilities, or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker is commenting on the document itself and its scope, which touches tangentially on the process of defining the discussion parameters."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment contains no discussion regarding health, noise, air quality, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a procedural remark about document authorship and scope, not a discussion of unequal distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 3843.56,
+      "end": 3861.35,
+      "text": "questions question regarding the transfers you're saying that it's five percent of the funds in the budget light items does it matter how much it is like if it's in the millions it's five",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on the percentage allocation of funds rather than the strain on physical resources like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "It touches upon budgetary items and fund transfers, which relates tangentially to how municipal finances are managed."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health concerns, pollution, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is purely about the mechanics of budget percentages and does not address who benefits or bears the costs."
+        }
+      }
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 3918.54,
+      "end": 3979.94,
+      "text": "counselor med thoughts and questions there you go uh thank you council president and uh thank you uh barry for your presentation this evening and i really appreciate some of the good governance measures around procurement and around the budgets i guess my only question and guidance that i would like to seek throughout this process is you know how much of this should we leave kind of not specifically defined and how much should we for example when it comes to things like accounts like how like should we make sure that each individual fund has its own individual account and does payroll have its own individual account or are these things that we should kind of leave um by your recommendation as a little bit less specific and like you know the charter gives us the guidance but how specific on some of these things should we go in the code",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on internal municipal accounting procedures and budgetary specificity, not on the physical resources strained by the data center."
+        },
+        "municipal_process": {
+          "score": 0.6,
+          "reasoning": "The speaker is directly questioning the level of detail and specificity required in the city's governing codes and financial procedures."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health, environmental impact, noise, or quality of life in any way."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is purely administrative and procedural regarding financial documentation, lacking any commentary on wealth distribution or power imbalances."
+        }
+      }
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 4257.51,
+      "end": 4288.55,
+      "text": "uh thank you and i just have one final question and it's kind of in regards to like um with this new charter and some of the ambiguities of what state law is currently what state laws may change um is there anything in the administrative code that we could kind of put in to protect i don't want to say protect the city and council but so that every for instance every other day somebody isn't saying oh this state law actually you can do this or council should do this because of the state law when it's kind of responsible governance to not just act on everything just because we have",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on administrative law and governance structure, not on the strain on physical resources like water or electricity."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker is directly questioning the scope of council authority and the need for clear administrative codes to ensure responsible governance."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns regarding health, noise, air quality, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "While related to governance, the focus is on procedural clarity rather than the uneven distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 4457.18,
+      "end": 4532.1,
+      "text": "Thank you. Great, I have one last thought of my own and I just wanna, well, thank you for putting this together. I particularly appreciate the tables that are included on the budget timeline and the other timelines because reading through that in the way it is presented in the charter is complicated to follow it was complicated to put the tables together you can imagine so I appreciate that thank you very much so at this time we can open up the meeting for public comment I'll just remind folks if they wish to make comment they're commenting on anything that was presented before us this evening if anyone wishes to do so you can do so at the microphone at the far end of the table it should be on and ready for you and you need to begin with your name and your block of residence for our meeting record and three minutes which I'll time on my phone this evening so if anyone wishes to do so now is the time all right good evening you'll have to take my word that I'm timing so good evening my name is Alexander King I live",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is procedural and does not address resource strain, utility usage, or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker briefly comments on the clarity of presented budget timelines, which relates tangentially to the process of information sharing."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment contains no discussion regarding health impacts, noise, or air quality related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely administrative and does not engage with issues of cost distribution, power imbalances, or social equity."
+        }
+      }
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Marshall Miller",
+      "start": 4737.96,
+      "end": 4785.38,
+      "text": "Great. um marshall miller 100th block of east vine street um it sounds like the final version of this will be voted on in november just curious um how has the ability to put like input changes things of that nature leading up to the final passage or is it just final passage in november will be a process where amendments are added to do all of the changes that council would like to see separately you said that this document pulls from a bunch of different sources and i'm just curious if there is like a version of the document that outlines what is coming directly from the charter that cannot be changed or you know touched because it has to fulfill requirements in the charter and if that exists that would be helpful for me to see and probably counsel as well uh the the answers",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention strain on utilities, water, electricity, or city budgets."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker is directly questioning the process of amendments, the final passage timeline, and the source documents governing the proposal."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on procedural questions and does not address health impacts or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "There is a very minor inquiry into which parts of the document are fixed by the charter, touching slightly on structural power constraints."
+        }
+      }
+    }
+  ]
+}

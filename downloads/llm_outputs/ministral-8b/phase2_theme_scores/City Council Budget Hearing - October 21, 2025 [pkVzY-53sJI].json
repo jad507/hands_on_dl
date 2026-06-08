@@ -1,0 +1,607 @@
+{
+  "title": "City Council Budget Hearing - October 21, 2025",
+  "video_id": "pkVzY-53sJI",
+  "upload_date": "20251022",
+  "model": "ministral-8b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 103,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2307.77,
+      "end": 2314.27,
+      "text": "you um i had two questions uh the first is just around the general goals of the additional hires",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on hiring goals and does not address infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment is vague and does not explicitly critique transparency, accountability, or decision-making processes—only a tangential reference to 'additional hires' as a procedural topic."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, environmental quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, inequality, or systemic power structures—only a procedural question about staffing."
+        }
+      }
+    },
+    {
+      "block_id": 126,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2800.14,
+      "end": 2803.9,
+      "text": "land development plan and then i have to go somewhere else to get my permit i have to go",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipal resources, utilities, or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The comment highlights a procedural frustration—fragmented permitting processes—suggesting a lack of streamlined municipal oversight or coordination."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, environmental quality, or quality-of-life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss power imbalances, cost-benefit distribution, or systemic inequities."
+        }
+      }
+    },
+    {
+      "block_id": 127,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2803.9,
+      "end": 2858.94,
+      "text": "to department of public works and then have to go to see my permit get my permit it's certainly not clear to me how that would make things more efficient or streamlined so that would be my main question and um again uh if we're making things more streamlined ultimately they should reduce expenses and personnel and it sounds like we're increasing expenses and personnel so i'm not sure how that all adds up um would also suggest and i'm going to put on my strong hounds strong towns lancaster hat for a second here uh one way to streamline permittings by actually reducing and and eliminating regulations strong towns has what they call the six policies for a housing ready city one of them is streamline the approval process cities can implement 24 hours approvals for straightforward projects like duplex conversions backyard cottages and starters homes making",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on bureaucratic efficiency and permitting processes, not municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker critiques the city's permitting process as inefficient and calls for transparency and streamlining, directly addressing municipal process concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, environmental impact, or quality-of-life concerns related to the AI data center or broader community well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The comment references 'Strong Towns Lancaster' as a policy framework but does not explicitly address power dynamics, inequality, or uneven distribution of costs/benefits in the context of the AI data center."
+        }
+      }
+    },
+    {
+      "block_id": 211,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4743.7,
+      "end": 4758.03,
+      "text": "revenues up 70 percent um i think that's great how do we continue to try to maximize that and what is the nature of some of those fees while i would like to come back every year and say that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on revenue growth and fees, with no mention of infrastructure, utilities, or resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not address transparency, oversight, or decision-making fairness—only fiscal optimization."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely financial, with no reference to equity, vulnerable populations, or uneven cost-benefit distribution."
+        }
+      }
+    },
+    {
+      "block_id": 217,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4816.62,
+      "end": 4824.44,
+      "text": "approved in the budget This is a very specialized position. So I assume there will be a period of time where it wouldn't necessarily be full",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses a budgetary position unrelated to municipally managed resources like utilities or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of transparency, oversight, or decision-making processes in the city council."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health, environmental quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, inequality, or systemic power dynamics—only a generic budgetary observation."
+        }
+      }
+    },
+    {
+      "block_id": 218,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 4825.24,
+      "end": 4837.75,
+      "text": "No, I wouldn't necessarily be filled and have you considered a job description for this role or is that something that you want to hold until the next administration i do actually have a draft of the job description",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is entirely focused on internal municipal staffing and job descriptions, with no mention of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment references administrative processes (job descriptions, future administration) but does not critique transparency, oversight, or decision-making fairness related to the AI data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, environmental quality, or quality-of-life concerns related to the data center or its operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is procedural and non-substantive regarding equity, cost-benefit distribution, or systemic power dynamics tied to the AI data center proposal."
+        }
+      }
+    },
+    {
+      "block_id": 237,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 5209.53,
+      "end": 5253.96,
+      "text": "funding sources and set up the program to do that but I think that is like an exciting area of potential in the future okay thank you questions or comments from the public good evening is this on uh marshall miller 100th block of east fine street uh director delph thank you for the information tonight this is really great to hear um quick question for you circling back to the critical repairs program i was wondering if you could speak to the benefits of having that sustainable funding that you mentioned for the critical repairs program and what you would consider to be a minimum threshold for an annual allocation that would",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on municipal budgeting and funding mechanisms for repairs, not on data center-specific resource strains (electricity, water, waste, etc.)."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "Mentions 'questions from the public' and 'information tonight,' but lacks critique of transparency, accountability, or decision-making fairness regarding the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or trade-offs between financial benefits and well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "Focuses on municipal budgeting, not on who bears costs/benefits, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 265,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 5791.06,
+      "end": 5848.2,
+      "text": "portion of the overall cost and the rest would be covered by cdbg right that's that's the intent okay i just was stating that because my one of my concerns you know as a member of the planning commission we're two years out from the comprehensive plan approval haven't made much progress on the zoning code update i know that we had applied for a grant last year i think from dcd and didn't get it and i was just concerned that if we don't have enough funds in the budget like we just really have to get this done next year so that was my concern i agree with you we also do have some money in the director's office for professional services which i usually use to supplement other projects in in the other bureaus so we have a little bit of flexibility there too okay so you're confident that we have the money to do this next year we will find a way to do it next year great um and then also following up on tim's question about the economic development uh director or manager could you just say a little bit more specific about what you see that role",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on budgetary allocation and zoning updates, not municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker references the planning commission's role, the delay in zoning code updates, and grant applications, highlighting concerns about municipal decision-making timelines and resource allocation."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or well-being concerns related to the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The comment briefly touches on economic development funding but does not explicitly address power dynamics, inequality, or uneven distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 279,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 6092.65,
+      "end": 6102.89,
+      "text": "something i'd like to see our city do more of is really do an analysis of what types of business are needed in our community as well which i could see this position kind of filling that gap um you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of infrastructure, utilities, or resource burdens related to the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making, transparency, or accountability in the data center process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The comment vaguely references a 'gap' in business types but lacks explicit critique of power dynamics, inequality, or uneven cost-benefit distribution."
+        }
+      }
+    },
+    {
+      "block_id": 396,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8489.97,
+      "end": 8494.93,
+      "text": "at the police budget you know a question comes to my mind on you know what can we do and what can",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague and lacks any reference to decision-making, transparency, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, quality of life, or bodily concerns is present in this fragment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss power structures, inequality, or uneven distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 397,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8494.93,
+      "end": 8535.62,
+      "text": "the community do to kind of advocate for a higher state contribution towards pensions to kind of give a little bit of relief to municipalities across the state given that it's kind of a flat you know contribution from the state you know what are ways that we could kind of advocate for more money for police bureaus and for pensions from the state probably a director campbell question i'm not really sure what we what more we can do um yeah i i i can try and get you an answer to that i don't have it right now though thank you i don't want to put her on the spot but",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on state-level pension and police funding, with no mention of AI data centers, municipal utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker briefly references a 'director Campbell' and asks about advocacy, the comment does not address the AI data center project, transparency, or community oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to health impacts, noise, air quality, or well-being concerns tied to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion centers on state funding for pensions and police, not the uneven distribution of costs/benefits or historical patterns related to the AI data center."
+        }
+      }
+    },
+    {
+      "block_id": 399,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8556.88,
+      "end": 8572.12,
+      "text": "know upcoming retirements and you know fringe benefits you know going up year over year I just think you know it would behoove all of us to kind of try to get the state to you know give more to police bureaus and retired officers and",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on municipal employee benefits and retirements, not on data center infrastructure or resource strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No discussion of transparency, oversight, or decision-making processes related to the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, environmental quality, or quality-of-life concerns tied to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While it references municipal budget priorities, it does not address power imbalances, inequality, or the data center's role in uneven cost/benefit distribution."
+        }
+      }
+    },
+    {
+      "block_id": 408,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8717.13,
+      "end": 8729.77,
+      "text": "zero efforts and our safe routes to schools so we know that those positions are are very critical in the city and we appreciate all the crossing guards that we have because uh is a really really",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making, transparency, or accountability in the city council process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on school safety infrastructure, not health impacts or quality of life related to the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to broader power dynamics, inequality, or the data center project."
+        }
+      }
+    },
+    {
+      "block_id": 409,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8729.77,
+      "end": 8737.61,
+      "text": "thankless and tough job um and um and so yes i think that's all i have to say about that i don't",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is non-committal and lacks any reference to municipal resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No discussion of governance, transparency, or procedural concerns is present."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health impacts, quality of life, or bodily concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of cost-benefit distribution, inequality, or systemic power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 410,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8737.61,
+      "end": 8756.25,
+      "text": "know if there's anything else to add yeah i would just add that it is a tough position to fill because it's a hour two in the morning an hour two in the afternoon so to get yelled at yeah an hour in the morning to yell that and then an hour or two in the afternoon there's been a ton of discussion as the mayor said there's been a ton of discussions but it's been a tough position",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipal resources, utilities, or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment references 'a ton of discussions' and 'tough position,' which *vaguely* suggests frustration with decision-making or communication, but lacks concrete critique of transparency, accountability, or process fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on personal inconvenience (timing of noise) rather than systemic inequity, cost-benefit distribution, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 411,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8756.89,
+      "end": 8762.49,
+      "text": "from what i've seen it's worse than thankless it's i've seen the abuse that some of them endure and",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of municipal utilities, infrastructure, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "Vague reference to 'some of them' could imply systemic issues, but lacks specificity about governance, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.3,
+          "reasoning": "Implies harm ('abuse') but lacks concrete ties to data center operations, health risks, or quality-of-life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.4,
+          "reasoning": "Suggests systemic unfairness ('endure') but is too abstract to clearly link to AI data center power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 412,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8762.49,
+      "end": 8779.61,
+      "text": "it's unfortunate it's a bad reflection on our drivers particularly in our community and i would just say i do really hope that i told sergeant summerall that i hope that he proves me wrong and fills every one of those positions i would love to see that as well thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on hiring police officers and does not address municipal utilities, infrastructure, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No discussion of decision-making transparency, oversight, or accountability—only a personal appeal to a police sergeant."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, environmental quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Indirectly references community priorities (hiring) but lacks explicit critique of power structures, inequality, or uneven cost-benefit distribution."
+        }
+      }
+    },
+    {
+      "block_id": 417,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8894.56,
+      "end": 8902.72,
+      "text": "the community particularly around colleton park like i thought uh the invictus partnership was great i think that that park ranger role is is critically needed so i would love for uh the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on community needs around park services and does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No discussion of decision-making, transparency, or accountability in municipal processes is present."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health impacts, noise, air quality, or trade-offs between health and economic benefits."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While it references a park-related initiative, there is no discussion of power dynamics, inequality, or uneven distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 426,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 9009.99,
+      "end": 9027.75,
+      "text": "I wanted to ask about the staffing. It sounds like the budgeted staffing is 114 positions in 2025, 128 positions in 2026. But if I heard you correctly, we actually only currently",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on budgeted staffing numbers and does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment briefly touches on budgetary transparency (a procedural concern) but does not critique decision-making, participation, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, quality of life, or environmental concerns related to the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely administrative and does not address power imbalances, equity, or uneven distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 427,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 9027.75,
+      "end": 9043.19,
+      "text": "have 104 sworn officers and the intent is to increase that by 10 ish which would be I guess 114 so my question is how does that then relate to the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on police staffing and does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not critique decision-making, transparency, or accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, quality of life, or bodily harm related to the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to broader power structures, cost-benefit distribution, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 428,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 9043.19,
+      "end": 9052.93,
+      "text": "top-line budget for the police department that I'm seeing if we're at 114 instead of 128 does that mean that we'll be spending less than the number",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is entirely focused on police department budget numbers and does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not engage with decision-making processes, transparency, or accountability in municipal governance."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, quality of life, or concerns about physical well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss power structures, inequality, or uneven distribution of costs/benefits—only a narrow fiscal comparison unrelated to the AI data center."
+        }
+      }
+    },
+    {
+      "block_id": 438,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 9215.66,
+      "end": 9255.28,
+      "text": "100 and i guess ultimately 128 versus 114. what what does that mean again in terms of enhanced safety quicker response to crime and so forth because i think if i mean that's the trade-off ultimately the city council has to weigh i guess another question would be how much does an individual officer cost per year in salary benefits and what city council i think has to away is the incremental effect of one additional officer on the street and the public safety enhancement that provides versus the budget that we're seeing here I can I just say I mean that's",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on public safety staffing and budget trade-offs, not municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker briefly references 'what city council has to away is the incremental effect'—a vague nod to decision-making, but no critique of transparency, participation, or process legitimacy."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, environmental quality, noise, or bodily harm—only abstract public safety metrics."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment frames a neutral budget calculus (officer cost vs. safety) without addressing power imbalances, historical extraction, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 447,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 9460.64,
+      "end": 9487.97,
+      "text": "stuff more than just enforcement which will have a positive effect positive effect on the city that's great and actually bleeds into my second question which one of your two goals was to continue your engagement and recruitment improvements that you've been working on and I'm wondering how high of a priority is recruiting both civilian and officer personnel from within the city limits so it's always a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on police recruitment and engagement, with no mention of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment references 'engagement' and 'recruitment improvements' as part of municipal process, but it is tangential to the AI data center debate and lacks direct critique of transparency or fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or well-being is present."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address cost-benefit distribution, inequality, or systemic power dynamics—only local hiring priorities."
+        }
+      }
+    }
+  ]
+}

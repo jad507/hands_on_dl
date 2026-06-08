@@ -30,9 +30,9 @@ function Run-Model($name) {
 # Run-Model "qwen3.5-9b-q4"
 # Run-Model "qwen3.5-9b-q5"
 # Run-Model "qwen3.5-9b-q6"
-Run-Model "deepseek-r1-7b"
-# Run-Model "gemma-4-4b"
-# Run-Model "ministral-8b"
+# Run-Model "deepseek-r1-7b"
+Run-Model "gemma-4-4b"
+Run-Model "ministral-8b"
 
 # --- llama_cpp models, tight on A2000 12 GB -- may OOM at init ---
 # Run-Model "qwen3.5-9b-q8"     # ~11.2 GB estimated

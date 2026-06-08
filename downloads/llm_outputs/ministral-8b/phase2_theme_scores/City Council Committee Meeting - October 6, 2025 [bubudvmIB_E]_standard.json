@@ -1,0 +1,1283 @@
+{
+  "title": "City Council Committee Meeting - October 6, 2025",
+  "video_id": "bubudvmIB_E",
+  "upload_date": "20251007",
+  "model": "ministral-8b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "Tony Dastro",
+      "start": 2810.68,
+      "end": 2893.14,
+      "text": "YOU MAY JUST NEED TO TURN THAT ON GREAT THANK YOU HELLO TONY DASTRO 700 BLOCK OF NEW HOLLAND AVENUE UM FIRST I WANT TO THANK YOU COUNCILOR IMED FOR MENTIONING THE TAX EXEMPTION UH AND I THINK THAT THE CITY NEEDS TO FOCUS ON GIVING THAT RELIEF DIRECTLY TO the residents of the city not circling it through another program i understand that there is some expense in the administrative cost to administer such a program but we're talking about three hundred thousand dollars of the fifteen point some million dollars the city gets in revenue total so it's less than two percent of the current revenue that we're receiving from income tax and then on top of the general operating fund budget it's pennies on the dollar so our poorest residents deserve that direct relief and i want to thank you for continuing to speak on that and then just for the record because it's a touches on some subject of later tonight the police is the largest part of our budget the pension is the largest part of the pensions management we have to do in the long term and so I hope we can look forward to more efforts concerted by the government to integrate the trust in our community into the police department thank you thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on tax exemptions and budget allocation to residents, not municipally managed utilities like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "Mentions administrative costs of programs but does not critique transparency, participation, or decision-making legitimacy—only efficiency of tax relief."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or quality-of-life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "Explicitly frames tax relief as a redistribution issue, prioritizing poorest residents over corporate exemptions, and critiques systemic budget priorities (police/pensions) as inequitable."
+        }
+      }
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 2907.82,
+      "end": 2911.5,
+      "text": "GOOD EVENING.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a greeting with no substantive discussion of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of decision-making, transparency, oversight, or accountability in the city's process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No reference to health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 39,
+      "speaker": "SPEAKER_19",
+      "speaker_name": "Jessica Lopez",
+      "start": 2913.5,
+      "end": 2961.09,
+      "text": "ALL RIGHT. JESSICA LOPEZ, LANCASTER CITY RESIDENT. MY QUESTION ISN'T FOR NOW, BUT LATER ON DOWN THE LINE, WHEN WE START TO INCREASE OUR TAXES AND START TO HIT PEOPLE, WE'RE NOT DOING IT THIS YEAR, BUT AS THE BUDGET CHANGES, IT'S GOING TO AFFECT PEOPLE WHO MAKE LESS MORE THAN IT WILL AFFECT PEOPLE WHO MAKE MORE IN THE CITY. So the question is, are we going to later on decide to decrease our police budget and protect the actual residents of the city? Are we going to cut community engagement and housing programs instead of cutting our police budget when our wage just won't be increased later on and it doesn't balance out appropriately?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.3,
+          "reasoning": "Indirectly references future budget strain ('increase our taxes') tied to infrastructure costs, but lacks explicit focus on utilities (electricity, water, waste) or municipal resource management."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "Critiques budget allocation decisions as unfairly impacting lower-income residents, questioning priorities (police vs. housing/community programs) and accountability in fiscal responsibility."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or direct well-being impacts—focus is purely on economic equity and budget distribution."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.9,
+          "reasoning": "Explicitly frames the data center’s *future* costs as disproportionately burdening low-income residents, critiquing systemic inequity in budget cuts and prioritization of police over social programs."
+        }
+      }
+    },
+    {
+      "block_id": 46,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "unknown",
+      "start": 3060.56,
+      "end": 3072.04,
+      "text": "Should be good. Yep. Thank you So you you said that you've done the the work to justify the size of the police department? is that data publicly available or can it be made publicly available to show the justification for",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly demands transparency and public access to data used for decision-making, directly engaging with information asymmetry and accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural fairness rather than broader power dynamics, inequality, or distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 48,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "unknown",
+      "start": 3088.52,
+      "end": 3128.38,
+      "text": "i would just say that i would echo that to see that disproportionate amount of the budget dedicated to police when we have 2%, I believe it was, for community engagement, 12% for public works. We can all look around our city and I think we can all agree that it needs more than 12% of our budget in the infrastructure. I see idle police cars consistently. I see multiple police cars for basic traffic stops. And I have a hard time believing that those kinds of things were found in the justification for the size of our police department when we're committing only 12 percent to public works and two percent to public engagement",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on budget allocation for police, public works, and community engagement but does not address municipally managed resources like electricity, water, or waste related to the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment critiques budget priorities and transparency in resource allocation, indirectly questioning how municipal funds are managed and prioritized, but does not directly engage with the AI data center process or decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health, well-being, or quality-of-life concerns related to the AI data center or its impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "The comment highlights systemic budgetary inequities, emphasizing how resources are disproportionately allocated (e.g., police vs. public works/community engagement), critiquing power dynamics in municipal spending and prioritization."
+        }
+      }
+    },
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_24",
+      "speaker_name": "Nathan Charles",
+      "start": 3373.97,
+      "end": 3505.68,
+      "text": "GREG. MY NAME IS NATHAN CHARLES. I CURRENTLY LIVE ON 425 NORTH PRINCE STREET. I PREVIOUSLY LIVED ON 333 SOUTH PRINCE STREET AND I'M HOPING TO MOVE INTO 444 WEST LEMON. SO IT'S KIND OF A, I'M QUITE SURPRISED TO BE HERE. I THOUGHT WE WERE DOING you know doing everything right we have a permit so I was very surprised to you know essentially get after-the-fact notification kind of designation of this historic review so I have with me Jesse Pellman who is kind of the builder we've been working together on this this concept and idea for a very long time this is a fairly ambitious project i have been living in the city for many many years and periodically have gone through the exercise of i should buy a house and then i go look at the houses housing inventory and then it's like i should not buy a house i get very discouraged when i see bad flips and and you know properties that need a lot of renovation that i then compete with flippers for so this was the first opportunity i felt like i had i now have some means i can now make a deep investment uh in in lancaster city and actually build a house that's very you know very small um uh by i mean we're not really increasing the size we pushed up uh the roof a little bit but it's only the front so effectively we've turned a two-story house into two and a half story house um and so this is a very typical um city dwelling and the hope is to get be this will be the first uh house in lancaster county that will meet the passive house standard um jesse do you want to add a few comments my name is jesse pelman i run longview structures",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on personal housing projects and does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker briefly mentions 'after-the-fact notification' regarding a historic review designation, which touches on procedural transparency but is not central to the comment."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or well-being is present in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment centers on personal housing aspirations and does not engage with broader themes of inequality, power dynamics, or systemic costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 3505.68,
+      "end": 3897.68,
+      "text": "our shop is on uh 400 block of south prince street we do quite a bit of work in town um and would also sort of say first off thank you to all of you for engaging in conversations one of the goals of this project uh is precisely to engage and to create dialogue around what housing can be uh most specifically what housing in urban environments in infill and what the reutilization of existing housing stock could look like so uh just for the sake of our sort of records uh keeping and our analysis of how we got to this point nate alluded to being somewhat surprised uh to being here we submitted a permit application as we do for all of our projects along with building elevations floor plans and a very short narrative of what the project was going to entail we had multiple back and forth with city staff including the inspector who was doing the plan review at the time had follow-up conversation with zoning specifically as it related to So at that time what was a proposed roof deck on the Lemon Street facade, there were 3D models that were associated with the permit submittal that showed what we were doing along with the extensive energy modeling that we were pursuing. So the after the fact characterization, while I fully acknowledge we are now evaluating a completely built out structure that is effectively from the exterior done, it was in no way intended to be nor was it and after the fact submittal we then followed up as the plan was developing as we were in process and as we were doing deep energy modeling we resubmitted plans and elevations that represent the current as-built condition to the city and to the city inspectors for additional review and for comment and receiving none and following through with site inspections we carried on with our work with the work as it had been permitted and authorized by the city so that's our our background it is not necessarily an after the fact in so much as we were trying to skirt or get around this opportunity as i mentioned we are looking for dialogue and for community and interaction one of the reasons that we have ended with the design that is currently up for debate is as nathan referenced our desire to reach a passive house certification which is an energy metric just an exceptionally miserly energy requirement for performance it is one of the most stringent building standards and requirements that exists there are currently none in the area that meet it there are specifically none in the area that meet it in an urban retrofit common wall application that we are attempting to undertake so the decision-making process and matrix that we entered into was robust it was intentional and it was thorough and we did our best to try to engage with city officials as we initiated the process and as it's gone throughout so one of the pieces that has come up for debate is how we hyper insulate and provide for future housing what a really basically zero energy house in the city can look like and one of the demands is insulation so i'll get a little technical please interrupt me ask questions at any point but the existing dormer in question was a vinyl clad uh vinyl sided dormer with what we call cheek walls that were about an inch and a half thick of no insulation and wood only the window in question was already replaced with a vinyl window there was no wood millwork the back roof of this structure had already been removed the stairs and access were non-code compliant unsafe and the roof was structurally unsound not that it was uninhabitable not that it was way outside the bounds of normal city housing stock but this i want to just set the character was not a particularly uh architecturally historic property in so much as the materials that were removed were of high value either monetarily or necessarily architecturally i do absolutely agree with the historic commission that we did interrupt the block so i will not dispute or try to counter the argument that we did break the continuity of a 14 dormer stretch again part of what we were looking to do is start dialogue so i have a crew there that works every day and there's hardly a day that goes by where somebody doesn't stop and say what's happening i've never seen this tell me about the project that's going on we've hosted regional events that is also looking for the future of housing how we can do housing in Lancaster well properly efficiently so while we are in conflict with the historic commission's report we got here somewhat unintentionally but at the same time we got here very much on purpose because we made a decision based on what we believe represents a possibility for moving forward and the architecture style of how we do that on the next one is certainly up for debate and had we gone through the process or been directed through the process at the initial plant's middle or if the city had requested additional feedback and information we would have gladly engaged at that time so happy to do that now i've talked a lot at you i really truly do want to have this primarily be conversation and dialogue but i want it to be understood in the context that this was a fully permitted fully green lighted city project that we are doing with the best intention of both city block city future and housing in mind so the characterization of after the fact i i bristle a little bit um and i also just want to characterize that we did not the vast majority of my company's work isn't historic preservation so you know we we do we fall into these camps where the world of preservation isn't inherently one of the most responsible sustainable ways to build part of the driver for this project was can we take that same mentality and push the envelope to this next level of potential development and can we get to one of the highest certifications that's out there in a Lancaster city home um rather than it's much easier out in cornfield we learned that today during some testing uh you know it's a very difficult very stringent um project that we're trying to thank",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "Mentions energy modeling and insulation for efficiency but does not focus on municipal grid/water/waste burdens or costs."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "Explicitly discusses permit submittals, plan reviews, zoning conversations, and perceived lack of feedback from city staff, framing the process as iterative but contentious."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks, noise, air quality, or trade-offs between economic benefits and well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "Briefly references historic preservation debates and housing equity but lacks critique of broader power imbalances or extraction patterns."
+        }
+      }
+    },
+    {
+      "block_id": 68,
+      "speaker": "SPEAKER_29",
+      "speaker_name": "Steve Funk",
+      "start": 4164.73,
+      "end": 4176.34,
+      "text": "MR FUNK UH I'M STEVE FUNK UH MEMBER OF THE HISTORICAL COMMISSION YOU CAN FEEL FREE TO",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and does not address infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "Mentions the Historical Commission (a municipal body) but lacks substantive discussion of process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "Incomplete and does not engage with cost-benefit distribution, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 70,
+      "speaker": "SPEAKER_29",
+      "speaker_name": "unknown",
+      "start": 4186.58,
+      "end": 4234.73,
+      "text": "REGARDING THE PERMIT, I DON'T KNOW IF YOU'VE ALL SEEN A PERMIT APPLICATION. IT INCLUDES BOXES THAT YOU CHECK THAT DESCRIBE THE DIFFERENT TYPES OF WORK THAT MAY OCCUR UNDER THE PERMIT. I ASSUME THE APPLICANT FILLED OUT THE PERMIT APPLICATION. THEY FAILED TO CHECK THE BOX FOR DEMOLITION OR ADDITION. AND THEN THE PERMIT WAS ACTUALLY listed as a permit for interior renovation that's why it wasn't flagged and sent to the historical commission first you know i'm hesitant to assign blame to that especially because no one from the the building department is here to state their position but there were some problems with the application and with the permit that was that was issued for interior renovation only and this",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural errors in permit documentation and does not address municipal resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker highlights flaws in the permit application process, information gaps (e.g., unchecked boxes), and procedural oversight, directly critiquing municipal decision-making and transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Indirectly suggests systemic issues in permit review (e.g., oversight failures), but no explicit discussion of power imbalances, inequality, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 71,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 4234.73,
+      "end": 4250.49,
+      "text": "obviously was not interior renovation it did reference full window replacement it had three dimensional models of the exterior there's also a checklist on the front that we filled out in its entirety nowhere on the checklist does it ask us to go to the historic commission",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural oversight of a renovation project, not municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker highlights a lack of transparency and proper process by noting missing historic commission review despite exterior modifications and 3D models, implying procedural oversight failures."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Indirectly critiques power dynamics by questioning whether the process was inclusive (e.g., historic commission review), but no explicit discussion of inequality or uneven distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_29",
+      "speaker_name": "unknown",
+      "start": 4250.49,
+      "end": 4286.47,
+      "text": "so we did fill out a checklist well yeah that's that's not again that's not on the application yeah sure it is up to the building official to determine whether it goes to the historical COMMISSION OR NOT TO DETERMINE WHAT'S REVIEWABLE BUT IN THE HISTORICAL COMMISSION'S YOU KNOW VIEW THE PERMIT WAS ISSUED IN ERROR IT WAS AN ADMINISTRATIVE ERROR A CLARICAL ERROR YOU KNOW IT WAS THE WRONG KIND OF PERMIT THAT WAS ISSUED FOR OBVIOUSLY AN ADDITION YOU KNOW DEMOLITION AND A BUILDING ADDITION THAT'S NOT LISTED ON THE PERMIT OR THE APPLICATION",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural and administrative errors regarding permits, with no mention of municipal resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly critiques the city's administrative process, highlighting errors in permit issuance, oversight by the Historical Commission, and procedural failures."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or well-being is present in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "While the comment implies systemic procedural flaws, it does not explicitly address power dynamics, inequality, or uneven distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 77,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 4509.39,
+      "end": 4532.03,
+      "text": "i guess i'll say we're tasked to review applications whether they meet uh the secretary of the junior group standards and the design standards and we're not REALLY TASKED WITH PROVIDING DESIGN SOLUTIONS OR RECOMMENDATIONS AT THIS POINT IN TIME, AND I WOULD FIND THAT PRETTY DIFFICULT WITH THIS APPLICATION. THANK YOU. ARE THERE ANY FURTHER",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural limitations of the council's role, not on municipal resources or utilities."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker explicitly critiques the council's scope of authority and ability to provide design recommendations, framing it as a procedural limitation that undermines oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, environmental impact, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, inequality, or broader systemic issues."
+        }
+      }
+    },
+    {
+      "block_id": 80,
+      "speaker": "SPEAKER_17",
+      "speaker_name": "unknown",
+      "start": 4552.62,
+      "end": 4612.34,
+      "text": "THE HISTORICAL COMMISSION JUST LOOKS AT WHAT IS PRESENTED TO US. SO WE WERE PRESENTED WITH A DEMOLITION REQUEST AFTER THE FACT, AFTER IT WAS ALREADY DEMOLISHED, AND THEN WITH THE DESIGN. IF IT CAME TO US, LIKE JUST AS A BLUEPRINT, WE WOULD DENY IT. SO THAT'S WHY WE DENIED IT AS BUILT. AND I WILL SAY, BECAUSE MY BACKGROUND IS IN PRESERVATION CONSTRUCTION, IT IS VERY EASY TO FIGURE OUT IF A BUILDING IS IN THE HARB OR IN THE HISTORICAL COMMISSION. often will just go on the city website you can type in the address and see what zoning and what criteria it your that each address needs so that that's something that is not very hard to figure out if you need to do counselor",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on preservation and zoning enforcement, with no mention of municipal utilities, infrastructure, or resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker critiques the Historical Commission’s process for reviewing demolition and design *after* the fact, highlighting procedural fairness and transparency gaps."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or well-being—only preservation and zoning compliance."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Indirectly critiques unequal enforcement (e.g., 'after the fact' demolition), but no explicit focus on power imbalances, costs/benefits, or vulnerable groups."
+        }
+      }
+    },
+    {
+      "block_id": 88,
+      "speaker": "SPEAKER_25",
+      "speaker_name": "unknown",
+      "start": 5029.04,
+      "end": 5157.76,
+      "text": "CRAIG I JUST WANT TO MAKE A COMMENT BECAUSE THIS VERY INTERESTING SITUATION THAT WE'RE IN SO when i want to be empathetic to the fact that uh it was mentioned that clerical error was made so i have um it's a little frustrating to feel that we're going to put the onus on a property owner uh to um a resident to have to correct that when uh it was something on our process that potentially could have prevented this um the other thing that i do want to mention why i think there i have a deep appreciation for our city's historical infrastructure i think the reality as well is that there are numerous conversations that are happening throughout our community around housing affordability energy consumption energy affordability and it's going to take innovative solutions to solve those challenges so um right now we have this tension between a historic housing stock uh which you know yes we we definitely should preserve and um also the need for innovation innovative solutions around housing affordability uh so it's interesting that this specific property um also is demonstrating this new idea that can save anywhere from 70 to 90 in energy costs which i find fascinating for a city that is suffering through a housing crisis and housing excuse me a housing affordability crisis and energy consumption can be um a big part of that so um yeah i just i want to make that comment i think uh given the fact that this is done i would also uh encourage and recommend mayor sirachi's recommendation around tabling this uh to ensure that you know we can come up with a good solution and move forward that honors um our CITY'S HISTORIC INTEGRITY BUT THEN ALSO UNDERSTANDS THAT YOU KNOW THERE ARE OPPORTUNITIES FOR NEW INNOVATIVE SOLUTIONS TO HOUSING AFFORDABILITY HERE THANK YOU COUNCILOR THANKS ARE THERE ANY",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.3,
+          "reasoning": "Mentions energy consumption and affordability as a municipal challenge, but does not directly address infrastructure strain (e.g., grid capacity, water, e-waste) or cost burden on residents."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "Critiques process fairness ('onus on property owner/resident'), references 'clerical error' as a systemic failure, and advocates for tabling to improve decision-making ('good solution')."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health risks, noise, air quality, or trade-offs between economic benefits and well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.6,
+          "reasoning": "Highlights housing affordability crisis as an inequality issue, frames energy savings as an opportunity for marginalized groups, and critiques uneven distribution of benefits ('innovative solutions' vs. historic preservation)."
+        }
+      }
+    },
+    {
+      "block_id": 89,
+      "speaker": "SPEAKER_13",
+      "speaker_name": "Susie Hoover",
+      "start": 5157.76,
+      "end": 5258.34,
+      "text": "QUESTIONS OR COMMENTS FROM THE PUBLIC THIS IS ON OKAY IT'S ACTUALLY AT MY LEVEL I'm Susie Hoover I have a house at 204 East King Street 1787 when I redid that house a number of years ago people tried to sell me replacement windows this that and the other thing and I retained the original windows I had them redone I'm not even well painted and that sort of thing a specialty insulation window on storm window on that and I would say with an old house that age and I took efforts with the best heating the last air conditioning that I could my utility bills on that house are very low and people come into my house and they tell me how incredibly quiet it is for being right on the frontage of East King Street which it is and so I think there are ways of accomplishing staying historic with materials that are very conducive to these type of renewal of historic homes without making major deviation from regulations for historic homes thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on historic preservation and energy efficiency in a personal home, with no mention of municipal utilities, infrastructure, or data center impacts."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not address city decision-making, transparency, or accountability—only personal home renovation choices."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health risks, noise, air quality, or trade-offs between economic benefits and well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to systemic power, inequality, or the data center project; it centers on individual home improvement."
+        }
+      }
+    },
+    {
+      "block_id": 90,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "Tony Dasher",
+      "start": 5258.34,
+      "end": 5330.26,
+      "text": "thank you miss hoover tony dasher 700 block of new holland avenue i i don't think the city's process failed them here uh as mr fung pointed out and i get it it was a it was a check mark but right now we're living in a country where people are being deported over check marks on forms this is honestly a situation which i understand the complications but something was filled out wrong and the process was followed incorrectly and that stuff happens uh i think we do need to be mindful of our historic architecture but i've even said to some people like we don't need to preserve every single house in lancaster city for its historic nature if we're trying to be a city IT DEVELOPS SO I THINK ME AS A MEMBER OF THE PUBLIC I'M OPEN TO CHANGE I DON'T UNDERSTAND THE FULL CONTEXT OF YOUR SITUATION BUT I WANT TO DEFEND THE CITY HERE AND SAY LIKE I DON'T THINK THAT THEIR PROCESS WAS WRONG THIS WAS A I'M GOING TO ASSUME TO BE A GENUINE ERROR UM AND I HOPE FOR YOU ALL THE BEST IN NAVIGATING THIS GOING FORWARD BUT SORRY THANK YOU MR ESTRA ARE THERE ANY FURTHER",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address infrastructure, utilities, or resource management concerns related to the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker briefly references a perceived procedural issue ('check mark,' 'filled out wrong') but frames it as an isolated administrative error rather than systemic distrust or critique of governance."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on a personal/property dispute and process defense, with no discussion of systemic inequity, cost-benefit distribution, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 94,
+      "speaker": "SPEAKER_31",
+      "speaker_name": "unknown",
+      "start": 5567.2,
+      "end": 5691.16,
+      "text": "10-fold. Dan, I'm sorry, you may need to hit that button to turn your mic on. You're very good at projecting, but that's it. Thank you. Great. I'm here on behalf of 10-fold requesting $100,000 from the local shares account to purchase a 15-passenger van. This van will directly support client services in a number of ways. It will serve the transportation needs of 10-fold's shelter and housing stability programs at any given time there are 190 households in tenfold programs that could benefit from transportation in each of these programs case managers provide services to individuals and families experiencing homelessness in lancaster county many of these households face transportation barriers limiting access to things like employment opportunities health care housing appointments and food banks a 15 passenger van would also serve as a means for households without transportation to access tlc emergency shelter when they cannot get there on their own we also envision using this for logistical supports as well moving supplies between different sites and really to facilitate in building positive community and positive experiences among our case managers and and clients and and in the households themselves having the ability to take people on educational outings, attending local events, volunteering, all of which promote connections, strengthen relationships, and build community. We believe that a 15-passenger van aligns with the LSA's goal of enhancing community, well-being, and infrastructure, and it will allow Tenshold staff to safely and reliably transport clients to critical destinations, which we believe will shorten the length of time people experience homelessness and that we feel like is a win for everybody",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on a local nonprofit's operational needs and does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not critique or discuss the decision-making process, transparency, or accountability of the city council."
+        },
+        "health_and_well_being": {
+          "score": 0.1,
+          "reasoning": "While the comment mentions transportation barriers to healthcare access (a health-related need), it does not explicitly frame health risks or trade-offs related to the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power dynamics, inequality, or uneven distribution of costs/benefits—it focuses solely on a nonprofit's resource request for community support."
+        }
+      }
+    },
+    {
+      "block_id": 97,
+      "speaker": "SPEAKER_23",
+      "speaker_name": "Jen Arantes",
+      "start": 5718.14,
+      "end": 5801.34,
+      "text": "wonderful perfect again I'm Jen and the purpose of the statewide LSA program is to reinvest gaming funds into projects in the communities to improve quality of life across Pennsylvania so specifically these grants range anywhere from twenty five thousand to one million dollars and there's no local match required funding can be used to support public infrastructure community facilities equipment vehicle purchases demolition and planning and design work so a lot of the benefits that comes to the communities that apply and receive LSA funding it brings outside investment into projects that might otherwise be unfunded improves neighborhood facilities and services and creates opportunities for partnerships specifically because the city needs to apply for any nonprofits or other organizations who are interested in THESE PROGRAMS SO SINCE 2022 WHEN WE WERE FIRST ABLE TO APPLY FOR THESE GRANTS WE AS A CITY HAVE SUBMITTED 30 APPLICATIONS 11 HAVE BEEN AWARDED AND WE'RE STILL WAITING FOR 2024 APPLICATIONS IN TOTAL LANCASTER CITY HAS RECEIVED 5.9 MILLION IN AWARDED DOLLARS THROUGH THE LSA PROGRAM AND IN 2025 WE'RE EXPECTING TO SUBMIT 11 MORE THANK YOU SO MUCH ARE THERE ANY QUESTIONS FROM",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on the LSA grant program and its benefits to Lancaster, with no mention of municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment briefly references the city's application process for grants, but it does not critique transparency, accountability, or community involvement in decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health impacts, quality of life, or environmental concerns related to the AI data center or any other topic."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the comment highlights funding opportunities, it does not discuss power imbalances, inequality, or uneven distribution of costs/benefits related to the AI data center or broader systemic issues."
+        }
+      }
+    },
+    {
+      "block_id": 99,
+      "speaker": "SPEAKER_20",
+      "speaker_name": "unknown",
+      "start": 5804.68,
+      "end": 5825.68,
+      "text": "I HAVE ONE CLARIFICATION THAT MIGHT BE IMPORTANT CONTEXT. ALSO, THANK YOU FOR YOUR APPLICATION. I THINK IT'S A VERY WORTHY PROJECT. BUT JUST ABOUT THE LOCAL SHARES PROCESS, ALTHOUGH WE SUBMIT THE APPLICATION ON BEHALF OF THE ORGANIZATIONS, DO WE HAVE ANY SORT OF FIDUCIARY RESPONSIBILITY OR OVERSIGHT IF THEY ARE TO BE AWARDED?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural clarity about local shares and fiduciary responsibility, not on infrastructure, utilities, or resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly questions oversight and fiduciary responsibility, directly engaging with transparency and accountability in the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or bodily harm—only procedural concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Indirectly raises a power imbalance by questioning whether the city has adequate safeguards, but the core focus remains on process, not systemic inequity or cost-benefit distribution."
+        }
+      }
+    },
+    {
+      "block_id": 102,
+      "speaker": "SPEAKER_32",
+      "speaker_name": "Dana Clark",
+      "start": 5871.9,
+      "end": 6131.3,
+      "text": "by the ywca good evening good evening my name is dana clark i'm actually the architect for the y forward renovations i'm here on behalf of stacy tonight she was able to make it but i want to thank council and the mayor for allowing us this opportunity this is as you may know a transformational project for the YWCA their historic building and quite honestly that that corner of the city at this point if you haven't been by recently we're about 95% complete if you're looking for a historic building with a facelift go check out this one we're super excited for having been able to remove the stair tower and restore the facade of that building so if you haven't been by please please take it take a walk and take a look I have promised everyone on staff there that they will be in before Thanksgiving if they don't they promised they would cook me so in our in the next steps for this in this first there were two other previous phases that we did some with LSA funding. This phase, we're going to welcome new tenants, 17. We've added 17 units of low-income housing and then refurbished 12 existing residential suites in the existing building. What we're looking for now, the request before you, is to support phase four, which is the last phase of this really ambitious project um this last phase will renovate all the additional residential suites that have not been touched by any of the three previous phases it will enhance livability and efficiency we talked a little bit about energy efficiency it is key in making an older building work well part of what we're doing is increasing the efficiency of all the units and phase four continues to do that on the fourth floor uh which is the location of of the remaining units that need to be renovated. The second floor, another key component is the childcare component. The second floor is going to get reorganized and renovated. Again, not only improved utilities, HVAC lighting, but also better layout to support more programs for the daycare center. So we're excited. We're excited by that. It will increase the overall capacity of the Y and its program, which is something that they really do need. The first floor, so the phase four is really the fourth floor, the second floor, and some additional work on the first floor. The work on the first floor, if you guys have been in there, you know there's an old gymnasium that was in there. Similar to what we did when we filled in the old auditorium space, we're looking to get more square footage in this urban environment, and there's nowhere for them to go so the best use of that existing facility would be to add another floor there and again this is all to increase the childcare program so all the work that we're doing I know they'll be very excited to show you all at the open house all the work we're doing is very sensitive to historic fiber inside the building and outside the building so while it's you know it's unfortunate to infill a volume space I think in this particular case it makes sense for the why and their programming and again the first floor lay out some of the lobby if you guys have been in the lobby you know has had some less sensitive work done to it the last piece of phase four is to take certain portions of that lobby that are really open to the public and for community use and sort of restore those pieces back to a more historically sensitive context so the full cost for phase four is projected at seven million phase three is gonna finish they've already spent or will be spending at the end of phase three 11 million so the Y has invested significant resources not only through grant programs like the LSA but you know Stacy has done a phenomenal job of looking for other in other forms of revenue to support the mission and the programs at the Y so I was pretty excited that she asked me to come in and",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "Mention of energy efficiency improvements (HVAC, lighting) is tangential but not central to municipal utilities like grid capacity or water supply."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No discussion of governance, transparency, or community oversight—focus is on project details and funding."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks, air quality, noise, or trade-offs between economic benefits and well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While housing expansion is mentioned, the comment does not critique power imbalances, historical extraction, or uneven cost-benefit distribution."
+        }
+      }
+    },
+    {
+      "block_id": 109,
+      "speaker": "SPEAKER_21",
+      "speaker_name": "unknown",
+      "start": 6272.55,
+      "end": 6295.99,
+      "text": "COUNSELOR NIETZ. THANK YOU, COUNSELOR CRAIG. I just wanted to commend you. I was a counselor for sexual assault years ago, so seeing it grow and seeing it build, it's great. It just feels good knowing that women that run into situations of sexual assault or not having a home, it's great to know where they can go.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to municipal resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address governance, transparency, or decision-making processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While it references support for vulnerable individuals, it does not discuss health risks, environmental impacts, or quality-of-life concerns related to the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on social services and support for marginalized groups but does not critique power structures, economic disparities, or uneven distribution of costs/benefits tied to the data center proposal."
+        }
+      }
+    },
+    {
+      "block_id": 115,
+      "speaker": "SPEAKER_21",
+      "speaker_name": "unknown",
+      "start": 7233.92,
+      "end": 7279.41,
+      "text": "questions at this time okay so my question is related to the noise is there like i know that they have decibels levels um and i'm not sure the acoustic i'm thinking that you would have like 85 55 to 85 DB's is that something that would be outside or is it around 95 or 96 do you have what levels they'll be because I'm sure that those that live close by especially the one on Harrisburg Pike especially that they have mentioned the fact that they want to know how loud that is going to be",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses solely on noise levels and does not address electricity, water, waste, or budgetary concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of transparency, oversight, or procedural fairness—only a technical inquiry about noise."
+        },
+        "health_and_well_being": {
+          "score": 0.8,
+          "reasoning": "Directly raises concern about noise pollution (decibel levels) and its impact on nearby residents' quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations—only a localized noise concern."
+        }
+      }
+    },
+    {
+      "block_id": 126,
+      "speaker": "SPEAKER_26",
+      "speaker_name": "unknown",
+      "start": 8297.63,
+      "end": 8311.87,
+      "text": "CRAIG AND THANK YOU DIRECTOR DELVES AND CITY STAFF FOR YOUR THOROUGHNESS IN THIS ZONING AMENDMENT MY QUESTION IS IF APPROVED WILL THIS RETROACTIVELY APPLY TO THE TWO DATA CENTERS THAT ARE CURRENTLY",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipal resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker explicitly references the *zoning amendment process* and asks about retroactive application, signaling concern for procedural fairness and clarity in municipal decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or bodily harm."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural specifics rather than broader equity or cost-benefit distribution."
+        }
+      }
+    },
+    {
+      "block_id": 137,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "Matthew Barden",
+      "start": 8734.6,
+      "end": 8806.43,
+      "text": "COMMENTS FROM THE PUBLIC. CAN YOU FIRST START WITH YOUR name and your block of residence my name is matthew barden i'm on the 800 block of north prince thank you we can see this this document tacitly acknowledges the numerous potential downsides of this facility to the community energy and water use and pollution chief among them to all acknowledge the glaring lack of detail around the proposed limits of this facility at this time what i'm failing to see is the benefit to the city at large or any individual residents of lancaster this kind of facility creates no meaningful number of community jobs provides no necessary or desired local service. Any argued tax benefits to the community would ignore the long-standing tradition in this country of corporate entities evading their responsible tax burdens to the local community, and even ignoring that, pale in comparison to the litany of medical issues that these facilities have already proven to lead to in the short term, and that doesn't even account the currently unproven long-term environmental and health impacts. There's no amount of financial benefit offered by these data centers that could conceivably offset the corresponding detriment to public health and welfare. It's very easy to find",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.7,
+          "reasoning": "Explicitly mentions energy and water use, pollution, and acknowledges infrastructure burdens without detailing specifics."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "Criticizes lack of detail in proposed limits but does not directly address transparency or community oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.9,
+          "reasoning": "Strong focus on medical issues, short-term/long-term health impacts, and the trade-off between financial benefits and public health/welfare."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "Challenges corporate tax evasion, job creation claims, and frames the project as an uneven burden on residents vs. corporate benefits."
+        }
+      }
+    },
+    {
+      "block_id": 138,
+      "speaker": "SPEAKER_24",
+      "speaker_name": "unknown",
+      "start": 8806.43,
+      "end": 8810.01,
+      "text": "stories about communities that have suffered because of these data centers but i've yet to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is incomplete and does not address infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment references broader community impacts but lacks explicit critique of decision-making, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.3,
+          "reasoning": "The phrase 'communities that have suffered' implies health/well-being concerns, but no direct mention of noise, air quality, or health effects."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.4,
+          "reasoning": "The comment hints at systemic harm ('suffered') but is too vague to score higher—no explicit focus on power, inequality, or uneven distribution."
+        }
+      }
+    },
+    {
+      "block_id": 139,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "unknown",
+      "start": 8810.01,
+      "end": 8813.67,
+      "text": "see a single story of a community glad to have them i think we should sit and think on that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a rhetorical question and does not engage with infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment subtly critiques the framing of community sentiment, implying a lack of genuine consensus or transparency in decision-making, but does not explicitly address process details."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, quality of life, or bodily harm is present."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "The comment critiques the narrative of community approval, suggesting an uneven or manufactured consensus, but does not explicitly address power structures or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 142,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 9232.49,
+      "end": 9294.65,
+      "text": "over on king and lime street i i just have a couple questions um i would like to see uh how the zoning rules would be regulated um and additionally uh what kind of consequences there will be for these corporations who are establishing these centers in our community right now i haven't been to any of the earlier meetings but right now i'm looking at a few pages with a lot of vague wording no metrics and no accountability and that really concerns me i moved all the way across the country with my wife we want to start a new life here and we don't want want to see it destroyed for a few dozen jobs so if we could revise it a little bit and get some hard numbers get some facts get some figures from the other data centers like the other gentleman said they're affecting other cities and states across America with these giant data centers the health the environment that would be greatly appreciated and I'm very happy to be before you and allowed to give public comment and we would love to see that continue thank",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.2,
+          "reasoning": "Mentions vague zoning rules and lack of accountability but does not explicitly address specific municipal resources (electricity, water, waste) or their strain."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "Directly critiques lack of transparency, vague wording, and absence of accountability in zoning rules, framing the process as opaque and unstructured."
+        },
+        "health_and_well_being": {
+          "score": 0.5,
+          "reasoning": "References health impacts from other cities' data centers and expresses concern about environmental harm, though not tied to direct local health risks like noise or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "Challenges the 'dozen jobs' justification, framing the project as destructive to their new life and community, and questioning corporate accountability for broader harms."
+        }
+      }
+    },
+    {
+      "block_id": 143,
+      "speaker": "SPEAKER_18",
+      "speaker_name": "Taylor Enterline",
+      "start": 9294.65,
+      "end": 9366.74,
+      "text": "thank you thank you like set up from back there but uh my name is taylor enterline i'm a community organizer with lancaster stands up i'm from the manheim borough can you hear me now better um my name is taylor enterline i'm a community organizer with lancaster stands up i'm part of manheim borough though i just wanted to really thank council and y'all's two time for taking the time to write this um ordinance it's very important my favorite part is in terms of the need for community input especially for the community taxing and costs that will be on our folks here and wanting to point out of the fact that one individual went behind the backs of many people to sell out our community for big tech and now we have to go through all this to make sure that amendments are made so my hope is that once we get the answers if this would be RETROACTIVE AND AROUND THE COMMUNITY BENEFITS AGREEMENT, HOPING THAT THERE'S AN OPEN FORUM FOR OUR FOLKS TO ACTUALLY HAVE INPUT ON THAT BEFORE ANY DECISIONS ARE MADE ARE REALLY IMPORTANT. THANK YOU FOR YOUR TIME.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "Mentions 'taxing and costs' on residents but does not explicitly tie to specific municipal utilities (electricity, water, waste) or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "Directly critiques lack of transparency ('went behind the backs of many people'), demands community input, and questions retroactivity of decisions—core to Theme 2."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or bodily harm."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "Accuses a single individual of 'selling out' for 'big tech,' framing the community as bearing costs while benefits accrue elsewhere—aligns with power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 145,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "Taylor Raymond",
+      "start": 9376.23,
+      "end": 9462.59,
+      "text": "TAYLOR RAYMOND, 500 BLOCK OF ST. JOSEPH STREET. I AGREE WITH EVERYONE WHO'S SPOKEN PREVIOUSLY, THEY ARE A LOT MORE ELOQUENT AND SMARTER THAN ME IN REGARDS TO THE DATA Center I have a couple of questions so if a if a plan is approved and the data center is developed and then what they submitted doesn't or what they do doesn't live up to what they submitted it doesn't meet the requirements what consequences do they suffer under this current zoning ordinance or under the proposed one and then additionally about the community benefits agreement so I looked up just a basic definition of what that was just to make sure I knew what I was talking about and it says that it is a contract signed by community groups and a real estate developer so I wanted to know what community groups are involved in that um because i don't i don't know of any and i would love to know if there are any um that are being included thank you can i get some answers on those um",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "No direct mention of infrastructure strain (electricity, water, waste) or municipal resource concerns."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "Explicitly questions enforcement consequences of non-compliance with zoning and CBA terms, and scrutinizes transparency in community benefits agreement participation, signaling distrust and demand for accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "Indirectly critiques power imbalance by questioning who represents the community in the CBA, but lacks explicit framing of unequal cost/benefit distribution or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 148,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 9496.48,
+      "end": 9501.55,
+      "text": "something about it and now i can't remember um it was the what consequences would they suffer",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague and incomplete to engage with any municipal resource concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No reference to decision-making, transparency, or accountability in the city process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or bodily harm."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is incoherent and lacks any framing of cost-benefit distribution or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 152,
+      "speaker": "SPEAKER_28",
+      "speaker_name": "unknown",
+      "start": 9536.38,
+      "end": 9565.9,
+      "text": "thank you thank you so zoning enforcement is already written in the zoning ordinance it's a set procedure the zoning officer if there is an enforcement issue a complaint or a violation he would investigate that complaint and he would file a notice of violation that would go through the process that can be appealed to the zoning hearing board the notice of violation can or at who can make changes to any approvals they have they can uphold it they can deny it but it would",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural details of zoning enforcement, not municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker describes the formal process for zoning enforcement, highlighting procedural transparency and accountability mechanisms (e.g., notices, appeals to the zoning hearing board)."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, inequality, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 154,
+      "speaker": "SPEAKER_28",
+      "speaker_name": "unknown",
+      "start": 9572.62,
+      "end": 9591.9,
+      "text": "yes they can if they don't address the the concern or the issue after a notice of a violation is sent in um and no action has been taken we can file with the district magistrate on those um i would foresee that probably not happening with this it doesn't happen frequently but it",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on enforcement actions and legal recourse, not municipal resources or utilities."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker references lack of action after violations and filing with a magistrate, indicating distrust in enforcement and procedural accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, environmental quality, or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Indirectly suggests systemic issues with enforcement but lacks explicit framing of power imbalances or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 156,
+      "speaker": "SPEAKER_27",
+      "speaker_name": "Sophia Pangburn",
+      "start": 9610.32,
+      "end": 9629.52,
+      "text": "hello my name is sophia pangburn i'm from the 200s block of king street and i just want to 100 clarify just to make sure that i understand this correctly that even if this zoning uh thing is passed it doesn't necessarily apply to the two warehouses that are currently already",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipal resources, utilities, or infrastructure concerns."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker explicitly questions the scope and application of zoning decisions, signaling concern about process clarity and potential loopholes in oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or well-being considerations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses narrowly on procedural ambiguity rather than broader equity or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 166,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 10198.41,
+      "end": 10232.15,
+      "text": "AND I JUST WANT TO MAKE A COMMENT IN SUPPORT OF THIS BECAUSE I WITNESS IT EVERY DAY, PEOPLE RUNNING RED LIGHTS. IT'S INCREDIBLY DANGEROUS. I HAD A DEAR FRIEND WHO WAS HIT, SEVERELY INJURED BOTH PHYSICALLY AND EMOTIONALLY, MENTALLY, AND I'M JUST REALLY GLAD TO SEE THE CITY PURSUE THIS IN OUR NEST BECAUSE I THINK IT'S LONG OVERDUE. THANK YOU. ANY OTHER QUESTIONS FROM",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making, transparency, or accountability in the data center process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the comment references personal trauma, it is about traffic safety—not health impacts of the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment lacks connection to systemic power, inequality, or distribution of costs/benefits related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 170,
+      "speaker": "SPEAKER_19",
+      "speaker_name": "unknown",
+      "start": 10284.94,
+      "end": 10371.97,
+      "text": "UM WHERE I'M NOT YOU KNOW PRO HELPING THE POLICE UM I DO BELIEVE WE HAVE AN ENORMOUS AMOUNT OF HIT runs in this city that do not get solved so um yes where safety is concerned we do need new measures but we shouldn't be relying on trapping our residents to make money um i get that our city needs to find ways to pay for it but it shouldn't be coming from trapping our residents no matter what that looks like if that is paying attention to if they turned right on red um we pay out our wazoos to live in lancaster as it stands right now with the way our cost of living is and where i like i said i do believe we need to do something because safety is prevalent um i also know somebody that was in a hit and run um at the beginning of this year and they suffered immensely so yes we do need to do something but i don't believe that we should be searching for ways to entrap people to fix our financial issues i know but that was the statement that was made about whether we were going to make any money off of this and no we're not where it needs to happen it shouldn't be about if we're going to make money off of it it should be about if our residents are",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker briefly references financial concerns tied to city needs but does not critique process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or bodily harm—focus is on safety and financial burden."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The comment explicitly frames residents as bearing costs ('trapping our residents') while questioning financial benefit, aligning with inequality and power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 172,
+      "speaker": "SPEAKER_19",
+      "speaker_name": "unknown",
+      "start": 10383.17,
+      "end": 10419.01,
+      "text": "i don't think we should do that either like we pay out the wazoo and parking tickets we're paying out the wazoo and housing costs i just think that where we do need safer solutions like something on manor and philbert that decreases the speed because i just almost watched a kid get hit by a car two days ago but we don't have a light there we do need different things implemented i just think it should be fiscally better for our residents all right uh hi my name's uh nikolai",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No discussion of decision-making fairness, transparency, or accountability related to the AI data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While traffic safety is a well-being concern, it is unrelated to the AI data center or its potential health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on local infrastructure (speed limits, crosswalks) rather than systemic power dynamics or inequality tied to the AI data center."
+        }
+      }
+    },
+    {
+      "block_id": 173,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "Skycus",
+      "start": 10419.01,
+      "end": 10542.4,
+      "text": "skycus i'm a resident on 300 west lemon that block um there's there definitely are studies that don't necessarily show it improves safety um i was looking at one right here before uh i didn't didn't know this was on the agenda uh and so i uh i can provide that for anyone who wants uh it essentially was a study in houston saying they stopped the red light cameras and they said well we're not totally sure whether or not it improved safety or not and slam on the brakes when they were like you know just about to uh like blow it i'm saying like much earlier creating you know dangerous incidents i've been in the car in front or you know behind those people who have been in those situations. I don't necessarily believe that this will improve safety. I think it might just change the accidents that we're seeing here in Lancaster. I would also just say that anecdotally from, well, from where, you know, I grew up, I'm very happy to be living in Lancaster, but in the Chicagoland area, there's a lot of bureaucracy in fighting tickets and Google shirts can show that there have even been instances with these red light camera companies i'm not sure if it'll be the same one servicing the city but in getting completely wrong license plates uh of people who they said oh this is your car and it actually wasn't their car it was someone else's car and there was no way to uh to fight it people had a hard time doing that so i would just if this was going to go into place i would make sure that there would be a robust system for people to fight the tickets uh so that they didn't get wrongfully ticketed because you know they are pricey um and i would echo the previous commenters uh the speaker's thoughts about other ideas for safer streets like you know you can narrow the streets i i'm just saying there's other ideas too that we don't necessarily need to resort to just red light cameras to slow down people so please do not pass",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on traffic safety and red light cameras, with no mention of municipal utilities, infrastructure strain, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker critiques the proposed red light camera system's fairness and transparency (e.g., 'robust system for fighting tickets'), but this is tangential to Lancaster’s AI data center debate and lacks direct engagement with municipal decision-making processes around the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health impacts, air/water quality, noise, or bodily harm—it is entirely about traffic safety and bureaucratic fairness."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the speaker critiques systemic issues like misidentification of license plates (a form of unequal enforcement), this is unrelated to the AI data center’s broader power dynamics, wealth distribution, or historical extraction patterns."
+        }
+      }
+    },
+    {
+      "block_id": 174,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "John Allison",
+      "start": 10542.4,
+      "end": 10683.46,
+      "text": "this good evening my name is john allison 400 block of west lemon streets um my largest concern is going to be the administrative burden that is placed upon the residents of lancaster just seeing if there is a false signal or something like that how the appeals process is going to go it's an automated system so it's basically placing the majority of that administrative burden on lancaster uh residents as well as i was looking at the proposal i saw it cost about a hundred thousand dollars per traffic light and i'm just wondering if this is the best use of funds compared to having other public safety measures throughout lancaster um one of the things i've seen a lot of times while i'm driving around the city is not is the motorized bicycles or the uh different types of scooters that people uh ride around very fast and i've there's been numerous accidents here in the city where people have been where they run red lights none of those vehicles are required to have license plates or have any ability to be fined because they're more like a bicycle than they are a commuting traffic like a commuter car or a motorcycle when i see that they are as much of a danger or in as much a danger as a motorcycle going with within the speed limits on city property or like it within the city limits so those are my two things that i think is just if we're looking at this potential uh administrative burden. And then I'm just wondering if that's going to actually stop people going through the red lights. I know in the early mornings, a lot of people go through, especially down like Prince Street, and they'll use the progressive green lights to start almost preemptively going through the red lights. I know that can cause accidents. So I just wanted to know what that is. And then also the time difference between someone, let's say they enter a yellow light, when does that red light cameras start taking effect like are they if they're halfway through the intersection when it turns red because of some of these traffic signals are very very fast so I just want to know what when people are going to be get penalized and if so do we know any more additional information",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "Mentions cost of traffic lights (100k each) as a public expenditure concern, but does not tie it to municipally managed utilities (electricity, water, waste) or long-term infrastructure burden."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "Directly critiques the automated appeals process as shifting administrative burden onto residents, questioning transparency and fairness of enforcement mechanisms."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "Focuses on traffic safety and enforcement, not health impacts or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "Indirectly critiques uneven enforcement (e.g., scooters vs. cars) but does not frame it as systemic inequality or historical patterns—more procedural."
+        }
+      }
+    },
+    {
+      "block_id": 177,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 10720.09,
+      "end": 10749.93,
+      "text": "Some other question I'd ask is, could we also possibly spend better money by installing more opticons on the streetlights for emergency response vehicles? I know that a lot of the streets of the city, especially around the hospital, where there are a lot of emergency response vehicles, they don't have the ability to have opticons or areas where those could be actually very well implemented compared to installing these red light street cameras. So instead of having emergency vehicles cutting across traffic on a green light, instead of",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on emergency response infrastructure (opticons) and does not address municipally managed resources like electricity, water, or waste related to the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not critique decision-making, transparency, or accountability in the data center process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss health impacts, noise, air quality, or trade-offs between health and economic benefits."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to power dynamics, inequality, or the distribution of costs/benefits of the data center project."
+        }
+      }
+    },
+    {
+      "block_id": 185,
+      "speaker": "SPEAKER_24",
+      "speaker_name": "unknown",
+      "start": 10930.24,
+      "end": 10954.93,
+      "text": "by pen dot okay um appreciate it because i've i've been hit twice in a crosswalk walking on green so i definitely uh in very um want to see more safety in crosswalks but at the same time you know i've heard some good good comments here don't want to make sure that we're exacerbating",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on pedestrian safety and crosswalks, with no mention of municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not address decision-making, transparency, or accountability in municipal processes related to the AI data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While pedestrian safety is a well-being concern, the comment does not connect to AI data center impacts on health, air quality, noise, or environmental quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to themes of economic inequality, historical extraction, or uneven distribution of costs/benefits tied to the AI data center project."
+        }
+      }
+    },
+    {
+      "block_id": 186,
+      "speaker": "SPEAKER_13",
+      "speaker_name": "Susie Hoover",
+      "start": 10954.93,
+      "end": 11017.66,
+      "text": "any problems um so anyway thanks all right quickly i just uh susie hoover um i was out of state for an event with the family and my hostess who was older had me drive and as i drove through the city and i did not know this she said drive faster and i said no but the speed limit says this she said don't worry when i got home i did have two photographs of my car speeding with this type of system i didn't go through a red light it was actually on the street and i went there was my license plate there was the camera clearly it was me so i actually got points out of it i almost thought about writing my uh writing my hostess but she was such a cool lady i thought i wouldn't and i just paid it but this system does work it does work thank you and just to reiterate this is not",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address city decision-making, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The speaker’s concerns are about traffic enforcement, not health or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss cost-benefit distribution, inequality, or systemic power structures."
+        }
+      }
+    },
+    {
+      "block_id": 189,
+      "speaker": "SPEAKER_26",
+      "speaker_name": "unknown",
+      "start": 11137.06,
+      "end": 11143.38,
+      "text": "public safety committee my questions were was there any legal review of this resolution when",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address infrastructure, utilities, or resource management concerns."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker raises a procedural concern about legal review of the resolution, which directly relates to transparency and accountability in municipal decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss cost-benefit distribution, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 190,
+      "speaker": "SPEAKER_21",
+      "speaker_name": "unknown",
+      "start": 11143.38,
+      "end": 11207.07,
+      "text": "it was written well if you heard the mayor and she told me that it was illegal it was very interesting that if if a different state i mean a different county has it it's obviously not illegal and if you look at it and you read it there's nothing there that's going to show that there's going to be any voting power whatsoever it's just to have a community people and it's going to include police officers even though i know for sure that some people in the community feel that that's not really the reason to have it it's more for the for you to say look this person broke the law this person was aggressive this person you know did not follow the law um but this is very simple i mean even city council is going to be appointing um the even police officers is going to be on their social worker and community members it's not any type of voting power whatsoever thank you and my question was when it was written was there",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipal resources like electricity, water, waste, or budgetary capacity."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker critiques the legality and fairness of the process, questioning why the mayor claims it's illegal while other jurisdictions allow similar arrangements, and highlights distrust in the city council's role in oversight (e.g., appointing police officers and community members)."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The comment subtly critiques power dynamics by questioning whether the arrangement is truly for community benefit or a tool for enforcement (e.g., targeting 'aggressive' individuals), but lacks explicit discussion of broader inequality or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 191,
+      "speaker": "SPEAKER_26",
+      "speaker_name": "unknown",
+      "start": 11207.07,
+      "end": 11213.07,
+      "text": "any legal review not when you met with the administration but when the resolution was",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address infrastructure, utilities, or resource management concerns."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The comment critiques the timing of legal review, implying a procedural or transparency issue in how decisions were handled."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, environmental impact, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss distribution of costs/benefits, inequality, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 198,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 11364.29,
+      "end": 11370.16,
+      "text": "definitely do not feel comfortable with this given all of those concerns and not getting",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too vague to engage with specific municipal resource concerns (electricity, water, waste, etc.)."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The phrase 'not getting' could imply dissatisfaction with transparency or process, but it lacks concrete details about information asymmetry or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No explicit mention of health impacts, noise, air quality, or bodily harm."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 202,
+      "speaker": "SPEAKER_20",
+      "speaker_name": "unknown",
+      "start": 11420.34,
+      "end": 11473.61,
+      "text": "comment thank you um i i had ample opportunity to review this because i think this has come up for three months now and i have some lingering questions um most notably about the participation of the police social worker that's proposed here as an employee of the police department i would I would be very concerned about having another employee have access to personnel records. That seems to me a pretty distinct violation. I think that it, that just speaks to the nature of this particular bill being written without any sort of regard or legal review. It seems like from an employment law perspective, that that seems pretty basic. Is there, did anyone look at this an employment law perspective when it was drafted that i did not go through but i can thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on police department personnel records and employment law, with no mention of municipal utilities, infrastructure, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker critiques the drafting process of the bill, questioning whether legal review (including employment law) was conducted, implying a lack of thoroughness and transparency in decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, environmental quality, noise, or well-being is present in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address broader systemic inequalities, cost-benefit distribution, or historical patterns—only a specific procedural concern about personnel access."
+        }
+      }
+    },
+    {
+      "block_id": 204,
+      "speaker": "SPEAKER_19",
+      "speaker_name": "Jessica Lopez",
+      "start": 11652.82,
+      "end": 11894.17,
+      "text": "trust in our police thank you jessica lopez lancaster city resident and thank god we're finally at this point um i want to say that it's kind of disappointing where i can't stand all the way with this resolution i feel like it's very disappointing that jews aren't taking this serious that youse aren't doing the background search since march 2nd to find a way to quell the distrust between city council our police department and our city residents the fact that tony had to create some type of proposal and then get the one most pro-police city council member we have to put this forward says a lot um i think that being i can't stand with it being that our city solicitor just signed on with our district attorney to try to silence the transparency in the march 2nd video incident that we're still fighting for we can't trust that our city is here to protect us they are literally meeting november 4th on election day to decide whether these body cam footages are allowed or not who's going to be in that courtroom that's sitting up here that vowed to protect us i would hope that you know the protection of our children would be more important than elections and stuff and when that court proceeding goes on november 4th somebody from city council will be there because these are very important decisions that are being made no this police working group as it stands right now i cannot stand with i can't agree with we do need an authoritative stance from our community to our police department we do need a voice at the table when that collective bargaining agreement is being revisited coming up we do need a say in our own protection because every response that came from you guys to this proposal is if the police were going to be protected in this and not if the community was actually going to be protected we asked if a social worker being involved is going to release police information what about the protection of our residents that's what we're asking for it might not look like this police working group that was proposed to you but it does look like the the ass for the last eight months since that bike incident transpired outside all we're asking for is for you to really do what you said jews would do when you ran to get up here like that's sad i mean there's times i've come up and spoken for you there's times i've come up and spoken on behalf of a lot of things that people are proposing up here and yet again every day you sit in these seats and do not speak for us but we're worried about the protection of our police officers yes there is a working group in pittsburgh that oversees their police department there's also a court watch set up in pittsburgh pittsburgh does a lot to protect their residents not just capitalize on them lancaster literally sat here for hours pushed this to the very end and then acted like our ass are wrong no we need protection and we put y'all in place to do it so if we need lawyers to review and figure out how we can legally get a resident review board of our police department that's y'all job that's not tony's job that's not this community's job that's your guys's job to figure out how to protect the people that put you in place so yes we do need a police working group it's not the one that is put in this proposal that this does need table though it doesn't need revisited and you need to do your job to make it so that this resolution fits our",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on police accountability, transparency, and community protection—no mention of municipal utilities, infrastructure, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly critiques the process of decision-making, distrusts officials' transparency, and demands community-led oversight (e.g., resident review board, transparency in police contracts)."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or bodily harm—entirely centered on police-community relations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The comment highlights systemic distrust, unequal power dynamics (e.g., 'you sit in these seats and do not speak for us'), and demands for community agency over institutional authority."
+        }
+      }
+    },
+    {
+      "block_id": 206,
+      "speaker": "SPEAKER_18",
+      "speaker_name": "Enterline",
+      "start": 11923.91,
+      "end": 11994.86,
+      "text": "enterline uh community organizer with lancaster stands up part of manhattan borough um i do appreciate tony taking the time to bring this and funnel it through janet i do think though I don't see how it's different from what came out of 2020 and that has dissolved and our community has asked for more something with teeth and so I would ask that like regardless if you know the conversation the conversation cannot stop here so what you vote on this but that each of you would take the time to work with folks whether that's community organizers community folks if it is the police to figure out what the solution here is because something does need to give I mean we are going to get a new chief we are going to get a new mayor and I hope that those folks are willing to like work with the community we are told all the time to come to the table continuously we do and so I hope that something is on the table for us to actually have some power here when we talk about our police and how our folks are policed here in the city thank you I'll make a motion to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly critiques the process as lacking meaningful engagement, demanding ongoing collaboration and 'teeth' in solutions, and accuses officials of not fully addressing community concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or direct physical impacts—focus is on policing and governance."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The comment critiques systemic power imbalances by framing community demands as marginalized voices seeking agency, contrasting with officials' perceived lack of accountability and willingness to collaborate."
+        }
+      }
+    },
+    {
+      "block_id": 219,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 12598.33,
+      "end": 12641.82,
+      "text": "holland avenue citizens police oversight commission out in philadelphia appears to have some teeth to it um the commission works to increase the transparency they're a class one city mr dastra they operate under different rules yeah and we also need to get police accreditation to get red light cameras there are certain mechanisms so i guess what i'm really trying to make the point of is that you asked for another municipality i gave you one what we as the public need is education on this perspective this goes all the way back to other issues we should have like if we're going to work on this you wanted reports from the police right on this issue let's let's lay it out on paper like here's why I have been talking about",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly critiques the lack of transparency and demands structured, public-facing reports—directly engaging with information asymmetry and accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or bodily harm."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The comment references systemic mechanisms (e.g., accreditation) but does not explicitly tie them to unequal cost/benefit distribution or historical patterns of extraction."
+        }
+      }
+    }
+  ]
+}

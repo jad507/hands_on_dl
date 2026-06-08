@@ -1,0 +1,217 @@
+{
+  "title": "Planning Commission",
+  "video_id": "vqNOsyBYp08",
+  "upload_date": "20250206",
+  "model": "ministral-8b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 647.06,
+      "end": 663.74,
+      "text": "i was looking at the plan and i know there's one with a little bit more detail that was also sent to us um what are we looking at for egress or maybe windows on the um apartment side sure",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on building design details (egress, windows) and does not address municipally managed utilities or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker references receiving documents but does not critique transparency, participation, or decision-making fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely procedural and lacks discussion of cost-benefit distribution, equity, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 812.46,
+      "end": 831.31,
+      "text": "sure this is all on the first level correct all first level yeah so these will all be ada accessible apartments you're going to be using the ramp that currently services 30 north correct yes and then is are you going to make them one parcel or is it i'm sorry say that again 30 and 32 34 one",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on accessibility features and property parcels, with no mention of utilities, infrastructure, or municipal resource strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is asking clarifying questions about project logistics, not critiquing decision-making, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or quality-of-life concerns—only physical accessibility."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is procedural and technical, with no framing of cost-benefit distribution, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 947.6,
+      "end": 965.27,
+      "text": "were doing the only real question I have is you answered the question slash concern I had at the last meeting which is the commercial space because it's on the water street with the bike lane correct on the note of bike lanes do you have any uh bike parking at your facilities around here",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on bike parking and does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment references a prior meeting but does not critique transparency, accountability, or fairness in decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is neutral and does not discuss power imbalances, costs/benefits distribution, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 1319.31,
+      "end": 1339.23,
+      "text": "it had been the plan had been before the historic board and we also went through zoning to extend uh to uh into the rear yard setback we needed a little bit more space there for the plan to work so they um yeah we made that request of the zoning hearing board which they approved",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural steps (zoning approval) and does not address infrastructure, utilities, or resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment references zoning approval and requests to the board, but lacks critique of transparency, fairness, or community involvement."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely procedural and does not discuss cost-benefit distribution, equity, or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 1644.36,
+      "end": 1649.64,
+      "text": "add real quick that the pedestrian bridge over the tracks looks like that that construction",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making, transparency, or oversight in the data center process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is about a pedestrian bridge and unrelated to power dynamics, inequality, or the data center project."
+        }
+      }
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 1669.56,
+      "end": 1725.87,
+      "text": "um yeah we got a lot of time so i'll figure i'll just kind of informally be like let's talk a little bit about the comp plan stuff um i was curious if it would be possible to get me a gis file of our existing zoning map um because i'd like to work up just some general conceptual like just totally theoretical maps of uh what things might look like um but i i really don't want to rebuild the map so i'm hoping that the city has a file they can share with me with any redactions to private information of course um so that's like a request to staff but generally i'm just curious how you guys feel um you know we have a lot of zoning districts i forget how many exactly but like more than a dozen which is a lot um i'm curious how many zoning districts do you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on technical requests for zoning data and conceptual mapping, with no mention of infrastructure strain, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "The speaker references 'comp plan stuff' and requests transparency (GIS data) but does not critique decision-making, accountability, or distrust—just procedural access."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is neutral and technical; no framing of uneven costs/benefits, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 1809.57,
+      "end": 1846.4,
+      "text": "anything like personal data or anything like that on it so yes I'm curious are there pieces that Planning Commission can help with could that be part of the presentation like if there are things that you want us to start working on when we have time or is this do you see this as mostly just like you can stay driven and we you know can advise that's a great question i don't know that i've worked that out",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on procedural questions about data and advisory roles, with no mention of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker asks about the Planning Commission’s role in guiding future work, hinting at procedural oversight but without explicit critique of transparency or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health impacts, noise, air quality, or bodily harm—only procedural and data-related concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No framing of cost-benefit distribution, historical patterns, or vulnerable populations—purely operational and unclear about broader systemic implications."
+        }
+      }
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 1986.81,
+      "end": 2044.48,
+      "text": "yeah i would say um i would want to run that by our solicitor just because in the past i've had comment from other solicitors that you don't want zoning hearing board involved in the actual zoning process because i mean obviously they can provide feedback and they're residents so they could be involved in that aspect just so that you kind of keep that separation of you know but we will definitely consider the kind of variances that have been approved we have a database of that what the consist like consistently is getting asked for and requested so that we can try to fix those in the ordinance um but yeah i think it's good to have a zoning hearing board member at least involved but I've also had feedback that it's not the best option so that'll have to be worked out",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of electricity, water, waste, or budgetary concerns."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "Focuses on procedural concerns (zoning hearing board involvement, separation of roles, ordinance updates) and solicitor feedback, indicating reflection on governance structure."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health, noise, air quality, or quality-of-life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "Indirectly references procedural fairness (e.g., 'separation of roles'), but no explicit critique of power imbalances or cost-benefit distribution."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "title": "City Council Committee Meeting - March 3, 2025",
+  "video_id": "qEcut0Mpq30",
+  "upload_date": "20250304",
+  "model": "ministral-8b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_16",
+      "speaker_name": "unknown",
+      "start": 528.0,
+      "end": 541.34,
+      "text": "Councillor Collins. Thank you, Mr. Grouch, for taking our questions and your willingness to serve. How can we use CRITS to help promote economic development and equitable economic development here in the city?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on economic development and CRITS (Community Revitalization and Investment Strategy) but does not address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment references the city's willingness to serve and engage with economic development, but it does not critique process fairness, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, well-being, noise, air quality, or trade-offs between economic benefits and health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The comment explicitly asks about *equitable* economic development, which subtly engages with power dynamics and inequality by framing economic benefits as a distributional issue, though it does not explicitly critique extraction or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "Susie Gomez",
+      "start": 616.43,
+      "end": 641.48,
+      "text": "i have to say my name yes okay susie gomez 100 block of north reservoir street um are you filling in the position on a legal standpoint or are you filling in the position on a board member standpoint board member position just the board",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is entirely procedural and unrelated to municipal resources or utilities."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment is unclear but appears to question procedural roles (legal vs. board member), which *might* relate to municipal process—but it lacks substantive engagement with transparency, oversight, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, environmental impact, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, inequality, or systemic power structures."
+        }
+      }
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_14",
+      "speaker_name": "unknown",
+      "start": 2895.45,
+      "end": 2909.91,
+      "text": "Thank you, Councilor Hoyo. I just have one question. When you plan all these projects, do you take into consideration unexpected risks or challenges during the execution of those projects?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks about risk management but does not reference municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The comment directly critiques the process of project planning by questioning whether unexpected risks are considered, implying a lack of foresight or transparency in municipal decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, quality of life, or physical well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, inequality, or historical patterns of power."
+        }
+      }
+    },
+    {
+      "block_id": 53,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 3123.36,
+      "end": 3136.56,
+      "text": "Question, do we know how far back?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is vague and does not address any municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment is cryptic but could loosely relate to procedural transparency (e.g., 'how far back' might imply historical data or records), though it lacks specificity to justify a higher score."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, noise, air quality, or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 3157.97,
+      "end": 3166.69,
+      "text": "so do we know if records will be destroyed that has counselors at",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unclear and does not reference municipally managed resources like electricity, water, waste, or budget."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment is vague but could *potentially* relate to municipal process if interpreted as questioning transparency or record-keeping (e.g., 'records' as public documents). However, it lacks specificity to justify a higher score."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No connection to health, well-being, or quality of life is present."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power structures, inequality, or distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 3936.94,
+      "end": 3979.16,
+      "text": "i spoke right when i see this presentation it's it's a it's it's wonderful in so many ways you note I feel like I see street treats as something that if the city invests in in the short term has huge long-term benefits in so many different ways and the fact that you all are engaging the community in it I think that's it gives all of us a sense of ownership over our city and I just think that's really really wonderful so really excellent work guys I will open it up to questions comments from the public works committee council council president thank you councillor hirsch",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "No mention of infrastructure, utilities, or resource burdens—comment focuses on community engagement and perceived benefits."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "Explicitly praises community engagement and ownership as a positive municipal process, though no critique of transparency or fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No discussion of health risks, noise, air quality, or trade-offs between benefits and harms."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No critique of uneven cost/benefit distribution, historical patterns, or vulnerable populations—comment is uncritical of power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 4176.38,
+      "end": 4229.97,
+      "text": "good way any other question or comment from in regards to replacing some of trees do you have like specific trees that you might have found that they're disease that need removal is there any issues I mean I know one particular one that has not been removed and it's causing especially when the wind is really blustery it's it actually damaged someone's car and the neighborhood is concerns I'm curious about other you know what what exactly plans you have to remove to remove these disease trees yeah so with the processes I talked",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on tree maintenance and disease removal, unrelated to AI data center infrastructure or municipal utilities."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker asks about city processes for tree removal, which could be interpreted as a procedural inquiry about municipal oversight, but it is not directly tied to the AI data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health impacts, air quality, noise, or well-being concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The discussion is limited to local tree maintenance and does not engage with broader themes of inequality, historical patterns, or uneven distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 71,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 4335.87,
+      "end": 4389.29,
+      "text": "And if I can just add one point to your initial comment, Councillor, one of the things that I've observed that I really appreciate with respect to the risk of disease and things like that is the intentionality with respect to biodiversity and really it's beautiful to observe a line of trees that are all the the same species, but if that particular tree species then becomes susceptible to disease, you're now talking about eliminating a whole block or having a whole block of trees become at risk. And so with these process improvements, there's a real intentionality to make sure that we're diversifying the types of trees that are all right for that particular instance to be able to be more resilient.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on biodiversity and tree resilience, not municipally managed utilities like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While it mentions 'process improvements,' it does not critique transparency, accountability, or community involvement in municipal decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.1,
+          "reasoning": "The comment briefly references 'risk of disease' in a tangential way but does not address human health, air quality, noise, or direct health trade-offs."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "The comment explicitly highlights **intentionality in biodiversity** as a resilience strategy, framing it as a deliberate effort to avoid systemic vulnerability—aligning with concerns about uneven risk distribution (e.g., ecological vs. human costs) and long-term resilience."
+        }
+      }
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 4389.29,
+      "end": 4420.46,
+      "text": "Is there any type of metrics or studies or any type of research that shows a particular tree or trees in general that have more susceptibility of becoming disease? I'm sure that there are particular ones, but I'm familiar only with a few trees. I'm not, I have allergies around this season, so trust me, I stay inside. But I was just curious about that. That's a good question.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on personal health (allergies) and tree health, not municipally managed utilities like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No mention of governance, transparency, or decision-making processes related to the AI data center."
+        },
+        "health_and_well_being": {
+          "score": 0.2,
+          "reasoning": "The comment references personal allergies and tree health, which tangentially relates to environmental/health concerns, but lacks direct connection to data center impacts or broader public health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations—only a personal, non-political inquiry about trees and allergies."
+        }
+      }
+    },
+    {
+      "block_id": 76,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "Jose",
+      "start": 4562.02,
+      "end": 4761.47,
+      "text": "or comments from the public how we're doing my name is jose 100 block of coral street co-founder of the west crystal volunteers the issues on the trees very good so park between first street so street there's a park right there crystal park now whose responsibility is going to be now to trim those trees and there are no those uh neighborhood parks another thing why we're planting how many trees because we also do have other non-profit organizations doing the same thing planting trees how many trees we need we just eliminated i don't know how many trees there were at least 200 years old just to put a new park and to give it an eye view but what they did was take all the trees off what kind of eye view is that you just took the most important thing out of that park and that's behind the water street mission ridiculous um the park where i'm at uh we take care of that park the gentleman right here in front of me knows that uh you guys that come to pick up park cleaning uh the only thing the guys have to do when they go to check the park clean it it's just to take the bag out of the garbage can because everything else is it's clean my kids already took care of that for the past six years we're still slow on maintenance in that area it's taking forever sometimes because it takes too long to get the part you need for it and all to this red tape i don't want to hear the race red tape that park we have and every other park is very important safe zone for the kids and that's what we're doing we're where but we're still missing a lot of items you guys want to plant more trees we still planting the water sewage running water that will go into the ground we're still doing uh for the disabled to have a wheelchairs we're still doing the corners they're still doing ugi i mean are you guys serious trees that's a waste of money so like i say thank you are there any other comments or",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.3,
+          "reasoning": "Mentions water/sewer infrastructure ('water sewage running water') and maintenance delays ('red tape') as ongoing municipal burdens, but no direct tie to the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "Criticizes bureaucratic delays ('red tape'), lack of responsiveness ('takes forever'), and demands accountability for park maintenance—directly framing municipal process failures."
+        },
+        "health_and_well_being": {
+          "score": 0.1,
+          "reasoning": "Focuses on parks as safe zones for kids, but no explicit health risks or environmental hazards beyond general neglect."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "Implies systemic neglect ('every other park is very important') and critiques prioritization of trees over critical infrastructure, but no explicit power/inequality framing."
+        }
+      }
+    },
+    {
+      "block_id": 79,
+      "speaker": "SPEAKER_13",
+      "speaker_name": "unknown",
+      "start": 4817.04,
+      "end": 4872.93,
+      "text": "to this resolution good evening thank you um this resolution is related to the sewage facilities plan i'm sure you guys are all familiar with having to pass these um this project is um making sure I have the right is for a single building that is going to be turned into four apartments. So right now it's currently a vacant lot. So they need to have a switch planning module to add those four units for EDUs. Thank you. And yeah, these are regular",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses a residential conversion project unrelated to AI data centers or municipal utilities like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No critique of decision-making, transparency, or accountability is present; the comment is procedural and neutral."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks, noise, air quality, or quality-of-life concerns—only a technical zoning/planning detail."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations; purely administrative."
+        }
+      }
+    },
+    {
+      "block_id": 81,
+      "speaker": "SPEAKER_13",
+      "speaker_name": "unknown",
+      "start": 4917.19,
+      "end": 4923.62,
+      "text": "project thank you um this is for the construction of three new single family attached dwellings",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is unrelated to municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No discussion of decision-making, transparency, or accountability in the municipal process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses solely on housing construction and does not address power dynamics, inequality, or uneven distribution of costs/benefits."
+        }
+      }
+    },
+    {
+      "block_id": 84,
+      "speaker": "SPEAKER_16",
+      "speaker_name": "unknown",
+      "start": 5176.51,
+      "end": 5208.8,
+      "text": "happy happy to do that as well with the timeline of the project thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is purely procedural and lacks any discussion of infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, oversight, or decision-making processes—only a generic acknowledgment of a timeline."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, environmental quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not engage with equity, cost-benefit distribution, or systemic power structures."
+        }
+      }
+    },
+    {
+      "block_id": 88,
+      "speaker": "SPEAKER_14",
+      "speaker_name": "unknown",
+      "start": 5299.15,
+      "end": 5318.6,
+      "text": "thank you counselor any additional questions please thank you thank you for your remarks and um how will the proposed amendments benefit the community as a whole thank you we've been working",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a generic thank-you and does not address infrastructure, utilities, or resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment briefly asks about community benefit, but lacks specific critique of transparency, oversight, or process fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, historical patterns, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 98,
+      "speaker": "SPEAKER_16",
+      "speaker_name": "unknown",
+      "start": 5512.07,
+      "end": 5520.52,
+      "text": "Thank you, Council President. Just one more question on where it's budgeted to. Is this administrative services line item?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment only asks about budget allocation and does not engage with infrastructure, utilities, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment references budgeting, a procedural aspect, but lacks critique of transparency, participation, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health, environmental impact, or quality-of-life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is purely procedural and does not address distribution of costs/benefits or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 108,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 5676.86,
+      "end": 5680.44,
+      "text": "Puerto Rico citizen",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a placeholder or incomplete ('Puerto Rico citizen') and does not engage with any municipal resource concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "No discussion of governance, transparency, or procedural fairness is present."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, quality of life, or bodily harm."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No framing of cost-benefit distribution, historical patterns, or vulnerable populations."
+        }
+      }
+    }
+  ]
+}
