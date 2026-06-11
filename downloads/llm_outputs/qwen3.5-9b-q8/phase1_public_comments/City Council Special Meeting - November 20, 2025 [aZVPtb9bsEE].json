@@ -1,0 +1,711 @@
+{
+  "title": "City Council Special Meeting - November 20, 2025",
+  "video_id": "aZVPtb9bsEE",
+  "upload_date": "20251121",
+  "model": "qwen3.5-9b-q8",
+  "n_chunk_errors": 0,
+  "public_comments": [
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_00",
+      "start": 1537.96,
+      "end": 1550.52,
+      "speaker_name": "unknown",
+      "reason": "The speaker asks a specific question about noise testing procedures during what appears to be a public comment period.",
+      "text": "You mentioned that once the work is done, that it would be tested, the levels of noise would be tested. Who's going to be doing the testing?"
+    },
+    {
+      "block_id": 43,
+      "speaker": "UNKNOWN",
+      "start": 1550.52,
+      "end": 1553.4,
+      "speaker_name": "unknown",
+      "reason": "The speaker continues the line of questioning about whether testing protocols have been established.",
+      "text": "Don't know that that has been established."
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_00",
+      "start": 1553.4,
+      "end": 1562.22,
+      "speaker_name": "unknown",
+      "reason": "The speaker provides an opinion on industry practices for third-party testing.",
+      "text": "Typically, you would hire a third-party consultant to do the testing in line with standard industry practices."
+    },
+    {
+      "block_id": 99,
+      "speaker": "UNKNOWN",
+      "start": 3181.24,
+      "end": 3187.12,
+      "speaker_name": "unknown",
+      "reason": "The speaker discusses specific zoning requirements for landscaping and tree canopy buffering, indicating a stakeholder position on city planning.",
+      "text": "but they they include the requirements for landscaping in tree canopy buffering"
+    },
+    {
+      "block_id": 100,
+      "speaker": "SPEAKER_00",
+      "start": 3187.12,
+      "end": 3203.98,
+      "speaker_name": "unknown",
+      "reason": "The speaker details provisions for setbacks, lighting, and dark sky ordinances, showing a community member's concern about city regulations.",
+      "text": "and screening with setbacks built in of 100 feet and 50 feet lighting is actually a rather significant provision here the city does not currently have any dark sky provisions in its ordinances and the owners are committed"
+    },
+    {
+      "block_id": 101,
+      "speaker": "UNKNOWN",
+      "start": 3203.98,
+      "end": 3213.74,
+      "speaker_name": "unknown",
+      "reason": "The speaker references international dark sky standards and a lighting plan, consistent with a resident or stakeholder advocating for specific city policies.",
+      "text": "to developing a lighting plan that's consistent with the core principles of the international dark sky standards five core principles flow into that that"
+    },
+    {
+      "block_id": 207,
+      "speaker": "UNKNOWN",
+      "start": 5440.8,
+      "end": 5457.74,
+      "speaker_name": "unknown",
+      "reason": "The speaker discusses business closure risks and city approval requirements, consistent with public comment content.",
+      "text": "plan is meant to and we will have to approve it provide that they're going to do so in manners that are safe meet this applicable state and federal laws and that they do have a plan in place for if they shut down that being said"
+    },
+    {
+      "block_id": 208,
+      "speaker": "SPEAKER_00",
+      "start": 5457.74,
+      "end": 5463.12,
+      "speaker_name": "unknown",
+      "reason": "The speaker continues discussing business closure challenges, consistent with public comment content.",
+      "text": "enforceability of if they just close shop and disappear that's the challenge"
+    },
+    {
+      "block_id": 209,
+      "speaker": "UNKNOWN",
+      "start": 5463.12,
+      "end": 5484.66,
+      "speaker_name": "unknown",
+      "reason": "The speaker concludes the discussion on business closure and city approval, consistent with public comment content.",
+      "text": "We face with any same as if any other business was to close shop and disappear I think the investment here is pretty significant and there's going to be some lenders at bay That would probably be coming in to sell the property sell the equipment and take care of it long before we would have to And just to be clear that plan will be presented to the city and have to be approved by the city"
+    },
+    {
+      "block_id": 222,
+      "speaker": "SPEAKER_00",
+      "start": 5787.98,
+      "end": 5882.54,
+      "speaker_name": "Bill Simonson",
+      "reason": "The speaker identifies themselves as a resident and provides their address during the public comment period.",
+      "text": "many people that wish to do so please begin with your name and block of residence for our meeting record you'll be asked to do that and again comments are limited to three minutes per speaker good evening and thank you yes Thank You council members and mayor for having this and it's Bill Simonson this November marks my 14th year living in the city your block of residence right sorry I live on 836 Roll Ridge thank you right at the street from the Lancaster rec first off my apologies I had a lot of fire and brimstone prepared and then the CBA came out so I've sort of amended my remarks so if I ramble a little bit my apologies um first let me just say that seeing everybody here tonight uh my undergrad and graduate work was on participant participatory democracy so seeing this many people show up i know um when we participate in good faith even if we disagree it makes our country stronger so i'm hopeful for that um you know so often these days when we turn on the tv or open your phone so you you you look at the newspaper you kind of realize in many ways i think we blew it and in some ways i i kind of think that's the case here um you know we talk a lot about the benefits of ai well we're i think if i can explain some of the frustration in here"
+    },
+    {
+      "block_id": 223,
+      "speaker": "UNKNOWN",
+      "start": 5882.54,
+      "end": 5892.06,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses an opinion on a city-related issue during the public comment period.",
+      "text": "and across our country and i think this is going to be an issue in 2026 and in 2028 ai I mean, we're living in a moment here that wasn't of our own choosing."
+    },
+    {
+      "block_id": 224,
+      "speaker": "SPEAKER_00",
+      "start": 5893.1,
+      "end": 5931.26,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a concern about technology and jobs during the public comment period.",
+      "text": "You know, we are watching tech billionaires sort of steer us into an arms race with China over AGI or ASI. And that makes a lot of us nervous. You know, Dario Armandei was on TV, if you're not familiar. He's the CEO of one of these tech giants. and he recently said that you know within five years time it's quite likely or likely that 50 percent of all entry-level white-collar jobs will be wiped out so you can wonder why some of us are"
+    },
+    {
+      "block_id": 225,
+      "speaker": "UNKNOWN",
+      "start": 5931.26,
+      "end": 5959.92,
+      "speaker_name": "unknown",
+      "reason": "speaker expresses concern about job losses and economic impact during public comment period",
+      "text": "a little nervous about that you know if you have kids who are getting ready to graduate college i mean these people are going on tv elon and others essentially bragging about the fact that a lot of jobs are going to be lost and no one seems to be able to answer what those will be replaced with um once again to bring up dario because he's in the news a lot he's uh promising 50 billion dollars for the creation of data centers across the u.s and in his own words that's going"
+    },
+    {
+      "block_id": 226,
+      "speaker": "SPEAKER_00",
+      "start": 5959.92,
+      "end": 5965.28,
+      "speaker_name": "unknown",
+      "reason": "speaker continues expressing opinion on job numbers during public comment period",
+      "text": "to lead to 800 permanent jobs i don't know about anybody else but that doesn't sound like a great"
+    },
+    {
+      "block_id": 227,
+      "speaker": "UNKNOWN",
+      "start": 5965.28,
+      "end": 5971.98,
+      "speaker_name": "unknown",
+      "reason": "speaker concludes statement about city decisions during public comment period",
+      "text": "investment to me and you know listen i understand we're in a small city it's hard there are decisions"
+    },
+    {
+      "block_id": 228,
+      "speaker": "SPEAKER_00",
+      "start": 5971.98,
+      "end": 6041.59,
+      "speaker_name": "unknown",
+      "reason": "The speaker discusses technology safety concerns and mentions Mr. Simonson, indicating they are addressing the council during a public comment period.",
+      "text": "that need to be made but you know these are and this is a technology that people openly admit you know gregory hinton and others or jeffrey hinton and others who worked for you know chat gpt and google who's left over safety concerns that we don't really know as it gets stronger whether we can control it so i think some of that is born out of our frustration here because this is mr. Simonson thank you thank you good evening your last name Jen for our meeting record Rogers thank you I'm gonna try to I have a lot to say so I'm gonna try to be quick I'm a marketer I'm not anti AI but I I know you guys don't want to talk too much about the zoning but I just want to say that I feel this entire process is very indicative of Trump's America where our representatives do something and then force us to react so I don't really appreciate that that is not how the democratic process works this is clearly"
+    },
+    {
+      "block_id": 229,
+      "speaker": "UNKNOWN",
+      "start": 6041.59,
+      "end": 6045.85,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a concern about a warehouse and references a recent move, consistent with a community member sharing a personal stake in a city decision.",
+      "text": "not a warehouse and I don't want that to be forgotten now that we've just moved"
+    },
+    {
+      "block_id": 230,
+      "speaker": "SPEAKER_00",
+      "start": 6045.85,
+      "end": 6135.31,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a marketer, criticizes language in a CBA, and expresses opposition to development in a historic community, which aligns with a public comment.",
+      "text": "on to the CBA I see a lot of money centered language as I said I'm a marketer ideal in language and we're not having the same conversation we can't eat money we can't breathe you know money and we're in a historic community that is very old you know around the founding of our country I don't want to see it destroyed this is a very special place not everybody wants endless development development is not inherently a good word we're not all concerned about two million dollars ten million dollars some of us like living in a smaller community where we feel like we have an impact and not only that to say oh we're gonna give you ten million dollars or act as though that that making this enforceable is somehow a bonus it should be enforceable that shouldn't be a bonus and again you know saying well we're gonna dictate how you use these millions of dollars it's not gonna go to affordable housing it's gonna go to tax breaks which means they're not actually giving us money they're turning around and taking those tax breaks and utilizing it for themselves and I just feel like you guys think we're really gullible and that you can throw a bunch of legal jargon and a lot of millions of dollars towards us and we're gonna go cool this when is this gonna be collaborative it's a community benefit agreement it should be written by the community and this is not satisfactory and it's a lot of the people in here are Democrats and I do not appreciate you know I may are taking a page from Trump's book forcing us to act retroactively and then dipping"
+    },
+    {
+      "block_id": 232,
+      "speaker": "SPEAKER_00",
+      "start": 6141.23,
+      "end": 6208.92,
+      "speaker_name": "Taylor Raymond",
+      "reason": "The speaker identifies themselves as a resident of the 500 block of Saint Joseph Street and expresses an opinion on a community benefits agreement during the public comment period.",
+      "text": "thank you good evening hi taylor raymond 500 block of saint joseph street um so i've spent the last month or two reading up on community benefits agreements what makes a strong one what makes a weak one and i'll say there are a lot of really good things in this i appreciate the work that you've done however it is a community benefits agreement without the community so really it is the mayor's benefits agreement um that's not acceptable to me honestly um the community absolutely should have had a lot more input we should have been told of all of these updates we should have been kept in the loop on the negotiating process um and we weren't we also got the uh the draft of this two days ago as anybody uh in here with a full-time job understands it's really hard to read a 32-page legal document on the evenings and lunch breaks for in two days"
+    },
+    {
+      "block_id": 234,
+      "speaker": "SPEAKER_00",
+      "start": 6223.6,
+      "end": 6309.56,
+      "speaker_name": "unknown",
+      "reason": "speaker asks questions about city jurisdiction and benefits during public comment period",
+      "text": "so that people can have input so that people can ask questions and have concerns and suggest things that may have that you all might not have considered all of that aside i have two questions the first is does this hold weight in the part of the greenfield center that is outside of our outside of the city's jurisdiction so does east lampeter uh does the east lampeter part have uh do they also benefit from this and then the second question is who is actually involved in this is it the owners the developers or the tenants or all of the above because i see the owners listed on the agreement and you all keep talking about the developers so which one is it if I could endeavor to answer those questions with the remainder of your time if that would be okay yes Eastland Peter benefit so they were not a party to the agreement but they benefit because they're so close so the environmental and quality of life benefits anyone on the Eastland Peter side of that I would say second part of your question I apologize say that last part again who is actually involved in the agreement is it the developers owners of the tenants the developers and the owners are one in the same the parties to the agreement are the LLC's that have been developed for the management but it's the same parties so the parties of the agreement are the"
+    },
+    {
+      "block_id": 236,
+      "speaker": "SPEAKER_00",
+      "start": 6314.8,
+      "end": 6416.52,
+      "speaker_name": "Theresa Womble",
+      "reason": "speaker identifies as resident and leader speaking during public comment period",
+      "text": "owners are Carissa the owner is Carissa they've created a standard practice LLC's for each building one in the same okay thank you mm-hmm thank you you can feel free to move that down if you need to great great good evening thank you good evening my name is Theresa Womble and I live at the 200 block of East Orange Street and I'm in addition to being a resident of Lancaster City I also am a leader at Armstrong World Industries so I'm here tonight in support of the CBA and the growth that can come from these investments as many of you know Armstrong has been a major manufacturer and employee employer in Lancaster county for over 100 years and currently we have about 1 000 employees in this area who are interested in seeing growth continue to happen so the investments that are being made by the cba will benefit our company and our employees and their families in addition armstrong is happy bdb supplying product that go into these projects which will support our employee base as well as the investments we can make back into the community so i appreciate the work that the city council and the mayor have done to put together a creative solution that i think is a great opportunity almost unique for the city to continue growth thank you thank you good evening"
+    },
+    {
+      "block_id": 237,
+      "speaker": "UNKNOWN",
+      "start": 6416.52,
+      "end": 6421.96,
+      "speaker_name": "daryl legacy",
+      "reason": "The speaker identifies themselves as a resident and begins a public comment.",
+      "text": "good evening my name is daryl legacy i live in the 100 block of north mary street"
+    },
+    {
+      "block_id": 238,
+      "speaker": "SPEAKER_00",
+      "start": 6421.96,
+      "end": 6522.02,
+      "speaker_name": "daryl legacy",
+      "reason": "The speaker continues expressing an opinion on a city project during the public comment period.",
+      "text": "and i also want to thank the council for the work that they've done on this i know this is a very complicated project um i do have a few questions one is it feels like this is a pay to pollute agreement it feels like they are just going to pay the 20 million dollars and say oh well we couldn't get to 100 energy and there's nothing stopping them from doing that um this is the cost of doing business. This is like a rounding error on their budget. I think another problem with that is while this is a rounding error for them, it also is a super volatile sector right now. I just was looking and Corweave, which I know is not Carissa, but Corweave, which is going to be using at least one of these buildings, has lost almost, I think it's like 35% of their stock since June, their stock price. So these companies are just going to be promising all of this money, promising all this revenue and then what happens when they go out of business and throw the keys on the roof as we heard we're stuck with this vacant building I think that's a big problem and I think it's something that needs to be addressed I think we should not be pre-complying with this idea that the zoning agreement does not apply retroactively I realize that that is I'm sure the biggest demand that they have I'm sure they will not sign this agreement without that but I think that's something to consider if it is so important to them they must think there's at least a chance that this could be retroactive. If there was no chance, they would just say, whatever, we don't care. Legally, we're going to win. So I think that's something that we should be concerned about. I think also a bad deal could be worse than no deal. I'm not convinced that this is a bad deal yet, but I think we should at least consider the possibility. I also think there's something to be gained by telling these companies that we are not open for their business. Yes, there's some"
+    },
+    {
+      "block_id": 239,
+      "speaker": "UNKNOWN",
+      "start": 6522.02,
+      "end": 6526.36,
+      "speaker_name": "daryl legacy",
+      "reason": "The speaker continues expressing a concern regarding a city agreement during the public comment period.",
+      "text": "risk. It's possible that if we don't sign this agreement, they build anyway, they win the court"
+    },
+    {
+      "block_id": 245,
+      "speaker": "UNKNOWN",
+      "start": 7053.56,
+      "end": 7057.94,
+      "speaker_name": "Jordan Farrell",
+      "reason": "The speaker identifies themselves as a resident from East Petersburg and begins a public comment.",
+      "text": "Good evening. Good evening. Jordan Farrell, East Petersburg."
+    },
+    {
+      "block_id": 246,
+      "speaker": "SPEAKER_00",
+      "start": 7057.94,
+      "end": 7094.22,
+      "speaker_name": "unknown",
+      "reason": "Speaker identifies as a local business owner from IREX and discusses their community involvement.",
+      "text": "My company is IREX, right across the street here, over on Lime Street. We are a specialty contracting company. We employ around 100 employees in the local community here. And another thing is I've been working with, involved with EDC, Finance Corporation, for the last, since 2019. I say these things to illustrate how involved in the community and the well-being of the"
+    },
+    {
+      "block_id": 247,
+      "speaker": "UNKNOWN",
+      "start": 7094.22,
+      "end": 7097.86,
+      "speaker_name": "unknown",
+      "reason": "Speaker continues the previous statement about community economic well-being.",
+      "text": "community, economic well-being of the community."
+    },
+    {
+      "block_id": 248,
+      "speaker": "SPEAKER_00",
+      "start": 7097.86,
+      "end": 7138.08,
+      "speaker_name": "unknown",
+      "reason": "Speaker explicitly states they are there to express support for a data center project during the public comment period.",
+      "text": "I'm here to express support for the data center and the community benefit agreement. This project represents a meaningful investment to the community's long-term well-being. It will transform two vacant industrial buildings into modern facilities that are going to provide thousands of construction jobs and hundreds of permit jobs to the community as was previously mentioned it will help to employ people here locally that will be able to have construction jobs close to home I respectfully urge council to approve the community benefits agreement allowing this project to move forward and bring with it the opportunity to advance the economic health of our"
+    },
+    {
+      "block_id": 249,
+      "speaker": "UNKNOWN",
+      "start": 7138.08,
+      "end": 7155.91,
+      "speaker_name": "Shawn was Nikki",
+      "reason": "Speaker identifies as a resident and begins a public comment during the public comment period.",
+      "text": "community thank you thank you good evening my name is Shawn was Nikki and I live my address is in Lancaster but I don't live in Lancaster I live closer to"
+    },
+    {
+      "block_id": 250,
+      "speaker": "SPEAKER_00",
+      "start": 7155.91,
+      "end": 7172.03,
+      "speaker_name": "Shawn was Nikki",
+      "reason": "Speaker continues expressing personal opinion on data centers during the public comment period.",
+      "text": "Landisville actually I hate this this is about I mean I don't like the data centers too but I don't like speaking publicly I'm saying it's a little bit"
+    },
+    {
+      "block_id": 251,
+      "speaker": "UNKNOWN",
+      "start": 7172.03,
+      "end": 7182.72,
+      "speaker_name": "Shawn was Nikki",
+      "reason": "Speaker continues expressing concern about the impact of the issue during the public comment period.",
+      "text": "it's a little bit north of getting a root canal but this is really important and I want to talk about it because I think it's gonna drastically affect"
+    },
+    {
+      "block_id": 252,
+      "speaker": "SPEAKER_00",
+      "start": 7182.72,
+      "end": 7211.65,
+      "speaker_name": "unknown",
+      "reason": "Speaker expresses community concern about review time for a city project",
+      "text": "Lancaster City and Lancaster County for years to come so again like everybody has said Thank You council for working on this for making something out of nothing and having things having that there be concrete benefits but as has been said the community got to look at this on on Tuesday and it's Thursday and"
+    },
+    {
+      "block_id": 253,
+      "speaker": "UNKNOWN",
+      "start": 7211.65,
+      "end": 7231.94,
+      "speaker_name": "unknown",
+      "reason": "Speaker identifies as a parent and requests more community review time",
+      "text": "if it is this important and if it is this this big I think the community deserves more time to review it and make suggestions if there could be that allowance to be made that would be great I don't as a I don't know as a parent of"
+    },
+    {
+      "block_id": 254,
+      "speaker": "SPEAKER_00",
+      "start": 7231.94,
+      "end": 7337.21,
+      "speaker_name": "unknown",
+      "reason": "Speaker critiques the partnership approach and expresses community investment concerns",
+      "text": "two kids I don't appreciate somebody going through a long presentation of all the benefits and then saying at the end if you say no you get nothing that feels not like they wish to be invested in the community that they wish to say take this so that we can take whatever we want it doesn't feel like a partnership without a more time obviously I only have a couple of things to say but I did want to say that I would very much like to have nuclear energy stricken from the clean energy list that's on there as a clean energy LPE units 1 & 2 are mentioned in article 8 for the financial agreements but not LPW there's nothing in there about that and I don't know if this is a legally binding document if they're not in there if they can just go out on that the letter of credit can be substituted for a company of a hundred million dollars net worth please get rid of that uh as somebody has mentioned core weave has lost 40 of its stock valuation in the last six months um that is that is not a very uh good idea i feel like and uh there's new info coming out all the time we just got to see something from the lancaster county planning commission that has a lot of new ideas and recommendations and we'd love to be able to take that into account as a community thank you thank you good evening evening thank you for the opportunity to speak"
+    },
+    {
+      "block_id": 255,
+      "speaker": "UNKNOWN",
+      "start": 7337.21,
+      "end": 7347.29,
+      "speaker_name": "unknown",
+      "reason": "Speaker identifies as a city resident speaking on behalf of an organization during the public comment period.",
+      "text": "this evening jeremy young i'm a city resident but here tonight i'm here on behalf of the organization i work for lancaster city alliance one of several economic development focused organizations"
+    },
+    {
+      "block_id": 256,
+      "speaker": "SPEAKER_00",
+      "start": 7348.17,
+      "end": 7368.13,
+      "speaker_name": "unknown",
+      "reason": "Speaker continues to discuss a letter written in support of a Community Benefits Agreement.",
+      "text": "including economic development company of lancaster county we have a representative here tonight from that organization the lancaster chamber and socket development corporation We collectively wrote a letter to council, and hopefully you received that letter dated yesterday, November 19th, in support of the Community Benefits Agreement."
+    },
+    {
+      "block_id": 257,
+      "speaker": "UNKNOWN",
+      "start": 7368.31,
+      "end": 7373.91,
+      "speaker_name": "unknown",
+      "reason": "Speaker offers to paraphrase the letter for the record during the public comment period.",
+      "text": "And if you don't mind, for the record, I'll just paraphrase that letter for everyone here tonight."
+    },
+    {
+      "block_id": 258,
+      "speaker": "SPEAKER_00",
+      "start": 7375.92,
+      "end": 7462.23,
+      "speaker_name": "unknown",
+      "reason": "speaker represents economic development organizations and supports the community benefits agreement",
+      "text": "Together, we as economic development organizations focused on the city and the county support the adoption of the Lancaster AI Hub Community Benefits Agreement. over the past several weeks we've listened carefully to residents concerns we met with the carissa technologies team and city staff to understand the project and this agreement in particular in detail those conversations have given us confidence that if implemented and monitored with care this community benefits agreement can channel a private investment toward clear enforceable benefits for the residents of lancaster we recognize environmental impacts are a major concern and very rightfully so but we see this agreement as a tool that puts expectations mitigation measures and accountability in writing rather than leaving them to chance and that's really key we really feel that this agreement puts us in the best and strongest possible place and in a better place than where we would be if we did not have an agreement just as importantly the agreement is structured to deliver community-centered outcomes especially those tied to economic development right here in the city of lancaster including training and upskilling for city residents support for entrepreneurs and small businesses adapting an ai enabled economy a sustainability fund to advance local priorities and expanded access to ai tools and education so that lancaster can remain competitive for all these reasons we"
+    },
+    {
+      "block_id": 259,
+      "speaker": "UNKNOWN",
+      "start": 7462.23,
+      "end": 7466.47,
+      "speaker_name": "unknown",
+      "reason": "speaker continues to urge council approval of the agreement",
+      "text": "respectfully urge you to approve the community benefits agreement and we are here to support you"
+    },
+    {
+      "block_id": 260,
+      "speaker": "SPEAKER_00",
+      "start": 7467.03,
+      "end": 7476.9,
+      "speaker_name": "Tony Dastro",
+      "reason": "speaker identifies as a resident from the 700 block of New Holland and thanks the council",
+      "text": "thank you for your time and consideration thank you good evening tony dastro 700 block new holland"
+    },
+    {
+      "block_id": 267,
+      "speaker": "UNKNOWN",
+      "start": 7543.41,
+      "end": 7554.19,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a position on a zoning appeal process during what appears to be the public comment period.",
+      "text": "We need to let it carry through. Frank should have his day at the Zoning Hearing Board, as well as anyone else who wants to be a party to that. We deserve to have that heard through on appeal. and that appeal can be appealed"
+    },
+    {
+      "block_id": 268,
+      "speaker": "SPEAKER_00",
+      "start": 7554.19,
+      "end": 7555.99,
+      "speaker_name": "unknown",
+      "reason": "The speaker continues the same argument about the process not being a one-time event, consistent with public comment.",
+      "text": "so this is not just a once and done thing"
+    },
+    {
+      "block_id": 269,
+      "speaker": "UNKNOWN",
+      "start": 7555.99,
+      "end": 7560.03,
+      "speaker_name": "unknown",
+      "reason": "The speaker describes public sentiment regarding a long process, consistent with public comment.",
+      "text": "we are at the beginning of potentially a very long process and the public is not content"
+    },
+    {
+      "block_id": 273,
+      "speaker": "UNKNOWN",
+      "start": 7928.42,
+      "end": 7934.98,
+      "speaker_name": "unknown",
+      "reason": "speaker expresses concern about city spending on small business without identifying as a council member or staff",
+      "text": "support our small business i don't see why we need to spend 250 000 to look once again at how to"
+    },
+    {
+      "block_id": 274,
+      "speaker": "SPEAKER_00",
+      "start": 7934.98,
+      "end": 7966.18,
+      "speaker_name": "ro potter",
+      "reason": "speaker identifies as a resident at 67 south franklin street and shares opinions during public comment period",
+      "text": "do that thank you thank you good evening hi i'm ro potter of i never get this right but i'm on 67 south franklin street i don't know if that's the hundred block or the six zero block exactly it just doesn't make sense anyway anyway this is not my first meeting up here i do see some first-time faces though some of them are susan ties telling us to be okay with what's happening even though they're not being clear about really anything i've gone to this type"
+    },
+    {
+      "block_id": 275,
+      "speaker": "UNKNOWN",
+      "start": 7966.18,
+      "end": 7971.54,
+      "speaker_name": "unknown",
+      "reason": "speaker references a meeting and community event during public comment period",
+      "text": "of meeting they had an ai summit down at the ware center about last week and the number one thread"
+    },
+    {
+      "block_id": 276,
+      "speaker": "SPEAKER_00",
+      "start": 7971.54,
+      "end": 8058.12,
+      "speaker_name": "unknown",
+      "reason": "speaker expresses frustration about city planning and protests during public comment period",
+      "text": "that i've noticed throughout all this is that it's fucking vague there's nothing that is just saying like hey right out in the open this is our plan this is what we're doing it all has to look like technological mumbo jumbo and it's just supposed to go over the average person's mind like who who wants to be here protesting this shit at eight o'clock at night on a thursday i got to be up at four in the morning tomorrow. I don't want to do this. And yet we have suits and ties out here telling us to be okay. And what? Pass our time, twiddle our thumbs, and what else? It just doesn't make any sense to me. I'm sorry. I don't like being born into a city. You know, I didn't really have much of a pick. We're all put here for one way or another unless you moved in. But anyways, I really, really don't like when people come into our city, tell us what to feel, how to feel and what to do about it and then that's it we don't get any decisions on it it doesn't make any sense to me the amount of times that people come out and protest this thing and said we want a different approach or a different you know and we're all at the height of the ai bubble too this thing could pop in any month from now i don't know if you pay attention and they don't want you to but i think it's sam altman open ai guy or someone running nvidia just traded all their fucking stock what is that going to thank you peter teal someone just said it what does that tell you this is a bubble waiting the burst and you know why because it's not sustainable we're sitting here talking about currently making construction jobs currently boosting the economy"
+    },
+    {
+      "block_id": 277,
+      "speaker": "UNKNOWN",
+      "start": 8058.12,
+      "end": 8064.8,
+      "speaker_name": "unknown",
+      "reason": "speaker asks about long-term planning during public comment period",
+      "text": "what is the long term are we are we dumb what is the long term think on the long term your air"
+    },
+    {
+      "block_id": 278,
+      "speaker": "SPEAKER_00",
+      "start": 8064.8,
+      "end": 8112.04,
+      "speaker_name": "unknown",
+      "reason": "speaker criticizes city priorities and infrastructure during public comment period",
+      "text": "your water your they're already complaining about birth rates so what's next they fuck our air up we can't produce i'm sorry if i'm using profanity i can't but it just is so short-sighted and of course it's about money of course it's about businesses it's never about the people when you're talking about building warehouses and all this other stuff when we walk by the same potholes that have been here longer than i've been alive they don't make any sense at all and i know y'all doing your best i see all the time really and you just got elected mayor so i hope you're equipped for this but for real they're doing their best and we're trying to communicate but really it's the people that come out and say, hey, be okay with it or else. What does that mean? Because I'd rather find out what else means rather than letting them do whatever with our city."
+    },
+    {
+      "block_id": 279,
+      "speaker": "UNKNOWN",
+      "start": 8112.12,
+      "end": 8123.97,
+      "speaker_name": "Nancy Griffith",
+      "reason": "Speaker identifies as a resident and begins a public comment during the public comment period.",
+      "text": "It doesn't make any sense. Thank you. Good evening. Hi. My name is Nancy Griffith. I live on the zero block of South Lyme."
+    },
+    {
+      "block_id": 280,
+      "speaker": "SPEAKER_00",
+      "start": 8125.16,
+      "end": 8148.92,
+      "speaker_name": "Nancy Griffith",
+      "reason": "Speaker continues expressing concerns about property values and quality of life related to data centers.",
+      "text": "So I was wondering if there's ever been an assessment done of property values in cities that already have existing data centers. if that analysis has been done I will tell you I just recently moved to Lancaster Lancaster sorry I just pronounced it wrong you can tell go on that's okay for a certain quality of life that I was hoping to get here had I"
+    },
+    {
+      "block_id": 281,
+      "speaker": "UNKNOWN",
+      "start": 8148.92,
+      "end": 8154.48,
+      "speaker_name": "Nancy Griffith",
+      "reason": "Speaker concludes their statement regarding the impact of data centers on their decision to purchase property.",
+      "text": "known that these data centers were in progress I never would have bought a"
+    },
+    {
+      "block_id": 282,
+      "speaker": "SPEAKER_00",
+      "start": 8154.48,
+      "end": 8176.77,
+      "speaker_name": "unknown",
+      "reason": "Speaker identifies as a resident on the 800 block of 3rd Street expressing frustration about data centers during the public comment period",
+      "text": "home here never would have moved here so you can imagine my frustration if these data centers come to fruition I'm leaving getting out of here thanks thank you good evening I love on the 800 block of 3rd Street and I'm just gonna speak"
+    },
+    {
+      "block_id": 283,
+      "speaker": "UNKNOWN",
+      "start": 8176.77,
+      "end": 8180.07,
+      "speaker_name": "unknown",
+      "reason": "Speaker continues expressing concerns about topics not yet addressed during the public comment period",
+      "text": "to some stuff that hasn't been spoken to and that I don't think anybody's gonna"
+    },
+    {
+      "block_id": 284,
+      "speaker": "SPEAKER_00",
+      "start": 8180.07,
+      "end": 8197.13,
+      "speaker_name": "unknown",
+      "reason": "Speaker references Longs Park and animals as part of a community statement during the public comment period",
+      "text": "speak to but I'm gonna start with my favorite chant which says earth my body water my blood air my breath and fire my spirit the animals who live at Longs Park are my brothers and sisters I'm there in sacred community with all of us"
+    },
+    {
+      "block_id": 285,
+      "speaker": "UNKNOWN",
+      "start": 8197.13,
+      "end": 8203.57,
+      "speaker_name": "unknown",
+      "reason": "Speaker expresses concern about community representation during public comment period",
+      "text": "and there are community members here too that I feel like aren't being represented"
+    },
+    {
+      "block_id": 286,
+      "speaker": "SPEAKER_00",
+      "start": 8203.57,
+      "end": 8300.5,
+      "speaker_name": "unknown",
+      "reason": "Speaker references specific CBA details regarding noise rules in residential and park zones",
+      "text": "there's a specific part of the CBA that I forgot to write down the numbers and letters but it says that there's like certain residential zones and certain park zones this is in regards to the noise and about the nighttime and I'm sure you can find it but it talks about how the park zones have different rules for the resident zones and that there's different rules at nighttime for the noise and so I want to talk about the animals who live in the park and who are going to be affected by the nighttime noise and how important how incredibly important those animals lives as individuals and families who have homes here in our city and share this land with us how important they are that they also are healthy and well trees the same thing goes for the trees there's a section 8 I wrote down four point six point two where it says integrate native species it doesn't say that they need to use all native species and there's absolutely no reason why you wouldn't make them use all native species there's just no excuse for not having that in the language at all there's plenty of local companies it's super easy to have all native plants there's there's no excuse for not having that language in there just into integrate native is all it says um and then the other two chunks um that are concerning"
+    },
+    {
+      "block_id": 287,
+      "speaker": "UNKNOWN",
+      "start": 8300.5,
+      "end": 8311.86,
+      "speaker_name": "unknown",
+      "reason": "Speaker states they will attend with a sign and agrees with other comments made during public comment period",
+      "text": "to me i mean all of this is concerning to me and i'll be there with a sign no matter if this gets signed or not or whatever happens um i agree with so many of the other things that were said but"
+    },
+    {
+      "block_id": 288,
+      "speaker": "SPEAKER_00",
+      "start": 8312.5,
+      "end": 8331.22,
+      "speaker_name": "unknown",
+      "reason": "speaker discusses zoning ordinance and development plan concerns during public comment period",
+      "text": "the other two chunks that stick out to me is um you know this grandfathered in thing that's happening with the proposed zoning ordinance and hearing that like there's no development plan in place for building three specifically i'm wondering like if there's no plan in place now why are we giving them two years they're not grandfathers they haven't even been born yet"
+    },
+    {
+      "block_id": 289,
+      "speaker": "UNKNOWN",
+      "start": 8332.02,
+      "end": 8337.3,
+      "speaker_name": "unknown",
+      "reason": "speaker continues discussing city reporting and noise complaint policies during public comment period",
+      "text": "um and the thing that somebody else said about how the city can only report or complain about"
+    },
+    {
+      "block_id": 290,
+      "speaker": "SPEAKER_00",
+      "start": 8337.3,
+      "end": 8389.99,
+      "speaker_name": "kevin bachelor",
+      "reason": "speaker identifies as resident and expresses opinion on city policies during public comment period",
+      "text": "the noise once every two years is blasphemy i can't even believe that we should be able to complain whenever we want thank you thank you good evening good evening my name is kevin bachelor uh 200 block of north charlotte street i just wanted to say a couple things I think it's clear from the energy in this room that nobody likes a bully and as we heard very plainly when our solicitor was asked what happens if we don't accept this agreement Carissa technology is a bully they are a bully dressed up like a partner please don't be complicit in the bullying of our city thank you good evening good evening my name is Matthew Barden 800 block of North Prince there are a lot of things I want to touch on that have been touched"
+    },
+    {
+      "block_id": 294,
+      "speaker": "SPEAKER_00",
+      "start": 8437.05,
+      "end": 8448.67,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing opposition to data centers being forced on the city, which is a typical public comment topic.",
+      "text": "agreement this is a hostage negotiation we've seen a number of cities across this entire country push back on these data centers that are being forced on"
+    },
+    {
+      "block_id": 295,
+      "speaker": "UNKNOWN",
+      "start": 8448.67,
+      "end": 8454.83,
+      "speaker_name": "unknown",
+      "reason": "The speaker continues to argue against the city's decision, maintaining the stance of a community member.",
+      "text": "them and win and i ask why not us why are you treating this like a foregone conclusion that"
+    },
+    {
+      "block_id": 296,
+      "speaker": "SPEAKER_00",
+      "start": 8454.83,
+      "end": 8469.42,
+      "speaker_name": "unknown",
+      "reason": "The speaker concludes their argument about zoning permits and community impact, consistent with public comment content.",
+      "text": "we have to settle for this we don't we can win this and we deserve to win this we don't deserve to have one one zoning permit change everyone's lives in in this city in this community we can"
+    },
+    {
+      "block_id": 298,
+      "speaker": "SPEAKER_00",
+      "start": 8473.1,
+      "end": 8604.8,
+      "speaker_name": "Baruch Dewar",
+      "reason": "The speaker identifies as a 35-year resident and addresses the council directly during the public comment period.",
+      "text": "toothless argument agreement excuse me thank you good evening good evening my name is baruch dewar i'm a 35-year resident of the city live in the thousand block of west clay street just a couple of points here that were raised some of which would be nice to hear answers to before you vote and i was not a party to the beginnings of this process but it appears to me as the first time that i've been exposed to this is this is a classic case of it may not be what you did it's how it's done you know and i was a chief counsel of a pennsylvania state agency for eight years uh worked in government for a long time worked for several governors um under the office of general counsel um you know uh to which is the agency that staffs all the attorneys and all the the state agencies. And that is the one lesson that I probably had driven home to me over and over and over again as a government lawyer attempting to pull off something like this. Great work being done here. Excellent work being done here. But you can't get past the concept of it may not be what was done. It's how you did it or how it was done. And I'm just seeing a room of people here who are driving that point home in spades you know this is clear there is clearly though as somebody mentioned trust whatever whatever was the precursor that led us all to here to this today today clearly there has been an issue of broken trust at this point and again you can't say it enough times it may not be what is the end result but it's how it was done that you know breaks that trust and creates problems that you know can last for you know quite a long time with your constituency so that's just my experience for a long time and you know in government service my other question which is this is the one I would kind of like to get an answer to is I'm not sure"
+    },
+    {
+      "block_id": 300,
+      "speaker": "SPEAKER_00",
+      "start": 8613.5,
+      "end": 8661.64,
+      "speaker_name": "unknown",
+      "reason": "speaker expresses concern about a city policy regarding long-term requirements and investment",
+      "text": "being used i mean i understand if that is just the take it or leave it position that they have put on the table then sometimes you may have to leave it because i really don't understand the logic of 10 years and then no more concern no more requirements why why would you do that to somebody who clearly is expressing the intent to put tens of millions of dollars into something and to be there for decades potentially why 10 years and then stop that just makes no sense to me so another small point these 176 generators could have all been required to be powered by biodiesel not petroleum diesel and you know pennsylvania is the only state in the country that has a biodiesel"
+    },
+    {
+      "block_id": 301,
+      "speaker": "UNKNOWN",
+      "start": 8661.64,
+      "end": 8677.64,
+      "speaker_name": "unknown",
+      "reason": "speaker discusses diesel mandates and biodiesel production in the context of city policy",
+      "text": "mandate in our you know diesel that is dispensed at the pump um and we stuck our neck out on that one and we're not even a producer of biodiesel thank you but excuse me thank you 10 the 10-year"
+    },
+    {
+      "block_id": 302,
+      "speaker": "SPEAKER_00",
+      "start": 8677.64,
+      "end": 8700.92,
+      "speaker_name": "Charlotte Altmer",
+      "reason": "speaker identifies as a resident and states an objection during the public comment period",
+      "text": "issued address thank you good evening good evening my name is charlotte altmer i live on the 200 block of north charlotte street you're gonna have to hear the whole thing some of it's a repeat of what others have said but i don't know how to simplify it on the fly so you're gonna have to stick with me for the whole of this i'll start by voicing an objection to the background point"
+    },
+    {
+      "block_id": 303,
+      "speaker": "UNKNOWN",
+      "start": 8700.92,
+      "end": 8706.44,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing a CBA and AI industry concerns, which aligns with public comment content, but the text is fragmented and lacks clear identification.",
+      "text": "a in the cba quote to unlock productivity and innovation gains this is debatable and brings"
+    },
+    {
+      "block_id": 304,
+      "speaker": "SPEAKER_00",
+      "start": 8706.44,
+      "end": 9146.64,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a macro concern about Lancaster's role in supporting an unregulated industry and AI risks, which is a substantive public comment.",
+      "text": "me to my most macro concern and that is the role lancaster is playing in supporting an industry that is grossly unregulated and whose preeminent experts agree poses existential risk to humanity and in the nearer term is positioned to take away jobs from human beings i am pro innovation and growth but i desire to have that innovation and growth be values driven and well considered the rush to get in on ai boom is naive and risky and i fail to see how it supports the city's own plan the comprehensive plan that's been referenced tonight i want to highlight the dollars represented in the cba the proposed lancaster county community foundation being funded in the amount of 20 million dollars as a percentage of this project doesn't scratch a quarter of a percent this sounds like a lot of money but it's not it's not it's 0.2 percent of the project The Sustainable Development and Clean Energy Fund introduced lands like a farce, the idea that we're going to turn a blind eye to known truths in favor of nice-sounding commitments. Data centers are ravenous for limited resources such as water and electric. If you look at the direct and indirect emissions of a data center, you see the issue. Across the organization's entire value chain, you get into troubling truths. The manufacturing of semiconductors and required refrigerants used in data centers are full of forever chemicals which wreak havoc on the sites in which they are manufactured and will eventually wreak havoc on the sites where they are disposed of. Data centers growing across the U.S. will require 22 percent more grid power by the end of 25 and on and on and on. We know this. While the community benefits agreement is asking for clean energy, I think it's important to acknowledge the massive demand for electricity across this sector is problematic, period. Just yesterday and today, WGL, LNP talking about PPNL bringing forward a rate hike right it's a problem i seeing as the community didn't have a say in this work prior to this approval and commencement of the work trust has been broken and i again asked the city council how do you plan to restore trust with the residents that you are meant to represent and serve a recommendation is to deeply listen to what's being shared in tonight's special meeting show humility show patience and ensure the concerns raised tonight are appropriately considered before you authorize and approve the cba beyond the fundamental objection i have to the data center in lancaster i will call out a few specifics in the cba itself section 7.1 transparency is key annual reporting should include third-party noise reporting water use and third-party water quality reports electric use is outlined and a third-party air quality report if the environmental concerns have all been addressed as the agreement suggests show us that your third party audits we've reached three minutes thank you very much good evening good evening my name is Jerry Clase I want to make sure I'm not violating protocol I do not live in Lancaster City that's just fine East Enfield 1352 Jasmine Lane East Enfield I have a couple questions it's about energy okay I know you can't tell us what they will be paying for um electricity but can you publish some indication whether it's 50 90 80 of what the typical resident would pay i would not be happy if i found out that we're subsidizing half of their energy costs because they're paying with 50 of what i am uh have you done a study uh that would show what the projected energy costs would be going out for the next five ten years one with the data center using all the power they do and number two without the energy that the data center would be using i think the numbers are going to be pretty staggering on what the rates are going to uh happen to the citizens of this fine city and thirdly um have they talked at all about uh fusion nuclear power uh i would i know it's five to ten years out but it's something that i think really needs to be discussed uh and it could bring some real benefits to the community of lancaster thank you thank you good evening good evening hi thank you guys for being here and all the work that's done my name is francis musselman i'm on the 500 block of west chestnut street um i understand that the agree i understand today that the agreement text in front of you is the final and today's vote is yes or no with no amendments is that right that's correct i also understand that the 20 million dollars has already been conceptually allocated so a no vote is being framed as leaving that money on the table my concern is that in section 10.1 it states that we're locking Lancaster into a 20-year industrial agreement is it a 20-year industrial agreement have we been talking about the limit especially with the 10-year energy deal so you have a 10-year energy deal but then we're in a 20-year industrial agreement in one of the fastest changing sectors on earth i was at the open house talking to the gensler architects and they said that in within a year they have to go and redesign some of the buildings because it's moving so quickly so this agreement will last until 2045. is that right do we know we didn't talk about the limit so the most of the money is going to be arriving in the first three years and then the impacts are going to continue for 20 years the risks are long term and the leverage is short term if you choose to vote yes i'm asking you to pair that vote with a concrete commitment on implementing number one creating a formal community oversight body to track this agreement including noise diesel use energy mix and how the 20 million is actually spent require public number two require public reporting at least annually or like quarterly actually on key metrics and energy use clean energy share generator testing noise levels and finally open up a 20 million dollar plan to generally genuinely get public input not just a pre-decided list that part i think is the one that hurts the most but it's 20 years and i think that that should also be reason to pause because it just feels like a very long time thank you good evening hello my name is pat eichmann and i do not live in this city either"
+    },
+    {
+      "block_id": 305,
+      "speaker": "UNKNOWN",
+      "start": 9146.64,
+      "end": 9151.6,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as living near the Greenfield data center and expresses a wish, indicating personal stake and public comment.",
+      "text": "i wish i did right now i live less than a mile from the greenfield data center"
+    },
+    {
+      "block_id": 306,
+      "speaker": "SPEAKER_00",
+      "start": 9152.48,
+      "end": 9171.36,
+      "speaker_name": "unknown",
+      "reason": "Speaker questions council members about living near a data center and expresses opposition to the project.",
+      "text": "and i just want to ask the people in here tonight that are supporting this project would they want to live have the data center in their backyard would they be okay with that um i doubt it and i ask you to for the harrisburg center do you want to take your children out to longs park"
+    },
+    {
+      "block_id": 307,
+      "speaker": "UNKNOWN",
+      "start": 9171.36,
+      "end": 9176.4,
+      "speaker_name": "unknown",
+      "reason": "Speaker continues discussing air pollution concerns related to the data center project.",
+      "text": "knowing there are all kinds of air particles floating around the air and poisonous uh"
+    },
+    {
+      "block_id": 308,
+      "speaker": "SPEAKER_00",
+      "start": 9177.76,
+      "end": 9246.56,
+      "speaker_name": "unknown",
+      "reason": "Speaker discusses financial risks and pollution associated with the data center project.",
+      "text": "not nitro oxides or whatever floating around i don't think you want to do that do you want to shop at Wegmans with all this pollution and water pollution out there I don't think so and I just want to reiterate that these the core we've data center is their stock has tumbled they are highly highly leveraged it's like a house of cards there's a it's called circular financing there are so many privately private equity firms in this financing you pull one card out and that whole house could crash so they are highly leveraged and if you're thinking of your 20 million dollars if they go bankrupt your 20 million dollars is gone and that might not be too far away because sam altman the ceo of open ai i read the article he did agree that we are going to be in an ai bubble and it's going to pop so i just want to i'll leave that out there Thank you. Good evening. Good evening, councillors. My name is Ezra Rothman. I lead"
+    },
+    {
+      "block_id": 310,
+      "speaker": "SPEAKER_00",
+      "start": 9250.7,
+      "end": 9262.36,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident of Lancaster City and expresses support for the city's efforts on a CBA.",
+      "text": "also a resident of Lancaster City, 100 block of North Pine Street. I've made my support and complemented the city's efforts on this CBA publicly several times in addition to the letter"
+    },
+    {
+      "block_id": 312,
+      "speaker": "SPEAKER_00",
+      "start": 9272.28,
+      "end": 9300.5,
+      "speaker_name": "unknown",
+      "reason": "Speaker discusses community impacts of a data center and identifies as a resident concerned about the site's past uses.",
+      "text": "past this data center is not replacing a clean use in our community this was previously an active industrial use that operated 24 7 with heavy truck traffic with emissions and with significantly higher water usage so I do think that we need to be clear about that as we talk about the past uses and the past impacts of this site on our community. Let me talk about the present. I love living in"
+    },
+    {
+      "block_id": 313,
+      "speaker": "UNKNOWN",
+      "start": 9300.5,
+      "end": 9316.16,
+      "speaker_name": "unknown",
+      "reason": "Speaker expresses personal reasons for living in Lancaster County and mentions their wife, indicating they are a resident.",
+      "text": "Lancaster County because of the opportunities I have here. I have opportunities to have a well-paying job and live in a community that I think is accessible. My wife and I can walk to restaurants and I can quickly also get out and enjoy the wonderful environmental amenities that we have in"
+    },
+    {
+      "block_id": 314,
+      "speaker": "SPEAKER_00",
+      "start": 9316.16,
+      "end": 9347.9,
+      "speaker_name": "unknown",
+      "reason": "Speaker continues discussing the community's economy and future opportunities, consistent with a resident's perspective.",
+      "text": "this community. And a big part of that, especially the economic side, is the diversity of our economy in Lancaster County and that leads to a strong vibrant and resilient economy that also leads me to the future we have an opportunity here to take AI and high tech which is objectively part of our future and bake that into our community that comes with innovation that comes with jobs that comes with money to support us as a community pipelining"
+    }
+  ]
+}

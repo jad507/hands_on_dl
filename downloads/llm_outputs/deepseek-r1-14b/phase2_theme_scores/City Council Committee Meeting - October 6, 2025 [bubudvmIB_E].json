@@ -1,0 +1,87 @@
+{
+  "title": "City Council Committee Meeting - October 6, 2025",
+  "video_id": "bubudvmIB_E",
+  "upload_date": "20251007",
+  "model": "deepseek-r1-14b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 156,
+      "speaker": "SPEAKER_27",
+      "speaker_name": "Sophia Pangburn",
+      "start": 9610.32,
+      "end": 9629.52,
+      "text": "hello my name is sophia pangburn i'm from the 200s block of king street and i just want to 100 clarify just to make sure that i understand this correctly that even if this zoning uh thing is passed it doesn't necessarily apply to the two warehouses that are currently already",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "Sophia's comment focuses on zoning and existing warehouses, not on municipal resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is seeking clarification on zoning, which relates to the process, but does not express distrust, demand oversight, or address transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health concerns, noise, air quality, or direct health impacts in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 158,
+      "speaker": "SPEAKER_27",
+      "speaker_name": "Unknown",
+      "start": 9699.87,
+      "end": 9726.88,
+      "text": "would apply to those two sites okay so this all of this has been complete hypotheticals and there's just absolutely no guarantee that there will be any kind of precautions for noise for environmental safety for electricity for responsibility in any kind of way like there's absolutely no recourse or rules that these warehouses have to follow um if this does not apply to them in the future that's not how the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention specific resources like electricity, water, or waste management. It focuses on hypotheticals and lack of guarantees for precautions, which is more about process and potential risks rather than resource strain."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker expresses distrust in the process, questioning the lack of guarantees and rules for the warehouses. This reflects a concern about how decisions were made and the accountability of the process."
+        },
+        "health_and_well_being": {
+          "score": 0.3,
+          "reasoning": "The comment touches on environmental safety and noise, which are related to health and well-being, but it's more about the lack of guarantees rather than direct health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "There is no mention of unequal distribution of costs or benefits, or issues related to vulnerable populations or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 173,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "Skycus",
+      "start": 10419.01,
+      "end": 10542.4,
+      "text": "skycus i'm a resident on 300 west lemon that block um there's there definitely are studies that don't necessarily show it improves safety um i was looking at one right here before uh i didn't didn't know this was on the agenda uh and so i uh i can provide that for anyone who wants uh it essentially was a study in houston saying they stopped the red light cameras and they said well we're not totally sure whether or not it improved safety or not and slam on the brakes when they were like you know just about to uh like blow it i'm saying like much earlier creating you know dangerous incidents i've been in the car in front or you know behind those people who have been in those situations. I don't necessarily believe that this will improve safety. I think it might just change the accidents that we're seeing here in Lancaster. I would also just say that anecdotally from, well, from where, you know, I grew up, I'm very happy to be living in Lancaster, but in the Chicagoland area, there's a lot of bureaucracy in fighting tickets and Google shirts can show that there have even been instances with these red light camera companies i'm not sure if it'll be the same one servicing the city but in getting completely wrong license plates uh of people who they said oh this is your car and it actually wasn't their car it was someone else's car and there was no way to uh to fight it people had a hard time doing that so i would just if this was going to go into place i would make sure that there would be a robust system for people to fight the tickets uh so that they didn't get wrongfully ticketed because you know they are pricey um and i would echo the previous commenters uh the speaker's thoughts about other ideas for safer streets like you know you can narrow the streets i i'm just saying there's other ideas too that we don't necessarily need to resort to just red light cameras to slow down people so please do not pass",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses concerns about red light cameras and their impact on safety, which does not relate to municipal resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker focuses on personal experiences and anecdotes about red light cameras, not on the decision-making process or transparency issues related to the AI data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment addresses potential safety issues from red light cameras but does not discuss health impacts, air quality, or physical well-being related to the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker's concerns are about ticketing accuracy and alternative safety measures, which do not touch on power imbalances, economic benefits, or inequality related to the AI data center."
+        }
+      }
+    }
+  ]
+}

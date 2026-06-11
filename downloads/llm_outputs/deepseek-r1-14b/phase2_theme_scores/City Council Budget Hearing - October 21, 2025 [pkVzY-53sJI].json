@@ -1,0 +1,87 @@
+{
+  "title": "City Council Budget Hearing - October 21, 2025",
+  "video_id": "pkVzY-53sJI",
+  "upload_date": "20251022",
+  "model": "deepseek-r1-14b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 126,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2800.14,
+      "end": 2803.9,
+      "text": "land development plan and then i have to go somewhere else to get my permit i have to go",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific resource strain or infrastructure concerns related to the AI data center, such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the decision-making process, transparency, or community involvement regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not express any concerns about health impacts, air quality, noise, or direct health consequences related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss issues of inequality, distribution of benefits, or power dynamics related to the AI data center development."
+        }
+      }
+    },
+    {
+      "block_id": 127,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2803.9,
+      "end": 2858.94,
+      "text": "to department of public works and then have to go to see my permit get my permit it's certainly not clear to me how that would make things more efficient or streamlined so that would be my main question and um again uh if we're making things more streamlined ultimately they should reduce expenses and personnel and it sounds like we're increasing expenses and personnel so i'm not sure how that all adds up um would also suggest and i'm going to put on my strong hounds strong towns lancaster hat for a second here uh one way to streamline permittings by actually reducing and and eliminating regulations strong towns has what they call the six policies for a housing ready city one of them is streamline the approval process cities can implement 24 hours approvals for straightforward projects like duplex conversions backyard cottages and starters homes making",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on the permit process and streamlining regulations, which relates to municipal process rather than resource management."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The speaker questions the efficiency and cost-effectiveness of the permit process, suggesting it is more burdensome and expensive than intended, which directly relates to concerns about how decisions are made and how processes are managed within the municipality."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns, noise, air quality, or direct health impacts in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, cost distribution, or benefits to different groups."
+        }
+      }
+    },
+    {
+      "block_id": 128,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2858.94,
+      "end": 2863.76,
+      "text": "it easier and faster to get built this reduces cost encourages development and provides communities",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific concerns about the city's resources such as electricity, water, or waste management. It focuses on the ease and cost of development, which is more about economic benefits rather than resource strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or distrust in the process. It is more about the positive aspects of development without touching on procedural issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns like noise, air quality, or direct health impacts. The focus is on development benefits, not health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss issues of inequality, cost distribution, or benefits for different groups. It is a general statement about development incentives without addressing power dynamics."
+        }
+      }
+    }
+  ]
+}

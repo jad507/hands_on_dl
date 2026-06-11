@@ -1,0 +1,425 @@
+{
+  "title": "City Council Committee Meeting - June 2, 2025",
+  "video_id": "gyhG_Bp4bV4",
+  "upload_date": "20250603",
+  "model": "qwen3.5-9b-q8",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 3,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 635.91,
+      "end": 724.31,
+      "text": "uh lancaster resident lifelong lancaster resident uh born and raised uh graduated mccaskey high school a couple years of college now a couple degrees in college master's in human services and masters of social work uh i spent my first probably 20 years with the boys and girls club of lancaster as the operations director uh then i moved on to uh children and youth and spent the next few several years there as the uh supervisor in the child neglect unit uh at that time i was tapped to take over the urban league of lancaster as the president and ceo uh which i've held that position for about five years before moving on and uh i ended up at daddy stevens college where and i was the director of multicultural affairs student engagement and student retention it's where i retired from i actually retired from there i'm currently the president of the local branch of the national action network which is the social service organization that that targets issues dealing with the quality of life issues here in lancaster city for our community residents thank you so much",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker provides extensive background on their career in social services and community leadership but does not mention electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is purely biographical and does not address decision-making processes, transparency, or accountability regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions working with children and youth, they do not discuss noise, air quality, health impacts, or the trade-off between health and economic benefits."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker's background in social services and community organizations is shared, but they do not critique job creation narratives, discuss wealth distribution, or reference historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 5,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 741.35,
+      "end": 752.93,
+      "text": "right around we'll we'll be in with you how do you see yourself holding accountability to the checks and balance needed for the city and fairness to her residents uh",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary strain on municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly asks about accountability, checks and balances, and fairness to residents, which directly engages with expectations of municipal governance and oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "The mention of 'fairness to residents' lightly touches on distribution of benefits, but lacks specific focus on who bears costs or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 1763.71,
+      "end": 1793.37,
+      "text": "proactively guide city officials on how to make good decisions that reflect the values of justice diversity transparency and community benefit considering both the intended and unintended impacts of the decisions we make and the desires that our residents have for their communities so that's what really brings me uh here to this table thank you so much i'll do it now",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or infrastructure burdens on the city."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly calls for officials to make decisions reflecting 'justice, diversity, transparency, and community benefit,' directly engaging with expectations of municipal process and accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The reference to 'justice' and 'community benefit' touches on equity, but the comment is more about process values than analyzing unequal distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 1969.96,
+      "end": 1977.56,
+      "text": "Thank you for being here. Thank you. How do you believe that integrity and honesty and elected officials can help build trust and engagement in the community",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention utilities, infrastructure, water, electricity, or waste management. It focuses entirely on the relationship between officials and the community. }, "
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The comment directly questions the integrity and honesty of elected officials, which aligns with the theme of distrust and moral condemnation of the municipal process. It frames the project's legitimacy around the officials' ability to build trust. }, "
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts. The focus is on political trust, not bodily well-being. }, "
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss wealth distribution, job creation, or historical patterns of extraction. It addresses the moral character of officials rather than systemic inequality. } } }"
+        }
+      }
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 1977.56,
+      "end": 2026.8,
+      "text": "yeah um integrity um i think people like to think of it as you know making the right decision when nobody's looking um and i think that the ethical code of conduct or an ethical framework would help um develop trust uh with the community uh knowing that there is guidelines for decision making in the city that put the community at the center. When integrity is mentioned, I think when we hold our city officials and myself to integrity, I think it comes down to is when nobody's watching across the table inside the committee meetings, are we treating each other with respect, have similar goals towards justice, truth, and ultimately community benefit.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary strain on municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly calls for an ethical framework and guidelines for decision-making to build trust and ensure community-centered governance, directly engaging with expectations of process and accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "The speaker mentions 'justice' and 'community benefit,' which lightly touches on equitable outcomes, but the focus is primarily on procedural ethics rather than distribution of costs or benefits."
+        }
+      }
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 2027.4,
+      "end": 2041.32,
+      "text": "Thank you. Thank you. Thank you for being here tonight. How will you ensure that your decisions, your decisions are consistent across cases?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary strain on municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker questions the consistency of decisions, directly engaging with concerns about how officials make decisions and the fairness of the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, job narratives, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "Chris Solt",
+      "start": 2213.42,
+      "end": 2300.72,
+      "text": "Mayor, Madam President, Council Members, I'm really honored to be here and also really enjoyed hearing the interviews of the other candidates. My name is Chris Solt. I was born and raised in Vermont. I actually grew up in Burlington, Vermont, which I'll get back to next very quickly. Then I moved to Cleveland, Ohio, and I lived in the inner city there for about 27 years. And then my wife and I moved here in 2018. And we love it here. We're never moving. Love this place dearly. I worked for an organization called 10,000 Villages, which is just 20 minutes north of here, starting in 2006. And I traveled to the city often. And so I got to know the city for about 20, last 20 years and fell in love with it. So I kind of feel like this is kind of my kind of new adopted home. Yeah, so I've worked in the fair trade world for about 20 years and I saw somebody sent me this opportunity and I was like, oh, I see a lot of what I've devoted my career to in this position. I think that what you all do in public service is I think a very special kind of calling and also has a special responsibility, which I think is something that should be shared with the community. So I think that's really interesting new opportunity for the city to help, I'd say, be a better",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on the speaker's personal background and career in public service, with no mention of municipal utilities, infrastructure, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker expresses general appreciation for public service but does not critique the decision-making process, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of health impacts, environmental quality, or quality of life concerns related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address wealth distribution, job creation, or historical patterns of inequality; it is a personal introduction."
+        }
+      }
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 2303.01,
+      "end": 2315.68,
+      "text": "Okay. Councilor Diaz. Thank you for coming. How do you see yourself holding accountability to the checks and balance needed for the city and fairness to our residents?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary strain on municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker directly questions the councilor's accountability and the fairness of checks and balances, which aligns with concerns about municipal process and decision-making legitimacy."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While it touches on fairness, it does not explicitly address wealth distribution, vulnerable populations, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2315.68,
+      "end": 2386.9,
+      "text": "Yeah. Well, as you could probably tell, like being in the fair trade world, the fairness is something that is something is very passionate i'm very passionate about um and uh kind of interestingly in my organization now we have a code of practice that we hold 200 uh small businesses to the united states and canada they've agreed to behave a certain way and they've asked us to hold them accountable so i'm very familiar with that kind of dance right it's a very important one to make I think that within a group having lots of diverse opinions, that's all very great, and building community within that group is important, but to understand the letter of the law, right, and the rule of law that we have agreed to work with, right? So I think being very mindful and building a lot of understanding with what are the tools that we are actually using to work, rather than, like, my own personal opinion about a policy or something that impacts me as a resident, I think continuously grounding ourselves in the basis of the ethics act, which is passed by the, you know, Pennsylvania legislature.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary strain on municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker emphasizes adherence to the 'letter of the law' and the 'ethics act' as a framework for decision-making, signaling a focus on procedural legitimacy and governance standards."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss distribution of costs/benefits, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 2389.58,
+      "end": 2390.56,
+      "text": "Councilor Hirsch.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a simple address to a councilor and contains no substantive content related to municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a simple address to a councilor and contains no substantive content related to municipal process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment is a simple address to a councilor and contains no substantive content related to health and well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is a simple address to a councilor and contains no substantive content related to power dynamics and inequality."
+        }
+      }
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 2556.09,
+      "end": 2567.53,
+      "text": "council president thank you for being here this evening how do you believe that integrity and honesty and elected officials can build trust and engagement in the community yeah but um someone",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or infrastructure costs."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker directly questions the integrity and honesty of elected officials and asks how trust can be built, which aligns with the theme of distrust and moral condemnation of the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 43,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2567.53,
+      "end": 2613.69,
+      "text": "else just mentioned our current um political dialogue and um you know the tone right now is is really stark i think that in lancaster city um especially we have an opportunity to control what we have going in our community the integrity and trust that you all have and and lancaster elected officials have with residents is the currency by which you are able to spend the trust of the residents and the you know that you're supposed to represent their interests and if that's you know if that's seen as somehow damaged or somehow tainted in some way then it doesn't allow you to fully represent all the residents in the city to make the best community possible",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss electricity, water, waste, or budgetary strain on municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly frames the issue around political dialogue, trust between officials and residents, and the integrity of representation, which aligns with the theme of unmet expectations with elected officials and demands for accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "While the speaker discusses representation and interests, they do not explicitly address wealth distribution, job creation, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 2613.69,
+      "end": 2634.92,
+      "text": "i mean it's really the biggest issue right thank you council clicks thank you council president thank you for being here tonight and uh how will you ensure that your decisions are consistently worst cases within the commission regardless of a person's political power or connections",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary capacity concerns."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker directly questions the fairness and consistency of decision-making within the commission, expressing concern about political power and connections influencing outcomes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The comment touches on political power and connections, which relates to power dynamics, but the focus is more on procedural fairness than on the distribution of costs and benefits or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 91,
+      "speaker": "SPEAKER_13",
+      "speaker_name": "Marlisa Yoder Bontrager",
+      "start": 5880.18,
+      "end": 5934.63,
+      "text": "why you want to serve on the shade tree commission okay my name is marlisa yoder bontrager i live on i first moved to south hand street in 1988 so i've been there for a long long time and i've been involved with tree planting in that area just about since 1988 um and it's been neighborhood tree planting it's been also in the northeast um and um yeah i just i value trees really highly wherever they are but i think in an urban environment especially with the city's goals for water storm water reduction general life quality cooling all those things i think they're just a really valuable asset and i'd like to do more to support the city in getting more trees in the ground keeping the ones that we have healthy thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker discusses trees and stormwater reduction but does not frame this as a burden on municipal utilities like electricity, water supply, or e-waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address decision-making processes, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions 'general life quality' and 'cooling,' these are framed as benefits of trees rather than concerns about data center health impacts like noise, air quality, or disease."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or pays, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 94,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 5946.9,
+      "end": 5966.06,
+      "text": "there things that you feel like as far as what the city is doing and getting us both the street trees and shade trees but also just its overall tree canopy things of the city should do better or what maybe things that are that are going well yeah I",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses general city tree canopy and street trees, not the specific municipal resources (electricity, water, waste) strained by the data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is asking about city tree initiatives, not addressing the transparency, notice, or accountability of the data center decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While trees relate to quality of life, the comment does not connect them to data center impacts like noise, air quality, or health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or pays, job creation, or historical patterns of extraction in relation to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 95,
+      "speaker": "SPEAKER_13",
+      "speaker_name": "unknown",
+      "start": 5966.06,
+      "end": 6027.97,
+      "text": "think that we could do change the traditional approach of just putting a single sidewalk street tree in to doing planting strips to doing cluster planting in areas where we're off the sidewalk a little bit uh and in that way create more habitat and more storm water reduction um i think that there could be more coordination probably between departments i um i don't know a lot of the background but it seems to me like sometimes sidewalks are uh put in without maybe consultation with the from the from the tree perspective from the um city arborist and the urban the urban what are you called mike forester forester um so i would like to see a very tight connection between when work is being done and um always keeping in mind what the opportunities might be for adding tree trees to whatever",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses tree planting and stormwater reduction but does not frame these as burdens on municipal utilities like electricity, water supply, or e-waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions coordination between departments, they do not express distrust of officials, demand community oversight, or critique the transparency of the data center decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on habitat and stormwater, not on noise, air quality, or direct health consequences for residents."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of who benefits versus who pays, job creation, housing needs, or historical patterns of extraction."
+        }
+      }
+    }
+  ]
+}

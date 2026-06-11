@@ -1,0 +1,35 @@
+{
+  "title": "Planning Commission",
+  "video_id": "vqNOsyBYp08",
+  "upload_date": "20250206",
+  "model": "qwen3.5-9b-q8",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 647.06,
+      "end": 663.74,
+      "text": "i was looking at the plan and i know there's one with a little bit more detail that was also sent to us um what are we looking at for egress or maybe windows on the um apartment side sure",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks about building design details like egress and windows, not municipal utilities or infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a procedural question about the plan's details, not about transparency, accountability, or distrust of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or who bears costs, nor does it challenge the jobs narrative or discuss vulnerable populations."
+        }
+      }
+    }
+  ]
+}

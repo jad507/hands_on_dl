@@ -1,0 +1,35 @@
+{
+  "title": "City Council Committee Meeting - March 3, 2025",
+  "video_id": "qEcut0Mpq30",
+  "upload_date": "20250304",
+  "model": "deepseek-r1-14b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 108,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 5676.86,
+      "end": 5680.44,
+      "text": "Puerto Rico citizen",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment 'Puerto Rico citizen' does not address any concerns related to Lancaster's municipal resources, water, electricity, or waste management. It introduces a personal identifier without context, making it irrelevant to the themes."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not relate to the process of decision-making, community oversight, transparency, or distrust in local officials. It lacks any connection to the municipal process themes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health issues, noise, air quality, or any related concerns. It is unrelated to health and well-being themes."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address power dynamics, inequality, or issues related to vulnerable populations, jobs, or historical extraction patterns. It is irrelevant to this theme."
+        }
+      }
+    }
+  ]
+}

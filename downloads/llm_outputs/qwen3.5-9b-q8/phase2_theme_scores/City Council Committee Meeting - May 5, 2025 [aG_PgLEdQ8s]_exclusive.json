@@ -1,0 +1,425 @@
+{
+  "title": "City Council Committee Meeting - May 5, 2025",
+  "video_id": "aG_PgLEdQ8s",
+  "upload_date": "20250506",
+  "model": "qwen3.5-9b-q8",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 1154.4,
+      "end": 1172.22,
+      "text": "comments comes limit Thank You counselor my question goes towards some of the deed restrictions and just to be clear this is in perpetuity for ever and there is the along with the land is the agreement that it's gonna stay in this",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary burdens on municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker focuses on deed restrictions and agreements, which relates to the transparency and long-term oversight of the project's legal framework."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 1172.22,
+      "end": 1220.47,
+      "text": "use is just my question the affordability restriction is in full force and effect for a period of 15 years from the date of the conveyance of this property to soccer the restriction period and that soccer by accepting delivery of the deed covenants on behalf of soccer its successors and assigns to perform and abide by said terms conditions and provisions so it is a 15 year restriction these are the same restrictions that are used through the Redevelopment Authority and I believe other affordable housing projects and I'm looking to the housing team here who are shaking their heads yes thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses affordability restrictions and housing covenants, not municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "The speaker references the Redevelopment Authority and housing team, implying a process involving multiple entities, but does not explicitly address transparency, notice, or distrust of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The comment focuses on affordability restrictions and housing, which relates to economic inequality and housing needs, but does not explicitly frame it as a cost/benefit distribution or historical extraction pattern."
+        }
+      }
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 1220.47,
+      "end": 1241.07,
+      "text": "and then also just my final question given that this is on a residential block well we will soccer also commit to making sure that the roads are the way that they were found when the development is done and what will the impact of the development have on the neighbors on the block so with with any",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly asks about the impact on neighbors and the condition of roads, which relates to municipal infrastructure maintenance and the burden on shared resources."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The comment questions the developer's commitment to restoring roads, which touches on accountability, but it is more about infrastructure than the decision-making process itself."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits versus who pays, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 1331.39,
+      "end": 1345.83,
+      "text": "question I guess is regarding the 15-year restrictions when year 16 comes does that mean that I mean I know that Saka most likely wouldn't sell it to like the highest bidder but what happens to the land agreement at year 60 yeah",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary burdens on municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker questions the long-term governance and land agreement structure, which touches on process and accountability, though it is more about contractual terms than transparency or distrust."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss who benefits versus who pays, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 23,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 1426.76,
+      "end": 1439.32,
+      "text": "point but that would be the decision of the of saka in this case and would it be the city's decision to re-up the 15 years uh that's correct it would be uh saka's choice at that point",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses decision-making authority and contract duration but does not address municipal resources like electricity, water, waste, or budget."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "The speaker references a decision-making process involving 'saka' and the city, touching on governance roles, but lacks specific concerns about transparency, accountability, or community oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits versus who bears costs, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_13",
+      "speaker_name": "unknown",
+      "start": 1486.44,
+      "end": 1590.92,
+      "text": "okay so um i just had a comment um i firmly believe that if the city is considering transferring two properties to saka an organization that sells homes at market price for profit we should instead prioritize preparation for the polite and dixon families mayor stated that the city can simply give away the fire station 6 property which raises questions about fairness and community benefit rather than allowing a profit driven transaction we should honor the legacy of nelson polite senior a reverend leader or of the civil rights movement after whom the city hall is named and his father abraham polite whose parents were enslaved in ridgeland north south carolina this deep historic historical connection underscores the need of restorative justice additionally we should support reverend kevin polite's vision for community upliftment as he emphasized last tuesday focusing on providing resources for our community's children and supporting the less fortunate by redirecting these properties to initiatives led by the polite family we can invest in soe future fostering equity and opportunity while paying tribute to their enduring contribution to our city's history and values and i do know that saka is receiving this um as a grant so i'm not saying it's for profit i'm just speculating that there are other things that we could also implement thank you thank you ms gomez any",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss electricity, water, waste, or municipal infrastructure burdens; it focuses on property disposition and community benefit."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "The speaker questions the fairness of the transaction and the city's decision-making regarding property transfer, but does not explicitly address transparency, notice, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or environmental impacts on residents' well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly critiques profit-driven transactions versus community benefit, invokes historical inequity (enslavement, civil rights), and argues for restorative justice and equity for vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 39,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 2010.03,
+      "end": 2027.95,
+      "text": "any questions from the public jose rivera honey block of corn my question is are we getting a new",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is fragmented and does not address electricity, water, waste, or municipal budget concerns."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no mention of decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not reference noise, air quality, health conditions, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost-benefit distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 40,
+      "speaker": "SPEAKER_11",
+      "speaker_name": "unknown",
+      "start": 2027.95,
+      "end": 2044.48,
+      "text": "water station you know because that whole thing is like only 1800s for that particular um well yes all the tainted water and everything what they'll do is they'll expand the capacity for",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly connects the data center project to water infrastructure, citing 'tainted water' and concerns about expanding capacity, which directly aligns with Theme 1b regarding water supply, quality, and cost."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on physical infrastructure and water quality rather than the decision-making process, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.2,
+          "reasoning": "While the speaker mentions 'tainted water,' which relates to health, the primary focus is on the municipal resource (water supply/capacity) rather than direct health consequences like noise, air quality, or disease."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits versus who pays, job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 2045.44,
+      "end": 2050.08,
+      "text": "for that development but you're not fixing the main project the whole name",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too fragmented to identify any specific concern about municipal resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, oversight, or the decision-making process of the city council."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not reference job creation, housing, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 2691.95,
+      "end": 2705.24,
+      "text": "boards commissions or authorities they do not thank you and and just to be clear too the law already requires that a building inspector sit on the uh harb and on the historical commission",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses legal requirements for building inspectors on commissions but does not address electricity, water, waste, or budgetary burdens on municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker references legal requirements and the composition of boards/commissions, indicating a focus on governance structure and procedural compliance rather than substantive project impacts."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 67,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 2705.24,
+      "end": 2767.15,
+      "text": "and is doing so currently correct thank you thank you jose rivera hundred block of corn now will you have decisions and making what if these historical buildings stay up or they come down just just for instance I mean I got what three minutes just like they're doing on what's that up here Prince Street or Prince Street where they not the whole building out and they just kept the face of it that's what you want mr vera this because that was it that was a historical building so they knocked the whole building out and just let the historical the building is gone",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or municipal budget concerns; it focuses on building preservation."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "The speaker questions the decision-making process regarding historical buildings, implying a lack of transparency or care in how decisions are made, but does not explicitly address the data center project's process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss who benefits or who pays, nor does it reference historical patterns of extraction or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 68,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 2768.7,
+      "end": 2774.78,
+      "text": "that's what i'm asking so this bill has nothing to do with specific or general decisions",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker questions the relevance of the bill to specific decisions, indicating confusion or concern about the legislative process and its connection to the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing, wealth distribution, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 69,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 2774.78,
+      "end": 2795.2,
+      "text": "you guys been destroying the history of this city for the longest we have a historical committee and it's mindless because you guys still go and take down historical buildings so stop it just like the one i'm talking about you kept just the face of it but and then you destroyed the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary strain on municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "The speaker expresses frustration with the city's actions and governance, but the focus is on historical preservation rather than the specific data center decision-making process or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The speaker critiques the city's decisions as destructive and mindless, implying a disconnect between officials and community values, but does not explicitly address wealth distribution, job narratives, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 2834.83,
+      "end": 2886.92,
+      "text": "yeah bike month may is bike month nationally and the city has a lot of really exciting events going on i think every time i talk about bike month up here i'd be remiss if i didn't mention bike it lancaster.com uh slash bike dash month uh if you go there you'll see all of the events that are coming up um i'll have more to say uh at the third uh well at the you know assuming this moves forward uh at the next meeting um but yeah i think it's really important that we've continued to recognize um what lancaster city could be as far as a safe environment for people to bike throughout so that's all i have to say are there um well thank you i'm going to return it to you thank",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on bike month events and safe biking infrastructure, not on municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of decision-making processes, transparency, or accountability regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While safe biking relates to well-being, the comment does not address health impacts from data center operations like noise, air quality, or disease."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss who benefits or pays, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 74,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 2895.69,
+      "end": 3003.23,
+      "text": "from the public hey rivera 100 block of coral street uh me and you are a compulsive uh bike riders ain't we um and the bike lanes are perfect i love them but there's one problem we got company trucks parking on our designated bike lane especially i have pictures i have to developed them so you guys can see ugi pp and now i haven't seen uh water and sewage i've seen city's horse truck on it blocking our road now the problem here is if they blocking the bike lane on the other on the outside of of the street where the passenger gets out if they're blocking that lane you have to go around it and right now you're jumping into traffic very dangerous i already got pushed off the road four times i see multiple people get hurt because the drivers do not pay attention or they really don't care plain and simple and and we all take well the adults we all take those bike lanes they're very good they're quick but the parking authority will start giving tickets if they're going to park on if they want to make more money give them parking tickets for being on the bike lane thank you very much um i do want to respond",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions water and sewage trucks but only as examples of vehicles blocking bike lanes, not as concerns about municipal utility capacity or strain on resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker criticizes enforcement and parking authority but does not address the data center project's decision-making process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions safety and being pushed off the road, these are traffic safety concerns unrelated to the health impacts of data center operations like noise, air quality, or disease."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on local traffic enforcement and bike lane safety without connecting to broader issues of wealth distribution, job creation, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 75,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 3003.23,
+      "end": 3055.96,
+      "text": "to that because all i will say is i see it too i hear you um i see you know obstructions in bike lanes you can call the police not emergency line and they will ticket those vehicles um i've I've witnessed it myself so I just want to remind you that that is an option you can call the non-emergency line the only other thing I'll say is like you know I hope that some of these bike lanes you know they've been put in in the last five five ish years you know I think about what will the culture around them be like ten twenty fifty years from now and I do hope that to some extent like people i guess adapt to them being there i guess like i think some of it is just the newness of them to some extent too um yeah that's what i would say about that thank you very much",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses bike lanes and traffic enforcement, not municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker offers practical advice about reporting obstructions but does not address the data center project's decision-making process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address wealth distribution, job creation, or historical patterns of inequality; it focuses on infrastructure maintenance."
+        }
+      }
+    }
+  ]
+}

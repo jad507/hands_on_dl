@@ -1,0 +1,165 @@
+{
+  "title": "City Council Meeting - March 25, 2025",
+  "video_id": "Ifn8fwwBK0I",
+  "upload_date": "20250326",
+  "model": "deepseek-r1-14b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_17",
+      "speaker_name": "unknown",
+      "start": 1582.36,
+      "end": 1610.25,
+      "text": "Okay, so you have in front of you a page from the newspaper article where Amanda, Izzy, and Xavier, and Jamie were also in a riot at the protest. Here, uh it was told to this council that they were to create um a commission for blacks and browns affairs can you since amanda's not here jamie tell me what happened to that 2020 policy that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns about resources like electricity, water, or waste management. It focuses on a protest and a policy related to community affairs, which are unrelated to infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment references a protest and a policy related to community affairs but does not address the data center project, decision-making processes, or transparency issues. It does not touch on municipal process themes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns, noise, air quality, or direct health impacts related to the data center. The comment is about a protest and policy, not health effects."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss issues of inequality, power dynamics, or distribution of benefits and costs. It focuses on a specific policy related to community affairs, not broader power structures."
+        }
+      }
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_20",
+      "speaker_name": "unknown",
+      "start": 1610.25,
+      "end": 1616.92,
+      "text": "you guys had pushed are you done with your public comment i'm sorry are you done with",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too brief and unclear to address any specific theme related to resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the process or decision-making regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health concerns or well-being in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss issues of inequality or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 23,
+      "speaker": "SPEAKER_17",
+      "speaker_name": "unknown",
+      "start": 1616.92,
+      "end": 1678.82,
+      "text": "your public comment am i done with my public comment that's a question sir yes are you refusing to answer no I'm not done with my public comment I'm asking a question are you refusing to answer there was a policy that was pushed in 2020 and miss vacay had asked council to do the same exact thing and what you see in front of you is a draft that Lancaster can adapt or adopt since nothing happened in 2020 here's a draft that Janet gave me from Harrisburg City Council but we all know that nothing will happen because you block her on everything and you can't even answer a question now when you were involved in this protest you guys fought to put in place a Commission Board to hold these officers accountable",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns about the city's resources such as electricity, water, or waste management. It focuses on past policies and lack of response from council members, which doesn't relate to infrastructure strain or resource management."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The speaker is directly addressing issues with how decisions are made by the council, referencing past inaction and the blocking of a Commission Board. This highlights distrust in the municipal process and lack of accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There are no mentions of health concerns, noise, air quality, or direct health impacts in the comment. The focus is on procedural issues rather than health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss economic benefits, job creation, or unequal distribution of costs and benefits. It centers on the procedural failures and lack of response from council, not on power imbalances or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 96,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 5195.58,
+      "end": 5386.01,
+      "text": "of course is about what we all really came here for so let me start by saying i echo the members of the community that are already approached and spoke today but trust and believe we expected the reaction that we got at that press conference we expected them to gaslight we expected them to lie and our community still waited we did not harass use in the process we waited for that footage to only be denied for use for the police department to hide under the fact that there was juveniles in the videos so then I asked if it's because of the juveniles in the videos why were the parents denied the footage if it's to protect the children in the videos why deny the parents the body cams why make them wait a whole nother month to find out what really happened to their children that night this is disgusting this is disgusting like and I mean it in all serious it's not an exaggeration when I say it my kids are two times bigger than those boys and they're 15 and 16 if your cops are scared of those boys they're gonna be terrified of my sons and I promise you it's not a threat should that ever be one of my sons I'm not coming to City Council with my issue and that's the real problem that's where things are gonna get people can't trust our members to take care of this situation right now to allow that to attach those kids to guns the way they did and criminalize them the way they did and be like oh let's get upset because we put in so much work in our police department if you take out your trash this week you still have to take it out next week new people come new problems arise and you still have to handle them. In 2020, a situation transpired in downtown Lancaster. The city rioted, right? And you needed somebody to blame. I went to jail for 10 months so you could tell people to stop throwing frozen water bottles at your police station. And guess what? Nobody did it since. If you don't penalize the officers that are doing this, those other officers that are learning underneath them are going to think it's okay to do this stop saying oh we can't put him on administrative duties you can't no you can't fire him but you can keep him inside his cage and all of yous know that this is not whether it's through federal lawsuit or through things y'all done hush-touched and cleaned up",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any strain on Lancaster's resources like electricity, water, or budget. It focuses on trust issues with the police department and past incidents, not infrastructure or utilities."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker discusses distrust in the process, specifically regarding the handling of video footage by the police department and the lack of transparency. They express frustration with how the city and officials handled a press conference and information sharing, indicating a belief that decisions were made without proper community involvement or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health concerns related to the AI data center. It focuses on past events and police actions, not on physical health or environmental impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "The speaker touches on issues of power and trust within the community, particularly regarding how the police department handles situations and treats certain groups. However, the connection to the AI data center project is weak, and the focus is more on historical grievances and current mistrust in law enforcement rather than the distribution of costs and benefits related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 97,
+      "speaker": "SPEAKER_20",
+      "speaker_name": "unknown",
+      "start": 5386.01,
+      "end": 5395.51,
+      "text": "Hatfield's been an issue it's not new it's not new these are 20 year plus",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific concerns about the city's resources such as electricity, water, or waste management. It refers to Hatfield's being an issue for over 20 years, but this does not directly relate to the strain on municipal resources caused by the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any issues related to the decision-making process, transparency, or community involvement regarding the AI data center project. It simply states that Hatfield's has been an issue for a long time, without connecting it to the municipal process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not express any concerns about health impacts, noise pollution, air quality, or direct health consequences related to the AI data center. It focuses on the longevity of an issue without linking it to health and well-being."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss any aspects of power dynamics, inequality, or the distribution of costs and benefits related to the AI data center. It merely mentions that Hatfield's has been an issue for over 20 years without addressing these themes."
+        }
+      }
+    },
+    {
+      "block_id": 98,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 5395.51,
+      "end": 5459.22,
+      "text": "senior officers that were taught racist policing ways and are embedded in them this is conditioning we all know about racist conditioning so as you continue to perpetuate this cycle and capitalize on us instead of protecting us and I have to say use because user who I talk to and until y'all change this it's gonna keep doing this this policing for profit that's going on around here why use bleed us for all our tax dollars what do you think you're gonna have left again you can't fire him fine keep him inside the building and stop saying you can't do that because you can use make the ordinances so y'all made the ordinance with the that the bike reflector issue came from use oversee the mayor who oversees the chief of police who oversees the officers you can tell him keep your job we'll continue to pay you sit at this desk is that is that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any concerns related to the city's resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on policing and tax issues rather than the process or decision-making regarding the AI data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns, noise, air quality, or physical well-being related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment discusses power dynamics in the context of policing and taxation but does not relate to the AI data center project or its impact on inequality."
+        }
+      }
+    }
+  ]
+}

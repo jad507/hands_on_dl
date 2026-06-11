@@ -1,0 +1,139 @@
+{
+  "title": "City Council Meeting - March 25, 2025",
+  "video_id": "Ifn8fwwBK0I",
+  "upload_date": "20250326",
+  "model": "deepseek-r1-14b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_17",
+      "speaker_name": "unknown",
+      "start": 1582.36,
+      "end": 1610.25,
+      "text": "Okay, so you have in front of you a page from the newspaper article where Amanda, Izzy, and Xavier, and Jamie were also in a riot at the protest. Here, uh it was told to this council that they were to create um a commission for blacks and browns affairs can you since amanda's not here jamie tell me what happened to that 2020 policy that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns about resources like electricity, water, or waste management. It focuses on a protest and a policy related to community affairs, which are unrelated to infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment references a protest and a policy related to community affairs but does not address the data center project, decision-making processes, or transparency issues. It does not touch on municipal process themes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns, noise, air quality, or direct health impacts related to the data center. The comment is about a protest and policy, not health effects."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss issues of inequality, power dynamics, or distribution of benefits and costs. It focuses on a specific policy related to community affairs, not broader power structures."
+        }
+      }
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_20",
+      "speaker_name": "unknown",
+      "start": 1610.25,
+      "end": 1616.92,
+      "text": "you guys had pushed are you done with your public comment i'm sorry are you done with",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is too brief and unclear to address any specific theme related to resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the process or decision-making regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health concerns or well-being in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss issues of inequality or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 23,
+      "speaker": "SPEAKER_17",
+      "speaker_name": "unknown",
+      "start": 1616.92,
+      "end": 1678.82,
+      "text": "your public comment am i done with my public comment that's a question sir yes are you refusing to answer no I'm not done with my public comment I'm asking a question are you refusing to answer there was a policy that was pushed in 2020 and miss vacay had asked council to do the same exact thing and what you see in front of you is a draft that Lancaster can adapt or adopt since nothing happened in 2020 here's a draft that Janet gave me from Harrisburg City Council but we all know that nothing will happen because you block her on everything and you can't even answer a question now when you were involved in this protest you guys fought to put in place a Commission Board to hold these officers accountable",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns about the city's resources such as electricity, water, or waste management. It focuses on past policies and lack of response from council members, which doesn't relate to infrastructure strain or resource management."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The speaker is directly addressing issues with how decisions are made by the council, referencing past inaction and the blocking of a Commission Board. This highlights distrust in the municipal process and lack of accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There are no mentions of health concerns, noise, air quality, or direct health impacts in the comment. The focus is on procedural issues rather than health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss economic benefits, job creation, or unequal distribution of costs and benefits. It centers on the procedural failures and lack of response from council, not on power imbalances or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 114,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 6236.99,
+      "end": 6251.69,
+      "text": "the city i never received it in the southwest and neither did any of the people living in my apartment building um and i just need to know why that is that's all absolutely um you should have",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns about resources like electricity, water, or waste management. It focuses on not receiving information, which relates to process rather than resource strain."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The speaker explicitly mentions not receiving information in their area, indicating a lack of transparency or communication from the city, which falls under the municipal process theme."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns such as noise, air quality, or direct health impacts in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, power dynamics, or distribution of benefits and costs."
+        }
+      }
+    },
+    {
+      "block_id": 116,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 6272.75,
+      "end": 6283.23,
+      "text": "renter um he went to both the landlord and the renters yes okay and uh this and also if you can",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific concerns related to municipal resources such as electricity, water, or waste management. It briefly touches on renting but does not elaborate on how it affects the city's infrastructure or budget."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the process of decision-making, community oversight, or transparency issues. It is a fragmented statement about renting and does not relate to how the data center project was handled by officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns, noise, air quality, or any direct or indirect effects on physical well-being in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss issues of inequality, distribution of costs and benefits, or power dynamics related to the data center project."
+        }
+      }
+    }
+  ]
+}

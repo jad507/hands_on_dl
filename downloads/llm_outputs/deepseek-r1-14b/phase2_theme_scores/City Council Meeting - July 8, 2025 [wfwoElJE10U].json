@@ -1,0 +1,35 @@
+{
+  "title": "City Council Meeting - July 8, 2025",
+  "video_id": "wfwoElJE10U",
+  "upload_date": "20250709",
+  "model": "deepseek-r1-14b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "Tony Dastro",
+      "start": 1338.96,
+      "end": 1427.78,
+      "text": "resolution good evening good evening tony dastro 700 block new holland avenue just want to take some time now since it wasn't permitted at the committee meeting to uh say that this is important uh i believe the stat is about 80 percent of people support uh parks and recreation funding but I also want to advocate that as we go through the prison process of the potential changes that may happen to the east end I feel it's very important to preserve the open space that is in Reservoir Park in its entirety. It's a large open space that's accessible to our residents and other city jurisdiction especially residents in the southeast area. I do understand that there is a lot of open space in the southeast. A lot of that space was created I believe as part of urban renewal. The reservoir park means a lot. And I think especially having the open space accessible on the fourth of July might be important for fire safety. As I was driving around, I was dropping somebody off. And yeah, there were fireworks just all over in the middle of street. We all know how crazy it gets. So parks and recreation are important. I do think it's good to support these things. I think this resolution is good. and I hope that Reservoir Park is preserved long-term into the future. Thank you.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on the importance of preserving Reservoir Park for parks and recreation, particularly for events like the Fourth of July fireworks. It does not address any strain on municipal resources such as electricity, water, or budget related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker discusses the importance of parks and recreation funding and preserving open space but does not address the municipal process, decision-making, transparency, or community oversight related to the AI data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment emphasizes the value of open space and recreational areas but does not mention any health concerns related to the AI data center, such as noise pollution, air quality, or direct health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker advocates for preserving open space but does not address issues of power dynamics, inequality, or the distribution of costs and benefits related to the AI data center project."
+        }
+      }
+    }
+  ]
+}

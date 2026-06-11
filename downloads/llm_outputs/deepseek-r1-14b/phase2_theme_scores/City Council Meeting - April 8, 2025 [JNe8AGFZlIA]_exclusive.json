@@ -1,0 +1,191 @@
+{
+  "title": "City Council Meeting - April 8, 2025",
+  "video_id": "JNe8AGFZlIA",
+  "upload_date": "20250409",
+  "model": "deepseek-r1-14b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 87,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "Darlene Bird",
+      "start": 3794.23,
+      "end": 3814.49,
+      "text": "Darlene Bird, Anne Street. Is this my understanding that this is bonds that we got and we didn't need them for projects that were completed, so this money is left over and now Council has the power to say where that money is spent?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any strain on resources like electricity, water, or waste management. It focuses on the use of leftover bond money, which relates to budgetary decisions but not infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The speaker questions how leftover bond money is being allocated, indicating distrust in the council's decision-making and transparency regarding financial usage."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health concerns like noise, air quality, or direct health impacts from the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of unequal distribution of costs or benefits, nor does it extend concern to vulnerable populations or critique job creation narratives."
+        }
+      }
+    },
+    {
+      "block_id": 88,
+      "speaker": "SPEAKER_19",
+      "speaker_name": "unknown",
+      "start": 3814.49,
+      "end": 3831.53,
+      "text": "so these are the 2018 general bonds yeah and some projects when they were completed may have some funds left over we are required them required to move them to other projects in the fund but they must stay for their stated use of the bond so they don't go anywhere else with the projects",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses the handling of bond funds and leftover money, which relates to budgetary aspects but does not specifically address the strain on resources like electricity, water, or waste management. It focuses on financial management rather than infrastructure burden."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or community involvement. It focuses on financial processes but lacks elements of distrust or procedural concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or direct health consequences in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss power dynamics, inequality, or the distribution of costs and benefits between different groups."
+        }
+      }
+    },
+    {
+      "block_id": 89,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 3831.53,
+      "end": 3838.03,
+      "text": "that were on the list that was already on the list correct thank you any additional comments",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any concerns related to municipal resources such as electricity, water, or waste management. It is a brief acknowledgment without specific content relevant to the theme."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the decision-making process, transparency, or community involvement. It is a short acknowledgment without relevant content for this theme."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health concerns, noise, air quality, or any related issues. It is too brief to address this theme."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not touch upon issues of inequality, cost distribution, or power dynamics. It is a short acknowledgment without relevant content for this theme."
+        }
+      }
+    },
+    {
+      "block_id": 180,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Diane Desmond",
+      "start": 6492.22,
+      "end": 6595.46,
+      "text": "you next time good evening Diane Desmond again off route 30 by the state police we've heard some positives tonight about the police department by members of the public but I'd like to be clear that whatever positives may exist do not erase the concerns that the community has voiced and the shortcomings of the police department. I do find it interesting and frankly disturbing that most members of the public who felt frightened by these youth and advocated for harsh punishment were white. As a white person addressing members of council and members of the community, many of whom are white, I urge you to sit with the discomfort of my observation here tonight. Use that discomfort to reflect and appreciate how frightened these youth feel when facing use of force from an armed officer. Are these feelings of fear comparable? We are still deeply concerned about the policing of youth and the disproportionate use of force against black and brown youth, which I would like to clarify and acknowledge is a nationwide issue that Lancaster is not separate from. we receive verbal confirmation that the proposal from Baltimore on the policing of youth will be reviewed considered and an update on your decision will be given to the public verbally during an upcoming City Council meeting and I would also like to further know by which date thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses concerns about the police department's treatment of youth, particularly focusing on racial disparities and the use of force. It does not address any strain on municipal resources such as electricity, water, or budget related to the AI data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment addresses concerns about the police department's actions and the process of reviewing proposals but does not relate to the AI data center project or the municipal process surrounding it."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health concerns or impacts on well-being related to the AI data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "The comment highlights racial disparities in the treatment of youth by the police, pointing out that white community members feel fear when advocating for harsh punishment, while black and brown youth face disproportionate use of force. This reflects an awareness of power dynamics and inequality within the community, particularly in the context of law enforcement and racial justice."
+        }
+      }
+    },
+    {
+      "block_id": 181,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "Brianna Sienkiewicz",
+      "start": 6595.96,
+      "end": 6808.23,
+      "text": "evening Brianna Sienkiewicz block of 700 block of Marietta this is my take on april 1st the lancaster community showed up yet again to city hall to demand the end of police brutality this time we heard police chief mendez give off and give an off-topic report that blatantly ignored our demands and attempted to shift blame for his department's egregious use of force against teen bike riders on march 2nd on to the community his presentation was filled with irrelevant stats and policies which addressed none of the tangible concerns and actual demands yes i don't think that chief mendez presentation was random he went on and on about gun seizure data emphasized on teens and early 20s sending a clear message that the police still are operating under the assumption that black and brown bodies are guilty until proven innocent and armed until proven otherwise this is a thinly veiled attempt to blame victims and alienate um and alleviate any police accountability chief mendez stated during the community outcry that public safety is a two-way street mendez is correct but neglects the two key points the community showed up and offered actionable demands that were laid out and continue to be laid out building trust takes time patience and a willingness to be wrong none of which were demonstrated by chief mendez nor the mayor during this committee meeting during doing trust it means opening up the floor to residents split directly to those who have power including chief mendez we were not given in that opportunity and so I don't believe him when he says public safety is a two-way street and involves all of us in addition to denying the rights of citizens to speak truth to power he failed to acknowledge the community's pain for decades of injustice and mistrust from racist policies and policing this pain cannot be erased by patting yourselves on the back for a few years of doing better the onus of chain falls on the shoulders of those in powers if residents are not engaged with police events the answer is not to take personal demands um personally and demand the residents show up it's to open up a safe form to ask why and what can be done police brutality should never happen but it does and the answer is not to shift blame but or listing harmful statistics of justification of use of force but to ask why why couldn't trained officers handle these citations such as the incident on march 2nd and what can be done to prevent future situations of police brutality from occurring Abram X. Kendi states, pain is usually essential to healing. When it comes to healing America of racism, we want to heal America without pain, but without pain, there is no progress. At the end, it was clear Police Mendez and the mayor said members and some members of city council were unwilling to wade into that pain and join us on a two-way street to healing and policy reform. without addressing our pain or demands we will continue to be two ships passing in the night instead of meeting on an equal playing field out beyond right-doing and wrongdoing until open this open discussion and honest cooperation can be had we the community are left to wrestle with knowing we have a long fight ahead of us thank you thank you good evening good evening my name is",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on police brutality and the lack of response from the police chief and mayor, which is unrelated to the city's resources or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker discusses the process of community demands and the lack of engagement from the police chief and mayor, indicating concerns about how local officials are handling the situation."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health issues or well-being in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The comment touches on systemic issues and power dynamics within the community, particularly regarding police accountability and racial justice, but it does not directly address the distribution of costs and benefits related to the AI data center."
+        }
+      }
+    },
+    {
+      "block_id": 182,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "Betty Jones",
+      "start": 6808.23,
+      "end": 6937.36,
+      "text": "Betty Jones, South End, 200 block of South End Street, I should say. Okay, I'm here again to talk about the trash situation that occurred about a month or so ago back. From the whole block, the whole southeast section, 100 block, 200, all the way down to the 400 block, We received citations, I would call it, for trash, which I came here before and I spoke about it. And I even showed pictures. When I received the citation, I called. And the person I spoke with, she told me that someone had called and complained about it. okay I I took pictures and if you can see yourself it was it was windy so trash was blowing all over the place anytime trash can come from 100 block all the way down to the 400 block I know everyone did not all of a sudden just put trash out I did not move trash so I'm coming here again to counselors to ask for your help that's why I came because I don't usually come out and do things like this but this is important to me and they they told us we have to pay $225 plus the $200 fee now so that's $225 that is due for each tenant or I should say owner in the 200 in the southeast area so I just want to know what cops gonna do about this and you know to help us I've seen us it's not just me but our whole section you know a whole block from the 100 all the way down to the 400 block you guys are here I'm coming to you because you supposed to be here to fight for us so this is what I'm coming for some kind of",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses a trash citation issue, which relates to waste management but does not directly address the AI data center project or its impact on municipal resources like electricity, water, or budget. The focus is on a specific neighborhood issue rather than the broader infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker addresses a personal citation regarding trash, which does not relate to the data center project or the municipal process surrounding it. There is no mention of decision-making, transparency, or accountability related to the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on a citation for trash and does not mention any health concerns or impacts related to the AI data center. The issue is about waste management but not health effects."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker is concerned about a citation and potential fees but does not address power dynamics, inequality, or the distribution of costs and benefits related to the AI data center. The focus is on a local enforcement issue, not broader systemic inequalities."
+        }
+      }
+    },
+    {
+      "block_id": 204,
+      "speaker": "SPEAKER_17",
+      "speaker_name": "unknown",
+      "start": 8387.86,
+      "end": 8388.7,
+      "text": "Thank you.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment 'Thank you.' does not address any concerns related to the city's resources, infrastructure, or budgetary impacts."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not express any dissatisfaction with the decision-making process or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health risks, air quality, or noise pollution is present in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss any issues related to unequal distribution of costs and benefits or power imbalances."
+        }
+      }
+    }
+  ]
+}

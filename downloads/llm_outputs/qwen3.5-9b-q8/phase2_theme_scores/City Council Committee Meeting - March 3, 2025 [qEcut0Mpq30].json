@@ -1,0 +1,113 @@
+{
+  "title": "City Council Committee Meeting - March 3, 2025",
+  "video_id": "qEcut0Mpq30",
+  "upload_date": "20250304",
+  "model": "qwen3.5-9b-q8",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "Susie Gomez",
+      "start": 616.43,
+      "end": 641.48,
+      "text": "i have to say my name yes okay susie gomez 100 block of north reservoir street um are you filling in the position on a legal standpoint or are you filling in the position on a board member standpoint board member position just the board",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a procedural inquiry about the speaker's role in the meeting and does not address municipal resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "The speaker questions the procedural role they are filling, which touches on meeting structure, but does not address transparency, accountability, or decision-making processes regarding the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss benefits distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_14",
+      "speaker_name": "unknown",
+      "start": 2895.45,
+      "end": 2909.91,
+      "text": "Thank you, Councilor Hoyo. I just have one question. When you plan all these projects, do you take into consideration unexpected risks or challenges during the execution of those projects?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks about project planning and risk management in general, without mentioning specific municipal resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The question touches on municipal planning and execution, but it is a general inquiry about risk management rather than a specific critique of transparency, notice, or accountability in the data center process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or who bears costs, nor does it reference vulnerable populations or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 76,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "jose",
+      "start": 4562.02,
+      "end": 4761.47,
+      "text": "or comments from the public how we're doing my name is jose 100 block of coral street co-founder of the west crystal volunteers the issues on the trees very good so park between first street so street there's a park right there crystal park now whose responsibility is going to be now to trim those trees and there are no those uh neighborhood parks another thing why we're planting how many trees because we also do have other non-profit organizations doing the same thing planting trees how many trees we need we just eliminated i don't know how many trees there were at least 200 years old just to put a new park and to give it an eye view but what they did was take all the trees off what kind of eye view is that you just took the most important thing out of that park and that's behind the water street mission ridiculous um the park where i'm at uh we take care of that park the gentleman right here in front of me knows that uh you guys that come to pick up park cleaning uh the only thing the guys have to do when they go to check the park clean it it's just to take the bag out of the garbage can because everything else is it's clean my kids already took care of that for the past six years we're still slow on maintenance in that area it's taking forever sometimes because it takes too long to get the part you need for it and all to this red tape i don't want to hear the race red tape that park we have and every other park is very important safe zone for the kids and that's what we're doing we're where but we're still missing a lot of items you guys want to plant more trees we still planting the water sewage running water that will go into the ground we're still doing uh for the disabled to have a wheelchairs we're still doing the corners they're still doing ugi i mean are you guys serious trees that's a waste of money so like i say thank you are there any other comments or",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker discusses park maintenance, tree trimming, and general municipal upkeep but does not connect these issues to the data center project's strain on electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker criticizes 'red tape' and maintenance delays, they do not frame this as a failure of the data center decision-making process, lack of transparency, or distrust of officials regarding the specific project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The speaker mentions parks as safe zones for children but does not raise concerns about noise, air quality, or health impacts from the data center operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on park maintenance and municipal efficiency rather than the distribution of costs/benefits, job creation critiques, or historical patterns of extraction related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 79,
+      "speaker": "SPEAKER_13",
+      "speaker_name": "unknown",
+      "start": 4817.04,
+      "end": 4872.93,
+      "text": "to this resolution good evening thank you um this resolution is related to the sewage facilities plan i'm sure you guys are all familiar with having to pass these um this project is um making sure I have the right is for a single building that is going to be turned into four apartments. So right now it's currently a vacant lot. So they need to have a switch planning module to add those four units for EDUs. Thank you. And yeah, these are regular",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses a sewage facilities plan for a residential conversion project, not an AI data center, and does not address municipal utilities like electricity, water, or waste management in the context of the data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is simply seeking clarification on a zoning resolution for a residential project, not expressing concerns about transparency, accountability, or the decision-making process regarding the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the data center or any other development."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of wealth distribution, job creation, or historical patterns of extraction; it is a procedural inquiry about a residential zoning change."
+        }
+      }
+    }
+  ]
+}

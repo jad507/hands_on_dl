@@ -1,0 +1,113 @@
+{
+  "title": "City Council Committee Meeting - October 6, 2025",
+  "video_id": "bubudvmIB_E",
+  "upload_date": "20251007",
+  "model": "deepseek-r1-14b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 137,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "Matthew Barden",
+      "start": 8734.6,
+      "end": 8806.43,
+      "text": "COMMENTS FROM THE PUBLIC. CAN YOU FIRST START WITH YOUR name and your block of residence my name is matthew barden i'm on the 800 block of north prince thank you we can see this this document tacitly acknowledges the numerous potential downsides of this facility to the community energy and water use and pollution chief among them to all acknowledge the glaring lack of detail around the proposed limits of this facility at this time what i'm failing to see is the benefit to the city at large or any individual residents of lancaster this kind of facility creates no meaningful number of community jobs provides no necessary or desired local service. Any argued tax benefits to the community would ignore the long-standing tradition in this country of corporate entities evading their responsible tax burdens to the local community, and even ignoring that, pale in comparison to the litany of medical issues that these facilities have already proven to lead to in the short term, and that doesn't even account the currently unproven long-term environmental and health impacts. There's no amount of financial benefit offered by these data centers that could conceivably offset the corresponding detriment to public health and welfare. It's very easy to find",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.7,
+          "reasoning": "The comment addresses concerns about energy and water use, which are key aspects of Theme 1. However, the focus is more on the negative impacts rather than the specific municipal resource management aspects like infrastructure strain or budget issues."
+        },
+        "municipal_process": {
+          "score": 0.3,
+          "reasoning": "The speaker mentions a lack of detail in the document and questions the process, indicating some concern about how decisions were made, but it's not the primary focus of the comment."
+        },
+        "health_and_well_being": {
+          "score": 0.9,
+          "reasoning": "The comment explicitly discusses health issues, medical problems, and environmental impacts, which are central to Theme 3."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.6,
+          "reasoning": "The speaker critiques the economic benefits versus costs and questions the fairness of the process, touching on power dynamics but not extensively."
+        }
+      }
+    },
+    {
+      "block_id": 189,
+      "speaker": "SPEAKER_26",
+      "speaker_name": "unknown",
+      "start": 11137.06,
+      "end": 11143.38,
+      "text": "public safety committee my questions were was there any legal review of this resolution when",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns about resources like electricity, water, or waste management. It focuses on legal review, which is unrelated to resource strain."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The speaker is questioning whether there was a legal review of the resolution, indicating distrust in the decision-making process and a demand for transparency and accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns such as noise, air quality, or direct health impacts in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, cost distribution, or benefits for different groups."
+        }
+      }
+    },
+    {
+      "block_id": 190,
+      "speaker": "SPEAKER_21",
+      "speaker_name": "unknown",
+      "start": 11143.38,
+      "end": 11207.07,
+      "text": "it was written well if you heard the mayor and she told me that it was illegal it was very interesting that if if a different state i mean a different county has it it's obviously not illegal and if you look at it and you read it there's nothing there that's going to show that there's going to be any voting power whatsoever it's just to have a community people and it's going to include police officers even though i know for sure that some people in the community feel that that's not really the reason to have it it's more for the for you to say look this person broke the law this person was aggressive this person you know did not follow the law um but this is very simple i mean even city council is going to be appointing um the even police officers is going to be on their social worker and community members it's not any type of voting power whatsoever thank you and my question was when it was written was there",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns about the city's resources such as electricity, water, or waste management. It focuses on the structure and composition of a community oversight group, not on resource strain."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker discusses the composition of a community oversight group, including police officers and social workers, and questions the lack of voting power. This touches on how decisions are made and who is involved, which relates to the municipal process theme, but the connection is somewhat tangential."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns, noise, air quality, or direct health impacts in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power distribution, inequality, or benefits to different groups."
+        }
+      }
+    },
+    {
+      "block_id": 191,
+      "speaker": "SPEAKER_26",
+      "speaker_name": "unknown",
+      "start": 11207.07,
+      "end": 11213.07,
+      "text": "any legal review not when you met with the administration but when the resolution was",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address concerns about resources like electricity, water, or waste management. It focuses on legal reviews and administrative meetings, which are more related to process rather than resource strain."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The speaker is emphasizing the importance of a legal review occurring at the resolution stage rather than during administrative meetings, indicating a focus on procedural fairness and transparency in the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns such as noise, air quality, or direct health impacts in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of benefit distribution, inequality, or power dynamics related to the project."
+        }
+      }
+    }
+  ]
+}

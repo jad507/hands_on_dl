@@ -1,0 +1,139 @@
+{
+  "title": "City Council Ethics Code Work Session - November 6, 2025",
+  "video_id": "VZRKugPc6QU",
+  "upload_date": "20251107",
+  "model": "phi-4",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 87,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1901.46,
+      "end": 1904.4,
+      "text": "there doesn't seem to be a need for that but there's a reservation that they can",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific concerns about municipal resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The comment hints at a lack of transparency or need, which could relate to the municipal process theme, particularly around information asymmetry or decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any health or well-being concerns related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss issues of power dynamics, inequality, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 88,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1904.4,
+      "end": 1927.03,
+      "text": "ask for it if it's relevant to I'm an investigation and they can get it from the city clerk and that the city clerk should be providing them with a list annually of who they actually who the city clerk actually has received the state of ethics the state ethics act statements of financial disclosure from the next sections relatively significant as well it covers two different things",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The comment discusses transparency and accountability in municipal processes, specifically regarding ethics and financial disclosures."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 89,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1927.03,
+      "end": 1930.69,
+      "text": "which is wrongful acts and whistleblower protection and while we talk about",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The mention of 'wrongful acts' and 'whistleblower protection' suggests concerns about transparency and accountability in municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "While the comment hints at potential issues of power dynamics through 'wrongful acts,' it does not explicitly address inequality or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 166,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3100.04,
+      "end": 3116.11,
+      "text": "And I think my question is a little bit similar to the Consul President's question. Will there be an appeal process if a respondent believes that a fighting was made in error?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The comment directly questions the process, specifically the existence of an appeal process, indicating concerns about decision-making and accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics, inequality, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 175,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 3261.01,
+      "end": 3293.18,
+      "text": "Ethics Act so you're you're having a significant expansion of who has to comply with this there is a process to go through with union employees to make sure that this flows through with them properly it is not fair to put a burden on them that they're not aware of so to educate them is also relevant and the commission has the obligation to do that it doesn't mean that necessarily a violation didn't occur it's just that we're not going to be able to process complaints until the whole process is",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The comment discusses the process of compliance with the Ethics Act and the need for education and fair treatment of union employees, indicating concerns about transparency and procedural fairness."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The comment touches on fairness and the burden placed on union employees, which relates to power dynamics and inequality, though it is not the primary focus."
+        }
+      }
+    }
+  ]
+}

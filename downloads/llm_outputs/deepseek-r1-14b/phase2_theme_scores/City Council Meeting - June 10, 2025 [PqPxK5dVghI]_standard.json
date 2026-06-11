@@ -1,0 +1,61 @@
+{
+  "title": "City Council Meeting - June 10, 2025",
+  "video_id": "PqPxK5dVghI",
+  "upload_date": "20250611",
+  "model": "deepseek-r1-14b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 32,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "Scott White Kettle",
+      "start": 1917.93,
+      "end": 2052.54,
+      "text": "good evening i'm scott white kettle and i reside at 462 fremont street directly behind colleton park i have been living at this address for a year and four months and it has been nothing but a nightmare when i walk up fremont street on my way home from work there are always a dozen or so individuals sitting on the park wall with open alcohol containers smoking marijuana and or nodding out high on drugs there are concrete pathways running through the park that converge in a circle of benches in the middle and i sit back and watch drug deals go down there frequently almost every night there are people screaming and yelling or arguing and fighting out on the street in front of my house either going to or coming from call it in park and i routinely get woken up at all hours of the night while sleeping for work there are also homeless people in tents practically in my backyard constantly begging for money and a few weeks ago a nine-year-old boy and a 12-year-old boy were both arrested for armed robbery and then there's the event that persuaded me to speak here this evening on the night of saturday may 31st just before 10 pm someone literally and physically kicked my front door in at first i couldn't exit my domicile because of all the splintered wood dangling and the deadbolt being so bent once i cleared the debris i stepped out on my front porch and there was a group of about five people heading away from my house they stopped on the concrete slab at the top of the steps leading down into the park all were visibly drunk arguing and yelling and two of them were trying to fight one another but being held apart i went back from my cell phone and called the police but unfortunately it took them over 20 minutes to arrive and by then the individuals were gone i am absolutely fed up to say the least my neighbors are fed up and the people who legitimately use colton park for its intended purposes are fed up children can't even safely play there anymore so as you can see i and my neighboring community are in desperate need of a stronger police presence and or routine police patrols in and around call it in part thank you very much i appreciate your",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any concerns related to municipal resources such as electricity, water, or waste management. It focuses on public safety issues in the neighborhood."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss the decision-making process or transparency regarding the AI data center project. The focus is on personal safety and neighborhood issues unrelated to municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker describes negative impacts on their quality of life, these are related to crime and safety rather than health concerns from the AI data center. There's no mention of physical health or environmental factors linked to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics, inequality, or distribution of benefits and costs associated with the AI data center. It focuses on personal safety and neighborhood concerns."
+        }
+      }
+    },
+    {
+      "block_id": 127,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 4911.58,
+      "end": 4974.87,
+      "text": "comments council president if i may counselor ahmed i just want to thank the gentleman who came out and spoke about the importance of pedestrian and uh bikeless uh safety as i spent my afternoon uh visiting a dear friend who's in the trauma unit an lgh who was hit by a vehicle riding his bike this past weekend as he remains in our thoughts and prayers he also remains in our commitment to safe streets and our commitment to vision zero and i want to thank the other members of council for the commitment to pedestrian cyclist safety it is serious and we continue to see vehicles just simply have a disregard for people on bikes as well as people who are pedestrians and we need to recommit to making sure that the streets are safe for all road users no matter how you use them and my dear friend is in my thoughts and he remains in my commitment thank you thank you very much councillor Ahmed any",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses pedestrian and cyclist safety, unrelated to municipal resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker thanks council members for their commitment to safety but does not address the decision-making process or transparency issues related to the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions a friend in the trauma unit due to a biking accident, this does not relate to health concerns from the AI data center operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on safety for all road users and does not address issues of power imbalance, economic benefits, or inequality related to the data center project."
+        }
+      }
+    }
+  ]
+}

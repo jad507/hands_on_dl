@@ -1,0 +1,243 @@
+{
+  "title": "City Council Committee Meeting - June 17, 2025",
+  "video_id": "e_aXcEkzyEY",
+  "upload_date": "20250618",
+  "model": "phi-4",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3558.42,
+      "end": 3580.23,
+      "text": "with the Charter and the information that were given here am I going to be able to find like all most of the answers that I need and if I can't find the answers that I need who I call so I need a book like yours well you don't",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues related to municipal resources or utilities such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The comment questions the availability of information and the process for obtaining answers, indicating concerns about transparency and information asymmetry."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics, inequality, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 3705.31,
+      "end": 3756.84,
+      "text": "Thank you Madam President. So I haven't read it yet so I don't have really many questions but I was looking at section one where we have the definitions and how did you come up with those concepts or where did you get them? Because I know that we have other concepts, for example, like the departments, bureau, office. Sometimes we said, for example, the bureau of Lancaster, the police bureau of city of Lancaster, or for example, we said the Department of Administrative Services or the Department of Neighborhood Engagement. We have offices, we have boards, commissions, authorities.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The comment questions the definitions used in the document, indicating a concern about transparency and understanding of municipal processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 3822.33,
+      "end": 3835.02,
+      "text": "can we add the other definitions of what you can you can add or delete anything from this document this is your document not my document thank you that's all I have for now thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any issues related to municipal resources or utilities."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment indirectly touches on the process by mentioning the ability to modify the document, suggesting a concern for transparency or control over the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 3843.56,
+      "end": 3861.35,
+      "text": "questions question regarding the transfers you're saying that it's five percent of the funds in the budget light items does it matter how much it is like if it's in the millions it's five",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The comment questions the transparency and clarity of financial allocations, which relates to municipal process concerns."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 23,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "unknown",
+      "start": 3900.42,
+      "end": 3905.46,
+      "text": "for an increase to the overall budget it's just a transfer between the departments so that's the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment mentions a budget transfer, which could indirectly relate to municipal resources, but it does not directly address concerns about electricity, water, waste, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "The comment touches on budgetary processes, which could relate to transparency and decision-making, but it lacks explicit concern or critique about the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any aspects of health or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the distribution of costs and benefits or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 3918.54,
+      "end": 3979.94,
+      "text": "counselor med thoughts and questions there you go uh thank you council president and uh thank you uh barry for your presentation this evening and i really appreciate some of the good governance measures around procurement and around the budgets i guess my only question and guidance that i would like to seek throughout this process is you know how much of this should we leave kind of not specifically defined and how much should we for example when it comes to things like accounts like how like should we make sure that each individual fund has its own individual account and does payroll have its own individual account or are these things that we should kind of leave um by your recommendation as a little bit less specific and like you know the charter gives us the guidance but how specific on some of these things should we go in the code",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address concerns about municipal resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The comment focuses on governance measures, budget specifics, and procedural guidance, which aligns with concerns about decision-making processes and transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health impacts or quality of life issues related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the distribution of costs and benefits or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 4257.51,
+      "end": 4288.55,
+      "text": "uh thank you and i just have one final question and it's kind of in regards to like um with this new charter and some of the ambiguities of what state law is currently what state laws may change um is there anything in the administrative code that we could kind of put in to protect i don't want to say protect the city and council but so that every for instance every other day somebody isn't saying oh this state law actually you can do this or council should do this because of the state law when it's kind of responsible governance to not just act on everything just because we have",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The comment focuses on the need for clarity in governance and the potential for state law to influence local decisions, highlighting concerns about transparency and decision-making processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics, inequality, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 4532.1,
+      "end": 4601.6,
+      "text": "in the 600 block of North Shippen and I have a couple questions one of them is on the procurement numbers and I was a bit surprised to see that the threshold for a public bid is just 23,000 and change that that seems like a pretty small sum for what strikes me as a fairly involved and onerous procedure I was curious is that state law requiring that or is there room to wiggle on that and then if I can just comment I just give them both to you is speaking of money there has been a lot of talk in the last year and a half or so about council salaries and I don't know if you want to address that as part of the administrative code but I think it would be an excellent idea to make a plan on how council is going to increase salaries that haven't been increased in a very long time so that there is some sort of plan in place and it's not this always like oh should we do this no I don't want to anger the electorate should we do this no I don't want to anger the electorate that you know",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The comment questions the procurement process and suggests a need for transparency and planning regarding council salaries, aligning with themes of municipal process and transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "The comment touches on council salaries, which could relate to power dynamics, but it does not explicitly address the distribution of costs and benefits or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "Marshall Miller",
+      "start": 4737.96,
+      "end": 4785.38,
+      "text": "Great. um marshall miller 100th block of east vine street um it sounds like the final version of this will be voted on in november just curious um how has the ability to put like input changes things of that nature leading up to the final passage or is it just final passage in november will be a process where amendments are added to do all of the changes that council would like to see separately you said that this document pulls from a bunch of different sources and i'm just curious if there is like a version of the document that outlines what is coming directly from the charter that cannot be changed or you know touched because it has to fulfill requirements in the charter and if that exists that would be helpful for me to see and probably counsel as well uh the the answers",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address concerns about municipal resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The comment focuses on the process of how input and amendments are handled in the decision-making process, reflecting concerns about transparency and participation."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics, inequality, or the distribution of costs and benefits."
+        }
+      }
+    }
+  ]
+}

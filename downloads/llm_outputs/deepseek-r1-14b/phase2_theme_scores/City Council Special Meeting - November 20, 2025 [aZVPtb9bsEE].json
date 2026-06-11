@@ -1,0 +1,87 @@
+{
+  "title": "City Council Special Meeting - November 20, 2025",
+  "video_id": "aZVPtb9bsEE",
+  "upload_date": "20251121",
+  "model": "deepseek-r1-14b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 252,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7182.72,
+      "end": 7211.65,
+      "text": "Lancaster City and Lancaster County for years to come so again like everybody has said Thank You council for working on this for making something out of nothing and having things having that there be concrete benefits but as has been said the community got to look at this on on Tuesday and it's Thursday and",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific concerns about resources like electricity, water, or waste management. It briefly thanks the council but does not address infrastructure strain or costs."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker acknowledges the council's efforts but does not express distrust, demand oversight, or point out transparency issues. The mention of 'making something out of nothing' is vague and does not critique the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of health impacts, noise, air quality, or direct health consequences in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, cost distribution, or benefits for vulnerable populations. It is a general thank you without specific concerns about power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 253,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 7211.65,
+      "end": 7231.94,
+      "text": "if it is this important and if it is this this big I think the community deserves more time to review it and make suggestions if there could be that allowance to be made that would be great I don't as a I don't know as a parent of",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific concerns about resources like electricity, water, or waste management. It focuses on the community's need for more time to review and suggest changes, which is more about the process than resource strain."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker emphasizes the community's need for more time to review and make suggestions, indicating a desire for greater involvement and transparency in the decision-making process. This aligns with Sub-theme 2a, which involves demands for community-led oversight and participation."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns such as noise pollution, air quality, or direct health impacts in the comment. The focus is on the process and community input, not on health outcomes."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, power dynamics, or the distribution of costs and benefits. It is centered on the community's procedural concerns rather than on equity or economic disparities."
+        }
+      }
+    },
+    {
+      "block_id": 254,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 7231.94,
+      "end": 7337.21,
+      "text": "two kids I don't appreciate somebody going through a long presentation of all the benefits and then saying at the end if you say no you get nothing that feels not like they wish to be invested in the community that they wish to say take this so that we can take whatever we want it doesn't feel like a partnership without a more time obviously I only have a couple of things to say but I did want to say that I would very much like to have nuclear energy stricken from the clean energy list that's on there as a clean energy LPE units 1 & 2 are mentioned in article 8 for the financial agreements but not LPW there's nothing in there about that and I don't know if this is a legally binding document if they're not in there if they can just go out on that the letter of credit can be substituted for a company of a hundred million dollars net worth please get rid of that uh as somebody has mentioned core weave has lost 40 of its stock valuation in the last six months um that is that is not a very uh good idea i feel like and uh there's new info coming out all the time we just got to see something from the lancaster county planning commission that has a lot of new ideas and recommendations and we'd love to be able to take that into account as a community thank you thank you good evening evening thank you for the opportunity to speak",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific concerns about the city's resources such as electricity, water, or waste management. It focuses on financial aspects and stock valuation, which are more related to economic concerns rather than resource management."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker expresses dissatisfaction with the presentation of benefits and the lack of partnership, indicating a concern about the decision-making process and transparency. However, the comments are more focused on financial and economic aspects rather than the procedural fairness or information sharing."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns such as noise, air quality, or direct health impacts in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The speaker questions the fairness of the partnership and the benefits offered, suggesting a concern about the distribution of costs and benefits. This touches on power dynamics and inequality, though the comments are somewhat vague on this point."
+        }
+      }
+    }
+  ]
+}

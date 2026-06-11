@@ -1,0 +1,373 @@
+{
+  "title": "Planning Commission",
+  "video_id": "vqNOsyBYp08",
+  "upload_date": "20250206",
+  "model": "phi-4",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 647.06,
+      "end": 663.74,
+      "text": "i was looking at the plan and i know there's one with a little bit more detail that was also sent to us um what are we looking at for egress or maybe windows on the um apartment side sure",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment indirectly touches on the municipal process by referencing the receipt of detailed plans, but does not express concerns about transparency or decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns such as noise, air quality, or health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics, inequality, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 877.82,
+      "end": 886.34,
+      "text": "the apartment sure yeah now that makes sense yeah i would also suggest um contacting uh the engineer",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any concerns related to municipal resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The suggestion to contact an engineer implies a desire for more information or oversight, but it is not explicitly about transparency or decision-making processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health or well-being concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics, inequality, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 886.34,
+      "end": 921.58,
+      "text": "for separate addresses for the apartments sure uh i'm gonna add of what mr whalen had said about like just windows i i know you said you're evaluating i hope in your evaluation you can can determine I understand especially the middle apartments it could be a challenge maybe to find light because they don't even have a wall to wall access but you know light keeps people happy regulated so anything you can do to make sure your tenants have natural light I appreciate yeah no so the the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the decision-making process, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.5,
+          "reasoning": "The comment touches on the importance of natural light for tenant well-being, which relates to quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics, inequality, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 947.6,
+      "end": 965.27,
+      "text": "were doing the only real question I have is you answered the question slash concern I had at the last meeting which is the commercial space because it's on the water street with the bike lane correct on the note of bike lanes do you have any uh bike parking at your facilities around here",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.1,
+          "reasoning": "The comment briefly touches on infrastructure (bike lanes) but does not directly address municipally managed resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "The speaker mentions a previous meeting and a concern addressed, indicating some engagement with the municipal process, though not deeply."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health or well-being concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss power dynamics, inequality, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 965.27,
+      "end": 1023.22,
+      "text": "so there is um at 210 west grand street we have a built-in um bike parking and that at 30 north water street we had like a bike rack you know set up so i mean it's kind of not bolted down but i mean it's available for bike parking. And I had spoken to Jamil about that so. I'm just curious about the size of these apartments. So right around 400 square feet or so. So you know the warehouse itself that's where we're just kind of working through dimensions. So the warehouse itself is about 2,400 square feet. So she was showing these at a little over 400 so which is like 16 so i mean i figure there's probably square footage somewhere that just wasn't calculated but you know studio type apartments so nothing below the minimums that the city requires",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, waste management, or budgetary concerns."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The comment briefly touches on communication with a city official (Jamil) but does not express concerns about transparency, decision-making, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health, quality of life, noise, air quality, or any health-related concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the distribution of costs and benefits, vulnerable populations, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 1024.39,
+      "end": 1030.87,
+      "text": "yeah i mean i think this is a great project especially at that size yeah i mean the ability",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any concerns related to municipal resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any issues related to the decision-making process, transparency, or community involvement."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss any health or well-being concerns such as noise, air quality, or health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics, inequality, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1030.87,
+      "end": 1041.65,
+      "text": "to be able to get ada units i mean it's just nothing that's usually on a developer's mind you know unfortunately so you know we like to be able to to do that where we can for sure",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the decision-making process, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health impacts or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.1,
+          "reasoning": "The comment touches on the issue of affordable housing, which relates to inequality, but does not directly address the distribution of costs and benefits or historical patterns."
+        }
+      }
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 1179.17,
+      "end": 1192.39,
+      "text": "just reading the text of our agenda um i saw it was a conversion but then i also saw like a demolition so i'm just a little confused on if we're converting a building or if we're tearing",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address concerns about municipal resources or utilities."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker expresses confusion about the agenda, indicating a potential lack of transparency or clarity in the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 1319.31,
+      "end": 1339.23,
+      "text": "it had been the plan had been before the historic board and we also went through zoning to extend uh to uh into the rear yard setback we needed a little bit more space there for the plan to work so they um yeah we made that request of the zoning hearing board which they approved",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The comment discusses the process of obtaining zoning approval, which relates to municipal process and decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 1644.36,
+      "end": 1649.64,
+      "text": "add real quick that the pedestrian bridge over the tracks looks like that that construction",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the decision-making process, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health impacts, noise, air quality, or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 1669.56,
+      "end": 1725.87,
+      "text": "um yeah we got a lot of time so i'll figure i'll just kind of informally be like let's talk a little bit about the comp plan stuff um i was curious if it would be possible to get me a gis file of our existing zoning map um because i'd like to work up just some general conceptual like just totally theoretical maps of uh what things might look like um but i i really don't want to rebuild the map so i'm hoping that the city has a file they can share with me with any redactions to private information of course um so that's like a request to staff but generally i'm just curious how you guys feel um you know we have a lot of zoning districts i forget how many exactly but like more than a dozen which is a lot um i'm curious how many zoning districts do you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker is inquiring about the process of obtaining zoning information, which relates to transparency and access to municipal data."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics or inequality."
+        }
+      }
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 1725.87,
+      "end": 1787.53,
+      "text": "guys feel is appropriate because i'd like to see a reduction so i can work on getting you the gis file um i would maybe caution you not to go outside of the realms of a committee when we go through the zoning process because all of that would be explored in the committee portion of it um obviously having ideas of what you want to what you think should happen would be good i do believe the comp plan includes a reduction in the number of zoning districts and kind of consolidation so we are looking at that at the next planning commission meeting very loud the next planning commission meeting i'm going to kind of present the timeline that we're looking for to go through the zoning ordinance process update process and i can also provide a implementation plan that we have for 2025 and we're working on that right now um for the comp plan so okay like the high priority yeah betsy logan i'm the planning bureau chief",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address concerns about municipal resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The comment discusses the zoning process and committee involvement, indicating a focus on municipal procedures and decision-making."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics, inequality, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 1792.88,
+      "end": 1805.37,
+      "text": "so thank you um no i'm just one person on the body but i i am definitely the type of person who likes to throw ideas out there for just general consumption uh and i love making maps",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any concerns related to municipal resources or utilities."
+        },
+        "municipal_process": {
+          "score": 0.1,
+          "reasoning": "The speaker mentions contributing ideas, which tangentially relates to community involvement, but does not directly address transparency or decision-making processes."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss power dynamics, inequality, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 1986.81,
+      "end": 2044.48,
+      "text": "yeah i would say um i would want to run that by our solicitor just because in the past i've had comment from other solicitors that you don't want zoning hearing board involved in the actual zoning process because i mean obviously they can provide feedback and they're residents so they could be involved in that aspect just so that you kind of keep that separation of you know but we will definitely consider the kind of variances that have been approved we have a database of that what the consist like consistently is getting asked for and requested so that we can try to fix those in the ordinance um but yeah i think it's good to have a zoning hearing board member at least involved but I've also had feedback that it's not the best option so that'll have to be worked out",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address municipally managed resources such as electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The comment discusses the involvement of the zoning hearing board and solicitors in the zoning process, indicating concerns about municipal decision-making and transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health or well-being concerns related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics or inequality related to the distribution of costs and benefits."
+        }
+      }
+    }
+  ]
+}

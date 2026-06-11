@@ -1,0 +1,87 @@
+{
+  "title": "City Council Meeting - July 22, 2025",
+  "video_id": "Y4mI4udbAfM",
+  "upload_date": "20250723",
+  "model": "deepseek-r1-14b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 96,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8817.28,
+      "end": 8826.16,
+      "text": "to how the original list of projects was made available on June 30th I appreciate",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns about resources like electricity, water, or waste management. It focuses on the availability of project information, which relates to the municipal process rather than resource management."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The speaker refers to the availability of the original list of projects on June 30th, indicating a focus on how information was shared and when. This directly relates to concerns about transparency and the process by which decisions were made, fitting under the municipal process theme."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns such as noise, air quality, or direct health impacts in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, cost distribution, or benefits for different groups."
+        }
+      }
+    },
+    {
+      "block_id": 97,
+      "speaker": "SPEAKER_26",
+      "speaker_name": "unknown",
+      "start": 8826.16,
+      "end": 8830.06,
+      "text": "that thank you any additional public comments on the capital improvement plan",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a generic thank you and does not address any specific concerns related to resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not express any dissatisfaction with the decision-making process or transparency, nor does it demand participation or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health concerns, noise, air quality, or direct health impacts in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, cost distribution, or benefits for different groups."
+        }
+      }
+    },
+    {
+      "block_id": 98,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "Emma Burgess",
+      "start": 8830.06,
+      "end": 8847.82,
+      "text": "good evening hi again Emma Burgess 600 West Vine Street my comment is I came here to yell about the AI Denison data center and I heard this presentation as well and I loved it so thank you for giving that I learned so much that's my",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns about resources like electricity, water, or waste management related to the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker does not address the decision-making process, transparency, or community involvement regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health concerns, noise, air quality, or direct health effects from the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss issues of inequality, cost distribution, or benefits for different groups related to the data center."
+        }
+      }
+    }
+  ]
+}

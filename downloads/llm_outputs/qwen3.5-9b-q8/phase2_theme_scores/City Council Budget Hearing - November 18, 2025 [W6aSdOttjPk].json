@@ -1,0 +1,269 @@
+{
+  "title": "City Council Budget Hearing - November 18, 2025",
+  "video_id": "W6aSdOttjPk",
+  "upload_date": "20251119",
+  "model": "qwen3.5-9b-q8",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 115,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 3287.92,
+      "end": 3297.76,
+      "text": "Arch Street I'm thinking back to the last budget hearing and particularly looking or thinking about the police budget um and and i might be wrong about this so you may",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions the police budget but does not connect it to the data center project or municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker references a budget hearing, they do not address transparency, accountability, or the decision-making process regarding the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss who benefits or who bears costs, nor does it reference job creation, housing, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 168,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4350.89,
+      "end": 4362.97,
+      "text": "a lot more resources and coordinations we might need supplies technology equipment the events remain the core part of our cities like activation drawing people downtown support",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions 'resources' and 'equipment' but in the context of city events and downtown activation, not municipal infrastructure like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no mention of decision-making processes, transparency, or accountability regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health impacts, noise, air quality, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on city events and downtown activation rather than issues of wealth distribution, job creation, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 169,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 4362.97,
+      "end": 4372.65,
+      "text": "for economic the identity of the city and community pride there's so many residents that we're tracking right now that are coming from the neighborhoods to really celebrate the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of decision-making processes, transparency, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing, wealth distribution, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 170,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 4372.65,
+      "end": 4385.93,
+      "text": "city in the downtown area and the increase in sponsorship requests is primarily tied to activating bins park yule plaza and penn square and making some upgrades across all of our special",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses sponsorship requests and park activations but does not address electricity, water, waste, or budgetary strain from the data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no mention of decision-making processes, transparency, or accountability regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not reference noise, air quality, health conditions, or quality of life impacts related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No discussion of cost/benefit distribution, job creation, or historical patterns of inequality is present."
+        }
+      }
+    },
+    {
+      "block_id": 222,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 5405.7,
+      "end": 5448.02,
+      "text": "My concern is whether you are having a chance to deliberate, talk amongst yourselves, and offer well-considered proposals to the administration for possible incorporation candidly as a city taxpayer i'm also hoping that you can end up passing a budget that does not draw on the reserves that seemed a lot more doable prior to this evening i would still like to see that as a goal as i said i think in the previous hearing this is about as good a years we're gonna have the economy's humming low unemployment etc a lot of headwinds coming down the pike so you know again",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses budget reserves and economic conditions but does not address specific municipal resources like electricity, water, or waste management related to the data center."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker expresses concern about deliberation and well-considered proposals, indicating a focus on how decisions are made and the integrity of the budget process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or who pays, nor does it reference job creation, housing, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 223,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 5448.02,
+      "end": 5454.9,
+      "text": "the budget needs as as much you know kicking the tires looking under the hood",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a general metaphor about budget scrutiny and does not mention specific municipal resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The comment calls for deeper scrutiny of the budget, which aligns with demands for transparency and oversight, though it is vague and not specific to the data center project's process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or who bears costs, nor does it reference historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 224,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 5454.9,
+      "end": 5474.1,
+      "text": "and so forth and then as I said you know meaningful action on the part of City council so just a question to city council if you guys do have ideas about further cuts or other amendments to the budget do you have a means of doing that within the time frame of getting it",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks about budget cuts and amendments but does not specifically address the data center's strain on municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker questions the City Council's ability to act within a specific timeframe, touching on process and accountability, though it is a general budget question rather than specific to the data center project's decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits or who pays, nor does it critique job creation narratives or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 270,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8587.11,
+      "end": 8590.27,
+      "text": "TAXPAYERS, THOSE ARE DIFFERENT CLASSES.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a general statement about tax classes and does not reference municipal utilities, infrastructure, or resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, decision-making processes, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, environmental quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The comment directly addresses the distribution of costs and benefits among different taxpayer classes, signaling concern about economic inequality and who bears the burden."
+        }
+      }
+    },
+    {
+      "block_id": 271,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8590.27,
+      "end": 8647.38,
+      "text": "IN PARTICULAR, WATER RATES FALL ON THE UNTAXABLE PROPERTIES THAT DO NOT PAY PROPERTY TAXES AND THOSE INCLUDE SOME PRETTY AFFLUENT ENTITIES INCLUDING F&M AND LGH, ALSO INCLUDES COUNTY government i don't know you know how you could model the incidence of doing a partial transfer leaving something in here leaving something out there but again the the incidences are are different if property taxpayers are bearing the burden versus if rate payers are bearing the burden so that's my comment my question would be to director campbell in this case department of public works director campbell i noticed that it looks like most of the enterprise funds are at or are either really close to breaking even or are even running a slight deficit that suggests that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly discusses water rates and property taxes, framing the financial burden of municipal utilities as falling on specific groups (untaxable properties, affluent entities, government) versus ratepayers, which directly aligns with concerns about municipal resource management and cost distribution."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "The speaker questions the financial modeling and asks a question to a department director, but does not explicitly address transparency, decision-making processes, or distrust of officials in a way that fits the theme's focus on process legitimacy."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment focuses entirely on financial and utility cost distribution without mentioning health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "The speaker highlights unequal burden distribution between property taxpayers and ratepayers, noting that affluent entities and government entities are exempt from property taxes, which reflects concerns about who bears costs versus who benefits."
+        }
+      }
+    },
+    {
+      "block_id": 272,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8647.38,
+      "end": 8659.46,
+      "text": "even though we are not looking at rate increases this year it seems like there's a prospect for weight increases the following year wondering if you could comment that and if you comment on that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The speaker directly questions potential future rate increases, framing the data center project as a strain on municipal electricity resources that could burden residents financially."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, decision-making processes, or accountability of officials; it focuses solely on a specific financial outcome."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of physical health, noise, air quality, or quality of life impacts in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker does not discuss who benefits versus who pays, job creation, or historical patterns of inequality."
+        }
+      }
+    }
+  ]
+}

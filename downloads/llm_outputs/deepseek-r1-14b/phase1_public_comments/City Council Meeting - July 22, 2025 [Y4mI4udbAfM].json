@@ -1,0 +1,36 @@
+{
+  "title": "City Council Meeting - July 22, 2025",
+  "video_id": "Y4mI4udbAfM",
+  "upload_date": "20250723",
+  "model": "deepseek-r1-14b",
+  "n_chunk_errors": 0,
+  "public_comments": [
+    {
+      "block_id": 96,
+      "speaker": "SPEAKER_00",
+      "start": 8817.28,
+      "end": 8826.16,
+      "speaker_name": "unknown",
+      "reason": "Expressed appreciation for the availability of the original project list and made a brief statement.",
+      "text": "to how the original list of projects was made available on June 30th I appreciate"
+    },
+    {
+      "block_id": 97,
+      "speaker": "SPEAKER_26",
+      "start": 8826.16,
+      "end": 8830.06,
+      "speaker_name": "unknown",
+      "reason": "Invited additional public comments on the capital improvement plan, indicating a call for further input.",
+      "text": "that thank you any additional public comments on the capital improvement plan"
+    },
+    {
+      "block_id": 98,
+      "speaker": "SPEAKER_15",
+      "start": 8830.06,
+      "end": 8847.82,
+      "speaker_name": "Emma Burgess",
+      "reason": "Identified herself as a resident and provided feedback on the AI Denison data center and the presentation.",
+      "text": "good evening hi again Emma Burgess 600 West Vine Street my comment is I came here to yell about the AI Denison data center and I heard this presentation as well and I loved it so thank you for giving that I learned so much that's my"
+    }
+  ]
+}

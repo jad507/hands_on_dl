@@ -1,0 +1,87 @@
+{
+  "title": "City Council Committee Meeting - May 5, 2025",
+  "video_id": "aG_PgLEdQ8s",
+  "upload_date": "20250506",
+  "model": "deepseek-r1-14b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 1154.4,
+      "end": 1172.22,
+      "text": "comments comes limit Thank You counselor my question goes towards some of the deed restrictions and just to be clear this is in perpetuity for ever and there is the along with the land is the agreement that it's gonna stay in this",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address concerns about municipal resources like electricity, water, or waste management. It focuses on deed restrictions and land agreements, which relate to property rights rather than resource strain."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker raises a question about deed restrictions and their perpetuity, indicating a concern about how decisions are made and enforced. This touches on the process of land use agreements and transparency, aligning with sub-theme 2a regarding community oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns such as noise, air quality, or direct health impacts in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, cost distribution, or benefits for vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 1172.22,
+      "end": 1220.47,
+      "text": "use is just my question the affordability restriction is in full force and effect for a period of 15 years from the date of the conveyance of this property to soccer the restriction period and that soccer by accepting delivery of the deed covenants on behalf of soccer its successors and assigns to perform and abide by said terms conditions and provisions so it is a 15 year restriction these are the same restrictions that are used through the Redevelopment Authority and I believe other affordable housing projects and I'm looking to the housing team here who are shaking their heads yes thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses affordability restrictions on a property deed and references the Redevelopment Authority and affordable housing projects. It does not address concerns about municipal resources like electricity, water, or waste management, nor does it mention infrastructure strain or budgetary issues. Therefore, it is not relevant to this theme."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker refers to legal terms in a property deed and mentions the Redevelopment Authority, indicating a focus on housing restrictions rather than the decision-making process or transparency issues related to the AI data center project. There is no critique of the process or demands for community oversight, so this comment does not align with the Municipal Process theme."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment is centered on property restrictions related to affordable housing and does not address health concerns such as noise pollution, air quality, or direct health impacts. It does not discuss any physical health effects or trade-offs between health and economic benefits, making it irrelevant to this theme."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the comment touches on affordable housing, which relates to inequality, it does not connect this to the AI data center project or discuss power dynamics, uneven distribution of costs and benefits, or historical patterns of extraction. The focus is on housing restrictions, not broader issues of inequality related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_04",
+      "speaker_name": "unknown",
+      "start": 1220.47,
+      "end": 1241.07,
+      "text": "and then also just my final question given that this is on a residential block well we will soccer also commit to making sure that the roads are the way that they were found when the development is done and what will the impact of the development have on the neighbors on the block so with with any",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on the impact of development on roads and neighbors, which doesn't relate to municipal resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is asking about the development's impact on roads and neighbors, not addressing how decisions were made or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health concerns like noise, air quality, or direct health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment doesn't address issues of benefit distribution, inequality, or vulnerable populations."
+        }
+      }
+    }
+  ]
+}

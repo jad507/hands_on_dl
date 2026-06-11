@@ -1,0 +1,36 @@
+{
+  "title": "Press Conference - Data Center Community Benefits Agreement",
+  "video_id": "WHN2o2S6X-Q",
+  "upload_date": "20251119",
+  "model": "qwen3.5-9b-q8",
+  "n_chunk_errors": 0,
+  "public_comments": [
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_00",
+      "start": 987.74,
+      "end": 1009.02,
+      "speaker_name": "unknown",
+      "reason": "The speaker discusses industrial use, parking, and legacy manufacturing in a way that suggests they are a community member expressing concerns about the data center project.",
+      "text": "2 million square feet of industrial use and parking for over 1300 vehicles like many legacy manufacturing locations these facilities operated 24 7 with heavy truck and employee traffic production noise significant water usage and emissions the previous use was born in an era"
+    },
+    {
+      "block_id": 10,
+      "speaker": "UNKNOWN",
+      "start": 1009.02,
+      "end": 1021.5,
+      "speaker_name": "unknown",
+      "reason": "The speaker continues discussing community needs and environmental protections, indicating they are a resident or stakeholder providing public comment.",
+      "text": "when there was much less awareness of community needs and environmental protections since then industrial uses have continued to evolve over time to be more productive and responsive to community"
+    },
+    {
+      "block_id": 11,
+      "speaker": "SPEAKER_00",
+      "start": 1021.5,
+      "end": 1050.96,
+      "speaker_name": "unknown",
+      "reason": "The speaker references the city of Lancaster and the CBA, showing they are a community member addressing the council on the proposed development.",
+      "text": "needs now before the recent interest in data centers the strongest market demand for sites like this was for distribution warehouses and that is not the highest and best use for a city like lancaster by contrast high-tech investment and innovation belong in cities through this cba we can secure a future-focused highly productive use that addresses community concerns while"
+    }
+  ]
+}

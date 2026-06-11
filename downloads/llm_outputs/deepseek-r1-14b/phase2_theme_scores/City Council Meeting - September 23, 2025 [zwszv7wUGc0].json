@@ -1,0 +1,87 @@
+{
+  "title": "City Council Meeting - September 23, 2025",
+  "video_id": "zwszv7wUGc0",
+  "upload_date": "20250924",
+  "model": "deepseek-r1-14b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 6,
+      "speaker": "SPEAKER_06",
+      "speaker_name": "unknown",
+      "start": 467.44,
+      "end": 469.44,
+      "text": "We have the Governor's Hispanic Heritage Month Proclamation. Thank you very much.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is about a proclamation related to Hispanic Heritage Month and does not address any concerns about resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the decision-making process, transparency, or community involvement regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health concerns, air quality, noise, or any related issues."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, distribution of benefits, or power dynamics related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Jose A. Nunez Ruiz",
+      "start": 469.44,
+      "end": 507.24,
+      "text": "Councillors, this evening we're joined by Jose A. Nunez Ruiz, who is a commissioner lancaster county on the governor's advisory commission on latino affairs he's wanted to come here this evening to read us the proclamation signed by governor shapiro recognizing hispanic heritage month if you would like to come forward jose thank you so much for being here i know that you may have some words that you would like to share and then you'll be reading the content of the resolution in spanish for us this evening you got it good",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is about recognizing Hispanic Heritage Month and does not address any concerns related to municipal resources, electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on a proclamation related to Hispanic Heritage Month and does not discuss the data center project, decision-making processes, or transparency issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns, noise, air quality, or any related issues in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, power dynamics, or distribution of benefits and costs related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 507.24,
+      "end": 545.2,
+      "text": "Good evening to all, to City Council, to Mayor Soares, and to the public today. I'm a proud resident of the city of Lancaster. I live on the 100 block of South Queen Street, so I'm very proud to be part of this. I consider myself an Amatrican and also be proud to represent our county in the Governor's Advisory Commission on Latino Affairs. So today I bring you, like I said, the proclamation on behalf of our governor, the Honorable Josh Shapiro, And our executive director, Olga Negron, who is the director of the commission. And the proclamation reads as follows. I will be doing the proclamation in Spanish. Hope you. Thank you.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is about a resident presenting a proclamation and does not address any concerns related to municipal resources, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the decision-making process, transparency, or community involvement regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns, noise, air quality, or direct health impacts related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, distribution of benefits, or power dynamics related to the data center project."
+        }
+      }
+    }
+  ]
+}

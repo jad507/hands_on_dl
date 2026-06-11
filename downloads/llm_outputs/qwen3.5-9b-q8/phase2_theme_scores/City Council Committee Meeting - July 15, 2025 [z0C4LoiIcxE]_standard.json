@@ -1,0 +1,139 @@
+{
+  "title": "City Council Committee Meeting - July 15, 2025",
+  "video_id": "z0C4LoiIcxE",
+  "upload_date": "20250716",
+  "model": "qwen3.5-9b-q8",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 1436.78,
+      "end": 1444.82,
+      "text": "that's that was that was really the basis of my question was kind of from like the policy side and like can we set policies that would affect future",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or budgetary concerns related to municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker asks about setting policies to affect future outcomes, which touches on governance and oversight, but lacks specific references to transparency, distrust, or process failures."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing, vulnerable populations, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 1444.82,
+      "end": 1502.68,
+      "text": "budgets yeah and I think the answer there is really you can't you can't directly control the subsequent budget you can only control the current one that being said you want to put policies in place that keep it that direct the administration on how to administer the budget ordinance on an annual basis right so keep in mind again council sets the legislation and the administration effectuates that legislation so policy is helping them to make decisions some of which require your approval so certain changes in the budget during a year would require your approval certain um expenditures that are not out that are not within budget lines would require council's approval but even within ones that are allowed within the budget there can be decisions to be made about the best way to to handle it and that guides not only the current practice but then the drafting of the next year's budget",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses budgetary control and legislative oversight but does not frame the data center as a strain on municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker focuses on how council legislation and administration interact, emphasizing the need for policies to guide budget administration and requiring council approval for certain expenditures, which aligns with expectations of municipal process and accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits versus who pays, job creation narratives, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 32,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 1502.68,
+      "end": 1560.41,
+      "text": "and and uh just my like my final piece of kind of where like my thought process was going on this You know, there's been a lot of talks about tax exemptions for low-income earners, and a question that did come into my mind was, you know, through the admin code, would we be able to exempt any future increases to earned income tax for low-income earners written in the admin code? I understand retroactively we may not be able to do that, but for any future increases in our income tax, would that have to be done on a year-to-year budget, or would we be able to put in the admin code that any future increases would not affect those making under $12,000?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on tax policy and income tax exemptions rather than municipal utilities, infrastructure, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is asking a procedural question about administrative code and budget processes, but does not express distrust, demand oversight, or critique the transparency of the data center decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the data center project."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the comment mentions low-income earners, it is framed as a technical question about tax code mechanics rather than a critique of wealth distribution, extraction, or the uneven burden of the data center project."
+        }
+      }
+    },
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "Tony Dastra",
+      "start": 1639.73,
+      "end": 1671.32,
+      "text": "microphone on thank you tony dastra 700 block new holland avenue a variety of minor concerns but i'll just start with my biggest concern which is i actually think article 5 of the admin code asserts the authority of the ethics commission that was expressly written under article 12. i do understand the logic but i think the ethics commission needs to have their input on that and it needs to be part of the ethics code not the administrative code Mr. Dastra, just a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary strain on municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker directly challenges the administrative code and asserts that the ethics commission should have input, indicating a concern about procedural governance and oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing, vulnerable populations, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_01",
+      "speaker_name": "unknown",
+      "start": 1679.24,
+      "end": 1749.3,
+      "text": "but to some earlier points made by people up on the day or rather at the table the charter is the bible and let me actually look up something in my three minutes. I could be wrong but I do believe that the charter can be amended through referendums so long as it's not affecting the government structure some of my other concerns to these proposed administrative code changes i think are appropriate there through that mechanism i think there are some ways the city's opening itself up to legal challenges between the powers of of itself frankly because there's language not included in the charter that the administrative code puts different prescriptions onto so So, yeah, I think a lot of this does make sense. I think there's a lot of logic and reason, but I think the process through which a lot of this is being done isn't congruent without how it needs to occur. So I'll save the extra 45 seconds of my time and give it back. Thank you.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary strain on municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly critiques the process of administrative code changes, citing the city charter and legal risks, and notes the process is not congruent with how it needs to occur."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    }
+  ]
+}

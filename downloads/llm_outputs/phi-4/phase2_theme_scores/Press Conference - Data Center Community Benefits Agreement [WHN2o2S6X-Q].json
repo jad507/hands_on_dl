@@ -1,0 +1,61 @@
+{
+  "title": "Press Conference - Data Center Community Benefits Agreement",
+  "video_id": "WHN2o2S6X-Q",
+  "upload_date": "20251119",
+  "model": "phi-4",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 4,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Ezra Rothman",
+      "start": 940.54,
+      "end": 952.84,
+      "text": "Thank you, Mayor, and good afternoon. I'm Ezra Rothman, president of EDC Lancaster County, the lead economic development entity serving our community.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any concerns related to municipal resources or utilities."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the decision-making process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health, quality of life, or environmental concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics, inequality, or distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 53,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1988.23,
+      "end": 2068.37,
+      "text": "Yes. I think that, in particular, related to water, the technology exists in which large volumes of water do not need to be used. It's a financial decision. Do not give in. It's really that simple. I mean, we, I have, I am for a few more days still the mayor of the city of Lancaster and have been advocating a lot around water, water quality issues, storm water, all of that facets of water. To yield to development that consumes the volume of water that is necessary to cool under the previous iteration of data centers to me is unfathomable, and it is not correct. And I believe that elected leaders across Pennsylvania who are contemplating this, there is technology, and Carissa has shown us that that is true, to cool these facilities using a closed-loop system. And that technology exists, and every community should be demanding its use to these two properties.",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 1.0,
+          "reasoning": "The comment directly addresses concerns about water supply and quality, emphasizing the availability of technology to reduce water usage, which aligns with Sub-theme 1b."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker references their role as mayor and advocacy efforts, suggesting some level of engagement with municipal processes, but does not explicitly critique decision-making or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.2,
+          "reasoning": "The comment indirectly touches on health and well-being by discussing water quality, but does not explicitly address health impacts or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.3,
+          "reasoning": "The comment implies a power dynamic by urging communities to demand better technology, but does not explicitly discuss the distribution of costs and benefits or historical patterns."
+        }
+      }
+    }
+  ]
+}

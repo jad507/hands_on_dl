@@ -1,0 +1,165 @@
+{
+  "title": "City Council Committee Meeting - August 11, 2025",
+  "video_id": "6DXgO59xzeU",
+  "upload_date": "20250812",
+  "model": "qwen3.5-9b-q8",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 2,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "Katie Shifflett",
+      "start": 651.82,
+      "end": 699.58,
+      "text": "me uh my name is katie shifflett i'm with semais properties um i would love to join this board i not only work downtown but i also live downtown i have my entire life so i think it would be an amazing opportunity to join this board and really help with everything that the did is involved with between safety cleanup outreach i think all the things that they have done in the past few years have been great i have an opportunity to see firsthand from both a residential and a commercial side um the different things that the city has done how it's grown over the years from something simple to something extraordinary and i think that i could be a great asset to the board itself",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary concerns related to the data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is not discussing transparency, oversight, or accountability regarding the data center decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "Mason Sau er",
+      "start": 1054.49,
+      "end": 1105.24,
+      "text": "my name is mason sauer i've been plumbing here at lancaster city and i've been plumbing in lancaster city and the surrounding areas for about eight years now i obtained a master's license for lancaster city york reading harrisburg and it's it's always been a passion of mine although it sounds a little strange in plumbing but um it's something that i absolutely love and being appointed to be part of the board is i'm very honored and um yeah i will respect and have integrity when the board meets and all the decisions that we make uh is there anything",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The speaker introduces themselves as a plumber and board member but does not discuss utilities, infrastructure, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment is a self-introduction and statement of intent regarding board conduct, not a critique of the decision-making process or transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, environmental quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker does not address wealth distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 1112.12,
+      "end": 1155.86,
+      "text": "codes that Lancaster City amends every so often and I have found that it's a little difficult to get the word out to the other plumbers I think it would be good at least with my knowledge and my connections that I can get that word out so all the plumbers can come together and you know successfully you know plumb this place in you know so yeah but with my extensive knowledge in the plumbing code only with the IPC and the local codes this is yeah this is really exciting for me thank you are there any questions or",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on plumbing codes and professional networking, not on municipal utilities, infrastructure strain, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker discusses code amendments and information sharing among plumbers, but does not address transparency, decision-making processes, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address wealth distribution, job creation critiques, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 28,
+      "speaker": "SPEAKER_15",
+      "speaker_name": "unknown",
+      "start": 1934.28,
+      "end": 2021.04,
+      "text": "eyeball on me back there hi i'm not here that often um the parking as you know the parking authority runs the violation parking program under a contract with the city parking authority is basically like a management company during the enforcement for meters street sweeping and residential permit parking that's what we're authorized to do for our contract for our contract the parking authority gets a 10 management fee plus our expenses are covered which are approved in our contract and if there's any changes to that allocation of personnel or whatever we will bring that to tuna and go through that so if there's some major change and we need additional staffing we will get approval for that and the city gets 90 percent of violation revenue after expenses IT'S A PRETTY GOOD DEAL IN THE CITY, BUT IT WORKS, AND WE ARE NINE YEARS INTO IT. TWO CONTRACTS, AND THANK YOU. DOES THAT ANSWER THE QUESTION?",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses parking management contracts and revenue allocation, not municipal utilities like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is defending an existing contract arrangement rather than addressing transparency, decision-making processes, or accountability regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on administrative contract details and revenue sharing, not on who benefits or pays in terms of broader economic or social inequality."
+        }
+      }
+    },
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3125.22,
+      "end": 3156.15,
+      "text": "Works Committee council ideas in relations to our new AI core where that's going to be and basically implement it into our city and also partially named Peter Township will they also provide us updates on how much water how much electricity that's going to be used to the public as with",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly asks for public updates on water and electricity usage, directly engaging with concerns about municipal utility strain and transparency around resource consumption."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The comment requests ongoing public updates and transparency regarding the project's resource usage, which aligns with demands for community oversight and information sharing."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention health impacts, noise, air quality, or quality of life concerns, focusing solely on utility metrics."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "There is no mention of who benefits versus who pays, job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_10",
+      "speaker_name": "taylor raymond",
+      "start": 3260.3,
+      "end": 3282.25,
+      "text": "for the meeting record all right taylor raymond 500 block of saint joseph street um i just wanted some clarification on the reduced timelines you said from uh 10 days to five days for one of them and 10 to 8 for another is that calendar days or business days that is a very good question",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks for clarification on meeting timelines and does not address municipal resources like electricity, water, or waste."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker questions procedural details about meeting schedules, which touches on transparency and process clarity, though it lacks the stronger signals of distrust or demands for oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    }
+  ]
+}

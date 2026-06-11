@@ -1,0 +1,87 @@
+{
+  "title": "City Council Meeting - November 11, 2025",
+  "video_id": "X3DupuiqLts",
+  "upload_date": "20251112",
+  "model": "deepseek-r1-14b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 141,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 3472.85,
+      "end": 3479.56,
+      "text": "in the gaming i guess huh yep must be night state nice state government would be nice if they'd open",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns about resources, utilities, or infrastructure related to the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address the decision-making process, transparency, or community involvement regarding the AI data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not express any health concerns or impact on well-being related to the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss issues of power dynamics, inequality, or distribution of benefits and costs related to the AI data center."
+        }
+      }
+    },
+    {
+      "block_id": 142,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 3479.56,
+      "end": 3513.58,
+      "text": "back up pass a budget okay any additional comments for resolution number 70. good evening good evening um i just wanted to make sure that there's a fair share to all business owners like we keep seeing the same people getting funded or businesses getting funded. Is it something that's open to like are you sharing information with the city of Lancaster's so that they know",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns about the city's resources such as electricity, water, or budget related to the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is concerned about funding distribution among business owners, which does not relate to the process or decision-making regarding the AI data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns, noise, air quality, or any direct or indirect effects on physical health or quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.7,
+          "reasoning": "The speaker raises concerns about fairness in funding distribution, suggesting potential inequality in how resources are allocated among business owners, which relates to power dynamics and inequality."
+        }
+      }
+    },
+    {
+      "block_id": 143,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 3513.58,
+      "end": 3524.66,
+      "text": "that these local share funds are available. Like you use advertising. So these are advertised to the P.A. Department of Community and Economic Development",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses the availability of local share funds and their use in advertising to the Pennsylvania Department of Community and Economic Development. This does not address concerns about infrastructure strain, water supply, or electronic waste, which are central to Theme 1."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on the use of funds for advertising and does not touch on decision-making processes, transparency, or community involvement, which are key to Theme 2."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or health trade-offs in the comment, so it does not relate to Theme 3."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of benefit distribution, inequality, or vulnerable populations, which are central to Theme 4."
+        }
+      }
+    }
+  ]
+}

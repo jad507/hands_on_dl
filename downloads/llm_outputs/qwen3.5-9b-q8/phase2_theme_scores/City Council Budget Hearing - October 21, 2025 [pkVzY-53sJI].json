@@ -1,0 +1,321 @@
+{
+  "title": "City Council Budget Hearing - October 21, 2025",
+  "video_id": "pkVzY-53sJI",
+  "upload_date": "20251022",
+  "model": "qwen3.5-9b-q8",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 126,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2800.14,
+      "end": 2803.9,
+      "text": "land development plan and then i have to go somewhere else to get my permit i have to go",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions permits and land development but does not address electricity, water, waste, or budgetary strain on municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker describes a fragmented or burdensome permitting process, which touches on municipal process inefficiencies, though it lacks explicit criticism of officials or demands for transparency."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits versus who pays, job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 127,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2803.9,
+      "end": 2858.94,
+      "text": "to department of public works and then have to go to see my permit get my permit it's certainly not clear to me how that would make things more efficient or streamlined so that would be my main question and um again uh if we're making things more streamlined ultimately they should reduce expenses and personnel and it sounds like we're increasing expenses and personnel so i'm not sure how that all adds up um would also suggest and i'm going to put on my strong hounds strong towns lancaster hat for a second here uh one way to streamline permittings by actually reducing and and eliminating regulations strong towns has what they call the six policies for a housing ready city one of them is streamline the approval process cities can implement 24 hours approvals for straightforward projects like duplex conversions backyard cottages and starters homes making",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses permit efficiency and personnel expenses but does not address electricity, water, waste, or infrastructure burdens specific to the data center project."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker questions the clarity and efficiency of the permitting process, suggesting it may increase rather than reduce expenses, which aligns with concerns about municipal process and accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on administrative efficiency and housing policy rather than issues of wealth distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 128,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2858.94,
+      "end": 2863.76,
+      "text": "it easier and faster to get built this reduces cost encourages development and provides communities",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or municipal budget burdens; it focuses on development speed and cost reduction."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of transparency, oversight, or accountability in the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address who benefits versus who bears costs, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 247,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "tim stuhlder",
+      "start": 5412.51,
+      "end": 5449.14,
+      "text": "a consultant i give uh credit we we've hired one permit coordinator kelly already and she's been serving that role and in some ways it's just she she can't get to everything and she's also not within a management structure yet and that's the purpose of the office i agree with you it is exciting and i thank you for your answers thanks thank you uh tim stuhlder 800 block of george street uh as before a couple of comments and then a question uh yeah as far as comments i would um",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses administrative staffing and permit coordination but does not address electricity, water, waste, or budgetary strain on municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions a permit coordinator and management structure, they do not express distrust, demand oversight, or critique the transparency of the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or the trade-off between economic benefits and health risks."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or the uneven distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 396,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8489.97,
+      "end": 8494.93,
+      "text": "at the police budget you know a question comes to my mind on you know what can we do and what can",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment is a fragmented sentence about the police budget and does not address electricity, water, waste, or infrastructure strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no mention of decision-making processes, transparency, or accountability regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not reference health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss wealth distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 397,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8494.93,
+      "end": 8535.62,
+      "text": "the community do to kind of advocate for a higher state contribution towards pensions to kind of give a little bit of relief to municipalities across the state given that it's kind of a flat you know contribution from the state you know what are ways that we could kind of advocate for more money for police bureaus and for pensions from the state probably a director campbell question i'm not really sure what we what more we can do um yeah i i i can try and get you an answer to that i don't have it right now though thank you i don't want to put her on the spot but",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses state pension contributions and municipal budget relief but does not address the specific strain of the data center project on Lancaster's utilities, infrastructure, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the comment mentions advocacy and seeking answers, it does not address the data center project's decision-making process, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment focuses on state funding and pensions rather than the distribution of costs and benefits of the data center project or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 398,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8535.62,
+      "end": 8556.88,
+      "text": "i don't have the answer to that i mean they don't have a real good answer except to just say keep advocating i mean you can see you saw in the october 6 presentation that our our costs with that continue to increase every year exponentially compared to what we get from the state so it's important to keep advocating for more from the state yeah and with you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions increasing costs but does not specifically address municipal infrastructure, utilities, or resource strain."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker discusses advocacy and state funding but does not critique the decision-making process, transparency, or official accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, environmental quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "While the speaker mentions costs and state funding, they do not frame this in terms of unequal distribution of benefits and harms or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 411,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8756.89,
+      "end": 8762.49,
+      "text": "from what i've seen it's worse than thankless it's i've seen the abuse that some of them endure and",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions abuse endured by unspecified individuals but does not reference municipal utilities, infrastructure, or resource management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "While the comment expresses frustration, it does not address transparency, decision-making processes, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment references abuse but does not connect it to physical health, environmental quality, or quality of life impacts from the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment is too fragmented to identify a specific claim about wealth distribution, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 412,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8762.49,
+      "end": 8779.61,
+      "text": "it's unfortunate it's a bad reflection on our drivers particularly in our community and i would just say i do really hope that i told sergeant summerall that i hope that he proves me wrong and fills every one of those positions i would love to see that as well thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or municipal budgetary capacity related to the data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss decision-making processes, transparency, or accountability of officials regarding the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 417,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8894.56,
+      "end": 8902.72,
+      "text": "the community particularly around colleton park like i thought uh the invictus partnership was great i think that that park ranger role is is critically needed so i would love for uh the",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions a park ranger role and a partnership but does not discuss municipal utilities, infrastructure, water, electricity, or waste management burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker expresses support for a partnership and a park ranger role but does not address decision-making processes, transparency, or accountability."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss who benefits or pays, job creation critiques, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 418,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 8902.72,
+      "end": 8940.17,
+      "text": "department and council to consider that in future years yeah the only thing i would add with the park rangers um when you create a position that they're now city employees it's you know is you you have that position yeah so it's it's a long-term investment yeah thank you 800 block of george street um yeah so first of all uh congratulations on your upcoming retirement um also um huge huge congratulations on achieving accreditation um that has all kinds of you know",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses park ranger positions and city accreditation but does not address electricity, water, waste, or budgetary strain related to the data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker congratulates a retiring official and mentions accreditation but does not critique decision-making processes, transparency, or accountability regarding the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts associated with the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 419,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 8940.17,
+      "end": 8959.3,
+      "text": "positive benefits for the department the city and so forth so that's that's amazing that's absolutely fantastic so broadly speaking what I'm coming up to advocate for is I do think that the city budget in what essentially is a",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment mentions the city budget but does not discuss specific strains on municipal resources like electricity, water, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of decision-making processes, transparency, or accountability regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not address health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "No mention of unequal distribution of costs/benefits, job creation critiques, or vulnerable populations."
+        }
+      }
+    }
+  ]
+}

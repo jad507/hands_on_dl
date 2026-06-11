@@ -1,0 +1,87 @@
+{
+  "title": "HARB Meeting March 4 2025",
+  "video_id": "jXEH5zsabJU",
+  "upload_date": "20250304",
+  "model": "qwen3.5-9b-q8",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 3,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 210.53,
+      "end": 225.26,
+      "text": "an existing window that has some there's previous water damage around the window that that's since been repaired so there's kind of rust on the interior of it they can kind of see from the outside so that's kind of the reason for the replacement okay all right thank you are there",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment describes a personal home repair issue regarding a window and water damage, with no connection to municipal utilities, infrastructure, or the data center project."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is addressing a property maintenance issue and does not discuss municipal decision-making, transparency, or accountability related to the data center."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment mentions water damage and rust but does not connect these to health impacts, air quality, noise, or quality of life concerns related to the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "There is no discussion of cost-benefit distribution, job creation, housing needs, or historical patterns of inequality in relation to the data center project."
+        }
+      }
+    },
+    {
+      "block_id": 4,
+      "speaker": "SPEAKER_03",
+      "speaker_name": "unknown",
+      "start": 225.9,
+      "end": 238.1,
+      "text": "any questions or comments from the board just the one comment um suzanne this is really not so much about the proposed window but about the mention of change in signage yeah will that have",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary concerns related to municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss decision-making transparency, oversight, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 5,
+      "speaker": "SPEAKER_02",
+      "speaker_name": "unknown",
+      "start": 238.1,
+      "end": 260.48,
+      "text": "to come before mr evangelista he does not because he's it's the business doesn't have a lot of walking customers he's just using his warehouse he doesn't have any signage plan to be mounted on the exterior which you would review if he just has a decal or something on the inside window or door that would not be review okay you want to mount a sign on the wall or a bracket okay it's",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses signage and business operations but does not address electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker references review processes and signage regulations, indicating engagement with how decisions are made and what is subject to oversight, though without explicit criticism of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or the distribution of costs and benefits."
+        }
+      }
+    }
+  ]
+}

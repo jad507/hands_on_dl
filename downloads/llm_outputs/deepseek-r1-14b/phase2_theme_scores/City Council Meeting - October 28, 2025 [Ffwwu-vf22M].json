@@ -1,0 +1,243 @@
+{
+  "title": "City Council Meeting - October 28, 2025",
+  "video_id": "Ffwwu-vf22M",
+  "upload_date": "20251029",
+  "model": "deepseek-r1-14b",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 13,
+      "speaker": "UNKNOWN",
+      "speaker_name": "Ian McAndrew",
+      "start": 721.79,
+      "end": 728.87,
+      "text": "evening I'm Ian McAndrew I'm a Lancaster resident and I'm very concerned about",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific concerns about resources like electricity, water, or waste management. It only expresses general concern without details."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or distrust of officials. It lacks specifics on the process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health issues, noise, air quality, or related concerns. The comment is too brief to assess health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "There's no indication of unequal benefits or burdens, or concerns about vulnerable populations or power imbalances."
+        }
+      }
+    },
+    {
+      "block_id": 14,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 728.87,
+      "end": 774.37,
+      "text": "the proposed data centers I feel this may be a little premature given that you don't have the CBA in hand yet but frankly my understanding of the CBA is that it's very short on benefits for the community and very short on enforcement mechanisms for violating its own policies what happens two years down the road when something goes wrong I look forward to this council and anybody involved paying particular attention to the community benefits portion of the community benefits agreement I think I'm gonna wait for anything else thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any strain on resources like electricity, water, or waste management. It focuses on the CBA instead."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The speaker is concerned about the fairness and transparency of the CBA process, questioning the benefits and enforcement mechanisms, which directly relates to how decisions were made and community involvement."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health concerns like noise, air quality, or direct health impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of unequal distribution of costs and benefits or power dynamics."
+        }
+      }
+    },
+    {
+      "block_id": 69,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2073.29,
+      "end": 2077.93,
+      "text": "which heavily disappointed in because it doesn't provide accountability for the individuals who",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns about resources like electricity, water, or waste management. It focuses on disappointment with accountability, which relates to a different theme."
+        },
+        "municipal_process": {
+          "score": 1.0,
+          "reasoning": "The speaker expresses disappointment in the lack of accountability, which directly relates to concerns about how decisions were made and whether there is accountability in the municipal process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns such as noise, air quality, or direct health impacts in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, power dynamics, or distribution of benefits and costs."
+        }
+      }
+    },
+    {
+      "block_id": 70,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2077.93,
+      "end": 2106.3,
+      "text": "are coming to put this money in the community there's no guarantee that our well-being is going to be protected and so i'm i'm at a loss for words because these are the moments where we desperately need our government to demonstrate that they are in line with the community on these issues of concern we're looking at all you guys and all who come after you because this will be something that goes on for a while because we've we as a municipality as a city not you guys",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific concerns about municipal resources like electricity, water, or waste management. It focuses on the broader issue of well-being and government alignment with the community."
+        },
+        "municipal_process": {
+          "score": 0.7,
+          "reasoning": "The speaker expresses frustration with the decision-making process and the lack of guarantees for community well-being, indicating distrust in the municipal process."
+        },
+        "health_and_well_being": {
+          "score": 0.3,
+          "reasoning": "The comment touches on the protection of well-being but does not specify health-related issues like noise or air quality."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "There is no mention of power dynamics, inequality, or uneven distribution of benefits and costs in the comment."
+        }
+      }
+    },
+    {
+      "block_id": 71,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2106.3,
+      "end": 2110.94,
+      "text": "exclusively not the mayor all of us are in this we are all stakeholders in the city of Lancaster",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any specific resource strain or infrastructure concerns related to the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment emphasizes collective stakeholdership but does not address the decision-making process, transparency, or accountability issues."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health impacts, noise, air quality, or related concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss power imbalances, inequality, or distribution of benefits and costs."
+        }
+      }
+    },
+    {
+      "block_id": 93,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2547.65,
+      "end": 2564.41,
+      "text": "glad you mentioned that councilman Hirsch about the vendors because I was very concerned as you know we ride up down the turnpike and they do scamming with those automatic cameras that's a big scam item out getting people to get pictures of your car and your license and they send you a ticket and it's not",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any concerns related to the city's resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss the decision-making process, transparency, or community involvement regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any health-related concerns or impacts on quality of life."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of power dynamics, inequality, or distribution of benefits and costs."
+        }
+      }
+    },
+    {
+      "block_id": 94,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 2564.41,
+      "end": 2579.73,
+      "text": "even you so I want to know what security is council looking to have that these cameras are up I would like to know where they're being places at every red light within the city and like Izzy had said I'm very concerned about what we're",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention any concerns about resources like electricity, water, or waste management related to the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker is asking about the placement of cameras, which relates to public safety, not the process of decision-making or transparency regarding the data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health concerns such as noise, air quality, or direct health impacts from the data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address issues of inequality, power dynamics, or distribution of benefits and costs related to the data center."
+        }
+      }
+    },
+    {
+      "block_id": 95,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 2579.73,
+      "end": 2608.89,
+      "text": "going to do to let the public know because a lot of times we don't division zero we have no enforcement of the bike laws we do everything to keep bikers safe but i'm a driver and i see bikers all the time not obeying the laws and i want to know what vision zero what else are we going to do to keep residents safe not just the bikers not just the walkers but us as automobile drivers when are we going to enforce the things that they do that make it unsafe thank you thank",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses concerns about public safety related to biking and driving laws, which does not relate to the city's resources or infrastructure for the AI data center."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The speaker focuses on enforcement of traffic laws and safety measures, not on the decision-making or transparency related to the AI data center project."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment addresses safety concerns but does not connect them to health impacts or well-being related to the AI data center."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The speaker's concerns about traffic laws and enforcement do not relate to issues of power dynamics or inequality associated with the AI data center development."
+        }
+      }
+    },
+    {
+      "block_id": 219,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 4887.98,
+      "end": 4890.48,
+      "text": "thank you",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment 'thank you' does not address any concerns related to the city's resources, utilities, or infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not express any dissatisfaction or demand for transparency or participation in the municipal process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "No mention of health concerns, air quality, noise, or related issues in the comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address any issues related to power dynamics, inequality, or distribution of benefits and costs."
+        }
+      }
+    }
+  ]
+}

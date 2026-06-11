@@ -1,0 +1,87 @@
+{
+  "title": "Press Conference - Data Center Community Benefits Agreement",
+  "video_id": "WHN2o2S6X-Q",
+  "upload_date": "20251119",
+  "model": "qwen3.5-9b-q8",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 987.74,
+      "end": 1009.02,
+      "text": "2 million square feet of industrial use and parking for over 1300 vehicles like many legacy manufacturing locations these facilities operated 24 7 with heavy truck and employee traffic production noise significant water usage and emissions the previous use was born in an era",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly mentions significant water usage, emissions, and 24/7 operations with heavy truck traffic, directly framing the project as a strain on municipal resources like water and infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address how decisions were made, transparency, or accountability; it focuses solely on the physical and operational characteristics of the proposed facility."
+        },
+        "health_and_well_being": {
+          "score": 0.6,
+          "reasoning": "The speaker references emissions and production noise, which are direct concerns about air quality and noise pollution affecting residents' quality of life and health."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.2,
+          "reasoning": "The comment draws a parallel to legacy manufacturing locations, hinting at historical patterns of industrial use, but does not explicitly discuss who benefits versus who pays or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 10,
+      "speaker": "UNKNOWN",
+      "speaker_name": "unknown",
+      "start": 1009.02,
+      "end": 1021.5,
+      "text": "when there was much less awareness of community needs and environmental protections since then industrial uses have continued to evolve over time to be more productive and responsive to community",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or municipal budget concerns."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker references a lack of awareness of community needs, which touches on information asymmetry and process legitimacy, though it is framed more as a historical observation than a direct accusation."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.5,
+          "reasoning": "The comment critiques the evolution of industrial uses in relation to community needs, implying a disconnect between development and community welfare, which aligns with the theme of uneven distribution of benefits and harms."
+        }
+      }
+    },
+    {
+      "block_id": 11,
+      "speaker": "SPEAKER_00",
+      "speaker_name": "unknown",
+      "start": 1021.5,
+      "end": 1050.96,
+      "text": "needs now before the recent interest in data centers the strongest market demand for sites like this was for distribution warehouses and that is not the highest and best use for a city like lancaster by contrast high-tech investment and innovation belong in cities through this cba we can secure a future-focused highly productive use that addresses community concerns while",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss electricity, water, waste, or budgetary burdens on municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not address transparency, oversight, or distrust of officials regarding the decision-making process."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.8,
+          "reasoning": "The speaker argues that data centers are not the 'highest and best use' compared to distribution warehouses, framing the issue around economic priorities and the 'future-focused' nature of the investment versus existing market demands."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "title": "Planning Commission Meeting - September 3, 2025",
+  "video_id": "5PuBv9zFX3I",
+  "upload_date": "20250904",
+  "model": "qwen3.5-9b-q8",
+  "n_failed_comments": 0,
+  "theme_scores": [
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 1593.08,
+      "end": 1599.42,
+      "text": "those were the requirements that we're asking where we thought and again this city satisfied",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment references city requirements but does not mention utilities, infrastructure, water, electricity, or waste management."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker references city requirements and satisfaction, indicating engagement with the procedural aspect of how the city handled the project's conditions."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, job creation, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_07",
+      "speaker_name": "unknown",
+      "start": 1599.42,
+      "end": 1630.14,
+      "text": "with where this is proceeding yes again um the they were at the shade i will i will speak for terry and say that they actually went to the shade tree commission twice and so they went through once and then they had to go back so um they have they've done their their best to really um to try to meet the requirements and it's really only um in their best attempts failing that that these waivers were necessary and are you able to get all",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment discusses compliance with shade tree commission requirements and waivers, which relates to municipal regulations but does not address utilities, infrastructure strain, water, or waste management concerns defined in Theme 1."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker references the developer's engagement with the shade tree commission and the necessity of waivers, indicating a focus on procedural compliance and regulatory adherence, which aligns with concerns about municipal process and oversight."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns in this comment."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, job creation, housing needs, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 1630.14,
+      "end": 1637.45,
+      "text": "the required trees on the actual property or are there we do have a fee",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks about trees and fees on the property but does not address municipal utilities, infrastructure, or resource burdens."
+        },
+        "municipal_process": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss decision-making processes, transparency, or accountability of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health impacts, noise, air quality, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address distribution of costs/benefits, job narratives, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_09",
+      "speaker_name": "unknown",
+      "start": 3091.54,
+      "end": 3098.26,
+      "text": "you know we need to find other ways to get at that information i'm also gonna agree with mr",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or municipal infrastructure burdens."
+        },
+        "municipal_process": {
+          "score": 0.5,
+          "reasoning": "The speaker references finding 'other ways to get at that information,' which signals a concern about information access and transparency, a core aspect of the Municipal Process theme."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing, wealth distribution, or vulnerable populations."
+        }
+      }
+    },
+    {
+      "block_id": 64,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 3098.26,
+      "end": 3230.02,
+      "text": "stolzbus and mr stevens over here um i'm open to the idea of not having a public hearing if we're not going to get the participation of the administration which i also think is a disappointment uh disservice to the residents of the city of lancaster who want transparency i feel like what we were doing as many or yeah i'll say many of us up here have been saying uh we've been in the pursuit of information um so i do want to call to light uh what number is this a h of our powers um requests from other departments and agencies of the city all information available which relates to the work of the commission i think it's important for us in the process of drafting this new zoning ordinance to also reflect on the conversations that have occurred between the developer and city zoning and i'm an open government guy i know that that sometimes is a little bit worrisome in government because a lot of information information overload but i feel like the public deserves to see the documentation that has been for example provided to lmp i believe through right to know requests and hopefully have that information available to the public ideally accessible on the faq page for the data center on its website prior to the zoning hearing board meeting because this is ultimately residents as far as i understand it currently this is residents speaking their interests trying to do what they can to have an impact in their community and i feel what we can do is this body is give them as much information as possible to equip them for the argument that they have to make before this quasi-judicial body so i do feel that we should at least exercise ah and request these prior conversations between the developer and our city zoning office and make those documents available to the public i'll put my two cents in",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary strain on municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly demands transparency, requests access to documents from prior developer-city conversations, and criticizes the lack of information available to residents."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, vulnerable populations, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_13",
+      "speaker_name": "unknown",
+      "start": 3230.02,
+      "end": 3260.53,
+      "text": "as well um agreed i don't think we need a public hearing but and especially because i think the public may be confused about our role but i do think we should keep it as an agenda item possibly on that october first meeting for having it um still just to allow for it to be part of the conversation again in lieu of a public hearing i mean i would agree with that",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary concerns related to the data center's infrastructure or resource consumption."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker discusses the procedural format of the meeting (public hearing vs. agenda item), the timing of discussions, and the public's understanding of the Planning Commission's role, which directly engages with how decisions are made and shared."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns related to the data center operations."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or the distribution of costs and benefits."
+        }
+      }
+    },
+    {
+      "block_id": 67,
+      "speaker": "SPEAKER_11",
+      "speaker_name": "unknown",
+      "start": 3362.64,
+      "end": 3391.8,
+      "text": "say i'm in support of the commissioner's um requests in terms of this data center and the hearing you know I think it's important for the transparency you know I think the character of this commission we thrive and we respect transparency so I think that's important we want to make sure that that's that continues to go",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not mention electricity, water, waste, or budgetary concerns related to municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.8,
+          "reasoning": "The speaker explicitly values transparency and the character of the commission, directly engaging with expectations of how decisions are made and information is shared."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing needs, vulnerable populations, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 90,
+      "speaker": "SPEAKER_08",
+      "speaker_name": "unknown",
+      "start": 4266.95,
+      "end": 4378.31,
+      "text": "what you said ms sufert about you know essentially community cooperation what we can do with more foresight um i there's two points to make and what i have to say i agree with you but i think the thing holding us back the most and i've said this for more than a year now is our lack of updates to the zoning code since we adopted the comprehensive plan i'm very upset that we are in this position in part because i feel somewhat responsible that we haven't done that work yet i don't fully understand why i respected uh the hecticness we experienced as a body and as a city with the departure of douglas after that moment but i feel like some of that work is the foresight we need to have for these things going forward we are in a specific situation right now though um as someone who works in municipal government i do respect the qualifications and experience of other municipal staff and other municipalities um but the thing that bothers me the most and why i want to know the background information is because a persuasion a persuasive argument for something that wasn't explicitly given in our zoning ordinance had to be made and as respectfully as i can say this i really want to understand why this data storage processing center is considered under the warehousing and storage use which explicitly excludes processing i understand that processing in different contexts has different impacts but it's very important to me to understand what case was made to make that reasonable in the eyes of our zoning officer and that's why i'm so dead set on trying to",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary burdens on municipal infrastructure."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly critiques the lack of zoning code updates, questions the zoning officer's decision-making process, and demands transparency about how the project was classified under the ordinance."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health impacts, or quality of life concerns."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, vulnerable populations, or historical patterns of inequality."
+        }
+      }
+    },
+    {
+      "block_id": 91,
+      "speaker": "SPEAKER_12",
+      "speaker_name": "unknown",
+      "start": 4378.31,
+      "end": 4433.78,
+      "text": "understand the background information to that decision i want to echo commissioner dastra and maybe request like can we just have a standing agenda item where it's an update on where we're at with updating the zoning code because i feel like we go kind of months without hearing and i think it's really important for us that to be front and center for this body um are these consulting firms local national then do we have a sense of the timeline for the upper update",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment does not address electricity, water, waste, or budgetary strain on municipal resources."
+        },
+        "municipal_process": {
+          "score": 0.9,
+          "reasoning": "The speaker explicitly requests a standing agenda item for zoning code updates, citing frustration with months of silence and a desire for consistent, transparent information flow from the commission."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of noise, air quality, health conditions, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not discuss job creation, housing needs, vulnerable populations, or historical patterns of extraction."
+        }
+      }
+    },
+    {
+      "block_id": 92,
+      "speaker": "SPEAKER_05",
+      "speaker_name": "unknown",
+      "start": 4438.85,
+      "end": 4444.37,
+      "text": "is there a goal that the city has in order to get some of this um you know work underway from",
+      "themes": {
+        "municipally_managed_resources": {
+          "score": 0.0,
+          "reasoning": "The comment asks about the city's goals for project initiation but does not mention utilities, infrastructure, water, waste, or budgetary burdens."
+        },
+        "municipal_process": {
+          "score": 0.2,
+          "reasoning": "The speaker questions the city's planning and goals, which lightly touches on process, but lacks specific references to transparency, oversight, or distrust of officials."
+        },
+        "health_and_well_being": {
+          "score": 0.0,
+          "reasoning": "There is no mention of health, noise, air quality, or quality of life impacts."
+        },
+        "power_dynamics_and_inequality": {
+          "score": 0.0,
+          "reasoning": "The comment does not address job creation, housing, vulnerable populations, or the distribution of costs and benefits."
+        }
+      }
+    }
+  ]
+}
