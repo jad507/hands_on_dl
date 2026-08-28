@@ -1,0 +1,145 @@
+# Model registry and run settings for llm_classify_human_themes.py
+#
+# `path` is relative to the HODL_MODELS_ROOT environment variable, so the same
+# file works on every machine:
+#     Windows:  $env:HODL_MODELS_ROOT = 'D:\LLM'
+#     Linux:    export HODL_MODELS_ROOT=$HOME/models
+#     Roar:     export HODL_MODELS_ROOT=$SCRATCH/models
+# An absolute path here is still honoured, for one-off experiments.
+#
+# VRAM estimates below are for the RTX A2000 12 GB (Ampere, sm_86) that produced
+# the original corpus. They are weights + KV cache at the stated n_ctx.
+
+settings:
+  # Phase 1: blocks per LLM call. At ~100 words/block summary, 3 blocks is about
+  # 300 content tokens, leaving headroom for reason fields in large meetings.
+  p1_chunk_size: 3
+  # Phase 2: truncate comment text to this many words before sending. Keeps the
+  # total prompt well under 8192 tokens even with the full themes .md included.
+  p2_max_words: 600
+  # Sampling. temperature 0.0 is what the published corpus was produced with;
+  # changing it invalidates comparison against those outputs.
+  temperature: 0.0
+  p1_max_tokens: 1500
+  p1_retry_max_tokens: 300
+  p2_max_tokens: 700
+
+models:
+  # --- Qwen 3.5 9B (three quantisation levels for ablation) -----------------
+  # q4 ~7.8 GB, q5 ~8.7 GB, q6 ~9.9 GB at 16384 ctx float16 -- all fit 12 GB
+  qwen3.5-9b-q6:
+    path: bartowski/Qwen_Qwen3.5-9B-Q6_K_L.gguf
+    no_think: true          # prepend /no_think to the system prompt
+    strip_think: false
+    n_ctx: 16384
+    n_gpu_layers: -1
+
+  qwen3.5-9b-q5:
+    path: bartowski/Qwen_Qwen3.5-9B-Q5_K_M.gguf
+    no_think: true
+    strip_think: false
+    n_ctx: 16384
+    n_gpu_layers: -1
+
+  qwen3.5-9b-q4:
+    path: bartowski/Qwen_Qwen3.5-9B-Q4_K_M.gguf
+    no_think: true
+    strip_think: false
+    n_ctx: 16384
+    n_gpu_layers: -1
+
+  # Weights 8.9 GB + KV ~2.3 GB = ~11.2 GB -- tight on 12 GB; watch for OOM
+  qwen3.5-9b-q8:
+    path: daniloreddy/Qwen3.5-9B_Q8_0.gguf
+    no_think: true
+    strip_think: false
+    n_ctx: 16384
+    n_gpu_layers: -1
+
+  # --- DeepSeek R1 Qwen distills (thinking models; strip <think> tags) ------
+  deepseek-r1-7b:
+    path: bartowski/DeepSeek-R1-Distill-Qwen-7B-Q6_K_L.gguf
+    no_think: false
+    strip_think: true       # remove <think>...</think> before JSON parse
+    n_ctx: 16384
+    n_gpu_layers: -1
+
+  # Weights 8.4 GB + KV ~3.2 GB = ~11.6 GB -- risky on 12 GB; may OOM
+  deepseek-r1-14b:
+    path: bartowski/DeepSeek-R1-Distill-Qwen-14B-Q4_K_M.gguf
+    no_think: false
+    strip_think: true
+    n_ctx: 16384
+    n_gpu_layers: -1
+
+  # Weights 8.3 GB + KV ~2.7 GB = ~11.0 GB -- tight on 12 GB; watch for OOM
+  phi-4:
+    path: unsloth/phi-4-Q4_K_M.gguf
+    no_think: false
+    strip_think: false
+    n_ctx: 16384
+    n_gpu_layers: -1
+
+  # --- Gemma 4 4B effective (MoE) ------------------------------------------
+  # Weights 8.2 GB + small KV (low active-layer count) = ~9.7 GB -- fits 12 GB
+  gemma-4-4b:
+    path: unsloth/gemma-4-E4B-it-UD-Q8_K_XL.gguf
+    no_think: false
+    strip_think: false
+    n_ctx: 16384
+    n_gpu_layers: -1
+
+  # --- Ministral 8B GGUF (mistralai/Ministral-3-8B-Instruct-2512, Q8_0) -----
+  # Weights 8.5 GB + KV ~2.2 GB = ~10.7 GB -- fits 12 GB
+  ministral-8b:
+    backend: llama_cpp
+    path: Ministral/Ministral-3-8B-Instruct-2512-Q8_0.gguf
+    no_think: false
+    strip_think: false
+    n_ctx: 16384
+    n_gpu_layers: -1
+
+  # --- Not runnable on a 12 GB card; kept so --list documents the full set --
+  # "17B-16E" is 17B *active* parameters per token (MoE); total weights ~109B,
+  # quantised to ~59 GB across two GGUF files. llama_cpp auto-loads part 2 when
+  # given part 1. Run on the remote 80 GB card.
+  llama-4-scout:
+    backend: llama_cpp
+    path: unsloth/Llama-4-Scout-17B-16E-Instruct-UD-Q4_K_XL-00001-of-00002.gguf
+    no_think: false
+    strip_think: false
+    n_ctx: 16384
+    n_gpu_layers: -1
+    note: "~59 GB weights; needs an 80 GB card"
+
+  # consolidated.safetensors ~9.8 GB. Requires HuggingFace transformers.
+  ministral-8b-hf:
+    backend: transformers
+    path: Ministral/consolidated.safetensors
+    no_think: false
+    strip_think: false
+    n_ctx: 16384
+    n_gpu_layers: -1
+
+  # google/gemma-4-31B-it, bfloat16 safetensors (~59 GB). Run on the remote
+  # 80 GB card. Path is a model directory, not a single file.
+  gemma-4-31b:
+    backend: transformers
+    path: google
+    no_think: false
+    strip_think: false
+    n_ctx: 16384
+    n_gpu_layers: -1
+    note: "~59 GB bfloat16; needs an 80 GB card"
+
+  # nvidia/Llama-3.1-8B-Instruct-NVFP4, NVIDIA's FP4 quantisation (~5.7 GB).
+  # Requires TensorRT-LLM or vLLM with NVFP4 support; llama_cpp cannot load it.
+  # Path is a model directory, not a single file.
+  llama-3.1-nvfp4:
+    backend: transformers
+    path: nvidia
+    no_think: false
+    strip_think: false
+    n_ctx: 16384
+    n_gpu_layers: -1
+    note: "needs TensorRT-LLM or vLLM with NVFP4"

@@ -25,29 +25,69 @@ Usage:
   python llm_classify_human_themes.py --model phi-4 --phase 2
 """
 
+from __future__ import annotations
+
 import argparse
 import json
 import re
 import os
 import time
 from glob import glob
-from llama_cpp import Llama
+from pathlib import Path
+from typing import TYPE_CHECKING
+
+import yaml
+
+import paths
+import provenance
 from pipeline_utils import fmt_elapsed, now_str
 
+if TYPE_CHECKING:                      # pragma: no cover
+    from llama_cpp import Llama
+
+# llama_cpp is imported lazily inside main(). Importing it initialises CUDA,
+# which costs seconds and VRAM, and --list / --dry-run / --help have no reason
+# to pay that or to fail on a machine where the wheel is not installed.
+
 # ---------------------------------------------------------------------------
-# Paths
+# Paths -- resolved relative to the repository, overridable by environment
+# variable. See paths.py.
 # ---------------------------------------------------------------------------
-COMMENTS_DIR   = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\comments"
-THEMES_MD_PATH = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\data_center_comment_themes.md"
-OUTPUTS_ROOT   = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\llm_outputs"
+COMMENTS_DIR   = str(paths.COMMENTS_DIR)
+THEMES_MD_PATH = str(paths.THEMES_MD_PATH)
+OUTPUTS_ROOT   = str(paths.OUTPUTS_ROOT)
+
+
+# ---------------------------------------------------------------------------
+# Configuration -- model registry and run settings live in models.yaml so that
+# they are versioned as data rather than buried in Python literals.
+# ---------------------------------------------------------------------------
+def load_config(path: Path | None = None) -> tuple[dict, dict]:
+    cfg_path = path or paths.MODELS_CONFIG_PATH
+    with open(cfg_path, encoding="utf-8") as f:
+        cfg = yaml.safe_load(f)
+    return cfg.get("models", {}), cfg.get("settings", {})
+
+
+MODELS, SETTINGS = load_config()
 
 # Phase 1: blocks per LLM call. At ~100 words/block summary, 3 blocks ≈ 300
 # content tokens — leaves ample headroom for reason fields in large meetings.
-P1_CHUNK_SIZE = 3
+P1_CHUNK_SIZE = SETTINGS.get("p1_chunk_size", 3)
 
 # Phase 2: truncate comment text to this many words before sending.
 # Keeps total prompt well under 8 192 tokens even with the full themes .md.
-P2_MAX_WORDS = 600
+P2_MAX_WORDS = SETTINGS.get("p2_max_words", 600)
+
+TEMPERATURE         = SETTINGS.get("temperature", 0.0)
+P1_MAX_TOKENS       = SETTINGS.get("p1_max_tokens", 1500)
+P1_RETRY_MAX_TOKENS = SETTINGS.get("p1_retry_max_tokens", 300)
+P2_MAX_TOKENS       = SETTINGS.get("p2_max_tokens", 700)
+
+# Prompt files. Kept outside the source so a given output can be traced back to
+# the exact text that produced it; see prompts/README.md.
+P1_PROMPT_FILE = paths.PROMPTS_DIR / "p1_system.txt"
+P2_PROMPT_FILE = paths.PROMPTS_DIR / "p2_system.txt"
 
 # ---------------------------------------------------------------------------
 # JSON Schemas (passed to llama.cpp's grammar-constrained sampler so the model
@@ -104,191 +144,26 @@ P2_SCHEMA: dict = {
 }
 
 # ---------------------------------------------------------------------------
-# Model registry
-# RTX A2000 12 GB VRAM — every model should fit with n_gpu_layers=-1
-# except where noted.
-# ---------------------------------------------------------------------------
-MODELS: dict[str, dict] = {
-    # ── Qwen 3.5 9B (three quantisation levels for ablation) ─────────────
-    # Weights + KV cache at 16384 ctx (float16): q4≈7.8 GB, q5≈8.7 GB, q6≈9.9 GB — all fit A2000 12 GB
-    "qwen3.5-9b-q6": {
-        "path":         r"D:\LLM\bartowski\Qwen_Qwen3.5-9B-Q6_K_L.gguf",
-        "no_think":     True,   # prepend /no_think to system prompt
-        "strip_think":  False,
-        "n_ctx":        16384,
-        "n_gpu_layers": -1,
-    },
-    "qwen3.5-9b-q5": {
-        "path":         r"D:\LLM\bartowski\Qwen_Qwen3.5-9B-Q5_K_M.gguf",
-        "no_think":     True,
-        "strip_think":  False,
-        "n_ctx":        16384,
-        "n_gpu_layers": -1,
-    },
-    "qwen3.5-9b-q4": {
-        "path":         r"D:\LLM\bartowski\Qwen_Qwen3.5-9B-Q4_K_M.gguf",
-        "no_think":     True,
-        "strip_think":  False,
-        "n_ctx":        16384,
-        "n_gpu_layers": -1,
-    },
-    # Weights 8.9 GB + KV ~2.3 GB ≈ 11.2 GB — tight on A2000 12 GB; watch for OOM
-    "qwen3.5-9b-q8": {
-        "path":         r"D:\LLM\daniloreddy\Qwen3.5-9B_Q8_0.gguf",
-        "no_think":     True,
-        "strip_think":  False,
-        "n_ctx":        16384,
-        "n_gpu_layers": -1,
-    },
-    # ── DeepSeek R1 Qwen distills (thinking models — strip <think> tags) ──
-    "deepseek-r1-7b": {
-        "path":         r"D:\LLM\bartowski\DeepSeek-R1-Distill-Qwen-7B-Q6_K_L.gguf",
-        "no_think":     False,
-        "strip_think":  True,   # remove <think>…</think> before JSON parse
-        "n_ctx":        16384,
-        "n_gpu_layers": -1,
-    },
-    # Weights 8.4 GB + KV ~3.2 GB ≈ 11.6 GB — risky on A2000 12 GB; may OOM
-    "deepseek-r1-14b": {
-        "path":         r"D:\LLM\bartowski\DeepSeek-R1-Distill-Qwen-14B-Q4_K_M.gguf",
-        "no_think":     False,
-        "strip_think":  True,
-        "n_ctx":        16384,
-        "n_gpu_layers": -1,
-    },
-    # Weights 8.3 GB + KV ~2.7 GB ≈ 11.0 GB — tight on A2000 12 GB; watch for OOM
-    "phi-4": {
-        "path":         r"D:\LLM\unsloth\phi-4-Q4_K_M.gguf",
-        "no_think":     False,
-        "strip_think":  False,
-        "n_ctx":        16384,
-        "n_gpu_layers": -1,
-    },
-    # ── Gemma 4 4B effective (MoE) ────────────────────────────────────────
-    # Weights 8.2 GB + small KV (low active-layer count) ≈ 9.7 GB — fits A2000 12 GB
-    "gemma-4-4b": {
-        "path":         r"D:\LLM\unsloth\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
-        "no_think":     False,
-        "strip_think":  False,
-        "n_ctx":        16384,
-        "n_gpu_layers": -1,
-    },
-    # ── Llama 4 Scout — NOT RUNNABLE on A2000 12 GB ───────────────────────
-    # "17B-16E" refers to 17B *active* parameters per token (MoE); total weights are
-    # ~109B, quantised to ~59 GB across two GGUF files. Run on the remote 80 GB card.
-    # llama_cpp auto-loads part 2 when given the path to part 1.
-    "llama-4-scout": {
-        "backend":      "llama_cpp",
-        "path":         r"D:\LLM\unsloth\Llama-4-Scout-17B-16E-Instruct-UD-Q4_K_XL-00001-of-00002.gguf",
-        "no_think":     False,
-        "strip_think":  False,
-        "n_ctx":        16384,
-        "n_gpu_layers": -1,
-    },
-    # ── Ministral 8B GGUF (mistralai/Ministral-3-8B-Instruct-2512, Q8_0) ──
-    # Weights 8.5 GB + KV ~2.2 GB ≈ 10.7 GB — fits A2000 12 GB
-    "ministral-8b": {
-        "backend":      "llama_cpp",
-        "path":         r"D:\LLM\Ministral\Ministral-3-8B-Instruct-2512-Q8_0.gguf",
-        "no_think":     False,
-        "strip_think":  False,
-        "n_ctx":        16384,
-        "n_gpu_layers": -1,
-    },
-    # ── Ministral 8B native (mistralai/Ministral-3-8B-Instruct-2512, safetensors) ──
-    # consolidated.safetensors ~9.8 GB. Requires HuggingFace transformers.
-    "ministral-8b-hf": {
-        "backend":      "transformers",
-        "path":         r"D:\LLM\Ministral\consolidated.safetensors",
-        "no_think":     False,
-        "strip_think":  False,
-        "n_ctx":        16384,
-        "n_gpu_layers": -1,
-    },
-    # ── Gemma 4 31B — NOT RUNNABLE on A2000 12 GB ─────────────────────────
-    # google/gemma-4-31B-it, bfloat16 safetensors (~59 GB). Run on the remote 80 GB card.
-    # Requires HuggingFace transformers — NOT compatible with this script's llama_cpp
-    # backend. Path points to the model directory, not a single file.
-    "gemma-4-31b": {
-        "backend":      "transformers",
-        "path":         r"D:\LLM\google",
-        "no_think":     False,
-        "strip_think":  False,
-        "n_ctx":        16384,
-        "n_gpu_layers": -1,
-    },
-    # ── Llama 3.1 8B NVFP4 (nvidia/Llama-3.1-8B-Instruct-NVFP4) ──────────
-    # NVIDIA's proprietary FP4 quantisation (~5.7 GB). Requires TensorRT-LLM or
-    # vLLM with NVFP4 support — NOT loadable by llama_cpp. Path points to the
-    # model directory, not a single file.
-    "llama-3.1-nvfp4": {
-        "backend":      "transformers",
-        "path":         r"D:\LLM\nvidia",
-        "no_think":     False,
-        "strip_think":  False,
-        "n_ctx":        16384,
-        "n_gpu_layers": -1,
-    },
-}
-
-# ---------------------------------------------------------------------------
 # System prompts
+#
+# Loaded from prompts/*.txt rather than defined here, so that the SHA-256 of
+# the file that produced any given output can be recorded alongside it.
 # ---------------------------------------------------------------------------
-P1_SYSTEM = """\
-You are analyzing transcripts of Lancaster, PA city council meetings.
 
-Each meeting has a public comment period where community members address the council.
-You will receive ALL speech blocks from the meeting, each tagged with a diarization category:
-  - "recurring"           — speaker appeared frequently in this meeting
-  - "commenter_candidate" — speaker appeared rarely in this meeting
 
-IMPORTANT: these categories are unreliable signals and must not be used as a hard filter.
-Civically active residents often speak in multiple meetings and multiple times per meeting,
-causing them to be classified as "recurring" even though they are genuine public commenters.
-Diarization also sometimes captures a few words of an adjacent speaker (e.g. a council member
-calling the next commenter) at the start or end of a block, which can distort category
-assignment. Use the category as a weak hint only — rely primarily on the text content.
+def load_prompt(path: Path) -> str:
+    return path.read_text(encoding="utf-8")
 
-A block is NOT a public comment if the speaker is:
-  - A council member, mayor, city clerk, or staff member conducting official business
-  - Reading a vote roll call or meeting minutes
-  - A presenter, expert witness, or attorney speaking at the council's invitation
-  - Making a brief procedural statement (seconds, quorum calls, etc.)
 
-A block IS a genuine public comment if the speaker:
-  - Identifies themselves as a resident, community member, business owner, or local stakeholder
-  - Expresses an opinion, concern, question, or position on a city decision
-  - Is speaking during the public comment period (not during council discussion or a vote)
+def build_p2_system(themes_content: str) -> str:
+    """Substitute the theme definitions into the phase 2 prompt.
 
-Respond only with valid JSON and no other text.\
-"""
+    Plain replacement, not str.format: the prompt contains a literal JSON
+    example, and requiring every brace in it to be doubled is a trap for
+    anyone editing the prompt file.
+    """
+    return load_prompt(P2_PROMPT_FILE).replace("{themes_content}", themes_content)
 
-P2_SYSTEM_TEMPLATE = """\
-You are scoring public comments from Lancaster, PA city council meetings against
-four themes identified by human researchers through qualitative analysis.
-
-Score each comment on all four themes from 0.0 (not relevant) to 1.0 (directly on-theme).
-Comments may score highly on multiple themes. Be calibrated — most comments will score
-0.0 or near 0.0 on most themes. Do not inflate scores.
-
-Analytical stance: do not judge whether the speaker's claims are factually accurate.
-Treat each comment as a situated narrative — score how strongly it engages with each
-theme regardless of factual accuracy.
-
---- HUMAN-IDENTIFIED THEME DEFINITIONS ---
-{themes_content}
---- END THEME DEFINITIONS ---
-
-Respond only with valid JSON matching this exact structure (no extra keys):
-{{
-  "themes": {{
-    "municipally_managed_resources": {{"score": <float 0.0-1.0>, "reasoning": "<1-2 sentences>"}},
-    "municipal_process":             {{"score": <float 0.0-1.0>, "reasoning": "<1-2 sentences>"}},
-    "health_and_well_being":         {{"score": <float 0.0-1.0>, "reasoning": "<1-2 sentences>"}},
-    "power_dynamics_and_inequality": {{"score": <float 0.0-1.0>, "reasoning": "<1-2 sentences>"}}
-  }}
-}}\
-"""
 
 # ---------------------------------------------------------------------------
 # Helpers
@@ -325,7 +200,7 @@ def call_llm(llm: Llama, system: str, user: str, max_tokens: int,
             {"role": "system", "content": system},
             {"role": "user",   "content": user},
         ],
-        temperature=0.0,
+        temperature=TEMPERATURE,
         max_tokens=max_tokens,
         response_format=response_format,
     )
@@ -393,7 +268,7 @@ def _p1_retry_user_msg(block: dict, meeting_title: str) -> str:
 def classify_p1_chunk(llm: Llama, blocks: list[dict], meeting_title: str,
                       system: str, strip_think: bool) -> tuple[list[dict], int]:
     raw = call_llm(llm, system, _p1_user_msg(blocks, meeting_title),
-                   max_tokens=1500, strip_think=strip_think, schema=P1_SCHEMA)
+                   max_tokens=P1_MAX_TOKENS, strip_think=strip_think, schema=P1_SCHEMA)
     if raw is not None:
         parsed = parse_json_safe(raw, f"P1 chunk from {meeting_title}")
         if parsed is not None and "public_comments" in parsed:
@@ -409,7 +284,7 @@ def classify_p1_chunk(llm: Llama, blocks: list[dict], meeting_title: str,
     n_still_failed = 0
     for block in blocks:
         retry_raw = call_llm(llm, system, _p1_retry_user_msg(block, meeting_title),
-                             max_tokens=300, strip_think=strip_think, schema=P1_SCHEMA)
+                             max_tokens=P1_RETRY_MAX_TOKENS, strip_think=strip_think, schema=P1_SCHEMA)
         if retry_raw is None:
             n_still_failed += 1
             continue
@@ -422,13 +297,24 @@ def classify_p1_chunk(llm: Llama, blocks: list[dict], meeting_title: str,
     return recovered, (1 if n_still_failed > 0 else 0)
 
 
-def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str) -> None:
-    system        = build_system(P1_SYSTEM, model_cfg["no_think"])
+def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str,
+               model_path: Path, limit: int | None = None) -> None:
+    system        = build_system(load_prompt(P1_PROMPT_FILE), model_cfg["no_think"])
     meeting_files = sorted(glob(os.path.join(COMMENTS_DIR, "*.json")))
     total_start   = time.perf_counter()
     n_done = n_skipped = n_errors = 0
 
-    print(f"\n[{now_str()}] Phase 1 starting: {len(meeting_files)} meeting files")
+    prov = provenance.build_provenance(
+        model_name=model_name, model_cfg=model_cfg, model_path=model_path,
+        prompt_file=P1_PROMPT_FILE, rendered_system=system, settings=SETTINGS,
+    )
+
+    if limit is not None:
+        meeting_files = meeting_files[:limit]
+        print(f"\n[{now_str()}] Phase 1 starting: {len(meeting_files)} meeting files "
+              f"(--limit {limit})")
+    else:
+        print(f"\n[{now_str()}] Phase 1 starting: {len(meeting_files)} meeting files")
 
     for path in meeting_files:
         out_path = os.path.join(out_dir, os.path.basename(path))
@@ -498,6 +384,7 @@ def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str) -> No
             "upload_date":     data.get("upload_date"),
             "model":           model_name,
             "n_chunk_errors":  n_chunk_errors,
+            "provenance":      prov,
             "public_comments": public_comments,
         }
         with open(out_path, "w", encoding="utf-8") as f:
@@ -539,7 +426,7 @@ def score_comment_themes(llm: Llama, comment_text: str, meeting_title: str,
                 f"Public comment text:\n\"{text}\"\n\n"
                 "Score this comment against all four themes."
             )
-        raw = call_llm(llm, system, user_msg, max_tokens=700,
+        raw = call_llm(llm, system, user_msg, max_tokens=P2_MAX_TOKENS,
                        strip_think=strip_think, schema=P2_SCHEMA)
         if raw is None:
             return None
@@ -563,10 +450,11 @@ def score_comment_themes(llm: Llama, comment_text: str, meeting_title: str,
 
 
 def run_phase2(llm: Llama, model_cfg: dict, model_name: str,
-               p1_dir: str, out_dir: str) -> None:
+               p1_dir: str, out_dir: str, model_path: Path,
+               limit: int | None = None) -> None:
     themes_content = load_themes_md()
     system = build_system(
-        P2_SYSTEM_TEMPLATE.format(themes_content=themes_content),
+        build_p2_system(themes_content),
         model_cfg["no_think"],
     )
 
@@ -578,7 +466,20 @@ def run_phase2(llm: Llama, model_cfg: dict, model_name: str,
         print(f"  No Phase 1 output found in {p1_dir} — run Phase 1 first.")
         return
 
-    print(f"\n[{now_str()}] Phase 2 starting: {len(p1_files)} meetings with Phase 1 output")
+    # The theme definitions are part of the phase 2 prompt, so their hash is
+    # recorded too: editing that .md changes the prompt without changing any code.
+    prov = provenance.build_provenance(
+        model_name=model_name, model_cfg=model_cfg, model_path=model_path,
+        prompt_file=P2_PROMPT_FILE, rendered_system=system, settings=SETTINGS,
+        extra_files={"themes_md": paths.THEMES_MD_PATH},
+    )
+
+    if limit is not None:
+        p1_files = p1_files[:limit]
+        print(f"\n[{now_str()}] Phase 2 starting: {len(p1_files)} meetings with "
+              f"Phase 1 output (--limit {limit})")
+    else:
+        print(f"\n[{now_str()}] Phase 2 starting: {len(p1_files)} meetings with Phase 1 output")
 
     for path in p1_files:
         out_path = os.path.join(out_dir, os.path.basename(path))
@@ -636,6 +537,7 @@ def run_phase2(llm: Llama, model_cfg: dict, model_name: str,
             "upload_date":        data.get("upload_date"),
             "model":              model_name,
             "n_failed_comments":  n_failed,
+            "provenance":         prov,
             "theme_scores":       theme_scores,
         }
         with open(out_path, "w", encoding="utf-8") as f:
@@ -654,19 +556,31 @@ def run_phase2(llm: Llama, model_cfg: dict, model_name: str,
 # Pre-flight
 # ---------------------------------------------------------------------------
 
-def run_preflight(model_cfg: dict, phase: str) -> bool:
+def run_preflight(model_cfg: dict, phase: str, model_path: Path) -> bool:
     """Validate environment before loading the model. Returns False on any
     hard failure so main() can bail before the slow model load."""
     import subprocess
     print(f"[{now_str()}] Pre-flight checks")
     ok = True
 
-    path = model_cfg["path"]
-    if not os.path.exists(path):
-        print(f"  FAIL: model file not found: {path}")
+    if not model_path.exists():
+        print(f"  FAIL: model file not found: {model_path}")
         ok = False
     else:
-        print(f"  OK   model file ({os.path.getsize(path) / 1e9:.2f} GB)")
+        print(f"  OK   model file ({model_path.stat().st_size / 1e9:.2f} GB)")
+
+    for label, prompt_file in (("phase 1 prompt", P1_PROMPT_FILE),
+                               ("phase 2 prompt", P2_PROMPT_FILE)):
+        needed = (phase in ("1", "both")) if label.endswith("1 prompt") else \
+                 (phase in ("2", "both"))
+        if not needed:
+            continue
+        if not prompt_file.exists():
+            print(f"  FAIL: {label} missing: {prompt_file}")
+            ok = False
+        else:
+            sha = provenance.sha256_text(prompt_file.read_text(encoding="utf-8"))
+            print(f"  OK   {label} ({prompt_file.name}, sha {sha[:12]})")
 
     if not os.path.isdir(COMMENTS_DIR):
         print(f"  FAIL: comments directory missing: {COMMENTS_DIR}")
@@ -714,15 +628,27 @@ def main() -> None:
     parser.add_argument("--list",  action="store_true", help="Print available models and exit")
     parser.add_argument("--phase", choices=["1", "2", "both"], default="both",
                         help="Which phase to run (default: both)")
+    parser.add_argument("--limit", type=int, metavar="N",
+                        help="Process at most N meetings per phase. For smoke-testing "
+                             "a config change without committing to a multi-hour run.")
+    parser.add_argument("--dry-run", action="store_true",
+                        help="Resolve paths, validate config and prompts, and report what "
+                             "would run -- without loading the model or writing anything.")
     args = parser.parse_args()
 
     if args.list:
+        root = paths.models_root(required=False)
+        print(f"HODL_MODELS_ROOT = {root if root else '(not set -- cannot check files)'}")
         print("Available models:")
         for name, cfg in MODELS.items():
-            exists  = "ok" if os.path.exists(cfg["path"]) else "NOT FOUND"
+            mp = paths.resolve_model_path(cfg["path"], required=False)
+            if mp is None:
+                exists = "unknown"
+            else:
+                exists = "ok" if mp.exists() else "NOT FOUND"
             backend = cfg.get("backend", "llama_cpp")
             flag    = "" if backend == "llama_cpp" else f"  [{backend} — not runnable here]"
-            print(f"  {name:<22} {exists}  {os.path.basename(cfg['path'])}{flag}")
+            print(f"  {name:<22} {exists:<9}  {cfg['path']}{flag}")
         return
 
     if not args.model:
@@ -731,6 +657,9 @@ def main() -> None:
     if args.model not in MODELS:
         print(f"Unknown model '{args.model}'. Run with --list to see options.")
         return
+
+    if args.limit is not None and args.limit < 1:
+        parser.error("--limit must be at least 1")
 
     model_cfg  = MODELS[args.model]
     model_name = args.model
@@ -744,19 +673,47 @@ def main() -> None:
             print("  Load with: TensorRT-LLM or vLLM with NVFP4 support")
         return
 
-    if not run_preflight(model_cfg, args.phase):
-        print("Aborting before model load.")
-        return
+    # required=False so a --dry-run on a machine without HODL_MODELS_ROOT still
+    # reports every other problem instead of stopping at the first one.
+    model_path = paths.resolve_model_path(model_cfg["path"], required=not args.dry_run)
 
     p1_dir = os.path.join(OUTPUTS_ROOT, model_name, "phase1_public_comments")
     p2_dir = os.path.join(OUTPUTS_ROOT, model_name, "phase2_theme_scores")
+
+    if args.dry_run:
+        print(f"[{now_str()}] DRY RUN -- nothing will be loaded or written\n")
+        print(f"  model         {model_name}  ({backend})")
+        print(f"  model path    {model_path if model_path else '(HODL_MODELS_ROOT not set)'}")
+        print(f"  comments dir  {COMMENTS_DIR}")
+        print(f"  themes md     {THEMES_MD_PATH}")
+        print(f"  phase 1 out   {p1_dir}")
+        print(f"  phase 2 out   {p2_dir}")
+        print(f"  settings      {SETTINGS}")
+
+        n_meetings = len(sorted(glob(os.path.join(COMMENTS_DIR, "*.json"))))
+        n_planned  = min(n_meetings, args.limit) if args.limit else n_meetings
+        print(f"\n  {n_meetings} meeting files found; "
+              f"{n_planned} would be considered for phase {args.phase}")
+        print("  (per-meeting SKIP/REDO resume logic is not evaluated in a dry run)\n")
+
+        ok = run_preflight(model_cfg, args.phase,
+                           model_path or Path("(unset)"))
+        print("\nDry run OK." if ok else "\nDry run found problems (above).")
+        return
+
+    if not run_preflight(model_cfg, args.phase, model_path):
+        print("Aborting before model load.")
+        return
+
     os.makedirs(p1_dir, exist_ok=True)
     os.makedirs(p2_dir, exist_ok=True)
 
-    print(f"[{now_str()}] Loading model: {model_cfg['path']}")
+    from llama_cpp import Llama          # deferred: initialising CUDA is slow
+
+    print(f"[{now_str()}] Loading model: {model_path}")
     t0  = time.perf_counter()
     llm = Llama(
-        model_path=model_cfg["path"],
+        model_path=str(model_path),
         n_ctx=model_cfg["n_ctx"],
         n_gpu_layers=model_cfg["n_gpu_layers"],
         verbose=False,
@@ -764,10 +721,10 @@ def main() -> None:
     print(f"  Loaded in {fmt_elapsed(time.perf_counter() - t0)}")
 
     if args.phase in ("1", "both"):
-        run_phase1(llm, model_cfg, model_name, p1_dir)
+        run_phase1(llm, model_cfg, model_name, p1_dir, model_path, args.limit)
 
     if args.phase in ("2", "both"):
-        run_phase2(llm, model_cfg, model_name, p1_dir, p2_dir)
+        run_phase2(llm, model_cfg, model_name, p1_dir, p2_dir, model_path, args.limit)
 
     print("\nDone.")
 
