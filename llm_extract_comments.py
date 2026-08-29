@@ -20,10 +20,14 @@ import os
 from tqdm import tqdm
 from llama_cpp import Llama
 
-MODEL_PATH          = r"D:\LLM\bartowski\Qwen_Qwen3.5-9B-Q6_K_L.gguf"
-COMMENTS_DIR        = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\comments"
-PUBLIC_COMMENTS_DIR = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\bartowski\Qwen_Qwen3.5-9B-Q6_K_L\public_comments"
-ANALYSIS_PATH       = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\bartowski\Qwen_Qwen3.5-9B-Q6_K_L\topic_analysis.json"
+import paths
+
+# Model weights are machine-specific; see paths.py and HODL_MODELS_ROOT.
+MODEL_PATH          = str(paths.resolve_model_path("bartowski/Qwen_Qwen3.5-9B-Q6_K_L.gguf"))
+COMMENTS_DIR        = str(paths.COMMENTS_DIR)
+_OUT_DIR            = paths.DOWNLOADS_DIR / "bartowski" / "Qwen_Qwen3.5-9B-Q6_K_L"
+PUBLIC_COMMENTS_DIR = str(_OUT_DIR / "public_comments")
+ANALYSIS_PATH       = str(_OUT_DIR / "topic_analysis.json")
 
 N_CTX        = 16384
 CHUNK_SIZE   = 50    # blocks per LLM call — keeps each call well within context

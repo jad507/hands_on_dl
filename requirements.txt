@@ -17,6 +17,26 @@ requests
 tqdm
 pydantic
 Pillow
+pyyaml            # models.yaml registry, loaded by llm_classify_human_themes.py
 pyannote.audio>=4.0
 faster-whisper
 soundfile
+
+# --- llama-cpp-python: install manually, NOT from this file ---------------------
+# `from llama_cpp import Llama` is imported by llm_classify_human_themes.py,
+# llm_extract_comments.py and chunk_token_histogram.py, so this package is
+# required -- but it deliberately has no bare entry above.
+#
+# The PyPI source distribution compiles against whatever CUDA it finds. A
+# CPU-only build wearing a CUDA label is a documented failure mode here: it
+# raises no error, it just runs ~100x slower. Install the prebuilt wheel that
+# matches this machine's CUDA and Python version instead:
+#   Windows / Linux: https://github.com/JamePeng/llama-cpp-python/releases
+#
+# Verified working on this machine (2026-08-28):
+#   llama-cpp-python 0.3.24, Python 3.12.6, torch 2.11.0+cu128,
+#   NVIDIA RTX A2000 12GB (Ampere, sm_86)
+#   llama_cpp.llama_supports_gpu_offload() -> True
+#
+# After installing, always confirm GPU offload before a long run:
+#   python -c "import llama_cpp; print(llama_cpp.llama_supports_gpu_offload())"
