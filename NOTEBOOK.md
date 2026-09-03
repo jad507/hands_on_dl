@@ -12,6 +12,102 @@ Companion: `RESULTS.md`, one row per experiment, for finding a number fast.
 
 ---
 
+## 2026-09-03 (later) — CAPITALS, not asterisks: Concord silently merges sentences
+
+**Commit:** 475cd80
+**Ran:**
+```
+node tools/concord_marker_probe.mjs
+python -m pytest tests/ -q                       # 110 passing
+python AITranscribe/transcribe2/doctor.py
+python -m pytest AITranscribe/transcribe2/test_pipeline.py -q
+pip install --no-deps praat-parselmouth
+pip install --upgrade "transformers>=5.10.1"     # 5.5.0 -> 5.16.1
+```
+
+**Result:**
+
+1. **ISLS doc 06's open question is answered, and half its suggestion is wrong.**
+   The doc proposes prominence notation for policy P5 and says "capitals for
+   stress or asterisks (`*money*`); test which survives tokenization". Both
+   survive `stripTags()`. Only capitals survive **unitization**.
+
+   `splitSentences()` splits after `.!?` only when the next non-whitespace
+   character is `\p{Lu}` or a digit, looking one character further past a quote
+   or an opening bracket. An asterisk is none of those, so:
+
+   | notation | survives ingest | preserves unit boundaries |
+   |---|---|---|
+   | CAPITALS | yes | **yes** |
+   | `[square]` | yes | **yes** |
+   | `"quote"` | yes | **yes** |
+   | `*asterisk*` | yes | **no** |
+   | `**double**`, `_under_`, `^caret^`, `{curly}`, `|pipe|` | yes | **no** |
+   | `<em>angle</em>` | **no** (silently stripped) | n/a |
+
+   "He denied it. *Money* was the issue." becomes **one** unit, not two. That
+   changes N, changes every content-hashed unit id, and changes the question the
+   judge is asked, while looking like it worked. For a design whose thesis is
+   that unit boundaries are load-bearing, that is disqualifying.
+
+2. **Unit ids do change when the policy changes**, demonstrated rather than
+   assumed: `u_7ca821c35c74adfb` plain vs `u_10d1e18e7506105e` with CAPITALS.
+   Confirms doc 03 finding 3 and the requirement that cross-condition joins go
+   through time anchors. `blockmatch.py` is that join.
+
+3. **transcribe2 runs on this machine.** Its own suite is 45 passed, 8 subtests.
+   `doctor.py` is now green on all five capabilities. Two installs got it there:
+   `praat-parselmouth` 0.4.7 (unblocks F0, so the Tier-2 prosody path in doc 06
+   is available) and `transformers` 5.5.0 to 5.16.1 (unblocks Gemma 4 audio).
+
+4. **The transformers upgrade was the cheap path, as status doc section 2
+   predicted.** `pip install --dry-run` showed it touching exactly three
+   packages -- transformers, tokenizers, safetensors -- and not torch, peft or
+   trl. Ran it, then re-ran both suites: hands_on_dl 110 passed, transcribe2 45
+   passed, `llama_cpp.llama_supports_gpu_offload()` still True. No second
+   environment was needed and none was created.
+
+5. `doctor.py`'s `HF_TOKEN unset` warning is a false alarm: it does not read
+   `.env`. Loaded via `load_env.ps1` the token is present and well-formed.
+
+**Surprised by:** that the asterisk failure is a *unitization* failure rather
+than a stripping one. I expected the answer to be decided by `stripTags` and it
+was not -- asterisks pass that test cleanly. The thing that disqualifies them is
+two modules downstream, produces no error, and would have been invisible until
+somebody noticed the unit count was wrong. Doc 06 guessed the right question and
+the wrong hazard.
+
+Also surprised the transformers jump landed on 5.16.1 rather than 5.10.x, and
+that nothing broke. The plan's original second-environment recommendation was
+insurance against a risk that had already been retired.
+
+**Decided:**
+- **Policy P5 uses CAPITALS.** Square brackets are the fallback if capitals turn
+  out to interact badly with a judge prompt. Not asterisks, not underscores.
+- Pin the whole table in `tests/test_concord_markers.py`, driving Concord's real
+  modules rather than reimplementing its tokenizer, so the finding tracks the
+  dependency instead of a snapshot of it.
+- Upgrade in place rather than build a second environment. Snapshots kept either
+  side: `env-snapshot-2026-09-03-pip.txt` and `-post-upgrade-pip.txt`.
+- Did **not** install librosa: parselmouth covers F0 and librosa is only the
+  fallback, with a much larger dependency surface.
+
+**Next:** the gemma re-run is at 17/81. When it lands, `compare_corpus_runs.py`
+gives the full noise floor. After that the GPU is free for the direct
+chunk-framing experiment: one meeting at `p1_chunk_size` 1, 3 and 5, plus
+deliberate offsets, which is the clean version of the effect rather than the
+natural experiment.
+
+**Open question:** the notation choice is itself a transcription decision, which
+doc 06 notes is "pleasingly recursive". But there is a real empirical question
+under it: does an LLM judge given `MONEY` actually read it as prosodic emphasis,
+or as shouting, or ignore it? Doc 06's proposed control is right -- give the
+model the *wrong* prominence annotation and see whether it produces the meaning
+that annotation implies. That needs no new corpus and is a good use of the GPU
+once it is free.
+
+---
+
 ## 2026-09-03 — Chunk framing, not diarization, drives phase-1 instability
 
 **Commit:** 26ebd2b (work uncommitted at time of writing)

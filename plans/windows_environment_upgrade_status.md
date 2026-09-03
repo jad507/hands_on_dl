@@ -10,7 +10,50 @@ claimed in a paper. Those come first.
 
 ---
 
-## 1. The orphaned analysis artifacts do not exist. The agreement numbers must be recomputed.
+## 1. SUPERSEDED 2026-09-03 -- the artifacts were found, and the numbers reproduce exactly
+
+**Read this box before the section below it.** The section is left unedited as
+the record of what was believed on 2026-08-28, because the reasoning that
+produced a wrong conclusion is worth keeping. But its conclusion is wrong.
+
+The search it describes was thorough and correct *for this machine*. What it
+could not check was the one place the files actually were: `AITranscribe`, which
+was not on this machine on 2026-08-28 and had no remote to clone from. It is
+here now, and `AITranscribe/hands_on_dl/` is a snapshot of this repository dated
+2026-07-17 -- the tree the ISLS audit was run against.
+
+| File the audit cites | Verdict 2026-08-28 | Verdict 2026-09-03 |
+|---|---|---|
+| `compare_model_agreement.py` | gone | **found** in the snapshot; recovered |
+| `plans/roar_plan.md` | gone | **found** in the snapshot; recovered |
+| `core5_model_agreement_report.md` | gone | regenerated (it was derived output) |
+| `downloads/agreement_analysis/contested_blocks.csv` | gone | regenerated |
+| `downloads/agreement_analysis/core5_contested_blocks.csv` | gone | regenerated |
+
+Re-running the recovered script against the committed corpus reproduces every
+figure the audit quotes, to the digit: 3,263 blocks flagged by at least one
+model, 785 unanimous (24.1%), 1,719 majority-agreed (52.7%), 2,478 contested
+(75.9%), cross-family pairwise Jaccard 0.372-0.554, and 0.840 for
+`qwen3.5-9b-q6` vs `qwen3.5-9b-q8`.
+
+So the numbers were never unsupported, and the "order of operations step 1 is
+dead" conclusion below does not follow. The advice this section gives about the
+0.840 figure -- that it is a same-model-two-quantisations self-consistency
+measurement and should not be framed as inter-model agreement -- was right, and
+is now enforced in the code: `compare_model_agreement.py` reports cross-model
+and within-family pairs in separate tables.
+
+One thing the recovery does not change: section 3's finding stands, and the
+regenerated numbers above come from the **June 2026 corpus**, not from a fresh
+run. See section 3 and `NOTEBOOK.md` for what that licenses.
+
+The general lesson is worth stating because it will recur: "absent from this
+machine" and "does not exist" are different claims, and this document collapsed
+them at ~95% confidence. The estimate was reasonable and wrong.
+
+---
+
+## 1a. (2026-08-28, as written) The orphaned analysis artifacts do not exist. The agreement numbers must be recomputed.
 
 The plan's section 1 gave roughly 90 percent odds that five files were sitting uncommitted on
 this machine, and ~5 percent that they were gone. It is the 5 percent case.
@@ -241,3 +284,56 @@ teaching notebooks; `text eol=lf` is a no-op instead, because they are already s
    run, per section 6.1 of the plan.
 6. Concord walkthrough and the human coding it unblocks -- no GPU needed, can proceed in
    parallel with everything else.
+
+---
+
+## 9. Status of section 8's order, as of 2026-09-03
+
+| # | Item from section 8 | Status |
+|---|---|---|
+| 1 | Determine whether the five artifacts exist anywhere | **Done.** They do. Two recovered from the `AITranscribe/hands_on_dl` snapshot, three regenerated. See section 1. |
+| 2 | Decide how to handle the reproducibility finding | **In progress.** Took the "re-run one model across the corpus and size it" path rather than the "regenerate everything first" path. `run_repro_check.ps1` runs it into a scratch output root; `compare_corpus_runs.py` diffs the result. See below for why the answer matters more than expected. |
+| 3 | Push `AITranscribe` somewhere | **Moot here.** It is on this machine now, with its own git history. Whether it has a remote is a question for the Linux workstation. |
+| 4 | Commit the work described in this document | **Done**, commits `2399602` through `26ebd2b`. |
+| 5 | Give `audio_pipeline/transcribe.py` the same provenance treatment | **Done.** `whisper_io.py` records the section 6.1 tuple into every new transcript. The 78 existing bare-list transcripts load unchanged; both schemas are supported because provenance cannot be added retroactively and re-transcribing to obtain it would destroy the thing being preserved. |
+| 6 | Concord walkthrough and the human coding it unblocks | **Not started.** Still the right parallel track; needs no GPU. |
+
+### Why item 2's answer now matters more than it did
+
+Section 3 framed run-to-run non-determinism as a threat to citing the corpus.
+It is that, but it is also the **noise floor** against which this project's
+first real finding has to be read.
+
+`compare_diarization_variants.py` shows that a block whose text is
+byte-identical across two runs is classified differently 12-17% of the time when
+the 3-block batching window it was judged inside is composed differently, and
+0.2-1.3% of the time when it is not. The second number is run-to-run
+non-determinism -- the same effect section 3 found, measured at scale for the
+first time.
+
+That separation is the whole argument. If the noise floor were comparable to the
+chunk effect, the two could not be told apart and neither could be claimed. At
+roughly 20-40x apart they can. The full corpus re-run is what turns the
+partial estimate into the number that goes in the paper, which is why item 2 is
+no longer housekeeping.
+
+### One thing section 8 did not list, found since
+
+`audit_corpus.py` resolves the 81-versus-78 discrepancy noted in section 4, and
+the answer is worse than a miscount. 81 files, 3 never coded by any model,
+giving 78. Of those 78, **two are stale files in the superseded
+`commenter_blocks` schema** that shadow meetings already present as
+`_standard`/`_exclusive` pairs. `get_blocks()` falls back to `commenter_blocks`
+without comment, so every model coded them -- against a pre-filtered 31-block
+input instead of the full 243-block meeting, which is exactly the pre-filtering
+`llm_classify_human_themes.py`'s own comment warns against.
+
+Distinct meetings is **53, not the 55** the ISLS audit states, and the real
+coded corpus is 76 files over 50 meetings. `tests/test_corpus_integrity.py` pins
+all of this so a third stale file fails a test rather than quietly changing a
+count.
+
+Decision deferred deliberately: the two stale files have **not** been deleted or
+quarantined. Removing them changes every corpus-level number already computed,
+and that should be one deliberate act with a notebook entry, not a side effect of
+a cleanup.
