@@ -18,6 +18,11 @@ Every row must carry the commit and enough config to re-run it.
 | 2026-09-03 | 26ebd2b | Cross-model pairwise Jaccard | core 5, macro-averaged over meetings | 78 meetings | **0.372-0.554** |
 | 2026-09-03 | 26ebd2b | Quantisation stability (NOT agreement) | qwen3.5-9b q6 vs q8 | 78 meetings | Jaccard **0.840**, alpha 0.908 — same model, two quantisations |
 | 2026-09-03 | 26ebd2b | Run-to-run noise floor, partial | gemma-4-4b, phase 1, re-run vs committed corpus | 4 of 81 meetings, 974 blocks | **0.41%** of blocks changed; Jaccard 0.962 — *incomplete, see NOTEBOOK* |
+| 2026-09-03 | d40ddea | Concord unit-count drift by scheme | 81 meetings exported as VTT, `maxMergeGapSeconds=-1` | 10,069 blocks | turn scheme N=**10,069**; sentence scheme N=**20,468** (**2.03x**); per-meeting ratio 1.00-**225** |
+| 2026-09-03 | d40ddea | Concord round-trip fidelity | `export_vtt.py --verify` | 81 meetings / 10,069 cues | **81/81** preserve turn count exactly; 0 parse issues; 0 cues without a speaker |
+| 2026-09-03 | d40ddea | Turns silently lost at Concord's default | same export, `maxMergeGapSeconds=30` | 81 meetings | **11 turns fused** (10,069 -> 10,058) |
+| 2026-09-03 | d40ddea | Emphasis notation survival in Concord | `tools/concord_marker_probe.mjs` | 10 notations | CAPITALS / `[sq]` / `"q"` safe; `*ast*` `_und_` `^car^` `{cur}` `\|pip\|` **move unit boundaries**; `<angle>` silently stripped |
+| 2026-09-03 | 26ebd2b | Chunk effect directionality (exogenous control) | pyannote `category` as neighbour measure | n=258 | **47.7% concordant, z=-0.75** — no directional effect detected |
 | 2026-09-03 | 26ebd2b | Corpus integrity | `audit_corpus.py` | 81 files | 3 uncoded, **2 stale pre-filtered duplicates**, 53 distinct meetings |
 | 2026-08-28 | 26ebd2b | Reproducibility spot check | gemma-4-4b, 1 meeting, same model file and prompt | 1 meeting | committed corpus 5 comments, re-run **4** |
 

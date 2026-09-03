@@ -1,0 +1,4046 @@
+{
+  "source": "City Council Committee Meeting - November 3, 2025 [nE5HiAtqwpA].json",
+  "title": "City Council Committee Meeting - November 3, 2025",
+  "video_id": "nE5HiAtqwpA",
+  "rttm_mode": "standard=exclusive",
+  "concord_import": {
+    "scheme": "turn",
+    "maxMergeGapSeconds": -1,
+    "why": "mergeCues tests `gap <= maxMergeGapSeconds`, so 0 still merges adjacent cues. A negative value is the only one that preserves the block spine."
+  },
+  "stats": {
+    "n_blocks": 447,
+    "n_cues": 447,
+    "n_empty_skipped": 0,
+    "n_angle_brackets_escaped": 0,
+    "invalid_speaker_labels": [],
+    "same_speaker_adjacent_pairs": [],
+    "would_merge_at_concord_default_30s": 0,
+    "required_max_merge_gap_seconds": -1
+  },
+  "cues": [
+    {
+      "cue": 1,
+      "block_id": 0,
+      "speaker": "SPEAKER_00",
+      "start": 235.06,
+      "end": 390.2,
+      "category": "recurring",
+      "word_count": 19
+    },
+    {
+      "cue": 2,
+      "block_id": 1,
+      "speaker": "UNKNOWN",
+      "start": 390.84,
+      "end": 394.16,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 3,
+      "block_id": 2,
+      "speaker": "SPEAKER_00",
+      "start": 394.78,
+      "end": 401.6,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 4,
+      "block_id": 3,
+      "speaker": "UNKNOWN",
+      "start": 402.28,
+      "end": 425.55,
+      "category": "recurring",
+      "word_count": 70
+    },
+    {
+      "cue": 5,
+      "block_id": 4,
+      "speaker": "SPEAKER_00",
+      "start": 425.77,
+      "end": 438.27,
+      "category": "recurring",
+      "word_count": 41
+    },
+    {
+      "cue": 6,
+      "block_id": 5,
+      "speaker": "UNKNOWN",
+      "start": 438.27,
+      "end": 462.63,
+      "category": "recurring",
+      "word_count": 65
+    },
+    {
+      "cue": 7,
+      "block_id": 6,
+      "speaker": "SPEAKER_00",
+      "start": 462.63,
+      "end": 484.75,
+      "category": "recurring",
+      "word_count": 50
+    },
+    {
+      "cue": 8,
+      "block_id": 7,
+      "speaker": "UNKNOWN",
+      "start": 484.75,
+      "end": 488.41,
+      "category": "recurring",
+      "word_count": 12
+    },
+    {
+      "cue": 9,
+      "block_id": 8,
+      "speaker": "SPEAKER_00",
+      "start": 490.01,
+      "end": 501.53,
+      "category": "recurring",
+      "word_count": 23
+    },
+    {
+      "cue": 10,
+      "block_id": 9,
+      "speaker": "UNKNOWN",
+      "start": 501.53,
+      "end": 532.36,
+      "category": "recurring",
+      "word_count": 54
+    },
+    {
+      "cue": 11,
+      "block_id": 10,
+      "speaker": "SPEAKER_00",
+      "start": 532.36,
+      "end": 536.96,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 12,
+      "block_id": 11,
+      "speaker": "UNKNOWN",
+      "start": 536.96,
+      "end": 546.7,
+      "category": "recurring",
+      "word_count": 24
+    },
+    {
+      "cue": 13,
+      "block_id": 12,
+      "speaker": "SPEAKER_00",
+      "start": 546.7,
+      "end": 593.93,
+      "category": "recurring",
+      "word_count": 100
+    },
+    {
+      "cue": 14,
+      "block_id": 13,
+      "speaker": "UNKNOWN",
+      "start": 593.93,
+      "end": 604.43,
+      "category": "recurring",
+      "word_count": 38
+    },
+    {
+      "cue": 15,
+      "block_id": 14,
+      "speaker": "SPEAKER_00",
+      "start": 604.43,
+      "end": 608.31,
+      "category": "recurring",
+      "word_count": 12
+    },
+    {
+      "cue": 16,
+      "block_id": 15,
+      "speaker": "UNKNOWN",
+      "start": 608.31,
+      "end": 640.14,
+      "category": "recurring",
+      "word_count": 28
+    },
+    {
+      "cue": 17,
+      "block_id": 16,
+      "speaker": "SPEAKER_00",
+      "start": 640.14,
+      "end": 647.42,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 18,
+      "block_id": 17,
+      "speaker": "UNKNOWN",
+      "start": 647.42,
+      "end": 671.21,
+      "category": "recurring",
+      "word_count": 54
+    },
+    {
+      "cue": 19,
+      "block_id": 18,
+      "speaker": "SPEAKER_00",
+      "start": 671.21,
+      "end": 687.53,
+      "category": "recurring",
+      "word_count": 52
+    },
+    {
+      "cue": 20,
+      "block_id": 19,
+      "speaker": "UNKNOWN",
+      "start": 687.53,
+      "end": 692.17,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 21,
+      "block_id": 20,
+      "speaker": "SPEAKER_00",
+      "start": 692.17,
+      "end": 707.69,
+      "category": "recurring",
+      "word_count": 38
+    },
+    {
+      "cue": 22,
+      "block_id": 21,
+      "speaker": "UNKNOWN",
+      "start": 707.69,
+      "end": 759.95,
+      "category": "recurring",
+      "word_count": 126
+    },
+    {
+      "cue": 23,
+      "block_id": 22,
+      "speaker": "SPEAKER_00",
+      "start": 759.95,
+      "end": 764.99,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 24,
+      "block_id": 23,
+      "speaker": "UNKNOWN",
+      "start": 765.71,
+      "end": 776.91,
+      "category": "recurring",
+      "word_count": 35
+    },
+    {
+      "cue": 25,
+      "block_id": 24,
+      "speaker": "SPEAKER_00",
+      "start": 776.91,
+      "end": 794.05,
+      "category": "recurring",
+      "word_count": 36
+    },
+    {
+      "cue": 26,
+      "block_id": 25,
+      "speaker": "UNKNOWN",
+      "start": 794.99,
+      "end": 856.67,
+      "category": "recurring",
+      "word_count": 154
+    },
+    {
+      "cue": 27,
+      "block_id": 26,
+      "speaker": "SPEAKER_00",
+      "start": 858.68,
+      "end": 871.11,
+      "category": "recurring",
+      "word_count": 31
+    },
+    {
+      "cue": 28,
+      "block_id": 27,
+      "speaker": "UNKNOWN",
+      "start": 871.11,
+      "end": 911.62,
+      "category": "recurring",
+      "word_count": 114
+    },
+    {
+      "cue": 29,
+      "block_id": 28,
+      "speaker": "SPEAKER_00",
+      "start": 911.62,
+      "end": 917.42,
+      "category": "recurring",
+      "word_count": 18
+    },
+    {
+      "cue": 30,
+      "block_id": 29,
+      "speaker": "UNKNOWN",
+      "start": 917.42,
+      "end": 927.86,
+      "category": "recurring",
+      "word_count": 33
+    },
+    {
+      "cue": 31,
+      "block_id": 30,
+      "speaker": "SPEAKER_00",
+      "start": 927.86,
+      "end": 935.86,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 32,
+      "block_id": 31,
+      "speaker": "UNKNOWN",
+      "start": 935.86,
+      "end": 1083.72,
+      "category": "recurring",
+      "word_count": 430
+    },
+    {
+      "cue": 33,
+      "block_id": 32,
+      "speaker": "SPEAKER_00",
+      "start": 1083.72,
+      "end": 1090.39,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 34,
+      "block_id": 33,
+      "speaker": "UNKNOWN",
+      "start": 1090.39,
+      "end": 1095.67,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 35,
+      "block_id": 34,
+      "speaker": "SPEAKER_00",
+      "start": 1095.67,
+      "end": 1109.18,
+      "category": "recurring",
+      "word_count": 35
+    },
+    {
+      "cue": 36,
+      "block_id": 35,
+      "speaker": "UNKNOWN",
+      "start": 1110.78,
+      "end": 1122.46,
+      "category": "recurring",
+      "word_count": 31
+    },
+    {
+      "cue": 37,
+      "block_id": 36,
+      "speaker": "SPEAKER_00",
+      "start": 1122.46,
+      "end": 1142.14,
+      "category": "recurring",
+      "word_count": 49
+    },
+    {
+      "cue": 38,
+      "block_id": 37,
+      "speaker": "UNKNOWN",
+      "start": 1142.14,
+      "end": 1206.95,
+      "category": "recurring",
+      "word_count": 171
+    },
+    {
+      "cue": 39,
+      "block_id": 38,
+      "speaker": "SPEAKER_00",
+      "start": 1206.95,
+      "end": 1247.64,
+      "category": "recurring",
+      "word_count": 101
+    },
+    {
+      "cue": 40,
+      "block_id": 39,
+      "speaker": "UNKNOWN",
+      "start": 1247.64,
+      "end": 1267.16,
+      "category": "recurring",
+      "word_count": 57
+    },
+    {
+      "cue": 41,
+      "block_id": 40,
+      "speaker": "SPEAKER_00",
+      "start": 1267.62,
+      "end": 1272.86,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 42,
+      "block_id": 41,
+      "speaker": "UNKNOWN",
+      "start": 1272.86,
+      "end": 1323.93,
+      "category": "recurring",
+      "word_count": 163
+    },
+    {
+      "cue": 43,
+      "block_id": 42,
+      "speaker": "SPEAKER_00",
+      "start": 1323.93,
+      "end": 1350.85,
+      "category": "recurring",
+      "word_count": 49
+    },
+    {
+      "cue": 44,
+      "block_id": 43,
+      "speaker": "UNKNOWN",
+      "start": 1350.85,
+      "end": 1360.83,
+      "category": "recurring",
+      "word_count": 27
+    },
+    {
+      "cue": 45,
+      "block_id": 44,
+      "speaker": "SPEAKER_00",
+      "start": 1360.83,
+      "end": 1377.05,
+      "category": "recurring",
+      "word_count": 41
+    },
+    {
+      "cue": 46,
+      "block_id": 45,
+      "speaker": "UNKNOWN",
+      "start": 1377.05,
+      "end": 1381.35,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 47,
+      "block_id": 46,
+      "speaker": "SPEAKER_00",
+      "start": 1381.35,
+      "end": 1390.78,
+      "category": "recurring",
+      "word_count": 19
+    },
+    {
+      "cue": 48,
+      "block_id": 47,
+      "speaker": "UNKNOWN",
+      "start": 1390.78,
+      "end": 1397.98,
+      "category": "recurring",
+      "word_count": 21
+    },
+    {
+      "cue": 49,
+      "block_id": 48,
+      "speaker": "SPEAKER_00",
+      "start": 1397.98,
+      "end": 1414.32,
+      "category": "recurring",
+      "word_count": 42
+    },
+    {
+      "cue": 50,
+      "block_id": 49,
+      "speaker": "UNKNOWN",
+      "start": 1414.32,
+      "end": 1424.44,
+      "category": "recurring",
+      "word_count": 38
+    },
+    {
+      "cue": 51,
+      "block_id": 50,
+      "speaker": "SPEAKER_00",
+      "start": 1424.44,
+      "end": 1431.06,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 52,
+      "block_id": 51,
+      "speaker": "UNKNOWN",
+      "start": 1431.06,
+      "end": 1441.34,
+      "category": "recurring",
+      "word_count": 36
+    },
+    {
+      "cue": 53,
+      "block_id": 52,
+      "speaker": "SPEAKER_00",
+      "start": 1441.34,
+      "end": 1447.28,
+      "category": "recurring",
+      "word_count": 18
+    },
+    {
+      "cue": 54,
+      "block_id": 53,
+      "speaker": "UNKNOWN",
+      "start": 1447.28,
+      "end": 1488.42,
+      "category": "recurring",
+      "word_count": 108
+    },
+    {
+      "cue": 55,
+      "block_id": 54,
+      "speaker": "SPEAKER_00",
+      "start": 1489.25,
+      "end": 1494.37,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 56,
+      "block_id": 55,
+      "speaker": "UNKNOWN",
+      "start": 1495.17,
+      "end": 1505.09,
+      "category": "recurring",
+      "word_count": 33
+    },
+    {
+      "cue": 57,
+      "block_id": 56,
+      "speaker": "SPEAKER_00",
+      "start": 1506.69,
+      "end": 1511.65,
+      "category": "recurring",
+      "word_count": 20
+    },
+    {
+      "cue": 58,
+      "block_id": 57,
+      "speaker": "UNKNOWN",
+      "start": 1511.65,
+      "end": 1517.01,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 59,
+      "block_id": 58,
+      "speaker": "SPEAKER_00",
+      "start": 1517.01,
+      "end": 1538.08,
+      "category": "recurring",
+      "word_count": 54
+    },
+    {
+      "cue": 60,
+      "block_id": 59,
+      "speaker": "UNKNOWN",
+      "start": 1538.08,
+      "end": 1549.32,
+      "category": "recurring",
+      "word_count": 32
+    },
+    {
+      "cue": 61,
+      "block_id": 60,
+      "speaker": "SPEAKER_00",
+      "start": 1549.32,
+      "end": 1556.52,
+      "category": "recurring",
+      "word_count": 19
+    },
+    {
+      "cue": 62,
+      "block_id": 61,
+      "speaker": "UNKNOWN",
+      "start": 1556.52,
+      "end": 1652.23,
+      "category": "recurring",
+      "word_count": 264
+    },
+    {
+      "cue": 63,
+      "block_id": 62,
+      "speaker": "SPEAKER_00",
+      "start": 1652.23,
+      "end": 1657.55,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 64,
+      "block_id": 63,
+      "speaker": "UNKNOWN",
+      "start": 1657.55,
+      "end": 1705.16,
+      "category": "recurring",
+      "word_count": 133
+    },
+    {
+      "cue": 65,
+      "block_id": 64,
+      "speaker": "SPEAKER_00",
+      "start": 1705.16,
+      "end": 1716.12,
+      "category": "recurring",
+      "word_count": 37
+    },
+    {
+      "cue": 66,
+      "block_id": 65,
+      "speaker": "UNKNOWN",
+      "start": 1716.76,
+      "end": 1751.29,
+      "category": "recurring",
+      "word_count": 113
+    },
+    {
+      "cue": 67,
+      "block_id": 66,
+      "speaker": "SPEAKER_00",
+      "start": 1751.29,
+      "end": 1766.2,
+      "category": "recurring",
+      "word_count": 37
+    },
+    {
+      "cue": 68,
+      "block_id": 67,
+      "speaker": "UNKNOWN",
+      "start": 1766.2,
+      "end": 1783.96,
+      "category": "recurring",
+      "word_count": 52
+    },
+    {
+      "cue": 69,
+      "block_id": 68,
+      "speaker": "SPEAKER_00",
+      "start": 1783.96,
+      "end": 1809.34,
+      "category": "recurring",
+      "word_count": 64
+    },
+    {
+      "cue": 70,
+      "block_id": 69,
+      "speaker": "UNKNOWN",
+      "start": 1809.34,
+      "end": 1870.78,
+      "category": "recurring",
+      "word_count": 162
+    },
+    {
+      "cue": 71,
+      "block_id": 70,
+      "speaker": "SPEAKER_00",
+      "start": 1870.78,
+      "end": 1889.02,
+      "category": "recurring",
+      "word_count": 49
+    },
+    {
+      "cue": 72,
+      "block_id": 71,
+      "speaker": "UNKNOWN",
+      "start": 1889.02,
+      "end": 1899.9,
+      "category": "recurring",
+      "word_count": 35
+    },
+    {
+      "cue": 73,
+      "block_id": 72,
+      "speaker": "SPEAKER_00",
+      "start": 1899.9,
+      "end": 1914.19,
+      "category": "recurring",
+      "word_count": 44
+    },
+    {
+      "cue": 74,
+      "block_id": 73,
+      "speaker": "UNKNOWN",
+      "start": 1914.99,
+      "end": 1937.48,
+      "category": "recurring",
+      "word_count": 65
+    },
+    {
+      "cue": 75,
+      "block_id": 74,
+      "speaker": "SPEAKER_00",
+      "start": 1937.48,
+      "end": 1944.86,
+      "category": "recurring",
+      "word_count": 19
+    },
+    {
+      "cue": 76,
+      "block_id": 75,
+      "speaker": "UNKNOWN",
+      "start": 1944.86,
+      "end": 1951.18,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 77,
+      "block_id": 76,
+      "speaker": "SPEAKER_00",
+      "start": 1951.18,
+      "end": 1958.54,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 78,
+      "block_id": 77,
+      "speaker": "UNKNOWN",
+      "start": 1959.58,
+      "end": 2037.8,
+      "category": "recurring",
+      "word_count": 201
+    },
+    {
+      "cue": 79,
+      "block_id": 78,
+      "speaker": "SPEAKER_00",
+      "start": 2037.8,
+      "end": 2042.68,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 80,
+      "block_id": 79,
+      "speaker": "UNKNOWN",
+      "start": 2042.68,
+      "end": 2126.02,
+      "category": "recurring",
+      "word_count": 214
+    },
+    {
+      "cue": 81,
+      "block_id": 80,
+      "speaker": "SPEAKER_00",
+      "start": 2126.2,
+      "end": 2129.12,
+      "category": "recurring",
+      "word_count": 12
+    },
+    {
+      "cue": 82,
+      "block_id": 81,
+      "speaker": "UNKNOWN",
+      "start": 2129.68,
+      "end": 2141.33,
+      "category": "recurring",
+      "word_count": 23
+    },
+    {
+      "cue": 83,
+      "block_id": 82,
+      "speaker": "SPEAKER_00",
+      "start": 2141.43,
+      "end": 2158.57,
+      "category": "recurring",
+      "word_count": 49
+    },
+    {
+      "cue": 84,
+      "block_id": 83,
+      "speaker": "UNKNOWN",
+      "start": 2158.57,
+      "end": 2201.05,
+      "category": "recurring",
+      "word_count": 107
+    },
+    {
+      "cue": 85,
+      "block_id": 84,
+      "speaker": "SPEAKER_00",
+      "start": 2201.05,
+      "end": 2230.46,
+      "category": "recurring",
+      "word_count": 71
+    },
+    {
+      "cue": 86,
+      "block_id": 85,
+      "speaker": "UNKNOWN",
+      "start": 2230.46,
+      "end": 2243.13,
+      "category": "recurring",
+      "word_count": 46
+    },
+    {
+      "cue": 87,
+      "block_id": 86,
+      "speaker": "SPEAKER_00",
+      "start": 2243.13,
+      "end": 2252.67,
+      "category": "recurring",
+      "word_count": 25
+    },
+    {
+      "cue": 88,
+      "block_id": 87,
+      "speaker": "UNKNOWN",
+      "start": 2252.67,
+      "end": 2301.64,
+      "category": "recurring",
+      "word_count": 116
+    },
+    {
+      "cue": 89,
+      "block_id": 88,
+      "speaker": "SPEAKER_00",
+      "start": 2303.02,
+      "end": 2308.36,
+      "category": "recurring",
+      "word_count": 18
+    },
+    {
+      "cue": 90,
+      "block_id": 89,
+      "speaker": "UNKNOWN",
+      "start": 2308.36,
+      "end": 2310.04,
+      "category": "recurring",
+      "word_count": 6
+    },
+    {
+      "cue": 91,
+      "block_id": 90,
+      "speaker": "SPEAKER_00",
+      "start": 2311.27,
+      "end": 2400.18,
+      "category": "recurring",
+      "word_count": 176
+    },
+    {
+      "cue": 92,
+      "block_id": 91,
+      "speaker": "UNKNOWN",
+      "start": 2400.18,
+      "end": 2404.9,
+      "category": "recurring",
+      "word_count": 20
+    },
+    {
+      "cue": 93,
+      "block_id": 92,
+      "speaker": "SPEAKER_00",
+      "start": 2404.9,
+      "end": 2476.74,
+      "category": "recurring",
+      "word_count": 195
+    },
+    {
+      "cue": 94,
+      "block_id": 93,
+      "speaker": "UNKNOWN",
+      "start": 2476.74,
+      "end": 2501.1,
+      "category": "recurring",
+      "word_count": 70
+    },
+    {
+      "cue": 95,
+      "block_id": 94,
+      "speaker": "SPEAKER_00",
+      "start": 2501.1,
+      "end": 2511.46,
+      "category": "recurring",
+      "word_count": 28
+    },
+    {
+      "cue": 96,
+      "block_id": 95,
+      "speaker": "UNKNOWN",
+      "start": 2511.46,
+      "end": 2516.32,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 97,
+      "block_id": 96,
+      "speaker": "SPEAKER_00",
+      "start": 2516.32,
+      "end": 2541.29,
+      "category": "recurring",
+      "word_count": 73
+    },
+    {
+      "cue": 98,
+      "block_id": 97,
+      "speaker": "UNKNOWN",
+      "start": 2541.29,
+      "end": 2555.19,
+      "category": "recurring",
+      "word_count": 48
+    },
+    {
+      "cue": 99,
+      "block_id": 98,
+      "speaker": "SPEAKER_00",
+      "start": 2555.19,
+      "end": 2561.77,
+      "category": "recurring",
+      "word_count": 21
+    },
+    {
+      "cue": 100,
+      "block_id": 99,
+      "speaker": "UNKNOWN",
+      "start": 2561.77,
+      "end": 2563.23,
+      "category": "recurring",
+      "word_count": 4
+    },
+    {
+      "cue": 101,
+      "block_id": 100,
+      "speaker": "SPEAKER_00",
+      "start": 2563.23,
+      "end": 2575.32,
+      "category": "recurring",
+      "word_count": 24
+    },
+    {
+      "cue": 102,
+      "block_id": 101,
+      "speaker": "UNKNOWN",
+      "start": 2575.32,
+      "end": 2584.68,
+      "category": "recurring",
+      "word_count": 26
+    },
+    {
+      "cue": 103,
+      "block_id": 102,
+      "speaker": "SPEAKER_00",
+      "start": 2584.68,
+      "end": 2588.72,
+      "category": "recurring",
+      "word_count": 8
+    },
+    {
+      "cue": 104,
+      "block_id": 103,
+      "speaker": "UNKNOWN",
+      "start": 2588.72,
+      "end": 2606.28,
+      "category": "recurring",
+      "word_count": 52
+    },
+    {
+      "cue": 105,
+      "block_id": 104,
+      "speaker": "SPEAKER_00",
+      "start": 2606.28,
+      "end": 2624.04,
+      "category": "recurring",
+      "word_count": 49
+    },
+    {
+      "cue": 106,
+      "block_id": 105,
+      "speaker": "UNKNOWN",
+      "start": 2624.04,
+      "end": 2638.76,
+      "category": "recurring",
+      "word_count": 49
+    },
+    {
+      "cue": 107,
+      "block_id": 106,
+      "speaker": "SPEAKER_00",
+      "start": 2638.76,
+      "end": 2652.78,
+      "category": "recurring",
+      "word_count": 31
+    },
+    {
+      "cue": 108,
+      "block_id": 107,
+      "speaker": "UNKNOWN",
+      "start": 2652.78,
+      "end": 2682.3,
+      "category": "recurring",
+      "word_count": 58
+    },
+    {
+      "cue": 109,
+      "block_id": 108,
+      "speaker": "SPEAKER_00",
+      "start": 2682.3,
+      "end": 2700.08,
+      "category": "recurring",
+      "word_count": 32
+    },
+    {
+      "cue": 110,
+      "block_id": 109,
+      "speaker": "UNKNOWN",
+      "start": 2700.08,
+      "end": 2722.04,
+      "category": "recurring",
+      "word_count": 65
+    },
+    {
+      "cue": 111,
+      "block_id": 110,
+      "speaker": "SPEAKER_00",
+      "start": 2723.66,
+      "end": 2732.01,
+      "category": "recurring",
+      "word_count": 4
+    },
+    {
+      "cue": 112,
+      "block_id": 111,
+      "speaker": "UNKNOWN",
+      "start": 2732.01,
+      "end": 2737.83,
+      "category": "recurring",
+      "word_count": 13
+    },
+    {
+      "cue": 113,
+      "block_id": 112,
+      "speaker": "SPEAKER_00",
+      "start": 2737.83,
+      "end": 2739.51,
+      "category": "recurring",
+      "word_count": 6
+    },
+    {
+      "cue": 114,
+      "block_id": 113,
+      "speaker": "UNKNOWN",
+      "start": 2739.51,
+      "end": 2798.08,
+      "category": "recurring",
+      "word_count": 187
+    },
+    {
+      "cue": 115,
+      "block_id": 114,
+      "speaker": "SPEAKER_00",
+      "start": 2798.08,
+      "end": 2812.96,
+      "category": "recurring",
+      "word_count": 41
+    },
+    {
+      "cue": 116,
+      "block_id": 115,
+      "speaker": "UNKNOWN",
+      "start": 2812.96,
+      "end": 2948.23,
+      "category": "recurring",
+      "word_count": 332
+    },
+    {
+      "cue": 117,
+      "block_id": 116,
+      "speaker": "SPEAKER_00",
+      "start": 2948.23,
+      "end": 2953.35,
+      "category": "recurring",
+      "word_count": 13
+    },
+    {
+      "cue": 118,
+      "block_id": 117,
+      "speaker": "UNKNOWN",
+      "start": 2954.17,
+      "end": 2992.1,
+      "category": "recurring",
+      "word_count": 95
+    },
+    {
+      "cue": 119,
+      "block_id": 118,
+      "speaker": "SPEAKER_00",
+      "start": 2992.1,
+      "end": 3001.64,
+      "category": "recurring",
+      "word_count": 26
+    },
+    {
+      "cue": 120,
+      "block_id": 119,
+      "speaker": "UNKNOWN",
+      "start": 3001.64,
+      "end": 3012.34,
+      "category": "recurring",
+      "word_count": 44
+    },
+    {
+      "cue": 121,
+      "block_id": 120,
+      "speaker": "SPEAKER_00",
+      "start": 3012.34,
+      "end": 3032.26,
+      "category": "recurring",
+      "word_count": 57
+    },
+    {
+      "cue": 122,
+      "block_id": 121,
+      "speaker": "UNKNOWN",
+      "start": 3032.26,
+      "end": 3037.54,
+      "category": "recurring",
+      "word_count": 22
+    },
+    {
+      "cue": 123,
+      "block_id": 122,
+      "speaker": "SPEAKER_00",
+      "start": 3037.54,
+      "end": 3060.65,
+      "category": "recurring",
+      "word_count": 57
+    },
+    {
+      "cue": 124,
+      "block_id": 123,
+      "speaker": "UNKNOWN",
+      "start": 3060.65,
+      "end": 3067.37,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 125,
+      "block_id": 124,
+      "speaker": "SPEAKER_00",
+      "start": 3067.37,
+      "end": 3073.01,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 126,
+      "block_id": 125,
+      "speaker": "UNKNOWN",
+      "start": 3073.01,
+      "end": 3077.45,
+      "category": "recurring",
+      "word_count": 12
+    },
+    {
+      "cue": 127,
+      "block_id": 126,
+      "speaker": "SPEAKER_00",
+      "start": 3077.45,
+      "end": 3083.34,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 128,
+      "block_id": 127,
+      "speaker": "UNKNOWN",
+      "start": 3083.34,
+      "end": 3103.52,
+      "category": "recurring",
+      "word_count": 57
+    },
+    {
+      "cue": 129,
+      "block_id": 128,
+      "speaker": "SPEAKER_00",
+      "start": 3103.52,
+      "end": 3107.98,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 130,
+      "block_id": 129,
+      "speaker": "UNKNOWN",
+      "start": 3107.98,
+      "end": 3140.36,
+      "category": "recurring",
+      "word_count": 98
+    },
+    {
+      "cue": 131,
+      "block_id": 130,
+      "speaker": "SPEAKER_00",
+      "start": 3140.36,
+      "end": 3155.12,
+      "category": "recurring",
+      "word_count": 33
+    },
+    {
+      "cue": 132,
+      "block_id": 131,
+      "speaker": "UNKNOWN",
+      "start": 3155.12,
+      "end": 3159.12,
+      "category": "recurring",
+      "word_count": 10
+    },
+    {
+      "cue": 133,
+      "block_id": 132,
+      "speaker": "SPEAKER_00",
+      "start": 3159.12,
+      "end": 3185.72,
+      "category": "recurring",
+      "word_count": 51
+    },
+    {
+      "cue": 134,
+      "block_id": 133,
+      "speaker": "UNKNOWN",
+      "start": 3185.72,
+      "end": 3229.62,
+      "category": "recurring",
+      "word_count": 96
+    },
+    {
+      "cue": 135,
+      "block_id": 134,
+      "speaker": "SPEAKER_00",
+      "start": 3229.62,
+      "end": 3237.18,
+      "category": "recurring",
+      "word_count": 20
+    },
+    {
+      "cue": 136,
+      "block_id": 135,
+      "speaker": "UNKNOWN",
+      "start": 3238.02,
+      "end": 3247.74,
+      "category": "recurring",
+      "word_count": 30
+    },
+    {
+      "cue": 137,
+      "block_id": 136,
+      "speaker": "SPEAKER_00",
+      "start": 3248.6,
+      "end": 3260.58,
+      "category": "recurring",
+      "word_count": 35
+    },
+    {
+      "cue": 138,
+      "block_id": 137,
+      "speaker": "UNKNOWN",
+      "start": 3260.58,
+      "end": 3304.34,
+      "category": "recurring",
+      "word_count": 102
+    },
+    {
+      "cue": 139,
+      "block_id": 138,
+      "speaker": "SPEAKER_00",
+      "start": 3304.34,
+      "end": 3328.34,
+      "category": "recurring",
+      "word_count": 57
+    },
+    {
+      "cue": 140,
+      "block_id": 139,
+      "speaker": "UNKNOWN",
+      "start": 3328.34,
+      "end": 3342.53,
+      "category": "recurring",
+      "word_count": 39
+    },
+    {
+      "cue": 141,
+      "block_id": 140,
+      "speaker": "SPEAKER_00",
+      "start": 3342.53,
+      "end": 3349.73,
+      "category": "recurring",
+      "word_count": 22
+    },
+    {
+      "cue": 142,
+      "block_id": 141,
+      "speaker": "UNKNOWN",
+      "start": 3350.17,
+      "end": 3373.51,
+      "category": "recurring",
+      "word_count": 85
+    },
+    {
+      "cue": 143,
+      "block_id": 142,
+      "speaker": "SPEAKER_00",
+      "start": 3374.65,
+      "end": 3386.43,
+      "category": "recurring",
+      "word_count": 28
+    },
+    {
+      "cue": 144,
+      "block_id": 143,
+      "speaker": "UNKNOWN",
+      "start": 3387.37,
+      "end": 3395.98,
+      "category": "recurring",
+      "word_count": 22
+    },
+    {
+      "cue": 145,
+      "block_id": 144,
+      "speaker": "SPEAKER_00",
+      "start": 3395.98,
+      "end": 3402.4,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 146,
+      "block_id": 145,
+      "speaker": "UNKNOWN",
+      "start": 3403.34,
+      "end": 3416.32,
+      "category": "recurring",
+      "word_count": 34
+    },
+    {
+      "cue": 147,
+      "block_id": 146,
+      "speaker": "SPEAKER_00",
+      "start": 3416.88,
+      "end": 3440.34,
+      "category": "recurring",
+      "word_count": 52
+    },
+    {
+      "cue": 148,
+      "block_id": 147,
+      "speaker": "UNKNOWN",
+      "start": 3440.34,
+      "end": 3447.72,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 149,
+      "block_id": 148,
+      "speaker": "SPEAKER_00",
+      "start": 3447.72,
+      "end": 3463.15,
+      "category": "recurring",
+      "word_count": 23
+    },
+    {
+      "cue": 150,
+      "block_id": 149,
+      "speaker": "UNKNOWN",
+      "start": 3463.15,
+      "end": 3490.16,
+      "category": "recurring",
+      "word_count": 44
+    },
+    {
+      "cue": 151,
+      "block_id": 150,
+      "speaker": "SPEAKER_00",
+      "start": 3490.16,
+      "end": 3496.32,
+      "category": "recurring",
+      "word_count": 12
+    },
+    {
+      "cue": 152,
+      "block_id": 151,
+      "speaker": "UNKNOWN",
+      "start": 3496.32,
+      "end": 3509.33,
+      "category": "recurring",
+      "word_count": 24
+    },
+    {
+      "cue": 153,
+      "block_id": 152,
+      "speaker": "SPEAKER_00",
+      "start": 3509.33,
+      "end": 3523.76,
+      "category": "recurring",
+      "word_count": 27
+    },
+    {
+      "cue": 154,
+      "block_id": 153,
+      "speaker": "UNKNOWN",
+      "start": 3523.76,
+      "end": 3529.94,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 155,
+      "block_id": 154,
+      "speaker": "SPEAKER_00",
+      "start": 3529.94,
+      "end": 3536.6,
+      "category": "recurring",
+      "word_count": 11
+    },
+    {
+      "cue": 156,
+      "block_id": 155,
+      "speaker": "UNKNOWN",
+      "start": 3536.6,
+      "end": 3552.73,
+      "category": "recurring",
+      "word_count": 11
+    },
+    {
+      "cue": 157,
+      "block_id": 156,
+      "speaker": "SPEAKER_00",
+      "start": 3552.73,
+      "end": 3567.67,
+      "category": "recurring",
+      "word_count": 29
+    },
+    {
+      "cue": 158,
+      "block_id": 157,
+      "speaker": "UNKNOWN",
+      "start": 3567.67,
+      "end": 3626.91,
+      "category": "recurring",
+      "word_count": 105
+    },
+    {
+      "cue": 159,
+      "block_id": 158,
+      "speaker": "SPEAKER_00",
+      "start": 3626.91,
+      "end": 3644.04,
+      "category": "recurring",
+      "word_count": 31
+    },
+    {
+      "cue": 160,
+      "block_id": 159,
+      "speaker": "UNKNOWN",
+      "start": 3644.04,
+      "end": 3664.8,
+      "category": "recurring",
+      "word_count": 37
+    },
+    {
+      "cue": 161,
+      "block_id": 160,
+      "speaker": "SPEAKER_00",
+      "start": 3664.8,
+      "end": 3670.8,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 162,
+      "block_id": 161,
+      "speaker": "UNKNOWN",
+      "start": 3670.8,
+      "end": 3680.95,
+      "category": "recurring",
+      "word_count": 32
+    },
+    {
+      "cue": 163,
+      "block_id": 162,
+      "speaker": "SPEAKER_00",
+      "start": 3680.95,
+      "end": 3712.58,
+      "category": "recurring",
+      "word_count": 54
+    },
+    {
+      "cue": 164,
+      "block_id": 163,
+      "speaker": "UNKNOWN",
+      "start": 3712.58,
+      "end": 3744.23,
+      "category": "recurring",
+      "word_count": 46
+    },
+    {
+      "cue": 165,
+      "block_id": 164,
+      "speaker": "SPEAKER_00",
+      "start": 3744.23,
+      "end": 3755.41,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 166,
+      "block_id": 165,
+      "speaker": "UNKNOWN",
+      "start": 3755.41,
+      "end": 3765.83,
+      "category": "recurring",
+      "word_count": 24
+    },
+    {
+      "cue": 167,
+      "block_id": 166,
+      "speaker": "SPEAKER_00",
+      "start": 3765.83,
+      "end": 3774.38,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 168,
+      "block_id": 167,
+      "speaker": "UNKNOWN",
+      "start": 3774.38,
+      "end": 3794.58,
+      "category": "recurring",
+      "word_count": 41
+    },
+    {
+      "cue": 169,
+      "block_id": 168,
+      "speaker": "SPEAKER_00",
+      "start": 3794.58,
+      "end": 3812.42,
+      "category": "recurring",
+      "word_count": 38
+    },
+    {
+      "cue": 170,
+      "block_id": 169,
+      "speaker": "UNKNOWN",
+      "start": 3812.42,
+      "end": 3854.13,
+      "category": "recurring",
+      "word_count": 97
+    },
+    {
+      "cue": 171,
+      "block_id": 170,
+      "speaker": "SPEAKER_00",
+      "start": 3854.13,
+      "end": 3866.05,
+      "category": "recurring",
+      "word_count": 27
+    },
+    {
+      "cue": 172,
+      "block_id": 171,
+      "speaker": "UNKNOWN",
+      "start": 3866.05,
+      "end": 3871.41,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 173,
+      "block_id": 172,
+      "speaker": "SPEAKER_00",
+      "start": 3871.41,
+      "end": 3882.31,
+      "category": "recurring",
+      "word_count": 27
+    },
+    {
+      "cue": 174,
+      "block_id": 173,
+      "speaker": "UNKNOWN",
+      "start": 3882.31,
+      "end": 3890.86,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 175,
+      "block_id": 174,
+      "speaker": "SPEAKER_00",
+      "start": 3890.86,
+      "end": 3896.44,
+      "category": "recurring",
+      "word_count": 10
+    },
+    {
+      "cue": 176,
+      "block_id": 175,
+      "speaker": "UNKNOWN",
+      "start": 3896.44,
+      "end": 3909.22,
+      "category": "recurring",
+      "word_count": 29
+    },
+    {
+      "cue": 177,
+      "block_id": 176,
+      "speaker": "SPEAKER_00",
+      "start": 3909.22,
+      "end": 3930.53,
+      "category": "recurring",
+      "word_count": 44
+    },
+    {
+      "cue": 178,
+      "block_id": 177,
+      "speaker": "UNKNOWN",
+      "start": 3930.53,
+      "end": 3939.39,
+      "category": "recurring",
+      "word_count": 29
+    },
+    {
+      "cue": 179,
+      "block_id": 178,
+      "speaker": "SPEAKER_00",
+      "start": 3939.39,
+      "end": 3949.87,
+      "category": "recurring",
+      "word_count": 34
+    },
+    {
+      "cue": 180,
+      "block_id": 179,
+      "speaker": "UNKNOWN",
+      "start": 3949.87,
+      "end": 3977.63,
+      "category": "recurring",
+      "word_count": 84
+    },
+    {
+      "cue": 181,
+      "block_id": 180,
+      "speaker": "SPEAKER_00",
+      "start": 3977.63,
+      "end": 3984.51,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 182,
+      "block_id": 181,
+      "speaker": "UNKNOWN",
+      "start": 3984.51,
+      "end": 3995.67,
+      "category": "recurring",
+      "word_count": 33
+    },
+    {
+      "cue": 183,
+      "block_id": 182,
+      "speaker": "SPEAKER_00",
+      "start": 3995.67,
+      "end": 4001.47,
+      "category": "recurring",
+      "word_count": 18
+    },
+    {
+      "cue": 184,
+      "block_id": 183,
+      "speaker": "UNKNOWN",
+      "start": 4001.47,
+      "end": 4017.23,
+      "category": "recurring",
+      "word_count": 54
+    },
+    {
+      "cue": 185,
+      "block_id": 184,
+      "speaker": "SPEAKER_00",
+      "start": 4017.23,
+      "end": 4040.06,
+      "category": "recurring",
+      "word_count": 66
+    },
+    {
+      "cue": 186,
+      "block_id": 185,
+      "speaker": "UNKNOWN",
+      "start": 4040.06,
+      "end": 4054.3,
+      "category": "recurring",
+      "word_count": 50
+    },
+    {
+      "cue": 187,
+      "block_id": 186,
+      "speaker": "SPEAKER_00",
+      "start": 4054.3,
+      "end": 4065.46,
+      "category": "recurring",
+      "word_count": 33
+    },
+    {
+      "cue": 188,
+      "block_id": 187,
+      "speaker": "UNKNOWN",
+      "start": 4065.46,
+      "end": 4073.98,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 189,
+      "block_id": 188,
+      "speaker": "SPEAKER_00",
+      "start": 4073.98,
+      "end": 4123.83,
+      "category": "recurring",
+      "word_count": 60
+    },
+    {
+      "cue": 190,
+      "block_id": 189,
+      "speaker": "UNKNOWN",
+      "start": 4123.83,
+      "end": 4133.47,
+      "category": "recurring",
+      "word_count": 27
+    },
+    {
+      "cue": 191,
+      "block_id": 190,
+      "speaker": "SPEAKER_00",
+      "start": 4133.47,
+      "end": 4138.91,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 192,
+      "block_id": 191,
+      "speaker": "UNKNOWN",
+      "start": 4138.91,
+      "end": 4171.27,
+      "category": "recurring",
+      "word_count": 75
+    },
+    {
+      "cue": 193,
+      "block_id": 192,
+      "speaker": "SPEAKER_00",
+      "start": 4171.27,
+      "end": 4175.39,
+      "category": "recurring",
+      "word_count": 11
+    },
+    {
+      "cue": 194,
+      "block_id": 193,
+      "speaker": "UNKNOWN",
+      "start": 4175.39,
+      "end": 4179.33,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 195,
+      "block_id": 194,
+      "speaker": "SPEAKER_00",
+      "start": 4179.33,
+      "end": 4197.44,
+      "category": "recurring",
+      "word_count": 25
+    },
+    {
+      "cue": 196,
+      "block_id": 195,
+      "speaker": "UNKNOWN",
+      "start": 4197.44,
+      "end": 4226.24,
+      "category": "recurring",
+      "word_count": 63
+    },
+    {
+      "cue": 197,
+      "block_id": 196,
+      "speaker": "SPEAKER_00",
+      "start": 4226.24,
+      "end": 4228.48,
+      "category": "recurring",
+      "word_count": 4
+    },
+    {
+      "cue": 198,
+      "block_id": 197,
+      "speaker": "UNKNOWN",
+      "start": 4230.23,
+      "end": 4235.89,
+      "category": "recurring",
+      "word_count": 21
+    },
+    {
+      "cue": 199,
+      "block_id": 198,
+      "speaker": "SPEAKER_00",
+      "start": 4236.63,
+      "end": 4242.61,
+      "category": "recurring",
+      "word_count": 23
+    },
+    {
+      "cue": 200,
+      "block_id": 199,
+      "speaker": "UNKNOWN",
+      "start": 4243.25,
+      "end": 4265.61,
+      "category": "recurring",
+      "word_count": 47
+    },
+    {
+      "cue": 201,
+      "block_id": 200,
+      "speaker": "SPEAKER_00",
+      "start": 4265.83,
+      "end": 4271.73,
+      "category": "recurring",
+      "word_count": 20
+    },
+    {
+      "cue": 202,
+      "block_id": 201,
+      "speaker": "UNKNOWN",
+      "start": 4272.31,
+      "end": 4367.67,
+      "category": "recurring",
+      "word_count": 192
+    },
+    {
+      "cue": 203,
+      "block_id": 202,
+      "speaker": "SPEAKER_00",
+      "start": 4367.67,
+      "end": 4382.41,
+      "category": "recurring",
+      "word_count": 33
+    },
+    {
+      "cue": 204,
+      "block_id": 203,
+      "speaker": "UNKNOWN",
+      "start": 4382.41,
+      "end": 4394.09,
+      "category": "recurring",
+      "word_count": 29
+    },
+    {
+      "cue": 205,
+      "block_id": 204,
+      "speaker": "SPEAKER_00",
+      "start": 4394.09,
+      "end": 4410.81,
+      "category": "recurring",
+      "word_count": 51
+    },
+    {
+      "cue": 206,
+      "block_id": 205,
+      "speaker": "UNKNOWN",
+      "start": 4410.81,
+      "end": 4445.77,
+      "category": "recurring",
+      "word_count": 84
+    },
+    {
+      "cue": 207,
+      "block_id": 206,
+      "speaker": "SPEAKER_00",
+      "start": 4445.77,
+      "end": 4459.1,
+      "category": "recurring",
+      "word_count": 41
+    },
+    {
+      "cue": 208,
+      "block_id": 207,
+      "speaker": "UNKNOWN",
+      "start": 4459.1,
+      "end": 4470.27,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 209,
+      "block_id": 208,
+      "speaker": "SPEAKER_00",
+      "start": 4470.91,
+      "end": 4501.17,
+      "category": "recurring",
+      "word_count": 41
+    },
+    {
+      "cue": 210,
+      "block_id": 209,
+      "speaker": "UNKNOWN",
+      "start": 4501.17,
+      "end": 4663.12,
+      "category": "recurring",
+      "word_count": 372
+    },
+    {
+      "cue": 211,
+      "block_id": 210,
+      "speaker": "SPEAKER_00",
+      "start": 4663.12,
+      "end": 4686.13,
+      "category": "recurring",
+      "word_count": 31
+    },
+    {
+      "cue": 212,
+      "block_id": 211,
+      "speaker": "UNKNOWN",
+      "start": 4686.13,
+      "end": 4695.81,
+      "category": "recurring",
+      "word_count": 19
+    },
+    {
+      "cue": 213,
+      "block_id": 212,
+      "speaker": "SPEAKER_00",
+      "start": 4697.01,
+      "end": 4712.49,
+      "category": "recurring",
+      "word_count": 34
+    },
+    {
+      "cue": 214,
+      "block_id": 213,
+      "speaker": "UNKNOWN",
+      "start": 4712.49,
+      "end": 4721.1,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 215,
+      "block_id": 214,
+      "speaker": "SPEAKER_00",
+      "start": 4721.6,
+      "end": 4778.54,
+      "category": "recurring",
+      "word_count": 174
+    },
+    {
+      "cue": 216,
+      "block_id": 215,
+      "speaker": "UNKNOWN",
+      "start": 4778.54,
+      "end": 4793.08,
+      "category": "recurring",
+      "word_count": 38
+    },
+    {
+      "cue": 217,
+      "block_id": 216,
+      "speaker": "SPEAKER_00",
+      "start": 4793.08,
+      "end": 4803.23,
+      "category": "recurring",
+      "word_count": 31
+    },
+    {
+      "cue": 218,
+      "block_id": 217,
+      "speaker": "UNKNOWN",
+      "start": 4803.23,
+      "end": 4806.67,
+      "category": "recurring",
+      "word_count": 18
+    },
+    {
+      "cue": 219,
+      "block_id": 218,
+      "speaker": "SPEAKER_00",
+      "start": 4806.67,
+      "end": 4826.32,
+      "category": "recurring",
+      "word_count": 41
+    },
+    {
+      "cue": 220,
+      "block_id": 219,
+      "speaker": "UNKNOWN",
+      "start": 4826.32,
+      "end": 4836.22,
+      "category": "recurring",
+      "word_count": 33
+    },
+    {
+      "cue": 221,
+      "block_id": 220,
+      "speaker": "SPEAKER_00",
+      "start": 4836.22,
+      "end": 4844.08,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 222,
+      "block_id": 221,
+      "speaker": "UNKNOWN",
+      "start": 4844.08,
+      "end": 4849.36,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 223,
+      "block_id": 222,
+      "speaker": "SPEAKER_00",
+      "start": 4849.36,
+      "end": 4862.86,
+      "category": "recurring",
+      "word_count": 41
+    },
+    {
+      "cue": 224,
+      "block_id": 223,
+      "speaker": "UNKNOWN",
+      "start": 4862.86,
+      "end": 4885.38,
+      "category": "recurring",
+      "word_count": 85
+    },
+    {
+      "cue": 225,
+      "block_id": 224,
+      "speaker": "SPEAKER_00",
+      "start": 4885.56,
+      "end": 4904.53,
+      "category": "recurring",
+      "word_count": 46
+    },
+    {
+      "cue": 226,
+      "block_id": 225,
+      "speaker": "UNKNOWN",
+      "start": 4904.53,
+      "end": 4923.86,
+      "category": "recurring",
+      "word_count": 35
+    },
+    {
+      "cue": 227,
+      "block_id": 226,
+      "speaker": "SPEAKER_00",
+      "start": 4923.86,
+      "end": 4932.12,
+      "category": "recurring",
+      "word_count": 13
+    },
+    {
+      "cue": 228,
+      "block_id": 227,
+      "speaker": "UNKNOWN",
+      "start": 4932.12,
+      "end": 4949.77,
+      "category": "recurring",
+      "word_count": 31
+    },
+    {
+      "cue": 229,
+      "block_id": 228,
+      "speaker": "SPEAKER_00",
+      "start": 4949.77,
+      "end": 4957.05,
+      "category": "recurring",
+      "word_count": 19
+    },
+    {
+      "cue": 230,
+      "block_id": 229,
+      "speaker": "UNKNOWN",
+      "start": 4957.05,
+      "end": 4963.21,
+      "category": "recurring",
+      "word_count": 21
+    },
+    {
+      "cue": 231,
+      "block_id": 230,
+      "speaker": "SPEAKER_00",
+      "start": 4963.21,
+      "end": 5071.02,
+      "category": "recurring",
+      "word_count": 243
+    },
+    {
+      "cue": 232,
+      "block_id": 231,
+      "speaker": "UNKNOWN",
+      "start": 5071.8,
+      "end": 5078.46,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 233,
+      "block_id": 232,
+      "speaker": "SPEAKER_00",
+      "start": 5078.46,
+      "end": 5108.37,
+      "category": "recurring",
+      "word_count": 73
+    },
+    {
+      "cue": 234,
+      "block_id": 233,
+      "speaker": "UNKNOWN",
+      "start": 5109.97,
+      "end": 5143.59,
+      "category": "recurring",
+      "word_count": 88
+    },
+    {
+      "cue": 235,
+      "block_id": 234,
+      "speaker": "SPEAKER_00",
+      "start": 5143.59,
+      "end": 5149.51,
+      "category": "recurring",
+      "word_count": 13
+    },
+    {
+      "cue": 236,
+      "block_id": 235,
+      "speaker": "UNKNOWN",
+      "start": 5149.51,
+      "end": 5187.21,
+      "category": "recurring",
+      "word_count": 109
+    },
+    {
+      "cue": 237,
+      "block_id": 236,
+      "speaker": "SPEAKER_00",
+      "start": 5187.21,
+      "end": 5202.03,
+      "category": "recurring",
+      "word_count": 44
+    },
+    {
+      "cue": 238,
+      "block_id": 237,
+      "speaker": "UNKNOWN",
+      "start": 5202.03,
+      "end": 5222.89,
+      "category": "recurring",
+      "word_count": 55
+    },
+    {
+      "cue": 239,
+      "block_id": 238,
+      "speaker": "SPEAKER_00",
+      "start": 5222.89,
+      "end": 5243.43,
+      "category": "recurring",
+      "word_count": 59
+    },
+    {
+      "cue": 240,
+      "block_id": 239,
+      "speaker": "UNKNOWN",
+      "start": 5243.43,
+      "end": 5266.77,
+      "category": "recurring",
+      "word_count": 50
+    },
+    {
+      "cue": 241,
+      "block_id": 240,
+      "speaker": "SPEAKER_00",
+      "start": 5266.77,
+      "end": 5282.56,
+      "category": "recurring",
+      "word_count": 25
+    },
+    {
+      "cue": 242,
+      "block_id": 241,
+      "speaker": "UNKNOWN",
+      "start": 5282.56,
+      "end": 5289.22,
+      "category": "recurring",
+      "word_count": 13
+    },
+    {
+      "cue": 243,
+      "block_id": 242,
+      "speaker": "SPEAKER_00",
+      "start": 5289.22,
+      "end": 5303.02,
+      "category": "recurring",
+      "word_count": 42
+    },
+    {
+      "cue": 244,
+      "block_id": 243,
+      "speaker": "UNKNOWN",
+      "start": 5303.02,
+      "end": 5328.12,
+      "category": "recurring",
+      "word_count": 51
+    },
+    {
+      "cue": 245,
+      "block_id": 244,
+      "speaker": "SPEAKER_00",
+      "start": 5328.12,
+      "end": 5335.08,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 246,
+      "block_id": 245,
+      "speaker": "UNKNOWN",
+      "start": 5335.08,
+      "end": 5339.32,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 247,
+      "block_id": 246,
+      "speaker": "SPEAKER_00",
+      "start": 5339.32,
+      "end": 5380.94,
+      "category": "recurring",
+      "word_count": 120
+    },
+    {
+      "cue": 248,
+      "block_id": 247,
+      "speaker": "UNKNOWN",
+      "start": 5380.94,
+      "end": 5385.1,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 249,
+      "block_id": 248,
+      "speaker": "SPEAKER_00",
+      "start": 5385.1,
+      "end": 5391.87,
+      "category": "recurring",
+      "word_count": 19
+    },
+    {
+      "cue": 250,
+      "block_id": 249,
+      "speaker": "UNKNOWN",
+      "start": 5391.87,
+      "end": 5397.63,
+      "category": "recurring",
+      "word_count": 19
+    },
+    {
+      "cue": 251,
+      "block_id": 250,
+      "speaker": "SPEAKER_00",
+      "start": 5397.63,
+      "end": 5404.35,
+      "category": "recurring",
+      "word_count": 18
+    },
+    {
+      "cue": 252,
+      "block_id": 251,
+      "speaker": "UNKNOWN",
+      "start": 5404.35,
+      "end": 5501.04,
+      "category": "recurring",
+      "word_count": 219
+    },
+    {
+      "cue": 253,
+      "block_id": 252,
+      "speaker": "SPEAKER_00",
+      "start": 5501.04,
+      "end": 5518.9,
+      "category": "recurring",
+      "word_count": 59
+    },
+    {
+      "cue": 254,
+      "block_id": 253,
+      "speaker": "UNKNOWN",
+      "start": 5518.9,
+      "end": 5523.46,
+      "category": "recurring",
+      "word_count": 19
+    },
+    {
+      "cue": 255,
+      "block_id": 254,
+      "speaker": "SPEAKER_00",
+      "start": 5523.46,
+      "end": 5530.18,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 256,
+      "block_id": 255,
+      "speaker": "UNKNOWN",
+      "start": 5530.18,
+      "end": 5576.2,
+      "category": "recurring",
+      "word_count": 120
+    },
+    {
+      "cue": 257,
+      "block_id": 256,
+      "speaker": "SPEAKER_00",
+      "start": 5576.2,
+      "end": 5581.82,
+      "category": "recurring",
+      "word_count": 13
+    },
+    {
+      "cue": 258,
+      "block_id": 257,
+      "speaker": "UNKNOWN",
+      "start": 5581.82,
+      "end": 5660.56,
+      "category": "recurring",
+      "word_count": 148
+    },
+    {
+      "cue": 259,
+      "block_id": 258,
+      "speaker": "SPEAKER_00",
+      "start": 5660.56,
+      "end": 5682.67,
+      "category": "recurring",
+      "word_count": 39
+    },
+    {
+      "cue": 260,
+      "block_id": 259,
+      "speaker": "UNKNOWN",
+      "start": 5682.67,
+      "end": 5710.03,
+      "category": "recurring",
+      "word_count": 56
+    },
+    {
+      "cue": 261,
+      "block_id": 260,
+      "speaker": "SPEAKER_00",
+      "start": 5710.03,
+      "end": 5719.17,
+      "category": "recurring",
+      "word_count": 23
+    },
+    {
+      "cue": 262,
+      "block_id": 261,
+      "speaker": "UNKNOWN",
+      "start": 5719.17,
+      "end": 5780.77,
+      "category": "recurring",
+      "word_count": 152
+    },
+    {
+      "cue": 263,
+      "block_id": 262,
+      "speaker": "SPEAKER_00",
+      "start": 5780.77,
+      "end": 5787.48,
+      "category": "recurring",
+      "word_count": 11
+    },
+    {
+      "cue": 264,
+      "block_id": 263,
+      "speaker": "UNKNOWN",
+      "start": 5787.48,
+      "end": 5887.92,
+      "category": "recurring",
+      "word_count": 230
+    },
+    {
+      "cue": 265,
+      "block_id": 264,
+      "speaker": "SPEAKER_00",
+      "start": 5887.92,
+      "end": 5899.45,
+      "category": "recurring",
+      "word_count": 27
+    },
+    {
+      "cue": 266,
+      "block_id": 265,
+      "speaker": "UNKNOWN",
+      "start": 5899.45,
+      "end": 5992.19,
+      "category": "recurring",
+      "word_count": 214
+    },
+    {
+      "cue": 267,
+      "block_id": 266,
+      "speaker": "SPEAKER_00",
+      "start": 5992.53,
+      "end": 6013.61,
+      "category": "recurring",
+      "word_count": 60
+    },
+    {
+      "cue": 268,
+      "block_id": 267,
+      "speaker": "UNKNOWN",
+      "start": 6013.61,
+      "end": 6028.49,
+      "category": "recurring",
+      "word_count": 36
+    },
+    {
+      "cue": 269,
+      "block_id": 268,
+      "speaker": "SPEAKER_00",
+      "start": 6028.49,
+      "end": 6052.13,
+      "category": "recurring",
+      "word_count": 60
+    },
+    {
+      "cue": 270,
+      "block_id": 269,
+      "speaker": "UNKNOWN",
+      "start": 6052.13,
+      "end": 6079.57,
+      "category": "recurring",
+      "word_count": 78
+    },
+    {
+      "cue": 271,
+      "block_id": 270,
+      "speaker": "SPEAKER_00",
+      "start": 6079.57,
+      "end": 6089.73,
+      "category": "recurring",
+      "word_count": 33
+    },
+    {
+      "cue": 272,
+      "block_id": 271,
+      "speaker": "UNKNOWN",
+      "start": 6089.73,
+      "end": 6105.54,
+      "category": "recurring",
+      "word_count": 44
+    },
+    {
+      "cue": 273,
+      "block_id": 272,
+      "speaker": "SPEAKER_00",
+      "start": 6105.54,
+      "end": 6131.94,
+      "category": "recurring",
+      "word_count": 68
+    },
+    {
+      "cue": 274,
+      "block_id": 273,
+      "speaker": "UNKNOWN",
+      "start": 6131.94,
+      "end": 6137.06,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 275,
+      "block_id": 274,
+      "speaker": "SPEAKER_00",
+      "start": 6137.06,
+      "end": 6156.98,
+      "category": "recurring",
+      "word_count": 56
+    },
+    {
+      "cue": 276,
+      "block_id": 275,
+      "speaker": "UNKNOWN",
+      "start": 6156.98,
+      "end": 6168.5,
+      "category": "recurring",
+      "word_count": 35
+    },
+    {
+      "cue": 277,
+      "block_id": 276,
+      "speaker": "SPEAKER_00",
+      "start": 6168.5,
+      "end": 6198.64,
+      "category": "recurring",
+      "word_count": 82
+    },
+    {
+      "cue": 278,
+      "block_id": 277,
+      "speaker": "UNKNOWN",
+      "start": 6198.64,
+      "end": 6211.28,
+      "category": "recurring",
+      "word_count": 37
+    },
+    {
+      "cue": 279,
+      "block_id": 278,
+      "speaker": "SPEAKER_00",
+      "start": 6211.28,
+      "end": 6223.92,
+      "category": "recurring",
+      "word_count": 35
+    },
+    {
+      "cue": 280,
+      "block_id": 279,
+      "speaker": "UNKNOWN",
+      "start": 6223.92,
+      "end": 6238.38,
+      "category": "recurring",
+      "word_count": 42
+    },
+    {
+      "cue": 281,
+      "block_id": 280,
+      "speaker": "SPEAKER_00",
+      "start": 6238.38,
+      "end": 6262.5,
+      "category": "recurring",
+      "word_count": 70
+    },
+    {
+      "cue": 282,
+      "block_id": 281,
+      "speaker": "UNKNOWN",
+      "start": 6262.5,
+      "end": 6283.22,
+      "category": "recurring",
+      "word_count": 67
+    },
+    {
+      "cue": 283,
+      "block_id": 282,
+      "speaker": "SPEAKER_00",
+      "start": 6283.22,
+      "end": 6299.64,
+      "category": "recurring",
+      "word_count": 47
+    },
+    {
+      "cue": 284,
+      "block_id": 283,
+      "speaker": "UNKNOWN",
+      "start": 6300.99,
+      "end": 6313.79,
+      "category": "recurring",
+      "word_count": 35
+    },
+    {
+      "cue": 285,
+      "block_id": 284,
+      "speaker": "SPEAKER_00",
+      "start": 6313.79,
+      "end": 6328.54,
+      "category": "recurring",
+      "word_count": 36
+    },
+    {
+      "cue": 286,
+      "block_id": 285,
+      "speaker": "UNKNOWN",
+      "start": 6328.54,
+      "end": 6356.3,
+      "category": "recurring",
+      "word_count": 71
+    },
+    {
+      "cue": 287,
+      "block_id": 286,
+      "speaker": "SPEAKER_00",
+      "start": 6356.3,
+      "end": 6368.73,
+      "category": "recurring",
+      "word_count": 37
+    },
+    {
+      "cue": 288,
+      "block_id": 287,
+      "speaker": "UNKNOWN",
+      "start": 6368.73,
+      "end": 6378.23,
+      "category": "recurring",
+      "word_count": 25
+    },
+    {
+      "cue": 289,
+      "block_id": 288,
+      "speaker": "SPEAKER_00",
+      "start": 6378.23,
+      "end": 6383.61,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 290,
+      "block_id": 289,
+      "speaker": "UNKNOWN",
+      "start": 6383.61,
+      "end": 6457.78,
+      "category": "recurring",
+      "word_count": 148
+    },
+    {
+      "cue": 291,
+      "block_id": 290,
+      "speaker": "SPEAKER_00",
+      "start": 6457.78,
+      "end": 6476.41,
+      "category": "recurring",
+      "word_count": 38
+    },
+    {
+      "cue": 292,
+      "block_id": 291,
+      "speaker": "UNKNOWN",
+      "start": 6476.41,
+      "end": 6519.13,
+      "category": "recurring",
+      "word_count": 106
+    },
+    {
+      "cue": 293,
+      "block_id": 292,
+      "speaker": "SPEAKER_00",
+      "start": 6519.13,
+      "end": 6535.69,
+      "category": "recurring",
+      "word_count": 48
+    },
+    {
+      "cue": 294,
+      "block_id": 293,
+      "speaker": "UNKNOWN",
+      "start": 6536.33,
+      "end": 6552.09,
+      "category": "recurring",
+      "word_count": 46
+    },
+    {
+      "cue": 295,
+      "block_id": 294,
+      "speaker": "SPEAKER_00",
+      "start": 6552.09,
+      "end": 6569.31,
+      "category": "recurring",
+      "word_count": 49
+    },
+    {
+      "cue": 296,
+      "block_id": 295,
+      "speaker": "UNKNOWN",
+      "start": 6569.31,
+      "end": 6572.65,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 297,
+      "block_id": 296,
+      "speaker": "SPEAKER_00",
+      "start": 6572.65,
+      "end": 6582.63,
+      "category": "recurring",
+      "word_count": 18
+    },
+    {
+      "cue": 298,
+      "block_id": 297,
+      "speaker": "UNKNOWN",
+      "start": 6582.63,
+      "end": 6675.26,
+      "category": "recurring",
+      "word_count": 194
+    },
+    {
+      "cue": 299,
+      "block_id": 298,
+      "speaker": "SPEAKER_00",
+      "start": 6675.98,
+      "end": 6688.3,
+      "category": "recurring",
+      "word_count": 38
+    },
+    {
+      "cue": 300,
+      "block_id": 299,
+      "speaker": "UNKNOWN",
+      "start": 6688.3,
+      "end": 6711.45,
+      "category": "recurring",
+      "word_count": 50
+    },
+    {
+      "cue": 301,
+      "block_id": 300,
+      "speaker": "SPEAKER_00",
+      "start": 6711.45,
+      "end": 6718.12,
+      "category": "recurring",
+      "word_count": 19
+    },
+    {
+      "cue": 302,
+      "block_id": 301,
+      "speaker": "UNKNOWN",
+      "start": 6718.12,
+      "end": 6735.8,
+      "category": "recurring",
+      "word_count": 48
+    },
+    {
+      "cue": 303,
+      "block_id": 302,
+      "speaker": "SPEAKER_00",
+      "start": 6735.8,
+      "end": 6743.64,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 304,
+      "block_id": 303,
+      "speaker": "UNKNOWN",
+      "start": 6743.64,
+      "end": 6758.44,
+      "category": "recurring",
+      "word_count": 31
+    },
+    {
+      "cue": 305,
+      "block_id": 304,
+      "speaker": "SPEAKER_00",
+      "start": 6758.44,
+      "end": 6845.47,
+      "category": "recurring",
+      "word_count": 157
+    },
+    {
+      "cue": 306,
+      "block_id": 305,
+      "speaker": "UNKNOWN",
+      "start": 6845.47,
+      "end": 6850.93,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 307,
+      "block_id": 306,
+      "speaker": "SPEAKER_00",
+      "start": 6850.93,
+      "end": 6872.03,
+      "category": "recurring",
+      "word_count": 59
+    },
+    {
+      "cue": 308,
+      "block_id": 307,
+      "speaker": "UNKNOWN",
+      "start": 6872.03,
+      "end": 6877.79,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 309,
+      "block_id": 308,
+      "speaker": "SPEAKER_00",
+      "start": 6877.79,
+      "end": 6910.88,
+      "category": "recurring",
+      "word_count": 101
+    },
+    {
+      "cue": 310,
+      "block_id": 309,
+      "speaker": "UNKNOWN",
+      "start": 6910.88,
+      "end": 6915.44,
+      "category": "recurring",
+      "word_count": 19
+    },
+    {
+      "cue": 311,
+      "block_id": 310,
+      "speaker": "SPEAKER_00",
+      "start": 6915.44,
+      "end": 6928.32,
+      "category": "recurring",
+      "word_count": 32
+    },
+    {
+      "cue": 312,
+      "block_id": 311,
+      "speaker": "UNKNOWN",
+      "start": 6928.32,
+      "end": 6939.58,
+      "category": "recurring",
+      "word_count": 31
+    },
+    {
+      "cue": 313,
+      "block_id": 312,
+      "speaker": "SPEAKER_00",
+      "start": 6939.58,
+      "end": 6956.13,
+      "category": "recurring",
+      "word_count": 57
+    },
+    {
+      "cue": 314,
+      "block_id": 313,
+      "speaker": "UNKNOWN",
+      "start": 6956.13,
+      "end": 6968.79,
+      "category": "recurring",
+      "word_count": 27
+    },
+    {
+      "cue": 315,
+      "block_id": 314,
+      "speaker": "SPEAKER_00",
+      "start": 6968.79,
+      "end": 6988.13,
+      "category": "recurring",
+      "word_count": 49
+    },
+    {
+      "cue": 316,
+      "block_id": 315,
+      "speaker": "UNKNOWN",
+      "start": 6988.13,
+      "end": 6993.97,
+      "category": "recurring",
+      "word_count": 19
+    },
+    {
+      "cue": 317,
+      "block_id": 316,
+      "speaker": "SPEAKER_00",
+      "start": 6993.97,
+      "end": 7013.12,
+      "category": "recurring",
+      "word_count": 53
+    },
+    {
+      "cue": 318,
+      "block_id": 317,
+      "speaker": "UNKNOWN",
+      "start": 7013.12,
+      "end": 7027.36,
+      "category": "recurring",
+      "word_count": 35
+    },
+    {
+      "cue": 319,
+      "block_id": 318,
+      "speaker": "SPEAKER_00",
+      "start": 7027.36,
+      "end": 7050.8,
+      "category": "recurring",
+      "word_count": 51
+    },
+    {
+      "cue": 320,
+      "block_id": 319,
+      "speaker": "UNKNOWN",
+      "start": 7050.8,
+      "end": 7058.82,
+      "category": "recurring",
+      "word_count": 20
+    },
+    {
+      "cue": 321,
+      "block_id": 320,
+      "speaker": "SPEAKER_00",
+      "start": 7058.82,
+      "end": 7087.2,
+      "category": "recurring",
+      "word_count": 78
+    },
+    {
+      "cue": 322,
+      "block_id": 321,
+      "speaker": "UNKNOWN",
+      "start": 7087.7,
+      "end": 7092.18,
+      "category": "recurring",
+      "word_count": 13
+    },
+    {
+      "cue": 323,
+      "block_id": 322,
+      "speaker": "SPEAKER_00",
+      "start": 7092.56,
+      "end": 7095.64,
+      "category": "recurring",
+      "word_count": 12
+    },
+    {
+      "cue": 324,
+      "block_id": 323,
+      "speaker": "UNKNOWN",
+      "start": 7096.06,
+      "end": 7114.75,
+      "category": "recurring",
+      "word_count": 50
+    },
+    {
+      "cue": 325,
+      "block_id": 324,
+      "speaker": "SPEAKER_00",
+      "start": 7115.37,
+      "end": 7133.47,
+      "category": "recurring",
+      "word_count": 45
+    },
+    {
+      "cue": 326,
+      "block_id": 325,
+      "speaker": "UNKNOWN",
+      "start": 7134.05,
+      "end": 7138.65,
+      "category": "recurring",
+      "word_count": 13
+    },
+    {
+      "cue": 327,
+      "block_id": 326,
+      "speaker": "SPEAKER_00",
+      "start": 7138.65,
+      "end": 7150.14,
+      "category": "recurring",
+      "word_count": 29
+    },
+    {
+      "cue": 328,
+      "block_id": 327,
+      "speaker": "UNKNOWN",
+      "start": 7150.14,
+      "end": 7179.9,
+      "category": "recurring",
+      "word_count": 77
+    },
+    {
+      "cue": 329,
+      "block_id": 328,
+      "speaker": "SPEAKER_00",
+      "start": 7179.9,
+      "end": 7185.06,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 330,
+      "block_id": 329,
+      "speaker": "UNKNOWN",
+      "start": 7185.06,
+      "end": 7268.11,
+      "category": "recurring",
+      "word_count": 171
+    },
+    {
+      "cue": 331,
+      "block_id": 330,
+      "speaker": "SPEAKER_00",
+      "start": 7268.11,
+      "end": 7281.91,
+      "category": "recurring",
+      "word_count": 32
+    },
+    {
+      "cue": 332,
+      "block_id": 331,
+      "speaker": "UNKNOWN",
+      "start": 7281.91,
+      "end": 7314.68,
+      "category": "recurring",
+      "word_count": 82
+    },
+    {
+      "cue": 333,
+      "block_id": 332,
+      "speaker": "SPEAKER_00",
+      "start": 7314.68,
+      "end": 7321.65,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 334,
+      "block_id": 333,
+      "speaker": "UNKNOWN",
+      "start": 7321.65,
+      "end": 7327.11,
+      "category": "recurring",
+      "word_count": 13
+    },
+    {
+      "cue": 335,
+      "block_id": 334,
+      "speaker": "SPEAKER_00",
+      "start": 7327.11,
+      "end": 7381.98,
+      "category": "recurring",
+      "word_count": 154
+    },
+    {
+      "cue": 336,
+      "block_id": 335,
+      "speaker": "UNKNOWN",
+      "start": 7381.98,
+      "end": 7386.72,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 337,
+      "block_id": 336,
+      "speaker": "SPEAKER_00",
+      "start": 7386.72,
+      "end": 7390.32,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 338,
+      "block_id": 337,
+      "speaker": "UNKNOWN",
+      "start": 7390.32,
+      "end": 7394.64,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 339,
+      "block_id": 338,
+      "speaker": "SPEAKER_00",
+      "start": 7394.64,
+      "end": 7401.66,
+      "category": "recurring",
+      "word_count": 25
+    },
+    {
+      "cue": 340,
+      "block_id": 339,
+      "speaker": "UNKNOWN",
+      "start": 7401.66,
+      "end": 7409.18,
+      "category": "recurring",
+      "word_count": 27
+    },
+    {
+      "cue": 341,
+      "block_id": 340,
+      "speaker": "SPEAKER_00",
+      "start": 7409.18,
+      "end": 7421.76,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 342,
+      "block_id": 341,
+      "speaker": "UNKNOWN",
+      "start": 7421.76,
+      "end": 7446.31,
+      "category": "recurring",
+      "word_count": 30
+    },
+    {
+      "cue": 343,
+      "block_id": 342,
+      "speaker": "SPEAKER_00",
+      "start": 7446.31,
+      "end": 7451.19,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 344,
+      "block_id": 343,
+      "speaker": "UNKNOWN",
+      "start": 7452.64,
+      "end": 7460.88,
+      "category": "recurring",
+      "word_count": 29
+    },
+    {
+      "cue": 345,
+      "block_id": 344,
+      "speaker": "SPEAKER_00",
+      "start": 7460.88,
+      "end": 7480.88,
+      "category": "recurring",
+      "word_count": 55
+    },
+    {
+      "cue": 346,
+      "block_id": 345,
+      "speaker": "UNKNOWN",
+      "start": 7480.88,
+      "end": 7485.6,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 347,
+      "block_id": 346,
+      "speaker": "SPEAKER_00",
+      "start": 7487.49,
+      "end": 7493.57,
+      "category": "recurring",
+      "word_count": 18
+    },
+    {
+      "cue": 348,
+      "block_id": 347,
+      "speaker": "UNKNOWN",
+      "start": 7493.57,
+      "end": 7503.39,
+      "category": "recurring",
+      "word_count": 30
+    },
+    {
+      "cue": 349,
+      "block_id": 348,
+      "speaker": "SPEAKER_00",
+      "start": 7504.29,
+      "end": 7516.53,
+      "category": "recurring",
+      "word_count": 32
+    },
+    {
+      "cue": 350,
+      "block_id": 349,
+      "speaker": "UNKNOWN",
+      "start": 7516.53,
+      "end": 7543.4,
+      "category": "recurring",
+      "word_count": 55
+    },
+    {
+      "cue": 351,
+      "block_id": 350,
+      "speaker": "SPEAKER_00",
+      "start": 7543.96,
+      "end": 7574.63,
+      "category": "recurring",
+      "word_count": 50
+    },
+    {
+      "cue": 352,
+      "block_id": 351,
+      "speaker": "UNKNOWN",
+      "start": 7575.34,
+      "end": 7584.89,
+      "category": "recurring",
+      "word_count": 25
+    },
+    {
+      "cue": 353,
+      "block_id": 352,
+      "speaker": "SPEAKER_00",
+      "start": 7586.11,
+      "end": 7587.19,
+      "category": "recurring",
+      "word_count": 1
+    },
+    {
+      "cue": 354,
+      "block_id": 353,
+      "speaker": "UNKNOWN",
+      "start": 7587.19,
+      "end": 7588.33,
+      "category": "recurring",
+      "word_count": 1
+    },
+    {
+      "cue": 355,
+      "block_id": 354,
+      "speaker": "SPEAKER_00",
+      "start": 7588.33,
+      "end": 7601.69,
+      "category": "recurring",
+      "word_count": 34
+    },
+    {
+      "cue": 356,
+      "block_id": 355,
+      "speaker": "UNKNOWN",
+      "start": 7602.58,
+      "end": 7608.9,
+      "category": "recurring",
+      "word_count": 18
+    },
+    {
+      "cue": 357,
+      "block_id": 356,
+      "speaker": "SPEAKER_00",
+      "start": 7608.9,
+      "end": 7658.11,
+      "category": "recurring",
+      "word_count": 97
+    },
+    {
+      "cue": 358,
+      "block_id": 357,
+      "speaker": "UNKNOWN",
+      "start": 7658.11,
+      "end": 7667.83,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 359,
+      "block_id": 358,
+      "speaker": "SPEAKER_00",
+      "start": 7667.83,
+      "end": 7725.8,
+      "category": "recurring",
+      "word_count": 138
+    },
+    {
+      "cue": 360,
+      "block_id": 359,
+      "speaker": "UNKNOWN",
+      "start": 7725.8,
+      "end": 7742.23,
+      "category": "recurring",
+      "word_count": 35
+    },
+    {
+      "cue": 361,
+      "block_id": 360,
+      "speaker": "SPEAKER_00",
+      "start": 7742.23,
+      "end": 7765.23,
+      "category": "recurring",
+      "word_count": 53
+    },
+    {
+      "cue": 362,
+      "block_id": 361,
+      "speaker": "UNKNOWN",
+      "start": 7765.23,
+      "end": 7772.01,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 363,
+      "block_id": 362,
+      "speaker": "SPEAKER_00",
+      "start": 7772.01,
+      "end": 7782.37,
+      "category": "recurring",
+      "word_count": 34
+    },
+    {
+      "cue": 364,
+      "block_id": 363,
+      "speaker": "UNKNOWN",
+      "start": 7782.37,
+      "end": 7802.02,
+      "category": "recurring",
+      "word_count": 52
+    },
+    {
+      "cue": 365,
+      "block_id": 364,
+      "speaker": "SPEAKER_00",
+      "start": 7802.02,
+      "end": 7812.52,
+      "category": "recurring",
+      "word_count": 19
+    },
+    {
+      "cue": 366,
+      "block_id": 365,
+      "speaker": "UNKNOWN",
+      "start": 7812.52,
+      "end": 7818.02,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 367,
+      "block_id": 366,
+      "speaker": "SPEAKER_00",
+      "start": 7818.02,
+      "end": 7824.28,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 368,
+      "block_id": 367,
+      "speaker": "UNKNOWN",
+      "start": 7824.28,
+      "end": 7840.18,
+      "category": "recurring",
+      "word_count": 42
+    },
+    {
+      "cue": 369,
+      "block_id": 368,
+      "speaker": "SPEAKER_00",
+      "start": 7840.18,
+      "end": 7862.85,
+      "category": "recurring",
+      "word_count": 50
+    },
+    {
+      "cue": 370,
+      "block_id": 369,
+      "speaker": "UNKNOWN",
+      "start": 7862.85,
+      "end": 7895.43,
+      "category": "recurring",
+      "word_count": 69
+    },
+    {
+      "cue": 371,
+      "block_id": 370,
+      "speaker": "SPEAKER_00",
+      "start": 7895.43,
+      "end": 7899.95,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 372,
+      "block_id": 371,
+      "speaker": "UNKNOWN",
+      "start": 7901.25,
+      "end": 7945.84,
+      "category": "recurring",
+      "word_count": 108
+    },
+    {
+      "cue": 373,
+      "block_id": 372,
+      "speaker": "SPEAKER_00",
+      "start": 7946.96,
+      "end": 7950.88,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 374,
+      "block_id": 373,
+      "speaker": "UNKNOWN",
+      "start": 7956.0,
+      "end": 8044.98,
+      "category": "recurring",
+      "word_count": 212
+    },
+    {
+      "cue": 375,
+      "block_id": 374,
+      "speaker": "SPEAKER_00",
+      "start": 8044.98,
+      "end": 8056.86,
+      "category": "recurring",
+      "word_count": 36
+    },
+    {
+      "cue": 376,
+      "block_id": 375,
+      "speaker": "UNKNOWN",
+      "start": 8056.86,
+      "end": 8057.86,
+      "category": "recurring",
+      "word_count": 5
+    },
+    {
+      "cue": 377,
+      "block_id": 376,
+      "speaker": "SPEAKER_00",
+      "start": 8058.5,
+      "end": 8068.34,
+      "category": "recurring",
+      "word_count": 29
+    },
+    {
+      "cue": 378,
+      "block_id": 377,
+      "speaker": "UNKNOWN",
+      "start": 8068.34,
+      "end": 8077.52,
+      "category": "recurring",
+      "word_count": 21
+    },
+    {
+      "cue": 379,
+      "block_id": 378,
+      "speaker": "SPEAKER_00",
+      "start": 8077.52,
+      "end": 8083.34,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 380,
+      "block_id": 379,
+      "speaker": "UNKNOWN",
+      "start": 8083.34,
+      "end": 8087.04,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 381,
+      "block_id": 380,
+      "speaker": "SPEAKER_00",
+      "start": 8087.7,
+      "end": 8090.24,
+      "category": "recurring",
+      "word_count": 8
+    },
+    {
+      "cue": 382,
+      "block_id": 381,
+      "speaker": "UNKNOWN",
+      "start": 8090.24,
+      "end": 8220.73,
+      "category": "recurring",
+      "word_count": 355
+    },
+    {
+      "cue": 383,
+      "block_id": 382,
+      "speaker": "SPEAKER_00",
+      "start": 8221.17,
+      "end": 8276.75,
+      "category": "recurring",
+      "word_count": 138
+    },
+    {
+      "cue": 384,
+      "block_id": 383,
+      "speaker": "UNKNOWN",
+      "start": 8276.75,
+      "end": 8282.49,
+      "category": "recurring",
+      "word_count": 12
+    },
+    {
+      "cue": 385,
+      "block_id": 384,
+      "speaker": "SPEAKER_00",
+      "start": 8282.49,
+      "end": 8288.03,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 386,
+      "block_id": 385,
+      "speaker": "UNKNOWN",
+      "start": 8288.03,
+      "end": 8299.9,
+      "category": "recurring",
+      "word_count": 23
+    },
+    {
+      "cue": 387,
+      "block_id": 386,
+      "speaker": "SPEAKER_00",
+      "start": 8299.9,
+      "end": 8327.54,
+      "category": "recurring",
+      "word_count": 44
+    },
+    {
+      "cue": 388,
+      "block_id": 387,
+      "speaker": "UNKNOWN",
+      "start": 8327.54,
+      "end": 8339.94,
+      "category": "recurring",
+      "word_count": 25
+    },
+    {
+      "cue": 389,
+      "block_id": 388,
+      "speaker": "SPEAKER_00",
+      "start": 8339.94,
+      "end": 8360.37,
+      "category": "recurring",
+      "word_count": 40
+    },
+    {
+      "cue": 390,
+      "block_id": 389,
+      "speaker": "UNKNOWN",
+      "start": 8360.37,
+      "end": 8365.79,
+      "category": "recurring",
+      "word_count": 13
+    },
+    {
+      "cue": 391,
+      "block_id": 390,
+      "speaker": "SPEAKER_00",
+      "start": 8365.79,
+      "end": 8393.89,
+      "category": "recurring",
+      "word_count": 64
+    },
+    {
+      "cue": 392,
+      "block_id": 391,
+      "speaker": "UNKNOWN",
+      "start": 8393.89,
+      "end": 8404.19,
+      "category": "recurring",
+      "word_count": 18
+    },
+    {
+      "cue": 393,
+      "block_id": 392,
+      "speaker": "SPEAKER_00",
+      "start": 8404.19,
+      "end": 8415.67,
+      "category": "recurring",
+      "word_count": 23
+    },
+    {
+      "cue": 394,
+      "block_id": 393,
+      "speaker": "UNKNOWN",
+      "start": 8415.67,
+      "end": 8432.25,
+      "category": "recurring",
+      "word_count": 47
+    },
+    {
+      "cue": 395,
+      "block_id": 394,
+      "speaker": "SPEAKER_00",
+      "start": 8433.12,
+      "end": 8443.92,
+      "category": "recurring",
+      "word_count": 24
+    },
+    {
+      "cue": 396,
+      "block_id": 395,
+      "speaker": "UNKNOWN",
+      "start": 8443.92,
+      "end": 8460.88,
+      "category": "recurring",
+      "word_count": 34
+    },
+    {
+      "cue": 397,
+      "block_id": 396,
+      "speaker": "SPEAKER_00",
+      "start": 8461.58,
+      "end": 8466.84,
+      "category": "recurring",
+      "word_count": 12
+    },
+    {
+      "cue": 398,
+      "block_id": 397,
+      "speaker": "UNKNOWN",
+      "start": 8467.46,
+      "end": 8475.14,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 399,
+      "block_id": 398,
+      "speaker": "SPEAKER_00",
+      "start": 8475.14,
+      "end": 8493.34,
+      "category": "recurring",
+      "word_count": 38
+    },
+    {
+      "cue": 400,
+      "block_id": 399,
+      "speaker": "UNKNOWN",
+      "start": 8493.34,
+      "end": 8523.2,
+      "category": "recurring",
+      "word_count": 70
+    },
+    {
+      "cue": 401,
+      "block_id": 400,
+      "speaker": "SPEAKER_00",
+      "start": 8523.2,
+      "end": 8565.66,
+      "category": "recurring",
+      "word_count": 105
+    },
+    {
+      "cue": 402,
+      "block_id": 401,
+      "speaker": "UNKNOWN",
+      "start": 8565.66,
+      "end": 8571.82,
+      "category": "recurring",
+      "word_count": 12
+    },
+    {
+      "cue": 403,
+      "block_id": 402,
+      "speaker": "SPEAKER_00",
+      "start": 8571.82,
+      "end": 8586.82,
+      "category": "recurring",
+      "word_count": 42
+    },
+    {
+      "cue": 404,
+      "block_id": 403,
+      "speaker": "UNKNOWN",
+      "start": 8586.82,
+      "end": 8592.1,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 405,
+      "block_id": 404,
+      "speaker": "SPEAKER_00",
+      "start": 8592.1,
+      "end": 8674.74,
+      "category": "recurring",
+      "word_count": 204
+    },
+    {
+      "cue": 406,
+      "block_id": 405,
+      "speaker": "UNKNOWN",
+      "start": 8674.74,
+      "end": 8678.73,
+      "category": "recurring",
+      "word_count": 7
+    },
+    {
+      "cue": 407,
+      "block_id": 406,
+      "speaker": "SPEAKER_00",
+      "start": 8678.73,
+      "end": 8719.4,
+      "category": "recurring",
+      "word_count": 108
+    },
+    {
+      "cue": 408,
+      "block_id": 407,
+      "speaker": "UNKNOWN",
+      "start": 8719.4,
+      "end": 8742.81,
+      "category": "recurring",
+      "word_count": 60
+    },
+    {
+      "cue": 409,
+      "block_id": 408,
+      "speaker": "SPEAKER_00",
+      "start": 8742.81,
+      "end": 8747.65,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 410,
+      "block_id": 409,
+      "speaker": "UNKNOWN",
+      "start": 8747.65,
+      "end": 8752.69,
+      "category": "recurring",
+      "word_count": 13
+    },
+    {
+      "cue": 411,
+      "block_id": 410,
+      "speaker": "SPEAKER_00",
+      "start": 8752.69,
+      "end": 8785.88,
+      "category": "recurring",
+      "word_count": 89
+    },
+    {
+      "cue": 412,
+      "block_id": 411,
+      "speaker": "UNKNOWN",
+      "start": 8785.88,
+      "end": 8824.04,
+      "category": "recurring",
+      "word_count": 109
+    },
+    {
+      "cue": 413,
+      "block_id": 412,
+      "speaker": "SPEAKER_00",
+      "start": 8824.04,
+      "end": 8839.46,
+      "category": "recurring",
+      "word_count": 36
+    },
+    {
+      "cue": 414,
+      "block_id": 413,
+      "speaker": "UNKNOWN",
+      "start": 8840.02,
+      "end": 8866.4,
+      "category": "recurring",
+      "word_count": 66
+    },
+    {
+      "cue": 415,
+      "block_id": 414,
+      "speaker": "SPEAKER_00",
+      "start": 8866.4,
+      "end": 8879.96,
+      "category": "recurring",
+      "word_count": 32
+    },
+    {
+      "cue": 416,
+      "block_id": 415,
+      "speaker": "UNKNOWN",
+      "start": 8879.96,
+      "end": 8903.42,
+      "category": "recurring",
+      "word_count": 38
+    },
+    {
+      "cue": 417,
+      "block_id": 416,
+      "speaker": "SPEAKER_00",
+      "start": 8903.42,
+      "end": 8934.28,
+      "category": "recurring",
+      "word_count": 44
+    },
+    {
+      "cue": 418,
+      "block_id": 417,
+      "speaker": "UNKNOWN",
+      "start": 8934.28,
+      "end": 8977.4,
+      "category": "recurring",
+      "word_count": 78
+    },
+    {
+      "cue": 419,
+      "block_id": 418,
+      "speaker": "SPEAKER_00",
+      "start": 8977.4,
+      "end": 8983.82,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 420,
+      "block_id": 419,
+      "speaker": "UNKNOWN",
+      "start": 8983.82,
+      "end": 9007.57,
+      "category": "recurring",
+      "word_count": 43
+    },
+    {
+      "cue": 421,
+      "block_id": 420,
+      "speaker": "SPEAKER_00",
+      "start": 9007.57,
+      "end": 9014.36,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 422,
+      "block_id": 421,
+      "speaker": "UNKNOWN",
+      "start": 9014.36,
+      "end": 9021.25,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 423,
+      "block_id": 422,
+      "speaker": "SPEAKER_00",
+      "start": 9021.25,
+      "end": 9028.49,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 424,
+      "block_id": 423,
+      "speaker": "UNKNOWN",
+      "start": 9028.49,
+      "end": 9056.74,
+      "category": "recurring",
+      "word_count": 47
+    },
+    {
+      "cue": 425,
+      "block_id": 424,
+      "speaker": "SPEAKER_00",
+      "start": 9056.74,
+      "end": 9064.26,
+      "category": "recurring",
+      "word_count": 18
+    },
+    {
+      "cue": 426,
+      "block_id": 425,
+      "speaker": "UNKNOWN",
+      "start": 9064.26,
+      "end": 9111.11,
+      "category": "recurring",
+      "word_count": 93
+    },
+    {
+      "cue": 427,
+      "block_id": 426,
+      "speaker": "SPEAKER_00",
+      "start": 9111.11,
+      "end": 9115.85,
+      "category": "recurring",
+      "word_count": 13
+    },
+    {
+      "cue": 428,
+      "block_id": 427,
+      "speaker": "UNKNOWN",
+      "start": 9115.85,
+      "end": 9139.49,
+      "category": "recurring",
+      "word_count": 52
+    },
+    {
+      "cue": 429,
+      "block_id": 428,
+      "speaker": "SPEAKER_00",
+      "start": 9139.49,
+      "end": 9162.81,
+      "category": "recurring",
+      "word_count": 51
+    },
+    {
+      "cue": 430,
+      "block_id": 429,
+      "speaker": "UNKNOWN",
+      "start": 9162.81,
+      "end": 9171.03,
+      "category": "recurring",
+      "word_count": 25
+    },
+    {
+      "cue": 431,
+      "block_id": 430,
+      "speaker": "SPEAKER_00",
+      "start": 9171.03,
+      "end": 9186.44,
+      "category": "recurring",
+      "word_count": 43
+    },
+    {
+      "cue": 432,
+      "block_id": 431,
+      "speaker": "UNKNOWN",
+      "start": 9186.44,
+      "end": 9201.07,
+      "category": "recurring",
+      "word_count": 48
+    },
+    {
+      "cue": 433,
+      "block_id": 432,
+      "speaker": "SPEAKER_00",
+      "start": 9201.07,
+      "end": 9219.39,
+      "category": "recurring",
+      "word_count": 59
+    },
+    {
+      "cue": 434,
+      "block_id": 433,
+      "speaker": "UNKNOWN",
+      "start": 9219.39,
+      "end": 9230.43,
+      "category": "recurring",
+      "word_count": 33
+    },
+    {
+      "cue": 435,
+      "block_id": 434,
+      "speaker": "SPEAKER_00",
+      "start": 9230.43,
+      "end": 9235.15,
+      "category": "recurring",
+      "word_count": 12
+    },
+    {
+      "cue": 436,
+      "block_id": 435,
+      "speaker": "UNKNOWN",
+      "start": 9235.15,
+      "end": 9239.39,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 437,
+      "block_id": 436,
+      "speaker": "SPEAKER_00",
+      "start": 9239.39,
+      "end": 9244.38,
+      "category": "recurring",
+      "word_count": 11
+    },
+    {
+      "cue": 438,
+      "block_id": 437,
+      "speaker": "UNKNOWN",
+      "start": 9244.38,
+      "end": 9255.02,
+      "category": "recurring",
+      "word_count": 28
+    },
+    {
+      "cue": 439,
+      "block_id": 438,
+      "speaker": "SPEAKER_00",
+      "start": 9255.02,
+      "end": 9289.31,
+      "category": "recurring",
+      "word_count": 83
+    },
+    {
+      "cue": 440,
+      "block_id": 439,
+      "speaker": "UNKNOWN",
+      "start": 9289.31,
+      "end": 9311.19,
+      "category": "recurring",
+      "word_count": 39
+    },
+    {
+      "cue": 441,
+      "block_id": 440,
+      "speaker": "SPEAKER_00",
+      "start": 9311.19,
+      "end": 9322.55,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 442,
+      "block_id": 441,
+      "speaker": "UNKNOWN",
+      "start": 9322.55,
+      "end": 9337.69,
+      "category": "recurring",
+      "word_count": 27
+    },
+    {
+      "cue": 443,
+      "block_id": 442,
+      "speaker": "SPEAKER_00",
+      "start": 9337.69,
+      "end": 9348.07,
+      "category": "recurring",
+      "word_count": 30
+    },
+    {
+      "cue": 444,
+      "block_id": 443,
+      "speaker": "UNKNOWN",
+      "start": 9348.07,
+      "end": 9353.65,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 445,
+      "block_id": 444,
+      "speaker": "SPEAKER_00",
+      "start": 9353.65,
+      "end": 9384.32,
+      "category": "recurring",
+      "word_count": 73
+    },
+    {
+      "cue": 446,
+      "block_id": 445,
+      "speaker": "UNKNOWN",
+      "start": 9384.32,
+      "end": 9395.84,
+      "category": "recurring",
+      "word_count": 41
+    },
+    {
+      "cue": 447,
+      "block_id": 446,
+      "speaker": "SPEAKER_00",
+      "start": 9397.16,
+      "end": 9438.16,
+      "category": "recurring",
+      "word_count": 112
+    }
+  ]
+}
