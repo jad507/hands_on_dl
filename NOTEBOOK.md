@@ -1,4 +1,4 @@
-# Lab Notebook — hands_on_dl
+# Lab Notebook -- hands_on_dl
 
 Append-only. Newest entry at the top. One entry per work session, however short.
 Never edit a past entry to make it correct: write a new one saying so and link
@@ -12,7 +12,7 @@ Companion: `RESULTS.md`, one row per experiment, for finding a number fast.
 
 ---
 
-## 2026-09-03 (later) — CAPITALS, not asterisks: Concord silently merges sentences
+## 2026-09-03 (later) -- CAPITALS, not asterisks: Concord silently merges sentences
 
 **Commit:** 475cd80
 **Ran:**
@@ -108,7 +108,7 @@ once it is free.
 
 ---
 
-## 2026-09-03 — Chunk framing, not diarization, drives phase-1 instability
+## 2026-09-03 -- Chunk framing, not diarization, drives phase-1 instability
 
 **Commit:** 26ebd2b (work uncommitted at time of writing)
 **Ran:**
@@ -126,7 +126,7 @@ alignment `min_iou = 0.10`
 
 1. **The five "lost" artifacts were not lost.** `compare_model_agreement.py` and
    `plans/roar_plan.md` survive in the `AITranscribe/hands_on_dl` snapshot dated
-   2026-07-17 — the tree the ISLS audit was actually run against. Recovered,
+   2026-07-17 -- the tree the ISLS audit was actually run against. Recovered,
    modernised, and re-run. It **reproduces the audit's figures exactly**: 3,263
    blocks flagged by >=1 model, 785 unanimous (24.1%), 1,719 majority (52.7%),
    2,478 contested (75.9%), cross-model Jaccard 0.372-0.554, qwen q6-vs-q8 0.840.
@@ -172,7 +172,7 @@ alignment `min_iou = 0.10`
    by any model, giving the 78 every planning document quotes. Of those 78, **2 are
    stale files in the superseded `commenter_blocks` schema** that shadow meetings
    already present as `_standard`/`_exclusive` pairs. `get_blocks()` falls back to
-   `commenter_blocks` silently, so all seven models coded them — against a
+   `commenter_blocks` silently, so all seven models coded them -- against a
    pre-filtered 31-block input instead of the full 243-block meeting, which is
    exactly the pre-filtering that function's own comment warns against. Real
    corpus: 76 legitimately coded files over 50 distinct meetings. Distinct meetings
@@ -218,7 +218,7 @@ eliminate it, and what does that cost in throughput and in recall?
 
 ---
 
-## 2026-08-28 — Environment audit and portability refactor
+## 2026-08-28 -- Environment audit and portability refactor
 
 **Commit:** 26ebd2b and the four commits before it
 **Ran:** environment inspection; refactor of paths, config and prompts into files

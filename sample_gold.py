@@ -74,8 +74,14 @@ CORE_MODELS = ["gemma-4-4b", "ministral-8b", "phi-4",
 # boundary actually lies.
 DEFAULT_QUOTAS = {0: 0.14, 1: 0.20, 2: 0.20, 3: 0.20, 4: 0.14, 5: 0.12}
 
+# These must match the keys phase 2 writes into `themes` exactly, or the human
+# labels cannot be joined to the model scores. Verified against
+# downloads/llm_outputs/*/phase2_theme_scores/*.json, and asserted in
+# tests/test_sample_gold.py against the live corpus -- an earlier draft of this
+# file said "power_dynamics_inequality", dropping the "and", which would have
+# produced a coding sheet whose fourth column joined to nothing.
 THEMES = ["municipally_managed_resources", "municipal_process",
-          "health_and_well_being", "power_dynamics_inequality"]
+          "health_and_well_being", "power_dynamics_and_inequality"]
 
 
 def load_json(p: Path):
@@ -171,16 +177,16 @@ def write_blind(path: Path, sample, blocks, order, context: int) -> None:
         "",
         "## What to record, per item",
         "",
-        "1. **`public_comment`** — is the TARGET block a member of the public",
+        "1. **`public_comment`** -- is the TARGET block a member of the public",
         "   addressing the body? `yes` / `no` / `unsure`.",
         "   Council members, staff, and procedural speech are `no`. A block that",
-        "   fuses a public comment with something else is `unsure` — say so in",
+        "   fuses a public comment with something else is `unsure` -- say so in",
         "   the note, because unit boundaries are part of what is being studied.",
         "2. If `yes`, score each of the four themes **0.0 to 1.0**:",
         "   `municipally_managed_resources`, `municipal_process`,",
-        "   `health_and_well_being`, `power_dynamics_inequality`.",
+        "   `health_and_well_being`, `power_dynamics_and_inequality`.",
         "   Definitions and anchor quotes: `downloads/data_center_comment_themes.md`.",
-        "3. **`note`** — anything that made the judgement hard. These are worth more",
+        "3. **`note`** -- anything that made the judgement hard. These are worth more",
         "   than the labels; they are what a reliability statistic cannot record.",
         "",
         "Context blocks are shown in grey brackets **for orientation only**.",
@@ -199,8 +205,8 @@ def write_blind(path: Path, sample, blocks, order, context: int) -> None:
         pos = seq.index(bid)
         L.append(f"## Item {i}")
         L.append("")
-        L.append(f"*{b['title']}*  ·  speaker `{b.get('speaker')}`  ·  "
-                 f"{b.get('start')}s–{b.get('end')}s  ·  {b.get('word_count')} words")
+        L.append(f"*{b['title']}*  |  speaker `{b.get('speaker')}`  |  "
+                 f"{b.get('start')}s-{b.get('end')}s  |  {b.get('word_count')} words")
         L.append("")
         for off in range(-context, context + 1):
             j = pos + off
@@ -210,7 +216,7 @@ def write_blind(path: Path, sample, blocks, order, context: int) -> None:
             if nb is None:
                 continue
             if off == 0:
-                L.append("**TARGET —**")
+                L.append("**TARGET --**")
                 L.append("")
                 L.append("> " + snippet(nb.get("text"), 2000).replace("\n", " "))
                 L.append("")

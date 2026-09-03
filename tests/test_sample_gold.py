@@ -235,7 +235,7 @@ def test_context_blocks_are_marked_and_target_is_unambiguous(corpus, tmp_path):
     out = tmp_path / "g"
     _run(comments, outputs, out, n=30, context=1)
     text = (out / "gold_sample_BLIND.md").read_text(encoding="utf-8")
-    assert text.count("**TARGET —**") == 30
+    assert text.count("**TARGET --**") == 30
     assert "context before" in text or "context after" in text
 
 
@@ -271,3 +271,32 @@ def _run(comments, outputs, out, n=60, seed=20260903, context=1):
 def _items(out):
     key = json.loads((out / "gold_sample_KEY.json").read_text(encoding="utf-8"))
     return [(it["meeting"], it["block_id"]) for it in key["items"]]
+
+
+# ------------------------------------------------- alignment with the corpus
+
+def test_theme_keys_match_what_phase_2_actually_writes():
+    """The coding sheet's theme names must equal phase 2's `themes` keys, or the
+    human labels join to nothing.
+
+    This is not hypothetical: an earlier draft wrote "power_dynamics_inequality"
+    where the pipeline writes "power_dynamics_and_inequality". Nothing would have
+    failed -- the sheet would have been coded, and the fourth theme would simply
+    have had no model counterpart."""
+    import glob
+    import json as _json
+
+    import paths
+    files = sorted(glob.glob(str(paths.OUTPUTS_ROOT / "*" /
+                                 "phase2_theme_scores" / "*.json")))
+    if not files:
+        pytest.skip("no phase-2 outputs on this machine")
+    for f in files[:5]:
+        d = _json.loads(open(f, encoding="utf-8").read())
+        scores = d.get("theme_scores") or []
+        if not scores:
+            continue
+        assert set(scores[0]["themes"].keys()) == set(SG.THEMES), (
+            f"{f}: phase-2 theme keys differ from sample_gold.THEMES")
+        return
+    pytest.skip("no scored comments found")
