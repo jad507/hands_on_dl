@@ -1,0 +1,8 @@
+model,chunk_identical_n,chunk_identical_flips,chunk_identical_rate,chunk_identical_flagged_either,chunk_identical_rate_among_positives,chunk_shifted_n,chunk_shifted_flips,chunk_shifted_rate,chunk_shifted_flagged_either,chunk_shifted_rate_among_positives,text_differs_n,text_differs_flips,text_differs_rate,text_differs_flagged_either,text_differs_rate_among_positives,unaligned_n,unaligned_flips,unaligned_rate,unaligned_flagged_either,unaligned_rate_among_positives
+deepseek-r1-14b,2279,6,0.0026,69,0.087,951,21,0.0221,21,1.0,20,1,0.05,1,1.0,89,0,0.0,0,
+deepseek-r1-7b,2279,15,0.0066,2047,0.0073,951,136,0.143,920,0.1478,20,1,0.05,20,0.05,89,0,0.0,76,0.0
+gemma-4-4b,2279,5,0.0022,481,0.0104,951,131,0.1377,255,0.5137,20,3,0.15,5,0.6,89,0,0.0,7,0.0
+ministral-8b,2279,8,0.0035,453,0.0177,951,111,0.1167,220,0.5045,20,3,0.15,6,0.5,89,0,0.0,11,0.0
+phi-4,2279,14,0.0061,600,0.0233,951,163,0.1714,320,0.5094,20,4,0.2,7,0.5714,89,0,0.0,15,0.0
+qwen3.5-9b-q6,2279,29,0.0127,428,0.0678,951,130,0.1367,234,0.5556,20,2,0.1,5,0.4,89,0,0.0,14,0.0
+qwen3.5-9b-q8,2279,8,0.0035,423,0.0189,951,136,0.143,226,0.6018,20,2,0.1,5,0.4,89,0,0.0,7,0.0
