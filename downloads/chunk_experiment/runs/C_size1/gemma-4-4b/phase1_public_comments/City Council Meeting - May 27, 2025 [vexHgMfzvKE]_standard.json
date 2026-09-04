@@ -1,0 +1,355 @@
+{
+  "title": "City Council Meeting - May 27, 2025",
+  "video_id": "vexHgMfzvKE",
+  "upload_date": "20250528",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-04T02:21:40+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    },
+    "chunking": {
+      "p1_chunk_size": 1,
+      "p1_chunk_offset": 0
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_01",
+      "start": 252.97,
+      "end": 450.28,
+      "speaker_name": "Cindy Lamb",
+      "reason": "The speaker identifies herself as a local business owner and expresses a position regarding the city.",
+      "text": "evening welcome good evening thank you so much for having us um thank you for giving me the chance to speak tonight my name is cindy lamb i am the president of lancaster api i'm also the co-owner of cilantro asian street kitchen you may or may not know on every corner in every block of lancaster city every road every shopping center in the county up and down route 30 every traffic line street off the beaten paths small roads to major highways there is an aapi owned business during the height of covid 19 pandemic many businesses stores shuttered so many of our asian owned businesses stayed standing not because it was easy but because we refused to give up we braved through difficult social and economic times we adapted and pushed forward because we're a resilient community but resilience doesn't mean the road has been easy even today in 2025 the the climate for small businesses, especially minority-owned businesses, has grown more challenging. Inflation, rising costs, labor shortages, and new waves of bias and xenophobia continue to test us. Our community faces obstacles that go beyond the economy, ones rooted in perception, misunderstanding, and sometimes unequal access to opportunity. We are also navigating a climate where immigrants and immigrant families, many within our AANHPI community, are often treated with suspicion, dismissed, or even targeted. In times like these, it's important to remind everyone here. Many of us, through grandparents or parents, came here out of courage. We came here to work hard and build a life, and we chose Lancaster as our home. Many of us have chosen to build businesses here, to invest in the city, to raise our families here, and share our culture with everyone. The AANHPI community has poured their hearts into building a vibrant and thriving community, and our impact can be felt in every corner of this city. We enrich the cultural fabric of Lancaster with every dish, every service, and every story that we share. By recognizing and honoring NHPI Heritage Month, you're saying that we see you, we value you, and we believe in your place here, so thank you for that. You help create space for our stories to be told, our cultures to be shared, and our futures to be built together. You're supporting families who bet everything a better future and you're supporting neighbors who are helping to shape lancaster's economy culture and heart let's continue to be intentional and about recognizing honoring the strength and sacrifices and contributions of the aahpi community i ask for all of us and our city council leaders to continue to uplift honor and invest in our stories in our voices not just in may but every month of the year because our stories don't begin and end with a heritage month they are written every single day here right here in lancaster city thank you for walking with us standing with us and celebrating all that we are and i would like to introduce the next speaker from lancaster api rachel thank you hello my name is rachel young i was recently made"
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_03",
+      "start": 450.28,
+      "end": 635.78,
+      "speaker_name": "unknown",
+      "reason": "The speaker is sharing personal background while addressing the council.",
+      "text": "lappy's new avenge chair um i just want to give a little background on me so i'm originally from harrisburg pa actually i come from a really traditional vietnamese family and they both on both sides they settled in the u.s as refugees because of the war and so growing up in central pa the dichotomy of being vietnamese american has definitely been a roller coaster i attended a private school in harrisburg throughout high school and then went to lebanon valley college so i have grown really accustomed to navigating white centric spaces and standing out so much that i often felt like i had to hide just how different my family and i were um in order to struggle just to fit in and being asian my identity within these spaces was often already decided for me before i even stepped foot in the room looking back i faced daily micro macroaggressions i didn't even understand at the time and a lot of those experiences really shaped how i saw myself because i could not fully embrace my identity and i just felt self-conscious because i wasn't the norm all the time i often found myself craving community with people who looked like me and shared similar cultural experiences in college i was introduced to more socially conscious studies that really opened my eyes to what was going on and i finally felt seen hearing other marginalized people and students speak on their experiences and how they overcame those barriers to become outspoken advocates and their communities really empowered me and lit a fire in me that i've carried throughout my life since so that's why i sought out lapi a few years ago when i moved to lancaster in 2020 in the midst of the pandemic it was a crucial time in a lot of asian americans lives and at the suggestion of a really good friend who saw that i was seeking community because i felt so alone she introduced me to individuals from lapi and they accepted me with open loving arms and i've been so grateful ever since because now i get to work within a space with such wonderful individuals that empathize with and uplift my passions for social advocacy and representation being part of this organization has opened so many doors for me to connect with other people from other multicultural organizations as well that represent the rich diversity of people here in lancaster and help expand my worldview my lived experience in lancaster so far reminds me to stay grateful to come from such a beautiful culture that affords me the wonderful experiences of connecting with so many others that now make up my beloved community witnessing the efforts that have been made in lancaster to embrace the aahpi population that resides here and celebrates our cultures and relevance in the city has been truly empowering i'm very proud to be part of this community now and i'm excited to see how we continue to grow thank you all very much my name is samuel solomon"
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_15",
+      "start": 635.78,
+      "end": 742.28,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies themselves as a resident and expresses personal background relevant to the community.",
+      "text": "i lived here in lancaster pa since i was one year old i'm a mccaskey alum photographer co-owner of a streetwear clothing brand and a board member for an organization called touchstone foundation working to support youth mental health here in our city while living in america i've been under a program called daca which stands for deferred action for childhood arrivals for half of my life i've been living in this legal limbo along with over half a million children of immigrant parents we are granted temporary protection from deportation and the ability to live and work here in the united states legally we have to apply to renew the status every two years with no pathway to american citizenship i've built my whole life here working paying taxes and trying to make a positive impact in my community yet there is no guarantee if i can stay here in America. Despite living in this legal limbo for over ten years, I'm really proud to call Lancaster my home. This past year has been a journey of reflection where I asked myself if I truly fit in and if I truly belong, but Lancaster has always been shaped by immigrants and people like me are a part of that legacy. Since its founding, Lancaster has had over 250 years of welcoming immigrants and settlers, those who seek to find a better life and help build up this community and this country. Today, I find myself in fear of how people like myself are seen and what is happening to immigrants in this country. I'm here today to share with you that even though I'm afraid of what will happen to me, I know that it takes the courage of one person to change that narrative. My whole life, Lancaster has treated me and my family as part of its community, and I've been thankful to have been able to contribute and give back to it. I hope as a community, we can choose to see one another with dignity and create a place where the city truly belongs to all of"
+    },
+    {
+      "block_id": 11,
+      "speaker": "SPEAKER_10",
+      "start": 742.28,
+      "end": 888.3,
+      "speaker_name": "Maya McCully",
+      "reason": "The speaker identifies herself as a resident and expresses personal thoughts during the public comment period.",
+      "text": "us thank you hi everyone my name is Maya McCully I am honored to be here to be part of this amazing event that I never thought would ever happen so I was born and raised in Lancaster I am a graduate of McCaskey my family we came over in 1975 to Fort Indiantown gap. And just thinking about it, like even in the in April, because that was the 50 year anniversary of the war. It's, it's heavy, because I imagine my grandmother, my family, everyone just leaving things behind, running towards the water trying to find a way out, like running up a platform trying to grab onto a helicopter to find their way out and it's not lost on me that their struggles and their journey to come here has lifted me and put me in a place where I can stand here in a room of diversity and be able to talk to all of you my family is so rooted in Lancaster the church on the corner st. James is part of a network of churches that sponsored our family to come to america my mother was the first vietnamese woman to graduate from from millersville university with a degree in mathematics and i was blessed to be born at st joseph hospital right over here and i still live here and raise my two children here i'm deeply honored to be able to share my family's story and to be part of a community that opens doors and are now holding open those doors and sometimes they are pushing open those doors for families like mine to feel belong like belonging to help them thrive and to help them make it feel like home thank you thank you so"
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_05",
+      "start": 905.02,
+      "end": 940.33,
+      "speaker_name": "unknown",
+      "reason": "The speaker is thanking community members and encouraging them to share their stories regarding the city.",
+      "text": "resolution councillor Ahmed Thank You council president I just want to thank the members of the AAPI community who came out tonight and also those who are not here and just want to thank you for all that you do for Lancaster City as business owners community leaders neighbors and I encourage you to continue to keep telling your stories because you know we are better because of our diversity and we are better because of our welcoming and the AAPI community here in Lancaster is a model of how welcoming works and how we are better because of our new neighbors thank you Thank You councillor men"
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_18",
+      "start": 1096.23,
+      "end": 1301.78,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and expressing concerns about a topic.",
+      "text": "evening yes we do madam president first is mr. Zaki I am happy that I'm again here and my topic is opposite their topic and I'm talking general I know know that you cannot you couldn't do anything you cannot do anything for me but just for object just for a different way that I'm trying to explain the problems okay a lot of you know that my story no I no need to repeat it recently we took down our sign of our restaurant after four years that City Council condemned it and it is very interesting and shameful for a country of law and justice very easy a person pay inspector with the pay inspector running business without insurance and proper inspection the property destroy our business sell our equipment even not pay our security deposit challenge us at the court and tell us that you cannot fight at the court because you don't money we have money you cannot afford it he's right because the law and justice is not in power the money is in power this is not only our problem or my problem it's all our country problem society problem this is a big problem there is a big problem between rich and poor justice systems any state solve the problem by not giving justice making it is ex make it expensive encouraging people and encouraging everybody to get their right by themselves by commenting crime killing each other or suicide themselves all you know the story of liuji liuji my morgan or or ,, that insurance study. Or there is a person in a hunting town killed himself in front of the court. And there is 1,000 stories. If you go to the Google, you can find 1,000 cases about this killing, murdering, and because of injustice. Who is responsible for all this suicide, killing each other, murdering? And 1,000 cases every year happening. I myself, I blame, accuse the people on this business and law business. Who is in law business? Justice Department, judges, lawyers, or any person who making money from the blood of the people, not from the solve the problem. This all money they making from the blood, not from the solving the problem. And I'm challenging all lawyers, all judges. It is really first time that I'm challenging judges."
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_12",
+      "start": 1444.22,
+      "end": 1449.68,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering thanks and apologizing for a conflict.",
+      "text": "thank you for having me sorry about me being the one conflict we make it work"
+    },
+    {
+      "block_id": 23,
+      "speaker": "SPEAKER_12",
+      "start": 1495.02,
+      "end": 1605.94,
+      "speaker_name": "Theodore Griffiths",
+      "reason": "The speaker identifies as a local professional and discusses resources available to local entrepreneurs.",
+      "text": "Thank you. Yeah. So thank you for having me again. I am Theodore Griffiths, I'm a librarian, and I'm the manager of all of the business services and circulation at the Lancaster Public Library right along the way there. Beyond all of my librarian duties, I help local entrepreneurs with all of our business databases and I help them conduct market research, and then I link them up with our community partners like ASSETS, SCORE, and a few other financial institutions. I also oversee our lovely front desk staff, so if you haven't been in the new library if it's been a while, please stop in. I'm a native of Scranton, PA, but I've been in Lancaster County since 2011, so I went to Millersville. I have a bachelor's in literature with a minor in philosophy, extremely employable, and then since then, once I graduated, my wife and I ran a little bed and breakfast for about four and a half years. It's called the Hollinger House. It's still going today, but in 2019, we decided we wanted to buy our own home, so we bought a house in the southwest part of the city and we decided a couple years after that to go back to school and get our master's degrees i finished my master's degree in library science just last year and since then i have been given much more responsibility at the library itself i believe that my experience on the library's internal policy committee my handling of all of our patrons um you know you know all their private information all their reading habits especially now that that kind of stuff is kind of in the scope of certain entities plus my dedication plus my dedication to the equity of access to all kinds of information and my prior experience as a manager of a business for me into a candidate that can be trusted to be non-partisan honest and observant when constructing a city ethics policy on this commission sorry i don't"
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_13",
+      "start": 1621.76,
+      "end": 1645.96,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding ethical issues and decision-making.",
+      "text": "theodore for um for stepping up into this role and you're doing great on the public speaking so no worries um i just have a question um in regards to ethical issues you know how do you see yourself as or how do you ensure that your personal beliefs don't necessarily conflict with fair and impartial decision-making so I think I"
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_12",
+      "start": 1645.96,
+      "end": 1692.38,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding bias and censorship in a professional context.",
+      "text": "understand that at the end of the day we we all have biases but those do need to be kept at home and that's the same same thing at work as well so for instance I don't believe in any like you know any form of censorship as a librarian that is in our entire code of ethics it's it's you know it's a founding principle of that but that means things that I disagree with as well there will be items in the library that we keep in circulation because freedom of information freedom to read whatever you want to read regardless of what it is and so I think I can bring that into this role as well as someone who you know will understand that while I may not agree with something on a personal level there is good to it it is ethical and i bring that to my work as well i think that's"
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_13",
+      "start": 1692.38,
+      "end": 1699.6,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and expressing a sentiment during the public comment period.",
+      "text": "important now more than ever absolutely thank you theodore counselor craig thank you council"
+    },
+    {
+      "block_id": 29,
+      "speaker": "SPEAKER_12",
+      "start": 1713.85,
+      "end": 1766.22,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion and concern regarding library materials during what appears to be a public comment period.",
+      "text": "I would say, actually, it came down, my previous job, I worked at another library before this one, I was out at E-Town, and we had a lot of books that were propaganda, you might say, anti-trans, with dubious medical information in them, but they were circulating, some of the patrons in that area were very engaged with them, and there was a part of me that wanted to remove these books. there was a part of me that said this this is not scientifically back these aren't peer-reviewed but at the end of the day information and the freedom of information is information and those books are still there to this day I don't work there anymore I don't know if we necessarily care anything like that at LPL but they're still there and those people still have access to those books"
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_12",
+      "start": 1787.1,
+      "end": 1811.84,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses personal connection and interest in the community.",
+      "text": "have not I've been working on my schooling the last few years and before that we were running a business so this is kind of the first time I've had any of the free time if you will to engage in something like this and I feel like this would be a great place to do it because I love this community I love this city I love the Southwest where I live and yeah I just think it would be yeah nice I think now's the time I appreciate that and I appreciate you"
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_00",
+      "start": 1821.23,
+      "end": 1841.33,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding the fair and consistent application of the Commission's decisions.",
+      "text": "madam president and thank you for your willingness to serve and how would you ensure that the Commission's decisions are applied fairly and consistently under the Home Rule Charter regardless of the position status or political connections of the individuals involved so I think that's where the entire"
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_12",
+      "start": 1841.33,
+      "end": 1878.46,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding the desired composition of a commission.",
+      "text": "Commission comes in I'm hoping like any good Commission that there are people from multiple different backgrounds a very diverse Commission of all different ages as well so then when we're looking at you know any policy we can engage with that from a lot of different perspectives and i feel like that is how you make sure that something is fair for all is that all different eyes have to be on it i would just be one i'm a 35 year old white guy but i'm hoping that the entire committee is made up of a lot of different people so that we can have multiple sets of eyes on there to make sure that these decisions that"
+    },
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_04",
+      "start": 1878.46,
+      "end": 1893.2,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion or asking a question regarding ethics policies.",
+      "text": "these policies are fully ethical good thank you that's all right thank you council president Thank you, Theodore, for your willingness to serve. How would you handle a situation where someone you know is subject to an ethics complaint?"
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_12",
+      "start": 1894.72,
+      "end": 1937.22,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a strong opinion regarding the good of the entire community.",
+      "text": "Well, in that case, in a situation like this, I have my friends, I have my family, but at the end of the day, I was raised by a Marine, and it's all about the good of the entire community. It's about the good of your entire platoon, and unfortunately sometimes that means that you have to turn your back on people that are making bad decisions, and you have to push forward and um you can't stick by them um you can't let that slide uh you have to face that head-on and acknowledge that this person that i care about this person i like has made a bad decision and i have to call that out and i would absolutely do that thank you"
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_05",
+      "start": 1937.22,
+      "end": 1946.84,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council president and asking a question about elected officials.",
+      "text": "council president and thank you theodore for your uh willingness to serve and answering our questions this evening how do you believe that integrity and honesty and elected officials can"
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_12",
+      "start": 1946.84,
+      "end": 2001.46,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about community trust and the actions of elected officials.",
+      "text": "build trust in the community I think it's everything I I think if you see you know the people that you voted for if you see them engaging in things that are that are dishonest if you see them kind of not standing up for the little guy sometimes not that I'm saying anyone's doing that by the way that is not a but I feel like it's you know it's all about that trust it's all about it's seeing walk the walk seeing them everything they say on the campaign trail they do in their office as well and it's the same thing you know for someone like me who would not i'm not a politician i would not be you know in an elected office but to make sure that even when i'm out in public when i'm out around the city that i am engaging in you know fair behavior and you know i'm being a good custodian of this city and i feel like that's extremely important thank you thank you very"
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_11",
+      "start": 2535.83,
+      "end": 2779.52,
+      "speaker_name": "Rebecca Geyser",
+      "reason": "The speaker is presenting information regarding community planning and economic development.",
+      "text": "thank you so much thank you all for your patience we discussed this and i said the technology will be fine i should have known try again okay game on we do lead remediation and healthy homes programming way better than we do technologies i'm here presenting this evening good evening with good evening counselors and mayor rebecca geyser deputy director in community planning and economic development for those in the audience who don't know me and i'm here presenting with elaine lap esch and daniel sosa from the office of healthy homes and we'll be sharing this presentation and we are so excited to share with you tonight the impactful work led by the office of healthy homes over the mayor's term we've significantly expanded these programs and we want to share with you what we've been able to accomplish over the last several years and also what we hope to accomplish in the coming years for reference this is CPEDS organizational chart slide two and the Office of Healthy Homes is situated within the Health Bureau under the leadership of Craig Walt unfortunately Craig is ill this evening and is unable to be with us but he would have had the copies for you and he's prepared the team for this presentation for many years we've let we refer to this team as the lead team everyone calls this the lead team but we have rebranded ourselves and rebranded the programs as the office of healthy homes really to highlight our broad focus on various programs to promote health safety and well-being of which remediation is now just one part of all the office of healthy homes programming which as you'll see to the next slide this is a photo of our team and the office of healthy homes is made up of these five individuals when and two others when fully staffed and all team members started with the city in 2021 or later so it's really remarkable to see the team building and capacity building that you'll hear about this evening that has opened up the programming over the last several years elise poi out the who is the community development program administrator you've seen her before present she also supports these efforts through overseeing our grant management and our compliance so in line with the health bureau's mission to promote and protect the health and well-being of lancaster city the office of healthy homes mission is to promote safe and healthy living environments through an array of programs and services we aim to achieve these interrelated goals related to health and housing and you can see the first three reducing health and safety hazards prevent childhood lead poisoning and stabilizing homes and neighborhoods are very obvious goals and connections but in addition this program also impacts important economic development goals within the city to preserve affordable housing and sustain homeownership and supporting local contractors and small businesses as we do the work the most effective public health programs address a magnitude of issues and are a part of a strategic and comprehensive approach to make long-lasting impact on our community and this team is truly knocking it out of the park and I'm so glad to be a part of the presentation this evening to provide you with some of the details about their work and the lives that they've impacted hi I'm Elaine"
+    },
+    {
+      "block_id": 46,
+      "speaker": "SPEAKER_07",
+      "start": 2779.52,
+      "end": 2937.72,
+      "speaker_name": "unknown",
+      "reason": "The speaker is presenting on the goals and programs of an office, suggesting a stakeholder presentation rather than a general resident comment.",
+      "text": "lapash and programs manager for the team and i'm i'm very happy to be with you tonight and be able to share our programming and some of the things some of the goals that we've reached over the last several years and what we have to look forward to if we can leave one thing with you tonight it's that we have three programs in our office of healthy homes so lead is very important and we don't mind being called the lead team but we're more than that and we want to make sure that people in the city are aware of it so i'm going to go over our three programs and then daniel expand a little bit more upon it the lead hazard control program is probably the one you're most familiar with we received a 9.7 million dollar grant in 2019 and are just wrapping up that grant now but in this program we perform a surface by surface lead inspection and risk assessment in a house and then develop a scope of work that directly addresses each of the lead hazards so to be a lead hazard it's lead positive and it's also deteriorated the critical repair program is a program just for homeowners living in lancaster city and we address one or sometimes two very big issues and these are critical or emergency issues that may cause the owner to have to leave their home i'm very proud of this program because often we have long time homeowners that there's just been deferred maintenance or a sewer pipe collapses just one big issue that's very expensive and hard to save for hard to plan for and we can help them out we screen issues for this one over the phone so we don't require that they submit an application before we review the emergency repair that they have that way they're not wasting their time if they filled out an application knew they were eligible and then we went and looked and said well you know we we don't use this program for a leaking faucet then they would have wasted all that time the healthy homes program we received part of the money from the lead hazard control program for a healthy home so it was a 9.7 million dollar grant the 700 000 was for healthy homes issues so when we were in a house doing the lead work we would also be able to fix some of the other healthy homes issues that were not lead based part of the healthy home stuff too is we are able to flag some of the urgent issues that we would otherwise address through critical repair so that's been a good way to help us find funding for"
+    },
+    {
+      "block_id": 53,
+      "speaker": "SPEAKER_09",
+      "start": 3945.58,
+      "end": 4006.93,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering praise and sharing a personal memory related to a city grant.",
+      "text": "Thank you very much to all of you for all of your amazing work. Yes, a huge round of applause to you and your entire team and tell Craig thank you as well. I just wanted to say that I remember I was just coming on to council when the grant came to us in 2019. I remember us, if I remember correctly, we all, including the councilors-elect at that time, signed our names on the big check that we got and it was it was really amazing and to think about the possibility that was a part of that and now to be at the conclusion of that and know that we have more we can move forward because we've proven that we can do it is a testament to everybody on the team and everybody who put it into action so thank you so much for that really appreciate it any additional comments from council on the report that we received council"
+    },
+    {
+      "block_id": 54,
+      "speaker": "SPEAKER_04",
+      "start": 4006.93,
+      "end": 4039.46,
+      "speaker_name": "Arroyo",
+      "reason": "The speaker is thanking city departments and programs, expressing a positive opinion about city initiatives.",
+      "text": "Arroyo Thank You council president just wanted to say thank you to the team out of the many departments and programs in our city this is definitely one of the ones or these three programs are one of the ones I brag about a lot to our residents and it's really cool to see the completed number of projects over the years and I want to give a shout out to Dan because I know personally that you went out and knocked doors to get the word out about the specifically the led program but it's really cool to see how much impact we've had in our city over the years so thank you so much to the team for making it happen"
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_17",
+      "start": 4039.46,
+      "end": 4048.15,
+      "speaker_name": "unknown",
+      "reason": "The speaker is piggybacking on a council member's statement, indicating they are addressing the council.",
+      "text": "that's a Craig yeah I just want to say piggyback on what councillor has said"
+    },
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_13",
+      "start": 4048.15,
+      "end": 4070.22,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing appreciation and offering positive feedback on city initiatives.",
+      "text": "and just to say thank you thanks for all you do I just the only thing I wanted to add is I loved the innovative partnerships that were seen particularly at the City Housing Authority I just thought that was brilliant and the ways you guys did that to get more out of it I thought that was"
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_06",
+      "start": 4070.22,
+      "end": 4101.13,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing praise and asking the mayor a question regarding the city's achievements.",
+      "text": "really excellent so thank you mayor's Raji thank thank you I just want to when we receive the award in 2019 we are one of the high-impact HUD recipients which made us one of a handful on par with Detroit and Baltimore the state of Rhode Island and Houston and I don't mean to put you on the spot but I think we're leading the nation um and so can you just talk a little bit about that because i think we have"
+    },
+    {
+      "block_id": 58,
+      "speaker": "SPEAKER_07",
+      "start": 4101.13,
+      "end": 4184.46,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing appreciation and discussing the impact of support received from the mayor.",
+      "text": "bragging rights thank you mayor and i just appreciate so much your support and how much you've talked us up because it has helped in a lot of different a lot of different areas and the resources that we've received we are one of the top performing we actually um you know as i mentioned we decreased our production numbers to to 400 because we had increased the price per property and most of the other high impact grants grantees had not even proposed that high of a number they were more in the 300 to 350 range so i'm not sure where they're all ending up we'll have i think we'll have access to those results as they close out their grants do but definitely we have heard from hud that we're one of the top performers and that's always great to hear but it also positioned us well for the follow-up grants that we received including the healthy homes production grant we ran out of our healthy homes supplemental funds for that first grant about two years before the end of the lead grant so if we hadn't received that healthy homes production grant we kind of would have had a little more of a hole in our services so having our reputation for production really helped us there thank you congratulations again"
+    },
+    {
+      "block_id": 62,
+      "speaker": "SPEAKER_17",
+      "start": 4295.24,
+      "end": 4359.62,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding an amendment to the historic district ordinance.",
+      "text": "thank you council president um if i'm not mistaken i think director i believe director delf's um presented this to us in committee um the bill for this amendment will update the definition of the building officials within the definition of building officials within the historic historic district ordinance this is to create a more flexible to create more flexible for appointments to the historical architectural review board and historical commission the current ordinance refers to the building officials that dates back to when the city only had one now there are several the ordinance would also delegate to the director of community planning and economic development the authority to just to designate the building officials to serve on those boards thank you very"
+    },
+    {
+      "block_id": 69,
+      "speaker": "SPEAKER_17",
+      "start": 4478.28,
+      "end": 4540.76,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding the requirement to adopt an official sewage facilities plan.",
+      "text": "community planning councillor craig thank you council president we we've done these several times before the pennsylvania department of environmental protection requires that the municipality do to adopt an official sewage facilities plan providing for the services adequate to prevent contamination and environmental health hazards with sewer waste and amend from time to time when necessary to assure there is adequate sewage disposal sewage related zoning and other sewage related municipal ordinances and plans thank you very"
+    },
+    {
+      "block_id": 78,
+      "speaker": "SPEAKER_05",
+      "start": 4642.36,
+      "end": 4693.0,
+      "speaker_name": "unknown",
+      "reason": "The speaker is thanking the administration and expressing support for an event related to world refugee day.",
+      "text": "request um not much to add i just want to thank the administration for their commitment to continuing to recognize world refugee day here in lancaster and this world refugee day will be doing a flag raising where we will be flying the refugee nation flag which is a symbolic flag for refugees across the world it is an orange flag with a black stripe down the bottom to symbolize the horizon that refugees have to find in their long quest but it also symbolizes life jackets that many refugees may have had to use during their travels we look forward to the flag raising on June 20th to continue to honor the contributions experience and stories of our refugee neighbors here in Lancaster thank you very much councillor"
+    },
+    {
+      "block_id": 81,
+      "speaker": "SPEAKER_05",
+      "start": 4726.77,
+      "end": 4733.78,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding the time of the flag raising.",
+      "text": "councilor med uh the time of the flag raising i believe it is 10 a.m i would have to get back to"
+    },
+    {
+      "block_id": 89,
+      "speaker": "SPEAKER_18",
+      "start": 4874.0,
+      "end": 5026.66,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a strong opinion and concern regarding the justice system.",
+      "text": "name and block of residence record thank you and I'm trying sorry that I'm trying to continue again what I left I will be the first person that I am calling the lawful people as a criminal because I'm thinking they by not giving the justice to people they committing crime they encouraging the people to go kill somebody or to suicide himself and I'm challenging all lawyers and judge if can't prove it they are not and some people trying to bring peace in Ukraine and Gaza here dear I think they should bring peace in here because there is a conflict between rich and poor and prevent from the crime from the they're creating the crime but they if they bring peace that they can do so i'm saying the american first yeah this is the time that the american first bring peace in here a real peace in the heart in the community not not by forcing put give a person a life sentence in the jail that's not the peace like they did they gave for the that person luigi as an object we filed our case in the court i i i took my kids money from tax return my money to file my my case in court and it take it need a lot of money to process this case i don't know how i will be able to who come to to collect that money to pay for the lawyers or for the court or not and i hope that i hope that this problem will be solved but not harm myself like the other person that in front of the court because i love my kids i'm not commenting a crime if i was doing i was i was NOT HERE BUT I HOPE THAT EVERYTHING WILL GO WELL AND THIS IS ALL MY WORK THANK YOU SO MUCH"
+    },
+    {
+      "block_id": 91,
+      "speaker": "SPEAKER_06",
+      "start": 5051.48,
+      "end": 5264.7,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering recognition and sharing positive news about the school district.",
+      "text": "uh tonight i'd like to take a moment to recognize the school district of lancaster and its incredible students over the years sdol and the city have built a strong and meaningful partnership and i want to recognize a few pieces of sdl news so first i want to congratulate mccaskey's unified track and field and varsity track and field athletes athletes who competed at the pi double a state championships at shippensburg this past weekend varsity track and field team place second and remarkable achievement and all the student athletes make our entire city proud and the only reason why I had awareness of this is that last week I and several city staff had the pleasure of judging the school district of Lancaster STEM fair and it was as I was leaving the STEM fair that there was the drumline and all the cheerleaders as they were sending off the athletes on onto the bus to head to Shippensburg. And it was just such a wonderful moment of school spirit and community pride. So I just wanna recognize that. And then as it relates to the STEM fair, several of us had the chance to go and judge projects. And I think as well, Councilor Arroyo, Molly, our Deputy Director of Public Works for Sustainability, Rebecca, who you heard from tonight, and Betsy, also who you heard from tonight, got to witness the passion and innovation of these young minds at the STEM Fair, and their projects were pretty amazing. And they have recently taken on a number of projects that are directly related to the city, whether that's around stormwater or litter. And I just, I highly recommend if council members ever get asked to go to absolutely do it, because you will be shocked what these kids are coming up with I also you know one of the key programs connecting the city and the school district has been the JP McCaskey neighborhood leaders Academy which has been an outstanding program over the years with 84 students compete completing it since its inception at our last meeting we saw this and the program continues to shape future leaders and strengthen the ties between McCaskey and our city government and just this morning I attended the witness stones project ceremony and saw the hard work of McCaskey social studies students who researched the stories of four enslaved residents of Lancaster they spoke eloquently at the ceremony about the research that they did and what they learned about these four individuals one two of them were children and it was really clear that they were passionate about the project and finally this week is McCaskey's graduation it will be held on thursday night an annual highlight for sure i have the opportunity to speak at the ceremony and to celebrate their perseverance and dedication and this one this last one will certainly be extra special for me to celebrate the class of 2025. so i'm really deeply proud of how our city employees have embraced collaboration with the school district on key initiatives like bike and and pedestrian safety youth engagement public safety and community building there is much more to collaborate on and I'm grateful both to our city departments and school district of Lancaster staff who are really eager to keep that partnership going strong thank you council thank you very much mayor"
+    },
+    {
+      "block_id": 93,
+      "speaker": "SPEAKER_05",
+      "start": 5303.12,
+      "end": 5327.63,
+      "speaker_name": "unknown",
+      "reason": "The speaker is providing an update on the home rule study transition committee's progress to the council.",
+      "text": "council tonight council president if i may counselor i just wanted to make the other members of council aware that the home rule study transition committee did meet on may 6th and went over both the administrative code as well as the ethics code which will be which we are currently doing the interviews for and will be more to come but we are on track and we are on time and that"
+    }
+  ]
+}

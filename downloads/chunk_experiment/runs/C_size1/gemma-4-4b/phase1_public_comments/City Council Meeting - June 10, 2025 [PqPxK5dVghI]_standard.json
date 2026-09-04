@@ -1,0 +1,364 @@
+{
+  "title": "City Council Meeting - June 10, 2025",
+  "video_id": "PqPxK5dVghI",
+  "upload_date": "20250611",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-04T02:21:40+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    },
+    "chunking": {
+      "p1_chunk_size": 1,
+      "p1_chunk_offset": 0
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_05",
+      "start": 467.21,
+      "end": 554.63,
+      "speaker_name": "unknown",
+      "reason": "The speaker is introducing a resolution related to immigrant heritage month and refugee day, expressing concern for the community.",
+      "text": "counselor med thank you council president it is an honor to introduce this year's 2025 immigrant refuge immigrant heritage month and world refugee day resolution but we would not be remiss without thinking about the current state that many of our refugee and immigrant neighbors find themselves in And although we are seeing challenges at the federal level and uncertainties, ends to refugee programs, travel bans that affect families, including mine, this year we want to reflect on the challenges that our refugee families and immigrant neighbors are still facing and how we as a community can help celebrate their importance and diversity in our community. Because many of them are still waiting to bring their loved ones, waiting to bring their wives, their husbands, their elderly parents, their children. And although there is uncertainty now and what will happen with the refugee program, what will happen with TPS, what will happen with travel bans, it is important that they know that we are still a welcoming city and we are still here for our refugee and immigrant neighbors. Thank you, Council President. And I believe we have Ramucho Karakezi here to speak on the resolution."
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_00",
+      "start": 563.36,
+      "end": 782.48,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident and expresses support for refugee and immigrant communities.",
+      "text": "Oh, I know the technology now, so good. My name is . I'm a resident of Lancaster City. I live in Coral Street. I am US citizen. I'm a former refugee. I want to thank Lancaster that they've been supporting for refugees and immigrants when sometimes it doesn't feel safe to be called refugee or immigrant. We all know now that current administration, it's keep attacking the name of refugee and immigrant. We know what is happening in Los Angeles, in California. We know what is happening around us. As a former refugee, I still don't feel that I overcome anything. I remember me coming here to celebrate my citizenship. Does this matter for now for me or that can be taken away? Some refugees and immigrant communities are feeling scared and worried for what is happening right now. I want to thank city of Lancaster to pass the resolution to recognize the contribution of refugee and immigrant in economically, culturally, socially, and everything. However, we need to see elected officials making statement that refugee are safe here and immigrants are safe here and they're welcome and to highlight their contribution. We know we pay taxes, we know we work, we know we're social worker, we know we are health ed worker and give care for the people who really need it. We are in every field. We perform as American. Accept the document. We have ability. We are just a human who can do everything, who dream and who want to achieve. We want to see elected officials highlighting that because the anti-immigrant, anti-refugee rhetoric or speeches which are very discouraging and concerning. We would like to see, as you have been very welcoming, very thankful for Lancaster City administration, how they have been passing some policies to protect us. However, we need you more now. I'm with people here from the community who want to come and sit here, want to feel hope that they belong here, and they're very happy to be here. That's my dad in between. That's the community leaders from female who present a lot of females in Lancaster, but they're worried. The mom there, she wanted to go to Rwanda to get married, to see her son getting married, but she's worried to travel because she doesn't trust if she came back, can she make it? She have been here in Lancaster for four years, but she's not citizen yet. This is a concern happening for the Alankasa resident. I thank you very much for everything you're doing, but also agree that we need you more as a resident of Alankasa. Thank you."
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_07",
+      "start": 1330.41,
+      "end": 1342.49,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council about honoring Juneteenth and the contributions of African Americans.",
+      "text": "june 19 2025 as juneteenth in the city of lancaster and calling upon all lancastrians to honor the dignity culture and contributions of african americans to the history and life"
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_11",
+      "start": 1355.13,
+      "end": 1570.73,
+      "speaker_name": "unknown",
+      "reason": "The speaker is introducing and reading a resolution related to historical African freedom.",
+      "text": "great honor to be able to introduce this um resolution of june king for the last few years um so i'm going to read the resolution as it's as it is has been written the road road to freedom has been arduous for africans and the important work of equality continues today and historically historically due to its location along the mason-dixon line lancaster county played a significant role in the freedom of enslaved africans by way of the underground railroad and lancaster was home to a number of prominent black and white abolitionists who advocated for freedom for all africans and according to the united states census register slave register all africans living in lancaster were free by 1850 and on january 1st 1863 president abraham lincoln issued the emancipation proclamation declaring that all enslaved africans held in the states then in rebellion shall then shall be then henceforth and forevermore free and prompting all enslaved africans to demand their freedom and word traveled to the edge of the nation slowly but made it to galveston tech texas the westernmost confederate state where general granger read aloud the emancipation proclamation on june 19th 1865 sharing that slavery had been abolished and this day came to be known as juneteenth and was first honored by very the very next year in texas on june 19 1866 with a jubilant hopeful celebration filled with picnics music prayer within the black community and juneteenth celebrates celebrations take place across the nation each year in honor of its resilience of the black community community and in homage to all africans who bravely paved the way for freedom in america and 49 states and the district of columbia recognized juneteenth as a holiday or a observance according to pennsylvania which adopted juneteenth national freedom day as a state holiday in 2019 and the pres and president joe biden signed juneteenth national independence day act in 2021 the day making the day a federal holiday the city of lancaster celebrated juneteenth as a government holiday for the first time in 2023 now therefore be it resolved by the city of the city by the council of the city of lancaster that june 19 2025 be celebrated as juneteenth in the city of lancaster and all lancastrians are invited to reflect upon the spirit of the day embrace the beauty of the diversity and pledge to honor the dignity culture and achievement of africans in every sphere of life in the city and and commonwealth and nation so that is the resolution as it is written and like i said it's been my honor to have introduced this for the last few years counselor craig thank you very much for reading"
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_10",
+      "start": 1613.3,
+      "end": 1648.1,
+      "speaker_name": "unknown",
+      "reason": "The speaker is sharing a historical perspective and promoting a local event during the public comment period.",
+      "text": "good evening uh tony dash 700 block new holland avenue um juneteenth is a important holiday to celebrate uh lancaster does have a lot of great abolitionists and just if anybody in the room or watching uh wants to learn more about the history of lancaster's involvement in the underground railroad bethel ame which i am a member and actor in their living the experience show it happens once a month uh not july but the next show will be in august the first saturday uh we'd love to see more people come see the show it's a great time i play thaddeus stevens"
+    },
+    {
+      "block_id": 28,
+      "speaker": "SPEAKER_10",
+      "start": 1826.26,
+      "end": 1852.12,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses support for the city's stance on community issues.",
+      "text": "to see tony dash's 700 block new holland avenue i'm also glad to see this uh because i mean this can be said about the first resolution as well with the net with the federal government turning over everything trying to erase people from our country removing transgender individuals from the military it's just good to know that lancaster city supports people thank you any additional"
+    },
+    {
+      "block_id": 32,
+      "speaker": "SPEAKER_01",
+      "start": 1917.93,
+      "end": 2052.54,
+      "speaker_name": "Scott White Kettle",
+      "reason": "The speaker identifies as a resident and expresses concerns about drug use and public behavior near a local park.",
+      "text": "good evening i'm scott white kettle and i reside at 462 fremont street directly behind colleton park i have been living at this address for a year and four months and it has been nothing but a nightmare when i walk up fremont street on my way home from work there are always a dozen or so individuals sitting on the park wall with open alcohol containers smoking marijuana and or nodding out high on drugs there are concrete pathways running through the park that converge in a circle of benches in the middle and i sit back and watch drug deals go down there frequently almost every night there are people screaming and yelling or arguing and fighting out on the street in front of my house either going to or coming from call it in park and i routinely get woken up at all hours of the night while sleeping for work there are also homeless people in tents practically in my backyard constantly begging for money and a few weeks ago a nine-year-old boy and a 12-year-old boy were both arrested for armed robbery and then there's the event that persuaded me to speak here this evening on the night of saturday may 31st just before 10 pm someone literally and physically kicked my front door in at first i couldn't exit my domicile because of all the splintered wood dangling and the deadbolt being so bent once i cleared the debris i stepped out on my front porch and there was a group of about five people heading away from my house they stopped on the concrete slab at the top of the steps leading down into the park all were visibly drunk arguing and yelling and two of them were trying to fight one another but being held apart i went back from my cell phone and called the police but unfortunately it took them over 20 minutes to arrive and by then the individuals were gone i am absolutely fed up to say the least my neighbors are fed up and the people who legitimately use colton park for its intended purposes are fed up children can't even safely play there anymore so as you can see i and my neighboring community are in desperate need of a stronger police presence and or routine police patrols in and around call it in part thank you very much i appreciate your"
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_09",
+      "start": 2079.62,
+      "end": 2225.34,
+      "speaker_name": "Michael Hess",
+      "reason": "The speaker identifies as a resident and expresses concern about public safety regarding traffic volume.",
+      "text": "good evening city council members my name is michael hess and i live at the 500 block of fairview avenue in lancaster pa i've been a resident here for five and a half years and during this time i've grown increasingly concerned about public safety due to the heavy volume of traffic on the section of fairview avenue south of waubank road here is where it becomes a two-way street this stretch of fairview avenue serves as an important access point for lancaster rec center the former price elementary school and brandon park all of which are heavily used by my neighborhood additionally this section includes a large bus stop for children who previously walked to price elementary now to be picked up for school at their new location the crosswalk at the intersection of roll ridge avenue and fairview avenue is one of the busiest in all of prospect heights particularly during the school year foot traffic to the rec center brandon park and the playground and basketball courts remain significantly high year round however it's also important to note that many of the residents in this neighborhood come from underserved backgrounds including single parents and lower lower income households as a result there's a higher concentration of pedestrians many of whom might have limited time or resources to raise awareness to these safety concerns aside from its community role fairview avenue is heavily trafficked by automobiles many of which speed through the area as it serves as a gateway road to other parts of the city in my time living directly across from the rec center i've witnessed numerous hit and runs of parked cars as well as near misses involving children and pets pedestrians rarely have drivers yield to them at crosswalks and due to the narrowness of the street vehicles often cannot pass in opposite directions without having to pull over and yield to one another this only heightens the chaotic and unsafe environment for both drivers and pedestrians in my opinion without intervention it's only a matter of time before a pedestrian is seriously injured i respectfully ask that the city council consider implementing safety measures to address these concerns possible solutions could include making this section of fairview avenue one way as the remainder is or installing speed bumps at critical intersections like fairview and roll ridge or fairview and hager or other similar measures to calm traffic please consider the safety of some of our most vulnerable community members thank you for your time and attention to"
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_03",
+      "start": 2274.48,
+      "end": 2420.52,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council to express concerns about city issues like unpaved streets and taxes.",
+      "text": "address so thank you good evening suzy gomez um 100 block north reservoir street just speak real close to the microphone thank you all right um just uh basically here to say um there are many uncertainties residents taxpayers and citizens along with now refugees that have concerns till this day 2025 in the city of lancaster our streets southeast have not been paved paying high costs for contaminated water taxes rising jobs housing etc etc etc i wanted to point out for the appointment of members to lancaster city's ethics board one in particular day i remember um amanda you stated that the highest votes um would be a minute at least so whoever has the highest votes for um the appointee uh from the public list of the nominees if if i i'm not mistaken um and i just wanted to advise that i did see um mr randolph hernandez having 59 people that nominated him in and he has yet to get a phone call an email or any type of response so i wanted to make that clear for the record um and to the mayor and council if we have this protest that we're hearing um do you have anything that is going to be you know anything that would control the situation if it gets bad um as it did uh and we don't want to see a replay of 2020 um with the black lives matter so hopefully um if it is true um it is a peaceful riot and um all borders are secured and we do not have to see out of control um people you know like we did last time such as arroyo i believe vacay and izzy was a part of that intensified situation um when we had a riot in the city of lancaster there are many concerns in the city and i just hope that um i don't even hope anymore i think you guys have done enough thank you miss gomez"
+    },
+    {
+      "block_id": 49,
+      "speaker": "SPEAKER_11",
+      "start": 2624.6,
+      "end": 2645.1,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering a positive comment regarding an appointment.",
+      "text": "any comments on this uh this appointment um i was just very impressed with um christopher mr sloth overall um his view on life and um his experience and background thank you very much"
+    },
+    {
+      "block_id": 50,
+      "speaker": "SPEAKER_04",
+      "start": 2645.1,
+      "end": 2701.34,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering an opinion regarding a candidate's suitability for a position.",
+      "text": "um counselor craig i would agree with you i thought mr salt was uh particularly well well suited for this position um and he was also among all the applicants affirmed um that they are residents of the city that they had not held any political position uh political action committee position uh in the past year as well and his his background in fair trade i thought was particularly interesting so any additional council comment we'll uh we'll take these one at a time because we do have to hear three so i'll hear up to at least three motions but we're going to take them individually so are there any comments from the public on this particular motion counselor craig"
+    },
+    {
+      "block_id": 53,
+      "speaker": "SPEAKER_11",
+      "start": 2719.98,
+      "end": 2769.34,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion about someone's work.",
+      "text": "yeah i just i just wanted to hear her counselor craig if you wish sure um his work with um fair trade and his work with the 10 000 villages and what he does what i mean he's been a ton of places where he has been in control of and in charge of helping people sell different products in their own country and out of the country so that's one of the things that impressed me the most about him and being able to mix and communicate with all nationalities of people"
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_10",
+      "start": 2798.06,
+      "end": 2842.09,
+      "speaker_name": "tony dastra",
+      "reason": "The speaker is addressing the council regarding the ethics commission and resident locations.",
+      "text": "tony dastra 700 block new holland avenue um i also think this result will be a great addition to the ethics commission but i do request that for the record it stated whereabouts in the city these residents do live ms bird and i when we were on the ethics subcommittee for the home rule study commission we're very intent on adding language that at the very end appointments will be made with consideration to a commission membership membership that reflects the city's diversity in regards to race color creed religion gender familial status sexual orientation national origin gender identity age disability and geographic location of residence um for that reason i just request that for the record roughly where they're about by quadrant is quadrant okay"
+    },
+    {
+      "block_id": 61,
+      "speaker": "SPEAKER_05",
+      "start": 2887.99,
+      "end": 2906.99,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a positive opinion about a candidate's qualifications for the ethics commission.",
+      "text": "additional words you'd like to say I was very impressed with mr. Colbert's extensive volunteer and professional capacities in which he served at the Boys and Girls Club as well as Thaddeus Stevens and I feel that he will bring a unique and diverse perspective to the ethics Commission which is important"
+    },
+    {
+      "block_id": 71,
+      "speaker": "SPEAKER_04",
+      "start": 3055.55,
+      "end": 3097.89,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering an opinion and feedback regarding nominees presented to the council.",
+      "text": "are really valuable thank you very much council hirsch i would also add that i i want to say that all five of the the folks that came in before council i was very impressed with and i think that we had a number of great nominees and so the selection of three is by nature of what we're required to do but i think that they were all really outstanding for ms melina potter in particular i appreciated that she does legal work with cws and i think that that's an important asset to have on the ethics commission yes thank you any additional council comments on this motion"
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_08",
+      "start": 3101.07,
+      "end": 3165.52,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies themselves as a resident and expresses support for a resolution and pleasure regarding a nomination.",
+      "text": "from the public good evening uh griffin durling 500 block of north plum street um i'm chiefly here to support the um counselor ahmed's resolution for immigrant heritage month and wild refuge today but i'm also very pleased to hear that erica has been nominated for the ethics commission um i'm actually her supervisor and i was the one who kind of nudged her in the direction of the ethics commission i'm very pleased to hear her nominated um she is a person of the highest integrity she treats our clients our community members our neighbors with the utmost dignity and respect as a first generation daughter of immigrants from colombia she has a unique perspective on the immigrant experience in the city of immigrants i think she'd be a terrific addition to the ethics commission and i applaud her nomination thank you very much thank you"
+    },
+    {
+      "block_id": 73,
+      "speaker": "SPEAKER_13",
+      "start": 3170.42,
+      "end": 3203.25,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses an opinion and concern regarding the selection of candidates for the ethics commission.",
+      "text": "good evening good evening grant sprunger 500 block of st joseph's street thank you i just want to say i'm very happy to be considered but also hearing the background of all the candidates that were interviewed i am happy that there are people that were chosen that were of vapor's backgrounds that have a lot to offer to the ethics commission i'm excited for the task at hand that they have to guide this city so thank you guys thank you mr sprunger any additional"
+    },
+    {
+      "block_id": 83,
+      "speaker": "SPEAKER_11",
+      "start": 3457.46,
+      "end": 3494.05,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing specific development projects and expressing an opinion on the matter.",
+      "text": "c is pretty straightforward they're going to replace they need to replace windows and a front door entry as well as a third third floor rear addition and 101 south queen is development of the swan the old swan hotel that is going to be developed into a airbnb with 11 10 or 11 units and i i don't think anybody's here for that but that's pretty much it"
+    },
+    {
+      "block_id": 84,
+      "speaker": "SPEAKER_04",
+      "start": 3494.8,
+      "end": 3510.8,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing a council member and offering clarification regarding a topic discussed.",
+      "text": "thank you counselor craig to clarify i think the architects and the firm was here they mentioned airbnb but it was an airbnb style hotel yes thank you so not a licensed airbnb no correct and and"
+    },
+    {
+      "block_id": 87,
+      "speaker": "SPEAKER_05",
+      "start": 3537.64,
+      "end": 3554.62,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion on a city addition related to tourism.",
+      "text": "Council President, thank you. After hearing the presentation at our committee meeting, I do think this will be a great addition to the tourism industry here in Lancaster and also complement the Convention Center, which is right next door."
+    },
+    {
+      "block_id": 95,
+      "speaker": "SPEAKER_07",
+      "start": 3657.94,
+      "end": 3670.34,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing support for a city event related to Juneteenth.",
+      "text": "the city of lancaster approving the juneteenth flag raising on june 19 2026 to acknowledge the emancipation of african americans brought forth by the national association for the advancement"
+    },
+    {
+      "block_id": 104,
+      "speaker": "SPEAKER_06",
+      "start": 3791.14,
+      "end": 3803.5,
+      "speaker_name": "unknown",
+      "reason": "The speaker is stating their position regarding an upcoming vote related to a city action plan.",
+      "text": "council council president counselor arroyo just an fyi i'll be abstaining from the vote just because my employer is mentioned in the action plan but fully support it otherwise thank you"
+    },
+    {
+      "block_id": 105,
+      "speaker": "SPEAKER_04",
+      "start": 3803.5,
+      "end": 3833.9,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering praise and appreciation for the work done on an action plan.",
+      "text": "very much any additional council comments on the action plan i'll just say rebecca you and your team have put together it always amazes me how your team puts together this plan with a little less every year but still manages to do just as much if not more every single year so your creativity and your commitment to this work and your team's creative and commitment to this work is appreciated um and seen so thank you thank you president ak council president i would also like"
+    },
+    {
+      "block_id": 107,
+      "speaker": "SPEAKER_14",
+      "start": 3848.57,
+      "end": 3887.08,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding the allocation of city funds.",
+      "text": "counselor any additional council comments council president thank you um just want to echo my comment that i made at the committee meeting which is that um this pot of money can be allocated to a lot of different things um you know know this from my background uh working at the county level with the cdbg grant um if the city continues to commit it to housing um you know affordable housing and and and um critical repair and i think that that's really uh admirable thank you comments"
+    },
+    {
+      "block_id": 108,
+      "speaker": "SPEAKER_17",
+      "start": 3887.08,
+      "end": 3935.32,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding denied grant applications for a specific property.",
+      "text": "on the resolution from the public good evening good evening irene grievous uh 400 block of western avenue for four years now i've been asking for this uh grants that are uh apparently available none of my tenants or myself that i've been coming here for almost four years um have been granted so i would like to know where are these grants going ms geyser and why have my applications been denied ms geyser or anyone from city council ms grievous do you have"
+    },
+    {
+      "block_id": 109,
+      "speaker": "SPEAKER_04",
+      "start": 3935.32,
+      "end": 3939.08,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering additional comments to the council.",
+      "text": "additional comments i want to make sure you use your time if you need it and then i would be happy"
+    },
+    {
+      "block_id": 110,
+      "speaker": "SPEAKER_17",
+      "start": 3939.08,
+      "end": 4005.4,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns about the availability and utilization of repair grants for their property.",
+      "text": "to respond to your questions yes um i have applied for the lab program numerous times not me my tenants have and they've been ignored delayed or denied these grants are supposedly available none have been available to me or my tenants yet my property still remains condemned in four years so where are these uh grants going if it with all these critical repair programs are available with millions of dollars that are available why aren't they being utilized to residents and i'm not just referring to myself i'm referring to other residents on manor street that have not been afforded the the ability to even apply yet their properties were taken to the property reinvestment board and obviously blighted and taken over by investors so with all this critical repair programs why aren't they being uh used to residents that really need it those are my"
+    },
+    {
+      "block_id": 112,
+      "speaker": "SPEAKER_03",
+      "start": 4042.1,
+      "end": 4188.98,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns about residents being delayed, ignored, and denied opportunities regarding city issues.",
+      "text": "the resolution there's Gomez I just want to piggyback on what Irene said yes there's lots of residents being delayed ignored and denied my father in particularly who is an owner-occupant and me myself we are not given the opportunity nor irene but several of her issues and no she did not say that it was millions of dollars because you guys are very specific about taking little things out of context it's the concerns the issues that current residents homeowners continuously have whether it's more taxes more dollars and programs or funding being given to outsource outsources out people that are coming in from out of town not residents that are that have been here for 30 40 you know years and we're talking about from businesses to homeowners to regular residents we come up here we stress our concerns you look at us with a blind eye and it's like we're a public nuisance why because that's how you look at us because you're feeding your deep pockets while everyone else is enjoying it but you can walk outside your neighborhood just like the gentleman said earlier tons of people sitting and he can't even go to sleep at night and he's a hard worker that's not he's he's one of major like maybe a hundred people in this city over a hundred that can share the same testimony that he shared where's the concerns for the citizens you know we all we're seeing is things being applied for investors a hotel being built when you when there's no affordable housing it's not affordable affordable housing is is meeting the medium income it's not affordable for the citizens of lancaster so stop saying affordable housing it's disgraceful for you guys to just continuously turn your eye towards hard-working citizens and taxpayers in lancaster city who are being deprived of their resources sad any additional comments from the public on the"
+    },
+    {
+      "block_id": 117,
+      "speaker": "SPEAKER_10",
+      "start": 4248.82,
+      "end": 4388.89,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion and concern regarding the need for rent control in Lancaster City.",
+      "text": "period tony dastro 700 block new holland avenue i guess i'm just riffing tonight um i have two subjects uh one of them is just pretty direct uh i've made this clear that i think that lancaster city needs to start investigating rent control and it's been stated by multiple people in this room on and off the dais that state action is needed for us to do that and that as far as i can tell is just not a legal fact i would like to see the council investigate this further ask the solicitor as is your right and ability to investigate this and provide a report to the public regarding the legality of rent control in third class i'm sorry home rule municipalities like ours i think the public deserves the full understanding of the nuances of what we can do and what we cannot do based off the court case Philly lost back in 1955 the second thing I've been thinking a lot about the terms welcoming versus sanctuary and our city and while I do know that this is a really complicated issue right now because on one hand we don't want to say anything that makes us a bigger target on the other hand we are already a target the federal government if they want to will crack down on us sanctuary city or otherwise so when i think about this issue the more i think about it i'm just kind of left with uh i'm going to use a bible verse uh matthew 5 14 and 15 i don't have it memorized but it's the one where you are the light of the world you do not put a bowl upon a light and keep it hidden. I feel like that's what we're doing with calling ourselves a welcoming city and not progressing further to being a sanctuary city. There's people all over this country who are terrified. And while I understand there's only so much we can do within our powers as a government without breaking federal law, the Underground Railroad was not a government policy. And we can help people. We really can."
+    },
+    {
+      "block_id": 119,
+      "speaker": "SPEAKER_03",
+      "start": 4396.64,
+      "end": 4519.0,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding the provision of a Spanish interpreter during the public comment period.",
+      "text": "comment period and I just wanted to add the Spanish interpreter that was here for a translation should have been translating via is this being recorded I'm not sure if it's if it's being recorded she should have been used because she was asked to come for the spanish-speaking people in Lancaster city because they cannot make it to this this off to a public comment or to even you know see what's going on here but there are a lot of people that are concerned in our city and they do they are bilingual so i don't think it was fair for you to turn her away nor give her a video recording or even have her sit somewhere so that she can address the public this is a public setting and it's it's just wrong it's just wrong um i do want to also mention um that um just making you aware of how many city city employees commuters firefighters police officers taxpayers disabled citizens in the city that have been discriminated on by denine sirachi this mayor has caused a lot of discrimination towards citizens hard-working taxpayers in this city and it's shameful that she's still sitting there having to go to court for all these accusations or offenses that she has towards regular decent people turning a blind eye it's just not right and I think that she she should not be fit to be mayor I think she's the one that should stand down because you've done enough are"
+    },
+    {
+      "block_id": 122,
+      "speaker": "SPEAKER_04",
+      "start": 4655.35,
+      "end": 4672.63,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a clarifying question about city street improvements and UGI work.",
+      "text": "thank you mayor um and can i ask just a clarifying question because i know that people may have this question it comes up often there's also an addition to street uh improvements uh ugi work going on across the city could you talk a little bit about that and who is doing that and how we"
+    },
+    {
+      "block_id": 123,
+      "speaker": "SPEAKER_02",
+      "start": 4672.63,
+      "end": 4746.83,
+      "speaker_name": "unknown",
+      "reason": "The speaker is providing information and expressing a position regarding utility work in the neighborhoods.",
+      "text": "know they're doing yes so ugi is an independent contractor you'll often see trucks for miller pipeline that are working in neighborhoods that information is also available on the construction page they are responsible not only for trench repair after they dig holes in the street to replace the gas lines and meters and also along the sidewalks but then they have a separate contractor that comes back and repairs the entire street as well as any cuts to sidewalk that they may have patched along the way That work is completely separate from and is regulated by the Pennsylvania Utilities Commission and I know that it has been a source of a lot of consternation for neighbors in terms of how they have done the trench repair, where they have placed gas meters, etc., etc. We continue to work with UGI, and as concerns are elevated to us, we work through our construction operations division to be in touch with UGI to do our very best to advocate on behalf of the City of Lancaster and its residents."
+    },
+    {
+      "block_id": 125,
+      "speaker": "SPEAKER_11",
+      "start": 4864.35,
+      "end": 4905.94,
+      "speaker_name": "unknown",
+      "reason": "The speaker is sharing a personal recommendation about a local event.",
+      "text": "to piggyback on what mr daschle said about um for anybody that has not seen the reenactment of living experience at bethlehem church i went in december and i used to play lydia hamilton smith in that reenactment 25 years ago when they first started it it has grown so much since then and it is so good that i i would recommend if you have not gone to see live an experience go see it it's"
+    },
+    {
+      "block_id": 126,
+      "speaker": "SPEAKER_04",
+      "start": 4905.94,
+      "end": 4911.58,
+      "speaker_name": "unknown",
+      "reason": "The speaker is thanking a council member, indicating they are addressing the council.",
+      "text": "definitely living the experience thank you very much counselor craig any additional council"
+    },
+    {
+      "block_id": 127,
+      "speaker": "SPEAKER_05",
+      "start": 4911.58,
+      "end": 4974.87,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a personal concern and thanking others regarding pedestrian and bike safety.",
+      "text": "comments council president if i may counselor ahmed i just want to thank the gentleman who came out and spoke about the importance of pedestrian and uh bikeless uh safety as i spent my afternoon uh visiting a dear friend who's in the trauma unit an lgh who was hit by a vehicle riding his bike this past weekend as he remains in our thoughts and prayers he also remains in our commitment to safe streets and our commitment to vision zero and i want to thank the other members of council for the commitment to pedestrian cyclist safety it is serious and we continue to see vehicles just simply have a disregard for people on bikes as well as people who are pedestrians and we need to recommit to making sure that the streets are safe for all road users no matter how you use them and my dear friend is in my thoughts and he remains in my commitment thank you thank you very much councillor Ahmed any"
+    }
+  ]
+}

@@ -22,6 +22,12 @@ Every row must carry the commit and enough config to re-run it.
 | 2026-09-03 | 9d70760 | Within-session non-determinism | gemma identical-chunk flips, both variants from the June run | 2,279 blocks | **0.22%** -- the stricter floor; 0.80% above additionally contains an unrecorded toolchain change |
 | 2026-09-03 | 9d70760 | Where the noise lives | changed blocks vs June vote count | 10,069 blocks | contested (1-4 votes) **2.34%** vs unanimous (0 or 5) **0.30%** -- a **7.7x** concentration |
 | 2026-09-03 | 9d70760 | **Chunk effect within consensus stratum** | same-text 1:1 blocks, 5 core models | 16,150 block-observations | unanimous 0.12% -> **6.09%** (**51x**); contested 1.98% -> **33.94%** (**17x**) -- the effect is not ambiguity amplification |
+| 2026-09-04 | 232baa1 | **CONTROLLED chunk experiment** | gemma-4-4b, 12 meetings, corpus fixed, only batching varies | 1,231 blocks | control A-vs-A2 **2.19%**; effect A-vs-B **12.10%**; **ratio 5.5x** |
+| 2026-09-04 | 232baa1 | Controlled, by stratum | same | 1,231 blocks | unanimous 1.01% -> 6.08% (**6.0x**); contested 6.97% -> 36.48% (**5.2x**) |
+| 2026-09-04 | 232baa1 | **Effect replicates across designs** | natural vs controlled, unanimous blocks | - | **6.09%** vs **6.08%** -- the magnitude is reproduced; the *floor* was what differed |
+| 2026-09-04 | 232baa1 | Stable positives lost to a batching shift | flagged in BOTH A and A2 | 239 blocks | only **73.6%** survive the offset shift |
+| 2026-09-04 | 232baa1 | Batch context suppresses flagging | size 1 vs size 3 | 1,231 blocks | size 1 flags **387** vs size 3's **247** (+57%), and is nearly a superset (233 of 247 kept) |
+| 2026-09-04 | 232baa1 | Which context vs how much | A-vs-B (offset) 12.10% vs A-vs-D (size 3->5) 9.83% | 1,231 blocks | changing *which* neighbours perturbs more than changing *how many* |
 | 2026-09-03 | d40ddea | Concord unit-count drift by scheme | 81 meetings exported as VTT, `maxMergeGapSeconds=-1` | 10,069 blocks | turn scheme N=**10,069**; sentence scheme N=**20,468** (**2.03x**); per-meeting ratio 1.00-**225** |
 | 2026-09-03 | d40ddea | Concord round-trip fidelity | `export_vtt.py --verify` | 81 meetings / 10,069 cues | **81/81** preserve turn count exactly; 0 parse issues; 0 cues without a speaker |
 | 2026-09-03 | d40ddea | Turns silently lost at Concord's default | same export, `maxMergeGapSeconds=30` | 81 meetings | **11 turns fused** (10,069 -> 10,058) |
@@ -52,8 +58,14 @@ conservative choice and the chunk-framing effect clears it by 17x anyway.
 text byte-identical, so there is no transcript confound: the only thing that varies
 is which two neighbours the model saw the block alongside.
 
-**Compare within consensus stratum, not pooled.** Run-to-run noise concentrates
-7.7x on contested blocks, so a pooled effect-to-floor ratio mixes two
-populations. Within stratum the chunk effect is 51x the floor on blocks every
-model agrees about and 17x on contested ones. That it survives on unanimous
-blocks is what makes it a mechanism rather than an artefact of ambiguity.
+**Use the CONTROLLED ratio, 5.5x, not the natural experiment's 17-51x.** The
+natural experiment's "identical chunk" bucket is a selected sample: a block only
+lands there if its text and its whole enclosing chunk matched across variants,
+which happens preferentially in stable stretches. Conditioning on stability and
+then measuring instability understates the floor by about 5x. The controlled
+A-vs-A2 has no such selection.
+
+The *effect* is unaffected by this and replicated almost exactly across the two
+designs (6.09% vs 6.08% on unanimous blocks). It was only ever the floor that
+was mis-estimated. The 17-51x rows above are retained for the record and should
+not be quoted.

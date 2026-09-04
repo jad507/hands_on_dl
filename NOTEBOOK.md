@@ -12,13 +12,132 @@ Companion: `RESULTS.md`, one row per experiment, for finding a number fast.
 
 ---
 
+## 2026-09-04 -- Controlled experiment: the effect replicates exactly, the noise floor does not. Ratio is 6x, not 51x.
+
+**Commit:** 232baa1
+**Ran:** `.un_chunk_experiment.ps1 -Model gemma-4-4b` (2h 54m), then
+`python chunk_experiment.py analyse`
+**Config:** gemma-4-4b, 12 meetings, 1,231 blocks, phase 1, temperature 0,
+corpus fixed across conditions.
+
+**Scoring my predictions from the previous entry:**
+
+| # | prediction | actual | verdict |
+|---|---|---|---|
+| 1 | A vs A2 noise 0.1-0.5% | **2.19%** | **wrong, by 4-20x** |
+| 2 | A vs B effect 8-15% | **12.10%** | right |
+| 3 | A vs C large, sign unknown | C flags **+57%** | right to not guess |
+| 4 | size 5 less stable than size 3 | A vs D 9.8% < A vs B 12.1% | wrong |
+
+**The headline, and it revises what I said earlier today downward.**
+
+Stratified the same way as the natural experiment, using the June 5-model
+consensus as an exogenous stratum:
+
+| stratum | n | A vs A2 (noise) | A vs B (effect) | ratio |
+|---|---|---|---|---|
+| unanimous (0 or 5 votes) | 987 | 1.01% | 6.08% | **6.0x** |
+| contested (1-4) | 244 | 6.97% | 36.48% | **5.2x** |
+| all | 1,231 | 2.19% | 12.10% | **5.5x** |
+
+Set that beside the natural experiment:
+
+| | natural (variant pairs) | controlled |
+|---|---|---|
+| effect, unanimous blocks | 6.09% | **6.08%** |
+| effect, contested blocks | 33.94% | **36.48%** |
+| floor, unanimous blocks | 0.12% | **1.01%** |
+| floor, contested blocks | 1.98% | **6.97%** |
+| ratio | 17-51x | **5.2-6.0x** |
+
+**The effect replicated to within 0.01 of a percentage point.** 6.09% against
+6.08% on unanimous blocks is as close as this kind of measurement gets. The
+mechanism is real and its magnitude is now measured twice by different designs.
+
+**The noise floor was underestimated by a factor of five, and the reason is
+selection.** The natural experiment's "identical chunk" bucket is not a random
+sample of blocks: a block only lands there if its text *and* its whole enclosing
+3-block chunk matched across the two variants, which happens preferentially in
+stable, unambiguous stretches of a meeting. Conditioning on stability and then
+measuring instability understates it. The controlled A-vs-A2 has no such
+selection -- every block, same settings, run twice.
+
+So **5.2-6.0x is the number to report, not 17-51x.** I stated 51x earlier today
+and it was inflated by that selection effect. The effect is still unambiguous --
+Jaccard 0.55 against a 0.90 control, alpha 0.63 against 0.93 -- and the ratio is
+now nearly constant across strata (6.0x and 5.2x) where the natural experiment
+gave 51x and 17x. That consistency is itself a sign the controlled design is
+measuring one thing.
+
+**Two mechanisms visible that the natural experiment could not show.**
+
+1. **Batch context suppresses flagging.** Size 1 flags 387 blocks against size
+   3's 247, a 57% increase, and it is nearly a superset: 233 of A's 247 flags
+   survive, and C adds 154. So the model alone with a block says "public
+   comment" far more often than the model shown that block beside two
+   neighbours. Context does not refine the judgement so much as damp it.
+2. **The offset shift degrades in both directions at once.** Of the 239 blocks
+   flagged in *both* A and A2 -- the stable positives, by the strictest
+   available definition -- only **73.6% survive the offset shift**. It is not a
+   bias with a sign; a quarter of the model's own most reliable positives fall
+   out when only the batching moves.
+
+**A circularity I have to flag rather than bury.** I also cross-tabulated each
+condition against the June 5-model consensus, and it looks damning for B: on the
+865 blocks no model flagged, A flags 7 and B flags 28; on the 122 all five
+flagged, A keeps 116 and B keeps 93. Read naively that says the offset shift
+makes the classifier worse in both directions.
+
+**It does not license that.** The June corpus was produced by all five models at
+chunk size 3, offset 0 -- exactly condition A's settings -- and gemma-4-4b is one
+of the five. The consensus is therefore doubly favourable to A: same batching,
+and partly the same model. A agreeing with it more than B does is close to
+tautological. That analysis is descriptive only and must not be reported as
+evidence of accuracy. The claims that survive are the ones needing no external
+reference: 12.10% vs 2.19%, and 73.6% of stable positives lost.
+
+**Surprised by:** the floor, badly. I predicted 0.1-0.5% and wrote it down; it
+came in at 2.19%. Two consecutive runs of the same model, same file, same
+settings, same session, temperature 0, disagree about 27 of 1,231 blocks. The
+flagged *count* alone moved 247 to 258. I had been treating temperature 0 as
+approximately deterministic and it is not, at any of the three scales I have now
+measured it (0.22%, 0.80%, 2.19% -- and the differences between those three are
+selection effects, not disagreement).
+
+Also surprised that size 5 sits *closer* to size 3 than an offset shift at size
+3 does (9.8% vs 12.1%). Changing how much context a block gets perturbs the
+answer less than changing *which* context it gets. That is a nice sharp
+statement of the mechanism and I did not predict it.
+
+**Decided:**
+- Report **5.5x** (or 6.0x/5.2x by stratum) as the effect-to-floor ratio. Retire
+  the 17-51x figures with a note explaining the selection bias, since they are
+  already written into `07-windows-execution-findings.md`.
+- Report the consensus cross-tab only with the circularity stated, or not at all.
+- The A-vs-A2 floor of 2.19% is the one to use for this design. The 0.80%
+  corpus-wide figure answers a different question (June vs September, whole
+  corpus, includes a toolchain change).
+
+**Next:** replicate on a second model. A mechanism that only appears in
+gemma-4-4b is a gemma finding. ministral-8b is the obvious choice -- it had the
+lowest shifted-chunk rate in the natural experiment (11.67%), so it is the
+least favourable case.
+
+**Open question:** the dose-response. Condition B changes company for about 93%
+of blocks in one step. Offsets 0/1/2 at size 3 would show whether the flip rate
+tracks the *fraction* of company changed, turning a two-point contrast into a
+curve. Two more runs, about an hour.
+
+---
+
 ## 2026-09-03 (late) -- Controlled chunk experiment launched. Design recorded before results.
 
 **Commit:** 63cf08b
 **Ran:**
 ```
 python chunk_experiment.py select --n 12
-.un_chunk_experiment.ps1 -Model gemma-4-4b     # running
+.
+un_chunk_experiment.ps1 -Model gemma-4-4b     # running
 ```
 **Config:** gemma-4-4b, 12 meetings, 1,231 blocks, phase 1 only, temperature 0.
 Corpus fixed across all conditions via `HODL_COMMENTS_DIR`; each condition writes

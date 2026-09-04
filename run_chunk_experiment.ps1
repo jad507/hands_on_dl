@@ -70,7 +70,12 @@ $spec = @{
     "D"  = @{ Name = "D_size5";              Size = 5; Offset = 0 }
 }
 
-$want = $Conditions -split "," | ForEach-Object { $_.Trim() }
+# PowerShell coerces an unquoted -Conditions A,A2,B into the single string
+# "A A2 B", so splitting on comma alone silently yields one unknown condition
+# and the whole run does nothing. Split on commas AND whitespace so both
+# `-Conditions A,A2,B` and `-Conditions "A,A2,B"` work.
+$want = $Conditions -split '[,\s]+' | ForEach-Object { $_.Trim() } |
+        Where-Object { $_ }
 $results = [System.Collections.Generic.List[PSCustomObject]]::new()
 
 Write-Host "=== controlled chunk-framing experiment ==="

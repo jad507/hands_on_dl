@@ -1,0 +1,247 @@
+{
+  "title": "City Council Meeting - September 9, 2025",
+  "video_id": "H5Gp_GuYYYg",
+  "upload_date": "20250912",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-04T03:14:17+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    },
+    "chunking": {
+      "p1_chunk_size": 5,
+      "p1_chunk_offset": 0
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_04",
+      "start": 1204.31,
+      "end": 1236.72,
+      "speaker_name": "unknown",
+      "reason": "The speaker thanks the administration and department for their work on welcoming and diversity initiatives.",
+      "text": "Thank you, Council President. Thank you for the presentation. I just wanted to take the time to thank the administration and the Department of Neighborhood Engagement for continuing to work, even during times of challenges and uncertainty, continuing to work with our many community partners to ensure that we continue to celebrate our commitment to welcoming and diversity here in the City of Lancaster, and language access initiatives show how we can continue those intentional services and make sure that everybody has a dignified experience here in the city of lunch so i just want to take that"
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_06",
+      "start": 1236.72,
+      "end": 1279.45,
+      "speaker_name": "unknown",
+      "reason": "The speaker thanks the council and comments on a statistic regarding non-English speakers in the community.",
+      "text": "time to thank you all thank you other council comments that's president thank you zyra for the presentation um thank you for all of the tremendous work that you and your department are doing it's really important I if I understood the one statistic on the one slide correctly you said that 34.8 percent of people are speaking a language other than English at home I mean I think well we just ought to put that in perspective that means one in every three people we run into in Lancaster City are speaking another language at home and you know not doesn't mean they're not speaking English out in public but like it's important that we're doing this and so I just want to commend all the work you're"
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_17",
+      "start": 1309.61,
+      "end": 1456.88,
+      "speaker_name": "unknown",
+      "reason": "The speaker echoes council members' gratitude for leadership in neighborhood engagement and language services.",
+      "text": "for development and engagement at church world service lancaster and first i would like to echo council members comments in gratitude and recognition of Zyra her leadership and professionalism as well as the Department of Neighborhood Engagement and the Office of Language Services in particular I am really honored to get to be Zyra's colleague and I work with her closely so thank you for your leadership and for sharing this with us tonight at Church World Service Lancaster we believe that a thriving community is one where everyone feels safe valued and and supported. We may not all speak the same languages but we all share a love for our families and a desire to make our communities better. We'd like to thank City Council and the city of Lancaster for your ongoing commitment to building a welcoming community where everyone feels a sense of belonging and has the tools they need to thrive. Resolutions like this and the one honoring Hispanic Heritage Month following along with the sustained commitment to language access to integrating diverse voices into city planning and initiatives all show the city's commitment to a community where everyone is welcomed and valued for their diverse histories traditions and cultures that are making lancaster stronger these past nine months have been extremely challenging for our refugee and immigrant neighbors as well as refugee resettlement organizations like cws lancaster right now the indefinite suspension of the u.s refugee resettlement program remains largely in place stranding thousands of refugees who had been conditionally approved for resettlement including some who were scheduled to arrive here in lancaster and rejoin their families they have been separated from and sweeping changes to the u.s immigration system are generating fear among immigrant communities regardless of visa status we know that these actions do not reflect our values or who we are as a community welcoming is a core part of who we are in lancaster and who we've always been although these are challenging times tonight's resolution and continued commitment to welcome demonstrates that the beauty of lancaster as a welcoming place for human dignity and agency is honored and the diversity of background is cherished will not be destroyed thank you for your ongoing support thank you"
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_05",
+      "start": 1514.27,
+      "end": 1559.31,
+      "speaker_name": "unknown",
+      "reason": "The speaker is introducing a resolution to honor Hispanic Heritage Month and discussing the impact of the Hispanic community in Lancaster.",
+      "text": "much to add but just uh it's truly an honor to introduce this resolution every year to honor hispanic heritage month which begins september 15th through october 15th as we look around through different community organizations and community leaders that are led by hispanic community leaders it's truly we definitely get to see the impact by our hispanic community right here in lancaster and our community is better for it along with the welcoming city ordinance the hispanic heritage month resolution is just a reminder that now more than ever we need to be unapologetic of celebrating diversity equity and inclusion in our home here in lancaster city regardless of what's happening outside so i'm very grateful"
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_02",
+      "start": 1753.3,
+      "end": 1867.84,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident and expresses support for community solar legislation.",
+      "text": "i live in the 200 block of east ross street and thank you again councillor hirsch for shepherding through this resolution i'm a member of third act pennsylvania that works on climate and democracy and one of our top goals is getting state lawmakers to pass community solar for pennsylvania and as we all know energy is getting more expensive in part because of data centers and also we're using more ac because the summers are hotter and community solar is one of the fastest ways to get more energy on the grid and that can help bring down prices because it doesn't have to go through pjm that operates our electric grid also pennsylvania ranks a really embarrassing 49th among states in growth of renewable energy and we get less than one percent of our energy from solar and as councillor hirsch said a lot of people in microsoft can't have solar now because they are renters or the roofs are too shady or they just can't afford it and with community solar a business a farmer or a non-profit puts up a solar array such as on warehouse roofs brownfields are farms as part of agrivoltaics and then the residents subscribe to the project with guaranteed savings and i subscribed to one of these in when i lived in maryland and i really appreciated both the savings and knowing that i was helping put solar energy on the grid so again thank you for passing this resolution we're trying to get other municipalities to do this too this morning pittsburgh city council passed it and i think tonight allegheny county is passing it so thank you very much thank you very much we're good company any additional"
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_14",
+      "start": 1906.93,
+      "end": 2113.9,
+      "speaker_name": "Frank Arculio",
+      "reason": "The speaker is addressing the council regarding a resolution to amend city ordinance regulations for data centers.",
+      "text": "is frank arculio good evening good evening everyone and thank you for this opportunity to speak uh i want to particularly thank the council uh for the resolution passed at the last meeting requesting a draft to amend the city ordinance to be more specifically directed of the regulations the manner in which data centers can be regulated through our zoning code I know counselors Ahmed and Craig were not here at the time so they didn't get to vote on it but I would hope that both of you are highly supportive I would expect that you would be of that so that's good and that's progress in less than two weeks I will be having an appeal before the zoning hearing board disputing the classification of the data center as proposed and so what did happen without telling anyone and by anyone I mean the council the Planning Commission and certainly the general public the administration gave approval for two data centers by calling those data centers warehouses basically the the classification is wholesale trade and storage which data centers clearly or not but having classified them this way it gave the developers the right to do anything within within that zoning classification without any scrutiny whatsoever so I am faced in less than two weeks with trying to convince the zoning hearing board that a data center is not a warehouse how in the world could I possibly do that well I realized that I've already answered my own question the City Council has unanimously voted to request an ordinance amendment that deals with data centers specifically in their own classification and not as warehouses so the City Council by its action has said and declared that data centers are not wholesale trade and storage warehouses and should not be regulated accordingly so look in your in email inbox counselors because I'm going to send you emails to ask you to testify as a witness at that zoning hearing board to show the the board that in fact data centers and warehouses are two different things I'll also ask you in that email to sign on to the appeal along with me and some of the other residents in the city of Lancaster thank"
+    },
+    {
+      "block_id": 39,
+      "speaker": "SPEAKER_13",
+      "start": 2177.96,
+      "end": 2277.05,
+      "speaker_name": "Irene Bravis",
+      "reason": "The speaker is addressing the council about a property located at 901 Mountain Street that has been under condemnation since 2021.",
+      "text": "this evening regarding um drafting a possible resolution for the property located in the 901 mountain street that has been under condemnation since 2021. major repairs have already been completed and certified no no full re-inspection has ever taken place the community is ready to help as previously mentioned in prior city council meetings residents like mary jones sean carter jeremy newman and many others are willing to finish any remaining of the 2021 items that were listed in the condemnation for 901 manor street the city keeps issuing citations at other properties while 901 manor street remains unresolved this delay this delays affordable housing during a crisis my request to city council is very simple either allow the community to finish any remaining items listed in the 2021 condemnation items or have the city complete them at cost and just fill me would that be simple then re-inspect lift the condemnation and restore the housing this property needs to be back on the uh on the housing market in the midst of a price of a housing crisis thank you thank you mr harris are there any further"
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_03",
+      "start": 3093.86,
+      "end": 3143.05,
+      "speaker_name": "unknown",
+      "reason": "The speaker asked a question regarding changes in the library since its new location.",
+      "text": "questions thank you so much for your presentation this evening um i do have a question off the bat so having seen you know these presentations for now several years it seems sort of anecdotally if i'm remembering correctly that your participation has gone up since your new location could someone uh speak to the way that things have changed like day to day in the library since it moved to its new location the good the bad the the positive what how much how much would you say it has increased since the new location opened don't be shy one of the things we've seen"
+    },
+    {
+      "block_id": 43,
+      "speaker": "SPEAKER_12",
+      "start": 3143.05,
+      "end": 3293.51,
+      "speaker_name": "unknown",
+      "reason": "The speaker commented on how people are enjoying the new library space and its features.",
+      "text": "for sure is people just coming and enjoying the space it's a lot more open to people who are there to just relax and read or work with their ipads or their laptops it's just a much more open and lighting space we have more computer access than we did at the old building it's a much more open area also for computers and we have 16 public computers and they are well used very very well used we have the terrace area now which is wonderful we never had anything like that before and people are definitely enjoying that during the summer as far as our children's area that has really picked up we divided out our children and our teen sections that was something huge in this building and you know we've seen the differences there we are able to really focus more on teens now and we can really do some of the great programming that brings them in like anime club and team gaming and so that's been fantastic um the attendance at our like our baby story time that john was talking about we doubled that we had one in the old building now we have it twice on a tuesday because we had so many babies who wanted to come to baby story time and of course their parents do um and so that has grown our summer reading um is growing we went downhill with that after 2020 but that is starting to pick up again and i think moving into the new building having more accessibility to outdoor programming we've been doing a lot of things at musser park and out in the plaza has grown some numbers there as well for summer reading so we're getting back to where we were before so really overall they're just meeting spaces that's so much better than in the old building we had one auditorium that we shared for children teens tweens adults and now we have three or four spaces and we can do more programs at the same time so now we sometimes have two adult programs going on at the same time because we have two rooms with a wall in between and we can also have one or two children's programs going on upstairs at the same time so we can just do more programming each day we can get more programming in so lots and lots of benefits as far as the space and the community gathering that we have in"
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_03",
+      "start": 3293.51,
+      "end": 3321.46,
+      "speaker_name": "unknown",
+      "reason": "The speaker expressed appreciation for public spaces like the library.",
+      "text": "the building thank you so much it's it's always nice to hear about opportunities for spaces where people can just exist without the expectation to spend any money because we don't have any of those besides the library and that's why it's so valuable so thank you for that counselors any questions or comments on presentation this evening thank you so much for joining us this evening i would just quickly add"
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_08",
+      "start": 3321.46,
+      "end": 3369.7,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the growing awareness of the library due to community events in Ewell Plaza.",
+      "text": "one other piece in answer to that question too uh is that i think being on ewell plaza and all of the community events that are happening in ewell plaza and bins park is growing awareness in the community of the library because it's right there and other than a couple i started with the library less than two years ago so in the new building other than taking my nieces and nephews to check out books my only other time in the library before i went to interview was i had to go to the bathroom when i was at the hispanic heritage festival so i went in so i really do think that that partnership as well and like some intentionality that uh we've had between the city and the library that i think we can continue to grow has really given opportunities for people to to become familiar with the library or to be reminded of it to get into it and see the new new space and then access"
+    },
+    {
+      "block_id": 62,
+      "speaker": "SPEAKER_07",
+      "start": 3659.82,
+      "end": 3720.78,
+      "speaker_name": "Tony Dasha",
+      "reason": "The speaker offered an opinion regarding the nominations for advisory boards.",
+      "text": "Tony Dasha 700 block in New Holland Avenue I actually think both of these nominations should go forward I just want to point out an inconsistency in logic which is that we have a board here that's strictly advisory so we're having conversations about other entities and i'm coming to say that advisory bodies are important bodies just because they don't have any we'll say power in a conventional sense they do have power they're educational they help you have an inter wow interface with the people you need to talk to advisory bodies are important so we as a city really shouldn't be discussing matters for the public and saying that just because something is not empowered to for example discipline or take action against it doesn't mean it doesn't have value thank you any additional"
+    },
+    {
+      "block_id": 67,
+      "speaker": "SPEAKER_01",
+      "start": 3799.62,
+      "end": 3843.57,
+      "speaker_name": "Craig",
+      "reason": "The speaker provided additional commentary regarding the proposed sign installation at 344 West Chestnut Street.",
+      "text": "craig anything additional on those two items honestly nothing more than what was said in the resolution um the 344 west chestnut street is i think one of the things that we should point out is that the west elevation facing north it's going to be mounted on the west elevation point facing north charlotte street per the submitted plan stipulating that the sign be mounted within the mortar joints not directly into the stone so nothing more than than that"
+    },
+    {
+      "block_id": 73,
+      "speaker": "SPEAKER_05",
+      "start": 3937.87,
+      "end": 3955.25,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering clarification and expressing a concern about the approval timeline of the capital plan.",
+      "text": "add this evening nothing to add and maybe well excuse me one thing to add thank you and maybe director campbell could provide clarification but uh there may this may not be uh approved at the next uh meeting until we receive quotes for the interest rates i believe or"
+    },
+    {
+      "block_id": 75,
+      "speaker": "SPEAKER_03",
+      "start": 3972.78,
+      "end": 4053.94,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses pride and commendation regarding the capital budget's fiscal responsibility.",
+      "text": "director campbell thank you and i just want to say to director campbell and director stephen campbell as well because i know they've worked closely together on this that i'm incredibly proud that we have this capital budget in front of us it's really it's kind of a momentous thing and i'm glad that we're doing it because it shows a level of fiscal responsibility that i think that other cities could learn from and in fact the fact that we are being responsible stewards to our tax dollars and making a plan five years out for these incredibly expensive and complicated infrastructure projects speaks volumes to the planning that goes into our Department of Public Works and our administrative services budget as well so thank you for all the work that you put into this additional comments from council on the first reading comments from the public on the first reading hearing none i will thank everyone and we will be voting on this in our next meeting so thank you next item on the agenda this evening is resolutions we will begin with administration resolution number 59 2025 mr harris a resolution of the city council of the city of lancaster"
+    },
+    {
+      "block_id": 83,
+      "speaker": "SPEAKER_01",
+      "start": 4185.27,
+      "end": 4220.25,
+      "speaker_name": "unknown",
+      "reason": "The speaker is providing clarification regarding an amendment to a resolution.",
+      "text": "a second counselor craig thank you council president um um was originally um the original resolution we went over in may the amendment is because of a of an incorrectly listed height measurement from 15 feet to 13 feet 6 inches which complies with the city's ordinances so just a slight error in measurement that was corrected"
+    },
+    {
+      "block_id": 95,
+      "speaker": "SPEAKER_15",
+      "start": 4560.24,
+      "end": 4585.19,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question about how the library measures the success of its projects.",
+      "text": "president thank you for the presentation and i was wondering how the library measure measures on the success of its projects for example how they measure the you can say if the investments are paying off so all those elaborate measures like for this facility specifically or the other"
+    },
+    {
+      "block_id": 99,
+      "speaker": "SPEAKER_15",
+      "start": 4745.47,
+      "end": 4757.08,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking how the funds benefit specific community groups like working families, students, and seniors.",
+      "text": "HOW DO THESE FUNDS BENEFIT, FOR EXAMPLE, WORKING FAMILIES, STUDENTS, SENIORS?"
+    },
+    {
+      "block_id": 102,
+      "speaker": "SPEAKER_15",
+      "start": 4901.08,
+      "end": 4903.37,
+      "speaker_name": "unknown",
+      "reason": "The speaker offered a brief thank you.",
+      "text": "Thank you. Thank you so much."
+    },
+    {
+      "block_id": 109,
+      "speaker": "SPEAKER_01",
+      "start": 4998.6,
+      "end": 5018.01,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a positive opinion regarding the services provided by Anchor Lancaster.",
+      "text": "application from council council craig i just want to mention the incredible work that anchor lancaster does as far as their services for homeless folks in the community it's incredible"
+    },
+    {
+      "block_id": 113,
+      "speaker": "SPEAKER_07",
+      "start": 5065.28,
+      "end": 5245.28,
+      "speaker_name": "Tony D'Astra",
+      "reason": "The speaker identified themselves as a resident and offered a personal statement during the public comment period.",
+      "text": "at this time good evening Tony D'Astra 700 block of New Holland Avenue to be very frank I'm not feeling my best right now but I'm gonna paraphrase something I hear weekly that keeps me moving I know one of you knows where this comes from I I won't give up, shut up, let up. I must go till they come, teach till I drop, preach till I'll know, and work till they stop me. My body's trying to stop me right now, but I'm not going to allow that to hold me up whenever I can. The public library deserves the full $5 recommended by the state, if not more. I understand why certain programming has been avoided for the moment. We are living in a time where people are coming for, frankly, our lives in whatever aspect they can find. I've had people ask me over the last week what we can do for trans individuals in our community. And I've also seen, in response to some of the past programming, people threatening to pull their, frankly, very minor contributions to the library. the library needs to be as funded as well funded as possible so that they can continue providing the programming that makes people feel seen and welcome in this community because when we're only giving them something that they like like I said I'm not I'm not feeling my best and I'm really not trying to crash out on y'all right really not this is a time where a lot of us are worried about what might come but you do not light a candle and put it under a bowl we have to be a beacon for people to feel safe and comfortable amidst this tumultuous situation not just our city or county or state our country is finding ourselves in if not the world so whatever happens please give the library their five dollars per capita please thank you thank you are there any further"
+    },
+    {
+      "block_id": 115,
+      "speaker": "SPEAKER_16",
+      "start": 5258.62,
+      "end": 5414.33,
+      "speaker_name": "unknown",
+      "reason": "The speaker is providing updates and expressing opinions on the city's permitting process.",
+      "text": "mayor Sriracha Thank You council president tonight I'd like to share a few updates on the city's permitting process city staff across departments have been working hard to improve the permit process from top to bottom making it faster clear and ultimately fully online council is probably aware but for public fee process permits for many different things special events renting out our pavilions our fire marshals are related to permitting fire suppression systems of course building permits are the most common uh and in 2024 the city issued 2 315 building permits and as of july 31st 2025 we've already issued 1 232 and that's just building permits so while we have made real progress there's still a lot more to do relating to our permitting staff have developed a new system to track permits across departments including an internal dashboard to make the process easier to follow and processing times have also been significantly reduced the city recently hired a new permit coordinator her name is Kelly and many of you know James who now serves as the bureau chief of building codes the permit coordinator role also serves as the main point of contact for building permits helping to move them through the process and resolve any holdups in the coming weeks a site plan will be required for all exterior permits to expedite the review process and additionally all commercial drawings and plans will move to online submission only and we're preparing for all permits to go online in 2026 using a platform called city view we've launched a permit finder tool i want to give a shout out to dj ramsey and wyatt barringer for their work as well as many departments to assist in developing this permit finder tool which is now available at city of lancaster pa.gov forward slash permits this educational tool allows residents business owners and contractors to select the type of project they're planning and to see which permits may be required which will hopefully provide better customer service and more thorough permitting for the projects that are coming in into city hall and that concludes my report council president thank you thank you very much for those updates mayor"
+    }
+  ]
+}
