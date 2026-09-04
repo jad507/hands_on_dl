@@ -83,6 +83,12 @@ The notebooks above are the original teaching material. This repository also
 carries a research pipeline that transcribes Lancaster, PA city council meetings
 and has seven local language models code the public comments in them.
 
+**New here?** Read [EXPLAINER.md](EXPLAINER.md) first. It explains the whole
+project from scratch -- what the research question is, how the pipeline works,
+what was found, and what the statistics mean -- assuming no prior knowledge of
+this repository, of qualitative research, or of statistics. The rest of this
+README assumes you already know what you are running and just need the commands.
+
 ### Configuration
 
 Every path the pipeline uses is resolved relative to this repository, except the
