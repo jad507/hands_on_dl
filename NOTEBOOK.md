@@ -12,6 +12,77 @@ Companion: `RESULTS.md`, one row per experiment, for finding a number fast.
 
 ---
 
+## 2026-09-03 (late) -- Controlled chunk experiment launched. Design recorded before results.
+
+**Commit:** 63cf08b
+**Ran:**
+```
+python chunk_experiment.py select --n 12
+.un_chunk_experiment.ps1 -Model gemma-4-4b     # running
+```
+**Config:** gemma-4-4b, 12 meetings, 1,231 blocks, phase 1 only, temperature 0.
+Corpus fixed across all conditions via `HODL_COMMENTS_DIR`; each condition writes
+to its own output root.
+
+**Why:** everything so far is a natural experiment. The two pyannote modes
+*happen* to shift batch boundaries, and blocks in shifted chunks *happen* to flip.
+That is strong evidence but it leans on an accident, and which blocks land in
+shifted chunks is not random. This replaces it with a design in which nothing
+varies except where the boundaries fall.
+
+**Conditions:**
+
+| | size | offset | what it is |
+|---|---|---|---|
+| A | 3 | 0 | baseline, the corpus setting |
+| A2 | 3 | 0 | **the same setting again** -- the control |
+| B | 3 | 1 | every boundary after the first moves, blocks untouched |
+| C | 1 | 0 | no batch context at all |
+| D | 5 | 0 | more context |
+
+**Predictions, written down now so they cannot be adjusted later:**
+
+1. **A vs A2 will be near zero, but not zero.** This is the honest floor:
+   same machine, same session, same model file, no toolchain gap -- unlike the
+   0.80% June-versus-September figure, which contains an unrecorded change
+   underneath. Prediction: **0.1-0.5%**, i.e. below the 0.80% and closer to the
+   0.22% within-session estimate from the variant pairs.
+2. **A vs B will be far larger.** Prediction: **8-15%** of blocks change. Lower
+   than the 13.77% shifted-chunk figure, because there every block in the bucket
+   had shifted company by construction, whereas offset 1 at size 3 changes
+   company for ~28 of every 30 blocks but leaves the first chunk partly intact.
+3. **A vs C is the one I have no prediction for**, and that is worth admitting.
+   Removing context could stabilise the judgement or destabilise it; the model
+   has less to go on either way. I expect a *large* difference and I do not know
+   its sign in terms of flagged count.
+4. **D (size 5) will be intermediate or worse than A.** If the mechanism is
+   "more neighbours means more interference", size 5 should be less stable than
+   size 3 under a shift, not more.
+
+**Decided in advance:**
+- If A vs A2 comes back **zero**, the pipeline is deterministic at fixed settings
+  on this machine, and the entire A-vs-B difference is attributable to batching
+  with no noise subtraction needed. That would be the cleanest possible result
+  and I am not counting on it.
+- A large A-vs-C difference does **not** mean size 1 is more accurate. There are
+  no human labels here, so there is no accuracy, only agreement. C measures how
+  much of the judgement came from the neighbours; whether that was good or bad is
+  Step 4's question. Writing this down now because it is exactly the inference I
+  would be tempted to make when the number arrives.
+
+**Surprised by:** nothing yet, it is running.
+
+**Next:** `python chunk_experiment.py analyse` when it lands. Then the same
+design on a second model, because a mechanism that only appears in gemma is a
+gemma finding, not a pipeline finding.
+
+**Open question:** condition B changes company for ~93% of blocks. A cleaner
+dose-response would vary offset 0/1/2 at size 3 and measure whether the flip
+rate tracks the *fraction* of company changed. That is three more runs and would
+turn a two-point contrast into a curve.
+
+---
+
 ## 2026-09-03 (night) -- Noise floor measured: 0.80%. The chunk effect clears it by 17x.
 
 **Commit:** 9d70760
