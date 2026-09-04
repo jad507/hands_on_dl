@@ -24,6 +24,12 @@ Every row must carry the commit and enough config to re-run it.
 | 2026-09-03 | 9d70760 | **Chunk effect within consensus stratum** | same-text 1:1 blocks, 5 core models | 16,150 block-observations | unanimous 0.12% -> **6.09%** (**51x**); contested 1.98% -> **33.94%** (**17x**) -- the effect is not ambiguity amplification |
 | 2026-09-04 | 232baa1 | **CONTROLLED chunk experiment** | gemma-4-4b, 12 meetings, corpus fixed, only batching varies | 1,231 blocks | control A-vs-A2 **2.19%**; effect A-vs-B **12.10%**; **ratio 5.5x** |
 | 2026-09-04 | 232baa1 | Controlled, by stratum | same | 1,231 blocks | unanimous 1.01% -> 6.08% (**6.0x**); contested 6.97% -> 36.48% (**5.2x**) |
+| 2026-09-04 | 326b94b | **Controlled, ministral-8b replication** | same 12 meetings, same corpus, A/A2/B | 1,231 blocks | floor **0.41%**, effect **7.47%**, **ratio 18.4x** |
+| 2026-09-04 | 326b94b | Ministral by stratum | same | 1,231 blocks | unanimous 0.10% -> 2.53% (**25.0x**); contested 1.64% -> 27.46% (**16.8x**) |
+| 2026-09-04 | 326b94b | **Cross-model invariant** | gemma + ministral, contested blocks | 244 blocks each | both flip **27-36%** under a pure batching shift |
+| 2026-09-04 | 326b94b | Stable positives lost | flagged in both A and A2, surviving B | 239 / 237 | gemma **26.4%** lost, ministral **18.1%** lost |
+| 2026-09-04 | 326b94b | Noise floor is model-dependent | A vs A2, same corpus and settings | 1,231 blocks | gemma **2.19%** vs ministral **0.41%** -- a 5x spread |
+| 2026-09-04 | 326b94b | Noise does NOT predict context sensitivity | natural experiment, 6 models | n=6 | Pearson **r = +0.13** -- no cheap screening proxy exists |
 | 2026-09-04 | 232baa1 | **Effect replicates across designs** | natural vs controlled, unanimous blocks | - | **6.09%** vs **6.08%** -- the magnitude is reproduced; the *floor* was what differed |
 | 2026-09-04 | 232baa1 | Stable positives lost to a batching shift | flagged in BOTH A and A2 | 239 blocks | only **73.6%** survive the offset shift |
 | 2026-09-04 | 232baa1 | Batch context suppresses flagging | size 1 vs size 3 | 1,231 blocks | size 1 flags **387** vs size 3's **247** (+57%), and is nearly a superset (233 of 247 kept) |
@@ -58,7 +64,17 @@ conservative choice and the chunk-framing effect clears it by 17x anyway.
 text byte-identical, so there is no transcript confound: the only thing that varies
 is which two neighbours the model saw the block alongside.
 
-**Use the CONTROLLED ratio, 5.5x, not the natural experiment's 17-51x.** The
+**Quote per-model ratios, never a pooled one.** The controlled design gives
+5.5x for gemma-4-4b and 18.4x for ministral-8b: a 3x spread driven almost
+entirely by the floor, which is itself 5x apart between the two models. Lead
+instead with the two cross-model invariants -- contested blocks flip 27-36%
+under a pure batching shift in both, and both lose 18-26% of their own most
+stable positives.
+
+**Do not use the natural experiment's per-model floors for anything.** They
+understate the level and are not even rank preserving: the natural design makes
+gemma look quieter than ministral (0.22% vs 0.35%) while the controlled design
+makes it five times noisier (2.19% vs 0.41%). The
 natural experiment's "identical chunk" bucket is a selected sample: a block only
 lands there if its text and its whole enclosing chunk matched across variants,
 which happens preferentially in stable stretches. Conditioning on stability and

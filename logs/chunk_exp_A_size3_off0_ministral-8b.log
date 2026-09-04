@@ -2,3 +2,51 @@
   OK   model file (9.03 GB)
   OK   phase 1 prompt (p1_system.txt, sha 40abc756d122)
   OK   12 meeting files
+  OK   GPU: NVIDIA RTX A2000 12GB, 10742 MiB, 12282 MiB
+[2026-09-03 23:48:02] Loading model: D:\LLM\Ministral\Ministral-3-8B-Instruct-2512-Q8_0.gguf
+llama_context: setting new yarn_attn_factor = 1.0000 (mscale == 1.0, mscale_all_dim = 1.0)
+llama_context: n_ctx_seq (16384) < n_ctx_train (262144) -- the full capacity of the model will not be utilized
+  Loaded in 1m 9s
+
+[2026-09-03 23:49:12] Phase 1 starting: 12 meeting files
+
+[2026-09-03 23:49:12] City Council Committee Meeting - February 3, 2025
+  13 public comments from 80 blocks  [Elapsed: 1m 19s]
+
+[2026-09-03 23:50:31] City Council Committee Meeting - March 3, 2025
+  14 public comments from 109 blocks  [Elapsed: 1m 24s]
+
+[2026-09-03 23:51:55] City Council Committee Meeting - September 2, 2025
+  16 public comments from 94 blocks  [Elapsed: 1m 35s]
+
+[2026-09-03 23:53:30] City Council Meeting - April 29, 2025
+  37 public comments from 96 blocks  [Elapsed: 2m 46s]
+
+[2026-09-03 23:56:16] City Council Meeting - August 12, 2025
+  33 public comments from 114 blocks  [Elapsed: 2m 28s]
+
+[2026-09-03 23:58:45] City Council Meeting - August 26, 2025
+  22 public comments from 79 blocks  [Elapsed: 1m 51s]
+
+[2026-09-04 00:00:36] City Council Meeting - February 11, 2025
+  7 public comments from 86 blocks  [Elapsed: 48s]
+
+[2026-09-04 00:01:25] City Council Meeting - July 22, 2025
+  35 public comments from 126 blocks  [Elapsed: 2m 50s]
+
+[2026-09-04 00:04:16] City Council Meeting - June 10, 2025
+  19 public comments from 129 blocks  [Elapsed: 1m 43s]
+
+[2026-09-04 00:05:59] City Council Meeting - May 27, 2025
+  16 public comments from 95 blocks  [Elapsed: 1m 25s]
+
+[2026-09-04 00:07:25] City Council Meeting - September 9, 2025
+  18 public comments from 117 blocks  [Elapsed: 1m 44s]
+
+[2026-09-04 00:09:09] Planning Commission Meeting - September 3, 2025
+  10 public comments from 106 blocks  [Elapsed: 1m 5s]
+
+Summary: 12 processed, 0 skipped, 0 errors
+Total time: 21m 2s
+
+Done.

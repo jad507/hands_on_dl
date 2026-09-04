@@ -1,0 +1,247 @@
+{
+  "title": "City Council Meeting - August 26, 2025",
+  "video_id": "WImQYrQa0EM",
+  "upload_date": "20250827",
+  "model": "ministral-8b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-04T04:10:32+00:00",
+    "model": {
+      "name": "ministral-8b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\Ministral\\Ministral-3-8B-Instruct-2512-Q8_0.gguf",
+      "size_bytes": 9029392800,
+      "mtime_utc": "2026-05-22T20:31:24.814044+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    },
+    "chunking": {
+      "p1_chunk_size": 3,
+      "p1_chunk_offset": 0
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_08",
+      "start": 834.69,
+      "end": 858.26,
+      "speaker_name": "unknown",
+      "reason": "Expresses a community concern about the IA data center proposal and seeks clarity on public participation opportunities.",
+      "text": "if i may president counselor diaz will there be opportunity for the members of the community to speak against or for um anything that they feel that is not in co basically possibly not in the way they wish to have this um proposal plan be done for the ia data center yes counselor diaz"
+    },
+    {
+      "block_id": 14,
+      "speaker": "SPEAKER_08",
+      "start": 941.12,
+      "end": 941.96,
+      "speaker_name": "unknown",
+      "reason": "Speaker expresses a closing statement during public comment period, likely a resident or community member.",
+      "text": "That's all I have."
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_01",
+      "start": 985.0,
+      "end": 1141.36,
+      "speaker_name": "Frank Arcolio",
+      "reason": "Speaker identifies as a resident and questions the zoning process and its application to proposed data centers.",
+      "text": "yes uh i'm frank arcolio from old trinity place um i i have heard that any ordinance or amendment to the zoning code that would be introduced or requested by council go to the planning commission and then be a draft of a suggested ordinance come out of that and then obviously be presented to Council for Adoption that that is the process. But I've also been told that that ordinance would not apply to the existing two proposed data centers because they have already received approval letters from the city of Lancaster. And if that is the case, it gives me the feeling that you are willing, we are willing to close the barn door long after the horses have escaped. and that is not okay with the public. I hope that I am mistaken, and I know this is not a question and answer period, and nobody is required to address that concern, but it's very different as to whether we're gonna go through this process for those two centers, or let me put it this way, go through a zoning process based on the new zoning amendments that would presumably be uh approved by the council versus not being able to do that and and that i think is really what we have been we the public have been after all along to not do it in secret and and and with no public comment at all to put the whole thing through the proper process that any special use or use not provided for would be entitled to so thank you thank you for your comments i do appreciate your question"
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_00",
+      "start": 1190.68,
+      "end": 1230.69,
+      "speaker_name": "Dan Weigel",
+      "reason": "Resident speaking during public comment period expressing concern about city projects and enforcement.",
+      "text": "comments from the public on the motion good evening good evening uh dan weigel uh clarendon drive i'm usually a speak with notes type so um please bear with me but um first i want to thank the council for bringing this up as you said i think better late than never i'm very pleased with what you just said about it being enforceable for the current projects obviously we have been extremely concerned as i know i believe you have all been as well so i really look forward to working with you all in this process i urge you all to approve the motion unanimously tonight"
+    },
+    {
+      "block_id": 23,
+      "speaker": "SPEAKER_06",
+      "start": 1464.08,
+      "end": 1650.95,
+      "speaker_name": "Irene Grievous",
+      "reason": "Resident expressing a long-standing unresolved concern about property condemnation and housing supply impact.",
+      "text": "my name is irene grievous and i'm on the 400 block of west end avenue i am here today to raise an issue that has gone unresolved for four years this prolonged and unexplained condemnation of my property located on 901 manor street this has placed a tremendous amount of burden on me personally and needlessly removed a home from an already strained housing supply last month i approached councilwoman faith craig before city council meeting to ask for her support in introducing a petition for resolution regarding this matter conveniently she's not here she responded by asking me to email her a draft of the petition which i did in good faith promptly and respectfully despite multiple follow-ups and email and messages i have received no response this silence especially troubling because councilwoman craig has personally visited my home in 2022. she knows the conditions firsthand and understands why no action has not been possible on on me and this ongoing condemnation i reached out not just for help but because I believed this was a share concerned and a resolvable and a solvable issue at this time I can't help but notice the spread and ease or the speed and ease in which permits for AI data centers have been approved by the city easily often with little resistance or delay yet every one of my 11 separate permit applications to resolve this matter and move forward with the property has been denied. This is happening during an ongoing housing crisis where the need for affordable livable housing is more urgent than ever. My property, which has been rehabilitated and restored as a home, has effectively been taken off the market, but not for safety reasons, through prolonged inaction and bureaucratic uh resistance we cannot keep saying we care about affordable housing while actively preventing it from becoming reality i am asking council and specifically councilwoman craig to respond to act and to help break this deadlock so the property can serve its purpose providing a home to the community that's so desperately needed thank you thank you mr harris our next speaker next speaker is"
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_12",
+      "start": 1659.88,
+      "end": 1737.89,
+      "speaker_name": "Martin Yeves",
+      "reason": "Speaker identifies as a resident with multiple properties in the city and addresses a specific concern about misapplied payments to the treasury office.",
+      "text": "our next speaker next is murder nevis good evening good evening my name is martin yeves and i'm here today to address the council regarding the treasury office's misapplied payments for trash and water accounts i own several properties in the city and been fighting with the treasury office since 2023 for payments that i have made on time have been misapplied have been sent to collections and um at the present moment uh going through it again after just going through it in april so at this point i've been told that the penalty assessment cannot be overwritten by the new system and by the way the payments that just were sent on july 25th were through the new system and they were ach so i believe that the issues are human error i don't know i come from a finance background accounting background and i believe that this is not system related i think the errors are human related and i would like to know if the council and i can work together on"
+    },
+    {
+      "block_id": 28,
+      "speaker": "SPEAKER_05",
+      "start": 1767.62,
+      "end": 1960.42,
+      "speaker_name": "Emma Burgess",
+      "reason": "Resident expressing concerns about the impacts of a data center on electricity and reinforcing demands to the council.",
+      "text": "uh emma burgess 600 block of vine street um so before i start i would like to make it clear council that i know you don't regulate electric utilities my three minutes today only serve to highlight the impacts of building this data center and to further reinforce the urgency of our demands if i could just really quick to the people in the room i would like you to remember that if you have concerns about electricity issues the pennsylvania utility commission is the government governing body that you should be speaking to and they also hold bi-weekly hearings in Harrisburg which I would strongly encourage you to attend back to council I've got three things I'd like to address today first let's talk about the increased cost to residents that a data center would bring for scale the sum of Lancaster County activity has a load of about 700 megawatts on average which implies a peak load of about a thousand megawatts anyways this data center would have a continuous load of 100 and then 300 megawatts which would mean increasing the load by 10 to 30 percent this is huge so increasing the demand for power means we have to upgrade our electrical infrastructure to support it carissa the developer has said they're upgrading the necessary infrastructure that's great next we'd have to maintain the significantly larger grid the money for that comes from the delivery portion of your electrical bill last month that portion for me was about 40%, as shown there. Here's the catch, though. Industrial customers pay significantly less than residential customers. I know that the FERC ruling to 2023 governs a formula. It's intentionally ambiguous. Industrial customers pay about 44% as much as residential customers. This means that the increased cost for grid maintenance will be disproportionately passed on to residents. You can all expect your bill to go up. Second, let's talk about power quality. I know this isn't something most people think or even know about, but your power's quality matters. AC power is a sine wave. When it looks good, it looks like this. When it looks bad, it looks like this. It's due to something called harmonics. Last year, Bloomberg published a report using thousands of sensors measuring power quality across the nation. They compiled a list of the homes that suffered the worst power degradation and said that more than half of the tracked households showing the worst distortions of power quality were located within 20 miles of significant data center activity. This kind of distorted power leads to damage to home appliances in the long run. It's not something you see immediately, but it's something that adds up, as well as increased risks of things like electrical fires. Finally, I'd want to address the challenge that's brought on by having a sole consumer represent so much of the grid. Data centers are optimized and engineered for the protection of computers, which means that at the smallest risk of a problem, they switch to local backup generators. That means that in an instant, Something that's like 300 megawatts would, and hold for my beautiful animation, go offline, which would decrease the load in this grid from something like 1,200 megawatts to 900. Because data, because power grids have to be super balanced, that's a big problem all at once, which can cause, you know, cascading outages across a grid. I know that engineers work really hard to balance this, but that is a problem that needs to be addressed. Thank you very much. I hope this is helpful. I didn't cite any sources."
+    },
+    {
+      "block_id": 32,
+      "speaker": "SPEAKER_07",
+      "start": 1977.7,
+      "end": 1987.41,
+      "speaker_name": "Sarah Edder Hinojosa",
+      "reason": "Identifies as a resident and begins a public comment during the public comment period.",
+      "text": "speaker mr harris uh sarah edder hinojosa good evening my name is sarah edder hinojosa i'm from"
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_11",
+      "start": 1987.41,
+      "end": 2082.21,
+      "speaker_name": "unknown",
+      "reason": "Resident expressing appreciation for council actions and concerns about water cooling and zoning.",
+      "text": "the 400 block of west frederick i'm probably going to end up yielding most of my time because you guys address a lot of our concerns so i'll just boil it down to three things number one i want to express appreciation for some of the things you announced tonight specifically codifying that there won't be water cooling uh for this facility thank you for announcing that that's really incredible um and also for the work you're doing on zoning we want to express that the work you do does matter to us and we're not just here to express when we're upset about things um a few other things though number two i am still concerned about enforceability of i'm not an expert in local governance in these things but it is my understanding that a zoning ordinance would not be enforceable and i would love to hear more about why that is your position um number three the main issue that uh the council doesn't have any ability to really mitigate is the energy issue that emma just lent her incredible expertise and design skills to and we're still really concerned about that and we totally understand that council does not have a lot that they can offer to this fight but what we would really love is your support in bringing the fight to the bodies that can i mean most of us here have full-time jobs and families like we're doing this in our free time and so we would really love the support of our elected officials as we're bringing it to the state as we're bringing it to regulatory bodies like the puc because again we're doing this in our free time so we would love to see instead of just maybe we can't do anything about that support and collaboration on taking it to the body bodies that can so that's all i have to say i'll yield the rest of my time thank you for the announcements you made earlier thank you very much"
+    },
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_19",
+      "start": 2118.7,
+      "end": 2163.74,
+      "speaker_name": "Ravi Ahuja",
+      "reason": "Resident expressing concerns about data center development and echoing appreciation for council announcements.",
+      "text": "ravi good evening my name is ravi ahuja i live on the 200 block of west walnut like many people here i'm obviously very affected by and concerned about the development of the data center i want to echo sarah's appreciations and something that some things that dan said as well about some of the things announced tonight i think the noise level study is really important and welcome the codifying of the water cooling also very important we appreciate the opportunity for public comment it's also something that is critically important to be an ongoing process and so i just want to strongly urge the mayor sirachi and zoning commissioner thrash our attendance at the at the transparency hearing on october 1st we'd love to know the full details about all the decisions that were made for the zoning so i'd really appreciate that thank you"
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_10",
+      "start": 2202.8,
+      "end": 2371.74,
+      "speaker_name": "michelle sales",
+      "reason": "Identifies as a resident expressing concerns about AI data centers and their impact on civil liberties, privacy, and security.",
+      "text": "can you hear me all right yep uh hi all i'm michelle sales i live in liditz um i want to add to the conversation on ai data centers i know a lot has already been said about the environmental and financial costs which are huge on their own i want to draw some attention also to what these data centers can be empowering with potential costs to our collective civil liberties privacy and security so we should all know that this data center infrastructure is going to directly support a lot of major tech companies like meta palantir amazon i want to focus my comments right now on palantir because at the same time that our federal government is starving people of needed funding for essential programs it has found plenty of money to prop up the private sector with these massive government contracts um so when we say that ai is the future we need to be really clear about what the technology is uh and what we're going to be using these data centers for so palantir has been the recipient of billions in federal contracts they have a new 10-year 10 billion dollar contract with the army they're collaborating with doge there's a 30 million dollar partnership with ice which is already targeting folks in our community and i'm going I'm going to share some sections of an open letter that was published in May from Palantir former staffers and whistleblowers calling out the company for colluding with the authoritarian consolidation that is underway. And they say Palantir technology's platform grants immense power to its users helping control the data, decisions and outcomes that determine the future of governments, businesses and institutions and by extension all of us. Early Palantir staff understood the ethical weight of building these technologies. A code of conduct was crafted to uphold democracy, preserve the spirit of free scientific inquiry, and ensure responsible AI development. Guardrails were set to prevent discrimination, disinformation, and abuses of power, and these principles have now been violated and are rapidly being dismantled at Palantir Tech and across Silicon Valley. Palantir's leadership has abandoned its founding ideals. Public statements have grown hostile to DEI. Executives now employ inflammatory language, sometimes threatening critics with violence. Meanwhile, our democracy faces escalating threats. Biometrics data collection on immigrant children, journalists targeted, science programs defunded, key US allies like Ukraine sidelined. Trump's administration has sought to greatly expand executive powers while alluding to monarchy. Big tech including Palantir is increasingly complicit, normalizing authoritarianism under the guise of a revolution led by oligarchs and we must resist this trend and they go on. We no longer believe Palantir's executives are upholding our core values by supporting the administration, Doge and dangerous expansions of executive power. they've abandoned their responsibility and are in violation of our code of conduct so thank you for the developments tonight to keep in mind that we can revisit these the zoning process moving forward and I think as we all work to shape this process and how these projects shape up we need to be careful to not assume that all AI development is beneficial and that we should have a say in"
+    },
+    {
+      "block_id": 40,
+      "speaker": "SPEAKER_13",
+      "start": 2383.43,
+      "end": 2441.2,
+      "speaker_name": "Brittany Sowers",
+      "reason": "Identifies as a concerned business owner directly impacted by proposed data centers and expresses concerns about potential impacts.",
+      "text": "Brittany Sowers, Harrisburg Pike. So I'm just here tonight as a concerned business owner who would be directly impacted by one of the data centers. I co-own a hair salon on Harrisburg Pike directly across from one of the proposed data centers, and it's something that, you know, we've been very concerned about. You know, is our electric going to go up? I'm glad you heard tonight about the water, that they're not going to be using water. you know because a lot of the research we did we saw you know it can cause water issues we need water to run our business um so yeah i'm just here to express my concern as a small business owner of what the impacts are gonna be to my business thank you our next speaker mr harris next speaker"
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_03",
+      "start": 2468.35,
+      "end": 2564.33,
+      "speaker_name": "unknown",
+      "reason": "Expresses personal opinion and concern about city decisions regarding the AI data center and zoning.",
+      "text": "come across as very polished i'm changing some of my comment on the fly here based on what was said earlier i feel a mixture of emotion tonight i was angered by the lack of transparency around the ai data center center but on the other hand i'm heartened to see that council is considering looking at the zoning and i want to echo some comments said before that i would love to see continuing collaboration with city council going forward i'm also concerned about the potential energy usage and about bills going up but also from an environmental perspective the amount of energy that uses and the cost in the environment that that it would create to generate that energy. I also want to close by saying that I quite frankly do not want any new AI centers built anywhere near the city of Lancaster. I work in the tech industry and in my opinion an experience generative AI is a scam which offers few benefits if any to regular people like me. But at the very least, if this center or both centers are to be built, I would love to collaborate with City Council going forward so that we can come to a good solution together. Thank you."
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_01",
+      "start": 2572.83,
+      "end": 2679.57,
+      "speaker_name": "Frank Arcoglio",
+      "reason": "Identifies as a resident and provides a community perspective on data centers versus warehouses.",
+      "text": "Frank Arcoglio, Old Trinity Place. I had come with prompts tonight to put a little levity to the situation. I want to show you two different balls. One's a football, I think we can agree on that. The other's a baseball. They're both balls, but they have very different usages, and they're in very, very different sports, and they're thrown and caught in very, very different ways. I feel the same thing is true about data centers versus warehouses. And so how could that possibly be done? If this is a data center, this is a warehouse. They are not the same thing and should never ever have been called the same thing. As I've said before, I appreciate your efforts and your action tonight to request new zoning ordinances to deal with the data centers. My concern is whether it really is retroactively applicable to building permits that have already been issued under the guise that these two things were the same which they're clearly not so I guess I need to await further further clarification I know that's not you know your job I know you say you intend to to apply it to the maximum effectiveness that is legally possible and i understand that and i just hope that that effectiveness is substantial and not based on the confusion that intentional or otherwise that these are the same things"
+    },
+    {
+      "block_id": 47,
+      "speaker": "SPEAKER_18",
+      "start": 2692.96,
+      "end": 2849.54,
+      "speaker_name": "Jontel Tolan",
+      "reason": "Identifies as a resident of Wise Ave. and expresses a community perspective on dialogue and local issues.",
+      "text": "Good evening, first and only block of Wise Ave. I had some I changed up what I had said a little bit because of the things that you had spoke about earlier. So thank you for addressing the need for dialogue and starting the meeting that way. Our communities are thriving, diverse and deeply community and deeply invested in this issue. The perspective shared in the last meeting added critical context that can't be ignored we have an opportunity to set an example for other cities by standing up to big tech and prioritizing our environment health and future that starts with transparency and real accountability where can the public access independent third-party studies or when can they be made available the city's website says the pa department of environmental protection is reviewing an air quality permit submitted by the developer for diesel generators and at lancaster is monitoring the process but monitoring is not the same as accountability if you are conducting independent reviews then we look forward to public access to the findings from independent reviews who from our community not corporate representatives has been directly consulted about this project and is their record who will be held personally accountable if these facilities harm residents or the environment if you are truly committed to lancaster i would love to see you put your commitments in writing for the public to see we need to reclassify these data centers and prevent any more from coming the city should resend permits immediately and restart the zoning process with public input tonight's agenda includes a motion to amend the zoning ordinance to properly regulate regulate data centers let's pass it and move swiftly you said something about october but i think that's a bit far away to be discussing this and i think this is a more urgent issue it's about more than permits it's about trust if decisions have already been made share them share your thoughts your reasoning your humanity people want to believe in their leaders but these days especially trust is fragile and transparency is the only way forward the community does not want any more backroom discussions has anyone from this council personally reached out to the residents who spoke last time or previous times responding to emails having real conversations and showing that you've done your homework would go a long way the public needs to see that beyond this one meeting today thank you for the information and i would love to see this continue i would love to see actual dialogue with the public ahead of town hall style meetings and the ones that you're referring to in october we are here to continue holding you accountable and work together to push these tech giants out half a million lives in this county are at stake we cannot stay silent on this and we will not so work with us and keep working"
+    },
+    {
+      "block_id": 52,
+      "speaker": "SPEAKER_08",
+      "start": 3611.18,
+      "end": 3685.59,
+      "speaker_name": "unknown",
+      "reason": "Speaker raises a question about city budget allocation for technology, identifying as a community member concerned with public funds.",
+      "text": "you had mentioned um previously when we were going over it um the budget you had mentioned in regards to how much we invest in our technology in in city hall do you recall that i believe that was in the operating budget is that yes um my question i'm kind of diverted to this particularly if we invest a lot in our community tax money for our city to run our technology why is it that the av is not working correctly and why would someone schedule a meeting and of course i was to be present but unfortunately i was ill and i said well since i was able to use it through our teams that I would be able to attend the meeting which obviously the response was that it's not working correctly so my concern is how much do we invest in our IT and when is it going to be fixed because it's been a pretty long time"
+    },
+    {
+      "block_id": 61,
+      "speaker": "SPEAKER_07",
+      "start": 3926.8,
+      "end": 3963.89,
+      "speaker_name": "unknown",
+      "reason": "Speaker discusses property improvement applications within the Heritage Conservation District, expressing a position on city decisions.",
+      "text": "president thank you considering the following applications and recommendations from the Historical Commission for improvements to properties within the Heritage Conservation District first is Kiana Castro owner of 550 hand Avenue proposes construction of an uncovered stoop on the facade of a two-story brick row house and the second is Johnny Smucker the third owner of 39 North Palm Street proposes construction of a one-story frame mudroom addition to the rear of a corner row house and both of those applications were recommended for approval by the historical commission i'd like to make a motion to"
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_17",
+      "start": 4045.34,
+      "end": 4231.88,
+      "speaker_name": "unknown",
+      "reason": "Speaker identifies as a resident expressing concerns about the AI data center's environmental and community impact.",
+      "text": "lafayette street so right i'm gonna i wasn't a registered speaker at the beginning but i'd like to make some comments about something i'll discuss earlier which was the ai data center I stood at this podium in March of this year discussing how AI is impacting our environment, encouraging small businesses to turn to PCAD, which is right next door, for human-made creative assets. Now, a $6 billion AI facility is threatening our community with its presence, and I find myself back here talking about the same thing. Lancaster is an emporium of small shops and cell phone businesses, its culture constructed off of individual creations by unique creatives. and outside of the city you have acres upon acres of beautiful land and tasteful agriculture defining traditional Pennsylvania. I'd like to acknowledge the comments earlier about environmental preservation and limited use of water but I'm not reassured as a resident especially from the lack of transparency that this center won't use a major amount of water and electricity. I've previously gone over how AI has impacted the job industry. 3,900 workers were placed by AI according to the National University in March. Entrepreneurs around the world have faced job loss, decreases in salary, and lack of opportunities in the market. As you heard tonight, the construction of the center alone will concern workers. Imagine the detrimental effect it'll have on future jobs in Lancaster. Let me remind you now of the consequences this data center will have on people who live here. To start, these data centers will use some sort of water for cooling, even if it's a limited amount, and while there are efforts to limit such, you're still using significant amount of water in a facility that's costing six billion dollars to construct each tax prompt consuming consumes an average water bottle globally AI related infrastructure may soon consume six times more than water than Denmark a country of six million people according to a study from the University of California this becomes an issue when a quarter of humanity already lacks access to clean water and sanitation Lancaster residents already struggle with increasing water bills are you okay with risking the lives of thousands of Lancaster residents just to give more money to big corporations instead of the people lastly these data centers will emit waste such as co2 lead and mercury into our environment quickening the effects of global warming whether you like it or not it will suck up energy and water from Lancaster residents leaving citizens to live with the consequences consequences of your decisions the power plant and backup generators needed to keep data centers working generate harmful air pollutants such as fine particle matters of nitrogen oxides these pollutants take an immediate toll on human health triggering asthma symptoms heart attacks and even cognitive decline according to the ieee spectrum despite efforts a center at this scale cannot avoid causing environmental harm and with lack of transparency until now i have little faith that it will cause little damage as you say it does please continue to reassure the public with accessible information on these matters but i'd like to thank you again for the comments earlier remember at some point us taxpayers will have to keep paying for the environment killing data center and clearly nobody wants to do that as you continue to"
+    },
+    {
+      "block_id": 68,
+      "speaker": "SPEAKER_20",
+      "start": 4249.42,
+      "end": 4388.53,
+      "speaker_name": "Brett Stanley",
+      "reason": "Speaker identifies as a resident (lives in Mountville) and discusses job creation and data center-related work experience.",
+      "text": "good evening adjust that as needed uh brett stanley i live in mountville but i work in lancaster i spoke last last last meeting i've been here for all of them um i spoke on job creation and lack thereof possibly with the work in creating you know catalysts for the data centers sw at my employer in wrightsville my old employer in wrightsville had a hand in building a lot of things for data centers whether they be catalysts like scrs they're selective like basically as one of the comments that you had made about the um the the interruption of data center like output one of the things they also were making were these uh like rolling generators or rolling data centers to support these things basically i'm just coming here to say more information of this seems like it's destined to happen and basically none of you had any say in it and doesn't seem like we will have any say in it retroactively addressing the concerns not you guys but the whole process in it of itself like waiting till october um etc but uh yeah i i would certainly like to stay on top of where this work is coming from where it's going and yeah i i'm just really disheartened that it seems like the work is already done and it's just being lost upon our community i hope that you all can have some influence on that I didn't really have a choice and like what I make it's just custom fabrication so you get a new job almost every day new parts but anyway wasting a little bit of time thank you any additional"
+    },
+    {
+      "block_id": 69,
+      "speaker": "SPEAKER_21",
+      "start": 4388.53,
+      "end": 4551.64,
+      "speaker_name": "Jeannie Showers",
+      "reason": "Resident expressing concerns about environmental impacts and urging council to remain mindful of public worries.",
+      "text": "comments for this period good evening hi Jeannie showers from Mountainville first i want to thank the council for addressing uh you know some of the questions that the public had had in previous meetings and so forth i definitely think that it has assuaged some of our worries and concerns especially with regards to the environmental impacts specifically with water however moving forward i do want to at least you know urge the council to be mindful of the enforceability of the proposed regulations with um you know even though there will be an agreement a legally binding agreement with water consumption we want the public we want to make sure that that is being maintained um as objectively as possible additionally we want to ensure that moving forward uh the environmental agencies that have been hired to conduct um you know the noise um studies and so forth are you know unaffiliated with these data centers and with um you know corporate back we also want to ensure that moving forward in the future we want to ensure that when these data centers do potentially expand that they remain within the footprint of the existing structure as it is stated in the FQA online and if they do expand beyond that if the current or proposed zoning ordinances that are likely to be changed that the expansion is an is in accordance with those newer zoning ordinances and lastly just wanting to urge the council to be mindful of the strain on the energy grid um i like a like you had mentioned previously even though you do not have control over the energy within lancaster i am curious as a resident what will be done with the grid in order to bolster it so that it can support not only the data center but the residents as well which will have you know the largest impact from these data centers thank you thank you"
+    },
+    {
+      "block_id": 71,
+      "speaker": "SPEAKER_09",
+      "start": 4567.32,
+      "end": 4604.95,
+      "speaker_name": "unknown",
+      "reason": "Community member requesting council intervention regarding zoning officer attendance and transparency in hearings.",
+      "text": "outside the city on the columbia app um i just wanted to request the council's help in pressuring the zoning officer and the mayor and showing up to any of the hearing hearings that are being proposed as i've heard from other sources the zoning officer has no interest in showing up to those and answering questions which feels shady and i don't like that and i'm sure we would all love some answers from the actual people involved in making these decisions that we know you guys weren't allowed to be involved in that's all thank you thank you any additional commenters"
+    },
+    {
+      "block_id": 73,
+      "speaker": "SPEAKER_02",
+      "start": 4628.37,
+      "end": 4787.69,
+      "speaker_name": "Roe Potter",
+      "reason": "Expressed a strong opinion on AI and its perceived authoritarian implications, identifying as a community member with a clear public concern.",
+      "text": "franks franklin anyways and your name sorry roe potter thank you um i don't plan on pulling any punches with this one so i'm going to try and be quick but artificial intelligence is the tool of fascism. Everything ranging from AI images to generative text to palantir all plays into their, they being fascists, authoritarian agenda. Despite water cooling and emissions being supposedly regulated, which isn't enough to comfort me or really anyone in here who's been paying attention to anything going on with XAI down in Memphis, Tennessee. Yeah, it's just not convincing enough. Stuff like this, like like i said about memphis tennessee with xai stuff like this disproportionately affects black and brown communities which we have a majority of in lancaster and day in and day out we are not only pushed and edged further out by gentrification and you know the way we treat homelessness is absolutely terrible in the 25 years i've been here i just think that something like this has no belonging in lancaster county at all it doesn't benefit the people that live here our water is already questionable our energy is already questionable my who else's rent is going up right my rent's up my water is the same it tastes the same but stuff like this really has no place in lancaster county at all i don't see how we can take time to put a supposed warehouse of supercomputers when we start potholes right next door to it it doesn't make any sense if we If we want to improve what's going on in the city and, you know, energy-related things, I don't think putting a giant succubus in the middle of it is going to help anything. Yeah, I just really want to stand on the fact that artificial intelligence is the tool of fascism. If you want proof of that, look at the White House's Twitter posts. there's not an artist you could hire out here in the world that would do art of alligator alcatraz you know historically when black and brown communities have been disproportionately affected by stuff like that uh yeah just really disgusted that this is coming to our community in a place where we value not only what we create with our hands but who we give it to and ai doesn't do any of that it takes away who's making it and it don't give a shit who's going to so if you care about living here which I'm pretty sure you do this ain't gonna happen but again like someone else said here it don't seem like we got much of an opinion or decision so kind of authoritarian and"
+    }
+  ]
+}

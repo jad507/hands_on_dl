@@ -1,11 +1,4 @@
 pair,flagged_a,flagged_b,net,changed,changed_pct,jaccard,krippendorff_alpha,gwet_ac1
-A_size3_off0 vs A2_size3_off0_repeat,247,258,11,27,2.193,0.8985,0.9328,0.9675
-A_size3_off0 vs B_size3_off1,247,260,13,149,12.104,0.5457,0.63,0.8201
-A_size3_off0 vs C_size1,247,387,140,168,13.647,0.581,0.6433,0.779
-A_size3_off0 vs D_size5,247,290,43,121,9.829,0.6322,0.7119,0.8508
-A2_size3_off0_repeat vs B_size3_off1,258,260,2,144,11.698,0.565,0.6481,0.8248
-A2_size3_off0_repeat vs C_size1,258,387,129,159,12.916,0.6045,0.6661,0.7894
-A2_size3_off0_repeat vs D_size5,258,290,32,112,9.098,0.6606,0.7372,0.8609
-B_size3_off1 vs C_size1,260,387,127,153,12.429,0.6175,0.6794,0.7971
-B_size3_off1 vs D_size5,260,290,30,120,9.748,0.6418,0.7192,0.8507
-C_size1 vs D_size5,387,290,-97,157,12.754,0.6235,0.6803,0.7879
+A_size3_off0 vs A2_size3_off0_repeat,240,239,-1,5,0.406,0.9793,0.987,0.9941
+A_size3_off0 vs B_size3_off1,240,242,2,92,7.474,0.6794,0.7628,0.8909
+A2_size3_off0_repeat vs B_size3_off1,239,242,3,93,7.555,0.676,0.7598,0.8898

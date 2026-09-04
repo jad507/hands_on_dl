@@ -12,6 +12,112 @@ Companion: `RESULTS.md`, one row per experiment, for finding a number fast.
 
 ---
 
+## 2026-09-04 (later) -- ministral replicates the effect. The ratio is model-dependent: 5.5x to 18.4x.
+
+**Commit:** 326b94b
+**Ran:** `.
+un_chunk_experiment.ps1 -Model ministral-8b -Conditions "A,A2,B"` (65m)
+**Config:** same 12 meetings, same 1,231 blocks, same corpus directory as the
+gemma run. Only the model differs.
+
+**Result:**
+
+| model | stratum | n | floor (A vs A2) | effect (A vs B) | ratio |
+|---|---|---|---|---|---|
+| gemma-4-4b | unanimous | 987 | 1.01% | 6.08% | 6.0x |
+| gemma-4-4b | contested | 244 | 6.97% | 36.48% | 5.2x |
+| gemma-4-4b | **all** | 1,231 | **2.19%** | **12.10%** | **5.5x** |
+| ministral-8b | unanimous | 987 | 0.10% | 2.53% | 25.0x |
+| ministral-8b | contested | 244 | 1.64% | 27.46% | 16.8x |
+| ministral-8b | **all** | 1,231 | **0.41%** | **7.47%** | **18.4x** |
+
+Stable positives lost to the shift: gemma **26.4%**, ministral **18.1%**.
+
+**The effect replicates. The ratio does not, and that corrects what I wrote
+three hours ago.** I said "5.5x is the number, not 17-51x". 5.5x is *gemma's*
+number. ministral gives 18.4x. The honest statement is a **range of 5.5x to
+18.4x overall, 5.2x to 25.0x by stratum, and it depends on the model.** A single
+ratio should not be quoted at all.
+
+**What is genuinely stable across the two models** -- and this is the part that
+should carry the paper:
+
+- Both show a large chunk-framing effect on byte-identical text.
+- On **contested blocks both flip 27-36%** under a pure batching shift
+  (gemma 36.48%, ministral 27.46%). That is the tightest cross-model agreement
+  in any of this.
+- Both lose a substantial share of their *own* most stable positives:
+  26.4% and 18.1%.
+- In both, the effect is several times the floor in every stratum.
+
+**What is not stable, and has to be measured per model rather than assumed:**
+
+- The **floor differs 5x between models**: gemma 2.19%, ministral 0.41%. Gemma
+  is markedly noisier at fixed settings. Both are Q8 quantisations of similar
+  size, so this is a property of the model, not obviously of the quantisation.
+- Consequently the ratio differs 3x.
+
+**On my earlier "the natural experiment underestimated the floor by 5x":** that
+diagnosis holds for gemma (0.12% natural against 1.01% controlled on the
+unanimous stratum) but I overgeneralised it. ministral's controlled unanimous
+floor is 0.10%, which is *lower* than the pooled natural figure. The pooled
+natural table mixed five models with floors spanning at least 0.10% to 2.19%, so
+its per-stratum numbers were an average over models with very different noise --
+which is a second reason not to quote it, independent of the selection bias.
+
+**Surprised by:** how much cleaner ministral is. Flagged counts of 240 / 239 /
+242 across the three conditions, against gemma's 247 / 258 / 260. Its control
+moved 5 blocks out of 1,231. I had assumed run-to-run noise was a property of
+the *harness* -- llama.cpp, the GPU, batching in the runtime -- and it is
+substantially a property of the model.
+
+That is worth stating because it changes what the reproducibility finding means.
+`compare_corpus_runs.py` measured 0.80% for gemma across the June-September gap.
+If ministral's floor is 0.41% *within a session*, its cross-toolchain figure
+might be much lower, and the June corpus may be more citable for some models
+than others. Untested.
+
+**Decided:**
+- Report per-model ratios, never a pooled one.
+- Lead with the two cross-model invariants -- the 27-36% contested flip rate and
+  the loss of the model's own stable positives -- rather than with a ratio.
+- Measure the floor for any model before quoting an effect for it. It is one
+  extra run of the same condition and it is not optional.
+
+**Next:** phi-4 would make three models, and it had the *highest* natural
+shifted-chunk rate (17.14%), so it is the most favourable case and worth having
+for the range. Also still open: the offset 0/1/2 dose-response curve.
+
+**Tested that idea immediately and it does not hold.** The speculation was that
+a model's run-to-run noise might predict its context-sensitivity, which would let
+a practitioner screen for this problem with one cheap repeat run instead of a
+full experiment. Across the six usable models in the natural experiment, the
+correlation between identical-chunk rate and shifted-chunk rate is **r = +0.13**
+at n = 6. No relationship. The shortcut does not exist; the effect has to be
+measured directly.
+
+**And a sharper reason to stop using the natural experiment's per-model floors
+at all.** They do not merely understate the level -- they are not rank
+preserving. On the one pair that can be checked against a proper control:
+
+| | gemma-4-4b | ministral-8b |
+|---|---|---|
+| natural, identical-chunk | 0.22% | 0.35% |
+| controlled, A vs A2 | **2.19%** | **0.41%** |
+
+The natural design says gemma is the quieter model. The controlled design says
+it is five times noisier. **The ordering inverts.** One inversion out of one
+checkable comparison is enough: those figures should not be used to compare
+models, only to establish that the effect exists.
+
+**Open question:** is gemma's higher floor related to its much higher flagged
+count under size 1 (387 against size 3's 247)? Both look like the same
+underlying looseness, and unlike the correlation above this one is a
+within-model question rather than a six-point regression. Needs condition C on
+ministral to test -- one more run.
+
+---
+
 ## 2026-09-04 -- Controlled experiment: the effect replicates exactly, the noise floor does not. Ratio is 6x, not 51x.
 
 **Commit:** 232baa1
