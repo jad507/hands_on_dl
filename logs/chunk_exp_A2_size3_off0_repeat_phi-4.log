@@ -1,0 +1,20 @@
+﻿[2026-09-04 02:21:23] Pre-flight checks
+  OK   model file (8.89 GB)
+  OK   phase 1 prompt (p1_system.txt, sha 40abc756d122)
+  OK   12 meeting files
+  OK   GPU: NVIDIA RTX A2000 12GB, 11739 MiB, 12282 MiB
+[2026-09-04 02:21:26] Loading model: D:\LLM\unsloth\phi-4-Q4_K_M.gguf
+  Loaded in 15s
+
+[2026-09-04 02:21:42] Phase 1 starting: 12 meeting files
+
+[2026-09-04 02:21:42] City Council Committee Meeting - February 3, 2025
+  17 public comments from 80 blocks  [Elapsed: 1m 59s]
+
+[2026-09-04 02:23:42] City Council Committee Meeting - March 3, 2025
+  24 public comments from 109 blocks  [Elapsed: 2m 41s]
+
+[2026-09-04 02:26:23] City Council Committee Meeting - September 2, 2025
+  24 public comments from 94 blocks  [Elapsed: 2m 27s]
+
+[2026-09-04 02:28:50] City Council Meeting - April 29, 2025

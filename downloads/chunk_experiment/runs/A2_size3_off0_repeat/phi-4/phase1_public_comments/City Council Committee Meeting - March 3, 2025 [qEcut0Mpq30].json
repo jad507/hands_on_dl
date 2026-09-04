@@ -1,0 +1,265 @@
+{
+  "title": "City Council Committee Meeting - March 3, 2025",
+  "video_id": "qEcut0Mpq30",
+  "upload_date": "20250304",
+  "model": "phi-4",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-04T06:21:42+00:00",
+    "model": {
+      "name": "phi-4",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\phi-4-Q4_K_M.gguf",
+      "size_bytes": 8890306112,
+      "mtime_utc": "2026-05-22T20:42:10.869793+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    },
+    "chunking": {
+      "p1_chunk_size": 3,
+      "p1_chunk_offset": 0
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 5,
+      "speaker": "SPEAKER_14",
+      "start": 301.99,
+      "end": 357.94,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a council member and discusses an agenda item, not a public comment.",
+      "text": "councillor colleagues thank you madam president the personal committee has two items on the agenda for tonight the first item is the nomination of Stephen gross for appointment to the city revitalization and improvement zone authority mr groff is nominated due to his experience and a pair request of senator scott martin due to his impressive legal background leadership experience and dedication to the lancaster community so now i'll make i think i guess he's not here but oh could you please step for what please yes thank you thank you very much thank you very much yeah sure"
+    },
+    {
+      "block_id": 6,
+      "speaker": "SPEAKER_12",
+      "start": 357.94,
+      "end": 505.72,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident and expresses their background and opportunity to speak.",
+      "text": "well thank you very much for inviting me this evening I have not actually been to a City Council meeting or a committee's City Council meeting before so this is kind of my first first opportunity so I grew up in Lancaster County graduate of Warwick High School after law school I moved back after a short clerkship in Altoona moved back to Lancaster to start my legal career I've had a law practice here across actually from the the courthouse for over ten years I primarily do a lot of litigation including criminal defense and family law and some general business matters. I love Lancaster City. It's improved so much from when I was a kid. The only time I ever came really to Lancaster City with my parents, we would shop and go to lunch at Walton Chance. And sometimes my dad would go to what used to be TMB and he would drag me along. But it's incredible what's happened to Lancaster City and a lot of that's because we've had some great leadership over the years. Love working in Lancaster City, serving the people all over the county. I go outside of the county, too, but primarily my practice is focused in Lancaster. Personally, I live in Manhattan Township with my wife, Melissa, my son, Harrison, and my daughter, Olivia. They go to Manhattan Township. I was on the school board in Manhattan Township for about eight and a half years. Half of that was either as president or vice president, but I stepped down last year to just take some time. Eight and a half years was a long time. I'm currently on the board at UPMC. I've been on the board for about 15 years. Love that. I think this board is very interesting to me because it's completely different than what I've ever done before. It's very unique. I didn't know a lot about it, to be honest with you, so I had to obviously ask some people and do my own research, but it's really pretty incredible. I love working on boards. I think it's a great opportunity to collaborate with other people, to try to find solutions to problems that we may have and I'm sure looking forward to getting started I think I have to schedule an orientation the next few days so I'm looking forward to that but thanks again hopefully the motion passes and I look forward to meeting all of you in in the coming days and weeks ahead and working with you. I don't know if you have any questions at all."
+    },
+    {
+      "block_id": 11,
+      "speaker": "SPEAKER_12",
+      "start": 541.73,
+      "end": 602.06,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident and expresses an opinion on the city's development.",
+      "text": "Well, I think you've already been doing it. You know, like I said, just the way that Lancaster City has changed just in the last few years and certainly over the last 10 or 15 years or 20 years, I mean, it looks completely different than when I grew up. There's always a new coffee shop opening up, a new restaurant opening up. uh lots of different services for people that uh that need it here in lancaster city um and i think you know i think lexington city has become a place where people want to do business because it's a good place to do business and i think that we want to keep that going and quite honestly um i don't want to take any credit for anything because i think that obviously the good work has been done by those who came before me and i just want to continue to help chris uh move forward and certainly help the city uh as they've been doing but uh they've obviously been doing a great job thus far thank you for answering and that includes my questions"
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_04",
+      "start": 616.43,
+      "end": 641.48,
+      "speaker_name": "Susie Gomez",
+      "reason": "The speaker identifies as a resident and expresses a question regarding a board member position.",
+      "text": "i have to say my name yes okay susie gomez 100 block of north reservoir street um are you filling in the position on a legal standpoint or are you filling in the position on a board member standpoint board member position just the board"
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_15",
+      "start": 2305.17,
+      "end": 2325.86,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses questions and concerns about financial projections and amortization.",
+      "text": "didn't talk about this but some of the work that he did in the kind of amortization is really to stack some of those so for example there's a couple are five years or ten years those are actually that financing is actually um shown more at the beginning of the the term so that doesn't stretch out as long okay and that concludes my questions"
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_09",
+      "start": 2332.9,
+      "end": 2394.45,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and poses a question regarding city projects.",
+      "text": "question um could perhaps go to either director campbell although um it's just a very general question and it is some of the projects that are listed in this i know are are not maintenance but they're extending the useful life of the assets so they're almost like rehabilitation and not repair so to speak and then there are also some projects i'll just use the design of the anaerobic digester as an example where um and the the camera truck is another one of these where will actually result in cost savings to what extent does the city put together analysis to understand how some of these investments in the long term will save on money not even necessarily return on investment analysis but is there an understanding of how some of these projects could save the city money in the long run and what those savings would be do you want to speak to that"
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_14",
+      "start": 2895.45,
+      "end": 2909.91,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and asks a question during the public comment period.",
+      "text": "Thank you, Councilor Hoyo. I just have one question. When you plan all these projects, do you take into consideration unexpected risks or challenges during the execution of those projects?"
+    },
+    {
+      "block_id": 53,
+      "speaker": "SPEAKER_04",
+      "start": 3123.36,
+      "end": 3136.56,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies a question regarding the disposal of police records.",
+      "text": "Question, do we know how far back?"
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_04",
+      "start": 3157.97,
+      "end": 3166.69,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a question about the destruction of records.",
+      "text": "so do we know if records will be destroyed that has counselors at"
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_04",
+      "start": 3200.48,
+      "end": 3208.11,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a concern about the destruction of documents.",
+      "text": "weren't provided with the specifics just a list and they're asking those documents be destroyed"
+    },
+    {
+      "block_id": 61,
+      "speaker": "SPEAKER_03",
+      "start": 3341.19,
+      "end": 3418.9,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member updating the council on the urban forestry program.",
+      "text": "good evening health members i'm pleased to be here today to share in updating you all as director campbell mentioned on lancaster's urban forestry program this is an effort that continues to grow in both impact and engagement at the heart of this work is our new urban forester mike meyer who in just six months has not only advanced the city's urban forestry initiatives but has truly embraced lancaster's community and culture guided by the 2020 trees for people action plan the city's efforts are expanding from securing funding for hundreds of new street trees this year to navigating challenges such as the suspension of federal funding despite these hurdles our commitment to a greener more resilient lancaster remains strong driven by community partnerships and a belief that trees are essential infrastructure improving air quality cooling neighborhoods and enhancing overall well-being this aligns with the broader sustainability and environment vision which recognizes that lancaster thrives when its people and environment thrive together and with that i'd like to turn it over to dr meyer who will walk you through the latest program updates and community engagement efforts shape excuse me shaping lancaster's tree canopy thank you"
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_09",
+      "start": 3936.94,
+      "end": 3979.16,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident expressing an opinion on city investment in street trees.",
+      "text": "i spoke right when i see this presentation it's it's a it's it's wonderful in so many ways you note I feel like I see street treats as something that if the city invests in in the short term has huge long-term benefits in so many different ways and the fact that you all are engaging the community in it I think that's it gives all of us a sense of ownership over our city and I just think that's really really wonderful so really excellent work guys I will open it up to questions comments from the public works committee council council president thank you councillor hirsch"
+    },
+    {
+      "block_id": 64,
+      "speaker": "SPEAKER_05",
+      "start": 3979.16,
+      "end": 4011.4,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident asking a question about addressing concerns with street trees.",
+      "text": "thank you for the presentation this evening it's nice to meet you uh officially uh thank you could you speak a bit about i know that there are probably some residents who have uh have had bad experiences with street trees in the past and uh could you speak to ways that this new plan addresses concerns about what trees are planted in empty wells or replanted uh where there are stumps and where trees may have caused damage to sidewalks before yeah so um i want to address that"
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_07",
+      "start": 4011.4,
+      "end": 4176.38,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident discussing improvements in city processes related to street trees.",
+      "text": "in kind of two different ways uh the first one is process uh especially since i started i've been working with um various people within the city to make sure that we have a a good effective process for addressing these concerns like when a tree branch comes down or when someone needs to have assistance and I think we've been working very well about that we've made some significant improvements in the last month or so in parts of that and so as especially as the City Works City View programs come online that is also going to make things much easier as it will sort of very well streamline things will be all electronic we won't necessarily have to have people call in or or maybe just through like the fix it link so when it comes to making it more readily available more intuitive to get those resources I think we're going in the right direction the second part is more you know how are we addressing you know our art where our trees are placed And so one of the big things I always like to say is more tree equal more better with the caveat of the right tree in the right spot and One of the things I'm sure we all are aware of is that if we're wandering through town The sidewalk is not necessarily the most level at times. Sadly that does have to do with some of our trees That also is probably related to the fact that we have nearly a quarter of the city trees being maples historically they've been very easy to get and the plant but because of how they work in their ecosystem as some of the first ones in there they put down shallow roots they really grow them and push them out and then of course the sidewalks kind of suffer that those sorts of decisions were at the time very much like we need a tree we're gonna put something in there we are being far more systematic about that I actually just redid our citing guidelines to make sure that when there we are either planning a well or planning work around the well we're keeping in mind now the subsurface infrastructure more of those clearances um and we are doing um more to make sure that that tree that we put there is the one that will work for the long you know the long haul um so you know the really the best time to plant any tree is like 20 or 30 years ago but the second best time is now so we want to make sure that when we do put those in in the next 20 or 30 years people aren't wondering like what is going on with this tree in a bad way we wanted to be like what's going on with this tree in a"
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_06",
+      "start": 4176.38,
+      "end": 4229.97,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member expressing concerns about tree removal and neighborhood issues.",
+      "text": "good way any other question or comment from in regards to replacing some of trees do you have like specific trees that you might have found that they're disease that need removal is there any issues I mean I know one particular one that has not been removed and it's causing especially when the wind is really blustery it's it actually damaged someone's car and the neighborhood is concerns I'm curious about other you know what what exactly plans you have to remove to remove these disease trees yeah so with the processes I talked"
+    },
+    {
+      "block_id": 71,
+      "speaker": "SPEAKER_03",
+      "start": 4335.87,
+      "end": 4389.29,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and adds a point to a council member's comment, expressing an opinion on biodiversity and disease risk.",
+      "text": "And if I can just add one point to your initial comment, Councillor, one of the things that I've observed that I really appreciate with respect to the risk of disease and things like that is the intentionality with respect to biodiversity and really it's beautiful to observe a line of trees that are all the the same species, but if that particular tree species then becomes susceptible to disease, you're now talking about eliminating a whole block or having a whole block of trees become at risk. And so with these process improvements, there's a real intentionality to make sure that we're diversifying the types of trees that are all right for that particular instance to be able to be more resilient."
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_06",
+      "start": 4389.29,
+      "end": 4420.46,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident and expresses curiosity about tree disease susceptibility.",
+      "text": "Is there any type of metrics or studies or any type of research that shows a particular tree or trees in general that have more susceptibility of becoming disease? I'm sure that there are particular ones, but I'm familiar only with a few trees. I'm not, I have allergies around this season, so trust me, I stay inside. But I was just curious about that. That's a good question."
+    },
+    {
+      "block_id": 76,
+      "speaker": "SPEAKER_01",
+      "start": 4562.02,
+      "end": 4761.47,
+      "speaker_name": "Jose",
+      "reason": "The speaker identifies as a resident and community member expressing concerns about neighborhood parks and tree trimming.",
+      "text": "or comments from the public how we're doing my name is jose 100 block of coral street co-founder of the west crystal volunteers the issues on the trees very good so park between first street so street there's a park right there crystal park now whose responsibility is going to be now to trim those trees and there are no those uh neighborhood parks another thing why we're planting how many trees because we also do have other non-profit organizations doing the same thing planting trees how many trees we need we just eliminated i don't know how many trees there were at least 200 years old just to put a new park and to give it an eye view but what they did was take all the trees off what kind of eye view is that you just took the most important thing out of that park and that's behind the water street mission ridiculous um the park where i'm at uh we take care of that park the gentleman right here in front of me knows that uh you guys that come to pick up park cleaning uh the only thing the guys have to do when they go to check the park clean it it's just to take the bag out of the garbage can because everything else is it's clean my kids already took care of that for the past six years we're still slow on maintenance in that area it's taking forever sometimes because it takes too long to get the part you need for it and all to this red tape i don't want to hear the race red tape that park we have and every other park is very important safe zone for the kids and that's what we're doing we're where but we're still missing a lot of items you guys want to plant more trees we still planting the water sewage running water that will go into the ground we're still doing uh for the disabled to have a wheelchairs we're still doing the corners they're still doing ugi i mean are you guys serious trees that's a waste of money so like i say thank you are there any other comments or"
+    },
+    {
+      "block_id": 79,
+      "speaker": "SPEAKER_13",
+      "start": 4817.04,
+      "end": 4872.93,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and expresses an opinion on a city decision during the public comment period.",
+      "text": "to this resolution good evening thank you um this resolution is related to the sewage facilities plan i'm sure you guys are all familiar with having to pass these um this project is um making sure I have the right is for a single building that is going to be turned into four apartments. So right now it's currently a vacant lot. So they need to have a switch planning module to add those four units for EDUs. Thank you. And yeah, these are regular"
+    },
+    {
+      "block_id": 81,
+      "speaker": "SPEAKER_13",
+      "start": 4917.19,
+      "end": 4923.62,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident or stakeholder and expresses gratitude related to a city decision.",
+      "text": "project thank you um this is for the construction of three new single family attached dwellings"
+    },
+    {
+      "block_id": 88,
+      "speaker": "SPEAKER_14",
+      "start": 5299.15,
+      "end": 5318.6,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and asks a question about the proposed amendments.",
+      "text": "thank you counselor any additional questions please thank you thank you for your remarks and um how will the proposed amendments benefit the community as a whole thank you we've been working"
+    },
+    {
+      "block_id": 95,
+      "speaker": "SPEAKER_05",
+      "start": 5473.62,
+      "end": 5484.6,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question about the cost of retaining special counsel, indicating a concern or inquiry during the public comment period.",
+      "text": "much. Do we have a context of the cost for retaining special counsel for a variety of we know that we do this for a variety of reasons. Do you have an idea of a cost of this?"
+    },
+    {
+      "block_id": 98,
+      "speaker": "SPEAKER_16",
+      "start": 5512.07,
+      "end": 5520.52,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member asking a question during the public comment period.",
+      "text": "Thank you, Council President. Just one more question on where it's budgeted to. Is this administrative services line item?"
+    },
+    {
+      "block_id": 106,
+      "speaker": "SPEAKER_10",
+      "start": 5645.64,
+      "end": 5651.97,
+      "speaker_name": "Roya",
+      "reason": "Roya identifies as a community member and addresses the council during the public comment period.",
+      "text": "Roya hi mr. Glees hi miss Diaz mr. Hershey hi"
+    }
+  ]
+}

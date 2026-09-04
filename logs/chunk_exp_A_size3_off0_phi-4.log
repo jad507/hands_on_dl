@@ -1,0 +1,50 @@
+﻿[2026-09-04 01:44:00] Pre-flight checks
+  OK   model file (8.89 GB)
+  OK   phase 1 prompt (p1_system.txt, sha 40abc756d122)
+  OK   12 meeting files
+  OK   GPU: NVIDIA RTX A2000 12GB, 11739 MiB, 12282 MiB
+[2026-09-04 01:44:03] Loading model: D:\LLM\unsloth\phi-4-Q4_K_M.gguf
+  Loaded in 1m 13s
+
+[2026-09-04 01:45:17] Phase 1 starting: 12 meeting files
+
+[2026-09-04 01:45:17] City Council Committee Meeting - February 3, 2025
+  19 public comments from 80 blocks  [Elapsed: 2m 26s]
+
+[2026-09-04 01:47:43] City Council Committee Meeting - March 3, 2025
+  24 public comments from 109 blocks  [Elapsed: 2m 56s]
+
+[2026-09-04 01:50:40] City Council Committee Meeting - September 2, 2025
+  24 public comments from 94 blocks  [Elapsed: 2m 42s]
+
+[2026-09-04 01:53:22] City Council Meeting - April 29, 2025
+  38 public comments from 96 blocks  [Elapsed: 3m 37s]
+
+[2026-09-04 01:56:59] City Council Meeting - August 12, 2025
+  32 public comments from 114 blocks  [Elapsed: 3m 38s]
+
+[2026-09-04 02:00:38] City Council Meeting - August 26, 2025
+  26 public comments from 79 blocks  [Elapsed: 2m 45s]
+
+[2026-09-04 02:03:23] City Council Meeting - February 11, 2025
+  14 public comments from 86 blocks  [Elapsed: 1m 57s]
+
+[2026-09-04 02:05:20] City Council Meeting - July 22, 2025
+  36 public comments from 126 blocks  [Elapsed: 4m 1s]
+
+[2026-09-04 02:09:22] City Council Meeting - June 10, 2025
+  24 public comments from 129 blocks  [Elapsed: 3m 14s]
+
+[2026-09-04 02:12:36] City Council Meeting - May 27, 2025
+  27 public comments from 95 blocks  [Elapsed: 3m 3s]
+
+[2026-09-04 02:15:40] City Council Meeting - September 9, 2025
+  22 public comments from 117 blocks  [Elapsed: 2m 48s]
+
+[2026-09-04 02:18:29] Planning Commission Meeting - September 3, 2025
+  23 public comments from 106 blocks  [Elapsed: 2m 50s]
+
+Summary: 12 processed, 0 skipped, 0 errors
+Total time: 36m 3s
+
+Done.

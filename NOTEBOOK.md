@@ -12,10 +12,55 @@ Companion: `RESULTS.md`, one row per experiment, for finding a number fast.
 
 ---
 
+## 2026-09-04 -- phi-4 run stopped partway. State recorded; not resumed.
+
+**Commit:** 4b34998
+**Ran:** `.un_chunk_experiment.ps1 -Model phi-4 -Conditions "A,A2,B,C,D"` --
+**stopped externally** at 02:28, partway through condition A2.
+
+**State, verified rather than assumed:**
+
+| condition | phi-4 meetings done |
+|---|---|
+| A (size 3, offset 0) | **12 / 12** |
+| A2 (repeat) | 3 / 12 |
+| B, C, D | 0 / 12 |
+
+- All 15 written files are **valid JSON**, none truncated, `n_chunk_errors: 0`
+  throughout. The stop did not corrupt anything.
+- `downloads/llm_outputs`, `downloads/comments` and the experiment corpus are
+  all clean in `git status`.
+- GPU released (372 MiB of 12,282), no orphan Python processes.
+- Resumable: the per-meeting SKIP logic means re-invoking the same command
+  continues from where it stopped.
+
+**Partial number, recorded so it is not mistaken for a result later.** On the 3
+meetings both A and A2 finished, 283 blocks: 2 blocks changed, **0.71%**.
+gemma's completed floor is 2.19% and ministral's is 0.41%, so phi-4 would sit
+between them if this held -- but 3 meetings of 12 is not a measurement and this
+number must not be cited. It is here only because writing it down is cheaper
+than re-deriving it and safer than remembering it wrong.
+
+**Not resumed.** The stop came from outside this session, at 02:28 on a machine
+someone is sitting at. Restarting a three-hour GPU job that was just deliberately
+stopped is not a call to make unilaterally. Everything needed to resume is above.
+
+**Decided:** do not launch further GPU work this session without checking first.
+Four runs have gone out tonight and the fourth was stopped; that is a signal
+about the machine's availability, not about the experiment.
+
+**Next when resumed:** the same command, unchanged. It will skip the 15
+completed meetings and continue. phi-4 is the tie-breaker on the looseness
+hypothesis and had the highest natural shifted-chunk rate (17.14%), so it is the
+most favourable case for the effect.
+
+---
+
 ## 2026-09-04 (later still) -- "Context suppresses flagging" is a gemma finding, not a general one.
 
 **Commit:** 12ef17e
-**Ran:** `.un_chunk_experiment.ps1 -Model ministral-8b -Conditions "C,D"` (47m)
+**Ran:** `.
+un_chunk_experiment.ps1 -Model ministral-8b -Conditions "C,D"` (47m)
 
 **Result:**
 
