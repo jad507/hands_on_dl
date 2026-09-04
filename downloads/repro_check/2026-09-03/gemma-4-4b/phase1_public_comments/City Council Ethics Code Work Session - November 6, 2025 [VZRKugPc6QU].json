@@ -1,0 +1,81 @@
+{
+  "title": "City Council Ethics Code Work Session - November 6, 2025",
+  "video_id": "VZRKugPc6QU",
+  "upload_date": "20251107",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-03T21:08:28+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 75,
+      "speaker": "UNKNOWN",
+      "start": 1707.58,
+      "end": 1723.53,
+      "speaker_name": "unknown",
+      "reason": "The speaker is questioning the ethics code regarding a ticket received while serving on a board.",
+      "text": "and I was given a ticket for that, is that a violation of this? It shouldn't be if I'm actually serving on the board. Non-pecuniary public awards in recognition of public service."
+    },
+    {
+      "block_id": 90,
+      "speaker": "SPEAKER_00",
+      "start": 1930.69,
+      "end": 1959.97,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the need for penalties against baseless complaints to protect city resources.",
+      "text": "about wrongful acts we're talking about a wrongful complaint so complaints filed when there's no real basis for doing so without any real facts those should be subject to a penalty so that we make sure that what we don't get is a series of complaints that have personal attacks built into them that don't have any merit or basis that are spending city resources in the form of the investigators that are will discuss later and that are involving the"
+    },
+    {
+      "block_id": 149,
+      "speaker": "UNKNOWN",
+      "start": 2832.79,
+      "end": 2861.11,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the appeal process within the ethics code.",
+      "text": "to date and open to questions I have a question for you maybe I missed it somewhere in here is there any provision for appeal whether by the complainant if the violation is not deemed it isn't successful in the preliminary investigation or the investigation process or by the subject so if for the complainant no once the investigator determines that there's no violation or"
+    },
+    {
+      "block_id": 166,
+      "speaker": "SPEAKER_00",
+      "start": 3100.04,
+      "end": 3116.11,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding an appeal process related to the ethics code.",
+      "text": "And I think my question is a little bit similar to the Consul President's question. Will there be an appeal process if a respondent believes that a fighting was made in error?"
+    }
+  ]
+}

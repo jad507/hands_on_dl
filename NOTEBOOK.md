@@ -12,6 +12,151 @@ Companion: `RESULTS.md`, one row per experiment, for finding a number fast.
 
 ---
 
+## 2026-09-03 (night) -- Noise floor measured: 0.80%. The chunk effect clears it by 17x.
+
+**Commit:** 9d70760
+**Ran:**
+```
+.
+un_repro_check.ps1 -Model gemma-4-4b          # 3h 32m, 78 meetings
+python compare_corpus_runs.py --rerun downloads/repro_check/2026-09-03/gemma-4-4b/phase1_public_comments
+```
+**Config:** gemma-4-4b phase 1, all 81 meeting files, temperature 0, chunk size 3,
+scratch output root so no corpus file was touched (`git status downloads/llm_outputs` clean)
+
+**Result:**
+
+| | |
+|---|---|
+| Meetings compared | 78 |
+| Blocks | 10,069 |
+| **Blocks whose classification changed** | **81 (0.80%)** |
+| Meetings reproducing exactly | 38 of 78 (**48.7%**) |
+| Flagged: baseline / re-run | 1,863 / 1,880 (net +17, +0.9%) |
+| Corpus Jaccard | 0.9576 |
+| Krippendorff alpha (run vs run) | 0.9734 |
+| Gwet AC1 (run vs run) | 0.9885 |
+
+**The comparison that matters.** gemma's shifted-chunk flip rate is 13.77%. The
+noise floor is 0.80%. **The chunk-framing effect is 17x its instrument.** It is
+reportable.
+
+**There are two noise floors and they are not the same number**, which I had
+been conflating:
+
+- *Within-session non-determinism*: gemma's identical-chunk flip rate between
+  `_standard` and `_exclusive`, both produced in the June run, is **0.22%**.
+- *Across toolchain state*: June corpus versus tonight's re-run is **0.80%**,
+  about 3.6x larger. That difference is not noise in the same sense -- it is
+  whatever changed underneath between June and now (a llama-cpp-python
+  reinstall, a driver update, a model file replaced in place), which nothing
+  recorded.
+
+Use 0.80%, the larger one, as the floor. It is the conservative choice and the
+effect clears it anyway.
+
+**Surprised by:** that only **48.7% of meetings reproduce exactly**. The
+aggregate moved 0.9% and I expected most meetings to be untouched; in fact half
+of them moved. That is the same aggregate-stable / unit-unstable pattern the
+Southwell literature predicts and that doc 05 found in the variant pairs, now
+showing up in a place with no experimental manipulation at all -- just the same
+model run twice.
+
+Also surprised the drift has a slight direction: 49 blocks added versus 32
+dropped, z = 1.89. Not significant at 0.05 and **not being claimed**, but it is
+the second time a directional hint has appeared and failed to reach
+significance. Worth watching rather than reporting.
+
+**Decided:**
+- Quote 0.80% as the noise floor, and report both floors in the paper rather
+  than the flattering one.
+- Do **not** claim the +17 drift is directional. z = 1.89 is a hint.
+- The committed June corpus can be cited as a description of that artifact,
+  labelled with its toolchain state. It should not be mixed with fresh runs in
+  one agreement statistic.
+
+**Also closed tonight:** the three meetings no model has ever coded are skipped
+because they contain **zero blocks** -- `SKIP (no blocks)` in the log, and all
+three have `blocks: []` and `speakers: []` in the source. Not a failed run, an
+empty input. That fully closes the 81 / 78 / 76 count chain: 81 files, 3 empty,
+78 coded, 2 of those stale duplicates, 76 real.
+
+**Next:** the GPU is free. The direct chunk experiment is now the highest-value
+run: one meeting at `p1_chunk_size` 1, 3 and 5 plus deliberate offsets, which
+replaces the natural experiment with a controlled one and can separate framing
+from non-determinism by repeated measurement at the same setting.
+
+**Answered before closing the entry** -- the noise is *not* uniform, and the
+guess in the first draft of this paragraph was backwards.
+
+Cross-tabulating the 81 changed blocks against how many of the five core models
+flagged them in June:
+
+| models flagging it | population | changed | rate |
+|---|---|---|---|
+| 0 | 6,806 | 15 | 0.22% |
+| 1 | 952 | 19 | 2.00% |
+| 2 | 592 | 9 | 1.52% |
+| 3 | 591 | 11 | 1.86% |
+| 4 | 343 | 19 | 5.54% |
+| 5 | 785 | 8 | 1.02% |
+
+Collapsed: blocks the models agree about (0 or 5 votes) change **0.30%** of the
+time; contested blocks (1-4) change **2.34%** of the time. A **7.7x**
+concentration.
+
+So run-to-run non-determinism lands almost entirely where the judgement is hard.
+Reassuring in one direction -- clear cases are 99.7% stable, so this is not
+random corruption. Uncomfortable in the other: the contested blocks are exactly
+the ones a reliability claim rests on, and they are the least stable thing in
+the corpus.
+
+I had assumed this would *lower* the effective floor. It raises it for the
+blocks that matter. Against the contested-block floor of 2.34%, gemma's
+shifted-chunk flip rate of 13.77% clears by **5.9x** rather than 17x. Both
+comparisons should be reported; the 17x alone would flatter the result.
+
+**And the question that raised -- answered in the same sitting, because it
+decides whether the headline holds.** Is the chunk-framing effect also
+concentrated on contested blocks? If it were, the chunk effect and the
+non-determinism would plausibly be one phenomenon (ambiguity plus any
+perturbation) and the finding would be much narrower.
+
+Same-text 1:1 blocks, split both ways:
+
+| | unanimous (0 or 5 votes) | contested (1-4 votes) |
+|---|---|---|
+| chunk identical | 10/8,670 = **0.12%** | 54/2,725 = **1.98%** |
+| chunk shifted | 206/3,385 = **6.09%** | 465/1,370 = **33.94%** |
+
+Read this **down the columns**, which is the comparison that controls for
+ambiguity:
+
+- On blocks **every one of the five models agrees about**, shifting the chunk
+  still flips **6.09%** against a 0.12% floor -- a **51x** effect.
+- On contested blocks, 1.98% to 33.94% -- **17x**, and a third of all contested
+  blocks flip.
+
+So the chunk effect is **not** ambiguity amplification. It moves blocks that
+every model agrees about, at fifty times the rate those blocks move on their
+own. Ambiguity makes it worse (6% to 34%) but does not create it.
+
+This also corrects the "5.9x" I wrote three paragraphs up. That compared the
+shifted-chunk rate pooled across strata against the contested-only noise floor,
+which mixes two populations. The within-stratum comparisons -- **51x** and
+**17x** -- are the right ones, and both are larger. The pooled 17x from earlier
+in this entry happens to land in the same place by coincidence, not by being the
+same calculation.
+
+**Still open:** the 6.09% on unanimous blocks is a third of a percent of the
+corpus in absolute terms, but it is the number that makes the finding
+mechanistic rather than statistical. Worth reading twenty of those blocks by
+hand before writing the paper -- if they turn out to be near-boundary cases the
+models happen to agree on for different reasons, that is a different story than
+if they are clear public comments that flipped.
+
+---
+
 ## 2026-09-03 (later) -- CAPITALS, not asterisks: Concord silently merges sentences
 
 **Commit:** 475cd80

@@ -1,0 +1,459 @@
+{
+  "title": "City Council Meeting - April 8, 2025",
+  "video_id": "JNe8AGFZlIA",
+  "upload_date": "20250409",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-03T21:08:28+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 6,
+      "speaker": "SPEAKER_19",
+      "start": 251.34,
+      "end": 299.42,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding a resolution for sexual assault awareness month.",
+      "text": "thank you we have a motion and a second counselors thank you very much for allowing me to introduce this resolution again this year april is sexual assault awareness month and it brings awareness that sexual violence continues to be widespread and affect all members of our community during this month resolution i'd like to proudly affirm that the lancaster ywca is still lancaster county's designated rape crisis center and applaud the work that they do in our community for sexual assault prevention and counseling all at no cost they are hosting numerous events this month to help raise awareness support survivors and promote prevention efforts and I'd like to invite the team from the YWCA to the podium this evening to say a few words good evening and thank you for being here good"
+    },
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_13",
+      "start": 299.42,
+      "end": 433.6,
+      "speaker_name": "Theo",
+      "reason": "The speaker, representing the YWCA, is informing the council about the services offered by the center.",
+      "text": "evening thank you my name is Theo work at the YWCA Lancaster sexual assault prevention counseling center this is my colleague Maddie Ressler who also works at the Sexual Assault Prevention Counseling Center. I just wanted to take a few moments to talk about what we offer as services for both the council and for the public. So like you said we offer counseling and therapy services at no cost to both victim survivors of sexual violence as well as their significant others which could be family members, partners friends, neighbors, anyone who else who is impacted by that violence as well. we have a 24 7 sexual assault hotline that you can call in any time of the day we're on call for you you can call in if you need resources someone to talk to or want to get set up for our services and that number is 7 1 7 3 9 2 7 2 7 3 and again that's 24 7 we're always here for you we have medical accompaniment we accompany victim survivors of sexual violence to the hospitals again at no costs to help them through the process and offer support similarly similar well that's a hard word similarly nope as well as legal accompaniment we do offer legal accompaniment as well and that's to court proceedings all throughout the way even police interviews for victim survivors of sexual violence again that's at no cost we want to be there with all of the systems that victim survivors of sexual violence are interacting with so we try to be at each moment we can we also do a lot of prevention education for the community we go to schools workplaces churches community organizations anywhere really that we can talk about prevention around sexual violence and around consent boundaries handling difficult feelings healthy relationships and that's something if you're interested in as for your organization you can always go on website and the programs that we offer are on there as well um am i missing anything buddy um"
+    },
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_03",
+      "start": 433.6,
+      "end": 479.64,
+      "speaker_name": "unknown",
+      "reason": "The speaker is providing additional details about the support groups and services offered by the YWCA.",
+      "text": "i would just add that we also have support groups as part of our set of services the first monday of each month so actually it was just last night we have an adult survivor gathering that happens from six to seven pm at the lime street location of ywca lancaster so it's right around the corner and all of those services that we've listed are also available in any language we have interpretation services through PCAR which is the Pennsylvania Coalition to Advance Respect so we're able to call them or even bring them in in person again at no cost to offer those services to anyone in any language so we're trying to take down as many barriers as possible there"
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_10",
+      "start": 655.08,
+      "end": 853.35,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding feedback on police reform and city agreements.",
+      "text": "see the green light there now there we go so over the past few meetings we've heard feedback from the mayor regarding her views on I guess the ineffectiveness of civilian or rewards and the general challenges to reform posed by the city's agreements with the police or police unions to the extent that these views are valid they clearly represent a significant roadblock to the progress that the community is demanding so after reflecting on this I just have some questions for the council that I hope are constructive but I also will acknowledge that probably can't be answered here tonight and I appreciate the opportunity to continue the conversation outside of this in person or an email however so the first question is what I'd like to know what is the city the status of the city's collective bargaining agreement with the please and where the public can access this information I tried to find a current agreement and can only find an agreement signed by the mayor that was due to expire in December of 2022 and my understanding is that sometimes union contracts can continue past their expiration date unless they're compelled back to the renegotiation table so I was just wondering if that's the case here in general what would be the council's plans for upcoming renegotiations with the police union or the police given the feedback that the constituents you serve have given over the past month this is my question question two is there potential to include the establishment of a civilian review board in any and i'll say one with actual authority because i know that's been a question in the re to include that in the renegotiations of the city and the police um i think the mayor's comments have made clear that the police will not in good faith address the community's demands if they come from a civilian review board or really any entity for that matter if they don't have the proper authority so i'm questioning if that authority exists at all in the city right now frankly and i feel like a lot of us are maybe including the mayor so a civilian review board with real authority would require adequate funding which could be tied to the police budget to discourage attempts to undercut that funding it would have independent investigative power and access to police records including body camera footage i'll say too having looked into this that i understand that the president that's been set in states like Connecticut and New Jersey where frankly the biggest power for a civilian review board is subpoena power and that has largely come from state legislatures not municipal like this but I think the important fact to recognize is that subpoena power isn't given unless there's a civilian review board to give it to we are trying to lay the groundwork for that"
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_02",
+      "start": 930.32,
+      "end": 1142.66,
+      "speaker_name": "Karen Schlaer",
+      "reason": "The speaker identifies herself and begins to discuss concerns regarding local children.",
+      "text": "uh mr harris our next public commenter for this period yes good evening thanks for having me um and thanks for all that you do i know that it takes out a lot of time of your personal lives i really appreciate it I'm here to talk a little bit about the groups of kids that I've witnessed and seen and I hate that that's kids because oh my name Karen Schlaer how about we start there Boys and Girls Clubs of Lancaster my properties are West Lemon Street Water Street and Duke Street so back to talking about the groups of folks that I've seen traveling on bikes that have been unsafe and this has been over the course of the last two to three years that we've witnessed this I really feel like this is a safety issue it's a community problem that we have to address and I would like to be solution driven I don't think kids need to be taught to not ride in and out of traffic and down the middle of the road I think those are basic skills that kids learn we all learn to not ride our bikes that way I've experienced groups of keep referring to them as kids but I've recently learned that they are young adults some of them and that's been difficult for us to handle because we only handle and deal with kids we have had on multiple occasions reached out to some of those adults to have meetings to have conversations to find a healthy way to have fun on bikes and not have a thrill of danger on bikes. For those that don't know, my office is on Vine and Water Street. My window looks over the corner of Vine and Water Street. The things that I witness when I'm taking a little break from emails and look out my window and see the hordes of kids, young adults popping wheelies and burning through that stop sign terrifies me actively scares me and I don't want that on our conscience what the club has done as I said reach out to some of the young adults trying to come up with more conversations we've had one already we've also applied for a grant for bike racks so that kids can safely park their bikes at Boys and Girls Clubs it's the only properties I can control so our three locations will have brand new bike racks hopefully by the spring because I do think that that's some of the fear that the kids have with leaving their bikes out some of the bikes are quite expensive also we're starting a bike riding group that will be led with staff it will start over in the southeast neighborhood and be led by staff and will teach positive etiquette for kids to enjoy safe bike riding I see the"
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_28",
+      "start": 1161.52,
+      "end": 1357.4,
+      "speaker_name": "Ricardo Calderon",
+      "reason": "The speaker identifies as a resident and addresses the council regarding the community's relationship with the police department.",
+      "text": "good evening everyone good evening council good evening fellow community members my name is Ricardo Calderon I live in the Willow Street area today I'm representing the mix and would like to speak on our relationship with the police department and I have a few words I would share afterwards but wanting to share that we obviously know that the relationship between the police department and community while we're one is very complex and that's been around for as long as we can remember. Narrative is really important though and adding to that narrative really want to share the powerful relationship we have whether that's through the PAL program, whether that's through our work with the police department, through our call to action committee, which we see one of our partners here, and coming together to really try to address the violence in our city, whether that's through National Night Out, Art in the Park. If you've ever seen a bunch of kiddos having a really good time on the corner of Orange and Duke, Orange and Prince Street, that was us having a really good time. For those of you who are not aware who the mix is or what we do, we're a non-profit organization that really specializes around after-school programming and out-of-school time initiatives trying to foster really powerful educational environments for our young people and families. And while I'm not here to specifically talk about a specific issue, I do know that humanizing our police officers and our young people and communities is really important. We will always have young people riding bikes and wanting to do things. That's never going to change. My little girl is learning how to ride a bike right now and I'd stop her from going into the street yesterday and she's four years old um what I would love to see as a community is how we continue to humanize these important roles in our community and I think that starts with building relationships um and the reason I wanted to come and speak on behalf of the mix is because we see that within our doors when the police officers come into our building we try very hard to establish a relationship not seeing the officer in uniform but the human behind the badge um to be able to understand what they're going through to be able to understand what young people are going through so no doubt we have many many issues that we have to take on I just want to encourage us whether it's through the policies that we're looking to do whether it's great initiatives such as the bike ride how do we continue to find humanity and what we do and building those relationships because independent of what we try to do young people will be young people and I think as adults it's our job to make sure that we're carefully building those relationships so there's a connection so there's an understanding so when there are altercations humans are engaging with each other not opposition I think that's very very important in our community especially given the landscape of today's world where everything is very extreme everything is on either side narratives are running how we feel about people how we choose to act so I really really hope that we can come together and figure out ways not just from a storytelling perspective but also a relationship building perspective how we're doing that for our community and and for our students in particular our young folks so really appreciate the time today a lot of respect for what we're all doing here as we all play a role in this and again i just want to re-emphasize um humanizing each other we need to go back to humanizing who we are and finding our human in this space appreciate you all thank you mr calderon mr harris our next speaker next is"
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_12",
+      "start": 1539.31,
+      "end": 1662.83,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies themselves as a resident and expresses an opinion regarding public safety and the police department.",
+      "text": "me speak. I live at 239 North Concord Street in Lancaster and I think everybody up there knows me. I am only speaking as a person and from my personal perspective. I am here tonight because I believe that our Lancaster City Police are good human beings and excellent policemen. They protect our community but more important they care about public safety this is a public safety problem kids need to learn real-life lessons to have respect for rules and laws for everybody's safety I am an educator having worked with students of all ages I know that sometimes kids do not think of the consequences but imagine if they hit someone or if a driver hit one of them I I have witnessed kids driving their bikes in traffic recklessly, doing wheelies with only one tire on the ground, moving in and out on Duke Street, on Mulberry at King, again at Charlotte and West Chestnut. These kids are just fooling around. It's frightening to me as a pedestrian, since I have been hit by a car and had two broken legs. Healing takes a long, long time with lots and lots of physical therapy besides learning to walk again. Public safety, to quote Mayor Ernie Triano of Wildwood, New Jersey, listen, this isn't a suggestion, it's the law. We are not playing games. When it comes to the safety of others, you break the rules, you pay the consequences. There are actually consequences for your actions. so i know that the police do an amazing job trying to get everybody and figure it all out but they are not our enemies they are here for us so thank you very much for letting me speak"
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_01",
+      "start": 1680.29,
+      "end": 1778.04,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies themselves as a resident and expresses concern about reckless behavior by teenagers on bikes.",
+      "text": "good evening council arthur morris 400 block of west chestnut street My comments relate, as other comments have here this evening, to the police arrests of teenagers who were riding bikes on North Queen Street last month. I've previously witnessed this behavior by youth on bikes. They were cutting across traffic, doing wheelies, and generally showing off their skills. I'm sure they were having fun, but this was not the place for it. The behavior was reckless and a public safety threat to them, pedestrians, and drivers. I want to thank our police and the mayor for taking this action. Such reckless behavior must not be tolerated. Two other comments. I believe the police used reasonable methods to restrain these youth, which would not have been easy to do. These kids are in great shape and they're quick. And I don't like the fact that the police have to put themselves in a position where they can get hurt as well. I do not believe they used excessive force. I appreciate those that spoke about connecting our youth with police and others to improve their lives. However, in the meantime, I urge parents and other adults who are associated with youth involved to take them to the police station. have them apologize, and then discuss what public service they can perform to help mitigate the consequences they face. This can be a learning experience when managed correctly. Thank you very much for your time."
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_29",
+      "start": 2048.01,
+      "end": 2156.07,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council about a personal injury and a specific ordinance item.",
+      "text": "Holland Avenue City Council I fell off my bike and hurt my leg I've been trying to take it easy especially since this weekend I had to beat Thaddeus Stevens for living the experience get your tickets today by the the way, and sometimes I wonder if I have to be Thaddeus Stevens right now, too. On account of pain, I didn't really want to be here tonight except for one item later under ordinances for first reading that needed attending to tonight. I know I can't miss it, so since I needed to be here physically, I figured I'd offer a free show in three acts. Not living the experience, welcome to the tony show in this first act why i'm physically present at all during the pandemic council had working systems to meet and allow participation digitally i'm not saying we should go hybrid tomorrow but i don't think it would take much a few steps and planning over a couple months to get there when it comes to live streaming and access i've often thought the city of lancaster has been good enough post see-through city days but moments like this make me realize that good Good enough often just means good enough for now. And just because we're a walkable city doesn't mean someone limping like me tonight should have to come to 120 North Duke to make their public comments heard. And an obvious counterpoint, just because someone can stay home doesn't mean that they will. I believe in a city where people can be heard even when it hurts to stand. The neglect of digital access, the tools that let the meek speak and the lame stand should trouble us all because we've used these tools before. We know they work. The question is now whether we still believe everyone deserves a seat at the table, even if they can't make it to the room. Thank you."
+    },
+    {
+      "block_id": 49,
+      "speaker": "SPEAKER_30",
+      "start": 2492.43,
+      "end": 2509.87,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion about a bill that opens up options for selling city property.",
+      "text": "additional comments other than the fact that this bill opens up the possibility for us to to have more options to be able to sell property when the property does come up, which is very rare for the city to have anything to sell."
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_24",
+      "start": 2545.61,
+      "end": 2566.75,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the council's authority over land use.",
+      "text": "Thank you, Council President. My only question, we did answer some of these prior, but just wanted to make sure that council would still have the authority over the process regards to the use of land and making sure the city's interests are protected and it's a real problem thank you there's Roger do you have anything to"
+    },
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_29",
+      "start": 2717.07,
+      "end": 2859.94,
+      "speaker_name": "Tony D'Astra",
+      "reason": "The speaker is expressing a negative opinion about a proposed ordinance regarding real estate sales.",
+      "text": "public Tony D'Astra 700 block in New Holland Avenue act 2 why this bill is bad for the public the ordinance before us administration is administration bill number three is on its surface a procedural update it allows the city to sell real estate through licensed realtors in addition to existing methods like public auction or bid and I understand the appeal it's framed as a more flexible professional and modern approach but the problem isn't the tool it's the lack of structure around how we choose to use it this bill delegates broad discretion to the mayor to initiate sales through private brokers and while council approval is required by resolution that process doesn't guarantee meaningful public involvement yes the Sunshine Act ensures the resolution will appear on a public agenda but that's a procedural minimum not an invitation to the public there's no requirement for a hearing no notice to neighbors no engagement process despite the fact the city owns over 250 acres of land within municipal boundaries about 5% of the city's footprint and there's nothing in this ordinance to ensure public land stays in public service no mention of affordable housing community ownership nonprofit partnerships just a transactional framework that could easily reward access over equity this isn't about opposing Realtors it's about opposing opacity and that's where the Charter comes in just a few months ago the people of Lancaster adopted a home rule Charter that began with a simple powerful promise we the people of city of Lancaster Pennsylvania aspire to establish the foundation of an accessible, ethical, and transparent government. This ordinance may be lawful under that charter, but it isn't faithful to its spirit. Home rule wasn't meant to free us from the constraints of state law just so we could turn inward and cut corners. It was meant to give us the tools to govern more thoughtfully, more transparently, and more in step with the people we serve. Because public land isn't just property, it's potential. And if we treat this like a line item instead of a shared resource we risk losing more than square footage we lose the opportunity to do better together as a public thank you"
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_07",
+      "start": 2863.09,
+      "end": 2962.44,
+      "speaker_name": "Darlene Byrd",
+      "reason": "The speaker expresses concerns about a proposed change affecting the whole city.",
+      "text": "Darlene Byrd I'm not gonna speak long because I believe I addressed counsel at the committee meetings that you had over this and my concerns about it I will challenge counsel you know we're getting ready to have change of the guards we're talking about making and changing something basically over station six something that would affect the whole city and the real reason is because we don't know what to do with station six at the meeting we discussed about nonprofits I want to know if council has did any type of research to reach out to possibilities we talked about not having enough space for a homeless shelter we a station six that's sitting there and we're saying we don't have space for that so i want to know if there's any other thought behind getting rid of station six other than trying to change this administration resolution to not a resolution ordinance which makes it law and then changing this now i think if anything needs to be done it needs to wait till the administrative code is actually intact and presented to council to approve which you do have to prove and this is something that we did in the home road charter even as addressing the police we do have the ethics code that can address some of the issues that people are speaking about so it's all about counseling their due diligence and if you're going to make the right choices and do the right things. Thank you."
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_23",
+      "start": 3022.41,
+      "end": 3049.64,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident and offers input regarding an ordinance.",
+      "text": "live in the 400 block of West Marion Street and I'm here as a resident happen to be a realtor and was not aware of this ordinance but I just wanted to present to you guys I'd recommend getting some input from Lancaster County Association of Realtors this ordinance may or may not make sense but I would use them as a resource and gain their input before you make a decision that's"
+    },
+    {
+      "block_id": 61,
+      "speaker": "SPEAKER_04",
+      "start": 3049.64,
+      "end": 3104.67,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies their location and expresses concerns and suggestions regarding homelessness and property use.",
+      "text": "thank you hi Brian Nelson I live off of up in a circle right off of Columbia Avenue and Lancaster has a homelessness problem and we've banned encampments and we've pushed them out and we were here talking about property that we could be using to benefit those individuals just so that way the city can turn a quick profit I think that it's these are options for us I think that opening this up to auctions and stuff like that you're not that's not gonna make housing affordable opens it up to private equity and that's just going to make it more expensive so I think that we need to look at you know we have all this land we've been pushing homeless people out of where they are we can't house them because there's not much space and I think that the city needs to look more at options that could be used to benefit those individuals before they try to"
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_11",
+      "start": 3113.54,
+      "end": 3182.31,
+      "speaker_name": "Erin Dautrich",
+      "reason": "The speaker identifies as a resident and expresses a concern regarding the affordable housing issue in the city.",
+      "text": "reading. Hi. My name is Erin Dautrich. I live on the 300 block of New Dorch Street. I just agree with everything everyone had to say here. We as a city, we have it's obvious we have an affordable housing issue. The apartments that just opened on College Avenue, their waiting list was open for like not even a whole day. And now the waiting list is three to years long that's insane like I know personally at least five people that are looking for housing and you can't find apartments under $1,000 a month in this city that's not affordable to average people and you're talking about selling properties for profit of the city like we need properties that normal people like me and everyone I know can afford to rent the high rent prices are making it impossible to have a path to homeownership thank you thank you just to reiterate my question"
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_17",
+      "start": 3193.99,
+      "end": 3272.96,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern and reiterating a position regarding the sale of a property to ensure it becomes housing.",
+      "text": "council can set parameters for the use and um uh there is not discussion i mean i know that we're talking we're complaining two things because this is related to station six because it is a piece of property that we've been trying to sell i'll just reiterate for council's uh awareness that all of the non-profit housing developers were approached about bidding on this property uh we would like to see nothing less than it become housing it is part of an r3 residential district we would appreciate if that were affordable housing and we are not necessarily looking to make a profit from the sale of this we are just trying to find the best use for the property and a buyer who will make that happen and will not let the property degrade or and not have the resources to actually make a project happen at that site and so uh again this is where we're talking about two things but we're actually not even ready to talk about station six yet because we haven't even had this conversation this is about a method of disposal of a property for a better use than uh sitting vacant right now and the council will determine the compensation"
+    },
+    {
+      "block_id": 74,
+      "speaker": "SPEAKER_14",
+      "start": 3444.0,
+      "end": 3509.12,
+      "speaker_name": "Jessica Lopez",
+      "reason": "The speaker is offering feedback and suggestions regarding how city information is communicated to the community.",
+      "text": "jessica lopez link sdpa um thank you for clarifying that um may i suggest next time that we have something like this we know these things in advance so when these questions come up you're not getting the response that you're getting from the community if you would have have known in advance that they're digitally stored y'all could have been said that and that's just that's little things that make us feel like yous aren't doing your part in that sense because that would have been an easy response to everything we said last time would have saved yous guys a lot of time and us a lot of frustration trying to figure out what you wanted to throw away so I mean I definitely appreciate the clarification and that we are going to have them digitally stored somewhere so thank you thank you additional comments"
+    },
+    {
+      "block_id": 75,
+      "speaker": "SPEAKER_09",
+      "start": 3509.12,
+      "end": 3564.71,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident and expresses concerns regarding police accountability and transparency.",
+      "text": "on the resolution good evening good evening Diane Desmond I live near the state police off 30 I do also appreciate the clarification that they will be stored digitally that was also a deep concern of mine in terms of accountability and transparency in order to mend relationships and broken trust between the police and the community so I do thank you for that clarification I did have an additional question how will obsolete be defined in these cases is it just the seven year time are there other considerations for that word. I would just like to know clearly how obsolete is going to be defined, how that will be determined. Thank you."
+    },
+    {
+      "block_id": 83,
+      "speaker": "SPEAKER_21",
+      "start": 3723.4,
+      "end": 3740.45,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding a specific resolution.",
+      "text": "Mr. Mayor, ah I say resolution number 25 2025 mr. Harris a resolution of the Council of"
+    },
+    {
+      "block_id": 87,
+      "speaker": "SPEAKER_07",
+      "start": 3794.23,
+      "end": 3814.49,
+      "speaker_name": "Darlene Bird",
+      "reason": "The speaker is asking a question regarding the use of leftover bond funds.",
+      "text": "Darlene Bird, Anne Street. Is this my understanding that this is bonds that we got and we didn't need them for projects that were completed, so this money is left over and now Council has the power to say where that money is spent?"
+    },
+    {
+      "block_id": 91,
+      "speaker": "SPEAKER_22",
+      "start": 3853.55,
+      "end": 3883.57,
+      "speaker_name": "unknown",
+      "reason": "The speaker is questioning and seeking clarification on the allocation of specific funds related to the sewer.",
+      "text": "that what you said? Sewer funds? 1.3 million? Yeah, these funds are specific to the sewer fund. So that's going to go on top of the 1.4 surplus and the 3.9 million? This is pertaining to the bond that was funding projects for the 2018 bond, which is separate than what was stated before in the budget update. Okay, thank you. Thank you."
+    },
+    {
+      "block_id": 93,
+      "speaker": "SPEAKER_22",
+      "start": 3902.53,
+      "end": 3908.05,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding a bond-approved project.",
+      "text": "project so that bond approved a series of projects within that right and which where are you going to"
+    },
+    {
+      "block_id": 99,
+      "speaker": "SPEAKER_22",
+      "start": 3986.74,
+      "end": 4005.9,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding a resolution and its financial implications.",
+      "text": "motion and a second that's all right thank you this resolution for 20 or excuse me this resolution is similar to resolution number 25 um except this is for uh this pertains to the 2022 water fund um the adjustments total 5.3 million dollars thank you very much council"
+    },
+    {
+      "block_id": 100,
+      "speaker": "SPEAKER_19",
+      "start": 4005.9,
+      "end": 4033.33,
+      "speaker_name": "unknown",
+      "reason": "The speaker is clarifying the use of leftover water fund capital project money for the council.",
+      "text": "royals so to reiterate funds in the water for use for capital projects in the water fund funds that were left over that were not used um not needed after projects were completed and being reallocated to other projects on the list for the water fund that is correct council president thank you very much any additional council comments on the resolution from the public just a quick question"
+    },
+    {
+      "block_id": 101,
+      "speaker": "SPEAKER_07",
+      "start": 4035.81,
+      "end": 4084.62,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question about the completion dates of past bond projects and leftover funds.",
+      "text": "um so when when were these projects due to be completed because we're looking at 2018 bonds in 2022 so what project in 2018 was completed and we have money left over but we didn't use that money toward the 2022 when we took out bonds in the 2018 bond issue that we just addressed then on the 2022 list so the 2018 bond project was not completed in 2022 it just now got completed is that my understanding there are some projects that do take that long yeah right but we're talking about these specific projects for"
+    },
+    {
+      "block_id": 111,
+      "speaker": "SPEAKER_19",
+      "start": 4363.2,
+      "end": 4380.48,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the cost and purpose of a funding application for lead line replacement.",
+      "text": "Thank you very much, Councillor Hirsch. Just a question for you, because you mentioned it, and I want to put a fine point on it. The point of this funding application, this application for funding, is to complete lead line replacement at no cost to residents."
+    },
+    {
+      "block_id": 119,
+      "speaker": "SPEAKER_07",
+      "start": 4513.56,
+      "end": 4533.86,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the application process for Penn Vest.",
+      "text": "let me just this question so I don't have to get up again and so the purpose of applying for two separate applications that reason is because I know we have an application fee why can't we not combine them both for one application for Penn Vest? I think it's just because of the nature of these two"
+    },
+    {
+      "block_id": 129,
+      "speaker": "SPEAKER_18",
+      "start": 4653.46,
+      "end": 4706.36,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concern and requesting documentation regarding service lines.",
+      "text": "last depending on how she yes and we we knew ten years ago that this was an issue it should have been done ten years ago it's sad that we had to wait this long and strain the taxpayers to crunch up these numbers and be responsible for this debt but I really need a copy of the hundred and eight service lines of homes that are going to be receiving this because a hundred and eight service lines is that just are you saying within the home or service lines throughout the city throughout the city and to be clear the city has been updating these led service lines this is I guess being expedited that process because of the deadline you're already past the deadline that's why because they"
+    },
+    {
+      "block_id": 138,
+      "speaker": "SPEAKER_24",
+      "start": 4969.45,
+      "end": 4999.3,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and asking questions regarding budgetary impact.",
+      "text": "number 28 Thank you, Council President. I just want, maybe just questions for Director Campbell. The interim financing as well as the PennVest loan, we've looked at the budgetary impact it would have, and it is aligned with our projections."
+    },
+    {
+      "block_id": 145,
+      "speaker": "SPEAKER_24",
+      "start": 5056.68,
+      "end": 5076.32,
+      "speaker_name": "unknown",
+      "reason": "The speaker is referencing financial projections from a bond presentation.",
+      "text": "From the graphs that we had when we did the bond Presentation, it had the pedestal in gold or in a different color and that was not a part of the original bond, but that budget tear impact was still projected out over the life of the bond."
+    },
+    {
+      "block_id": 147,
+      "speaker": "SPEAKER_07",
+      "start": 5077.46,
+      "end": 5084.2,
+      "speaker_name": "unknown",
+      "reason": "The speaker is questioning the financial implications of a proposed borrowing amount.",
+      "text": "So we're talking about maybe $90 million we will be borrowing and taxpayers will be footing that bill?"
+    },
+    {
+      "block_id": 150,
+      "speaker": "SPEAKER_17",
+      "start": 5186.98,
+      "end": 5224.5,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing infrastructure replacement and lead line replacement in relation to city reports.",
+      "text": "talking about two different things i am so appreciative that you went to the combined sewer overflow meeting which i'm going to actually give in my talk about my mayor's report that is different than the 10-year timeline for the lead and copper rule so we're talking about three different things tonight we're talking about infrastructure replacement which is the 42-inch main which is what is being considered now we're talking about a lead line replacement which is an unfunded mandate that is separate that is another cost and then we're also in a few minutes i'm going to talk about the combined sewer overflows and the long-term control plan which is all three"
+    },
+    {
+      "block_id": 156,
+      "speaker": "SPEAKER_18",
+      "start": 5328.26,
+      "end": 5377.88,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about how leftover project funding should be used by the council.",
+      "text": "I understand that but projects with funding left over should be used by council for specific reasons to not burden the taxpayer so much you know I mean there's got to be other ways that you can use that we're not the experts we're the taxpayers we pay you the salary so that you can figure it out I mean just try to make it make sense if there's funding available here that can be used for anything else other than specific projects that she's going to submit documents to to miss bird about why not use it for these things so that you can't continue to burden the taxpayers i mean we're already seeing so much of a burden i understand and appreciate your question and i i"
+    },
+    {
+      "block_id": 172,
+      "speaker": "SPEAKER_08",
+      "start": 5789.01,
+      "end": 5797.38,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding the funding source for resolution 31.",
+      "text": "resolution 31 it's coming from the 2025 bond funds that were just approved thank"
+    },
+    {
+      "block_id": 176,
+      "speaker": "SPEAKER_16",
+      "start": 5844.64,
+      "end": 6073.16,
+      "speaker_name": "Taylor Enterline",
+      "reason": "The speaker is addressing the council regarding a perceived regression in public transparency.",
+      "text": "of residence for our public records good evening my name is Taylor Enterline Mannheim Borough but I my name is Taylor Enterline I'm reading this statement on behalf of John Minda the founder of the Black Voter Outreach Network of Pennsylvania Mayor Sirachi I am addressing you directly this evening because your administration is overseeing a regression in public trans transparency that is deeply troubling and quite frankly unacceptable just last quarter in quarter four of 2024 the lancaster city police department published a use of force report that included data disagreed by race and age that report told an important story 36 of use of force cases involved the latino residents 20 involved black residents and seven incidences involved minors children that level of detail helped the community understand who is most impacted by use of force and provided a foundation for meaningful oversight now mayor those details are gone the recently updated dashboard on the police department's website is cleaner but that is where progress stops it strips away the most essential data points there is no racial or ethnic breakdown no information on minors in no access to previous quarterly reports the graph presented on the page is visually misleading and hard to interpret no explanation was provided no public update was issued and the change was not even disclosed during the April 1st Public Safety Committee meeting where chief Mendez spoke at length to make matters worse the number of reported use to force incidents for quarter 4 2024 has quietly dropped from 39 incidences previously documented to 29 now shown on the dashboard that's a 25% decrease with no explanation what changed are these incidences being reclassified are we using a new metric are some incidents no longer being counted if we can't answer those questions then the public can't trust the data we are calling this what it is a rollback of transparency in the middle of a community crisis around policing it is one thing to issue talking points about accountability but it is another thing entirely to quietly remove the very information that allows for accountability to exist when you withhold data you withhold the truth and that decision breaks the fragile trust between City Hall and the communities who are asking to be seen heard and protected mayor sirachi you have said that the police oversight boards have no power there are cities across this country including here in Pennsylvania that have passed civilian review boards with investigative authority and subpoena power Lancaster can do the same the real question is whether the political will exists in closing I respectfully submit the following questions to you and ask that you respond in writing to the public before the next council meeting one who made the decision to remove the demographic and age-related data from the police use of force reports to why were City Council members in the public not informed about this change three will your administration commit to restoring the full disaggregated reports including past quarters for public view public review for if not please I gotcha if not please explain why this data is no longer appropriate or relevant for public access and five do you believe the data transparency is essential for public accountability thank you for your time and we expect honest answers in real action thank you Brian Nelson"
+    },
+    {
+      "block_id": 177,
+      "speaker": "SPEAKER_04",
+      "start": 6073.16,
+      "end": 6193.68,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a concern regarding police conduct and advocates for community involvement in oversight.",
+      "text": "Africa Canyon Circle Drive so I understand while public safety remains a concern the handling of children should not result in an incident of police misconduct or excessive force and it shouldn't be up to the department to decide if it was excessive force that's up to us in the community. It is my belief that community engagement should be done through the office of the mayor or city council, not the department. That consolidates power with them, not us. So I have a pop quiz for you guys. The Citizen Police Review Board is an independent agency within blank created in 1997 to investigate citizen complaints about improper conduct by the blank Bureau of Police through a referendum. I'll let you know that that city is the city of Pittsburgh in pennsylvania and perhaps it is time that we demand a referendum ourselves it's not in the cba but it didn't matter to the people of pittsburgh and better yet they offered their citizens to join those meetings by zoom citizen advisory boards exist and they have been done some with genuine authority pittsburgh is an example now it can't be done with no authority as in philadelphia but they have been done i think that this is something you guys really need to look into because it sounds like you saying that this is something that's not possible just sounds like an excuse to not do it or not put in the effort to work with us we've already seen that the lancaster city police isn't willing to come to the table i have zero faith in their community engagement office if it's not done through citizens there's nothing we can do to do anything better in our community if you guys aren't bringing us to the table we've heard from a number of groups today that can contribute to community policing as well some of them have left and the people who came to speak in favor of the police are now suddenly gone however i just want to let you know that since 1994 the u.s department of justice has provided grants to over 13 000 law enforcement agencies to support community policing initiatives highlighting the importance that it has in our justice system these are things that you guys can do we've just told you what it is i expect you the guys to actually make an effort to look into it"
+    },
+    {
+      "block_id": 178,
+      "speaker": "SPEAKER_27",
+      "start": 6193.68,
+      "end": 6396.93,
+      "speaker_name": "Duncan Hopkins",
+      "reason": "The speaker identifies as a resident and questions the characterization of children involved in an incident.",
+      "text": "thank you good evening my name is Duncan Hopkins I live in the northeast part of the city and I want to start out with a question addressing some of the comments earlier in this earlier in this meeting as well as last week why are we spending our time characterizing these kids who were assaulted by police officers as violent they were riding their bikes without lights which is a civil offense and not a criminal one. Yet in the chief's presentation last week and in some comments from folks here tonight, we've been treating these kids like criminals. Traffic safety is important. Ten years ago, I was biking to work when I was hit by a car just half a block from here and I was very lucky not to be seriously injured. I also was riding with bike lights on and it was daylight. I've had plenty of close calls, so I certainly understand the need for safety. Every single person in this room does, but that's not what we need to focus on tonight. What we need to focus on tonight is that when the police enforce the laws on the books, they need to do so in an appropriate manner. What took place on March 2nd was a clear as day example of police brutality. I dare anyone to watch that video in full, listening to the screams of those kids who are afraid they might join the long list of minors who were murdered by a cop that encounter was unacceptable and the consequences for riding bikes without lights should not be being pinned to the ground by an officer with a history of misconduct I'm speaking about officer Hatfield last week chief Mendez stood up here to give a presentation on police use of force and while I have many thoughts two main things stood out to me first the chief spent a long time talking about how use of force reports are reviewed within the department and no time at all on whether and how discipline would be passed on to the offending officer I think he said and discipline may be applied if if it's acceptable that was it it is unacceptable that he declined to speak about officer discipline in his report second every single council member had the opportunity to ask the chief questions some councillors used that opportunity to ask about increased transparency, oversight, and a different use of force policy for minors. However, other councillors declined to use this rare opportunity to ask questions in a public forum. For councillors to give up the opportunity to ask Chief Mendes the tough questions that the community has been asking for a month is frankly insulting. And lastly, I'm tired of the back and forth, I'm tired of the excuses, and I wish that this body would spend its time trying to find solutions instead of just waiting for the storm to blow over you all have difficult jobs and i get that but you signed up for it and you signed up to represent your community we have a real opportunity to change our city for the better and it is disheartening to see my city government prioritizing quiet over justice chief mendez has said multiple times that the community has needs to come to the table we're here it's time for this council mayor sirachi and chief mendez to listen thank you very much sunny"
+    },
+    {
+      "block_id": 180,
+      "speaker": "SPEAKER_09",
+      "start": 6492.22,
+      "end": 6595.46,
+      "speaker_name": "Diane Desmond",
+      "reason": "The speaker expresses concerns about the police department despite positive reports.",
+      "text": "you next time good evening Diane Desmond again off route 30 by the state police we've heard some positives tonight about the police department by members of the public but I'd like to be clear that whatever positives may exist do not erase the concerns that the community has voiced and the shortcomings of the police department. I do find it interesting and frankly disturbing that most members of the public who felt frightened by these youth and advocated for harsh punishment were white. As a white person addressing members of council and members of the community, many of whom are white, I urge you to sit with the discomfort of my observation here tonight. Use that discomfort to reflect and appreciate how frightened these youth feel when facing use of force from an armed officer. Are these feelings of fear comparable? We are still deeply concerned about the policing of youth and the disproportionate use of force against black and brown youth, which I would like to clarify and acknowledge is a nationwide issue that Lancaster is not separate from. we receive verbal confirmation that the proposal from Baltimore on the policing of youth will be reviewed considered and an update on your decision will be given to the public verbally during an upcoming City Council meeting and I would also like to further know by which date thank you"
+    },
+    {
+      "block_id": 181,
+      "speaker": "SPEAKER_15",
+      "start": 6595.96,
+      "end": 6808.23,
+      "speaker_name": "Brianna Sienkiewicz",
+      "reason": "The speaker addresses the council regarding demands for an end to police brutality and critiques the police chief's report.",
+      "text": "evening Brianna Sienkiewicz block of 700 block of Marietta this is my take on april 1st the lancaster community showed up yet again to city hall to demand the end of police brutality this time we heard police chief mendez give off and give an off-topic report that blatantly ignored our demands and attempted to shift blame for his department's egregious use of force against teen bike riders on march 2nd on to the community his presentation was filled with irrelevant stats and policies which addressed none of the tangible concerns and actual demands yes i don't think that chief mendez presentation was random he went on and on about gun seizure data emphasized on teens and early 20s sending a clear message that the police still are operating under the assumption that black and brown bodies are guilty until proven innocent and armed until proven otherwise this is a thinly veiled attempt to blame victims and alienate um and alleviate any police accountability chief mendez stated during the community outcry that public safety is a two-way street mendez is correct but neglects the two key points the community showed up and offered actionable demands that were laid out and continue to be laid out building trust takes time patience and a willingness to be wrong none of which were demonstrated by chief mendez nor the mayor during this committee meeting during doing trust it means opening up the floor to residents split directly to those who have power including chief mendez we were not given in that opportunity and so I don't believe him when he says public safety is a two-way street and involves all of us in addition to denying the rights of citizens to speak truth to power he failed to acknowledge the community's pain for decades of injustice and mistrust from racist policies and policing this pain cannot be erased by patting yourselves on the back for a few years of doing better the onus of chain falls on the shoulders of those in powers if residents are not engaged with police events the answer is not to take personal demands um personally and demand the residents show up it's to open up a safe form to ask why and what can be done police brutality should never happen but it does and the answer is not to shift blame but or listing harmful statistics of justification of use of force but to ask why why couldn't trained officers handle these citations such as the incident on march 2nd and what can be done to prevent future situations of police brutality from occurring Abram X. Kendi states, pain is usually essential to healing. When it comes to healing America of racism, we want to heal America without pain, but without pain, there is no progress. At the end, it was clear Police Mendez and the mayor said members and some members of city council were unwilling to wade into that pain and join us on a two-way street to healing and policy reform. without addressing our pain or demands we will continue to be two ships passing in the night instead of meeting on an equal playing field out beyond right-doing and wrongdoing until open this open discussion and honest cooperation can be had we the community are left to wrestle with knowing we have a long fight ahead of us thank you thank you good evening good evening my name is"
+    },
+    {
+      "block_id": 182,
+      "speaker": "SPEAKER_06",
+      "start": 6808.23,
+      "end": 6937.36,
+      "speaker_name": "Betty Jones",
+      "reason": "The speaker discusses a recurring issue regarding trash citations in the South End section of the city.",
+      "text": "Betty Jones, South End, 200 block of South End Street, I should say. Okay, I'm here again to talk about the trash situation that occurred about a month or so ago back. From the whole block, the whole southeast section, 100 block, 200, all the way down to the 400 block, We received citations, I would call it, for trash, which I came here before and I spoke about it. And I even showed pictures. When I received the citation, I called. And the person I spoke with, she told me that someone had called and complained about it. okay I I took pictures and if you can see yourself it was it was windy so trash was blowing all over the place anytime trash can come from 100 block all the way down to the 400 block I know everyone did not all of a sudden just put trash out I did not move trash so I'm coming here again to counselors to ask for your help that's why I came because I don't usually come out and do things like this but this is important to me and they they told us we have to pay $225 plus the $200 fee now so that's $225 that is due for each tenant or I should say owner in the 200 in the southeast area so I just want to know what cops gonna do about this and you know to help us I've seen us it's not just me but our whole section you know a whole block from the 100 all the way down to the 400 block you guys are here I'm coming to you because you supposed to be here to fight for us so this is what I'm coming for some kind of"
+    },
+    {
+      "block_id": 183,
+      "speaker": "SPEAKER_18",
+      "start": 6937.36,
+      "end": 6977.0,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about a job selection and a specific resident's issue.",
+      "text": "results thank you yeah it's shameful to be up here at this podium when we didn't select this job, we ask that you represent the people for this position. It's shameful that we have to be looked at on a psychological standpoint, because you're used to psychologically digesting a patient. And things are just being overlooked, such as Betty's trash issue. You don't have an answer for her?"
+    },
+    {
+      "block_id": 187,
+      "speaker": "SPEAKER_14",
+      "start": 7178.33,
+      "end": 7314.3,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding ethics and council conduct.",
+      "text": "Lopez Lancaster City I do have I kind of want to have a little exchange real confusion bear with me um what is like when you guys come in you take office um you like have like an ethics oath right like what you hear in your chambers which you deal with on the day-to-day in these council meetings like how you handle certain things and i wish janet diaz was here for what i'm about to say because i'm very very disgusted that every time she leaves these chambers she jumps on her phone and starts to attack people but doesn't say anything from these seats and it bothers me last week like my my emails like what she said about me and text messages aside I really don't care grown but last week she went online after she left council chambers and made a statement about counselor in my head that provoked racist comments about his religious practices and it was a direct attack that was so unnecessary like I really really need to know what is supposed to be becoming of our council members and what disciplinary matters happen when things like this transpire because why does she keep being allowed to do things like this to people and sit in that seat and get paid by the members of this community but do they go online and publicly attack people's race where they're from and what their religion is are they sending text messages at 12 12 in the morning asking why constituents are coming up here and demanding results at this point why do we keep allowing her to finish out her little term here it's distasteful to the community It should be disrespectful to each and every one of you at this point. And what gets done? Was there even a conversation had with her after the last situation that transpired on social media? Because I have the screenshots."
+    },
+    {
+      "block_id": 194,
+      "speaker": "SPEAKER_07",
+      "start": 7397.76,
+      "end": 7550.19,
+      "speaker_name": "unknown",
+      "reason": "The speaker is challenging the council regarding the lack of a plan for the southeast area.",
+      "text": "was a good statement as we have these council members sitting here and we continue to come whether it's a police issue a trash issue what are we going to do i mean i'm here to challenge council um we've sat here for eight years and i've come to council and i've spoken i've spoken with with the mayor, we do not have a plan for the southeast area. When is council going to go to the economic development and say, we need a plan for the southeast of Lancaster? We talk about housing. We talk about policing. We talk about the trash issues. We talk about parks. And we're doing all these comprehensive plans. But yet, we do not have a plan for the southeast of Lancaster. And then when we come here and we talk about black and brown children, and we say, well, we don't have a plan. city don't even have a plan for the area which is mostly highly populated i mean it speaks volumes and it's time that council at least requires that the department of economic and community development you hire consultants for every area in the city and we paid consultants to come up with plans and yet we have not a plan for the southeast area i'm asking council to respond to that now Not wait till the next election to see if you sit in the seat again, but do something now. I'm also here talking about a stop sign. We asked for a stop sign in 2019. I continue to come up here and we talk about safety and safe neighborhoods. And we're told repeatedly why we can't do anything to prevent accidents. Well, there wasn't enough accidents on that corner reported. So what? There was enough near misses. And everywhere else you can look at preventive measures, But when it comes to addressing issues in the Southeast, we don't look at preventive measures. A stop sign on South End and Green Street is a preventive measure. We're tired of asking. We're tired of keep coming and coming and coming. And I agree. I vote for people that I hope is going to represent me. I don't want to show up at council every meeting. If that was the case, I would run for city council. I'm not running because I believe I'm electing people that's going to vote and speak in my best interest and the interest of the residents, especially in the South and Concern neighborhood. So I'm asking you to do something about not having a plan in the Southeast area now, not next year, not three years from now. Start developing a plan for the Southeast. Thank you."
+    },
+    {
+      "block_id": 196,
+      "speaker": "SPEAKER_09",
+      "start": 7558.68,
+      "end": 7598.28,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the impact of water rate increases on residents.",
+      "text": "It is a very brief question, and I appreciate that. Thank you so much. Last week, I did have a question about the water rates and how we're going to be impacted as residents the percentage that we might anticipate of the water rates going up as a result of the improvement projects I found myself so relieved that it wasn't going to affect me potentially so I did not receive an answer to that question and I just sort of skipped off to my seat and that was a disservice to the community in Lancaster so I would just like to see if there is an answer that the community can receive and by which date they would receive that anticipated increase in their rates."
+    },
+    {
+      "block_id": 200,
+      "speaker": "SPEAKER_24",
+      "start": 8039.11,
+      "end": 8056.8,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding fee waivers or appeals for weather-related trash citations.",
+      "text": "this is a common more question when these weather related trash concerns come up is there a way that the city could waive the fees or is there a way that the citizens can appeal the citations thank"
+    }
+  ]
+}

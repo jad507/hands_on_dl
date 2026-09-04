@@ -1,0 +1,144 @@
+{
+  "title": "Planning Commission",
+  "video_id": "vqNOsyBYp08",
+  "upload_date": "20250206",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-03T21:08:28+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_02",
+      "start": 647.06,
+      "end": 663.74,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking detailed questions about the apartment plan, indicating a community interest in the development.",
+      "text": "i was looking at the plan and i know there's one with a little bit more detail that was also sent to us um what are we looking at for egress or maybe windows on the um apartment side sure"
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_03",
+      "start": 812.46,
+      "end": 831.31,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking clarifying questions about the accessibility and parceling of the development.",
+      "text": "sure this is all on the first level correct all first level yeah so these will all be ada accessible apartments you're going to be using the ramp that currently services 30 north correct yes and then is are you going to make them one parcel or is it i'm sorry say that again 30 and 32 34 one"
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_09",
+      "start": 886.34,
+      "end": 921.58,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns and suggestions regarding apartment lighting and tenant satisfaction.",
+      "text": "for separate addresses for the apartments sure uh i'm gonna add of what mr whalen had said about like just windows i i know you said you're evaluating i hope in your evaluation you can can determine I understand especially the middle apartments it could be a challenge maybe to find light because they don't even have a wall to wall access but you know light keeps people happy regulated so anything you can do to make sure your tenants have natural light I appreciate yeah no so the the"
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_09",
+      "start": 947.6,
+      "end": 965.27,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding bike parking facilities related to a commercial space.",
+      "text": "were doing the only real question I have is you answered the question slash concern I had at the last meeting which is the commercial space because it's on the water street with the bike lane correct on the note of bike lanes do you have any uh bike parking at your facilities around here"
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_09",
+      "start": 1179.17,
+      "end": 1192.39,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the agenda items.",
+      "text": "just reading the text of our agenda um i saw it was a conversion but then i also saw like a demolition so i'm just a little confused on if we're converting a building or if we're tearing"
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_09",
+      "start": 1280.24,
+      "end": 1298.06,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a nuanced opinion regarding the plan's process based on whether it is a conversion or a tear down and rebuild.",
+      "text": "well i appreciate that because i was a little confused at first it read to me like we were um waving any plan process and you know if it was a conversion of a building that was existing i think i'd be amenable to that but because it's a tear down and rebuild it i'm like let me say it"
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_05",
+      "start": 1319.31,
+      "end": 1339.23,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing a plan and zoning approval process.",
+      "text": "it had been the plan had been before the historic board and we also went through zoning to extend uh to uh into the rear yard setback we needed a little bit more space there for the plan to work so they um yeah we made that request of the zoning hearing board which they approved"
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_07",
+      "start": 1644.36,
+      "end": 1649.64,
+      "speaker_name": "unknown",
+      "reason": "The speaker is commenting on the pedestrian bridge construction.",
+      "text": "add real quick that the pedestrian bridge over the tracks looks like that that construction"
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_09",
+      "start": 1669.56,
+      "end": 1725.87,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking for a GIS file to work on conceptual zoning maps.",
+      "text": "um yeah we got a lot of time so i'll figure i'll just kind of informally be like let's talk a little bit about the comp plan stuff um i was curious if it would be possible to get me a gis file of our existing zoning map um because i'd like to work up just some general conceptual like just totally theoretical maps of uh what things might look like um but i i really don't want to rebuild the map so i'm hoping that the city has a file they can share with me with any redactions to private information of course um so that's like a request to staff but generally i'm just curious how you guys feel um you know we have a lot of zoning districts i forget how many exactly but like more than a dozen which is a lot um i'm curious how many zoning districts do you"
+    },
+    {
+      "block_id": 39,
+      "speaker": "SPEAKER_02",
+      "start": 1891.85,
+      "end": 1937.53,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering input regarding subcommittee or steering committee interest in a project.",
+      "text": "i would definitely say with the staff blessing as well as with our chair's blessing um i think it'd be a great idea to float or perhaps muster ahead of time any subcommittee interest or steering committee interest in that because when you're ready to pull someone like tony or whoever else would be interested in it um then you have us ready to go i would not be opposed at all to floating that idea in front of the um people who are here today and have it noted for the people who aren't here today who might be interested in that because i think there's a lot of interest in helping helping with that because it's a it's an enormous task right it is yeah a lot of eyes are"
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_01",
+      "start": 1986.81,
+      "end": 2044.48,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering advice regarding the involvement of the zoning hearing board in the zoning process.",
+      "text": "yeah i would say um i would want to run that by our solicitor just because in the past i've had comment from other solicitors that you don't want zoning hearing board involved in the actual zoning process because i mean obviously they can provide feedback and they're residents so they could be involved in that aspect just so that you kind of keep that separation of you know but we will definitely consider the kind of variances that have been approved we have a database of that what the consist like consistently is getting asked for and requested so that we can try to fix those in the ordinance um but yeah i think it's good to have a zoning hearing board member at least involved but I've also had feedback that it's not the best option so that'll have to be worked out"
+    }
+  ]
+}

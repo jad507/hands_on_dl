@@ -2,3 +2,254 @@
   OK   model file (8.71 GB)
   OK   phase 1 prompt (p1_system.txt, sha 40abc756d122)
   OK   81 meeting files
+  OK   GPU: NVIDIA RTX A2000 12GB, 10534 MiB, 12282 MiB
+[2026-09-03 17:07:26] Loading model: D:\LLM\unsloth\gemma-4-E4B-it-UD-Q8_K_XL.gguf
+llama_context: n_ctx_seq (16384) < n_ctx_train (131072) -- the full capacity of the model will not be utilized
+llama_kv_cache_iswa: using full-size SWA cache (ref: https://github.com/ggml-org/llama.cpp/pull/13194#issuecomment-2868343055)
+llama_kv_cache: the V embeddings have different sizes across layers and FA is not enabled - padding V cache to 1024
+llama_kv_cache: the V embeddings have different sizes across layers and FA is not enabled - padding V cache to 1024
+  Loaded in 1m 2s
+
+[2026-09-03 17:08:28] Phase 1 starting: 81 meeting files
+
+[2026-09-03 17:08:28] CSO Control Plan Public Meeting - April 3, 2025
+  0 public comments from 1 blocks  [Elapsed: 2s]
+
+[2026-09-03 17:08:31] City Council Budget Hearing - November 18, 2025
+  23 public comments from 280 blocks  [Elapsed: 3m 25s]
+
+[2026-09-03 17:11:57] City Council Budget Hearing - October 21, 2025
+  43 public comments from 451 blocks  [Elapsed: 6m 7s]
+
+[2026-09-03 17:18:04] City Council Committee Meeting - April 1, 2025
+  36 public comments from 242 blocks  [Elapsed: 4m 13s]
+
+[2026-09-03 17:22:17] City Council Committee Meeting - April 1, 2025
+  36 public comments from 247 blocks  [Elapsed: 4m 19s]
+
+[2026-09-03 17:26:36] City Council Committee Meeting - August 11, 2025
+  14 public comments from 68 blocks  [Elapsed: 1m 35s]
+
+[2026-09-03 17:28:11] City Council Committee Meeting - August 11, 2025
+  15 public comments from 68 blocks  [Elapsed: 1m 41s]
+
+[2026-09-03 17:29:53] City Council Committee Meeting - August 19, 2025
+  1 public comments from 11 blocks  [Elapsed: 9s]
+
+[2026-09-03 17:30:02] City Council Committee Meeting - August 19, 2025
+  1 public comments from 11 blocks  [Elapsed: 9s]
+
+[2026-09-03 17:30:11] City Council Committee Meeting - February 3, 2025
+  16 public comments from 80 blocks  [Elapsed: 1m 44s]
+
+[2026-09-03 17:31:55] City Council Committee Meeting - July 1, 2025
+  6 public comments from 67 blocks  [Elapsed: 53s]
+
+[2026-09-03 17:32:49] City Council Committee Meeting - July 1, 2025
+  6 public comments from 67 blocks  [Elapsed: 51s]
+
+[2026-09-03 17:33:40] City Council Committee Meeting - July 15, 2025
+  13 public comments from 53 blocks  [Elapsed: 1m 21s]
+
+[2026-09-03 17:35:02] City Council Committee Meeting - July 15, 2025
+  12 public comments from 51 blocks  [Elapsed: 1m 18s]
+
+[2026-09-03 17:36:20] City Council Committee Meeting - June 17, 2025
+  9 public comments from 44 blocks  [Elapsed: 57s]
+
+[2026-09-03 17:37:17] City Council Committee Meeting - June 17, 2025
+  9 public comments from 46 blocks  [Elapsed: 57s]
+
+[2026-09-03 17:38:15] City Council Committee Meeting - June 2, 2025
+  35 public comments from 151 blocks  [Elapsed: 3m 53s]
+
+[2026-09-03 17:42:08] City Council Committee Meeting - June 2, 2025
+  31 public comments from 153 blocks  [Elapsed: 3m 27s]
+
+[2026-09-03 17:45:35] City Council Committee Meeting - March 3, 2025
+  21 public comments from 109 blocks  [Elapsed: 2m 15s]
+
+[2026-09-03 17:47:51] City Council Committee Meeting - May 5, 2025
+  12 public comments from 78 blocks  [Elapsed: 1m 20s]
+
+[2026-09-03 17:49:12] City Council Committee Meeting - May 5, 2025
+  12 public comments from 77 blocks  [Elapsed: 1m 20s]
+
+[2026-09-03 17:50:32] City Council Committee Meeting - November 3, 2025
+  51 public comments from 447 blocks  [Elapsed: 6m 33s]
+
+[2026-09-03 17:57:05] City Council Committee Meeting - October 6, 2025
+  12 public comments from 31 blocks  [Elapsed: 1m 20s]
+
+[2026-09-03 17:58:26] City Council Committee Meeting - October 6, 2025
+  52 public comments from 243 blocks  [Elapsed: 5m 46s]
+
+[2026-09-03 18:04:12] City Council Committee Meeting - October 6, 2025
+  52 public comments from 243 blocks  [Elapsed: 5m 47s]
+
+[2026-09-03 18:09:59] City Council Committee Meeting - September 16, 2025
+  7 public comments from 67 blocks  [Elapsed: 53s]
+
+[2026-09-03 18:10:53] City Council Committee Meeting - September 16, 2025
+  7 public comments from 65 blocks  [Elapsed: 52s]
+
+[2026-09-03 18:11:46] City Council Committee Meeting - September 2, 2025
+  21 public comments from 94 blocks  [Elapsed: 2m 13s]
+
+[2026-09-03 18:13:59] City Council Committee Meeting - September 2, 2025
+  22 public comments from 94 blocks  [Elapsed: 2m 20s]
+
+[2026-09-03 18:16:19] City Council Ethics Code Work Session - November 6, 2025
+  4 public comments from 198 blocks  [Elapsed: 1m 16s]
+  SKIP (no blocks): City Council Meeting - April 22, 2025 [amJ3tiQPgZQ].json
+
+[2026-09-03 18:17:36] City Council Meeting - April 29, 2025
+  29 public comments from 92 blocks  [Elapsed: 2m 55s]
+
+[2026-09-03 18:20:31] City Council Meeting - April 29, 2025
+  30 public comments from 96 blocks  [Elapsed: 3m 1s]
+
+[2026-09-03 18:23:33] City Council Meeting - April 8, 2025
+  46 public comments from 205 blocks  [Elapsed: 5m 7s]
+
+[2026-09-03 18:28:40] City Council Meeting - April 8, 2025
+  48 public comments from 208 blocks  [Elapsed: 5m 19s]
+
+[2026-09-03 18:33:59] City Council Meeting - August 12, 2025
+  14 public comments from 21 blocks  [Elapsed: 1m 27s]
+
+[2026-09-03 18:35:27] City Council Meeting - August 12, 2025
+  28 public comments from 114 blocks  [Elapsed: 3m 4s]
+
+[2026-09-03 18:38:32] City Council Meeting - August 12, 2025
+  28 public comments from 114 blocks  [Elapsed: 3m 4s]
+
+[2026-09-03 18:41:36] City Council Meeting - August 26, 2025
+  20 public comments from 79 blocks  [Elapsed: 2m 8s]
+
+[2026-09-03 18:43:45] City Council Meeting - February 11, 2025
+  8 public comments from 86 blocks  [Elapsed: 1m 6s]
+
+[2026-09-03 18:44:51] City Council Meeting - February 11, 2025
+  8 public comments from 86 blocks  [Elapsed: 1m 5s]
+
+[2026-09-03 18:45:56] City Council Meeting - July 22, 2025
+  34 public comments from 126 blocks  [Elapsed: 3m 48s]
+
+[2026-09-03 18:49:45] City Council Meeting - July 8, 2025
+  12 public comments from 71 blocks  [Elapsed: 1m 34s]
+
+[2026-09-03 18:51:19] City Council Meeting - June 10, 2025
+  23 public comments from 130 blocks  [Elapsed: 2m 39s]
+
+[2026-09-03 18:53:59] City Council Meeting - June 10, 2025
+  24 public comments from 129 blocks  [Elapsed: 2m 40s]
+
+[2026-09-03 18:56:39] City Council Meeting - June 24, 2025
+  15 public comments from 63 blocks  [Elapsed: 1m 28s]
+
+[2026-09-03 18:58:08] City Council Meeting - March 11, 2025
+  58 public comments from 179 blocks  [Elapsed: 6m 2s]
+
+[2026-09-03 19:04:11] City Council Meeting - March 11, 2025
+  58 public comments from 181 blocks  [Elapsed: 6m 3s]
+
+[2026-09-03 19:10:14] City Council Meeting - March 25, 2025
+  42 public comments from 165 blocks  [Elapsed: 4m 25s]
+
+[2026-09-03 19:14:40] City Council Meeting - March 25, 2025
+  46 public comments from 166 blocks  [Elapsed: 4m 48s]
+
+[2026-09-03 19:19:28] City Council Meeting - May 13, 2025
+  53 public comments from 194 blocks  [Elapsed: 5m 39s]
+
+[2026-09-03 19:25:08] City Council Meeting - May 13, 2025
+  56 public comments from 195 blocks  [Elapsed: 5m 41s]
+
+[2026-09-03 19:30:50] City Council Meeting - May 27, 2025
+  19 public comments from 94 blocks  [Elapsed: 2m 4s]
+
+[2026-09-03 19:32:54] City Council Meeting - May 27, 2025
+  21 public comments from 95 blocks  [Elapsed: 2m 14s]
+
+[2026-09-03 19:35:08] City Council Meeting - November 11, 2025
+  46 public comments from 259 blocks  [Elapsed: 4m 58s]
+
+[2026-09-03 19:40:07] City Council Meeting - November 25, 2025
+  14 public comments from 196 blocks  [Elapsed: 2m 3s]
+  SKIP (no blocks): City Council Meeting - October 14, 2025 [ExizLiftTlk].json
+
+[2026-09-03 19:42:10] City Council Meeting - October 28, 2025
+  63 public comments from 220 blocks  [Elapsed: 6m 33s]
+
+[2026-09-03 19:48:44] City Council Meeting - September 23, 2025
+  13 public comments from 58 blocks  [Elapsed: 1m 22s]
+
+[2026-09-03 19:50:07] City Council Meeting - September 9, 2025
+  21 public comments from 117 blocks  [Elapsed: 2m 19s]
+
+[2026-09-03 19:52:26] City Council Meeting - September 9, 2025
+  21 public comments from 117 blocks  [Elapsed: 2m 23s]
+
+[2026-09-03 19:54:49] City Council Special Meeting - November 20, 2025
+  51 public comments from 319 blocks  [Elapsed: 6m 1s]
+
+[2026-09-03 20:00:50] HARB Meeting March 4 2025
+  5 public comments from 14 blocks  [Elapsed: 29s]
+  SKIP (no blocks): Historical Commission Meeting - April 21, 2025 [I8Bxek3mQvI].json
+
+[2026-09-03 20:01:20] Home Rule Transition Committee Meeting - July 29, 2025
+  5 public comments from 35 blocks  [Elapsed: 34s]
+
+[2026-09-03 20:01:54] Home Rule Transition Committee Meeting - July 29, 2025
+  5 public comments from 35 blocks  [Elapsed: 35s]
+
+[2026-09-03 20:02:29] Home Rule Transition Committee Meeting - October 29, 2025
+  1 public comments from 53 blocks  [Elapsed: 20s]
+
+[2026-09-03 20:02:50] Planning Commission - August 6, 2025
+  46 public comments from 220 blocks  [Elapsed: 5m 11s]
+
+[2026-09-03 20:08:01] Planning Commission - August 6, 2025
+  44 public comments from 221 blocks  [Elapsed: 5m 5s]
+
+[2026-09-03 20:13:07] Planning Commission Meeting - October 15, 2025
+  0 public comments from 3 blocks  [Elapsed: 0s]
+
+[2026-09-03 20:13:08] Planning Commission Meeting - September 17, 2025
+  50 public comments from 275 blocks  [Elapsed: 5m 52s]
+
+[2026-09-03 20:19:00] Planning Commission Meeting - September 17, 2025
+  54 public comments from 275 blocks  [Elapsed: 6m 1s]
+
+[2026-09-03 20:25:01] Planning Commission Meeting - September 3, 2025
+  14 public comments from 103 blocks  [Elapsed: 1m 40s]
+
+[2026-09-03 20:26:42] Planning Commission Meeting - September 3, 2025
+  13 public comments from 106 blocks  [Elapsed: 1m 37s]
+
+[2026-09-03 20:28:19] Planning Commission
+  11 public comments from 46 blocks  [Elapsed: 1m 8s]
+
+[2026-09-03 20:29:27] Press Conference - Data Center Community Benefits Agreement
+  7 public comments from 60 blocks  [Elapsed: 53s]
+
+[2026-09-03 20:30:21] State of the City 2025
+  0 public comments from 1 blocks  [Elapsed: 0s]
+
+[2026-09-03 20:30:21] Traffic Commission March 11, 2025
+  33 public comments from 192 blocks  [Elapsed: 3m 37s]
+
+[2026-09-03 20:33:59] Traffic Commission March 11, 2025
+  38 public comments from 193 blocks  [Elapsed: 3m 57s]
+
+[2026-09-03 20:37:56] Traffic Commission Meeting - November 11, 2025
+  26 public comments from 220 blocks  [Elapsed: 3m 10s]
+
+[2026-09-03 20:41:07] Water Transmission Mains Public Meeting - July 9, 2025
+  0 public comments from 5 blocks  [Elapsed: 1s]
+
+Summary: 78 processed, 3 skipped, 0 errors
+Total time: 3h 32m 40s
+
+Done.

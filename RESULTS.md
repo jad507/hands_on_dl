@@ -17,7 +17,11 @@ Every row must carry the commit and enough config to re-run it.
 | 2026-09-03 | 26ebd2b | Phase-1 vote counts (reproduces 2026-08-14 audit exactly) | core 5 | 3,263 flagged blocks | unanimous **24.1%**, majority **52.7%**, contested **75.9%** |
 | 2026-09-03 | 26ebd2b | Cross-model pairwise Jaccard | core 5, macro-averaged over meetings | 78 meetings | **0.372-0.554** |
 | 2026-09-03 | 26ebd2b | Quantisation stability (NOT agreement) | qwen3.5-9b q6 vs q8 | 78 meetings | Jaccard **0.840**, alpha 0.908 -- same model, two quantisations |
-| 2026-09-03 | 26ebd2b | Run-to-run noise floor, partial | gemma-4-4b, phase 1, re-run vs committed corpus | 4 of 81 meetings, 974 blocks | **0.41%** of blocks changed; Jaccard 0.962 -- *incomplete, see NOTEBOOK* |
+| 2026-09-03 | 9d70760 | **Run-to-run noise floor, complete** | gemma-4-4b phase 1, Sept re-run vs June corpus, 3h32m | 78 meetings / 10,069 blocks | **0.80%** of blocks changed; only **48.7%** of meetings reproduce exactly; Jaccard 0.9576, alpha 0.9734, AC1 0.9885 |
+| 2026-09-03 | 9d70760 | Effect vs instrument | gemma shifted-chunk flip 13.77% against a 0.80% floor | - | **17x** -- the chunk-framing effect clears its noise floor |
+| 2026-09-03 | 9d70760 | Within-session non-determinism | gemma identical-chunk flips, both variants from the June run | 2,279 blocks | **0.22%** -- the stricter floor; 0.80% above additionally contains an unrecorded toolchain change |
+| 2026-09-03 | 9d70760 | Where the noise lives | changed blocks vs June vote count | 10,069 blocks | contested (1-4 votes) **2.34%** vs unanimous (0 or 5) **0.30%** -- a **7.7x** concentration |
+| 2026-09-03 | 9d70760 | **Chunk effect within consensus stratum** | same-text 1:1 blocks, 5 core models | 16,150 block-observations | unanimous 0.12% -> **6.09%** (**51x**); contested 1.98% -> **33.94%** (**17x**) -- the effect is not ambiguity amplification |
 | 2026-09-03 | d40ddea | Concord unit-count drift by scheme | 81 meetings exported as VTT, `maxMergeGapSeconds=-1` | 10,069 blocks | turn scheme N=**10,069**; sentence scheme N=**20,468** (**2.03x**); per-meeting ratio 1.00-**225** |
 | 2026-09-03 | d40ddea | Concord round-trip fidelity | `export_vtt.py --verify` | 81 meetings / 10,069 cues | **81/81** preserve turn count exactly; 0 parse issues; 0 cues without a speaker |
 | 2026-09-03 | d40ddea | Turns silently lost at Concord's default | same export, `maxMergeGapSeconds=30` | 81 meetings | **11 turns fused** (10,069 -> 10,058) |
@@ -38,9 +42,18 @@ quantisations. It belongs in the table as a self-consistency ceiling -- it bound
 how much agreement two genuinely different models could plausibly show -- not as the
 strongest inter-model result.
 
-**The noise-floor row is incomplete** and must not be cited until the full re-run
-lands. It exists here so that a partial number cannot be mistaken for a final one.
+**There are two noise floors and they answer different questions.** 0.22% is
+within-session non-determinism, measured between two variants produced in the
+same June run. 0.80% is June versus September, which additionally contains an
+unrecorded change in the toolchain. Use 0.80% as the floor: it is the
+conservative choice and the chunk-framing effect clears it by 17x anyway.
 
 **The chunk-framing rows are the ones with a paper in them.** They hold the input
 text byte-identical, so there is no transcript confound: the only thing that varies
 is which two neighbours the model saw the block alongside.
+
+**Compare within consensus stratum, not pooled.** Run-to-run noise concentrates
+7.7x on contested blocks, so a pooled effect-to-floor ratio mixes two
+populations. Within stratum the chunk effect is 51x the floor on blocks every
+model agrees about and 17x on contested ones. That it survives on unanimous
+blocks is what makes it a mechanism rather than an artefact of ambiguity.
