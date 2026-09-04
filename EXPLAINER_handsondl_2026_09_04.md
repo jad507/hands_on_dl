@@ -1416,6 +1416,6 @@ labs.
 | Find a specific number fast | `RESULTS.md` |
 | Understand why a decision was made | `NOTEBOOK.md` (newest entries first) |
 | Run the pipeline | `README.md` |
-| Understand the research programme | `../AITranscribe/EXPLAINER.md` |
+| Understand the research programme | `../AITranscribe/EXPLAINER_aitranscribe_2026_09_04.md` |
 | See the experiment design | the docstring at the top of `chunk_experiment.py` |
 | See what is checked and why | `tests/`, where every file's docstring explains the risk it guards |
