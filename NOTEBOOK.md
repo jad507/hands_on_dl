@@ -15,7 +15,8 @@ Companion: `RESULTS.md`, one row per experiment, for finding a number fast.
 ## 2026-09-04 -- Controlled experiment: the effect replicates exactly, the noise floor does not. Ratio is 6x, not 51x.
 
 **Commit:** 232baa1
-**Ran:** `.un_chunk_experiment.ps1 -Model gemma-4-4b` (2h 54m), then
+**Ran:** `.
+un_chunk_experiment.ps1 -Model gemma-4-4b` (2h 54m), then
 `python chunk_experiment.py analyse`
 **Config:** gemma-4-4b, 12 meetings, 1,231 blocks, phase 1, temperature 0,
 corpus fixed across conditions.
@@ -122,6 +123,43 @@ statement of the mechanism and I did not predict it.
 gemma-4-4b is a gemma finding. ministral-8b is the obvious choice -- it had the
 lowest shifted-chunk rate in the natural experiment (11.67%), so it is the
 least favourable case.
+
+**Read the flips before closing the entry, and they are not random.** 68 blocks
+lost their flag under the offset shift, 81 gained one. Restricting to blocks
+where all five June models agreed, so the "right" answer is as close to settled
+as this corpus gets:
+
+*Lost* -- flagged at offset 0, not at offset 1, all five models said yes:
+
+> "i have to say my name yes okay susie gomez 100 block of north reservoir
+> street um are you filling in the position on a legal standpoint or are you
+> filling in the position on a board member s..."
+
+That is a resident stating name and address. In municipal meetings it is the
+single most unambiguous marker of a public comment there is, and it was dropped
+because a batch boundary moved. Nothing about the text changed.
+
+*Gained* -- not flagged at offset 0, flagged at offset 1, all five models said
+no:
+
+> "and i will pass it over to jen thank you hopefully i didn't push the button
+> all right uh thank you madam mayor and student castle i'm pleased to speak to
+> you tonight about the community deve..."
+
+> "thank you for presentation director Campbell I'm sure we'll get more to this
+> in the March meeting in the first and second reading but can you just talk a
+> little bit about the t..."
+
+Those are a staff presentation and a council member questioning staff.
+
+So the shift is not adding noise around the edges. It is **losing the
+public/official distinction in both directions** -- dropping residents who
+identify themselves and picking up officials addressing each other. That is the
+qualitative form of the 73.6%-of-stable-positives number, and it is what belongs
+in the paper next to the statistic.
+
+Ruled out the obvious confound: lost blocks have a median 114.5 words, gained
+107. Not a length effect.
 
 **Open question:** the dose-response. Condition B changes company for about 93%
 of blocks in one step. Offsets 0/1/2 at size 3 would show whether the flip rate
