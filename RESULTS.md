@@ -32,7 +32,9 @@ Every row must carry the commit and enough config to re-run it.
 | 2026-09-04 | 326b94b | Noise does NOT predict context sensitivity | natural experiment, 6 models | n=6 | Pearson **r = +0.13** -- no cheap screening proxy exists |
 | 2026-09-04 | 232baa1 | **Effect replicates across designs** | natural vs controlled, unanimous blocks | - | **6.09%** vs **6.08%** -- the magnitude is reproduced; the *floor* was what differed |
 | 2026-09-04 | 232baa1 | Stable positives lost to a batching shift | flagged in BOTH A and A2 | 239 blocks | only **73.6%** survive the offset shift |
-| 2026-09-04 | 232baa1 | Batch context suppresses flagging | size 1 vs size 3 | 1,231 blocks | size 1 flags **387** vs size 3's **247** (+57%), and is nearly a superset (233 of 247 kept) |
+| 2026-09-04 | 12ef17e | Batch context, size 1 vs size 3 (**gemma only**) | size 1 vs size 3 | 1,231 blocks | gemma flags **387** vs **247** (+57%). *Not general -- see next row.* |
+| 2026-09-04 | 12ef17e | **Same test on ministral: count is flat** | size 1 vs size 3 | 1,231 blocks | ministral flags **237** vs **240** (0.99x) -- "context suppresses flagging" is a gemma finding |
+| 2026-09-04 | 12ef17e | **What survives on both: membership churn** | size-3 flags retained at size 1 | 1,231 blocks | gemma keeps **94.3%**, ministral keeps **80.0%** -- ministral churns 20% while its total moves 3 blocks |
 | 2026-09-04 | 232baa1 | Which context vs how much | A-vs-B (offset) 12.10% vs A-vs-D (size 3->5) 9.83% | 1,231 blocks | changing *which* neighbours perturbs more than changing *how many* |
 | 2026-09-03 | d40ddea | Concord unit-count drift by scheme | 81 meetings exported as VTT, `maxMergeGapSeconds=-1` | 10,069 blocks | turn scheme N=**10,069**; sentence scheme N=**20,468** (**2.03x**); per-meeting ratio 1.00-**225** |
 | 2026-09-03 | d40ddea | Concord round-trip fidelity | `export_vtt.py --verify` | 81 meetings / 10,069 cues | **81/81** preserve turn count exactly; 0 parse issues; 0 cues without a speaker |
@@ -63,6 +65,14 @@ conservative choice and the chunk-framing effect clears it by 17x anyway.
 **The chunk-framing rows are the ones with a paper in them.** They hold the input
 text byte-identical, so there is no transcript confound: the only thing that varies
 is which two neighbours the model saw the block alongside.
+
+**Directions have replicated across models; magnitudes have not, once.** Every
+effect here points the same way in both models tested, and every magnitude
+differs substantially -- the ratio 3x, the floor 5x, and the size-1 count
+behaviour qualitatively (gemma +57%, ministral flat). Treat any single-model
+magnitude in this table as provisional until a second model confirms it, and
+prefer membership-level statements to count-level ones: ministral's size-1 count
+moves by three blocks while 20% of its flags change identity.
 
 **Quote per-model ratios, never a pooled one.** The controlled design gives
 5.5x for gemma-4-4b and 18.4x for ministral-8b: a 3x spread driven almost

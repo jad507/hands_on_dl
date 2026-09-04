@@ -3,3 +3,50 @@
   OK   phase 1 prompt (p1_system.txt, sha 40abc756d122)
   OK   12 meeting files
   OK   GPU: NVIDIA RTX A2000 12GB, 11733 MiB, 12282 MiB
+[2026-09-04 00:55:33] Loading model: D:\LLM\Ministral\Ministral-3-8B-Instruct-2512-Q8_0.gguf
+llama_context: setting new yarn_attn_factor = 1.0000 (mscale == 1.0, mscale_all_dim = 1.0)
+llama_context: n_ctx_seq (16384) < n_ctx_train (262144) -- the full capacity of the model will not be utilized
+  Loaded in 59s
+
+[2026-09-04 00:56:33] Phase 1 starting: 12 meeting files
+
+[2026-09-04 00:56:33] City Council Committee Meeting - February 3, 2025
+  9 public comments from 80 blocks  [Elapsed: 1m 30s]
+
+[2026-09-04 00:58:04] City Council Committee Meeting - March 3, 2025
+  11 public comments from 109 blocks  [Elapsed: 1m 49s]
+
+[2026-09-04 00:59:53] City Council Committee Meeting - September 2, 2025
+  19 public comments from 94 blocks  [Elapsed: 2m 8s]
+
+[2026-09-04 01:02:01] City Council Meeting - April 29, 2025
+  37 public comments from 96 blocks  [Elapsed: 3m 9s]
+
+[2026-09-04 01:05:11] City Council Meeting - August 12, 2025
+  38 public comments from 114 blocks  [Elapsed: 3m 23s]
+
+[2026-09-04 01:08:34] City Council Meeting - August 26, 2025
+  21 public comments from 79 blocks  [Elapsed: 2m 11s]
+
+[2026-09-04 01:10:46] City Council Meeting - February 11, 2025
+  5 public comments from 86 blocks  [Elapsed: 1m 14s]
+
+[2026-09-04 01:12:00] City Council Meeting - July 22, 2025
+  35 public comments from 126 blocks  [Elapsed: 3m 37s]
+
+[2026-09-04 01:15:38] City Council Meeting - June 10, 2025
+  16 public comments from 129 blocks  [Elapsed: 2m 19s]
+
+[2026-09-04 01:17:58] City Council Meeting - May 27, 2025
+  20 public comments from 95 blocks  [Elapsed: 2m 14s]
+
+[2026-09-04 01:20:12] City Council Meeting - September 9, 2025
+  15 public comments from 117 blocks  [Elapsed: 2m 4s]
+
+[2026-09-04 01:22:17] Planning Commission Meeting - September 3, 2025
+  11 public comments from 106 blocks  [Elapsed: 1m 49s]
+
+Summary: 12 processed, 0 skipped, 0 errors
+Total time: 27m 32s
+
+Done.

@@ -12,6 +12,69 @@ Companion: `RESULTS.md`, one row per experiment, for finding a number fast.
 
 ---
 
+## 2026-09-04 (later still) -- "Context suppresses flagging" is a gemma finding, not a general one.
+
+**Commit:** 12ef17e
+**Ran:** `.un_chunk_experiment.ps1 -Model ministral-8b -Conditions "C,D"` (47m)
+
+**Result:**
+
+| model | floor (A vs A2) | size 3 | size 1 | size1 / size3 | size 5 |
+|---|---|---|---|---|---|
+| gemma-4-4b | 2.19% | 247 | **387** | **1.57x** | 290 |
+| ministral-8b | 0.41% | 240 | **237** | **0.99x** | 263 |
+
+**This retracts a mechanism I reported earlier today as general.** I wrote
+"batch context suppresses flagging -- size 1 flags 387 against size 3's 247, a
+57% increase". That is true of gemma and **false of ministral**, whose count is
+flat: 237 against 240.
+
+What survives on both models is weaker but still real. Removing the batch
+context changes *which* blocks are flagged even when it barely changes how many:
+
+| model | size-3 flags kept at size 1 | added at size 1 |
+|---|---|---|
+| gemma-4-4b | 233 / 247 (94.3%) | 154 |
+| ministral-8b | 192 / 240 (**80.0%**) | 45 |
+
+ministral churns **20%** of its flags when the context is removed while the
+total moves by three blocks. If I had looked only at counts I would have
+concluded context does nothing to ministral. It does; it just does not shift the
+aggregate. That is the same aggregate-stable / unit-unstable trap this project
+keeps finding, and I nearly walked into it while writing up a finding about it.
+
+**The within-model question from the last entry, answered as far as n = 2
+allows.** The two models line up in the same direction on both dimensions:
+gemma is noisier at fixed settings (2.19% vs 0.41%) *and* looser without context
+(1.57x vs 0.99x). That is consistent with a single underlying "looseness"
+factor.
+
+I am not claiming it. n = 2, and the closest thing to a test I have at larger n
+-- the correlation between identical-chunk rate and shifted-chunk rate across
+six models -- came back at r = +0.13. Two models agreeing in direction is what
+you would expect about half the time by chance. It is a hypothesis for the phi-4
+run, not a result.
+
+**Surprised by:** ministral's size-1 count being flat. I had generalised from
+one model without noticing I had only one model, and the write-up asserted a
+mechanism where the evidence supported a description of gemma. Caught only
+because the replication was run.
+
+**Decided:**
+- Retract "context suppresses flagging" as a general claim; report it as
+  gemma-specific alongside ministral's flat count.
+- State the surviving claim in membership terms, not count terms: removing batch
+  context churns 6-20% of a model's flags.
+- Any claim about magnitude in this project needs two models before it is
+  written down as a mechanism. The direction has replicated every time; the
+  magnitudes have not replicated once.
+
+**Next:** phi-4 for a third point, on all five conditions. It had the highest
+natural shifted-chunk rate (17.14%), so it should be the most favourable case,
+and it is the tie-breaker on the looseness hypothesis.
+
+---
+
 ## 2026-09-04 (later) -- ministral replicates the effect. The ratio is model-dependent: 5.5x to 18.4x.
 
 **Commit:** 326b94b
