@@ -12,10 +12,129 @@ Companion: `RESULTS.md`, one row per experiment, for finding a number fast.
 
 ---
 
+## 2026-09-07 -- phi-4 completed. The "gemma-specific" retraction was itself wrong.
+
+**Commit:** 8fe2bdf
+**Ran:** `run_chunk_experiment.ps1 -Model phi-4 -Conditions "A2,B,C,D"`, twice.
+The first attempt was killed at 21:52 after 37 minutes with condition B at 9/12.
+Relaunched detached via `Start-Process`; it then ran to completion. All five
+conditions are now 12/12 for phi-4, `n_chunk_errors: 0` throughout.
+
+### The headline: three models, one direction, three magnitudes
+
+| model | control A vs A2 | effect A vs B | ratio |
+|---|---|---|---|
+| ministral-8b | 0.406% | 7.474% | 18.4x |
+| **phi-4** | **1.462%** | **11.210%** | **7.7x** |
+| gemma-4-4b | 2.193% | 12.104% | 5.5x |
+
+The two-model rule holds and its wording holds with it: every direction has
+replicated, no magnitude has. Moving the batch boundaries by one changes far
+more than rerunning the identical setting, in all three models, by a factor
+between 5.5 and 18.4.
+
+phi-4 flags 309 blocks under A and 303 under B. **A net drift of six, against
+138 individual blocks changing.** The shift churns the set without moving the
+total, so a study reporting only totals would conclude nothing happened.
+
+### The correction: condition C
+
+`4b34998` retracted "batch context suppresses flagging" on the grounds that
+**it is gemma-specific**. That reasoning is now falsified.
+
+| model | A (size 3) | C (size 1, no context) | change | control net drift |
+|---|---|---|---|---|
+| gemma-4-4b | 247 | 387 | **+56.7%** | +11 |
+| phi-4 | 309 | 374 | **+21.0%** | -12 |
+| ministral-8b | 240 | 237 | -1.3% | -1 |
+
+phi-4 moves 65 blocks, more than five times its own run-to-run net drift. The
+retraction was right that the effect is not general. It was wrong about why,
+and it was wrong because two models can detect a bad claim but cannot describe
+what is actually happening.
+
+**What survives three models:** batch context suppresses flagging in some
+models and not others -- two of three show it, at magnitudes differing
+threefold, and one is flat to within its own noise. Whether a model's coding is
+context-sensitive is an empirical property of that model, not a property of
+"LLM coding".
+
+**Not a dose-response.** Flagged counts at chunk size 1, 3 and 5:
+
+| model | size 1 | size 3 | size 5 |
+|---|---|---|---|
+| gemma-4-4b | 387 | 247 | 290 |
+| phi-4 | 374 | 309 | 287 |
+| ministral-8b | 237 | 240 | 263 |
+
+Only phi-4 is monotonic. gemma dips at 3 and comes back up at 5, a 43-block
+rise against an 11-block control drift, so the non-monotonicity is real and not
+noise. Whatever context is doing, "more of it suppresses more" is not it.
+
+### The invariant that is now on three models
+
+Contested blocks -- those where the five corpus models did not agree -- flip
+under a pure batching shift at:
+
+- gemma-4-4b **36.48%**
+- phi-4 **30.74%**
+- ministral-8b **27.46%**
+
+A 27-36% band across three models, on the same 244 blocks, with nothing varying
+but where the batch boundaries fall. This is the most stable number the
+experiment has produced and the best candidate for a paper's headline, because
+it is a range every model respects rather than a point estimate only one model
+supports.
+
+By stratum, phi-4 behaves like the other two: unanimous blocks 1.11% -> 6.38%
+under the shift, contested 2.87% -> 30.74%. The effect is not ambiguity
+amplification; it hits blocks every model agreed on.
+
+### A bug found by doing the analysis at the wrong moment
+
+`analyse()` decided a condition was present by testing that its **directory**
+existed. Running it mid-run gave condition B a 25.1% difference from A with
+Jaccard 0 and alpha -0.1431 off **zero completed meetings** -- the missing
+meetings contributed no flags, and every statistic read that absence as "the
+model flagged none of these blocks". Well-formed report, no error, no warning.
+
+Fixed in `8fe2bdf`: completeness is measured against the corpus meeting count,
+partial conditions are skipped with a printed reason. Two tests. 429 passing.
+
+**Any figure produced by a mid-run `analyse` call is suspect and there is no way
+to tell from its output.** Nothing in `RESULTS.md` has been audited for this.
+
+### Surprised by
+
+That the retraction was wrong in its explanation while being right in its
+conclusion. The instinct on 2026-09-04 was that a second flat model meant the
+first model was idiosyncratic. What it actually meant was that the population
+of models has at least two behaviours in it, which is a more interesting claim
+and one that two models could not have reached.
+
+Also that the mid-run analysis failure was so plausible. At 0/12 the number was
+absurd enough to notice. At 10/12 it would have looked like a finding.
+
+### Open question
+
+Why ministral is flat. It is the largest of the three at 8B and the one with
+the lowest noise floor, so "it ignores the context window" and "it is more
+stable" predict the same observation here and are not separable by this design.
+A fourth model would say which, and D-versus-C within ministral (237 vs 263, a
+26-block spread against a 1-block control drift) hints that it is not simply
+ignoring context.
+
+Unchanged: none of this is accuracy. C flagging 21% more blocks says nothing
+about whether those blocks should have been flagged. The gold sample is still
+the bottleneck under every one of these numbers.
+
+---
+
 ## 2026-09-04 -- phi-4 run stopped partway. State recorded; not resumed.
 
 **Commit:** 4b34998
-**Ran:** `.un_chunk_experiment.ps1 -Model phi-4 -Conditions "A,A2,B,C,D"` --
+**Ran:** `.
+un_chunk_experiment.ps1 -Model phi-4 -Conditions "A,A2,B,C,D"` --
 **stopped externally** at 02:28, partway through condition A2.
 
 **State, verified rather than assumed:**

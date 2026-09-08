@@ -33,7 +33,7 @@ Every row must carry the commit and enough config to re-run it.
 | 2026-09-04 | 232baa1 | **Effect replicates across designs** | natural vs controlled, unanimous blocks | - | **6.09%** vs **6.08%** -- the magnitude is reproduced; the *floor* was what differed |
 | 2026-09-04 | 232baa1 | Stable positives lost to a batching shift | flagged in BOTH A and A2 | 239 blocks | only **73.6%** survive the offset shift |
 | 2026-09-04 | 12ef17e | Batch context, size 1 vs size 3 (**gemma only**) | size 1 vs size 3 | 1,231 blocks | gemma flags **387** vs **247** (+57%). *Not general -- see next row.* |
-| 2026-09-04 | 12ef17e | **Same test on ministral: count is flat** | size 1 vs size 3 | 1,231 blocks | ministral flags **237** vs **240** (0.99x) -- "context suppresses flagging" is a gemma finding |
+| 2026-09-04 | 12ef17e | **Same test on ministral: count is flat** | size 1 vs size 3 | 1,231 blocks | ministral flags **237** vs **240** (0.99x). ~~"a gemma finding"~~ **SUPERSEDED 2026-09-07**: phi-4 also suppresses (+21.0%), so ministral is the exception, not gemma. The count is correct; the interpretation was not |
 | 2026-09-04 | 12ef17e | **What survives on both: membership churn** | size-3 flags retained at size 1 | 1,231 blocks | gemma keeps **94.3%**, ministral keeps **80.0%** -- ministral churns 20% while its total moves 3 blocks |
 | 2026-09-04 | 232baa1 | Which context vs how much | A-vs-B (offset) 12.10% vs A-vs-D (size 3->5) 9.83% | 1,231 blocks | changing *which* neighbours perturbs more than changing *how many* |
 | 2026-09-03 | d40ddea | Concord unit-count drift by scheme | 81 meetings exported as VTT, `maxMergeGapSeconds=-1` | 10,069 blocks | turn scheme N=**10,069**; sentence scheme N=**20,468** (**2.03x**); per-meeting ratio 1.00-**225** |
@@ -43,6 +43,14 @@ Every row must carry the commit and enough config to re-run it.
 | 2026-09-03 | 26ebd2b | Chunk effect directionality (exogenous control) | pyannote `category` as neighbour measure | n=258 | **47.7% concordant, z=-0.75** -- no directional effect detected |
 | 2026-09-03 | 26ebd2b | Corpus integrity | `audit_corpus.py` | 81 files | 3 uncoded, **2 stale pre-filtered duplicates**, 53 distinct meetings |
 | 2026-08-28 | 26ebd2b | Reproducibility spot check | gemma-4-4b, 1 meeting, same model file and prompt | 1 meeting | committed corpus 5 comments, re-run **4** |
+| 2026-09-07 | 8fe2bdf | **Controlled, phi-4 replication (third model)** | same 12 meetings, same corpus, A/A2/B/C/D | 1,231 blocks | floor **1.46%**, effect **11.21%**, **ratio 7.7x** |
+| 2026-09-07 | 8fe2bdf | phi-4 by stratum | same | 1,231 blocks | unanimous 1.11% -> 6.38% (**5.7x**); contested 2.87% -> 30.74% (**10.7x**) |
+| 2026-09-07 | 8fe2bdf | **Cross-model invariant, now three models** | gemma + ministral + phi-4, contested blocks, pure batching shift | 244 blocks each | all three flip **27.5-36.5%** |
+| 2026-09-07 | 8fe2bdf | Stable positives lost, phi-4 | flagged in both A and A2, surviving B | 294 | **20.1%** lost (gemma 26.4%, ministral 18.1%) |
+| 2026-09-07 | 8fe2bdf | **Context suppression is model-dependent, not gemma-specific** | flagged count, chunk size 1 vs 3 | 1,231 blocks | gemma **+56.7%**, phi-4 **+21.0%**, ministral **-1.3%**; supersedes the 'gemma-specific' retraction in 4b34998 |
+| 2026-09-07 | 8fe2bdf | Chunk size is not a dose-response | flagged count at size 1 / 3 / 5 | 1,231 blocks | gemma 387/247/290, phi-4 374/309/287, ministral 237/240/263 -- only phi-4 monotonic |
+| 2026-09-07 | c7061c2 | Contrastive-stress corpus, all candidates measured | `verify_stress.py`, 91 caption-verified candidates | 81 measured, 10 skipped | 20 strong (5+ distinct stressed words), 11 full coverage, **only 2 on a full sentence** |
+| 2026-09-07 | c7061c2 | Stress measurement reproducibility | 30 rows remeasured 3 days later after a caption refetch | 30 rows | **30/30 bit-identical** on phrase, repetitions, distinct count and sequence |
 
 ## Notes on reading these
 
