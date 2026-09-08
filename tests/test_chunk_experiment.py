@@ -197,6 +197,46 @@ def test_analysis_refuses_a_single_condition(tmp_path):
         CE.analyse(corpus, runs_root, tmp_path / "out", "mdl")
 
 
+def test_analysis_excludes_a_half_finished_condition(runs, tmp_path):
+    """The mid-run trap, and the reason the guard exists.
+
+    A condition whose directory exists but whose meetings have not all run
+    contributes nothing for the missing meetings, and the statistics read that
+    absence as "flagged none of these blocks". The report then states a large
+    effect with a confident alpha, and nothing errors.
+
+    This is not hypothetical: analysing phi-4 on 2026-09-07 while condition B
+    was still running reported B at a 25.1% difference from A with alpha -0.14,
+    off zero completed meetings.
+    """
+    corpus, runs_root = runs                      # A and B, 2 meetings each
+    blocks = [blk(j, j * 10, j * 10 + 9, f"m0 b{j} text") for j in range(10)]
+    # C exists but has only one of the two meetings.
+    write_phase1(runs_root / "C_size1" / "mdl" / "phase1_public_comments" /
+                 "m0.json", {1, 2, 3}, blocks)
+
+    res = CE.analyse(corpus, runs_root, tmp_path / "out", "mdl")
+
+    pairs = [r["pair"] for r in res["rows"]]
+    assert not any("C_size1" in p for p in pairs), (
+        f"a half-finished condition reached the statistics: {pairs}")
+
+
+def test_analysis_refuses_when_only_one_condition_is_complete(tmp_path):
+    """Stopping beats reporting one real condition against one partial one."""
+    corpus = tmp_path / "c"
+    runs_root = tmp_path / "r"
+    blocks = [blk(j, j * 10, j * 10 + 9, f"b{j}") for j in range(4)]
+    for mi in range(2):
+        write_meeting(corpus / f"m{mi}.json", blocks)
+        write_phase1(runs_root / "A_size3_off0" / "mdl" /
+                     "phase1_public_comments" / f"m{mi}.json", {1}, blocks)
+    write_phase1(runs_root / "B_size3_off1" / "mdl" / "phase1_public_comments" /
+                 "m0.json", {2}, blocks)          # 1 of 2 meetings
+    with pytest.raises(SystemExit):
+        CE.analyse(corpus, runs_root, tmp_path / "out", "mdl")
+
+
 def test_analysis_writes_its_outputs(runs, tmp_path):
     corpus, runs_root = runs
     out = tmp_path / "out"

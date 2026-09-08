@@ -142,10 +142,33 @@ def flagged(path: Path) -> set | None:
 
 def analyse(comments_dir: Path, runs_root: Path, out_dir: Path, model: str) -> dict:
     out_dir.mkdir(parents=True, exist_ok=True)
-    present = [c for c in CONDITIONS
-               if (runs_root / c / model / "phase1_public_comments").is_dir()]
+    # A condition directory that exists but is not finished is the dangerous
+    # case. Its meetings that have not run yet contribute nothing to the flag
+    # set, and every statistic below then reads that absence as "the model
+    # flagged none of these blocks" -- a fabricated effect, reported with the
+    # same confidence as a real one. Analysing phi-4 mid-run on 2026-09-07 gave
+    # condition B a 25.1% difference and alpha -0.14 off zero completed
+    # meetings, and nothing errored. So completeness is measured against the
+    # corpus rather than assumed from the directory existing.
+    n_meetings = len(list(comments_dir.glob("*.json")))
+    present, partial = [], []
+    for c in CONDITIONS:
+        d = runs_root / c / model / "phase1_public_comments"
+        if not d.is_dir():
+            continue
+        done = len(list(d.glob("*.json")))
+        if n_meetings and done < n_meetings:
+            partial.append((c, done))
+        else:
+            present.append(c)
+
+    for c, done in partial:
+        print(f"SKIPPING {c}: {done} of {n_meetings} meetings done. "
+              f"An unfinished condition would read as 'flagged nothing'.")
     if len(present) < 2:
-        raise SystemExit(f"need at least two completed conditions, found {present}")
+        raise SystemExit(
+            f"need at least two COMPLETE conditions, found {present or 'none'}"
+            + (f"; incomplete: {[c for c, _ in partial]}" if partial else ""))
     print(f"conditions present: {', '.join(present)}\n")
 
     # unit universe and per-condition flags
