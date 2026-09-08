@@ -1,7 +1,7 @@
 # Handoff
 
-**Written 2026-09-04.** For a session starting with no memory of the conversation that
-produced the current state. Read this before touching anything.
+**Written 2026-09-04, updated 2026-09-07.** For a session starting with no memory of the
+conversation that produced the current state. Read this before touching anything.
 
 The working directory is `hands_on_dl`. A sibling repository, `../AITranscribe`, holds
 the research programme and about half the recent work. Both matter.
@@ -52,11 +52,11 @@ The user's IRB has an exclusion covering public data including social media and 
 so collecting and analysing public videos needs no further permission. That was stated
 explicitly on 2026-09-04.
 
-Working trees are clean except for the new doc 08, which needs committing.
+Working trees are clean.
 
 ---
 
-## 3. What this session did
+## 3. What the 2026-09-04 session did
 
 Three phases.
 
@@ -73,8 +73,27 @@ cross-links were repointed.
 
 **Built a contrastive-stress video corpus**, which is the substantial new work. Search,
 acoustic measurement, an any-source path, and validation against labelled ground truth.
-Full account in doc 08. Headline: 497 videos seen, 91 caption-verified, 30 measured, 14
-strong, 2 perfect; detector accuracy 80% on n=5 labelled files.
+Full account in doc 08. Headline: 497 videos seen, 91 caption-verified, 81 measured, 20
+strong; detector accuracy 80% on n=5 labelled files.
+
+## 3b. What the 2026-09-07 session did
+
+**Finished the stress measurement**, 81 of 91. Two results beyond the count: the
+measurement is deterministic (30 rows remeasured three days later came back
+bit-identical), and nine of the eleven full-coverage items are 4-word fragments rather
+than sentences, so only two carry real weight.
+
+**Finished phi-4**, all five conditions. It confirmed the noise-floor spread and
+falsified the reasoning behind the "context suppresses flagging" retraction. Full entry
+at the top of `NOTEBOOK.md`; new rows in `RESULTS.md`.
+
+**Fixed an analysis bug that fabricated an effect.** `analyse()` treated a condition
+whose directory existed as complete, so running it mid-run reported a 25.1% difference
+off zero completed meetings. Any figure produced by a mid-run `analyse` call is suspect
+and cannot be identified from its output. `RESULTS.md` has not been audited for this.
+
+**Hit the background-task kill a second time** and moved long runs to detached
+`Start-Process`. See section 6.
 
 ---
 
@@ -86,17 +105,19 @@ It needs 8 to 12 hours of a qualified human. Until it exists, every result in th
 is agreement between machines, not accuracy, and condition C of the chunk experiment
 cannot be interpreted at all. No amount of compute substitutes.
 
-**2. Finish phi-4.** Third model for the chunk experiment, about 3 hours GPU.
+**2. ~~Finish phi-4.~~ Done 2026-09-07.** All five conditions 12/12. It confirmed the
+noise-floor spread (phi-4 1.46%, between ministral 0.41% and gemma 2.19%) and **broke the
+reasoning behind the "context suppresses flagging" retraction**: phi-4 suppresses too, so
+ministral is the exception rather than gemma being idiosyncratic. See the 2026-09-07
+notebook entry.
 
-```powershell
-.\run_chunk_experiment.ps1 -Model phi-4 -Conditions "A,A2,B,C,D"
-```
+The open replication question moved rather than closed. A **fourth model** would separate
+the two live explanations for ministral's flatness, which this design cannot: at 8B it is
+both the largest of the three and the one with the lowest noise floor, so "it ignores the
+batch context" and "it is simply more stable" predict the same observation.
 
-Resumable; per-meeting skip logic picks up where it stopped. Condition A is complete
-(12/12), A2 is 3/12, B/C/D are 0/12. Two current claims rest on exactly two models: the
-fivefold spread in noise floors, and the retraction of "context suppresses flagging".
-
-**3. Measure the remaining 61 stress candidates**, about 25 minutes:
+**3. ~~Measure the remaining 61 stress candidates.~~ Done 2026-09-07**, 81 of 91 measured.
+For reference, the command was:
 
 ```bash
 cd ../AITranscribe && python verify_stress.py
@@ -110,7 +131,7 @@ section 6 for why this matters.
 
 **5. Decide what the paper is.** Five to six weeks to the likely ISLS deadline
 (early-to-mid October 2026). The batching finding is finished, controlled, replicated
-across two models and needs no ethics approval. The transcription-policy study is more
+across three models and needs no ethics approval. The transcription-policy study is more
 ambitious and needs `transcribe2` to have produced something. Doc 08 section 8 lays out
 the options.
 
@@ -120,14 +141,24 @@ the options.
 
 These came out of things going wrong. Do not quietly drop them.
 
-**Every direction has replicated across two models. No magnitude has.** Nothing goes in
+**Every direction has replicated across three models. No magnitude has.** Nothing goes in
 as a mechanism without at least two models showing it. Report magnitudes per model, or
 lead with the invariants. This rule exists because "batch context suppresses flagging"
 was published at 00:57 and retracted at 01:46 when a second model came back flat.
 
-**There is no single noise floor.** It is a property of the model: gemma 2.19%,
-ministral 0.41%, on the identical corpus with identical settings. Any paper quoting one
-ratio for "LLM coding" is quoting an artifact of whichever model it used.
+**Two models can detect a wrong claim. They cannot describe what is happening.** The
+retraction above concluded the effect was gemma-specific, and phi-4 falsified that on
+2026-09-07 by suppressing as well. The conclusion was right and the explanation was
+wrong. When two models disagree, the honest statement is "model-dependent", not "the
+odd one out is model X" -- you cannot tell which one is the outlier from a sample of two.
+
+**There is no single noise floor.** It is a property of the model: gemma 2.19%, phi-4
+1.46%, ministral 0.41%, on the identical corpus with identical settings. Any paper
+quoting one ratio for "LLM coding" is quoting an artifact of whichever model it used.
+
+**The strongest number is a range, not a point.** Contested blocks flip 27.5-36.5% under
+a pure batching shift in all three models, on the same 244 blocks. Prefer this to any
+single model's headline figure.
 
 **Plain ASCII only**, in files and in chat output. No em dashes, no arrows, no
 typographic quotes. Note the trap: a blanket dash-replacement sweep once broke a regex in
