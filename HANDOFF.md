@@ -36,11 +36,14 @@ Fast lookups:
 | | `hands_on_dl` | `AITranscribe` |
 |---|---|---|
 | Branch | `isls-chunk-framing` | `isls-execution-findings` |
-| Commits ahead of the base branch | 16 (of `main`) | 11 (of `master`) |
-| Remote tracking branch | none | none |
+| Commits ahead of the base branch | 18 (of `main`) | 13 (of `master`) |
+| Remote tracking branch | `origin/isls-chunk-framing` | none |
 | Where the remote points | GitHub, `jad507/hands_on_dl` | a personal server, `shiro` |
 
-**Nothing has been pushed.** Do not push without asking. `contested_blocks.csv` contains
+**`hands_on_dl` was pushed to `origin/isls-chunk-framing` between 09-04 and 09-07, by the
+user.** It now sits 1 commit ahead of that remote branch and 18 ahead of `main`.
+`AITranscribe` has never been pushed and is 13 ahead of `master`. Do not push without
+asking. `contested_blocks.csv` contains
 public-comment text from identifiable private citizens; this is public-meeting testimony
 already present in the tracked corpus, so it is not a new exposure, but the GitHub
 repository should be confirmed private first.
@@ -183,6 +186,44 @@ multi-hour job is safe unattended.
 **Do not launch long GPU work without asking.** Four runs went out on the night of
 2026-09-03 and the fourth was stopped. That is information about the machine's
 availability.
+
+**Long runs started with the Bash or PowerShell tool's `run_in_background` get killed.**
+This has now happened twice, both times to phi-4, both times with the machine provably
+healthy:
+
+| | 2026-09-03 | 2026-09-07 |
+|---|---|---|
+| Killed at | 02:30:53 | about 21:52:20 |
+| Elapsed when killed | about 47 min | about 37 min |
+| Reported as | harness `<status>killed</status>` | harness `<status>killed</status>` |
+
+Checked both times and clean both times: uptime unbroken, no reboot, no
+resource-exhaustion event (System 2004), no GPU watchdog reset (nvlddmkm 153) at the stop
+time, no crash dump, no application error, RAM and disk with plenty of headroom. The two
+elapsed times differ, so it is not a fixed timeout. Both kills landed while the session
+was idle waiting for the user.
+
+**Launch anything longer than about half an hour detached instead**, so it is not the
+harness's child and cannot be killed with it:
+
+```powershell
+$root = "D:\Users\jad507\PycharmProjects\hands_on_dl"
+Start-Process -FilePath "powershell.exe" `
+  -ArgumentList "-NoProfile","-ExecutionPolicy","Bypass","-File", `
+                ".\run_chunk_experiment.ps1","-Model","phi-4","-Conditions","B,C,D" `
+  -WorkingDirectory $root `
+  -RedirectStandardOutput "$root\logs\phi4.out.log" `
+  -RedirectStandardError  "$root\logs\phi4.err.log" `
+  -WindowStyle Hidden -PassThru
+```
+
+Keep the returned PID. Watch the log with `tail -f` and poll the PID separately, because a
+detached process dying produces no notification of its own.
+
+The runs are resumable, so a kill costs one meeting, not a condition. Check what actually
+landed before restarting anything: count the files under
+`downloads/chunk_experiment/runs/<condition>/<model>/phase1_public_comments/` and confirm
+they parse, rather than trusting the last line of a log.
 
 **TikTok is blocked on this machine by policy.** Never request a TikTok URL. The
 already-known-URL reader in `find_stress_videos.py` skips those files outright and there
