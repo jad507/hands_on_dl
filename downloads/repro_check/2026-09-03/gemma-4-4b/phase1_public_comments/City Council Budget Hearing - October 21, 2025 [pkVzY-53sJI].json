@@ -1,0 +1,432 @@
+{
+  "title": "City Council Budget Hearing - October 21, 2025",
+  "video_id": "pkVzY-53sJI",
+  "upload_date": "20251022",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-03T21:08:28+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 83,
+      "speaker": "SPEAKER_00",
+      "start": 1987.81,
+      "end": 2005.63,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the budget presentation.",
+      "text": "thank you mr vice president and thank you director campbell for the presentation My only question is, with some of the additional staffing and the expenses increasing by roughly 10%, do we think that this will be at a level plateaued for the next couple years,"
+    },
+    {
+      "block_id": 85,
+      "speaker": "SPEAKER_00",
+      "start": 2021.73,
+      "end": 2045.99,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding frustrations with the permitting process.",
+      "text": "Thank you, and that was my only question Thank You councillor men comes president. Thank you. Dr. Campbell. Thank you for being here and presenting for us tonight my questions around Permitting and consolidating and permitting. It's this comes up a lot when people talk to us about Frustrations with permitting process. So I'm really happy to hear that we have a plan to hopefully address that and I think that"
+    },
+    {
+      "block_id": 86,
+      "speaker": "UNKNOWN",
+      "start": 2045.99,
+      "end": 2057.97,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking for more details about the benefits of consolidating permitting departments.",
+      "text": "instead of having many disparate apart departments sort of oversee that bringing it together sounds like a good idea can you talk a little bit about some of like the benefit that we're hoping to"
+    },
+    {
+      "block_id": 103,
+      "speaker": "SPEAKER_00",
+      "start": 2307.77,
+      "end": 2314.27,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions regarding the goals of additional hires in HR and data and technology.",
+      "text": "you um i had two questions uh the first is just around the general goals of the additional hires"
+    },
+    {
+      "block_id": 104,
+      "speaker": "UNKNOWN",
+      "start": 2314.27,
+      "end": 2344.17,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking specific questions about the goals of proposed hires in HR, IT, and Treasury.",
+      "text": "particularly in hr and data and technology um can you just speak specifically i know a consultant recommended two additional hires in hr just wondering what the specific goals of those hires and same with it and the position that was added to treasury as well that would be my first question um we didn't actually add a position to it so i'll just i'll just start with that it's just moving that position from it was it's already here it was just moving it from different"
+    },
+    {
+      "block_id": 117,
+      "speaker": "SPEAKER_00",
+      "start": 2598.32,
+      "end": 2623.68,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns and asking questions regarding city finances and revenue.",
+      "text": "still tbd we we this is something that that um there's been a lot of machinations about and it's probably going to continue okay thank you uh yes and appreciate the the brain trust coming together to try to solve try to solve this challenge so um and then the last question that i have is regarding uh revenues uh so with fund development and administration i know part"
+    },
+    {
+      "block_id": 124,
+      "speaker": "UNKNOWN",
+      "start": 2686.16,
+      "end": 2757.9,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and offering comments during the public comment period.",
+      "text": "over the next couple of years great thank you um any questions or comments from the public come on up good evening mr stu drier go ahead um a couple of comments and then a couple of questions um preface by saying um recognize that budgeting is a months-long process and listening to a 10-minute presentation and jotting a few notes is not the same as pouring over the stuff for months so with that caveat um number one um congratulations for actually drawing you know spending less on treasury three percent less that's fantastic and um you know keep up the good work and look for doing that in other"
+    },
+    {
+      "block_id": 125,
+      "speaker": "SPEAKER_00",
+      "start": 2757.9,
+      "end": 2800.14,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns and questions regarding budget positions and regulations.",
+      "text": "areas um i share um councilman hirsch's you know just concerns slash questions about number of positions on the one hand absolutely sounds like they're justified on the other hand positions always cost money and once positions get established can be very hard to claw them back number three with regards to the permitting and the regulations um yeah i i'm again share council's questions about that if i'm going to cped to do like a"
+    },
+    {
+      "block_id": 127,
+      "speaker": "SPEAKER_00",
+      "start": 2803.9,
+      "end": 2858.94,
+      "speaker_name": "unknown",
+      "reason": "The speaker is questioning the efficiency and cost implications of the proposed changes.",
+      "text": "to department of public works and then have to go to see my permit get my permit it's certainly not clear to me how that would make things more efficient or streamlined so that would be my main question and um again uh if we're making things more streamlined ultimately they should reduce expenses and personnel and it sounds like we're increasing expenses and personnel so i'm not sure how that all adds up um would also suggest and i'm going to put on my strong hounds strong towns lancaster hat for a second here uh one way to streamline permittings by actually reducing and and eliminating regulations strong towns has what they call the six policies for a housing ready city one of them is streamline the approval process cities can implement 24 hours approvals for straightforward projects like duplex conversions backyard cottages and starters homes making"
+    },
+    {
+      "block_id": 131,
+      "speaker": "SPEAKER_00",
+      "start": 2876.97,
+      "end": 2896.22,
+      "speaker_name": "unknown",
+      "reason": "The speaker is posing a question regarding the impact of reducing billing cycles on city residents.",
+      "text": "question then is twofold number one reducing billing cycles from 17 to 4 is that something that city residents would be seeing would that change what they're experiencing terms of their billing it initially may change because the billing"
+    },
+    {
+      "block_id": 183,
+      "speaker": "SPEAKER_00",
+      "start": 3967.76,
+      "end": 3997.8,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns and opinions regarding the city's permit function and building codes.",
+      "text": "uh the permit function and building codes in particular i i think one answer is honestly uh the the amount of demand and and frankly complaints that we get about uh this as a city service is significant and i i really do think we need to focus on doing better here and doing better means that we're improving the quality of the plan review and the inspections and and and the speed and the accuracy of the permit issuance."
+    },
+    {
+      "block_id": 209,
+      "speaker": "SPEAKER_00",
+      "start": 4658.52,
+      "end": 4683.84,
+      "speaker_name": "unknown",
+      "reason": "The speaker is questioning budget allocations and expenses during what appears to be a public hearing.",
+      "text": "four percent of that is annual cost of living increases but you know in streamlining the Department of Planning or the Bureau of Planning some of those things are these going to just be one-time expenses other than the additional positions yes thank you for for clarifying I had taken down some"
+    },
+    {
+      "block_id": 215,
+      "speaker": "SPEAKER_00",
+      "start": 4786.0,
+      "end": 4812.1,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking clarifying questions about a proposed position change during the public comment period.",
+      "text": "Thank you. And just lastly, I think the economic development manager would be great And I look forward to seeing that in the upcoming years and that concludes my questions. Thank you. Thank you very much My question is really just to clarify. I want to make sure I have it, right? So the position change in the director's office is that the proposed economic development manager position is that okay? I wanted to make sure that I had that correct and then"
+    },
+    {
+      "block_id": 227,
+      "speaker": "SPEAKER_00",
+      "start": 5005.08,
+      "end": 5054.36,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the review of zoning in Saldo.",
+      "text": "perfect thank you counselor thank you um just one question uh i think you might have alluded to this in uh an answer that you gave counselor med um but who is conducting the review of the zoning in saldo and because i know we had talked about it being a consultant i think at one point is that still the case and what would the progress be on that um as it stands now yeah thank you counselor um that project falls within the planning bureau under our bureau chief betsy logan we did issue an RFP and got a response to that RFP so we have just started"
+    },
+    {
+      "block_id": 229,
+      "speaker": "SPEAKER_00",
+      "start": 5068.92,
+      "end": 5092.22,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions regarding the outcome and next steps for the Healthy Lives Healthy Lancaster initiatives.",
+      "text": "of the other zoning stuff we are dealing with right now but we it is a top priority for us thank you thank you councillor hirsch um director delves just a couple questions um regarding the healthy lives healthy lancaster initiatives i know we completed the assessment what's kind of been the outcome of that and what are next steps for that after that assessment"
+    },
+    {
+      "block_id": 234,
+      "speaker": "UNKNOWN",
+      "start": 5181.84,
+      "end": 5188.88,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the importance of wellness and recreational programming for various age groups.",
+      "text": "wellness and recreational programming for youth and families and older adults to foster that"
+    },
+    {
+      "block_id": 237,
+      "speaker": "SPEAKER_00",
+      "start": 5209.53,
+      "end": 5253.96,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies themselves as a resident and asks a question regarding the critical repairs program.",
+      "text": "funding sources and set up the program to do that but I think that is like an exciting area of potential in the future okay thank you questions or comments from the public good evening is this on uh marshall miller 100th block of east fine street uh director delph thank you for the information tonight this is really great to hear um quick question for you circling back to the critical repairs program i was wondering if you could speak to the benefits of having that sustainable funding that you mentioned for the critical repairs program and what you would consider to be a minimum threshold for an annual allocation that would"
+    },
+    {
+      "block_id": 243,
+      "speaker": "SPEAKER_00",
+      "start": 5334.7,
+      "end": 5371.41,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about the lack of visibility and transparency in the permitting process.",
+      "text": "and knock out those projects. Great. Thank you. That's really helpful. And then I wanted to follow up on the Bureau Chief of Permitting and kind of centralizing these processes. A complaint that I've heard repeatedly from folks who are trying to build in the city or just deal with permitting generally is the lack of visibility and transparency into the process would this bureau implement technologies that would perhaps create public-facing dashboards digital tools that would make the whole process a little bit more easy and less opaque for folks who are trying to get things"
+    },
+    {
+      "block_id": 247,
+      "speaker": "SPEAKER_00",
+      "start": 5412.51,
+      "end": 5449.14,
+      "speaker_name": "Tim Stuhlder",
+      "reason": "The speaker is addressing the council regarding the permit coordinator role and the need for an office structure.",
+      "text": "a consultant i give uh credit we we've hired one permit coordinator kelly already and she's been serving that role and in some ways it's just she she can't get to everything and she's also not within a management structure yet and that's the purpose of the office i agree with you it is exciting and i thank you for your answers thanks thank you uh tim stuhlder 800 block of george street uh as before a couple of comments and then a question uh yeah as far as comments i would um"
+    },
+    {
+      "block_id": 248,
+      "speaker": "UNKNOWN",
+      "start": 5449.14,
+      "end": 5490.66,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns about permitting, streamlining, and improving building codes.",
+      "text": "second what marshall said i've also heard concerns about um permitting and streamlining that and making it more transparent would be fantastic um on along the same lines um improving the building codes function would also be really i think important and and welcome so adding an official that sounds like a good way to to do that on the systematic inspections um i would suggest cped might want to consider a couple of things first of all we have been doing lead safety remediation there are several hundred homes that have been successfully remediated as we've heard"
+    },
+    {
+      "block_id": 254,
+      "speaker": "UNKNOWN",
+      "start": 5543.14,
+      "end": 5547.92,
+      "speaker_name": "unknown",
+      "reason": "The speaker is urging the council not to approve the creation of an economic program.",
+      "text": "respectfully I would urge council not to approve the creation of an economic"
+    },
+    {
+      "block_id": 255,
+      "speaker": "SPEAKER_00",
+      "start": 5547.92,
+      "end": 5578.12,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering opinions and suggestions regarding city staffing and economic development.",
+      "text": "development manager position as mr. Delv saluted we have multiple nonprofits in the city including Lancaster City Alliance EDC I believe there is a proposal to add a city chief of staff part of the city's chief of staff position that person could be a liaison with those nonprofits really personally don't see what a full-time person would would add to that function would also mention the Democratic candidate for mayor has some economic development"
+    },
+    {
+      "block_id": 258,
+      "speaker": "UNKNOWN",
+      "start": 5610.71,
+      "end": 5618.47,
+      "speaker_name": "unknown",
+      "reason": "The speaker is questioning an extra expense in the budget.",
+      "text": "is 5.4 million um what was that extra expense due to and how was it offset and was any of that"
+    },
+    {
+      "block_id": 265,
+      "speaker": "SPEAKER_00",
+      "start": 5791.06,
+      "end": 5848.2,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses concerns regarding the zoning code update and its implications for economic development.",
+      "text": "portion of the overall cost and the rest would be covered by cdbg right that's that's the intent okay i just was stating that because my one of my concerns you know as a member of the planning commission we're two years out from the comprehensive plan approval haven't made much progress on the zoning code update i know that we had applied for a grant last year i think from dcd and didn't get it and i was just concerned that if we don't have enough funds in the budget like we just really have to get this done next year so that was my concern i agree with you we also do have some money in the director's office for professional services which i usually use to supplement other projects in in the other bureaus so we have a little bit of flexibility there too okay so you're confident that we have the money to do this next year we will find a way to do it next year great um and then also following up on tim's question about the economic development uh director or manager could you just say a little bit more specific about what you see that role"
+    },
+    {
+      "block_id": 271,
+      "speaker": "SPEAKER_00",
+      "start": 5973.22,
+      "end": 6008.42,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering feedback regarding small business support and city resources.",
+      "text": "one of the consistent feedback that i've received that the city is can do a lot more to lean into small business support and navigating the amount of resources that exist within our community and also navigating some of the departments within city hall from a small business perspective so really appreciate you uh looking into this position for for future use um also just a comment around the lead abatement and completing that grant the number of homes that uh were serviced through that grant that that's a huge deal and i just want to commend you and your team to getting"
+    },
+    {
+      "block_id": 277,
+      "speaker": "SPEAKER_00",
+      "start": 6074.09,
+      "end": 6087.53,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing opinions on areas where a position could focus, such as business assistance and economic mobility.",
+      "text": "important but it may not be as focused on some of these issues like business assistance economic mobility workforce development and those are all areas that i see this position could focus on yeah"
+    },
+    {
+      "block_id": 279,
+      "speaker": "SPEAKER_00",
+      "start": 6092.65,
+      "end": 6102.89,
+      "speaker_name": "unknown",
+      "reason": "The speaker is suggesting the city conduct an analysis of needed businesses in the community.",
+      "text": "something i'd like to see our city do more of is really do an analysis of what types of business are needed in our community as well which i could see this position kind of filling that gap um you"
+    },
+    {
+      "block_id": 379,
+      "speaker": "SPEAKER_00",
+      "start": 8208.73,
+      "end": 8230.02,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering commendation and thanks regarding city work.",
+      "text": "and all the fantastic work all the things that you listed the accreditation the incredible success with recruiting you've clearly done excellent work you and your team So I just wanted to commend you and and thank you for your service to the city. All right. Thank you Councillor Craig"
+    },
+    {
+      "block_id": 383,
+      "speaker": "SPEAKER_00",
+      "start": 8273.44,
+      "end": 8302.94,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking specific questions about the budget line items regarding on-call captains.",
+      "text": "young to retire I have two two questions kind of in the weeds maybe a little bit but um so you're probably thankful that this is your last budget that you need to do um there i noticed a line for on-call um captains um can you talk a little bit about what that means and it says that there's a note that says it was added to track it how have we done this before and what"
+    },
+    {
+      "block_id": 391,
+      "speaker": "SPEAKER_00",
+      "start": 8408.72,
+      "end": 8440.3,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions regarding the professional standards office during the hearing.",
+      "text": "minor calls like parking issues noise complaints things of those natures okay so currently because that has been understaffed we're pulling officers off to do some of that work a lot of that work all of that work yes okay got it thank you very much thank you council president councilman uh thank you council royal and thank you both for the presentation um i had two questions first around the professional standards office are we going to be adding any additional staff i know"
+    },
+    {
+      "block_id": 393,
+      "speaker": "SPEAKER_00",
+      "start": 8446.38,
+      "end": 8458.3,
+      "speaker_name": "unknown",
+      "reason": "The speaker is questioning staffing levels and resource allocation for a department.",
+      "text": "is that still going to kind of be like a one-man office or are we planning to add additional resources we need an additional person there typically there was another sergeant there our"
+    },
+    {
+      "block_id": 397,
+      "speaker": "SPEAKER_00",
+      "start": 8494.93,
+      "end": 8535.62,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern and asking how the community can advocate for increased state contributions to pensions and police budgets.",
+      "text": "the community do to kind of advocate for a higher state contribution towards pensions to kind of give a little bit of relief to municipalities across the state given that it's kind of a flat you know contribution from the state you know what are ways that we could kind of advocate for more money for police bureaus and for pensions from the state probably a director campbell question i'm not really sure what we what more we can do um yeah i i i can try and get you an answer to that i don't have it right now though thank you i don't want to put her on the spot but"
+    },
+    {
+      "block_id": 399,
+      "speaker": "SPEAKER_00",
+      "start": 8556.88,
+      "end": 8572.12,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about rising costs and suggesting state assistance for police and retired officers.",
+      "text": "know upcoming retirements and you know fringe benefits you know going up year over year I just think you know it would behoove all of us to kind of try to get the state to you know give more to police bureaus and retired officers and"
+    },
+    {
+      "block_id": 402,
+      "speaker": "UNKNOWN",
+      "start": 8591.49,
+      "end": 8657.24,
+      "speaker_name": "unknown",
+      "reason": "The speaker is questioning budget line items and program goals, indicating a community concern.",
+      "text": "couple were added pay was bummed and I if I remember it but I don't know if it was a new position or not but an admin assistant can talk about kind of what the goals are around increasing that program increasing the pay and also trying to I imagine recruiting is difficult and I'm sure that's part of it but am I correct in saying that the admin assistant in that line was added and if so what would their function be so we didn't add a admin assistant yeah we had one retire who was off long term and then we're gonna we fill that position yeah as far as school crossing guards chiefs looking at me because this has been an ongoing source of consternation and I want to give credit"
+    },
+    {
+      "block_id": 408,
+      "speaker": "UNKNOWN",
+      "start": 8717.13,
+      "end": 8729.77,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concern regarding safe routes to schools and crossing guards.",
+      "text": "zero efforts and our safe routes to schools so we know that those positions are are very critical in the city and we appreciate all the crossing guards that we have because uh is a really really"
+    },
+    {
+      "block_id": 412,
+      "speaker": "UNKNOWN",
+      "start": 8762.49,
+      "end": 8779.61,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses hope regarding the filling of positions and addresses a specific individual.",
+      "text": "it's unfortunate it's a bad reflection on our drivers particularly in our community and i would just say i do really hope that i told sergeant summerall that i hope that he proves me wrong and fills every one of those positions i would love to see that as well thank you"
+    },
+    {
+      "block_id": 417,
+      "speaker": "SPEAKER_00",
+      "start": 8894.56,
+      "end": 8902.72,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing support for the park ranger role in the community.",
+      "text": "the community particularly around colleton park like i thought uh the invictus partnership was great i think that that park ranger role is is critically needed so i would love for uh the"
+    },
+    {
+      "block_id": 421,
+      "speaker": "SPEAKER_00",
+      "start": 8963.3,
+      "end": 8987.63,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about the proposed budget increases and reserve drawdown.",
+      "text": "inflation last year we had a 5.5 percent general fund increase we're trying to to not raise the EIT over another 10 years. The current budget is proposing a 6.5% general fund increase and a reserve drawdown of $859,000 and change. I just don't think that's the right recipe for 2026."
+    },
+    {
+      "block_id": 426,
+      "speaker": "UNKNOWN",
+      "start": 9009.99,
+      "end": 9027.75,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions regarding the budgeted staffing levels for the city.",
+      "text": "I wanted to ask about the staffing. It sounds like the budgeted staffing is 114 positions in 2025, 128 positions in 2026. But if I heard you correctly, we actually only currently"
+    },
+    {
+      "block_id": 438,
+      "speaker": "UNKNOWN",
+      "start": 9215.66,
+      "end": 9255.28,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns and asking questions regarding budget allocations and police staffing.",
+      "text": "100 and i guess ultimately 128 versus 114. what what does that mean again in terms of enhanced safety quicker response to crime and so forth because i think if i mean that's the trade-off ultimately the city council has to weigh i guess another question would be how much does an individual officer cost per year in salary benefits and what city council i think has to away is the incremental effect of one additional officer on the street and the public safety enhancement that provides versus the budget that we're seeing here I can I just say I mean that's"
+    },
+    {
+      "block_id": 441,
+      "speaker": "SPEAKER_00",
+      "start": 9290.88,
+      "end": 9342.24,
+      "speaker_name": "unknown",
+      "reason": "The speaker is commenting on budget savings and safety improvements in the city.",
+      "text": "pretty significant that we've gone from a 145 to 128 that is an enormous amount of savings to budget over time and we're that we're not staffing at a level that's not appropriate to the call volume of our city and it speaks to the gains that we've made in safety our homicide rates are down et cetera et cetera i gotta stop talking because i jinx it but you see where i'm going tim and so i would say that that staffing study does answer your questions about what the relative need is for policing and the reduction from 145 to 128 speaks to the efforts that we've made to address what is the value and what should that number be in terms of maintaining public"
+    },
+    {
+      "block_id": 445,
+      "speaker": "SPEAKER_00",
+      "start": 9396.56,
+      "end": 9429.2,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding enforcement priorities based on staffing levels.",
+      "text": "block of east fine street i thank you for the presentation tonight and for your service you guys have a tough job and i think you do it well um quick question just around enforcement priorities if you're up to the full 128 officers does that give you a little bit of a like a flexibility where the officers maybe have more time and ability to focus on enforcement priorities that are non-emergency when they're on shift and if so can we prioritize things like traffic related violations or small electric vehicles on sidewalks this is a danger concern that i've heard repeatedly"
+    },
+    {
+      "block_id": 447,
+      "speaker": "SPEAKER_00",
+      "start": 9460.64,
+      "end": 9487.97,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions regarding the city's goals for recruitment and personnel.",
+      "text": "stuff more than just enforcement which will have a positive effect positive effect on the city that's great and actually bleeds into my second question which one of your two goals was to continue your engagement and recruitment improvements that you've been working on and I'm wondering how high of a priority is recruiting both civilian and officer personnel from within the city limits so it's always a"
+    }
+  ]
+}

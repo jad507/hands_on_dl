@@ -40,6 +40,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(REPO_ROOT))
 from pipeline_utils import fmt_elapsed, now_str  # noqa: E402
+import whisper_io  # noqa: E402
 AUDIO_DIR = REPO_ROOT / "downloads" / "audio"
 WHISPER_DIR = REPO_ROOT / "downloads" / "whisper_large-v3"
 RTTM_DIRS = {
@@ -118,7 +119,9 @@ def align_file(stem: str, rttm_mode: str, force: bool = False) -> bool:
         print(f"  [{rttm_mode}] Already done, skipping.")
         return False
 
-    whisper_segments = json.loads(whisper_path.read_text(encoding="utf-8"))
+    # Via whisper_io so that both the legacy bare-list transcripts and the
+    # newer provenance-carrying ones load. See whisper_io for why both exist.
+    whisper_segments = whisper_io.load_segments(whisper_path)
     rttm_entries = load_rttm(rttm_path)
 
     # Assign speakers

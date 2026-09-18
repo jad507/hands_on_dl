@@ -1,0 +1,252 @@
+{
+  "title": "City Council Budget Hearing - November 18, 2025",
+  "video_id": "W6aSdOttjPk",
+  "upload_date": "20251119",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-03T21:08:28+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_00",
+      "start": 1695.52,
+      "end": 1725.6,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking clarifying questions about the budget projections presented to the council.",
+      "text": "campbell thank you very much and the memo that you provided to council laying this out ahead of time was extremely helpful i wanted to go back to that second projection slide and just to be clear about what is projected on there and what isn't projected on there so you mentioned um it assumes no owner's equity transfer from the water fund over time you mentioned it assumes no adjustment to tax rate does it include the forecasted growth of earned"
+    },
+    {
+      "block_id": 58,
+      "speaker": "SPEAKER_00",
+      "start": 1732.58,
+      "end": 1786.17,
+      "speaker_name": "unknown",
+      "reason": "The speaker is posing a question and expressing concerns regarding the city budget projections.",
+      "text": "thank you council president counselor med uh thank you mr vice president thank you uh director Campbell. My question is given that there was a structural deficit in the general fund even after home rule I appreciate the projections. I do have some concerns about like the sustainability of the elimination of the transfers from the water fund to the general fund. Would you be able to talk about that a little bit? I understand there's going to be a task force but I mean what is this to do to future projections down the line yeah so this is the what what is showing on the screen is projecting it without any transfer so this is sort of what the the future would be without any transfer i don't i i wouldn't say that that it's the city's administration that the city administration's recommendation that we continue that i think it's simply something that needs to"
+    },
+    {
+      "block_id": 64,
+      "speaker": "SPEAKER_00",
+      "start": 2009.87,
+      "end": 2027.32,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the areas of focus for cost savings mentioned in a presentation.",
+      "text": "question is around the areas of focus for cost savings that you mentioned so deployment health care focusing on cutting costs their debt elimination and the deployment of you know technologies that might save us cost over the long"
+    },
+    {
+      "block_id": 65,
+      "speaker": "UNKNOWN",
+      "start": 2027.32,
+      "end": 2039.5,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking for clarification on the projected year-over-year and long-term meaning of the mentioned savings.",
+      "text": "term my question is just is there any sense of what those savings are going to mean year over year and then in the long run of this projection that we're"
+    },
+    {
+      "block_id": 75,
+      "speaker": "UNKNOWN",
+      "start": 2203.44,
+      "end": 2225.5,
+      "speaker_name": "unknown",
+      "reason": "The speaker is questioning the projected cost savings figures.",
+      "text": "cost savings going to be you know ten million dollars over the next ten years is it gonna be 20 is it gonna be 30 I don't know I'm not sure that I could say it would be 30 million over the next 10 years be quite impressive but the reason"
+    },
+    {
+      "block_id": 90,
+      "speaker": "SPEAKER_00",
+      "start": 2807.1,
+      "end": 2868.28,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions regarding budget assumptions and fund transfers.",
+      "text": "lot of assumptions it is still a 28.5 million dollar flip in a 60 70 million dollar uh general fund budget in in 12 months um i guess my questions oh and what one more um i guess this is a question for confirmation i recall in previous years director hopkins saying that the reason we make these transfers from the water fund to the general fund is there's an equity component the water fund draws from rate payers outside the city it also draws from large non-taxable properties within the city and that this is a way of getting those folks to pay a little bit more of their fair share and hold city ratepayers a little bit more harmless so i'd ask confirm that that is the case and ask council to consider that as it thinks about these issues and i see my light blinking there so my two questions are"
+    },
+    {
+      "block_id": 102,
+      "speaker": "SPEAKER_00",
+      "start": 2992.24,
+      "end": 3040.28,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the water fund and budget concerns.",
+      "text": "really closely as well because that then also affects interest rates yeah I think part of this Tim is that yes we have known that the water fund is needed and if you talk to the other director Campbell and he like this has been a sore a source of much consternation this this four million dollar transfer which the four million dollars started with the 27 2018 budget it was the last budget prepared by under the gray administration beginning with my administration we've done revenue replacement for a couple of years we were trying to capitalize some trying to address this in 2023 and 2024 and I"
+    },
+    {
+      "block_id": 115,
+      "speaker": "UNKNOWN",
+      "start": 3287.92,
+      "end": 3297.76,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding the police budget from a previous hearing.",
+      "text": "Arch Street I'm thinking back to the last budget hearing and particularly looking or thinking about the police budget um and and i might be wrong about this so you may"
+    },
+    {
+      "block_id": 118,
+      "speaker": "SPEAKER_00",
+      "start": 3321.44,
+      "end": 3355.34,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a concern and asks a question regarding the proposed budget increase for the police department.",
+      "text": "is very helpful but i'm wondering why are we not considering uh you know kind of a phased approach to trying to get to that 128 number uh with the police department i i work very closely with the police department i'm in the citizen police academy right now i understand that they're understaffed and that our police department could do a lot more with that full staffing but that is a significant increase and then and those are costs you know when you hire staff and you hire police officers those are costs that are really hard to bring back down if we need to over the next couple years so I'm just curious why the administration"
+    },
+    {
+      "block_id": 168,
+      "speaker": "SPEAKER_00",
+      "start": 4350.89,
+      "end": 4362.97,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the need for resources and coordination for city events.",
+      "text": "a lot more resources and coordinations we might need supplies technology equipment the events remain the core part of our cities like activation drawing people downtown support"
+    },
+    {
+      "block_id": 201,
+      "speaker": "UNKNOWN",
+      "start": 4846.24,
+      "end": 4852.7,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing civic engagement programs and representation in the city.",
+      "text": "So whether we're engaging with our civic engagement programs, who is not at the table,"
+    },
+    {
+      "block_id": 204,
+      "speaker": "SPEAKER_00",
+      "start": 4865.98,
+      "end": 4914.06,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions regarding revenue generation from special events.",
+      "text": "lancaster residents thank you thank you so much director carasco no further questions thank you thank you any additional questions or comments from council councilor mitt uh thank you mr vice president thank you director carasco for the presentation um what are some ways that we can increase revenues from the special events um i really appreciated the grants the the slide about the grants and I just had a question about when we're having these events like how are some ways that we could also increase revenues from each of them oh my gosh there's so many I'm trying to get to that side I would say the I'm not sure where that side is I would say that just a couple of things is you know previously we didn't charge for vendors and so the opportunity just to even"
+    },
+    {
+      "block_id": 207,
+      "speaker": "UNKNOWN",
+      "start": 4927.0,
+      "end": 4931.7,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a suggestion regarding vendor types at an event.",
+      "text": "more different types of vendors that are selling not only food but can we have"
+    },
+    {
+      "block_id": 212,
+      "speaker": "SPEAKER_00",
+      "start": 4961.34,
+      "end": 5070.32,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering suggestions to increase revenues and is concluding their comments to the council.",
+      "text": "there's a couple of things that we can tweak that will continue to build but the easiest thing is getting more vendors there and we have the space for that and so that's really like the easiest thing like how can we invite more people and to increase those revenues thank you and that concludes my questions any additional questions or comments from counsel from the public great thank you director Carrasco thank you so much and with that we'll move to the office of the mayor the budget before you for the office of mayor and I'm just gonna talk through this I didn't have any slides contemplates as we've discussed the rehiring of the chief of staff position it also which is the largest increase in the budget there are also increases proposed related to conferences for the incoming administration as well as travel an increase in the travel line so the the total projected budget for the mayor's office is four hundred and twenty four thousand one hundred and forty six thousand dollars with an increase of nine percent having to take any questions it's a whopping mmm eleven lines in the budget easiest presentation so far thank you sir any questions or comments from council councillor council president thank you could you talk a little bit about the"
+    },
+    {
+      "block_id": 222,
+      "speaker": "SPEAKER_00",
+      "start": 5405.7,
+      "end": 5448.02,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses concerns as a city taxpayer regarding the budget deliberation and reserve usage.",
+      "text": "My concern is whether you are having a chance to deliberate, talk amongst yourselves, and offer well-considered proposals to the administration for possible incorporation candidly as a city taxpayer i'm also hoping that you can end up passing a budget that does not draw on the reserves that seemed a lot more doable prior to this evening i would still like to see that as a goal as i said i think in the previous hearing this is about as good a years we're gonna have the economy's humming low unemployment etc a lot of headwinds coming down the pike so you know again"
+    },
+    {
+      "block_id": 226,
+      "speaker": "SPEAKER_00",
+      "start": 5488.66,
+      "end": 5624.92,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions about the updated budget and requesting public information regarding changes.",
+      "text": "um when will an updated budget be posted and is there a chance that we could also have a brief explanation of the changes maybe not a full red line but just something the public can see i believe it is posted um and i i um this is a good moment to say that you know we the administration the council has weighed in and had wanted to see reductions in the general fund utilization and so what we presented tonight was actually a four point six million dollar shifts so that was one point if we go back to that original is like 1.3 million dollar reduction in general fund expenses with an additional 1.5 million dollar reduction in debt out of the general fund with utilization of permit fees to offset general fund and a slightly larger use of reserves now council can decide that we're not going to eliminate the entirety of that 3.6 million dollars and we're going to carry a little bit more deficit in the water fund council could also decide that we should be thinking not just about transfers from the water fund but also looking at the sewer fund which is actually healthier than the water fund there's there are a lot of different possibilities moving forward this was in response the changes were in response to council that you know we needed to back off on the general fund on utilizing reserves and so I think we did that in a significant while also addressing the transfer from the water fund just to address the specific question I do believe it is online the with the changes and we will also have these presentations online tomorrow I just I wanted to make a similar point that mayor srachi just as a member of council that because we started this process earlier generally we have a budget address and then followed almost immediately"
+    },
+    {
+      "block_id": 228,
+      "speaker": "SPEAKER_00",
+      "start": 5629.56,
+      "end": 5646.71,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering concerns and suggestions regarding the budget hearing.",
+      "text": "hearings happen before that official first read while we can't deliberate not in public we could go to the administration with our concerns suggestions questions and i agree that this is a reflection of those things that have happened so for what it's worth yeah and"
+    },
+    {
+      "block_id": 236,
+      "speaker": "SPEAKER_00",
+      "start": 7405.94,
+      "end": 7464.0,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding water consumption trends during the public comment period.",
+      "text": "for also running a tight ship i know it's uh very impressive on what you're able to do um here in the city with so many moving pieces uh just one question regarding the drop in water consumption um my understanding is that we're looking at trends uh and i'm not sure if that work has been completed or not but uh do we continue to foresee in the future that we will see a drop in water consumption over the years and is that cause for concern it is a very good question um i believe that we will continue to see a modest but decrease but not at the level that we've seen recently a huge part of the decrease that we've seen recently was related to the to the drought and the fact that many in our community were very compliant and very conscious conscious and conscientious in dealing with water conservation measures i don't know chris if there's anything else you wanted to be able to add to something like that"
+    },
+    {
+      "block_id": 248,
+      "speaker": "UNKNOWN",
+      "start": 7870.18,
+      "end": 7917.17,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the expansion of solar facilities and potential cost savings.",
+      "text": "thank you that's helpful and then my other question kind of relates to an earlier question I had about like cost savings and I know we're very much at the outset of this so I understand if there's not many much in the way of answers right now I am curious though about the expansion of solar facilities for city property and just how that works as far as seeing either cost savings or are there going to be like I guess some kind of energy credit that comes back to the city how does that result or how would that result in cost savings for the city in the long run if you have some time councillor Hirsch I"
+    },
+    {
+      "block_id": 251,
+      "speaker": "SPEAKER_00",
+      "start": 7942.51,
+      "end": 8092.57,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and expressing a concern/question regarding the water fund equity transfer.",
+      "text": "councilman Thank You mr. vice president Thank You director Campbell this presentation was very helpful and I know this question was probably exhausted many times but if we were to bring the water fund equity transfer to two million like it was in 2023 and 2024 what implications would that have on the water fund on the water fund alone it would allow us most likely to be in a healthier situation but i can't say that we'd be in the same surplus situation that we had episodically for those two years the costs have gone up significantly when when when uh when director campbell mentioned that we're still going into 2026 with a 2 million dollar deficit in water 750 000 of that is the electrical increase for the new contract that's that's something that would not have been anticipated um at that extraordinary level so there's no guarantee of what it would have been but it would have been a healthier cash flow and a healthier financial position for us to continue to move forward in i do believe that the way we're we're framing it which is to not have that transfer this coming year and take this time through a working group etc to look at the opportunities the options and the ways that the the water transfer as well as other cost implications might be affected will be very very useful we have information from pfm that was cited in in tina's presentation they're the the financial accounting municipal accounting organization that had done some of the preliminary study work for us a couple of years ago they would be able to to give us more input and there's a lot of information about how many of these utilities are morphing in how they manage themselves financially thank you because I mean I do want to state that I do have some anxieties about eliminating the transfers in the in the long run given you know it would it would significantly change the projections that we've seen previously so I just you"
+    },
+    {
+      "block_id": 257,
+      "speaker": "SPEAKER_00",
+      "start": 8204.25,
+      "end": 8234.78,
+      "speaker_name": "unknown",
+      "reason": "The speaker is reiterating a point and asking a question regarding the debt during what appears to be the public comment period.",
+      "text": "transfers are happening I would say just to reiterate what director Tina Campbell mentioned council should consider this as an annual one-time thing for this moment to be able to get to this next piece of work does that help counselor yes I know I'm kind of kicking it forward but it's it's there's a lot to unpack there thank you then just my final question is in regards to the debt"
+    },
+    {
+      "block_id": 264,
+      "speaker": "UNKNOWN",
+      "start": 8419.48,
+      "end": 8425.35,
+      "speaker_name": "unknown",
+      "reason": "The speaker is commenting on budgetary matters.",
+      "text": "things happen that aren't budgeted thank you and that's why it's important for us"
+    },
+    {
+      "block_id": 270,
+      "speaker": "UNKNOWN",
+      "start": 8587.11,
+      "end": 8590.27,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing taxpayers regarding different classes of entities.",
+      "text": "TAXPAYERS, THOSE ARE DIFFERENT CLASSES."
+    }
+  ]
+}

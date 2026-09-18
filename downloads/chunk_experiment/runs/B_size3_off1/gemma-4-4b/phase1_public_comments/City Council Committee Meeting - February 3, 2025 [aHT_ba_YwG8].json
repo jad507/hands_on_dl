@@ -1,0 +1,175 @@
+{
+  "title": "City Council Committee Meeting - February 3, 2025",
+  "video_id": "aHT_ba_YwG8",
+  "upload_date": "20250204",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-04T01:51:08+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    },
+    "chunking": {
+      "p1_chunk_size": 3,
+      "p1_chunk_offset": 1
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_05",
+      "start": 1246.92,
+      "end": 1252.68,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question about a truck during what appears to be a public comment period.",
+      "text": "Thank you, Vice. I'd like to know a little bit more about the truck."
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_12",
+      "start": 1344.78,
+      "end": 1373.04,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions about project timelines and funding distribution during the public comment period.",
+      "text": "because of it thank you for presentation director Campbell I'm sure we'll get more to this in the March meeting in the first and second reading but can you just talk a little bit about the timeline of some of these projects and compared to the distribution of some of the funds through the disbursement of some of the funds as it relates to the projects yeah I will I will say something very briefly and then"
+    },
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_12",
+      "start": 1616.15,
+      "end": 1632.33,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a follow-up question regarding the city's debt servicing ability based on the presented plans.",
+      "text": "That helps a lot. And just my follow-up question is, given that these are some of the first three-year plans, are we confident in our ability to service the whole debt, given the need for additional bonds after the planning or design phase?"
+    },
+    {
+      "block_id": 29,
+      "speaker": "SPEAKER_07",
+      "start": 1695.01,
+      "end": 1712.78,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about public access to information regarding upcoming items.",
+      "text": "regards to um the items will this be discussed to the public i mean how is this going to be available for the public to ask questions i mean you you're asking or you're going to say that it's going to be presented in march but i think that the community should know"
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_09",
+      "start": 1721.47,
+      "end": 1783.13,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the master parks plan implementation and Vision Zero.",
+      "text": "march but yeah i would also just say that the master parks plan implementation does include all of the engagement that we did that lays out um the plans for many of the parks that are on the list vision zero is similar as part of the act of transportation which has been approved by city council um and the vision zero and active transportation both both of those things and then as it relates to the other aspects the Welcome Center funding and other general maintenance facilities that is all part of our facilities condition assessment work that DPW has been doing as part of its long-term control plan so I would say on the major projects for the general fund the majority of them have been vetted um through the public and through this uh through council body as it relates to water and wastewater um are you asking about those counselor diaz or just the first"
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_09",
+      "start": 1824.64,
+      "end": 1871.45,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the benefit of the home rule charter regarding infrastructure investment awareness.",
+      "text": "community to speak into it as well. And I think that's also the benefit of the adoption of the home rule charter requiring the long term capital plan to be laid out for the public so that there is more broad awareness of the types of investments that are required in our water, wastewater and stormwater infrastructure to meet state and federal regulation. So that's going to be a much bigger conversation because it is breathtaking the amount of money that is necessary and to address our infrastructure needs and also the federal state requirements the other"
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_07",
+      "start": 1996.69,
+      "end": 2021.14,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding federal grant funding status.",
+      "text": "My last question, I'm sorry. I just thought of this just because I know that there's a large, there's a big question mark on what the federal government is going to be doing. Have you received anything or any notices of grants that may have been already either denied or that they are going forward with it?"
+    },
+    {
+      "block_id": 48,
+      "speaker": "SPEAKER_10",
+      "start": 2469.77,
+      "end": 2485.32,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions about the city's role in ongoing projects.",
+      "text": "Thank you, Constable Hirsch. Thank you, Dr. Campbell, for the presentation. What would be the role of the city in those projects? Will the city be involved in ongoing oversight of those projects?"
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_01",
+      "start": 2672.41,
+      "end": 2709.52,
+      "speaker_name": "unknown",
+      "reason": "The speaker is providing an overview of the CDBG program during what appears to be a presentation.",
+      "text": "and i will pass it over to jen thank you hopefully i didn't push the button all right uh thank you madam mayor and student castle i'm pleased to speak to you tonight about the community development block grant substantial amendment process hopefully my screen will continue to glow up there okay before we get into the details of the substantial amendment i wanted to give you a brief overview of the cdbg program the cdbg program which is administered by the department of housing and urban development provides annual grants to entitlement states cities"
+    },
+    {
+      "block_id": 58,
+      "speaker": "SPEAKER_08",
+      "start": 3386.96,
+      "end": 3414.85,
+      "speaker_name": "unknown",
+      "reason": "The speaker is thanking the city for prioritizing housing and affordable housing.",
+      "text": "just a comment I want to thank the city for continuing to prioritize housing and affordable housing and home repair and continuing to thank you guys for the"
+    },
+    {
+      "block_id": 61,
+      "speaker": "SPEAKER_12",
+      "start": 3499.05,
+      "end": 3519.27,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding the police social work program and its geographic limitations.",
+      "text": "thank you and then in regards to the police social work program of being geographically only for the or not being allowed in the downtown investment area if you just spend on that and just kind of if you just kind of re-explain uh the police social work aspect of it sure so cdbg"
+    },
+    {
+      "block_id": 64,
+      "speaker": "SPEAKER_02",
+      "start": 3591.11,
+      "end": 3612.06,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering a comment regarding the 2026 23rd plan and its relation to their organization's assets.",
+      "text": "around the 2026 23rd plan wonderful just a quick comment I'll say from voting on this item just because the organization that I work for assets is listed as an organization in the action plans same from voting thank you are there any"
+    },
+    {
+      "block_id": 69,
+      "speaker": "SPEAKER_07",
+      "start": 3712.07,
+      "end": 3729.35,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking specific questions regarding funding and repair projects.",
+      "text": "listed for the cbd job dollars to repair do you have a stock number how many we have funded with cdbg how many are going to be funded and the repairs being done is there a stock number a"
+    },
+    {
+      "block_id": 73,
+      "speaker": "SPEAKER_05",
+      "start": 3853.85,
+      "end": 3879.16,
+      "speaker_name": "unknown",
+      "reason": "The speaker appears to be addressing the council regarding a consolidated plan.",
+      "text": "far in the consolidated plan thank you thank you for having us and we look"
+    }
+  ]
+}

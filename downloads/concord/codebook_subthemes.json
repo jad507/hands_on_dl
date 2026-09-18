@@ -1,0 +1,566 @@
+{
+  "source": "data_center_comment_themes.md",
+  "generated_from": "data_center_comment_themes.md",
+  "note": "Sub-themes are inclusion criteria on their parent construct, not constructs, because nothing in the corpus was ever scored at sub-theme level. Re-run with --subthemes to change that deliberately.",
+  "constructs": [
+    {
+      "name": "is_public_comment",
+      "type": "binary",
+      "definition": "The unit is a member of the public addressing the governing body during a meeting, as opposed to a council member, city staff, a presenter, or procedural speech.",
+      "criteria": {
+        "include": [
+          "A resident or member of the public speaking during a public comment period or addressing the body directly.",
+          "Speech that introduces the speaker as a member of the public, or that addresses council rather than answering it."
+        ],
+        "exclude": [
+          "Council members, the mayor, city staff and the solicitor.",
+          "Roll call, motions, seconds, votes and other procedural speech.",
+          "Consultants and applicants presenting a project."
+        ]
+      },
+      "edgeCases": [
+        "A block that runs from a council member's question into a member of the public's answer is not cleanly either. Mark it and do not resolve it by picking the longer half -- unit boundaries are part of what this study measures.",
+        "Civically active residents recur across meetings and the diarization pipeline may label them 'recurring'. Recurrence does not make someone an official."
+      ],
+      "examples": [],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "municipally_managed_resources",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Comments that frame the data center project as a strain on Lancaster's municipally managed resources — electricity/electric infrastructure, water supply, waste management, and the city's budgetary capacity to handle increased usage.\n\nSynthesis: This theme frames AI infrastructure as a long-term burden on shared municipal utilities — not just price, but connected to broader well-being and fiscal responsibility.",
+      "criteria": {
+        "include": [
+          "Electricity supply, quality, and cost: Speakers express concern that the grid cannot absorb the added load, or that the cost of expanding and maintaining infrastructure will fall on residents.",
+          "Water supply, quality, and cost: Speakers raise concerns about water availability and quality, particularly in the context of already-documented contamination issues (Lancaster had elevated PFAS levels as of March 2024) and the large volumes of water data centers consume for cooling.",
+          "Electronic waste and end-of-life liability: Speakers warn about what happens when the hardware becomes obsolete — concern that the developer will walk away and leave the city with decommissioned equipment and a degraded site."
+        ],
+        "exclude": [
+          "Do not assess whether the speaker's factual claims are true. The codebook's stated analytical stance treats comments as situated narratives: the object is how residents narrate risk, responsibility and value, not whether they are correct.",
+          "Do not score procedural speech, staff reports or council deliberation. This construct applies to public comment."
+        ]
+      },
+      "edgeCases": [
+        "A comment may belong to several themes at once; score each independently rather than forcing a single assignment.",
+        "A block that fuses a public comment with a council member's question is a unitization problem, not a coding problem. Flag it rather than scoring the blend."
+      ],
+      "examples": [
+        {
+          "text": "There will be no value to having the proposed data centers here other than ridding ourselves of the problem of an empty warehouse.",
+          "label": 1.0,
+          "kind": "positive"
+        },
+        {
+          "text": "It's not just the cost to increase the power grid, it's the cost to maintain a much, much, much larger power grid.",
+          "label": 1.0,
+          "kind": "positive"
+        },
+        {
+          "text": "Our water is already questionable. Our energy is already questionable. Who else's rent is going up, right? My rent's up.",
+          "label": 1.0,
+          "kind": "positive"
+        },
+        {
+          "text": "Potable water, where it's available, especially in a community like ours, that is dependent on rainfall to dilute the — what are we calling them? PFOs in our water? It's critical that we save every drop of potable water we have, so they shouldn't be going to just cooling uses.",
+          "label": 1.0,
+          "kind": "positive"
+        }
+      ],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "municipal_process",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Comments that frame the unfolding data center project as illustrative of unmet expectations with locally elected officials — specifically around *how* decisions were made, *how* knowledge was shared, and *what* accountability looks like. Includes demands for community-led monitoring, expressions of information asymmetry, distrust of officials, and moral condemnation of the process.\n\nSynthesis: Comments in this theme centered on the initial zoning determination, adequacy of public notice, and the legitimacy of the community benefits agreement process.",
+      "criteria": {
+        "include": [
+          "Demand for community-led oversight and participation: Speakers assert a desire for direct, ongoing involvement in monitoring and regulating construction and operations — not just a one-time vote.",
+          "Information asymmetry and lack of transparency: Speakers express that the community was kept in the dark while decisions were being made — the gap between the land deed purchase and public awareness was a primary point of contention.",
+          "Distrust, accusation, and moral condemnation: As the process escalated, speakers moved from expressing disappointment to explicit accusation of bad faith by officials."
+        ],
+        "exclude": [
+          "Do not assess whether the speaker's factual claims are true. The codebook's stated analytical stance treats comments as situated narratives: the object is how residents narrate risk, responsibility and value, not whether they are correct.",
+          "Do not score procedural speech, staff reports or council deliberation. This construct applies to public comment."
+        ]
+      },
+      "edgeCases": [
+        "A comment may belong to several themes at once; score each independently rather than forcing a single assignment.",
+        "A block that fuses a public comment with a council member's question is a unitization problem, not a coding problem. Flag it rather than scoring the blend."
+      ],
+      "examples": [
+        {
+          "text": "Who is going to be measuring did they expand past the existing footprint? And it has to be us. It has to be the city.",
+          "label": 1.0,
+          "kind": "positive"
+        },
+        {
+          "text": "I would certainly like to stay on top of where this work is coming from and where it's going.",
+          "label": 1.0,
+          "kind": "positive"
+        },
+        {
+          "text": "People want to believe in their leaders. But these days, especially trust is fragile and transparency is the only way forward.",
+          "label": 1.0,
+          "kind": "positive"
+        },
+        {
+          "text": "One individual, the mayor, went behind the backs of many people to sell out our community for DICTA.",
+          "label": 1.0,
+          "kind": "positive"
+        }
+      ],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "health_and_well_being",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Comments expressing concern about the direct and indirect effects of data center operations on residents' physical health and quality of life — including noise pollution, air quality, documented health conditions, and the argument that no financial benefit can offset health harms.\n\nSynthesis: Speakers treat their bodies and outdoor environment as non-negotiable; they use evidence from other communities and media to preemptively argue the health costs are real and unacceptable.",
+      "criteria": {
+        "include": [
+          "Noise pollution: Speakers cite decibel levels from air-cooled facilities as a serious concern for nearby residents.",
+          "Air quality and outdoor quality of life: Speakers connect declining air quality to the loss of everyday outdoor activities — parks, concerts, green space — citing these as core parts of Lancaster life.",
+          "Direct health consequences: Speakers cite media reports and examples from other states (Maryland, New York, New Jersey, Delaware) to argue that data centers produce greenhouse gases and compounds linked to respiratory, digestive, and cardiovascular disease. Specific conditions mentioned include migraines, asthma, heart attacks, and sleep issues.",
+          "Health vs. economic benefit — the trade-off frame: Speakers explicitly reject the framing that financial benefits justify health risks, using \"trade,\" \"exchange,\" and direct statements of refusal."
+        ],
+        "exclude": [
+          "Do not assess whether the speaker's factual claims are true. The codebook's stated analytical stance treats comments as situated narratives: the object is how residents narrate risk, responsibility and value, not whether they are correct.",
+          "Do not score procedural speech, staff reports or council deliberation. This construct applies to public comment."
+        ]
+      },
+      "edgeCases": [
+        "A comment may belong to several themes at once; score each independently rather than forcing a single assignment.",
+        "A block that fuses a public comment with a council member's question is a unitization problem, not a coding problem. Flag it rather than scoring the blend."
+      ],
+      "examples": [
+        {
+          "text": "Air cooling could mean significant noise pollution for anyone living within a quarter mile of it. The decibels could reach well over those considered safe for humans near air-cooled data centers.",
+          "label": 1.0,
+          "kind": "positive"
+        },
+        {
+          "text": "Who here? Raise your hand. Has gone to a concert in the park in the summertime... Like we were, we really use every single resource, every single green space that's available to us here to get fresh air, to get away from the chaos of the city.",
+          "label": 1.0,
+          "kind": "positive"
+        },
+        {
+          "text": "There's no amount of financial benefit offered by these data centers that could conceivably offset the corresponding detriment to public health and welfare.",
+          "label": 1.0,
+          "kind": "positive"
+        }
+      ],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "power_dynamics_and_inequality",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Comments that highlight the uneven distribution of costs and benefits — who bears the risks, who profits, and how existing systems of wealth and power shape outcomes. Includes concern for non-human entities and vulnerable populations, challenges to the job-creation narrative, and connections between AI infrastructure and historical patterns of extraction and neglect.\n\nSynthesis: Speakers are not simply reacting to a single project. They are reasoning across environmental, economic, and ethical scales and producing knowledge about AI's value chain and its uneven distribution of cost and benefit.",
+      "criteria": {
+        "include": [
+          "Non-human and vulnerable populations: Speakers extend their concern beyond themselves to wildlife, children, and future generations.",
+          "Challenging the jobs narrative: Speakers push back against the developer promise of job creation by pointing to unmet existing needs — housing, infrastructure — as more legitimate priorities.",
+          "Uneven distribution of cost and benefit / historical patterns: Speakers draw on historical patterns of wealth, power, and extraction to argue that the community will inherit the costs while the benefits flow elsewhere. Fossil fuel use and energy costs are invoked as predictable harms based on prior experience."
+        ],
+        "exclude": [
+          "Do not assess whether the speaker's factual claims are true. The codebook's stated analytical stance treats comments as situated narratives: the object is how residents narrate risk, responsibility and value, not whether they are correct.",
+          "Do not score procedural speech, staff reports or council deliberation. This construct applies to public comment."
+        ]
+      },
+      "edgeCases": [
+        "A comment may belong to several themes at once; score each independently rather than forcing a single assignment.",
+        "A block that fuses a public comment with a council member's question is a unitization problem, not a coding problem. Flag it rather than scoring the blend."
+      ],
+      "examples": [
+        {
+          "text": "Have they done any studies on animal impact? There are many, many, many migratory birds that are in Longs Park. Are they affected?",
+          "label": 1.0,
+          "kind": "positive"
+        },
+        {
+          "text": "I don't have any children, but I care about your kids, and I'm not willing to sign them up to be a real-time experiment of how much poison air you can breathe.",
+          "label": 1.0,
+          "kind": "positive"
+        },
+        {
+          "text": "I think a majority of the people in this town want to see you get jobs, but for housing projects. We want to talk about housing projects and developing a community.",
+          "label": 1.0,
+          "kind": "positive"
+        }
+      ],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "municipally_managed_resources__a",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Electricity supply, quality, and cost. Speakers express concern that the grid cannot absorb the added load, or that the cost of expanding and maintaining infrastructure will fall on residents.",
+      "criteria": {
+        "include": [
+          "Electricity supply, quality, and cost"
+        ],
+        "exclude": [
+          "Belongs to municipally_managed_resources but to a different sub-theme."
+        ]
+      },
+      "edgeCases": [],
+      "examples": [
+        {
+          "text": "There will be no value to having the proposed data centers here other than ridding ourselves of the problem of an empty warehouse.",
+          "label": 1.0,
+          "kind": "positive"
+        },
+        {
+          "text": "It's not just the cost to increase the power grid, it's the cost to maintain a much, much, much larger power grid.",
+          "label": 1.0,
+          "kind": "positive"
+        }
+      ],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "municipally_managed_resources__b",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Water supply, quality, and cost. Speakers raise concerns about water availability and quality, particularly in the context of already-documented contamination issues (Lancaster had elevated PFAS levels as of March 2024) and the large volumes of water data centers consume for cooling.",
+      "criteria": {
+        "include": [
+          "Water supply, quality, and cost"
+        ],
+        "exclude": [
+          "Belongs to municipally_managed_resources but to a different sub-theme."
+        ]
+      },
+      "edgeCases": [],
+      "examples": [
+        {
+          "text": "Our water is already questionable. Our energy is already questionable. Who else's rent is going up, right? My rent's up.",
+          "label": 1.0,
+          "kind": "positive"
+        },
+        {
+          "text": "Potable water, where it's available, especially in a community like ours, that is dependent on rainfall to dilute the — what are we calling them? PFOs in our water? It's critical that we save every drop of potable water we have, so they shouldn't be going to just cooling uses.",
+          "label": 1.0,
+          "kind": "positive"
+        }
+      ],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "municipally_managed_resources__c",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Electronic waste and end-of-life liability. Speakers warn about what happens when the hardware becomes obsolete — concern that the developer will walk away and leave the city with decommissioned equipment and a degraded site.",
+      "criteria": {
+        "include": [
+          "Electronic waste and end-of-life liability"
+        ],
+        "exclude": [
+          "Belongs to municipally_managed_resources but to a different sub-theme."
+        ]
+      },
+      "edgeCases": [],
+      "examples": [],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "municipal_process__a",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Demand for community-led oversight and participation. Speakers assert a desire for direct, ongoing involvement in monitoring and regulating construction and operations — not just a one-time vote.",
+      "criteria": {
+        "include": [
+          "Demand for community-led oversight and participation"
+        ],
+        "exclude": [
+          "Belongs to municipal_process but to a different sub-theme."
+        ]
+      },
+      "edgeCases": [],
+      "examples": [
+        {
+          "text": "Who is going to be measuring did they expand past the existing footprint? And it has to be us. It has to be the city.",
+          "label": 1.0,
+          "kind": "positive"
+        },
+        {
+          "text": "I would certainly like to stay on top of where this work is coming from and where it's going.",
+          "label": 1.0,
+          "kind": "positive"
+        }
+      ],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "municipal_process__b",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Information asymmetry and lack of transparency. Speakers express that the community was kept in the dark while decisions were being made — the gap between the land deed purchase and public awareness was a primary point of contention.",
+      "criteria": {
+        "include": [
+          "Information asymmetry and lack of transparency"
+        ],
+        "exclude": [
+          "Belongs to municipal_process but to a different sub-theme."
+        ]
+      },
+      "edgeCases": [],
+      "examples": [
+        {
+          "text": "People want to believe in their leaders. But these days, especially trust is fragile and transparency is the only way forward.",
+          "label": 1.0,
+          "kind": "positive"
+        }
+      ],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "municipal_process__c",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Distrust, accusation, and moral condemnation. As the process escalated, speakers moved from expressing disappointment to explicit accusation of bad faith by officials.",
+      "criteria": {
+        "include": [
+          "Distrust, accusation, and moral condemnation"
+        ],
+        "exclude": [
+          "Belongs to municipal_process but to a different sub-theme."
+        ]
+      },
+      "edgeCases": [],
+      "examples": [
+        {
+          "text": "One individual, the mayor, went behind the backs of many people to sell out our community for DICTA.",
+          "label": 1.0,
+          "kind": "positive"
+        }
+      ],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "health_and_well_being__a",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Noise pollution. Speakers cite decibel levels from air-cooled facilities as a serious concern for nearby residents.",
+      "criteria": {
+        "include": [
+          "Noise pollution"
+        ],
+        "exclude": [
+          "Belongs to health_and_well_being but to a different sub-theme."
+        ]
+      },
+      "edgeCases": [],
+      "examples": [
+        {
+          "text": "Air cooling could mean significant noise pollution for anyone living within a quarter mile of it. The decibels could reach well over those considered safe for humans near air-cooled data centers.",
+          "label": 1.0,
+          "kind": "positive"
+        }
+      ],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "health_and_well_being__b",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Air quality and outdoor quality of life. Speakers connect declining air quality to the loss of everyday outdoor activities — parks, concerts, green space — citing these as core parts of Lancaster life.",
+      "criteria": {
+        "include": [
+          "Air quality and outdoor quality of life"
+        ],
+        "exclude": [
+          "Belongs to health_and_well_being but to a different sub-theme."
+        ]
+      },
+      "edgeCases": [],
+      "examples": [
+        {
+          "text": "Who here? Raise your hand. Has gone to a concert in the park in the summertime... Like we were, we really use every single resource, every single green space that's available to us here to get fresh air, to get away from the chaos of the city.",
+          "label": 1.0,
+          "kind": "positive"
+        }
+      ],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "health_and_well_being__c",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Direct health consequences. Speakers cite media reports and examples from other states (Maryland, New York, New Jersey, Delaware) to argue that data centers produce greenhouse gases and compounds linked to respiratory, digestive, and cardiovascular disease. Specific conditions mentioned include migraines, asthma, heart attacks, and sleep issues.",
+      "criteria": {
+        "include": [
+          "Direct health consequences"
+        ],
+        "exclude": [
+          "Belongs to health_and_well_being but to a different sub-theme."
+        ]
+      },
+      "edgeCases": [],
+      "examples": [],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "health_and_well_being__d",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Health vs. economic benefit — the trade-off frame. Speakers explicitly reject the framing that financial benefits justify health risks, using \"trade,\" \"exchange,\" and direct statements of refusal.",
+      "criteria": {
+        "include": [
+          "Health vs. economic benefit — the trade-off frame"
+        ],
+        "exclude": [
+          "Belongs to health_and_well_being but to a different sub-theme."
+        ]
+      },
+      "edgeCases": [],
+      "examples": [
+        {
+          "text": "There's no amount of financial benefit offered by these data centers that could conceivably offset the corresponding detriment to public health and welfare.",
+          "label": 1.0,
+          "kind": "positive"
+        }
+      ],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "power_dynamics_and_inequality__a",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Non-human and vulnerable populations. Speakers extend their concern beyond themselves to wildlife, children, and future generations.",
+      "criteria": {
+        "include": [
+          "Non-human and vulnerable populations"
+        ],
+        "exclude": [
+          "Belongs to power_dynamics_and_inequality but to a different sub-theme."
+        ]
+      },
+      "edgeCases": [],
+      "examples": [
+        {
+          "text": "Have they done any studies on animal impact? There are many, many, many migratory birds that are in Longs Park. Are they affected?",
+          "label": 1.0,
+          "kind": "positive"
+        },
+        {
+          "text": "I don't have any children, but I care about your kids, and I'm not willing to sign them up to be a real-time experiment of how much poison air you can breathe.",
+          "label": 1.0,
+          "kind": "positive"
+        }
+      ],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "power_dynamics_and_inequality__b",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Challenging the jobs narrative. Speakers push back against the developer promise of job creation by pointing to unmet existing needs — housing, infrastructure — as more legitimate priorities.",
+      "criteria": {
+        "include": [
+          "Challenging the jobs narrative"
+        ],
+        "exclude": [
+          "Belongs to power_dynamics_and_inequality but to a different sub-theme."
+        ]
+      },
+      "edgeCases": [],
+      "examples": [
+        {
+          "text": "I think a majority of the people in this town want to see you get jobs, but for housing projects. We want to talk about housing projects and developing a community.",
+          "label": 1.0,
+          "kind": "positive"
+        }
+      ],
+      "authoredBy": "human",
+      "humanTouched": true
+    },
+    {
+      "name": "power_dynamics_and_inequality__c",
+      "type": "continuous",
+      "scale": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "definition": "Uneven distribution of cost and benefit / historical patterns. Speakers draw on historical patterns of wealth, power, and extraction to argue that the community will inherit the costs while the benefits flow elsewhere. Fossil fuel use and energy costs are invoked as predictable harms based on prior experience.",
+      "criteria": {
+        "include": [
+          "Uneven distribution of cost and benefit / historical patterns"
+        ],
+        "exclude": [
+          "Belongs to power_dynamics_and_inequality but to a different sub-theme."
+        ]
+      },
+      "edgeCases": [],
+      "examples": [],
+      "authoredBy": "human",
+      "humanTouched": true
+    }
+  ]
+}

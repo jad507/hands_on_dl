@@ -1,0 +1,445 @@
+{
+  "title": "City Council Meeting - April 29, 2025",
+  "video_id": "5N3AIQLoNPU",
+  "upload_date": "20250430",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-04T02:21:40+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    },
+    "chunking": {
+      "p1_chunk_size": 1,
+      "p1_chunk_offset": 0
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 3,
+      "speaker": "SPEAKER_08",
+      "start": 885.38,
+      "end": 1061.23,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion and concern regarding an issue in the community during the public comment period.",
+      "text": "the 400 block of western avenue there has been a lot of outrage recently over the discrimination allegedly targeted a counselor diaz and let's be honest used as political propaganda to advance keller counselors oriel's memorial memorial campaign this outrage is not only hypocritical but completely contradictory to the same types of discrimination that has been raised in these very chambers for years only to be ignored by this council let me ask all of you where was this outrage when counselor vacay stood silently as mayor sirachi slandered and persecuted me in the august of 2024 simply for doing everything in my power for over three and a half years to get my property out of an unlawful condemnation during a housing crisis that displaced four separate families number two where is the outrage when mayor used taxpayers dollars to fabricate claims of lead poisoning in one of my properties to justify the city's illegal actions those allegations weren't just false they were weaponized to destroy lives and reputations number three where was the outrage when the city revoked all of my rental licenses without due process risking the displacement of over 50 people from their homes that they're running from these are human beings families children and you allowed all this to happen in silence and where is the outrage when other property owners like mr zacky of 247 253 north queen street stood in this very podium and said there is no justice or democracy we have to buy justice we all have to buy justice justice is not free which he should be he's not the only one there are so many of us disapprobably targeted why those with personal ties in this administration profit from the suffering that many people in residence are facing. This discrimination is real. It is documented, and the lawsuits pile up, including mine, as many of you already know. You all continue to deflect and deny. Shame on all of you. Janet Diaz was the only one who ever publicly apologized for this administration's actions, and now she's being scapegoated for political gain of Jamie Areo, whose campaign promises more of the same bureaucratic politics that have failed the cities miserably if you want to talk about discrimination let's talk about discrimination with actions not just empty words"
+    },
+    {
+      "block_id": 5,
+      "speaker": "SPEAKER_18",
+      "start": 1072.88,
+      "end": 1294.15,
+      "speaker_name": "Reverend Kevin Polite",
+      "reason": "The speaker, a pastor, is addressing the council regarding a specific property issue during the public comment period.",
+      "text": "um south queen street good evening good evening good evening to everyone and god bless everyone who is here today i'm uh reverend kevin polite the lead pastor of souls church incorporated of 415 south queen street lancaster city i want to thank you for the opportunity to address the board today in regards to the property at 843 furmont street the closed fire station number sixth building it is also a great privilege for me to be able to speak in this chamber where my uncle nelson polite senior served for many years as the president of city council souls church incorporated is a committee focused church a church that is expanding the kingdom of god one soul at a time souls church started 17 months ago going from home to home having services and after four months we were given the opportunity to rent a building on south queen street we pulled together prepared the building continued with the upkeep and the financial responsibilities that came along with renting a commercial building we started getting excited about new faces that were showing up but soon realized that parking was a major issue though many visitors enjoyed worship and fellowship they were not willing to continue to drive around the blocks three to four times for parking they simply went somewhere else we made arrangements with community action program and but a half a half a mile walk but a half a mile walk became a challenge that most people still weren't willing to make especially in the winter months our next challenge is a substantial rent increase that we are looking at for the next year so today i appeal to you on two levels about the fire hall uh in the natural we realize that this is a great value both financially and the use that could be used and benefited from the property in the spiritual aspect which is what god has called me to i move in faith and obedience to god and see souls church continue to grow so in faith i stand before you today and request that the building be donated to souls church incorporated so we can turn it into a church the bible says you do not receive because you do not know how to ask with the right intentions our intentions are to expand the kingdom of god and be a blessing to the community i will close with this as a young teen i wanted to be a fireman to serve to save lives i later took the agility test and examined and passed them both while on the waiting list god called me to the ministry to save lives how fitting would it be for me to continue to save lives inside of the firehouse and both of my dreams be fulfilled at the same time thank you very much thank"
+    },
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_20",
+      "start": 1311.37,
+      "end": 1540.54,
+      "speaker_name": "Fabian Martinez",
+      "reason": "The speaker identifies as a local youth pastor and expresses thanks and opinions to the council.",
+      "text": "so my name is Fabian Martinez a local youth pastor and a children's pastor with souls Church in Lancaster City the southern side of Lancaster City at 415 south queen street first and foremost i want to look at all you guys all of you on the panel and say thank you for all you all you do i've been a langstarian that topic that term doesn't get used a lot around here but for 35 years and i do appreciate both sides on what you do um and everything that you do to serve the community well um as as a product of the school district of langston being here um i can honestly say thank you for all that you do i am here today to share about souls church and the possible petition for obtaining the empty building at 843 fremont street langston pennsylvania 17603 we all know the danger of an empty building and we know what that entails so that is why we look forward to occupying it um souls church we are are looking to help provide hope in Christ to help bring peace, restoration, love, grace, resources, and a solution alongside of policemen, women, firefighters, officials, other local nonprofit organizations, and all of you to help truly make this city a better place and a safe place. If this location is obtained, this is what we can and promise to do. Reach the community, love in the community and coming alongside of them by doing the following reaching people with the hope of Christ teaching them accurate biblical principles which whether we agree on or not we know when we actually do the best that we can to follow those principles we can all agree it does organically produce a better life also releasing people to go reach and make a difference in this world nation state and city of Lancaster for Christ on all levels this is also what we can do. Our hearts are to be sitting where people sit. Meet people in their needs. Producing highly effective outreaches all over that side of Lancaster with the goal of helping citizens with their day-to-day needs. Reach the homeless. Reach those who suffer from addiction. Help with finding furniture, handing out blankets, gloves, shoes, clothing need, family vouchers, bringing families that are in need of food into the church once again and being able to send them home filled up in two aspects the spiritual and also the physical also working very closely to provide resources and solution for our children and youth in Lancaster City let's truly act ourselves here how many of us truly have kids I have three there's a concern here that many people don't address and that's where my heart is to reach the youth of this city in ages 10 to 14 whether we all like to agree to it or not there's accidents being the first form of death and illnesses being the third but the second one is the one that concerns me because I try to take my life once upon a time the second way we are losing our children and our youth today from 10 to 14 is simply suicide something has to be done we are willing to do this alongside of all of you everyone here to be able to give them a better and safer life and and in many other other things we're losing them to guns drugs and so much more but here we are together alongside of you guys to say would you could you possibly give us this building so we can come alongside of this community as well as you guys and give us a better western Lancaster side blessings thank you Mr. Martinez Mr. Harris"
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_10",
+      "start": 1546.22,
+      "end": 1668.57,
+      "speaker_name": "Jessica Lopez",
+      "reason": "The speaker is addressing the council and expressing an opinion regarding accountability.",
+      "text": "miss lopez good evening good evening jessica lopez manchester city first let me start by saying hi i hope everyone is having a good evening um i truly do appreciate the echo cause for the for council member diaz to resign and the outcry of accountability excuse you i'm talking Could we please have order in the room for our speaker? Thank you. So, like I said, I completely appreciate the echo calls for accountability coming from some of our council members and our community members. Following the comments made towards Councilman Ahmed and the outpouring of social media comments that have come to light from Councilwoman Janet Diaz, who was not hacked, that were blatantly fear-mongering and Islamic-phobic comments. Our Islamic community members deserve protection and support. If Councilwoman Diaz was making anti-Semitic comments, would this even be a question? If she claimed Christians raised their children in hate to be killers, would the same people still support her? Islam is a beautiful religion, practiced and followed by a diverse array of people. To claim Janet Diaz is not Islamic-phobic, prejudiced, and xenophobic is blatantly a lie. The religion of Islam is predominantly black and brown, so you derive what you want from that. But let me say, while no one's trying to change Councilwoman Diaz's views or attack her personally in any way, we are here to say that this is not becoming of anyone claiming to be a representation of us, the residents, not just Lancaster City, but the people of the Southeast who work alongside a blend, an array of people."
+    },
+    {
+      "block_id": 11,
+      "speaker": "SPEAKER_10",
+      "start": 1670.43,
+      "end": 1734.63,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council about accountability for attacks on youth.",
+      "text": "Folks in the room, please. But where we do need that accountability from her, and yes, from our mayor, and from you, because you had your own issues like everybody else. So, where we do need accountability, let's not get lost in what actually brought us here. An attack on our youth, our black and brown kids, because that's what we really came here for, accountability for our children who were traumatized and attacked by our officers. They're now being prosecuted harshly in retaliation for their cries. This situation and the failures in this situation doesn't belong to one individual. It's the failures of our safety committee, the police department, the mayor's office, and this city to protect and serve their village. So yes, while Janet is on her way out, once she loses this disgusting campaign she's running, because I said what I said."
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_10",
+      "start": 1736.19,
+      "end": 1778.6,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion and concern regarding city policy and leadership.",
+      "text": "everyone will get there and the new mayor takes Deneen seat I pray that this community that's worried about all the wrong things learns how to make bike policy accessible and prioritizes our children because I came in here for one specific reason and y'all turned it into this Janet show so while they're trying to make it seem as if somebody's in some queue to take down Janet she did that herself so i'm sorry you put your eggs in the wrong basket ms lopez thank you before we proceed"
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_15",
+      "start": 1859.56,
+      "end": 1866.32,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing personal sentiment during what appears to be the public comment period.",
+      "text": "wanted to start off by saying it's an honor to be in this room this is my first time being here after the chamber has been named after my grandfather nelson polite senior"
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_14",
+      "start": 1867.2,
+      "end": 1871.36,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies their location, suggesting they are a resident commenting on a local issue.",
+      "text": "and i live on his in his property our polite estate in the 500 block of north street"
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_15",
+      "start": 1873.01,
+      "end": 2103.86,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding a council member's resignation and expressing support for her.",
+      "text": "i came this evening to make a few remarks regarding the calls for the resignation of councilwoman janet diaz i have known janet and worked with her for eight years during that time i've only known her to be a champion for the residents of the city and as she stated she works for every resident of the city whether they voted for her or not including homeless immigrants to the city and just regular everyday folks not only has her commitment to all residents been absolute the people of this city continue to have faith in her abilities to leave and have sent her with a mandate not once but twice by electing her to this body and i know that if she were on the ballot again she would be elected a third time to this council because she has earned the confidence of the voters of this city janet was the only counselor that stood up and spoke out when i several years ago reached out to the current administration regarding a parking project idea that we had worked on and formulated with saka to help with parking concerns that the residents of the southeast raised during the parking authority study conducted several years ago we used our own funds to pay for and commission plans for a surface parking lot that would have benefited all the residents of the southeast at that time the project was quoted at a cost of around a hundred thousand dollars and it would have beautified the neighborhood provided secure off-street parking to southeast residents and addressed storm water runoff concerns when i had read in the paper that our city was receiving over 39.5 million in arpa funds 10 million of which was being earmarked for neighborhood projects i reached out to the department of neighborhood engagement and unfortunately i was unable to get a response or even an acknowledgement to our request for a meeting after two years of trying on my own counselor diaz reached out on our behalf and it was only due to her resilience and persistence that we were able to finally get a meeting with the administration regarding the southeast parking project when miss diaz worked on our behalf for city services she was not concerned about my race my political affiliation that i was a woman she reached out on our behalf because it was the right thing to do and she fights for what is right and what is right is not always the popular thing to do but all the years that i've known her she continues to be resilient among all the attacks and false narratives that are put out against her character and frankly um you have to be very strong person to overcome all that she has done and been through as a member of this body we all know from her record that miss diaz is not a racist a xenophobe hugs in the room or islam or islamophobic nor has she all of a sudden developed this deep rooted hatred for any group of people. That whole narrative being pushed by certain people is absurd and false and has conveniently been orchestrated against her as she seeks higher office in this city. Ms. Diaz has the right to defend herself against anyone who oversteps her boundaries, to voice her opinion on matters before this body, to speak up and speak out against injustice, and to vote her conscience and conclusion i like a little leeway miss diaz i want to thank you for your dedication and service for all the residents of this city we support you a thousand percent you have the right to be here you have the right to serve out your term and the majority of the residents of this city have confidence we have reached three minutes just remember when the enemy attacks respectfully we have reached god bless and thank you and i would appreciate the same leeway that"
+    },
+    {
+      "block_id": 25,
+      "speaker": "SPEAKER_04",
+      "start": 2150.52,
+      "end": 2163.78,
+      "speaker_name": "Clarita Cruz",
+      "reason": "The speaker identifies herself as a resident and appears to be addressing the council.",
+      "text": "speaker is clarita cruz of laporte drive miss cruz no okay next is john cardi of ebony township"
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_05",
+      "start": 2168.31,
+      "end": 2312.04,
+      "speaker_name": "John Carty",
+      "reason": "The speaker identifies himself and expresses a strong opinion regarding council members' past decisions.",
+      "text": "good evening everyone my name is John Carty I stand before you to tarnish the man that's right I have made bad decisions in the past and I've paid the penance for them as my friend Councilwoman Diaz has allowed us to accuse her of and is no different she too has a past and paid the penance before one goes throwing stones in one's house one should make sure one doesn't live in a glass house where my friend councilwoman Diaz differs from myself and her loudest accuser is that Janice Janet Diaz wakes up every morning to serve her community she goes out of her way every day to make her community a better place for everyone to live that's been her whole objective and she inspires people to aspire to do better for themselves and the community she wants people from this community to elevate themselves into elected offices and there's nothing wrong with that and it doesn't matter to her their religious background or their ethnic background or race or gender it just doesn't matter to her it just she just wants people from the local area to get elevated to an elected office and there is nothing wrong with that now now in a perfect world is that how it works no but her saying that and her desiring that is not malicious and it is certainly not racist so we need to rein that in a couple years ago i was in a strike line i remember janet diaz there i don't remember anybody else on the panel not one of you not one of you were on the strike line with us janet diaz was she was walking with us right there right there with us where were you all where were you you want to be mayor where were you people where were you you were absent she's standing up for us are"
+    },
+    {
+      "block_id": 29,
+      "speaker": "SPEAKER_22",
+      "start": 2324.66,
+      "end": 2444.47,
+      "speaker_name": "Daryl",
+      "reason": "The speaker identifies themselves as a resident and expresses a concern regarding a council member's credibility.",
+      "text": "good evening my name is Daryl 100 block of the North Mary Street I'm just here today to sort of distill down the question about counselor Diaz's comments so either you believe that she when she didn't respond for a week claimed she hadn't seen it then claimed she was hacked then claimed it was a teenage family member which I think strains the bonds of credibility but maybe maybe that happened okay you either have to believe that or you have to believe that either she did post hateful racist or Islamophobic or both comments that she really does believe or or and this is the best case she posts inflammatory rhetoric on social media knowing that it might be misunderstood those are the three options that's it and if you believe either of these two then that makes her a liar so it is not my it is not her policies that has me here asking for her to step down, it is her rhetoric. When you search Lancaster, Pennsylvania, and you look at the news articles that come up, guess what the top two things are? Police overuse of force and these comments. Is that what we want Lancaster to be known for around the country and around the world? If you believe that she really was hacked, and maybe that's possible, she has the worst password security of anybody that I've ever met. This is the second time she has claimed to be hacked, right? Use a password manager, okay, if that's what's really happening. So either she is negligent about her own social media or she is a liar. Those are the only two options here. And I actually would be super happy to see one of her supporters up here instead of her. It isn't her policies. It isn't her work for people. It is what she posts online and what that says about Lancaster, Pennsylvania. And I hope everybody here thinks about that."
+    },
+    {
+      "block_id": 32,
+      "speaker": "SPEAKER_19",
+      "start": 2457.74,
+      "end": 2487.66,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a strong opinion and concern regarding a council member's conduct during the public comment period.",
+      "text": "miller good evening we expect a lot out of our neighbors to live lancasterian values of justice leadership and being a welcoming community to all we expect even more of our elected officials and councilwoman janet diaz has not been holding up to that standard she has an established pattern of bigotry and personal attacks especially towards our black and muslim numbers neighbors folks in"
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_19",
+      "start": 2493.34,
+      "end": 2507.22,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a political opinion regarding council members' statements.",
+      "text": "towards our black and muslim neighbors that she has been proud to display on social media most recently counselor diaz attacked counselor ahmed's identity as a refugee and in sierra mr"
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_19",
+      "start": 2525.5,
+      "end": 2632.07,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a strong opinion and concern regarding a council member's conduct during the public comment period.",
+      "text": "i'm just finding my spot most recently counselor diaz attacked counselor ahmed's identity as a refugee and insinuated that he was incapable of holding out office because of his because of his background for racism xenophobia and islamophobia are not the representation that lincastrians deserve for these reasons we join our coalition partners lancaster dsa and black voter outreach network in calling janet diaz to resign from lancaster city council however the rise of janet diaz and figures like her did not happen in a vacuum they are very there are very real and justified feelings of lack of representation in our communities. Our elected officials continue to ignore the suffering of our communities, offering only performative platitudes with little political risk, commitment, or policy change behind them. Janet Diaz has found great success thanks to this climate of false promises. She co-ops populist messaging with a regressive vision of exclusion and scapegoating racist racist politicians like councilwoman diaz would never have attained obtained so much credibility if the rest of our elected leaders took action along with their hollow words we look forward to working with our elected officials to pass legislation that betters the lives of our neighbors families and loved ones we also promise to hold our elected leaders accountable when they fail us such accountability will continue to be necessary beyond janet diaz's tenure in power and leicester stands up will be there to see it"
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_07",
+      "start": 2650.47,
+      "end": 2850.71,
+      "speaker_name": "Chandra Damal",
+      "reason": "The speaker identifies themselves and expresses support for a city official regarding community issues.",
+      "text": "good evening good evening everyone hello good evening everyone my name is chandra damal thank Thank you for coming here today. I'm standing here today not just as a support of Janet Diaz, but as someone that knows her through her hard work and her lifelong commitment to this city and its people. When my people were getting deported, she was the first person that came to my mind and we reached out to her. She gave my community full of Hindus, Muslims, and Buddhists, refugees, so much hope. She has been there for the community through everything for the past eight years that I've known her. Please give me some respect while I'm speaking. Thank you. Lately, lately, folks in the room, please. False accusations have been thrown at Janet claiming that she's racist. Let me be absolutely clear. Nothing could be further from the truth. Janet has spent her whole life lifting up communities, especially communities of color, veterans, single mothers, and the homeless, because she believes in service over division and action over empty words. Jennie knows this city. She did not just show up when it was time to run for office. She's been here walking through these neighborhoods, listening to people's stories, their hurt, their fight, for years and years, and I know she will continue to do that. And we believe in you. She has fought for single mothers, making sure they have resources, opportunities, and hope. She has stood there for communities of color, not just in words, but in policies, and in programs, and in presence, and I can't say that for a lot of people. Janet comes from a family of veterans, a family that knows about sacrifice, service, and honor. She carries those values with her every single day, and I see that as someone that knows her personally. She's also a proud feminist, a champion of women's rights and equality. And the idea that every woman deserves a chance to lead, to thrive, and to be respected. Jenny Diaz is for the people, not just you and me, but for all people. She's not a divider, she's a unifier. She's not fueled by hate, she's powered by hope, compassion, and an unbreakable love for this community. In a time when policies is filled with noise, distraction, and negativity, Janet Diaz stays focused on what really, really matters, helping those in need, fighting for justice, and building a city where everyone, no matter their race, gender, their background, have a seat at her table, and she will always make sure of that. Her record is clear, and her actions speak louder than any rumor, and the truth is stronger than any lie that will ever be thrown out at her. I am proud to stand with Jenny Diaz today. Not just me, but the community I have brought here."
+    },
+    {
+      "block_id": 40,
+      "speaker": "SPEAKER_07",
+      "start": 2854.33,
+      "end": 2858.19,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering praise, which constitutes an expression of opinion during public comment.",
+      "text": "She is a fighter, a servant, and a true leader for all of us. Thank you."
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_14",
+      "start": 2881.46,
+      "end": 3077.3,
+      "speaker_name": "Asha Austin",
+      "reason": "The speaker identifies herself as a local resident and expresses her deep connection to the community.",
+      "text": "Good evening. my name is Asha Austin first let me just say I am a mother a grandmother a poet and local educator I have children who live in this community with their children I have worked in this community since I was 14 years old so I can tell you that I am I am a huge part of this community and I know a lot about what is happening around me I moved here when I was two years old and that would be back dating back to like 1979 so I've been here for a long time I only left briefly for college came back two years i came left two years while i was married and came right back because like my mother i believe that this is a great community full of diversity and such a great community to raise and nurture children in that's what i still continue to do i was also the poet who um wrote co-wrote with my son sir dominic jordan the poem for this city's juneteenth flag reason i stand here representing myself and many Muslim women who agree with me. I attempted to speak to Mrs. Diaz on Saturday, correct? She had a chance to apologize. She chose to deflect and blame everyone else, even going as far as adding an intercessor to vouch for her. That person further offended me. As a Muslim, not once did you apologize, even after. As a public official, you must recognize and be more aware of what you were doing and saying, especially because you took an oath, and are a representation of all of the people that you are servicing. The number of residents who look like me and share my way of life, They're definitely on the rise in this area. Many people who work in the fields that I work in, they can see it so clearly. I walk into the schools, the children are so happy that they finally see a Muslim woman teaching them. To me, that's amazing. The school district of Lancaster just hired their first Muslim principal. That says enough. To be clear, be very clear, Contrary to what you posted on your social media, and contrary to what you may believe, Muslim women do have rights in Islam. We do. It's in the Koran. And I have to say this, you, I do not disrespect everyone, so please do not disrespect me. Thank you."
+    },
+    {
+      "block_id": 46,
+      "speaker": "SPEAKER_14",
+      "start": 3081.3,
+      "end": 3098.68,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding social media responsibility and making a statement about an apology.",
+      "text": "Okay. I'll finish it up. Thank you. You are responsible for what you post on social media, so just be aware of that. think you do owe muslim women an apology thank you thank you mr harris our next speaker yes"
+    },
+    {
+      "block_id": 48,
+      "speaker": "SPEAKER_13",
+      "start": 3114.61,
+      "end": 3297.02,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and expressing opinions regarding city issues.",
+      "text": "good evening thank you first of all i want to thank you council members i realize that you have a tough job some do it better than others some go out of their way some do not last year or the year before i believe it was a year before there was a situation going on in the city school district and i had reached out to some leaders i had also reached out to mr arroyo he not only didn't want to take my call he didn't return my call he didn't respond to any messages or phone calls i reached out to him multiple times and he completely ignored me and it was a pressing issue and it was something that it wasn't hey this is what i want you to do but hey i want you to hear me out and think about this and let's have a dialogue and i he was never i was never recognized on the contrary i reached out to miss diaz immediately she reached out now i no longer live in the city i lived in the city for almost all my life i have family members i live in the city so i'm very concerned about things that happen in the city i drive through the city all the time i have called miss diaz and miss diaz has lent any a lending ear not only that she actually and again it wasn't for her to take up my point of view of the situation that was occurring in the school district but for her to show her presence and to take an opinion and she did on her own it wasn't mine it wasn't what i was thinking about sharing but she shared her own thoughts and she responded that's the kind of person that she is she also looks out for other people outside of the city because that's the kind of caring person now city members city council members you have a homelessness issue a serious homelessness issue you have a housing issue you have a drug addiction issue what are you doing focus on that as much as you are in painting a propaganda against one individual because you're afraid that she's going to get a seat that you're afraid that she's going to get on a position that's going to be opposing you she is not a puppet and that's the problem because she's not a puppet there's fear and then you have the fear mongers and then you have those that will play into your hands because it works into your narrative the personal attacks need to stop miss diaz is not a racist miss diaz has been for immigrants for all and especially the elderly i have contacted her again not on my own but on the behalf of others she didn't tell me tell them to call me I said to her will you go down to this elderly building where elderly lives that no one goes there no political candidate will go there because they don't count on their vote they only count on a certain vote but it's not their vote and she went down there and boy did that make a difference and she learned and she listened to the folks there which they had not had that none of them had seen a political candidate show up that's the kind of leadership that we need to have here in"
+    },
+    {
+      "block_id": 50,
+      "speaker": "SPEAKER_24",
+      "start": 3318.04,
+      "end": 3476.41,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding the legality of rent control.",
+      "text": "700 block of new holland avenue and i think jess lopez is right welcome to the janet show geez um so not here for that actually my comments are in regards to a different matter Counselors, the public deserves answers on a matter, the legality of rent control. I've been saying for months now that we can do rent control. Then at a council debate without foundation, candidates began saying the state needed to act for us to do that. Not true as far as my research goes, and one of those candidates should know that from our November phone call. This misinformation finally started unfolding at the mayoral primary debate, where there was clearly confusion on stage. It would seem members of the public have started to look into this matter as well. Here's the deal. We can do rent control, but we can't just do it to do it. The 1955 decision in Warren v. Philadelphia affirms the Home Rule municipality's right to rent control, but it doesn't allow so without articulating reason. This means we can't just say without foundation, there is a housing crisis, so we are enacting rent control. It means we have to say something to the effect of, we are facing X conditions, and as a result of the housing crisis and so we are implementing why rent controls to address this if you're serious about the housing crisis help us out direct city staff to quantify and qualify our crisis so I'm not without nuance here I recognize that we have some limitation in that regard but it's not prohibitive to the ability to authorize such action I keep being told that what I'm saying is illegal and even false hope I'm asking for the foundation stop just saying this is illegal and blaming the state if this is illegal educate the public on the matter or at least try and we will definitely look into it i struggle to trust the legal opinions of the city after the tree ordinance lost its initial case i'm not sure where the status of the appeal is at this time the final note i'll make now is unrelated but clearly tangential if i had more time i was suggested to make an amended bill for admin bill 3 but really what should have been occurring with this delay is at least one community meeting public property is a community asset and your bill doesn't even require a final approval of sale by council a variation from the public process with the plurality of our land in the southeast quadrant if you're going to move forward with bill 3 it deserves more attention and more interface than it has gotten when we drafted the short-term rental ordinance we met with the residents of old town right here i feel the southeast deserves that same respect table the the bill to do the right thing that the thing that people upset with you are asking you're demonstrating that lack of care and concern by continuing down this"
+    },
+    {
+      "block_id": 52,
+      "speaker": "SPEAKER_12",
+      "start": 3511.7,
+      "end": 3671.65,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and expressing concerns about a city issue.",
+      "text": "evening good evening god bless you all and i hope i'm not insulting you by saying god bless um you see me all like that i just had surgery so i'm really here because i do care um i've been accused of this too because sometimes i say what i need to say and i've spoken to you lots of times and debates right to your face okay and I think one of the issues that we have is that it easy to attack Janice and if you really want to defeat her let's do it in the election box a lot of we come here and let's tear people apart you know and it's normal because some of you I've told you to your faces I haven't hid and my name is Ivan Acosta-Velez I live at 804 Highland Avenue okay and you can say all you want to say and all that but at least i've never hit my mom unless i i haven't done a lot of things okay what i've done is fight for a better city and if she offended you guys i apologize because i haven't seen her friend she offended me one time she didn't bring me the coffee okay yeah but i i want them to see me because i'm talking to them okay i i at least the only thing she offended me you didn't bring me for coffee okay so we need to get this going and that's for all of you because guess what you're gonna answer to the voters you're not gonna answer to janice you're gonna answer to the voters okay and the voters knows what's going on we know what's going on okay and uh one of the things that really bothers me in this city is that when you bring up things that are going on, right away you attack and this and that and that. You know what? Where you can attack is the ballot box. If you're so concerned about things that are happening, do it at the ballot box. Reverend Bailey told you one time at a debate we had, at the ballot box, and that's where we're doing it. Janice, at the ballot box, okay? And you'll have a lot of people attacking you. A lot of people that are sitting there, they've said worse than you said and then they hide between power and they hide between other people you know but guess what up there there's a man up there or a lady up there or whatever you want to call it up there okay he'll take things in the matter so if you want to attack people do it at the ballot box that's where you do it don't start doing the same thing that the Republicans are doing and then you say oh the Republicans are doing it And you're doing the same thing."
+    },
+    {
+      "block_id": 54,
+      "speaker": "SPEAKER_09",
+      "start": 3688.04,
+      "end": 3904.0,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and expressing opinions during the public comment period.",
+      "text": "Good evening. Thank you for giving me this opportunity to speak in front of you, and thank you for all that you do. This is my second or third time here. My apologies. I want to read something. Please do not disturb me. i don't know who you are but don't do that please continue your comments toward council janet diaz is a well-known figure in lancaster serving on the city council since 2017 as the first latino elected to that position she has built a reputation as an independent voice and has consistently focused on issues like affordable housing public safety health care access and community representation drawing from her personal experiences with poverty and homelessness pretty sad very sad that a female felon with a 20-year criminal history is used to support uh you know this whole uh thing that's going on one thing i've learned is that shame has never changed anybody So you can't shame people, especially when they're stuck and they just spew out hate and diversion and distraction and all that stuff there. She's a Lancaster resident with a documented criminal history spanning roughly 15 to 20 years. Her record includes serious convictions. She was charged with second-degree felonies for assaulting two Lancaster police officers, kicking one, hitting another with a belt, and spitting on both, stemming from an incident where she smashed a man's car after a personal dispute. Her convictions include drug offenses, retail theft, harassment, and in 2022 she was convicted of a felony right and related charges tied to the 2020 protest ds supporters as you know value her for her honesty transparency and dedication to lancaster residents which aligns with her documented track record of advocating for the underserved homeless and vulnerable community i was going to say you all should be ashamed but shame's never changed anybody shame don't change people uh like the gentleman said take it to the ballot take it to the ballot and um we have really serious issues here in lancaster and this uh campaign against janet it's just not cool thank you uh miss bk thank you i believe there was one other speaker"
+    },
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_10",
+      "start": 3934.58,
+      "end": 3986.87,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and expressing a strong opinion about community support.",
+      "text": "Jessica Lopez the felon with less felonies than our president huh so let me start by reminding you right that for the last five years I've been here more than every single one of yous in this room so we're user thick today I hope yous are thick in two weeks and I hope you're thick weeks after that because we need support in this community that goes way past who sits up there see now the No, the problem is you wanna pick and choose what's disrespect, it's disrespectful. No, I'm talking, I'm sorry, Ms. Vacay. Y'all wanna pick and choose what disrespect is allowed to be addressed. I've highlighted the issues with the mayor, with our chief of police, and yes, with Janet Diaz, because I'm not scared of any of you. Sorry, yes, sir, just like you, just like you. Like you didn't just tell a Muslim woman to take off her headdress."
+    },
+    {
+      "block_id": 58,
+      "speaker": "SPEAKER_10",
+      "start": 3989.51,
+      "end": 4079.91,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a strong opinion and concern regarding an incident during the meeting.",
+      "text": "will have order in the room now this is the problem because comments that she made opened the door for a white man to sit here and tell a black woman to take off her headdress so i'm the problem i'm the problem apparently and not the person who took an oath to stand for every single body not just the people who came and begged her for something i'm sorry this is egregious and for For y'all to focus on me, go ahead, I can hold that. Been doing this for years. I walk around this city with my head held high, unafraid of anybody. Trust that, trust that, and we'll always, and we'll always, and we'll be at the ballot box, and do come out to community events. Work for the Lancaster Bail Fund. Work for non-profits. So while you sit here and act like you know me, you don't, and I wasn't being rude, sir, I don't speak Spanish. Now this is the problem, the stereotypes, the Janus Show. What about the kids that are going to court on June 6th and really need people to advocate for them? Those kids that were pushed off their bikes. Those kids that we came here for originally before you turned this into the Janus Show. Thank you."
+    },
+    {
+      "block_id": 62,
+      "speaker": "SPEAKER_16",
+      "start": 4107.89,
+      "end": 4288.2,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing strong opinions and concerns about social issues during what appears to be the public comment period.",
+      "text": "All right, okay. Go ahead. Good evening. I'm just gonna get right in and ask to, anyway. This country was based on lies, deception, and racism, my people especially, for over 400 years. And those in position are still looking down at us fortunate people to fill their deep pockets. So excuse me, guys, if you say I'm being disrespectful or my approach is too harsh, but there are families grieving while countless people are dying. The city is in turmoil while opinions are being viewed as racist. some may not agree with the approach some may not do well with constructive criticism but it's still your opinion your God-given right to exercise freedom of speech now let me ask you Ahmad is your family deprived by these words you say you're offended by while we have another woman dead at Ben's Park along with many within weeks days who have overdosed lost their jobs suffered excessive force or abuse by public officers let alone deaths in our country let alone deaths in our County prison where they don't feed grown men or women proper meals only to leave them and their families paying a cost after cost that they can't even afford while accessing bonds and funding are you aware of how many city employees commuters firefighters police officers taxpayers, disabled citizens in this city that have been discriminated on lie to along with racial profile. This is pulled from files since 2018 Lancaster has faced legal battles showing bias against employees, disabled residents, firefighters, police officers alleging discrimination and retaliation naming Deneen Sirachi. In 2019, residents challenged discriminatory zoning ordinances under Denise Sirachi's watch. In 2021, another employee claimed wrongful termination. This is an ongoing issue with many lawsuits you can easily look up. I don't know. I think she's over 10 for discrimination. United States versus City of Lancaster. The determination discriminated against on the basis of race and retaliated against from complaining about racial harassment. Now, when Sirachi started her journey as mayor in 2017 or 2018, immediately these offenses took place amongst many that were already lined up. she underwent training to improve her position just like Janet will do with no endorsement from any party but the people voted her in why because she dares challenge the status quo I also challenged Janet to send me a list of her accomplishments since she started and I have about three pages and I would"
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_16",
+      "start": 4299.8,
+      "end": 4316.42,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion and concern regarding a bill presented to the council.",
+      "text": "While we know the bill given to me by Janet Diaz to adopt the Citizens Review Board, it has been opposed again by this mayor, along with other important issues Janet presented where none of you seconded."
+    },
+    {
+      "block_id": 70,
+      "speaker": "SPEAKER_24",
+      "start": 4325.53,
+      "end": 4457.75,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and expressing an opinion about the meeting's unusual lack of agenda items.",
+      "text": "mr. doctor thank you good evening I don't have prepared remarks for this session but I did want to make the remark at how odd this all is I mean I've never been to a council meeting without any agenda items now that being said I do appreciate making sure there's a record of meetings making sure the public's heard all that's good but this is this is a bit of an unusual circumstance I guess maybe you guys have been the one I haven't been to every single council meeting in the last eight plus years but i've i've never really seen this type of meeting before ever ever and so when jessica lopez says this is the janet show i really don't have any other ways because whether you're here to support or denounce janet the subject of tonight is janet the news story tomorrow is janet this is all janet this is so weird and the reason it freaks me out is because we we have other community concerns that should be addressed like look bill three is not that long of a bill and if I'm if I'm explaining bill three to the public in an inaccurate way like the city government should be there to be like hey whoa Tony is saying this but here's this actual process like there's no back-and-forth here there's absolute radio silence on the site on that side of the day as it seems coming from this issue because I don't know what else to say but there's a solid point to be had in some of these remarks like janet was the only one who talked to me about the bills i put in front of you regarding tax exemptions and potentially a rebate program like and even to that effect when i i appreciate the verbalization of the willingness to create an exemption but you're only willing to go to the extents that you were already granted prior to the passage of home rule i do not understand where like it just doesn't make sense it doesn't something does not add up here this is not the way to do it people wonder why i'm not a democrat and i think it's situations like this that really demonstrate why i've stayed away from the party so thank you for your time and attention i hope some of this landed with you have a good night"
+    },
+    {
+      "block_id": 71,
+      "speaker": "SPEAKER_17",
+      "start": 4457.75,
+      "end": 4490.0,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding the charter and the need for the meeting.",
+      "text": "thank you mr dastra uh just to interject really quickly to answer a question i will also agree that this is an unusual situation um the charter which you helped to draft does require two meetings per month so we needed to hold this meeting and also just personally even if it didn't um i would have wanted to continue to have this meeting to honor the request to speak of the people who made the what made their way to the meeting last week so thank you for addressing that and that's at least part of the reason why we're doing this mr good evening 200 block of"
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_21",
+      "start": 4490.0,
+      "end": 4596.88,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies themselves as a long-time attendee and expresses strong opinions about the council's proceedings.",
+      "text": "south end street um i wasn't going to get up and speak but i think it's necessary i mean i've never been to a council meeting I've been coming to council meetings since 1989 and I've been here with a lot of mayors and a lot I've been here when we had split council democrats and republicans and this is a circus and I think for you as a president of city council to allow this to go on you can see where there's people to get to speak over people to get to speak out is unacceptable we deserve better we deserve better I'm not here to speak up for nobody I'm here to say as our representatives that are elected our council has to do better we have serious issues here we just had a preacher get up here and say about a building that you the mayor said we can't even give it away that asked for it and nobody commented you're sitting here to hear our comment why didn't you say to him we will take it into consideration why didn't you say to him we will think about it you sit there and you listen and you don't respond and enough is enough this was a circus and it should not be accepted and it should not happen again and i'm hoping that it doesn't and i'm hoping that we get to the real issues because like we said we're talking about homelessness we're talking about like i said i'm young people we're talking about things happening with our police and we had all of you sit up here and say you saw the video and didn't like it but everybody stayed quiet you know it's no more it is time that the council represents the people and it's time that we stop letting our political party and this this this body be a circus thank you mr lagasse"
+    },
+    {
+      "block_id": 73,
+      "speaker": "SPEAKER_22",
+      "start": 4596.88,
+      "end": 4703.6,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding a local issue and expressing opinions.",
+      "text": "thank you good evening daryl legacy 100 block of north mary again um i just want to make two points one i appreciate the statement of letting it happen at the ballot box and i i'm sure that counselor yes is not going to stand down so i think we're all going to have that so i think that's great that's fine we will do that um i also really appreciated the apology that the gentleman over here said if counselor diaz had apologized none of us would be here nobody would be asking for this more importantly i also agree with the woman that just spoke there if there isn't already there should be a rule that no one up here speaking can disparage anyone in the crowd there also should be a rule that if people are yelling on either side they are removed this is ridiculous this is not how a city council meeting should work I realize this is perhaps something that has never happened before or not recently maybe you didn't have a plan for this but there needs to be a plan going forward if anybody up here speaks about somebody in the crowd who is not an elected official who has not run for a position that should not be allowed that absolutely should not be allowed on either side whatever side you agree with whatever side you have that is not something that is going to bring this community together I actually think most of us want all of the same things I think we all want rent control I think we want a safe city I think there are you know I think a lot of us want restrictions on what the police are doing and this is a sideshow but again it should not be community member versus community member up here at the dais and i really hope that you will take this to heart and consider some kind of rule or policy or something that stops that from happening again thank you good"
+    },
+    {
+      "block_id": 74,
+      "speaker": "SPEAKER_03",
+      "start": 4703.6,
+      "end": 4779.76,
+      "speaker_name": "taylor raymond",
+      "reason": "The speaker identifies themselves as a resident and expresses a concern regarding the disposition of police records.",
+      "text": "evening hello my name is taylor raymond i live on the 500 block of saint joseph street and i'm here for something not regarding ms diaz at all at previous meetings the administrative resolution 18 i was discussed regarding the disposition of certain police records we were told that it was just the physical copies and that digital records were being kept and that we could request to review these documents through the right to know act so i did that um on april 9th so the day after our last city council meeting i received the response on that it was denied uh stating that these records were subject to exception because they are regarding criminal investigations the criminal history records information act and the juvenile act between this information being denied outright and the denial of any sort of open communication with the community regarding the incident that happened on march 2nd i really think that it is it's clear to me that we need a civilian review board and we need some serious police reform"
+    },
+    {
+      "block_id": 75,
+      "speaker": "SPEAKER_11",
+      "start": 4782.93,
+      "end": 4803.6,
+      "speaker_name": "Ashley",
+      "reason": "The speaker identifies herself as a resident and expresses support for a candidate.",
+      "text": "thank you good evening good evening thank you for your time my name is ashley and i lived in lancaster for the past 16 years i'm here today to proudly support janet diaz i want to start by saying something important i hear your frustration i understand the pain ashley i'm sorry i don't"
+    },
+    {
+      "block_id": 76,
+      "speaker": "SPEAKER_17",
+      "start": 4803.6,
+      "end": 4807.52,
+      "speaker_name": "Ashley Martinez",
+      "reason": "The speaker identified themselves and appeared to be addressing the council.",
+      "text": "know your last name can you just say your full name oh yeah ashley martinez thank you appreciate"
+    },
+    {
+      "block_id": 77,
+      "speaker": "SPEAKER_11",
+      "start": 4807.52,
+      "end": 4891.58,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion and concern regarding community issues and a specific individual.",
+      "text": "it thank you um i understand the pain especially from those in the muslim community who are hurting right now the injustice the discrimination it's real and your anger it's about it's valid but you're angry at the wrong person recently there have been hurtful and entirely false claims made against janet let me be absolutely clear that is not who janet is anyone who knows her who's worked with her knows that she has spent her life advocating for fairness inclusion and opportunity for everyone in our city her record speaks for itself these comments are not only untrue hurtful but they are shameful distractions from the real issues we face what we should really be talking about are the real issues that our city is facing families are being priced out of their homes gun violence is affecting our neighborhoods our youth are being overlooked and while all of is happening people are wasting time attacking a woman who has dedicated her life making this city better this city deserves a leader who brings people together someone who listens leads with compassion and takes action janet is that leader let's reject division and stand behind someone who truly cares about every resident of lancaster thank you so much thank you good evening i'm sorry"
+    },
+    {
+      "block_id": 78,
+      "speaker": "SPEAKER_14",
+      "start": 4891.58,
+      "end": 4977.55,
+      "speaker_name": "Asia Austin",
+      "reason": "The speaker is addressing the council regarding the terminology used to describe residents experiencing housing instability.",
+      "text": "i'm sorry thank you for having me back i just want to address two things again my name is asia austin two things one um i keep hearing a lot of residents get up and discuss homelessness i just think for the record please please please please stop calling them homeless and please start calling them displaced that is the proper term um number two number two um i was up here and i didn't know this when i was up here because i wasn't really listening because i was speaking directly to all of you um to sit here and hear when i went back there that someone is saying to me take that off your head that is so disrespectful there are a lot of women that are muslim who do not cover up because they are afraid that is scary to a woman like me if i wasn't as strong as i am and i was not raised in this community like i was i would not have been able to handle that i think something needs to be said something needs to be done to allow muslim people like me to feel comfortable in this community i don't know what that would be i don't know what that would look like but that is the conversation that this council should consider"
+    },
+    {
+      "block_id": 79,
+      "speaker": "SPEAKER_07",
+      "start": 4977.55,
+      "end": 5176.4,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and community regarding the nature of the meetings.",
+      "text": "having thank you thank you good evening again um council members community of the members and my family that's here um lately people have been calling these meetings the janet show and i just heard of that some say with laughs some say with frustration but let's talk about what that really means because if this is the janet show it means a woman of color standing her ground in a place that's really not built for her and let it be the Janet show let her be the star that she is and continues to be if it means growing up speaking up and refusing to be silent in the face of criticism then yes this is the Janet show so let's be clear that phrase is being used to minimize to mock and to dismiss very real work that she has put into this community for the past 10 years and the very real weight of what councilwoman Janet Diaz has carried for this city now on top of that she's being called islamophobic and let me say this plainly that is not who Janet is like I've expressed before she has stood up for immigrants from lower income families for unrepresented voices including Muslims in way that many people in this room never have yes a post was made it landed wrong but she took responsibility she listened and she opened her up she opened herself up to hard conversations this is what growth looks like not perfection but this is what leadership should look like but instead of making space for growth some of us would rather come in here and tear her down why because it is easier to shame than to understand correct because it is easier to label someone than to engage with them and try to get them get to know them better but I'm back here to say, because I was just up here, enough is enough. We cannot let one moment erase a legacy. We cannot let rumors or headlines override someone's truth, the truth that she lived every day and that we've seen that she lives every day. And we absolutely cannot let a woman's courage be turned into a punchline. So if this is a Janet show, then let it be a show of resilience, representation, and real leadership. Janet Diaz deserves our respect, not just us, but the whole community. She deserves our support, and she deserves better than this. Thank you, Janet, for everything you've done for my community, and not just mine, but each and every person that knocks on your door. I've never been able to stay here and text someone and call someone and get an answer right away, and have you come to my house and help me fix each and every problem that my community is facing. There were nights that I could not sleep because someone of my own family has died and deported. I did not know what to do, how to handle that situation. You came through and you helped and you continue to help my community that is full of Hindus, Muslims and Buddhists. So for them to come up here and say that you're Islamic, Islamophobic and all this and that, like I just, I'm so sorry that you have to go through this And thank you for all the support that you continue to give us, no matter the criticism that you face. Thank you, Ms. Kamal."
+    },
+    {
+      "block_id": 81,
+      "speaker": "SPEAKER_12",
+      "start": 5185.66,
+      "end": 5305.91,
+      "speaker_name": "Ivan Acosta-Velez",
+      "reason": "The speaker identifies himself as a resident and expresses opinions regarding the proceedings.",
+      "text": "Not that I'm scared of you. My name is Ivan Acosta-Velez. I apologize for the young lady that said about that thing. Mr. Acosta, please adjust for camera. I mean, sometimes you don't see it, so please, I'm 65 years old. You let other people do it, so take it back and listen, okay? Secondly, excuse me, I let you speak, let me speak. I've lived here almost 50 years, okay? And I was talking to a friend in Spanish and I got an answer that they said I should speak English. I speak English very well, because I was an English teacher, okay? And I was offended, and no one apologized to me. I had to defend myself. So we need to stop being picky, picky, picky on things, OK. And like they say, you sit up there and you make a lot of rules and you do this and do that. But let's put it to you. You do what you need to be doing. And if you would be doing what you need to be doing, it would be resolved. You might you might have whatever title you have, but that doesn't make you special on the God. What makes you on the special on the God is when you do. OK. by their fruits by their fruits they shall be known okay so I apologize to the young lady that they complain about scar but there's a lot of times when I'm speaking to someone in Spanish because they don't understand English and they told me to speak English how can you speak English to them when I first came to work here I worked at the first National Bank of Strasburg they told me I couldn't speak Spanish to the customers but then he speak English so how was I supposed to speak to them okay you can sit there and turn your heads and do your faces but you know what they'll fall on you and as I always say at the ballot box we'll let you know"
+    },
+    {
+      "block_id": 82,
+      "speaker": "SPEAKER_01",
+      "start": 5324.27,
+      "end": 5453.49,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns about the condition of Crystal Park and neighborhood safety.",
+      "text": "know how many times i have come here and told you guys that we need some upgrading at crystal park it hasn't been done we are going to open up the summer the west crystal volunteers are opening up the summer with mother's day i cannot secure safety in my neighborhood if the sockets are sticking out i mean they i could go on you need pictures or just come over so they had four homicides in lancaster most of those uh shootings has been happening and i don't accept that that and that was nothing like that these officers present in the neighborhood where they're at because they surely not they're not i stood at that park for 12 hours not one police officer passed by that missing a camera in that park i want that camera if all the other parks could have a camera we want a camera not the first time i'm asking for this we already paid for the flag post six hundred dollars out of our pocket fine that says the west crystal volunteers on it we want it i will keep coming back and walking to city hall i don't want to hear mine are there any"
+    },
+    {
+      "block_id": 84,
+      "speaker": "SPEAKER_06",
+      "start": 5475.94,
+      "end": 5571.34,
+      "speaker_name": "Betty Jones",
+      "reason": "The speaker identifies herself as a resident and expresses an opinion regarding a religious matter discussed in the meeting.",
+      "text": "Thank you. My name is Betty Jones and I live on the block of South End Street and I want to say hello to the members and my first response or remark I want to speak to the Islam woman to let her know that I do understand because I have Muslim sisters of my own and I do understand what she meant about removing her scarf because that's important and a secret it's a religious thing for people that don't understand my main subject here that i'm up here about is the tickets that we receive and street for trash originally i came here and i talked about it darling also her and i we talked about the tickets that were received mr ahmed you told me that you were going to take care of it so my question is to you has it been taken care of or will it be taken care of what i'm saying when i say taken care of look into what is the next steps that's going to happened with people that received these tickets these 250 tickets counselor med i know that i was"
+    },
+    {
+      "block_id": 86,
+      "speaker": "SPEAKER_23",
+      "start": 5576.14,
+      "end": 5611.8,
+      "speaker_name": "unknown",
+      "reason": "The speaker is following up with city administration regarding the status of tickets and fines.",
+      "text": "i did follow up with the administration um the mayor uh council president and director campbell uh director campbell did get back to me today and said that um he will get back to me on i did ask what was the status of the tickets um were there any um uh fines that were uh not waived but you know were they going to be looking into any waiving or any fines so i am i did reach out i'm waiting to hear back from director campbell i did get an email from him today and i will follow up with you and miss bird personally on the status of that"
+    },
+    {
+      "block_id": 88,
+      "speaker": "SPEAKER_02",
+      "start": 5627.47,
+      "end": 5724.96,
+      "speaker_name": "Edwin",
+      "reason": "The speaker identifies himself and expresses a strong opinion regarding the history of Lancaster.",
+      "text": "good evening good evening my name is edwin i just want to make a statement concerning the hatred i mean if anybody here has an idea right how lancaster was founded we would all shut up all of us because every saturday in this town in the middle of duke there's a clock for personal activities they used to hang a man of color if you don't have no information about that go to your public library or to the newspaper so you know this here just sounds like a bunch of rabbits running around eating carrots or lettuce i mean if we're here for ahmad Ms. D, whoever it is, like the gentleman said, go to the ballot box. My family been living here, I don't even know how long. I'm 63 years old, and I've been here a long time before a lot of you, especially you sitting up there pretending to be council people or whatever it is you classify yourself to be. These are the people, these are the people that count. They count that lady over here, she counts the Muslim ladies. But nobody in here is better than nobody. We're coming here to disqualify me by what she thought she said."
+    },
+    {
+      "block_id": 90,
+      "speaker": "SPEAKER_02",
+      "start": 5727.06,
+      "end": 5773.89,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion on a matter of public concern.",
+      "text": "On Instagram. I mean, that's ludicrous. You're going by what somebody said or somebody posted, even if she didn't. Even if she didn't, let's say she did, right? Does that really matter? I mean, does that, excuse me, does that really matter to the point where, like the man said, the ballot box is going to tell it all? We don't have to disqualify her here and hate on her there and whatever it is that's on your mind. The fact of the matter is that Lancaster was founded on hate, discrimination, and murder. Thank you for letting me share."
+    },
+    {
+      "block_id": 94,
+      "speaker": "SPEAKER_00",
+      "start": 5922.82,
+      "end": 5988.57,
+      "speaker_name": "unknown",
+      "reason": "The speaker expressed disappointment and frustration regarding the conduct of the meeting and mentioned a local event.",
+      "text": "In regards to the meeting tonight and what was discussed here, I'm disappointed and I'm frustrated by what I saw, and that's all I'm gonna say, because I think it does come down to whether the individuals of the public respect each other enough to let each other speak. And I am frustrated that that didn't happen tonight. On a lighter note, I did want to mention quickly that May is Bike Month. If you go to BikeAtLancaster.com slash Bike-Month, there's a list of events that are happening throughout the city. I just want to shout out one in particular, ride roll and stroll campaign which is in its second or third year um has their launch party it is this friday uh may 2nd at 6 p.m so come on out come on out to the city uh for first friday um and maybe get to know some of your neighbors there thank you thank you counselor hirsch any"
+    }
+  ]
+}

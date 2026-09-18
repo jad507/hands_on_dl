@@ -1,0 +1,126 @@
+{
+  "title": "City Council Committee Meeting - June 17, 2025",
+  "video_id": "e_aXcEkzyEY",
+  "upload_date": "20250618",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-03T21:08:28+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 2,
+      "speaker": "SPEAKER_04",
+      "start": 2937.34,
+      "end": 2943.06,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council with a specific concern regarding real estate.",
+      "text": "council and so this is you know if a small piece of real estate is better in"
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_00",
+      "start": 3558.42,
+      "end": 3580.23,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions about finding necessary information regarding the Charter.",
+      "text": "with the Charter and the information that were given here am I going to be able to find like all most of the answers that I need and if I can't find the answers that I need who I call so I need a book like yours well you don't"
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_01",
+      "start": 3705.31,
+      "end": 3756.84,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions about the definitions presented in a document.",
+      "text": "Thank you Madam President. So I haven't read it yet so I don't have really many questions but I was looking at section one where we have the definitions and how did you come up with those concepts or where did you get them? Because I know that we have other concepts, for example, like the departments, bureau, office. Sometimes we said, for example, the bureau of Lancaster, the police bureau of city of Lancaster, or for example, we said the Department of Administrative Services or the Department of Neighborhood Engagement. We have offices, we have boards, commissions, authorities."
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_03",
+      "start": 3822.33,
+      "end": 3835.02,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and offering input on a document.",
+      "text": "can we add the other definitions of what you can you can add or delete anything from this document this is your document not my document thank you that's all I have for now thank you"
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_07",
+      "start": 3843.56,
+      "end": 3861.35,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding budget transfers.",
+      "text": "questions question regarding the transfers you're saying that it's five percent of the funds in the budget light items does it matter how much it is like if it's in the millions it's five"
+    },
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_04",
+      "start": 3918.54,
+      "end": 3979.94,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and expressing questions regarding governance measures.",
+      "text": "counselor med thoughts and questions there you go uh thank you council president and uh thank you uh barry for your presentation this evening and i really appreciate some of the good governance measures around procurement and around the budgets i guess my only question and guidance that i would like to seek throughout this process is you know how much of this should we leave kind of not specifically defined and how much should we for example when it comes to things like accounts like how like should we make sure that each individual fund has its own individual account and does payroll have its own individual account or are these things that we should kind of leave um by your recommendation as a little bit less specific and like you know the charter gives us the guidance but how specific on some of these things should we go in the code"
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_04",
+      "start": 4257.51,
+      "end": 4288.55,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the new charter and state law ambiguities.",
+      "text": "uh thank you and i just have one final question and it's kind of in regards to like um with this new charter and some of the ambiguities of what state law is currently what state laws may change um is there anything in the administrative code that we could kind of put in to protect i don't want to say protect the city and council but so that every for instance every other day somebody isn't saying oh this state law actually you can do this or council should do this because of the state law when it's kind of responsible governance to not just act on everything just because we have"
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_09",
+      "start": 4457.18,
+      "end": 4532.1,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering thanks and commentary on the presentation of the budget timeline.",
+      "text": "Thank you. Great, I have one last thought of my own and I just wanna, well, thank you for putting this together. I particularly appreciate the tables that are included on the budget timeline and the other timelines because reading through that in the way it is presented in the charter is complicated to follow it was complicated to put the tables together you can imagine so I appreciate that thank you very much so at this time we can open up the meeting for public comment I'll just remind folks if they wish to make comment they're commenting on anything that was presented before us this evening if anyone wishes to do so you can do so at the microphone at the far end of the table it should be on and ready for you and you need to begin with your name and your block of residence for our meeting record and three minutes which I'll time on my phone this evening so if anyone wishes to do so now is the time all right good evening you'll have to take my word that I'm timing so good evening my name is Alexander King I live"
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_05",
+      "start": 4737.96,
+      "end": 4785.38,
+      "speaker_name": "Marshall Miller",
+      "reason": "The speaker is asking a question about the process for input changes regarding a proposed measure.",
+      "text": "Great. um marshall miller 100th block of east vine street um it sounds like the final version of this will be voted on in november just curious um how has the ability to put like input changes things of that nature leading up to the final passage or is it just final passage in november will be a process where amendments are added to do all of the changes that council would like to see separately you said that this document pulls from a bunch of different sources and i'm just curious if there is like a version of the document that outlines what is coming directly from the charter that cannot be changed or you know touched because it has to fulfill requirements in the charter and if that exists that would be helpful for me to see and probably counsel as well uh the the answers"
+    }
+  ]
+}

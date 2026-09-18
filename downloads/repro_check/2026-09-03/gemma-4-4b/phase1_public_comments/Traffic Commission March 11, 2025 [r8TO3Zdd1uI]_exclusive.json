@@ -1,0 +1,342 @@
+{
+  "title": "Traffic Commission March 11, 2025",
+  "video_id": "r8TO3Zdd1uI",
+  "upload_date": "20250312",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-03T21:08:28+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_05",
+      "start": 864.44,
+      "end": 873.44,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a direct question regarding future project scope and cost.",
+      "text": "You mentioned that in the future you might add another ramp and a crosswalk. Is that a future project just because it involves more cost than putting up the signs?"
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_08",
+      "start": 1214.26,
+      "end": 1313.76,
+      "speaker_name": "Josh Novak",
+      "reason": "The speaker, a general manager, is addressing the council regarding the renewal of parking spot utilization for the hotel and convention center.",
+      "text": "requester is mr josh novak yes yes um good afternoon i'm josh novak i'm the general manager for the lancaster marriott and lancaster county convention center and before you as the agenda indicated is the renewal um for utilization of the parking spots uh designated parking spots there on east king street right in front of the hotel and plow restaurant as activity at the hotel and convention center continues to increase these spots are really imperative to help accommodate uh arriving guests for both the hotel and events as you know if you've been downtown our driveway is a bit limited so when there are heavy activity going on there these spots are very very important for us to help unload guests and those who are arriving to the facility it also cuts down tremendously on volume of cars who are coming up queen street towards penn square who are in that turning lane waiting to turn into the driveway so uh we have been leasing them from the lancaster parking authority uh and it continues to be a very important area for us and it is currently legally a loading zone i mean yes we un i don't know the official designation of it but it we use it for loading and unloading yeah it is not it's not used to park it's it's for loading and unloading and we are a 24-hour business so this happens um around the"
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_05",
+      "start": 1484.04,
+      "end": 1503.87,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering an opinion regarding valet services and hotel parking.",
+      "text": "for valet services for sure i would just say somebody who has used a hotel i might not have read it ahead of time that I'm supposed to go in the garage initially until I went and got it doesn't surprise me that even if you're trying to get folks to go"
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_07",
+      "start": 1587.46,
+      "end": 1597.07,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding the public parking authority's support for a request.",
+      "text": "discussion any discussion from the public parking authority supports the request I'm sorry parking"
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_04",
+      "start": 1641.0,
+      "end": 1659.66,
+      "speaker_name": "unknown",
+      "reason": "The speaker appears to be offering an opinion about a person's suitability for a role.",
+      "text": "he was gonna be here tonight and well he looks like a good man to be on this"
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_02",
+      "start": 1720.19,
+      "end": 1731.71,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing a specific traffic/loading zone issue in the city.",
+      "text": "the loading zone i think we talked about the fact was going to be a loading zone on lemon street"
+    },
+    {
+      "block_id": 54,
+      "speaker": "SPEAKER_09",
+      "start": 1758.32,
+      "end": 1784.84,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns about traffic and loading zones in the city.",
+      "text": "and that's and that was a three today and there's four there right now the fire engine couldn't even turn to get down or tractor and trailer cannot turn at that street right now I've had loading zones for 65 years and all of a sudden we're not using"
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_09",
+      "start": 1888.95,
+      "end": 1948.96,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern regarding a situation on their block.",
+      "text": "sergeant drays told me something completely different he said it was not up to him and he came out and spoke against me here when I called when I called when this all happened I don't know why after 41 years nobody on the block ever complained and all of a sudden there was a person complaining I'm not complaining about loading zones that are 24 7 7 days a week I'm not asking for something like that which there are in the city I'm not asking for a loading zone in front of the liquor control store which they they load from the side. So it's all retail. So if somebody loses our loading zone, which I pay for, and goes to Lancaster Pickle Company, that's not good if you can't get a parking space on the block. They can't"
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_05",
+      "start": 2000.69,
+      "end": 2028.9,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing specific requests and recommendations regarding parking spots, indicating a community concern.",
+      "text": "request was withdrawn at the meeting and it looks like in the intro there's been a new request that was handled administratively for a handicapped parking spot which has been installed and then another request for a load zone and i see um that the recommendation from summer i believe was to deny it because it seems like a more appropriate space for a load zone would be mid-block."
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_09",
+      "start": 2030.25,
+      "end": 2042.99,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about the placement of a loading zone.",
+      "text": "So you're putting the loading zone that people use on Lemon Street so when the purveyors that go to the Belvedere, they have to cross two intersections"
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_09",
+      "start": 2075.32,
+      "end": 2106.99,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing parking and loading zone availability in the city.",
+      "text": "No, south would be, yes, I guess, if you want to call it south, yeah. So there is even another loading zone space at Lemon and Duke, which is not even used anymore. That's used for going to the funerals and the dentist offices and places like that. That's not loading and unloading either. So you have four car parking space on Lemon Street that has no businesses."
+    },
+    {
+      "block_id": 76,
+      "speaker": "SPEAKER_09",
+      "start": 2159.73,
+      "end": 2185.98,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns and opinions regarding loading zones for local businesses.",
+      "text": "fine, just as long as we have a loading zone. We have Airbnbs, we've got antique shops, we've got pickle shops, we've got nail salons, they all get shipments. What people are used to is they're used to the loading zone at this location. That's why I said it'd be more convenient and I'd be willing to pay for"
+    },
+    {
+      "block_id": 78,
+      "speaker": "SPEAKER_09",
+      "start": 2198.06,
+      "end": 2258.91,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing a change related to a handicap and loading zone, indicating a personal concern about a city matter.",
+      "text": "what the requests were or how it got changed but but I did after after the final summary of all this went down which I was very new I thought it was a a handicap and adding the loading zone to the behind the handicap section. When Travis Goode came to our place, he said when they were putting the 20.9 setback, he said they would probably add the two parking spaces behind that, and that calmed us down. I mean, we were all upset, you know, without notice and everything else that's happened to us. I think it's not the right way to do business, and I think we should be treating businesses in Lancaster a little bit better than what we're doing here."
+    },
+    {
+      "block_id": 82,
+      "speaker": "SPEAKER_09",
+      "start": 2277.11,
+      "end": 2282.38,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding a proposed change.",
+      "text": "Why not put it back where it was originally? Can I ask that question?"
+    },
+    {
+      "block_id": 85,
+      "speaker": "SPEAKER_07",
+      "start": 2288.84,
+      "end": 2336.06,
+      "speaker_name": "Larry Cohen",
+      "reason": "The speaker, representing the Parking Authority, is providing information regarding a former loading zone.",
+      "text": "Larry Cohen, Parking Authority. There was a mid-block loading zone that was paid for by building characters. They had it for several years. Marty gave it up, I think, at least over a year ago. because he stated that folks were just parking there and it wasn't being used as a loading zone. So I just wanted to let you know whatever decision you make, there was a mid-block pretty much in front of building characters. Of course, we need to enforce it, right? So that folks are not just parking there. But in the recent past, there was and it was given up by the building characters who paid for it. So I just wanted to let you know that."
+    },
+    {
+      "block_id": 87,
+      "speaker": "SPEAKER_09",
+      "start": 2347.46,
+      "end": 2382.22,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing local traffic patterns and business activity in a specific area.",
+      "text": "because everybody knows it. The people from out of town, they know it. They go to the Belvedere, the meat guys, the booze guys, you know, they all go there. So it's convenient. Our guys know it. All the postmen, all the drop-off guys to the pickle shop and all that there's all there all that the Korean restaurants they drop they park down there and put their food bring their food up to the restaurant yeah it's I mean you know and it's safer"
+    },
+    {
+      "block_id": 92,
+      "speaker": "SPEAKER_07",
+      "start": 2432.15,
+      "end": 2450.28,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing a request made by a local business owner regarding a loading zone.",
+      "text": "so marty from building characters had made the request for that loading zone mid-block on queen and he means he paid for it over the however many years and within the last year or two He said he did not want to pay for the loading zone anymore."
+    },
+    {
+      "block_id": 93,
+      "speaker": "SPEAKER_04",
+      "start": 2450.28,
+      "end": 2453.38,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding a city decision.",
+      "text": "So the mid-block loading zone was removed?"
+    },
+    {
+      "block_id": 96,
+      "speaker": "SPEAKER_07",
+      "start": 2462.86,
+      "end": 2468.86,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing a modification to a request, indicating a community concern.",
+      "text": "Well, that wasn't the original request, but if you're modifying that request... You've changed the request around. If you want to..."
+    },
+    {
+      "block_id": 100,
+      "speaker": "SPEAKER_07",
+      "start": 2483.34,
+      "end": 2496.06,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion or concern regarding a proposed traffic decision.",
+      "text": "So you would probably deny that request and approve re-institution of the mid-block? Which nobody wanted. Well, we have to enforce it, for sure."
+    },
+    {
+      "block_id": 103,
+      "speaker": "SPEAKER_06",
+      "start": 2505.18,
+      "end": 2519.49,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding a loading zone.",
+      "text": "I think Marty was paying for that loading zone that's a whole nother"
+    },
+    {
+      "block_id": 111,
+      "speaker": "SPEAKER_05",
+      "start": 2605.4,
+      "end": 2608.4,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion or preference regarding a city decision.",
+      "text": "So would you rather not have a load zone and have one further south?"
+    },
+    {
+      "block_id": 138,
+      "speaker": "SPEAKER_09",
+      "start": 3007.15,
+      "end": 3042.71,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about the impact of a city decision on parking and businesses.",
+      "text": "I trust your opinion. My digging in is it doesn't do anything. It takes up parking spaces. That's what it does. It sets back people. Now you have on Lemon Street you still have two loading zones on Lemon Street at two different locations with no businesses. What happens there? Does that make sense?"
+    },
+    {
+      "block_id": 146,
+      "speaker": "SPEAKER_09",
+      "start": 3066.97,
+      "end": 3090.97,
+      "speaker_name": "unknown",
+      "reason": "The speaker is questioning the presence of two loading zones in a specific area.",
+      "text": "And the second one is at the apartment building right across the street where I'm at. They have a loading zone in the back in the garage. You go in the garage and you load all your furniture up and it goes up the elevator. Why is there two there? There's only a corner store and a hair salon there. And she only has one appointment a day."
+    },
+    {
+      "block_id": 147,
+      "speaker": "SPEAKER_04",
+      "start": 3090.97,
+      "end": 3101.49,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing business aspects, suggesting a community concern.",
+      "text": "and she you know her customers like $3,000 a day I mean if you see it's all"
+    },
+    {
+      "block_id": 153,
+      "speaker": "SPEAKER_00",
+      "start": 3198.55,
+      "end": 3206.18,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the commission regarding information provided.",
+      "text": "yes good afternoon have you received the packet of information that i gave to mindy gable yes"
+    },
+    {
+      "block_id": 157,
+      "speaker": "SPEAKER_00",
+      "start": 3290.3,
+      "end": 3332.0,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a strong opinion and concern regarding the legal status of streets.",
+      "text": "the city has threatened has threatened to take us to court and i said fine take us to court because because I know we'll win, because it has to be a city street, because it's the Hamilton lots. If it's not a city street, then streets such as Christian, Cherry, Mifflin, those cannot be city streets then, because they fall all under the same jurisdiction, the original layout of the streets before Pennsylvania was even a state. I mean, that became a public street in 1752."
+    },
+    {
+      "block_id": 159,
+      "speaker": "SPEAKER_00",
+      "start": 3366.88,
+      "end": 3390.56,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing a prior agreement with the city council regarding a street classification.",
+      "text": "that adjudicates that type of a case well okay when i was talking with the city's council for this uh neil albert we agreed that it was they agreed it was a city street their only contention was the width of the street the city at that point in time that was their only contention"
+    },
+    {
+      "block_id": 164,
+      "speaker": "SPEAKER_00",
+      "start": 3462.6,
+      "end": 3478.52,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about traffic disruption related to their business operations.",
+      "text": "okay it'll tie up the traffic some of the times then because we have to unload tractor trailers i mean we've been operating there for next year next year will be our 100th year of operating there so it'll just tie up the traffic when we have to unload tractor trailers"
+    },
+    {
+      "block_id": 174,
+      "speaker": "SPEAKER_10",
+      "start": 3798.08,
+      "end": 3832.32,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern regarding elderly residents and parking issues.",
+      "text": "but I didn't. I would have to schedule for her to come in to see because she does work, so she's not able to come around this time. But she did bring it to my attention. And the elderlies that are living on the opposite direction that the neighbor question was, they're elderly, and they had to get to garages in order to avoid the constant trying to get parking, because those tow trucks are there."
+    },
+    {
+      "block_id": 181,
+      "speaker": "SPEAKER_03",
+      "start": 3946.36,
+      "end": 3975.0,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding the regulations for overweight and oversized vehicles.",
+      "text": "oversize again the way the organs is written the overweight and oversized it is about the weight it's not the overall dimension of the vehicle it's so it's the weight of the vehicle these vehicles are not blocking any sight lines or near a stop sign or anything like that causing a hazard or preventing people from seeing signage they're they're just parked and i know it's inconvenient and it's it's not courteous um but again it's not illegal either i will let her know"
+    },
+    {
+      "block_id": 183,
+      "speaker": "SPEAKER_04",
+      "start": 3980.81,
+      "end": 4012.2,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering an opinion on traffic management and enforcement.",
+      "text": "I think part of it may be having clarity in the immediate neighborhood of what to do and when these vehicles are allowed and when they're not allowed, so that one gets into the right rhythm, but also enforcing the trucks not being there when they're not supposed to be there, so that there's greater flexibility in terms of parking availability."
+    },
+    {
+      "block_id": 189,
+      "speaker": "SPEAKER_04",
+      "start": 4114.54,
+      "end": 4148.38,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding parking enforcement and follow-up on a situation.",
+      "text": "So it would be greatly appreciated if you can follow through and see if that situation has changed. Now that the weather is changing, it may be something that needs to be repeated in order to reinforce to people that they shouldn't be parking here. Yes. When they're not allowed to be parking there, but get into the right rhythm of it. Correct. Thank you. so is there any further action to be taken on that particular item"
+    }
+  ]
+}

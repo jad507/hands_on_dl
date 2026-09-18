@@ -1,0 +1,2449 @@
+{
+  "generated": "2026-09-03",
+  "seed": 20260903,
+  "n_requested": 180,
+  "n_drawn": 180,
+  "models": [
+    "gemma-4-4b",
+    "ministral-8b",
+    "phi-4",
+    "qwen3.5-9b-q6",
+    "qwen3.5-9b-q8"
+  ],
+  "context_blocks": 1,
+  "quotas": {
+    "0": 0.14,
+    "1": 0.2,
+    "2": 0.2,
+    "3": 0.2,
+    "4": 0.14,
+    "5": 0.12
+  },
+  "strata": {
+    "0": {
+      "population": 6806,
+      "requested": 25,
+      "drawn": 25,
+      "sampling_fraction": 0.003673,
+      "inverse_probability_weight": 272.24
+    },
+    "1": {
+      "population": 952,
+      "requested": 36,
+      "drawn": 36,
+      "sampling_fraction": 0.037815,
+      "inverse_probability_weight": 26.4444
+    },
+    "2": {
+      "population": 592,
+      "requested": 36,
+      "drawn": 36,
+      "sampling_fraction": 0.060811,
+      "inverse_probability_weight": 16.4444
+    },
+    "3": {
+      "population": 591,
+      "requested": 36,
+      "drawn": 36,
+      "sampling_fraction": 0.060914,
+      "inverse_probability_weight": 16.4167
+    },
+    "4": {
+      "population": 343,
+      "requested": 25,
+      "drawn": 25,
+      "sampling_fraction": 0.072886,
+      "inverse_probability_weight": 13.72
+    },
+    "5": {
+      "population": 785,
+      "requested": 22,
+      "drawn": 22,
+      "sampling_fraction": 0.028025,
+      "inverse_probability_weight": 35.6818
+    }
+  },
+  "items": [
+    {
+      "item": 1,
+      "meeting": "City Council Meeting - July 8, 2025 [wfwoElJE10U]",
+      "block_id": 11,
+      "speaker": "SPEAKER_11",
+      "start": 1024.75,
+      "end": 1193.71,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "gemma-4-4b"
+      ]
+    },
+    {
+      "item": 2,
+      "meeting": "City Council Committee Meeting - October 6, 2025 [bubudvmIB_E]_exclusive",
+      "block_id": 212,
+      "speaker": "SPEAKER_07",
+      "start": 12183.39,
+      "end": 12234.88,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 3,
+      "meeting": "Traffic Commission March 11, 2025 [r8TO3Zdd1uI]_exclusive",
+      "block_id": 51,
+      "speaker": "SPEAKER_02",
+      "start": 1720.19,
+      "end": 1731.71,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 4,
+      "meeting": "City Council Meeting - March 11, 2025 [fWjyrXs1ebs]_exclusive",
+      "block_id": 25,
+      "speaker": "SPEAKER_36",
+      "start": 1958.57,
+      "end": 2087.82,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 5,
+      "meeting": "Traffic Commission March 11, 2025 [r8TO3Zdd1uI]_exclusive",
+      "block_id": 31,
+      "speaker": "SPEAKER_08",
+      "start": 1403.47,
+      "end": 1418.7,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 6,
+      "meeting": "City Council Meeting - May 27, 2025 [vexHgMfzvKE]_standard",
+      "block_id": 37,
+      "speaker": "SPEAKER_05",
+      "start": 1937.22,
+      "end": 1946.84,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 7,
+      "meeting": "City Council Meeting - May 13, 2025 [eDkBOrErMeE]_standard",
+      "block_id": 105,
+      "speaker": "SPEAKER_20",
+      "start": 6616.12,
+      "end": 6642.3,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 8,
+      "meeting": "City Council Committee Meeting - October 6, 2025 [bubudvmIB_E]_exclusive",
+      "block_id": 130,
+      "speaker": "SPEAKER_14",
+      "start": 8480.62,
+      "end": 8508.95,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 9,
+      "meeting": "Traffic Commission Meeting - November 11, 2025 [Wof-B6HAg2g]",
+      "block_id": 62,
+      "speaker": "UNKNOWN",
+      "start": 1740.64,
+      "end": 1744.02,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 10,
+      "meeting": "Planning Commission - August 6, 2025 [m50W4pVkNb4]_standard",
+      "block_id": 196,
+      "speaker": "SPEAKER_28",
+      "start": 10527.94,
+      "end": 10559.38,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 11,
+      "meeting": "Planning Commission - August 6, 2025 [m50W4pVkNb4]_standard",
+      "block_id": 213,
+      "speaker": "SPEAKER_25",
+      "start": 11267.14,
+      "end": 11281.17,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 12,
+      "meeting": "City Council Meeting - September 9, 2025 [H5Gp_GuYYYg]_exclusive",
+      "block_id": 42,
+      "speaker": "SPEAKER_03",
+      "start": 3093.86,
+      "end": 3143.05,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 13,
+      "meeting": "City Council Ethics Code Work Session - November 6, 2025 [VZRKugPc6QU]",
+      "block_id": 139,
+      "speaker": "UNKNOWN",
+      "start": 2662.52,
+      "end": 2689.14,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 14,
+      "meeting": "City Council Committee Meeting - October 6, 2025 [bubudvmIB_E]_exclusive",
+      "block_id": 137,
+      "speaker": "SPEAKER_15",
+      "start": 8734.6,
+      "end": 8806.43,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 15,
+      "meeting": "Traffic Commission March 11, 2025 [r8TO3Zdd1uI]_standard",
+      "block_id": 107,
+      "speaker": "SPEAKER_05",
+      "start": 2551.01,
+      "end": 2564.47,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 16,
+      "meeting": "Planning Commission Meeting - September 17, 2025 [sM9P2_ZC46M]_exclusive",
+      "block_id": 248,
+      "speaker": "SPEAKER_17",
+      "start": 14549.07,
+      "end": 14581.85,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 17,
+      "meeting": "Planning Commission Meeting - September 17, 2025 [sM9P2_ZC46M]_standard",
+      "block_id": 19,
+      "speaker": "SPEAKER_04",
+      "start": 3172.76,
+      "end": 3178.28,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 18,
+      "meeting": "Planning Commission - August 6, 2025 [m50W4pVkNb4]_exclusive",
+      "block_id": 19,
+      "speaker": "SPEAKER_31",
+      "start": 2836.75,
+      "end": 2935.21,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 19,
+      "meeting": "Planning Commission - August 6, 2025 [m50W4pVkNb4]_exclusive",
+      "block_id": 164,
+      "speaker": "SPEAKER_24",
+      "start": 9835.12,
+      "end": 9857.2,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 20,
+      "meeting": "City Council Committee Meeting - November 3, 2025 [nE5HiAtqwpA]",
+      "block_id": 337,
+      "speaker": "UNKNOWN",
+      "start": 7390.32,
+      "end": 7394.64,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 21,
+      "meeting": "City Council Committee Meeting - September 16, 2025 [XzF6-XCVRFc]_exclusive",
+      "block_id": 59,
+      "speaker": "SPEAKER_06",
+      "start": 3282.62,
+      "end": 3293.18,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "phi-4",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 22,
+      "meeting": "Planning Commission [vqNOsyBYp08]",
+      "block_id": 34,
+      "speaker": "SPEAKER_01",
+      "start": 1725.87,
+      "end": 1787.53,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 23,
+      "meeting": "City Council Budget Hearing - November 18, 2025 [W6aSdOttjPk]",
+      "block_id": 115,
+      "speaker": "UNKNOWN",
+      "start": 3287.92,
+      "end": 3297.76,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 24,
+      "meeting": "City Council Meeting - May 27, 2025 [vexHgMfzvKE]_standard",
+      "block_id": 28,
+      "speaker": "SPEAKER_17",
+      "start": 1699.6,
+      "end": 1713.85,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 25,
+      "meeting": "Traffic Commission March 11, 2025 [r8TO3Zdd1uI]_standard",
+      "block_id": 175,
+      "speaker": "SPEAKER_10",
+      "start": 3798.08,
+      "end": 3832.32,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 26,
+      "meeting": "Planning Commission Meeting - September 3, 2025 [5PuBv9zFX3I]_standard",
+      "block_id": 92,
+      "speaker": "SPEAKER_09",
+      "start": 4257.86,
+      "end": 4266.95,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 27,
+      "meeting": "City Council Meeting - August 12, 2025 [Pg4nxjg-PUw]",
+      "block_id": 24,
+      "speaker": "SPEAKER_24",
+      "start": 2312.0,
+      "end": 2395.98,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 28,
+      "meeting": "City Council Meeting - April 8, 2025 [JNe8AGFZlIA]_exclusive",
+      "block_id": 83,
+      "speaker": "SPEAKER_21",
+      "start": 3723.4,
+      "end": 3740.45,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 29,
+      "meeting": "Planning Commission Meeting - September 17, 2025 [sM9P2_ZC46M]_standard",
+      "block_id": 219,
+      "speaker": "SPEAKER_10",
+      "start": 13806.0,
+      "end": 13877.82,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b"
+      ]
+    },
+    {
+      "item": 30,
+      "meeting": "City Council Committee Meeting - February 3, 2025 [aHT_ba_YwG8]",
+      "block_id": 36,
+      "speaker": "SPEAKER_07",
+      "start": 1942.8,
+      "end": 1966.69,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 31,
+      "meeting": "City Council Meeting - October 28, 2025 [Ffwwu-vf22M]",
+      "block_id": 166,
+      "speaker": "SPEAKER_00",
+      "start": 3754.69,
+      "end": 3806.27,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 32,
+      "meeting": "City Council Special Meeting - November 20, 2025 [aZVPtb9bsEE]",
+      "block_id": 105,
+      "speaker": "UNKNOWN",
+      "start": 3351.77,
+      "end": 3359.27,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "gemma-4-4b"
+      ]
+    },
+    {
+      "item": 33,
+      "meeting": "City Council Committee Meeting - July 15, 2025 [z0C4LoiIcxE]_standard",
+      "block_id": 6,
+      "speaker": "SPEAKER_00",
+      "start": 667.41,
+      "end": 708.45,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 34,
+      "meeting": "City Council Committee Meeting - November 3, 2025 [nE5HiAtqwpA]",
+      "block_id": 35,
+      "speaker": "UNKNOWN",
+      "start": 1110.78,
+      "end": 1122.46,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 35,
+      "meeting": "Planning Commission Meeting - September 17, 2025 [sM9P2_ZC46M]_exclusive",
+      "block_id": 49,
+      "speaker": "SPEAKER_10",
+      "start": 4305.78,
+      "end": 4342.16,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 36,
+      "meeting": "City Council Committee Meeting - August 11, 2025 [6DXgO59xzeU]_standard",
+      "block_id": 38,
+      "speaker": "SPEAKER_02",
+      "start": 2123.88,
+      "end": 2151.56,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 37,
+      "meeting": "Home Rule Transition Committee Meeting - July 29, 2025 [c0vXcHFIjvA]_exclusive",
+      "block_id": 29,
+      "speaker": "SPEAKER_03",
+      "start": 1118.21,
+      "end": 1150.45,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 38,
+      "meeting": "City Council Committee Meeting - August 11, 2025 [6DXgO59xzeU]_standard",
+      "block_id": 59,
+      "speaker": "SPEAKER_11",
+      "start": 3228.82,
+      "end": 3258.89,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 39,
+      "meeting": "City Council Meeting - May 13, 2025 [eDkBOrErMeE]_standard",
+      "block_id": 172,
+      "speaker": "SPEAKER_20",
+      "start": 9340.89,
+      "end": 9347.16,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 40,
+      "meeting": "City Council Meeting - April 29, 2025 [5N3AIQLoNPU]_exclusive",
+      "block_id": 19,
+      "speaker": "SPEAKER_15",
+      "start": 1859.56,
+      "end": 1866.32,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 41,
+      "meeting": "City Council Committee Meeting - April 1, 2025 [kplLo-BL1w0]_standard",
+      "block_id": 27,
+      "speaker": "SPEAKER_00",
+      "start": 1458.49,
+      "end": 1507.88,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 42,
+      "meeting": "Traffic Commission March 11, 2025 [r8TO3Zdd1uI]_exclusive",
+      "block_id": 113,
+      "speaker": "SPEAKER_03",
+      "start": 2613.56,
+      "end": 2615.14,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 43,
+      "meeting": "Traffic Commission Meeting - November 11, 2025 [Wof-B6HAg2g]",
+      "block_id": 105,
+      "speaker": "SPEAKER_00",
+      "start": 2840.58,
+      "end": 2862.79,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "ministral-8b",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 44,
+      "meeting": "City Council Committee Meeting - October 6, 2025 [bubudvmIB_E]_standard",
+      "block_id": 195,
+      "speaker": "SPEAKER_26",
+      "start": 11254.19,
+      "end": 11280.16,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 45,
+      "meeting": "City Council Special Meeting - November 20, 2025 [aZVPtb9bsEE]",
+      "block_id": 226,
+      "speaker": "SPEAKER_00",
+      "start": 5959.92,
+      "end": 5965.28,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 46,
+      "meeting": "City Council Special Meeting - November 20, 2025 [aZVPtb9bsEE]",
+      "block_id": 307,
+      "speaker": "UNKNOWN",
+      "start": 9171.36,
+      "end": 9176.4,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 47,
+      "meeting": "City Council Meeting - May 27, 2025 [vexHgMfzvKE]_exclusive",
+      "block_id": 34,
+      "speaker": "SPEAKER_12",
+      "start": 1841.33,
+      "end": 1878.46,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 48,
+      "meeting": "Planning Commission Meeting - September 3, 2025 [5PuBv9zFX3I]_standard",
+      "block_id": 18,
+      "speaker": "SPEAKER_05",
+      "start": 1593.08,
+      "end": 1599.42,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 49,
+      "meeting": "Planning Commission Meeting - September 3, 2025 [5PuBv9zFX3I]_exclusive",
+      "block_id": 91,
+      "speaker": "SPEAKER_12",
+      "start": 4378.31,
+      "end": 4433.78,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 50,
+      "meeting": "City Council Committee Meeting - April 1, 2025 [kplLo-BL1w0]_standard",
+      "block_id": 97,
+      "speaker": "SPEAKER_09",
+      "start": 5552.59,
+      "end": 5569.09,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 51,
+      "meeting": "City Council Meeting - April 8, 2025 [JNe8AGFZlIA]_standard",
+      "block_id": 102,
+      "speaker": "SPEAKER_07",
+      "start": 4090.38,
+      "end": 4167.06,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 52,
+      "meeting": "City Council Budget Hearing - October 21, 2025 [pkVzY-53sJI]",
+      "block_id": 258,
+      "speaker": "UNKNOWN",
+      "start": 5610.71,
+      "end": 5618.47,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 53,
+      "meeting": "Home Rule Transition Committee Meeting - October 29, 2025 [mPnWxdvDGQA]",
+      "block_id": 44,
+      "speaker": "UNKNOWN",
+      "start": 1656.38,
+      "end": 1661.36,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 54,
+      "meeting": "City Council Meeting - April 29, 2025 [5N3AIQLoNPU]_standard",
+      "block_id": 22,
+      "speaker": "SPEAKER_17",
+      "start": 2103.86,
+      "end": 2108.1,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 55,
+      "meeting": "City Council Committee Meeting - March 3, 2025 [qEcut0Mpq30]",
+      "block_id": 66,
+      "speaker": "SPEAKER_06",
+      "start": 4176.38,
+      "end": 4229.97,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 56,
+      "meeting": "Traffic Commission Meeting - November 11, 2025 [Wof-B6HAg2g]",
+      "block_id": 149,
+      "speaker": "SPEAKER_00",
+      "start": 4214.86,
+      "end": 4238.87,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 57,
+      "meeting": "City Council Committee Meeting - May 5, 2025 [aG_PgLEdQ8s]_exclusive",
+      "block_id": 39,
+      "speaker": "SPEAKER_06",
+      "start": 2010.03,
+      "end": 2027.95,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 58,
+      "meeting": "City Council Meeting - April 29, 2025 [5N3AIQLoNPU]_exclusive",
+      "block_id": 76,
+      "speaker": "SPEAKER_01",
+      "start": 5324.27,
+      "end": 5453.49,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 59,
+      "meeting": "City Council Meeting - November 11, 2025 [X3DupuiqLts]",
+      "block_id": 69,
+      "speaker": "UNKNOWN",
+      "start": 1979.63,
+      "end": 1985.31,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "ministral-8b",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 60,
+      "meeting": "City Council Special Meeting - November 20, 2025 [aZVPtb9bsEE]",
+      "block_id": 16,
+      "speaker": "SPEAKER_00",
+      "start": 1043.29,
+      "end": 1055.92,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 61,
+      "meeting": "City Council Committee Meeting - February 3, 2025 [aHT_ba_YwG8]",
+      "block_id": 67,
+      "speaker": "SPEAKER_01",
+      "start": 3631.16,
+      "end": 3639.98,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 62,
+      "meeting": "City Council Committee Meeting - April 1, 2025 [kplLo-BL1w0]_standard",
+      "block_id": 201,
+      "speaker": "SPEAKER_02",
+      "start": 9417.2,
+      "end": 9427.34,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 63,
+      "meeting": "City Council Committee Meeting - June 2, 2025 [gyhG_Bp4bV4]_exclusive",
+      "block_id": 67,
+      "speaker": "SPEAKER_06",
+      "start": 4862.58,
+      "end": 4885.22,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 64,
+      "meeting": "Planning Commission - August 6, 2025 [m50W4pVkNb4]_exclusive",
+      "block_id": 192,
+      "speaker": "SPEAKER_22",
+      "start": 10461.23,
+      "end": 10498.43,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 65,
+      "meeting": "Traffic Commission March 11, 2025 [r8TO3Zdd1uI]_exclusive",
+      "block_id": 67,
+      "speaker": "SPEAKER_04",
+      "start": 2042.99,
+      "end": 2050.78,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 66,
+      "meeting": "City Council Committee Meeting - November 3, 2025 [nE5HiAtqwpA]",
+      "block_id": 145,
+      "speaker": "UNKNOWN",
+      "start": 3403.34,
+      "end": 3416.32,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 67,
+      "meeting": "City Council Meeting - November 11, 2025 [X3DupuiqLts]",
+      "block_id": 202,
+      "speaker": "SPEAKER_00",
+      "start": 4817.72,
+      "end": 4843.17,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 68,
+      "meeting": "City Council Committee Meeting - July 15, 2025 [z0C4LoiIcxE]_standard",
+      "block_id": 14,
+      "speaker": "SPEAKER_03",
+      "start": 951.32,
+      "end": 987.91,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 69,
+      "meeting": "Planning Commission Meeting - September 17, 2025 [sM9P2_ZC46M]_exclusive",
+      "block_id": 268,
+      "speaker": "SPEAKER_17",
+      "start": 15108.94,
+      "end": 15115.5,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 70,
+      "meeting": "City Council Meeting - March 11, 2025 [fWjyrXs1ebs]_exclusive",
+      "block_id": 140,
+      "speaker": "SPEAKER_29",
+      "start": 7235.22,
+      "end": 7237.36,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 71,
+      "meeting": "City Council Meeting - May 13, 2025 [eDkBOrErMeE]_standard",
+      "block_id": 169,
+      "speaker": "SPEAKER_28",
+      "start": 9123.83,
+      "end": 9260.06,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "phi-4",
+        "qwen3.5-9b-q6"
+      ]
+    },
+    {
+      "item": 72,
+      "meeting": "City Council Ethics Code Work Session - November 6, 2025 [VZRKugPc6QU]",
+      "block_id": 89,
+      "speaker": "UNKNOWN",
+      "start": 1927.03,
+      "end": 1930.69,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 73,
+      "meeting": "City Council Meeting - April 8, 2025 [JNe8AGFZlIA]_standard",
+      "block_id": 196,
+      "speaker": "SPEAKER_14",
+      "start": 7377.08,
+      "end": 7388.99,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 74,
+      "meeting": "City Council Meeting - August 12, 2025 [Pg4nxjg-PUw]_exclusive",
+      "block_id": 35,
+      "speaker": "SPEAKER_11",
+      "start": 2607.14,
+      "end": 2612.95,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 75,
+      "meeting": "City Council Special Meeting - November 20, 2025 [aZVPtb9bsEE]",
+      "block_id": 168,
+      "speaker": "SPEAKER_00",
+      "start": 4662.56,
+      "end": 4717.24,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 76,
+      "meeting": "Planning Commission - August 6, 2025 [m50W4pVkNb4]_exclusive",
+      "block_id": 23,
+      "speaker": "SPEAKER_13",
+      "start": 3257.78,
+      "end": 3372.31,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 77,
+      "meeting": "City Council Committee Meeting - October 6, 2025 [bubudvmIB_E]_standard",
+      "block_id": 132,
+      "speaker": "SPEAKER_11",
+      "start": 8516.69,
+      "end": 8539.54,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 78,
+      "meeting": "City Council Committee Meeting - July 15, 2025 [z0C4LoiIcxE]_standard",
+      "block_id": 44,
+      "speaker": "SPEAKER_03",
+      "start": 1803.84,
+      "end": 1805.94,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 79,
+      "meeting": "City Council Special Meeting - November 20, 2025 [aZVPtb9bsEE]",
+      "block_id": 310,
+      "speaker": "SPEAKER_00",
+      "start": 9250.7,
+      "end": 9262.36,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 80,
+      "meeting": "Planning Commission Meeting - September 17, 2025 [sM9P2_ZC46M]_standard",
+      "block_id": 204,
+      "speaker": "SPEAKER_10",
+      "start": 13330.56,
+      "end": 13374.43,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 81,
+      "meeting": "City Council Meeting - March 25, 2025 [Ifn8fwwBK0I]_standard",
+      "block_id": 121,
+      "speaker": "SPEAKER_20",
+      "start": 6414.1,
+      "end": 6418.84,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 82,
+      "meeting": "City Council Meeting - February 11, 2025 [JJbmuzCmd6s]_exclusive",
+      "block_id": 49,
+      "speaker": "SPEAKER_04",
+      "start": 1318.33,
+      "end": 1359.06,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 83,
+      "meeting": "City Council Committee Meeting - March 3, 2025 [qEcut0Mpq30]",
+      "block_id": 62,
+      "speaker": "SPEAKER_07",
+      "start": 3418.9,
+      "end": 3936.94,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "gemma-4-4b"
+      ]
+    },
+    {
+      "item": 84,
+      "meeting": "City Council Meeting - May 13, 2025 [eDkBOrErMeE]_standard",
+      "block_id": 113,
+      "speaker": "SPEAKER_12",
+      "start": 6880.12,
+      "end": 6951.0,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 85,
+      "meeting": "City Council Committee Meeting - November 3, 2025 [nE5HiAtqwpA]",
+      "block_id": 376,
+      "speaker": "SPEAKER_00",
+      "start": 8058.5,
+      "end": 8068.34,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 86,
+      "meeting": "City Council Committee Meeting - June 2, 2025 [gyhG_Bp4bV4]_exclusive",
+      "block_id": 84,
+      "speaker": "SPEAKER_06",
+      "start": 5519.88,
+      "end": 5545.56,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 87,
+      "meeting": "City Council Committee Meeting - April 1, 2025 [kplLo-BL1w0]_standard",
+      "block_id": 211,
+      "speaker": "SPEAKER_05",
+      "start": 9532.95,
+      "end": 9546.06,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 88,
+      "meeting": "City Council Meeting - February 11, 2025 [JJbmuzCmd6s]_standard",
+      "block_id": 59,
+      "speaker": "SPEAKER_08",
+      "start": 1740.54,
+      "end": 1773.53,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 89,
+      "meeting": "City Council Committee Meeting - November 3, 2025 [nE5HiAtqwpA]",
+      "block_id": 226,
+      "speaker": "SPEAKER_00",
+      "start": 4923.86,
+      "end": 4932.12,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 90,
+      "meeting": "City Council Committee Meeting - July 1, 2025 [GduwovKQ8ek]_standard",
+      "block_id": 37,
+      "speaker": "SPEAKER_02",
+      "start": 3689.28,
+      "end": 3699.9,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "ministral-8b"
+      ]
+    },
+    {
+      "item": 91,
+      "meeting": "City Council Committee Meeting - May 5, 2025 [aG_PgLEdQ8s]_standard",
+      "block_id": 61,
+      "speaker": "SPEAKER_02",
+      "start": 2628.65,
+      "end": 2638.49,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 92,
+      "meeting": "City Council Committee Meeting - May 5, 2025 [aG_PgLEdQ8s]_exclusive",
+      "block_id": 58,
+      "speaker": "SPEAKER_13",
+      "start": 2540.48,
+      "end": 2574.09,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 93,
+      "meeting": "City Council Meeting - February 11, 2025 [JJbmuzCmd6s]_exclusive",
+      "block_id": 27,
+      "speaker": "SPEAKER_00",
+      "start": 889.01,
+      "end": 912.51,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 94,
+      "meeting": "City Council Meeting - June 10, 2025 [PqPxK5dVghI]_standard",
+      "block_id": 115,
+      "speaker": "SPEAKER_07",
+      "start": 4209.9,
+      "end": 4233.4,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 95,
+      "meeting": "Planning Commission - August 6, 2025 [m50W4pVkNb4]_standard",
+      "block_id": 170,
+      "speaker": "SPEAKER_27",
+      "start": 9926.15,
+      "end": 9951.23,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "phi-4",
+        "qwen3.5-9b-q6"
+      ]
+    },
+    {
+      "item": 96,
+      "meeting": "City Council Committee Meeting - July 15, 2025 [z0C4LoiIcxE]_exclusive",
+      "block_id": 29,
+      "speaker": "SPEAKER_07",
+      "start": 1373.67,
+      "end": 1436.78,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 97,
+      "meeting": "City Council Committee Meeting - June 2, 2025 [gyhG_Bp4bV4]_standard",
+      "block_id": 18,
+      "speaker": "SPEAKER_01",
+      "start": 1763.71,
+      "end": 1793.37,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 98,
+      "meeting": "City Council Meeting - June 10, 2025 [PqPxK5dVghI]_exclusive",
+      "block_id": 12,
+      "speaker": "SPEAKER_18",
+      "start": 788.1,
+      "end": 799.87,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 99,
+      "meeting": "City Council Meeting - August 12, 2025 [Pg4nxjg-PUw]_standard",
+      "block_id": 54,
+      "speaker": "SPEAKER_20",
+      "start": 4028.91,
+      "end": 4205.96,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 100,
+      "meeting": "City Council Committee Meeting - October 6, 2025 [bubudvmIB_E]_standard",
+      "block_id": 221,
+      "speaker": "SPEAKER_06",
+      "start": 12649.92,
+      "end": 12707.86,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 101,
+      "meeting": "City Council Budget Hearing - October 21, 2025 [pkVzY-53sJI]",
+      "block_id": 384,
+      "speaker": "UNKNOWN",
+      "start": 8302.94,
+      "end": 8342.04,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 102,
+      "meeting": "Planning Commission - August 6, 2025 [m50W4pVkNb4]_exclusive",
+      "block_id": 63,
+      "speaker": "SPEAKER_28",
+      "start": 5917.98,
+      "end": 5930.66,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 103,
+      "meeting": "City Council Committee Meeting - May 5, 2025 [aG_PgLEdQ8s]_exclusive",
+      "block_id": 40,
+      "speaker": "SPEAKER_11",
+      "start": 2027.95,
+      "end": 2044.48,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 104,
+      "meeting": "City Council Committee Meeting - November 3, 2025 [nE5HiAtqwpA]",
+      "block_id": 373,
+      "speaker": "UNKNOWN",
+      "start": 7956.0,
+      "end": 8044.98,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b"
+      ]
+    },
+    {
+      "item": 105,
+      "meeting": "City Council Meeting - November 11, 2025 [X3DupuiqLts]",
+      "block_id": 111,
+      "speaker": "UNKNOWN",
+      "start": 2883.49,
+      "end": 2929.14,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 106,
+      "meeting": "City Council Meeting - March 25, 2025 [Ifn8fwwBK0I]_exclusive",
+      "block_id": 128,
+      "speaker": "SPEAKER_24",
+      "start": 7002.56,
+      "end": 7006.06,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 107,
+      "meeting": "City Council Committee Meeting - November 3, 2025 [nE5HiAtqwpA]",
+      "block_id": 218,
+      "speaker": "SPEAKER_00",
+      "start": 4806.67,
+      "end": 4826.32,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "gemma-4-4b"
+      ]
+    },
+    {
+      "item": 108,
+      "meeting": "Planning Commission - August 6, 2025 [m50W4pVkNb4]_standard",
+      "block_id": 45,
+      "speaker": "SPEAKER_28",
+      "start": 5348.77,
+      "end": 5379.72,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 109,
+      "meeting": "City Council Meeting - March 25, 2025 [Ifn8fwwBK0I]_standard",
+      "block_id": 75,
+      "speaker": "SPEAKER_08",
+      "start": 4542.29,
+      "end": 4662.73,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 110,
+      "meeting": "City Council Meeting - July 8, 2025 [wfwoElJE10U]",
+      "block_id": 65,
+      "speaker": "SPEAKER_10",
+      "start": 2646.38,
+      "end": 2719.74,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 111,
+      "meeting": "City Council Committee Meeting - August 11, 2025 [6DXgO59xzeU]_standard",
+      "block_id": 15,
+      "speaker": "SPEAKER_09",
+      "start": 1112.12,
+      "end": 1155.86,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 112,
+      "meeting": "Planning Commission Meeting - September 17, 2025 [sM9P2_ZC46M]_exclusive",
+      "block_id": 236,
+      "speaker": "SPEAKER_10",
+      "start": 14266.41,
+      "end": 14299.45,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 113,
+      "meeting": "City Council Committee Meeting - October 6, 2025 [bubudvmIB_E]_standard",
+      "block_id": 183,
+      "speaker": "SPEAKER_24",
+      "start": 10896.68,
+      "end": 10925.2,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 114,
+      "meeting": "City Council Committee Meeting - July 15, 2025 [z0C4LoiIcxE]_standard",
+      "block_id": 17,
+      "speaker": "SPEAKER_06",
+      "start": 1012.21,
+      "end": 1024.13,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 115,
+      "meeting": "City Council Committee Meeting - April 1, 2025 [kplLo-BL1w0]_standard",
+      "block_id": 220,
+      "speaker": "SPEAKER_08",
+      "start": 9774.27,
+      "end": 9816.19,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 116,
+      "meeting": "City Council Special Meeting - November 20, 2025 [aZVPtb9bsEE]",
+      "block_id": 234,
+      "speaker": "SPEAKER_00",
+      "start": 6223.6,
+      "end": 6309.56,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 117,
+      "meeting": "City Council Meeting - May 13, 2025 [eDkBOrErMeE]_standard",
+      "block_id": 187,
+      "speaker": "SPEAKER_25",
+      "start": 10433.3,
+      "end": 10464.69,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 118,
+      "meeting": "City Council Meeting - May 13, 2025 [eDkBOrErMeE]_exclusive",
+      "block_id": 53,
+      "speaker": "SPEAKER_08",
+      "start": 4187.1,
+      "end": 4374.56,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "phi-4",
+        "qwen3.5-9b-q6"
+      ]
+    },
+    {
+      "item": 119,
+      "meeting": "City Council Committee Meeting - February 3, 2025 [aHT_ba_YwG8]",
+      "block_id": 78,
+      "speaker": "SPEAKER_02",
+      "start": 4380.27,
+      "end": 4472.74,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 120,
+      "meeting": "City Council Meeting - April 8, 2025 [JNe8AGFZlIA]_exclusive",
+      "block_id": 131,
+      "speaker": "SPEAKER_17",
+      "start": 4716.54,
+      "end": 4796.43,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 121,
+      "meeting": "City Council Meeting - May 13, 2025 [eDkBOrErMeE]_exclusive",
+      "block_id": 74,
+      "speaker": "SPEAKER_07",
+      "start": 5302.19,
+      "end": 5311.55,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 122,
+      "meeting": "City Council Special Meeting - November 20, 2025 [aZVPtb9bsEE]",
+      "block_id": 217,
+      "speaker": "UNKNOWN",
+      "start": 5691.66,
+      "end": 5700.42,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 123,
+      "meeting": "City Council Committee Meeting - September 2, 2025 [bNf9xj20-xg]_standard",
+      "block_id": 90,
+      "speaker": "SPEAKER_15",
+      "start": 4236.36,
+      "end": 4355.28,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 124,
+      "meeting": "City Council Meeting - March 11, 2025 [fWjyrXs1ebs]_standard",
+      "block_id": 146,
+      "speaker": "SPEAKER_10",
+      "start": 7769.63,
+      "end": 8021.96,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 125,
+      "meeting": "City Council Budget Hearing - November 18, 2025 [W6aSdOttjPk]",
+      "block_id": 207,
+      "speaker": "UNKNOWN",
+      "start": 4927.0,
+      "end": 4931.7,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4",
+        "qwen3.5-9b-q6"
+      ]
+    },
+    {
+      "item": 126,
+      "meeting": "City Council Meeting - May 13, 2025 [eDkBOrErMeE]_standard",
+      "block_id": 65,
+      "speaker": "SPEAKER_19",
+      "start": 5094.09,
+      "end": 5111.45,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 127,
+      "meeting": "City Council Committee Meeting - November 3, 2025 [nE5HiAtqwpA]",
+      "block_id": 183,
+      "speaker": "UNKNOWN",
+      "start": 4001.47,
+      "end": 4017.23,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 128,
+      "meeting": "HARB Meeting March 4 2025 [jXEH5zsabJU]",
+      "block_id": 5,
+      "speaker": "SPEAKER_02",
+      "start": 238.1,
+      "end": 260.48,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 129,
+      "meeting": "Planning Commission Meeting - September 17, 2025 [sM9P2_ZC46M]_exclusive",
+      "block_id": 47,
+      "speaker": "SPEAKER_10",
+      "start": 4208.77,
+      "end": 4236.62,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "gemma-4-4b"
+      ]
+    },
+    {
+      "item": 130,
+      "meeting": "Planning Commission - August 6, 2025 [m50W4pVkNb4]_standard",
+      "block_id": 129,
+      "speaker": "SPEAKER_20",
+      "start": 8449.86,
+      "end": 8462.55,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 131,
+      "meeting": "Traffic Commission Meeting - November 11, 2025 [Wof-B6HAg2g]",
+      "block_id": 111,
+      "speaker": "SPEAKER_00",
+      "start": 2948.92,
+      "end": 2956.88,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 132,
+      "meeting": "Planning Commission Meeting - September 17, 2025 [sM9P2_ZC46M]_exclusive",
+      "block_id": 82,
+      "speaker": "SPEAKER_15",
+      "start": 5808.2,
+      "end": 5885.52,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 133,
+      "meeting": "City Council Meeting - May 13, 2025 [eDkBOrErMeE]_exclusive",
+      "block_id": 55,
+      "speaker": "SPEAKER_32",
+      "start": 4451.72,
+      "end": 4503.26,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 134,
+      "meeting": "City Council Committee Meeting - June 2, 2025 [gyhG_Bp4bV4]_standard",
+      "block_id": 10,
+      "speaker": "SPEAKER_10",
+      "start": 844.32,
+      "end": 908.66,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 135,
+      "meeting": "City Council Special Meeting - November 20, 2025 [aZVPtb9bsEE]",
+      "block_id": 240,
+      "speaker": "SPEAKER_00",
+      "start": 6526.36,
+      "end": 6753.95,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6"
+      ]
+    },
+    {
+      "item": 136,
+      "meeting": "City Council Meeting - August 12, 2025 [Pg4nxjg-PUw]_standard",
+      "block_id": 43,
+      "speaker": "SPEAKER_07",
+      "start": 3354.46,
+      "end": 3361.11,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "ministral-8b",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 137,
+      "meeting": "City Council Meeting - April 29, 2025 [5N3AIQLoNPU]_standard",
+      "block_id": 54,
+      "speaker": "SPEAKER_09",
+      "start": 3688.04,
+      "end": 3904.0,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 138,
+      "meeting": "Planning Commission Meeting - September 17, 2025 [sM9P2_ZC46M]_exclusive",
+      "block_id": 40,
+      "speaker": "SPEAKER_06",
+      "start": 3979.0,
+      "end": 3996.12,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 139,
+      "meeting": "Planning Commission Meeting - September 17, 2025 [sM9P2_ZC46M]_exclusive",
+      "block_id": 208,
+      "speaker": "SPEAKER_04",
+      "start": 13472.73,
+      "end": 13545.68,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 140,
+      "meeting": "City Council Committee Meeting - April 1, 2025 [kplLo-BL1w0]_standard",
+      "block_id": 189,
+      "speaker": "SPEAKER_09",
+      "start": 8763.44,
+      "end": 8955.91,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 141,
+      "meeting": "City Council Meeting - March 11, 2025 [fWjyrXs1ebs]_exclusive",
+      "block_id": 95,
+      "speaker": "SPEAKER_34",
+      "start": 5040.47,
+      "end": 5059.8,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 142,
+      "meeting": "City Council Budget Hearing - November 18, 2025 [W6aSdOttjPk]",
+      "block_id": 178,
+      "speaker": "SPEAKER_00",
+      "start": 4600.36,
+      "end": 4612.24,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 143,
+      "meeting": "City Council Committee Meeting - April 1, 2025 [kplLo-BL1w0]_standard",
+      "block_id": 231,
+      "speaker": "SPEAKER_01",
+      "start": 10366.34,
+      "end": 10378.57,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 144,
+      "meeting": "Press Conference - Data Center Community Benefits Agreement [WHN2o2S6X-Q]",
+      "block_id": 51,
+      "speaker": "SPEAKER_00",
+      "start": 1956.36,
+      "end": 1959.18,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 145,
+      "meeting": "Planning Commission - August 6, 2025 [m50W4pVkNb4]_standard",
+      "block_id": 11,
+      "speaker": "SPEAKER_30",
+      "start": 1831.38,
+      "end": 1997.22,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 146,
+      "meeting": "City Council Meeting - September 9, 2025 [H5Gp_GuYYYg]_standard",
+      "block_id": 105,
+      "speaker": "SPEAKER_09",
+      "start": 4936.9,
+      "end": 4946.58,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 147,
+      "meeting": "Planning Commission Meeting - September 17, 2025 [sM9P2_ZC46M]_exclusive",
+      "block_id": 219,
+      "speaker": "SPEAKER_10",
+      "start": 13806.0,
+      "end": 13877.82,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b"
+      ]
+    },
+    {
+      "item": 148,
+      "meeting": "City Council Committee Meeting - April 1, 2025 [kplLo-BL1w0]_exclusive",
+      "block_id": 234,
+      "speaker": "SPEAKER_13",
+      "start": 10714.3,
+      "end": 10719.14,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 149,
+      "meeting": "City Council Committee Meeting - September 16, 2025 [XzF6-XCVRFc]_exclusive",
+      "block_id": 26,
+      "speaker": "SPEAKER_06",
+      "start": 1807.99,
+      "end": 1826.66,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 150,
+      "meeting": "City Council Meeting - August 12, 2025 [Pg4nxjg-PUw]_standard",
+      "block_id": 50,
+      "speaker": "SPEAKER_29",
+      "start": 3850.6,
+      "end": 4007.87,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "ministral-8b",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 151,
+      "meeting": "City Council Meeting - June 10, 2025 [PqPxK5dVghI]_exclusive",
+      "block_id": 10,
+      "speaker": "SPEAKER_00",
+      "start": 563.36,
+      "end": 782.48,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 152,
+      "meeting": "City Council Committee Meeting - October 6, 2025 [bubudvmIB_E]_exclusive",
+      "block_id": 97,
+      "speaker": "SPEAKER_23",
+      "start": 5718.14,
+      "end": 5801.34,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "ministral-8b"
+      ]
+    },
+    {
+      "item": 153,
+      "meeting": "City Council Meeting - October 28, 2025 [Ffwwu-vf22M]",
+      "block_id": 71,
+      "speaker": "UNKNOWN",
+      "start": 2106.3,
+      "end": 2110.94,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "ministral-8b",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 154,
+      "meeting": "City Council Committee Meeting - October 6, 2025 [bubudvmIB_E]_exclusive",
+      "block_id": 114,
+      "speaker": "SPEAKER_11",
+      "start": 6511.91,
+      "end": 7233.92,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 155,
+      "meeting": "Traffic Commission March 11, 2025 [r8TO3Zdd1uI]_exclusive",
+      "block_id": 149,
+      "speaker": "SPEAKER_03",
+      "start": 3104.71,
+      "end": 3116.6,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "phi-4",
+        "qwen3.5-9b-q6"
+      ]
+    },
+    {
+      "item": 156,
+      "meeting": "City Council Meeting - April 29, 2025 [5N3AIQLoNPU]_exclusive",
+      "block_id": 69,
+      "speaker": "SPEAKER_11",
+      "start": 4782.93,
+      "end": 4803.6,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 157,
+      "meeting": "Traffic Commission March 11, 2025 [r8TO3Zdd1uI]_standard",
+      "block_id": 66,
+      "speaker": "SPEAKER_09",
+      "start": 2030.25,
+      "end": 2042.99,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 158,
+      "meeting": "City Council Meeting - May 27, 2025 [vexHgMfzvKE]_exclusive",
+      "block_id": 92,
+      "speaker": "SPEAKER_05",
+      "start": 5303.12,
+      "end": 5327.63,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 159,
+      "meeting": "Traffic Commission March 11, 2025 [r8TO3Zdd1uI]_standard",
+      "block_id": 145,
+      "speaker": "SPEAKER_09",
+      "start": 3061.27,
+      "end": 3063.87,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 160,
+      "meeting": "City Council Meeting - March 11, 2025 [fWjyrXs1ebs]_standard",
+      "block_id": 153,
+      "speaker": "SPEAKER_17",
+      "start": 8372.27,
+      "end": 8396.52,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 161,
+      "meeting": "Planning Commission - August 6, 2025 [m50W4pVkNb4]_exclusive",
+      "block_id": 78,
+      "speaker": "SPEAKER_28",
+      "start": 6428.68,
+      "end": 6446.08,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 162,
+      "meeting": "City Council Meeting - May 13, 2025 [eDkBOrErMeE]_standard",
+      "block_id": 170,
+      "speaker": "SPEAKER_20",
+      "start": 9260.06,
+      "end": 9300.26,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 163,
+      "meeting": "City Council Committee Meeting - October 6, 2025 [bubudvmIB_E]_exclusive",
+      "block_id": 88,
+      "speaker": "SPEAKER_25",
+      "start": 5029.04,
+      "end": 5157.76,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 164,
+      "meeting": "City Council Special Meeting - November 20, 2025 [aZVPtb9bsEE]",
+      "block_id": 259,
+      "speaker": "UNKNOWN",
+      "start": 7462.23,
+      "end": 7466.47,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 165,
+      "meeting": "City Council Committee Meeting - November 3, 2025 [nE5HiAtqwpA]",
+      "block_id": 224,
+      "speaker": "SPEAKER_00",
+      "start": 4885.56,
+      "end": 4904.53,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 166,
+      "meeting": "City Council Meeting - June 10, 2025 [PqPxK5dVghI]_standard",
+      "block_id": 113,
+      "speaker": "SPEAKER_10",
+      "start": 4188.98,
+      "end": 4203.88,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "qwen3.5-9b-q6"
+      ]
+    },
+    {
+      "item": 167,
+      "meeting": "City Council Budget Hearing - October 21, 2025 [pkVzY-53sJI]",
+      "block_id": 111,
+      "speaker": "SPEAKER_00",
+      "start": 2422.65,
+      "end": 2436.25,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "phi-4"
+      ]
+    },
+    {
+      "item": 168,
+      "meeting": "Planning Commission Meeting - October 15, 2025 [4rFO0GO6nwU]",
+      "block_id": 0,
+      "speaker": "UNKNOWN",
+      "start": 1080.0,
+      "end": 2181.45,
+      "n_votes": 1,
+      "models_voting_yes": [
+        "qwen3.5-9b-q6"
+      ]
+    },
+    {
+      "item": 169,
+      "meeting": "Traffic Commission Meeting - November 11, 2025 [Wof-B6HAg2g]",
+      "block_id": 101,
+      "speaker": "SPEAKER_00",
+      "start": 2754.03,
+      "end": 2757.59,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 170,
+      "meeting": "Traffic Commission March 11, 2025 [r8TO3Zdd1uI]_standard",
+      "block_id": 136,
+      "speaker": "SPEAKER_09",
+      "start": 2962.56,
+      "end": 2992.67,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "phi-4",
+        "qwen3.5-9b-q6"
+      ]
+    },
+    {
+      "item": 171,
+      "meeting": "City Council Committee Meeting - October 6, 2025 [bubudvmIB_E]_exclusive",
+      "block_id": 237,
+      "speaker": "SPEAKER_00",
+      "start": 12964.64,
+      "end": 13148.9,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 172,
+      "meeting": "City Council Committee Meeting - October 6, 2025 [bubudvmIB_E]_standard",
+      "block_id": 140,
+      "speaker": "SPEAKER_06",
+      "start": 8813.67,
+      "end": 9001.97,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 173,
+      "meeting": "City Council Meeting - February 11, 2025 [JJbmuzCmd6s]_standard",
+      "block_id": 33,
+      "speaker": "SPEAKER_01",
+      "start": 974.99,
+      "end": 1045.73,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 174,
+      "meeting": "Traffic Commission March 11, 2025 [r8TO3Zdd1uI]_exclusive",
+      "block_id": 125,
+      "speaker": "SPEAKER_04",
+      "start": 2746.0,
+      "end": 2753.49,
+      "n_votes": 0,
+      "models_voting_yes": []
+    },
+    {
+      "item": 175,
+      "meeting": "Planning Commission - August 6, 2025 [m50W4pVkNb4]_exclusive",
+      "block_id": 102,
+      "speaker": "SPEAKER_11",
+      "start": 7679.58,
+      "end": 7715.06,
+      "n_votes": 5,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 176,
+      "meeting": "City Council Meeting - April 8, 2025 [JNe8AGFZlIA]_exclusive",
+      "block_id": 172,
+      "speaker": "SPEAKER_08",
+      "start": 5789.01,
+      "end": 5797.38,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "qwen3.5-9b-q6",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 177,
+      "meeting": "City Council Committee Meeting - September 16, 2025 [XzF6-XCVRFc]_standard",
+      "block_id": 55,
+      "speaker": "SPEAKER_05",
+      "start": 3173.06,
+      "end": 3188.8,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q8"
+      ]
+    },
+    {
+      "item": 178,
+      "meeting": "City Council Meeting - June 10, 2025 [PqPxK5dVghI]_standard",
+      "block_id": 112,
+      "speaker": "SPEAKER_03",
+      "start": 4042.1,
+      "end": 4188.98,
+      "n_votes": 4,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4",
+        "qwen3.5-9b-q6"
+      ]
+    },
+    {
+      "item": 179,
+      "meeting": "City Council Meeting - May 13, 2025 [eDkBOrErMeE]_standard",
+      "block_id": 72,
+      "speaker": "SPEAKER_07",
+      "start": 5253.16,
+      "end": 5278.8,
+      "n_votes": 3,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "ministral-8b",
+        "phi-4"
+      ]
+    },
+    {
+      "item": 180,
+      "meeting": "City Council Committee Meeting - March 3, 2025 [qEcut0Mpq30]",
+      "block_id": 65,
+      "speaker": "SPEAKER_07",
+      "start": 4011.4,
+      "end": 4176.38,
+      "n_votes": 2,
+      "models_voting_yes": [
+        "gemma-4-4b",
+        "phi-4"
+      ]
+    }
+  ]
+}
