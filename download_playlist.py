@@ -75,6 +75,7 @@ def _build_ydl_opts(
     start_at: int = 1,
     cookie_file: Path | None = None,
     cookies_from_browser: str | None = None,
+    use_daterange: bool = True,
 ) -> dict:
     opts: dict = {
         "paths": {
@@ -117,7 +118,10 @@ def _build_ydl_opts(
             {"key": "FFmpegSubtitlesConvertor", "format": "srt"},
         ],
     }
-    if DATE_AFTER or DATE_BEFORE:
+    # A hand-picked URL list (--urls-file) is already the filter, and these
+    # clips are often years older than the council-meeting window, so applying
+    # DATE_AFTER/DATE_BEFORE would silently skip most of them with no error.
+    if use_daterange and (DATE_AFTER or DATE_BEFORE):
         # DateRange's runtime accepts "YYYYMMDD" or relative strings like
         # "today-2years"; the type stub claims it only takes `date` objects.
         opts["daterange"] = DateRange(DATE_AFTER, DATE_BEFORE)  # type: ignore[arg-type]
@@ -215,6 +219,7 @@ def main(
     urls: list[str] | None = None,
     cookie_file: Path | None = None,
     cookies_from_browser: str | None = None,
+    use_daterange: bool = True,
 ) -> None:
     video_dir = out_root / "videos"
     audio_dir = out_root / "audio"
@@ -228,6 +233,7 @@ def main(
         video_dir, transcript_dir, metadata_dir, archive_file,
         start_at=start_at, cookie_file=cookie_file,
         cookies_from_browser=cookies_from_browser,
+        use_daterange=use_daterange,
     )
     with yt_dlp.YoutubeDL(opts) as ydl:
         ydl.download(urls if urls else [PLAYLIST_URL])
@@ -269,6 +275,11 @@ if __name__ == "__main__":
         metavar="BROWSER",
         help="extract live cookies from a browser (e.g. chrome, firefox); close the browser first",
     )
+    parser.add_argument(
+        "--no-daterange",
+        action="store_true",
+        help="ignore the DATE_AFTER/DATE_BEFORE upload window (use with --urls-file)",
+    )
     args = parser.parse_args()
 
     download_urls = None
@@ -285,4 +296,5 @@ if __name__ == "__main__":
         urls=download_urls,
         cookie_file=args.cookies_file,
         cookies_from_browser=args.cookies_from_browser,
+        use_daterange=not args.no_daterange,
     )
