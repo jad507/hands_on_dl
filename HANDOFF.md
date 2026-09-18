@@ -35,18 +35,28 @@ Fast lookups:
 
 | | `hands_on_dl` | `AITranscribe` |
 |---|---|---|
-| Branch | `isls-chunk-framing` | `isls-execution-findings` |
-| Commits ahead of the base branch | 18 (of `main`) | 13 (of `master`) |
-| Remote tracking branch | `origin/isls-chunk-framing` | none |
-| Where the remote points | GitHub, `jad507/hands_on_dl` | a personal server, `shiro` |
+| Working branch | `main` | `isls-execution-findings` |
+| Remote | GitHub, `jad507/hands_on_dl` | a personal server, `shiro` |
 
-**`hands_on_dl` was pushed to `origin/isls-chunk-framing` between 09-04 and 09-07, by the
-user.** It now sits 1 commit ahead of that remote branch and 18 ahead of `main`.
-`AITranscribe` has never been pushed and is 13 ahead of `master`. Do not push without
-asking. `contested_blocks.csv` contains
-public-comment text from identifiable private citizens; this is public-meeting testimony
-already present in the tracked corpus, so it is not a new exposure, but the GitHub
-repository should be confirmed private first.
+**`isls-chunk-framing` was merged into `main` on 2026-09-18** and all the work described
+below is on `main`. Both `isls-chunk-framing` and `portable-paths-and-provenance` are
+fully contained in `main` and can be deleted. `AITranscribe` still works on
+`isls-execution-findings` and has never been pushed.
+
+**The GitHub repository is PUBLIC, and the user decided on 2026-09-18 to keep it that
+way.** Do not re-raise it as a problem. An unauthenticated GET of the repo API returns
+200, so anything committed here is world-readable the moment it is pushed.
+
+What that covers: `downloads/agreement_analysis/contested_blocks.csv` holds 2,478 rows of
+public-comment text, 132 of which contain a speaker self-identifying by name or naming a
+residential block. This is testimony given on the record at a public meeting and the
+source recordings are on the city's own YouTube channel, so it is public information and
+the IRB exclusion covers it. It was already pushed on `origin/isls-chunk-framing` on
+2026-09-04, before the decision was made explicit.
+
+**Still ask before pushing**, not because of privacy but because pushing is the user's
+call. Ask before adding any NEW category of data to the repository, since public is the
+default here rather than a reviewed exception.
 
 The user's IRB has an exclusion covering public data including social media and YouTube,
 so collecting and analysing public videos needs no further permission. That was stated
