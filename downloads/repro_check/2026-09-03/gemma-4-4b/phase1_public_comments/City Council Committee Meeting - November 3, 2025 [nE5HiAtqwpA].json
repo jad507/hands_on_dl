@@ -1,0 +1,504 @@
+{
+  "title": "City Council Committee Meeting - November 3, 2025",
+  "video_id": "nE5HiAtqwpA",
+  "upload_date": "20251104",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-03T21:08:28+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 87,
+      "speaker": "UNKNOWN",
+      "start": 2252.67,
+      "end": 2301.64,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding the proposed 2025 budget and its allocation of funds.",
+      "text": "fifty eight thousand two three hundred four ish thousand has not been included as a line in the proposed 2025 budget. That's correct. OK. A couple of comments I would make. I don't think it makes more I don't think it makes logical sense to spend more than our residents would benefit on a program especially when a lot of those funds are going to municipalities that have a wealthier tax base frankly. So I just don't think it makes sense to do a program in which we're spending more to administer it than the benefit is actually being received by city residents. It brings me no joy to say what I'm going to say here"
+    },
+    {
+      "block_id": 90,
+      "speaker": "SPEAKER_00",
+      "start": 2311.27,
+      "end": 2400.18,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns about the city's budget proposal and reserve funds.",
+      "text": "The budget proposal that was given to us on October 12th it not only showed a drawing of a million dollars in reserve in the year 2026 it also in a presentation showed over a 10-year timetable that our reserve would be significantly depleted and I think that if we were to allocate an additional amount of some kind of resident benefit that we need to I mean budget that obviously but I think in general I would encourage the administration to reevaluate the budget that they have proposed because I I personally don't feel great about drawing a million dollars from reserve next year as its budgeted I mean and I to compliment city staff because as you showed in the in your report previous to this city hall generally does a good job of keeping expenses under budget but i guess i'm making this comment now one to encourage council to look for opportunities to cut back on cost to not draw upon reserve and in particular if we are going to implement some"
+    },
+    {
+      "block_id": 93,
+      "speaker": "UNKNOWN",
+      "start": 2476.74,
+      "end": 2501.1,
+      "speaker_name": "unknown",
+      "reason": "The speaker is advocating for a water bill assistance program for city residents.",
+      "text": "spend here a water bill assistance program that could that's designated for city residents and I'm assuming could have income restrictions just as it as it stands today and beef up the funds that we're already doing in that program and making it more impactful if we serve 98 families imagine what we could do if we invest the dollars that we would have otherwise though we otherwise get you"
+    },
+    {
+      "block_id": 105,
+      "speaker": "UNKNOWN",
+      "start": 2624.04,
+      "end": 2638.76,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the need for programs that benefit low-income renters.",
+      "text": "um some of the programs that we have in existence do benefit property owners but we don't really have anything in existence that benefits low-income renters um so there there is an opportunity there to be discussed around you know in the future what does a program that benefits"
+    },
+    {
+      "block_id": 111,
+      "speaker": "UNKNOWN",
+      "start": 2732.01,
+      "end": 2737.83,
+      "speaker_name": "unknown",
+      "reason": "The speaker is making a statement regarding a specific location and a general concern.",
+      "text": "700 block New Holland Avenue just quick statement at the beginning we shouldn't"
+    },
+    {
+      "block_id": 117,
+      "speaker": "UNKNOWN",
+      "start": 2954.17,
+      "end": 2992.1,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern and suggesting improvements regarding the water assistance program.",
+      "text": "critical repair in the water assistance program, I think targeted fairly small number of households I Honestly, don't know if there could be a program that would benefit a broader range of lower-income households But if there were anything like that feasible, I would encourage council in the administration to consider it. Thank you. Thank you Just to put a finer point on that. I think yeah the the opportunity like the problem with that we're looking to try to solve is how do we lessen the impact on low-income residents so looking for a"
+    },
+    {
+      "block_id": 140,
+      "speaker": "SPEAKER_00",
+      "start": 3342.53,
+      "end": 3349.73,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the financial breakdown of a project.",
+      "text": "I'm just kind of curious. How did they arrive at the balance like the between the grant amount and the loan amount?"
+    },
+    {
+      "block_id": 149,
+      "speaker": "UNKNOWN",
+      "start": 3463.15,
+      "end": 3490.16,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question about the availability of public documents.",
+      "text": "would what copies of this be made available to the public or do we have physical copies by chance I mean I don't have enough for everybody and this will be made available to the public thank you great any additional further for the"
+    },
+    {
+      "block_id": 156,
+      "speaker": "SPEAKER_00",
+      "start": 3552.73,
+      "end": 3567.67,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing a personal development plan for a property.",
+      "text": "what I plan on doing is at 623 there's some existing garages and I plan on just breaking those down and building five single-family homes on a lot that's"
+    },
+    {
+      "block_id": 159,
+      "speaker": "UNKNOWN",
+      "start": 3644.04,
+      "end": 3664.8,
+      "speaker_name": "Jeffrey Zorman",
+      "reason": "The speaker identifies themselves and discusses a property issue before the council.",
+      "text": "agenda is the historical historical Commission's recommendation for 248 South Ann Street is there anybody here for that good evening Jeffrey Zorman from Ann Street and the owner I recently purchased a house and on the properties"
+    },
+    {
+      "block_id": 176,
+      "speaker": "SPEAKER_00",
+      "start": 3909.22,
+      "end": 3930.53,
+      "speaker_name": "unknown",
+      "reason": "The speaker addresses the council and offers a brief statement.",
+      "text": "a brief overview of what your project is going to be and Oh mr. Reichenbach good to see you push your button I guess I forgot how to do that good evening councilman mayor and everybody in attendance I'll be very brief because I"
+    },
+    {
+      "block_id": 177,
+      "speaker": "UNKNOWN",
+      "start": 3930.53,
+      "end": 3939.39,
+      "speaker_name": "Jimmy Reichenbach",
+      "reason": "The speaker identifies as a representative of a local organization and is addressing the council.",
+      "text": "know your time is valuable thank you for the consideration my name is Jimmy reichenbach i'm the chief impact officer from union community care for those who aren't familiar"
+    },
+    {
+      "block_id": 189,
+      "speaker": "UNKNOWN",
+      "start": 4123.83,
+      "end": 4133.47,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies themselves as a tenant and is presenting information about a business partnership and revitalization project.",
+      "text": "champagne Domingo I am a tenant operating univision childcare but I am applying as a partner of Southwest End Holdings we are the proud new owners of"
+    },
+    {
+      "block_id": 198,
+      "speaker": "SPEAKER_00",
+      "start": 4236.63,
+      "end": 4242.61,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about stormwater issues as a city issue.",
+      "text": "So I think the biggest thing that we're struggling with now is like the stormwater, which is also a city issue. I see"
+    },
+    {
+      "block_id": 201,
+      "speaker": "UNKNOWN",
+      "start": 4272.31,
+      "end": 4367.67,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the impact of a renovation project on a childcare center.",
+      "text": "What this would mean for univision child care specifically in in this renovation project briefly Yes, so there's also another Space so I just recently opened in in july with the help of the city arpa funds and that center is for 60 students we have almost already kind of outgrown that we have a standalone property on that space that is about 9 000 square feet so being able to now go from 60 students to about 160 students employing 15 to 20 additional staff with adding unit a second location for Univision so right then our current location would become more of a nursery and would be infants and toddlers and then the second location would be preschool and even kindergarten thank you that's exciting thank you any further questions from council thank you ladies I'll make a motion to move resolution number 70 2025 to full council on the 11th second all those in favor aye thank you administration resolution number 71 authorizing applications to local shares account program by the thaddeus stevens foundation good evening ladies pam smith that is stevens college of technology joined by my colleague"
+    },
+    {
+      "block_id": 209,
+      "speaker": "UNKNOWN",
+      "start": 4501.17,
+      "end": 4663.12,
+      "speaker_name": "unknown",
+      "reason": "The speaker is presenting information about a local project to the council.",
+      "text": "okay turn your turn your mic on there you go okay I actually have three of my board members with me Jabari Betty and Linda our project is South and Stevens project and it consists of land that was donated to South and concerned neighbor from Thaddeus Stevens Foundation. It was formerly known as the SACN Franklin Street Project and it's located at 615 Stevens Avenue. Thaddeus Stevens Foundation gave us a 10,000 square foot piece of land. SACN will construct two-story buildings with mixed use approximately 3,000 square feet. There will be two three-bedroom affordable apartments on the top floor and two retail spaces on the bottom floor we're looking for a fresh food mark not a bodega that would sell vegetables fruits and milk and then a pizza deli shop to date we finally attained our deed which included zoning approval for the mixed use on september the 2nd 2025 we have schematic drawings almost complete and we're working with ted williams we met with the city staff chief planner lauren finn and the crew on monday october the 31st to discuss the project and directions for moving forward our timeline goals is we're hoping to hire a construction manager by next week we will hire a design team before thanksgiving to keep this project moving forward our funding we estimated to be about it was about 3.5 million dollars that probably went up a little bit We have already been awarded about half of that money. When the state budget passed, we have a line item for RACB for $1 million, and we have our match, and we understand that we will need to have our own consultant for the grant. The city cannot help us with the grant. We have on our project committee Keith Holland, A.J. Jackson, Andrew Marshall, Betty Jones, Carol Godfrey, and Darlene Bird. Thank you. Now, you said the total cost for your project was? About $3.5 million. And you're about halfway there? About halfway. And do you have any projections on when it might be finished? No, not yet. Not until we actually hire our design team. We know not to say that now until we actually have a schedule from our firm."
+    },
+    {
+      "block_id": 212,
+      "speaker": "SPEAKER_00",
+      "start": 4697.01,
+      "end": 4712.49,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and expressing thanks, indicating they are a community member speaking during the public comment period.",
+      "text": "Authorizing an application to local shares account program by chestnut housing Good evening. Good evening. Thanks for having us this evening. Thank you councillor Craig and full council and mayor appreciate your time I"
+    },
+    {
+      "block_id": 214,
+      "speaker": "SPEAKER_00",
+      "start": 4721.6,
+      "end": 4778.54,
+      "speaker_name": "unknown",
+      "reason": "The speaker is presenting a project request regarding Dinah's Hill Apartments.",
+      "text": "This is essentially duplicating a request that you might recall we made last year since the 2024 LSA Awards have not yet been Finalized by the state we felt it was kind of good due diligence to come back with the same request this year For you all so just a reminder of what we're working on This project is Dinah's Hill Apartments to renovate the former Strawberry Hill restaurant site in the southwest part of the city into 11 affordable apartments and two commercial office spaces for community nonprofits to to lease including our organization It's about a 3.8 million dollar project budget to date about 2.4 million of that has been committed to the project So about two-thirds of the funding has been committed most of that was committed since I was here a year ago ago making a similar request so the good news for us is if a million dollars is awarded which is our request either from 2024 or 2025 we certainly have enough funding to be able to"
+    },
+    {
+      "block_id": 218,
+      "speaker": "SPEAKER_00",
+      "start": 4806.67,
+      "end": 4826.32,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding a funding delay mentioned by a council member.",
+      "text": "money okay questions from the committee questions from council as a whole Thank You councillor Craig you made mention of the funding delay is that directly related to the state budget impasse is that why LSA has been delayed in general"
+    },
+    {
+      "block_id": 240,
+      "speaker": "SPEAKER_00",
+      "start": 5266.77,
+      "end": 5282.56,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the process for organizations interested in the property.",
+      "text": "nonprofit use thank you thank you councillor Craig and thank you for the presentation my only question is moving forward with compass if if organizations"
+    },
+    {
+      "block_id": 251,
+      "speaker": "UNKNOWN",
+      "start": 5404.35,
+      "end": 5501.04,
+      "speaker_name": "Tony Dash",
+      "reason": "The speaker identifies themselves and expresses a personal disagreement and a request for clarification regarding a potential sale.",
+      "text": "sense yes thank you are there any further questions from council i'll i'll entertain questions or comments from the public thank you well here's mr dash just coming oh sorry counselor greg uh tony dash is 700 block in new holland avenue i think everybody already knows that i personally disagree with this but i just want to understand what the vision here is if a sale does occur like um i understand we've gone through bidding processes they haven't gone smoothly i'm recognizing that the city is wanting to get rid of the property i feel there's more value in keeping it but what is the hope for the property to do for us like is there a certain budget offset specifically we're going for and i'm just asking because i only see short-term returns on selling the property when if we keep and maintain it we could actually do something with it and the public could know that we could be pushed into doing something with it yeah thank you for the question i would say at this point uh we're looking at this with maximum flexibility i don't think that there is a definitive amount of money that we're looking to return on the property it really is this balance between what price is offered and"
+    },
+    {
+      "block_id": 252,
+      "speaker": "SPEAKER_00",
+      "start": 5501.04,
+      "end": 5518.9,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the benefits of using a real estate broker regarding property use.",
+      "text": "community benefit. One of the things that I think is a real benefit of using a real estate broker is hopefully we're going to reach a wider market and we're going to get a better sense of what is the highest and best use of the property. I think our first attempt or two at this, it was very"
+    },
+    {
+      "block_id": 255,
+      "speaker": "UNKNOWN",
+      "start": 5530.18,
+      "end": 5576.2,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions regarding the proceeds from a property sale and city funds.",
+      "text": "comp plan too but i don't think we'll know how to compare that until we get uh concrete offers on the table thank you we have one more yeah i guess i'll add in um do the proceeds from the sale go to the general fund and does the city have anything to pay down on the property uh like any this the funds will go to the general fund because that the property is owned by the the city of Lancaster not a utility or it's an asset of the city and there are no there's no outstanding debt related to this building as you recall we consolidated our fire stations and upgraded those facilities and so it is"
+    },
+    {
+      "block_id": 301,
+      "speaker": "UNKNOWN",
+      "start": 6718.12,
+      "end": 6735.8,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the impact of construction on vehicle trips related to a self-storage business.",
+      "text": "equipment to allow for the construction demolition of the existing uses and then for the construction i think following the actual establishment of the business there would be a reduction in the amount of trips and vehicle trips because it's a fairly low chip generator for the self-storage"
+    },
+    {
+      "block_id": 308,
+      "speaker": "SPEAKER_00",
+      "start": 6877.79,
+      "end": 6910.88,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a personal opinion and asks a question regarding the project's size.",
+      "text": "vehicles so i don't know that the retail people will be affected that much but we'll certainly have the conversation this project moves forward thank you um are there any questions from count from the committee thank you councillor craig um i'd probably be the first to admit that um storage units don't really excite me i think when looking at this project i'm curious about the size of the footprint increasing it beyond 20 000 would that if we did not approve that amendment to the zoning ordinance would that stop the project from moving forward yes we would sell"
+    },
+    {
+      "block_id": 309,
+      "speaker": "UNKNOWN",
+      "start": 6910.88,
+      "end": 6915.44,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing a question regarding a property and small businesses.",
+      "text": "the property okay and going back i kind of want to hang out on the question around the small"
+    },
+    {
+      "block_id": 312,
+      "speaker": "SPEAKER_00",
+      "start": 6939.58,
+      "end": 6956.13,
+      "speaker_name": "unknown",
+      "reason": "The speaker is questioning the consideration of alternative uses for a property development.",
+      "text": "elliot's not going to have much use for the property after that timetable anyhow okay and as far as I know that you had mentioned there was research done on productive uses for this property were there other options that were considered for the development of this area that would fit the current zoning we can we've"
+    },
+    {
+      "block_id": 316,
+      "speaker": "SPEAKER_00",
+      "start": 6993.97,
+      "end": 7013.12,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about traffic and vehicle access related to a location.",
+      "text": "higher employee count business would be it would be really a challenge to get the folks in and out of there plus the service vehicles to get in would be really challenging as well can i underscore that point i find myself going on dillerville road quite frequently and have occasion to go"
+    },
+    {
+      "block_id": 318,
+      "speaker": "SPEAKER_00",
+      "start": 7027.36,
+      "end": 7050.8,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding traffic and a proposed use.",
+      "text": "directing traffic because there's a merge that's coming off of harrisburg pike and three lanes of traffic on dillerville road and so i appreciate that the use that's being considered for this is a low trip use even though i also appreciate council arroyo that a um you know highest best"
+    },
+    {
+      "block_id": 324,
+      "speaker": "SPEAKER_00",
+      "start": 7115.37,
+      "end": 7133.47,
+      "speaker_name": "unknown",
+      "reason": "The speaker is questioning the process behind zoning amendments regarding a shopping center.",
+      "text": "You know the challenges in the site and I frequent that shopping center as well and it's challenging But how did we get from there to the zoning amendments because I see that The how do we arrive at the removal of the special exception"
+    },
+    {
+      "block_id": 332,
+      "speaker": "SPEAKER_00",
+      "start": 7314.68,
+      "end": 7321.65,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering a comment regarding a proposal being discussed.",
+      "text": "Thank You councillor Craig um first just a comment I think what is being proposed"
+    },
+    {
+      "block_id": 334,
+      "speaker": "SPEAKER_00",
+      "start": 7327.11,
+      "end": 7381.98,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses an opinion and asks a question regarding the city's zoning regulations.",
+      "text": "know I think it's probably for the in the city's best interest to limit self storage out of residential and I mean I guess that's just my opinion but I also had a question which I just want to make sure I understand correctly so there's a clause in the table of uses that says something to the effect of like I'm just reading it here just do not have access to a public street and are in existence as of July 1st 2025 am I to understand that provision of the July 1st 2025 to mean that this is kind of the way of saying well if a parcel were to be redrawn or rezoned just kind of you know preventing a situation where maybe we look at the use map now and we're good with where we feel these storage facilities are allowed but we don't necessarily want a situation where again"
+    },
+    {
+      "block_id": 336,
+      "speaker": "SPEAKER_00",
+      "start": 7386.72,
+      "end": 7390.32,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding potential development in the area.",
+      "text": "oh there's a self storage you know somebody could build a huge self storage"
+    },
+    {
+      "block_id": 341,
+      "speaker": "UNKNOWN",
+      "start": 7421.76,
+      "end": 7446.31,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies themselves as wanting to comment from a contextual standpoint regarding a specific address.",
+      "text": "further questions from council as well I'll entertain questions or comments from the public 700 block new holland avenue i just wanted to comment from more of a contextual standpoint"
+    },
+    {
+      "block_id": 342,
+      "speaker": "SPEAKER_00",
+      "start": 7446.31,
+      "end": 7451.19,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses an opinion regarding storage units and planning commission concerns.",
+      "text": "uh when this did come to planning commission i do share your anxiety about storage units"
+    },
+    {
+      "block_id": 345,
+      "speaker": "UNKNOWN",
+      "start": 7480.88,
+      "end": 7485.6,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding the need to revise zoning ordinances.",
+      "text": "ordinances and why we really need to light the fire to redo our zoning ordinances in general"
+    },
+    {
+      "block_id": 348,
+      "speaker": "SPEAKER_00",
+      "start": 7504.29,
+      "end": 7516.53,
+      "speaker_name": "unknown",
+      "reason": "The speaker offers an opinion on the practicality of a proposed plan.",
+      "text": "So yeah, it's not perfect as far as what we might wanna see with the comp plan, but I think this is the most practical, from my standpoint, the most practical solution"
+    },
+    {
+      "block_id": 363,
+      "speaker": "UNKNOWN",
+      "start": 7782.37,
+      "end": 7802.02,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses concern and provides context related to the project being discussed.",
+      "text": "if we don't get the full million that is being requested for this against this 1.5 million dollar project i'm very open to questions at this moment thank you director campbell um so i read this with great interest i happen to live along this the stretch of street that we're talking"
+    },
+    {
+      "block_id": 373,
+      "speaker": "UNKNOWN",
+      "start": 7956.0,
+      "end": 8044.98,
+      "speaker_name": "Darlene Bird",
+      "reason": "The speaker is asking questions about the scope of city funding for stormwater and sewer projects.",
+      "text": "and i'll also offer are there any comments uh or questions from the public um darlene bird ann street i know we borrowed a lot of money for stormwater and for sewer we just had another pen vest grant how much of the city is not covered in the money that we're borrowing that we're looking to take a million dollars to just do raw street are there other areas in the city that will not be included in all the money that we borrow to do water and stormwater management so i do think that's a good question but this the advantage of this is that it's a grant so if we do not have access to this it really is the case that we may not be able to take advantage of this opportunity and provide stormwater management at this particular location we just do not have other funds does not include the whole city there are areas that are excluded from the plan that we presented I was here last year that we presented when we got bonds for all this that we went into debt for it didn't include doing stormwater management for the city just certain areas. If I could venture to answer your question I think"
+    },
+    {
+      "block_id": 378,
+      "speaker": "SPEAKER_00",
+      "start": 8077.52,
+      "end": 8083.34,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the capital plan and its funding allocation.",
+      "text": "consulting the capital plan because I think it lays out nicely like where the funds are coming"
+    },
+    {
+      "block_id": 381,
+      "speaker": "UNKNOWN",
+      "start": 8090.24,
+      "end": 8220.73,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering an opinion regarding the allocation of city borrowings.",
+      "text": "I think that's probably the best guide as far as where those borrowings that you're talking about are going and that kind of thing. right because i know we asked these questions when they were talking about borrowing the money and getting a bond and how much they were getting a bond for and it was explained to us about the storm water management and that it was for the city not certain parts of the city so i think it would include ross street and i do think that the trees and the other areas you're talking about could be covered under other grant monies that we got like division zero where we decided to put daylight poles all around maybe rain gardens would have been something better to use that money for if we could or other things for that particular block or i guess it's a couple blocks i think i do understand and appreciate some of the questions that you're asking um different types of infrastructure are funded in different ways um what we have asked for in the capital plan does not solve all stormwater issues throughout the entire city it is trying to be as not selective but trying to be as focused as practical what is the low the low-hanging fruit that we can actually address as well as major challenges that do need to be addressed one way or the other but it was the request for the in the past would not solve all stormwater issues we look at every streetscape implementation as an opportunity to see if we can address stormwater in a different way and here's a particular stretch of of roadway that was not initially anticipated as stormwater management but has a great potential to manage up to four to six acres of of surface drainage so i think that's we're looking at it as an opportunity recognizing that if if it is not Funded as such we would still go forward with it with the vision zero aspects, but would not be able to do stormwater management Council Hirsch. Yeah, dr. Campbell"
+    },
+    {
+      "block_id": 406,
+      "speaker": "SPEAKER_00",
+      "start": 8678.73,
+      "end": 8719.4,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding input from the Central Market Trust regarding an amendment.",
+      "text": "council Hirsch Thank You council president my question is just a lot of what's been said makes sense I am curious though about the input from the Central Market Trust my understanding is that they currently still do not have an executive director although someone can correct me if I'm wrong who from the Central Market Trust like I assume the board of directors were the ones that would have given input into this amendment and I guess over what time was that done and I guess I'm just like curious about the input from their perspective leading up to this resolution we see now they have partnered"
+    },
+    {
+      "block_id": 410,
+      "speaker": "SPEAKER_00",
+      "start": 8752.69,
+      "end": 8785.88,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the execution of a plan, indicating a community interest in the city's decision.",
+      "text": "they don't have one currently but staff as well and I would just say that the that their legal counsel was the final review and that is what got us to here and so it has been a long journey that's helpful thank you thank you counselor men Thank You council president and thank you director Campbell's my only question is is it a function of the board with the representative from the city to make sure this is executed to the liking of both parties or is the"
+    },
+    {
+      "block_id": 411,
+      "speaker": "UNKNOWN",
+      "start": 8785.88,
+      "end": 8824.04,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns and questions regarding the city's capital plan and expenditure oversight.",
+      "text": "city gonna have to do due diligence to make sure that the capital plan is happening and the expenditures are what they're supposed to be is this gonna be just like a board joint effort or is this gonna be extra work in time for city staff to go back and audit expenditures so the building is still owned by the city and so it is our responsibility to make sure that it remains in good working order functionally structurally and that it can operate for its intended use and the board of CMT has a vested interest in making sure that it is operating to its best intention"
+    },
+    {
+      "block_id": 425,
+      "speaker": "UNKNOWN",
+      "start": 9064.26,
+      "end": 9111.11,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion and concern regarding council salaries during what appears to be the public comment period.",
+      "text": "some of their council salaries are incredible um Harrisburg right off the top of my head I don't remember the exact figure but I think Harrisburg might be somewhere around 20 and you know they're probably although Harrisburg is the capital their population is less than Lancaster Pennsylvania and all right that's just a little amazing that's it Thank You council Craig I knew that this is something that you've been thinking about as you know your service on council is winding down and I appreciate you know where you're coming from with"
+    },
+    {
+      "block_id": 426,
+      "speaker": "SPEAKER_00",
+      "start": 9111.11,
+      "end": 9115.85,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding a proposal being discussed.",
+      "text": "with this proposal I don't think that anybody serves on council in this"
+    },
+    {
+      "block_id": 429,
+      "speaker": "UNKNOWN",
+      "start": 9162.81,
+      "end": 9171.03,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding the recognition of voters in relation to council members' participation.",
+      "text": "voters should also be recognized so if council members aren't coming to those meetings or meeting their commitments or being an active participant in those"
+    },
+    {
+      "block_id": 432,
+      "speaker": "SPEAKER_00",
+      "start": 9201.07,
+      "end": 9219.39,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing opinions regarding community involvement and running for council.",
+      "text": "forward i think that it has been a long time and i think this will also allow other folks in the community who may have not been interested in running for council to look into running for council if they gave additional means for them to do so i would also like to add you know that i am"
+    },
+    {
+      "block_id": 437,
+      "speaker": "UNKNOWN",
+      "start": 9244.38,
+      "end": 9255.02,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering a comparative opinion regarding the overall cost of a council matter.",
+      "text": "yeah and forgive me if this was already explained councillor Craig but in your comments but the overall cost of council would actually be lower compared to pre"
+    },
+    {
+      "block_id": 441,
+      "speaker": "UNKNOWN",
+      "start": 9322.55,
+      "end": 9337.69,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern regarding salary value in relation to inflation.",
+      "text": "inflation calculator based on when the $8,000 salary was passed today that would be worth over 13 and a half thousand so you know y'all heard my"
+    },
+    {
+      "block_id": 444,
+      "speaker": "SPEAKER_00",
+      "start": 9353.65,
+      "end": 9384.32,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding an increase related to inflation.",
+      "text": "up with inflation for what it was said at 2005 but I think it's nice that there an increase and i also feel better about it knowing that it's effective 2028 so i'm not voted on my own you know um on my current term so those things kind of made me feel a little better about it so thank you any additional comments from council comments from the public all right hearing"
+    }
+  ]
+}

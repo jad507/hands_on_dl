@@ -1,0 +1,279 @@
+{
+  "title": "Traffic Commission Meeting - November 11, 2025",
+  "video_id": "Wof-B6HAg2g",
+  "upload_date": "20251112",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-03T21:08:28+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_00",
+      "start": 821.77,
+      "end": 883.61,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies themselves as the owner of the house that was hit twice and speaks about a specific issue.",
+      "text": "in but on I am the owner of the house that was hit twice here I mean I spoke at last meeting so okay do we have from from staff do we have a report on this item Thank You Ben commission Ben Hogan public works engineer for city of Lancaster. We took a review of potential all-way stop control at the intersection of Fairview and Fremont ahead of this meeting. So there's a few warrants in federal and state guidance to implement all-way stop control at an intersection or lead us to believe it could be justified. A few of them would be intersection site distance, traffic volume that travels through the intersection, crash history at the intersection, and then a few other various factors like pedestrian volume. So when we took a look at this intersection we found that sight distance for the northbound approach was adequate but for the southbound approach on the northwest corner of the"
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_00",
+      "start": 930.38,
+      "end": 938.18,
+      "speaker_name": "unknown",
+      "reason": "The speaker is reporting an observation regarding wrong-way driving on Fairview Avenue.",
+      "text": "vehicles were traveling the wrong direction on Fairview Avenue. We heard that in the complaint about this particular intersection that wrong-way driving is a frequent occurrence."
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_00",
+      "start": 1026.21,
+      "end": 1040.93,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing traffic control measures at an intersection.",
+      "text": "daylighting at the intersection using paint and flex posts some additional signage to clarify that it is a two-way stop and that traffic from the Fairview Avenue approach doesn't have to stop and then we were also looking to add do not"
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_00",
+      "start": 1145.95,
+      "end": 1156.63,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding traffic and warrants.",
+      "text": "those similarly restricted by warrants like were those considered why is that something that would you know also slow down traffic and prevent some of these crashes i would certainly slow down"
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_00",
+      "start": 1238.58,
+      "end": 1245.2,
+      "speaker_name": "Valencia",
+      "reason": "The speaker identified themselves and spoke during the public comment period.",
+      "text": "well my name is a world of Valencia and I own the property at seven six seven six six Fremont Street"
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_00",
+      "start": 1261.48,
+      "end": 1299.3,
+      "speaker_name": "unknown",
+      "reason": "The speaker is describing daily occurrences and referencing videos they sent to the commission.",
+      "text": "in the videos okay okay this is an occurrence that happens daily the videos that I sent in were just I visit my parents weekly so this is just me getting there and seeing happened just to see it and then getting you know the videotape from it and in one of them I'm not sure if you guys had an opportunity to see it there was a near miss on one like and this i even have another one that just happened november again again i was just getting it to my parents house so i don't know why these vehicles are going up the wrong way i don't think it's that they don't know because this vehicle is parked on either side of the street so obviously they know that this is a one"
+    },
+    {
+      "block_id": 42,
+      "speaker": "UNKNOWN",
+      "start": 1299.3,
+      "end": 1303.66,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering an opinion regarding a proposed route.",
+      "text": "way um i think it's just an easier way for them instead of going the whole way around the block"
+    },
+    {
+      "block_id": 60,
+      "speaker": "UNKNOWN",
+      "start": 1713.13,
+      "end": 1727.38,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering input regarding vehicle size restrictions and a bump out.",
+      "text": "taking the turn here because of that larger bump out thanks I just want to chime in a bit about that we're prohibiting the largest size vehicles"
+    },
+    {
+      "block_id": 74,
+      "speaker": "UNKNOWN",
+      "start": 2009.45,
+      "end": 2032.0,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the use of large trucks in a specific area.",
+      "text": "Yeah. Any further discussion or comment about what needs to be addressed? Maybe identifying an alternate? well my my other reason the thing that prompted my question is are there any user like any industries or anything in that stretch that take regular deliveries by those large trucks"
+    },
+    {
+      "block_id": 87,
+      "speaker": "SPEAKER_00",
+      "start": 2371.88,
+      "end": 2378.56,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding parking space reduction.",
+      "text": "i hope so you might as well keith radicek lakers parking authority how many net spaces would have"
+    },
+    {
+      "block_id": 90,
+      "speaker": "UNKNOWN",
+      "start": 2416.79,
+      "end": 2445.02,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about traffic safety near a school.",
+      "text": "near the school i think the main advantage near the school was eliminating sort of any parking on the south side of the street because there's a lot of um there's some spaces that are used sort of to drop off children but there's no sidewalk on that side of the street and there's So there's a lot of mid block crossing and it's kind of a dangerous crossing area trying to discourage any kind of very good Very good. Thank you very much for that"
+    },
+    {
+      "block_id": 99,
+      "speaker": "SPEAKER_00",
+      "start": 2671.15,
+      "end": 2685.62,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies themselves as a resident and is addressing the intersection.",
+      "text": "correct thank you thank you for adding this to the agenda today i think there are others here who might want to and but i'll kick it off um i live at 507 west lemon so i face the intersection"
+    },
+    {
+      "block_id": 102,
+      "speaker": "UNKNOWN",
+      "start": 2757.59,
+      "end": 2772.05,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about traffic safety and suggesting an improvement to stop signs.",
+      "text": "somehow I'd like to see attached to the stop sign something that alerts people someone else yes does anyone else want to speak to this item as well please come forward and again"
+    },
+    {
+      "block_id": 106,
+      "speaker": "UNKNOWN",
+      "start": 2862.79,
+      "end": 2885.94,
+      "speaker_name": "Steve Farina",
+      "reason": "The speaker identifies themselves and begins to state their concern regarding a local issue.",
+      "text": "public in the introduction to the issue yes please and again your name and block of residence hey I'm Steve Farina I live on the 400 block of Lancaster Avenue so"
+    },
+    {
+      "block_id": 107,
+      "speaker": "SPEAKER_00",
+      "start": 2885.94,
+      "end": 2910.99,
+      "speaker_name": "unknown",
+      "reason": "The speaker describes a busy intersection and expresses concern for the safety of children in the area.",
+      "text": "I'm like to the left of this and down a little it is a really busy intersection There's a ton of kids. My wife and I just started letting our 12-year-old walk there by herself. It's a really busy intersection, especially with the ice cream shop. They pull a lot of children in. With Cabellar, they pull a lot of everybody else in. With Brandy's right"
+    },
+    {
+      "block_id": 108,
+      "speaker": "UNKNOWN",
+      "start": 2910.99,
+      "end": 2928.46,
+      "speaker_name": "unknown",
+      "reason": "The speaker is raising a safety concern regarding a dumpster blocking a corner and referencing past traffic issues.",
+      "text": "there, there's been that dumpster blocking a good portion of that corner on Mary. There used to be crossing guards there probably 10, 12 years ago in the mornings and afternoons for school children. That hasn't been there in a long time. There was a man, Chuck Layman,"
+    },
+    {
+      "block_id": 111,
+      "speaker": "SPEAKER_00",
+      "start": 2948.92,
+      "end": 2956.88,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering an observation about traffic patterns in a specific location.",
+      "text": "it's not a spot where people really stop and look. I've also seen two or three, at least two,"
+    },
+    {
+      "block_id": 114,
+      "speaker": "UNKNOWN",
+      "start": 2967.6,
+      "end": 2969.98,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern regarding traffic flow.",
+      "text": "before they try to turn the wrong way"
+    },
+    {
+      "block_id": 123,
+      "speaker": "SPEAKER_00",
+      "start": 3214.12,
+      "end": 3300.7,
+      "speaker_name": "unknown",
+      "reason": "The speaker is raising a concern about a metal bike stop blocking the view on Lancaster Avenue.",
+      "text": "me ask that joe sitzel i also live on the 400 block of lancaster avenue next to steve so i think he said most of it i just wanted to ask and put it under consideration there's a also some sort of metal bike stop i don't know what it is pamela maybe you know the history there but that also blocks kind of like the view look to the right it's in front of splits and giggles does anyone know if I don't know what that's for I don't think it's used that much it's a bike rack okay but I do think that impedes viewing also I have a two-year-old I go to the ice cream shop often and we cross over the road to cab or often and that also sort of impedes the view of pedestrians crossing to see if cars are coming down Lancaster of coming down lemon so I just want to mention that for further consideration and say I also support you know a stop sign here I think it would help pedestrians any other comments a question"
+    },
+    {
+      "block_id": 126,
+      "speaker": "UNKNOWN",
+      "start": 3365.02,
+      "end": 3385.95,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses concerns regarding the implementation of traffic enforcement on Lemon Street.",
+      "text": "design the enforcement the implementation i i do have um maybe some concerns just with the fact that there are no other stop signs along lemon street so sort of driver expectation would"
+    },
+    {
+      "block_id": 132,
+      "speaker": "UNKNOWN",
+      "start": 3573.59,
+      "end": 3580.35,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing traffic control measures like stop signs in a specific location.",
+      "text": "warranted having a stop sign but that under special considerations given this"
+    },
+    {
+      "block_id": 147,
+      "speaker": "SPEAKER_00",
+      "start": 4159.01,
+      "end": 4197.62,
+      "speaker_name": "Matt Shields",
+      "reason": "The speaker is addressing the council regarding a request from the school district concerning bus loading/unloading areas.",
+      "text": "item 42-20 25 considering the request of Matt shields from the school district of lancaster to add bus loading unloading area from 7 30 to 8 15 a.m and 1 30 to 2 45 p.m at 600 rockland street hi matt how are you good evening thank you uh so uh we're here uh for the request we struggle at our morning arrival and and more so in the afternoon with pickup because there's parking on both sides of the street so our buses are not able to get curbside so they are often parked in the drive lane which forces vehicles to travel around them into"
+    },
+    {
+      "block_id": 172,
+      "speaker": "UNKNOWN",
+      "start": 4825.03,
+      "end": 4854.18,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding a proposed land development project at 913 Wheatland Avenue.",
+      "text": "can you speak a little bit closer sure microphone thank you um so we are here to talk about 913 wheatland avenue with eight multi-family housing units being proposed there this we is a land development project so much like the last one you were talking about we're really looking here for your approval that can be contingent upon the detailed design review"
+    },
+    {
+      "block_id": 189,
+      "speaker": "SPEAKER_00",
+      "start": 5221.11,
+      "end": 5239.17,
+      "speaker_name": "Andrew from Habitat for Humanity",
+      "reason": "The speaker is discussing engagement with resident neighbors regarding a project.",
+      "text": "Andrew from Habitat for Humanity we've also been very much engaged with the resident neighbors both immediately adjacent and those across the street condo and condominiums across the street and down the street West End Avenue so forth I've been involved as part of this being one apart the satellites more or"
+    },
+    {
+      "block_id": 207,
+      "speaker": "SPEAKER_00",
+      "start": 5579.26,
+      "end": 5596.4,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the city council regarding a partnership and city standards.",
+      "text": "much for that just adding on to that um lancaster 11 and habitat for man he's turning 40 next year and the city of lancaster has been our longest standing partner uh it's you guys the city has a reputation of having higher standards and a little more rigor when it comes to some of the"
+    },
+    {
+      "block_id": 219,
+      "speaker": "SPEAKER_00",
+      "start": 5879.27,
+      "end": 5887.43,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding the expressway version of Mary Street.",
+      "text": "the entire mary street just so that they can see it overhead i want yeah i want the expressway version"
+    }
+  ]
+}

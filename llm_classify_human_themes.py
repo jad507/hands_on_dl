@@ -297,8 +297,37 @@ def classify_p1_chunk(llm: Llama, blocks: list[dict], meeting_title: str,
     return recovered, (1 if n_still_failed > 0 else 0)
 
 
+def p1_chunks(blocks: list, size: int, offset: int = 0) -> list[list]:
+    """Split blocks into the batches phase 1 sends to the model.
+
+    `offset` rotates where the batch boundaries fall WITHOUT changing the block
+    list: the first chunk is short by `offset` blocks and every later boundary
+    shifts by the same amount.
+
+    That parameter exists because of what the diarization-variant analysis
+    found. A single inserted or deleted block upstream shifts every later chunk
+    boundary, and blocks judged in a differently-composed chunk change
+    classification 12-17% of the time on byte-identical text. `offset`
+    reproduces that shift deliberately, so the natural experiment in
+    `compare_diarization_variants.py` can be replaced by a designed one in which
+    nothing varies except the batching.
+
+    Invariant: every block appears exactly once, in order, at any size and
+    offset. Asserted in tests -- a chunker that dropped or duplicated a block
+    would change N and quietly invalidate the comparison.
+    """
+    if size < 1:
+        raise ValueError("chunk size must be at least 1")
+    n = len(blocks)
+    off = offset % size if offset else 0
+    starts = ([0] + list(range(off, n, size))) if off else list(range(0, n, size))
+    out = [blocks[a:b] for a, b in zip(starts, starts[1:] + [n])]
+    return [c for c in out if c]
+
+
 def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str,
-               model_path: Path, limit: int | None = None) -> None:
+               model_path: Path, limit: int | None = None,
+               chunk_size: int | None = None, chunk_offset: int = 0) -> None:
     system        = build_system(load_prompt(P1_PROMPT_FILE), model_cfg["no_think"])
     meeting_files = sorted(glob(os.path.join(COMMENTS_DIR, "*.json")))
     total_start   = time.perf_counter()
@@ -308,6 +337,12 @@ def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str,
         model_name=model_name, model_cfg=model_cfg, model_path=model_path,
         prompt_file=P1_PROMPT_FILE, rendered_system=system, settings=SETTINGS,
     )
+    # The effective chunking, not the configured one. An output produced under
+    # --chunk-size 5 must not look like one produced at the default.
+    prov["chunking"] = {
+        "p1_chunk_size": chunk_size or P1_CHUNK_SIZE,
+        "p1_chunk_offset": chunk_offset,
+    }
 
     if limit is not None:
         meeting_files = meeting_files[:limit]
@@ -355,8 +390,8 @@ def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str,
 
         identified: list[dict] = []
         n_chunk_errors = 0
-        chunks = [all_blocks[i:i + P1_CHUNK_SIZE]
-                  for i in range(0, len(all_blocks), P1_CHUNK_SIZE)]
+        chunks = p1_chunks(all_blocks, chunk_size or P1_CHUNK_SIZE,
+                           chunk_offset)
         for chunk in chunks:
             results, err = classify_p1_chunk(llm, chunk, title, system, model_cfg["strip_think"])
             identified.extend(results)
@@ -631,6 +666,16 @@ def main() -> None:
     parser.add_argument("--limit", type=int, metavar="N",
                         help="Process at most N meetings per phase. For smoke-testing "
                              "a config change without committing to a multi-hour run.")
+    parser.add_argument("--chunk-size", type=int, metavar="N",
+                        help="override p1_chunk_size for this run. The ISLS "
+                             "finding is about this parameter, so it is "
+                             "adjustable and recorded in every output's "
+                             "provenance block.")
+    parser.add_argument("--chunk-offset", type=int, default=0, metavar="K",
+                        help="shift where phase-1 batch boundaries fall, without "
+                             "changing the block list. Reproduces under control "
+                             "what an inserted or deleted block upstream does by "
+                             "accident.")
     parser.add_argument("--dry-run", action="store_true",
                         help="Resolve paths, validate config and prompts, and report what "
                              "would run -- without loading the model or writing anything.")
@@ -661,6 +706,11 @@ def main() -> None:
     if args.limit is not None and args.limit < 1:
         parser.error("--limit must be at least 1")
 
+    if args.chunk_size is not None and args.chunk_size < 1:
+        parser.error("--chunk-size must be at least 1")
+    if args.chunk_offset < 0:
+        parser.error("--chunk-offset must not be negative")
+
     model_cfg  = MODELS[args.model]
     model_name = args.model
 
@@ -689,6 +739,12 @@ def main() -> None:
         print(f"  phase 1 out   {p1_dir}")
         print(f"  phase 2 out   {p2_dir}")
         print(f"  settings      {SETTINGS}")
+        eff_size = args.chunk_size or SETTINGS.get("p1_chunk_size", 3)
+        if args.chunk_size or args.chunk_offset:
+            print(f"  chunking      size {eff_size} (OVERRIDE), "
+                  f"offset {args.chunk_offset}")
+        else:
+            print(f"  chunking      size {eff_size}, offset 0 (defaults)")
 
         n_meetings = len(sorted(glob(os.path.join(COMMENTS_DIR, "*.json"))))
         n_planned  = min(n_meetings, args.limit) if args.limit else n_meetings
@@ -721,7 +777,10 @@ def main() -> None:
     print(f"  Loaded in {fmt_elapsed(time.perf_counter() - t0)}")
 
     if args.phase in ("1", "both"):
-        run_phase1(llm, model_cfg, model_name, p1_dir, model_path, args.limit)
+        run_phase1(llm, model_cfg, model_name, p1_dir,
+                   model_path, limit=args.limit,
+                   chunk_size=args.chunk_size,
+                   chunk_offset=args.chunk_offset)
 
     if args.phase in ("2", "both"):
         run_phase2(llm, model_cfg, model_name, p1_dir, p2_dir, model_path, args.limit)

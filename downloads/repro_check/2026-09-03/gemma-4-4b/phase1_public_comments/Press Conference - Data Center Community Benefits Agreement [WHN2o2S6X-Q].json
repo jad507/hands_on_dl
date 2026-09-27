@@ -1,0 +1,108 @@
+{
+  "title": "Press Conference - Data Center Community Benefits Agreement",
+  "video_id": "WHN2o2S6X-Q",
+  "upload_date": "20251119",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-03T21:08:28+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 4,
+      "speaker": "UNKNOWN",
+      "start": 940.54,
+      "end": 952.84,
+      "speaker_name": "Ezra Rothman",
+      "reason": "The speaker identifies as the president of EDC Lancaster County and addresses the council.",
+      "text": "Thank you, Mayor, and good afternoon. I'm Ezra Rothman, president of EDC Lancaster County, the lead economic development entity serving our community."
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_00",
+      "start": 987.74,
+      "end": 1009.02,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the characteristics of previous industrial uses in the area.",
+      "text": "2 million square feet of industrial use and parking for over 1300 vehicles like many legacy manufacturing locations these facilities operated 24 7 with heavy truck and employee traffic production noise significant water usage and emissions the previous use was born in an era"
+    },
+    {
+      "block_id": 10,
+      "speaker": "UNKNOWN",
+      "start": 1009.02,
+      "end": 1021.5,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the evolution of industrial uses over time regarding community needs.",
+      "text": "when there was much less awareness of community needs and environmental protections since then industrial uses have continued to evolve over time to be more productive and responsive to community"
+    },
+    {
+      "block_id": 11,
+      "speaker": "SPEAKER_00",
+      "start": 1021.5,
+      "end": 1050.96,
+      "speaker_name": "unknown",
+      "reason": "The speaker is advocating for a future-focused use for the site through a Community Benefits Agreement.",
+      "text": "needs now before the recent interest in data centers the strongest market demand for sites like this was for distribution warehouses and that is not the highest and best use for a city like lancaster by contrast high-tech investment and innovation belong in cities through this cba we can secure a future-focused highly productive use that addresses community concerns while"
+    },
+    {
+      "block_id": 12,
+      "speaker": "UNKNOWN",
+      "start": 1050.96,
+      "end": 1066.19,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the economic benefits of an AI hub investment in the community.",
+      "text": "investing in the foundation of an AI hub in Lancaster. The construction of this project alone will bring more technical, skilled, and diverse employment opportunities than a typical warehouse or industrial development."
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_00",
+      "start": 1089.38,
+      "end": 1097.46,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the impact of a project on local career opportunities.",
+      "text": "And this is not just abstract. Recently, I spoke to a McCaskey student who was exploring tech and AI career opportunities"
+    },
+    {
+      "block_id": 53,
+      "speaker": "SPEAKER_00",
+      "start": 1988.23,
+      "end": 2068.37,
+      "speaker_name": "unknown",
+      "reason": "The speaker is advocating on behalf of the city regarding water quality issues related to development.",
+      "text": "Yes. I think that, in particular, related to water, the technology exists in which large volumes of water do not need to be used. It's a financial decision. Do not give in. It's really that simple. I mean, we, I have, I am for a few more days still the mayor of the city of Lancaster and have been advocating a lot around water, water quality issues, storm water, all of that facets of water. To yield to development that consumes the volume of water that is necessary to cool under the previous iteration of data centers to me is unfathomable, and it is not correct. And I believe that elected leaders across Pennsylvania who are contemplating this, there is technology, and Carissa has shown us that that is true, to cool these facilities using a closed-loop system. And that technology exists, and every community should be demanding its use to these two properties."
+    }
+  ]
+}

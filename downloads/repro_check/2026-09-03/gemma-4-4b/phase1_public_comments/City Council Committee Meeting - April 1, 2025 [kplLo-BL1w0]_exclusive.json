@@ -1,0 +1,369 @@
+{
+  "title": "City Council Committee Meeting - April 1, 2025",
+  "video_id": "kplLo-BL1w0",
+  "upload_date": "20250402",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-03T21:08:28+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_05",
+      "start": 865.44,
+      "end": 905.05,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding available state grants during the comment period.",
+      "text": "questions from the committee if I may come 30s I have just one question there was a I believe ten million dollar grants for cities that may want if they're struggling in some area and that was by governor Shapiro are you aware that are you looking into that grant at all yeah i'm not sure which grant that that is you said it was for 10 million i think it was for 10 million it could be for more guys kind of took a quick glance of the the fact that it did came out i could also forward it to you yeah that that"
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_03",
+      "start": 910.79,
+      "end": 931.67,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the projected revenues and taxes for the first quarter.",
+      "text": "Thank you, Director Campbell. My question is, do we project that the revenues and taxes will meet the budget for Q1? I know it's still a little bit too early to say, but are we on pace from a revenue side?"
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_17",
+      "start": 1349.3,
+      "end": 1362.52,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding city projects following a presentation.",
+      "text": "Thank you, Councilor Arroyo. Thank you, Director Campbell, for the presentation. And are there any projects being delayed or canceled or reduced as a result of this amendment?"
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_00",
+      "start": 1458.49,
+      "end": 1507.88,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council about the lack of public visibility for certain information.",
+      "text": "starting bird and street once again i'm going to ask council why they do not put this information up on the screen that you're showing we spend a lot of money updating city this city council chambers with technology and yet you're talking about things that we're not able to see it's not available on the website at this time and it needs to be put out to the public one of the reasons when i was on the home rule and suggested even about the reports was that so the public would but have more information, not just the council members. So again, I'm asking council, hoping to get an answer, why this is not presented to the public so we can see what she's referring to or what anyone's referring to when they're presenting something."
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_11",
+      "start": 1591.56,
+      "end": 1625.54,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions regarding city vacancies and future hiring plans.",
+      "text": "Brian Nelson Columbia Avenue I just had one question you mentioned the vacancies that you were using to like we're saving money off of the vacancies are there any plans to fill those vacancies or you're just gonna leave like not hire for these positions what's the plan going forward with the vacancies that you guys mentioned oh was that for the budget oh I apologize I think I miss misinterpreted that but yeah yeah so I guess I mean going forward I guess for like you know talking about the budget and stuff like that are we budgeting in for 2025 to"
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_07",
+      "start": 1649.15,
+      "end": 1744.88,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern regarding the use of municipal funds.",
+      "text": "in Susie Gomez 100 block the north for a divorce Street. I just wanted to implement for the public, not so much for you guys. What Janet had mentioned, $10 million of the Josh Shapiro fund that was granted to municipalities should have been used. As Tina Campbell mentioned, she's relying on the income tax increase from the taxpayers that was granted for the homeroom charter. So when you're looking at a budget, I think that all of these factors should come into play, especially when you're trying to balance a budget and you have deficits. It's important to utilize the grants that is given to especially crisis areas or for municipalities that deal with issues in the community that the government is releasing funding for. Who writes these grants, Tina? why is it not important for you to you know push a little bit further into looking into these grants because 10 million dollars is a lot of money that could have been used for these areas and for it to be ignored is beyond my understanding any further public comment"
+    },
+    {
+      "block_id": 48,
+      "speaker": "SPEAKER_03",
+      "start": 3476.36,
+      "end": 3498.76,
+      "speaker_name": "unknown",
+      "reason": "The speaker is requesting quarterly reports on the use of force findings from the council.",
+      "text": "Accessibly. Not the reports. Only quarter fours. Well, given that these are quarterly, can we have request reports quarterly to the council, similar to the finance quarterly reports, to kind of go over the use of force within the quarter and the findings? Would that be something that council could request by the court?"
+    },
+    {
+      "block_id": 52,
+      "speaker": "SPEAKER_03",
+      "start": 3521.78,
+      "end": 3544.21,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the consideration of an officer's past incidents.",
+      "text": "My last question is, given that you stated that the review is viewed in the lens of an officer that is fully trained, is there any consideration in if this officer had previous incidents or his past or anything like that?"
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_17",
+      "start": 3648.43,
+      "end": 3667.41,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and expressing concerns about transparency.",
+      "text": "Thank you, Councilor Diaz. Thank you, Chief Mendez, for the presentation. uh what immediate steps is the department willing to take in order to increase transparency and"
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_06",
+      "start": 3860.78,
+      "end": 3901.66,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question for clarification regarding police statistics.",
+      "text": "no further question thank you yes if i may she was going to speak first i have one question um i want to just clarify on the the latest update of statistics for use of force in the most recent quarter that's available just to put it in perspective so that was the slide and it's available on the police website 86 8 698 arrests and the the use of force on the continuum that's reportable is 29 point zero zero three percent of arrest I just wanted to make"
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_02",
+      "start": 3922.38,
+      "end": 3960.95,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions regarding post-incident coaching for officers.",
+      "text": "of the arrest so thank you thank you councillor ds um thank you for the report i appreciate it um a couple questions uh regarding to one of the things you mentioned was um after an incident happens um you mentioned the case law that occurred well what type of coaching happens after or does any coaching happen after when there's an incident of what improvements could have been made with the officer um i know you said you know there's no monday morning quarterbacking but are there ways of coaching officers on alternative approaches etc during an incident so yeah and when I was talking about some"
+    },
+    {
+      "block_id": 70,
+      "speaker": "SPEAKER_05",
+      "start": 4538.28,
+      "end": 4568.96,
+      "speaker_name": "unknown",
+      "reason": "The speaker is thanking the mayor and chief for providing information regarding community crime statistics.",
+      "text": "say right now Thank You mayor sir Archie I also want to extend a thank you for chief Mendez to take that opportunity to come and give us the information and stats of what is going on in our community in reference to crime as well as unfortunately children that are carrying weapons that can cause damage not only to themselves but others and that right now concludes everything for safety committee Thank You Amanda Thank You councillor Diaz we will move now to"
+    },
+    {
+      "block_id": 88,
+      "speaker": "SPEAKER_17",
+      "start": 5252.81,
+      "end": 5262.81,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the timeline for funding and replacements.",
+      "text": "And what is the expected timeline for receiving funding and completing these replacements? I don't know if I missed it."
+    },
+    {
+      "block_id": 90,
+      "speaker": "SPEAKER_08",
+      "start": 5297.67,
+      "end": 5309.59,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding a request to the new administration.",
+      "text": "current administration but that is a request that mayors are bringing to the new administration regarding that timeframe of 10 years."
+    },
+    {
+      "block_id": 95,
+      "speaker": "SPEAKER_00",
+      "start": 5403.16,
+      "end": 5490.5,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns and asking questions about city resolutions and associated costs.",
+      "text": "understands everything that's going on but as I come to these meetings and I hear about these resolutions it makes me want to ask more questions at the last council meeting we are approved to go for pen best I think for nine million dollars is that correct no okay yeah it was nine point one thank you Okay. Also, we just talked about two resolutions, number 25 and number 26, which totals like $5.6 million that would be going into the water, and I'm assuming some of these lead lines as well. We are now applying for $1 million, and I heard Mr. Campbell say it's grant or a loan i don't think that was clear i mean i would like to know if it is a grant or a loan what is the interest rate how low is it i also understand that they're going to be targeting neighborhoods and i know back when they first got the lead got money to do the lead lines they targeted the southwest and i remember coming to council and questioning while you're working on lead paint in the southeast why do you not focus in that area to get rid of all the lead so out of these 108 homes that would get done and they're targeting a neighborhood"
+    },
+    {
+      "block_id": 104,
+      "speaker": "SPEAKER_01",
+      "start": 5717.03,
+      "end": 5834.15,
+      "speaker_name": "Tony Dasher",
+      "reason": "The speaker expressed a concern regarding the long-term impact of city bonds on the cost of living.",
+      "text": "uh tony dasher 700 block new holland avenue i don't have concerns as it relates to the immediate content of these but just you know i'm kind of reflecting on the bonds and this work that we need to do right now uh because ultimately these things increase the cost of living in lancaster in the long run the debt service obviously is incorporated into our taxes um the point or the thought running through my head rather i'm not 100 sure about this i'm just saying it for thought um you know i know the city at times throughout the years has um leveraged uh revenues from sewer or water to help balance the budget um and maybe it's worth because like in the charter we made it so you can't sell utilities maybe it's worth keeping those funds separate in the long run as well uh because you know i don't think anybody would have ever anticipated the pfa situation but maybe if water revenues had never been touched over the years there would have been more to pull from um so i'm not saying that as like a solid i think but i think it's worth looking into like keeping all these funds separate for the long run so that nobody throughout any because the this the debt situation for the city is something that occurs over a long period of time not just any singular person or council um so yeah that that's just what's been going through my head as we discuss these issues the idea of keeping uh sewer and water um their revenues separate and leaving them to those departments um in part because like one this is the need of life and you want to make sure the money's there but two we have customers outside of the city um so yeah those are just some"
+    },
+    {
+      "block_id": 119,
+      "speaker": "SPEAKER_14",
+      "start": 6246.74,
+      "end": 6258.4,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the urgency of a project's interim financing.",
+      "text": "Thank you, Director Campbell. Just a quick question. So the interim financing, is that being pursued due to the urgency of this particular project?"
+    },
+    {
+      "block_id": 132,
+      "speaker": "SPEAKER_03",
+      "start": 6569.48,
+      "end": 6615.72,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking the council about negotiating cost-sharing agreements with other municipalities regarding water usage.",
+      "text": "you council president uh counselor matt uh thank you thank you uh director cannibal um counselor council president uh started kind of getting into the question i was going to ask but given that the water is used by other municipalities um are there any inner municipal agreements that he could try to negotiate where they could be putting up some of the costs or i i appreciate someone using some of the right public right away and everything but is there any way to go to the other municipalities and say you know can you help support this project in x way or we're going to raise rates for other municipalities by x amount so in principle yes the the rates are"
+    },
+    {
+      "block_id": 136,
+      "speaker": "SPEAKER_17",
+      "start": 6721.91,
+      "end": 6738.92,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the financial impact on waterway rates.",
+      "text": "thank you just a quick question and what impact what financial impact there is in on the waterways for the residents for the waterways rates for the rates this is part of"
+    },
+    {
+      "block_id": 138,
+      "speaker": "SPEAKER_17",
+      "start": 6870.76,
+      "end": 6875.74,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about the impact on residents.",
+      "text": "It will raise for the residents anyway, right?"
+    },
+    {
+      "block_id": 149,
+      "speaker": "SPEAKER_00",
+      "start": 7028.54,
+      "end": 7159.84,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding the financing of a need.",
+      "text": "We're talking about both Resolutions 28 and 29, is that correct? Or are we just talking about 20? Okay, so we're talking about two. Okay, so I think Council, I think you're all asking the right questions. I do believe that no one's trying to say this is not a need. We understand the water. home rule can explain a lot to me so I do have a clear understanding about that the question is how we're financing it and that's what council needs to be a concerned about and councilman LeChard I appreciate your asking the impact on the residents because that's what council needs to be concerned about we're talking about borrowing 27 million that we will pay back on bonds that we already approved if and I understand the process that we need to have this work shovel ready then that means we jump the gun to borrow the money on the bonds because this process has to happen first and that's what council needs to be looking at because one of the things are we understand we already approved the bonds but now to say we're going to go get another loan for 27 million just so we can be ready to spend the money that we get from the bonds so that the project shovel ready and then we're going to take the money that we get from Penvest I guess and the bonds and pay this 27 million back so this is going to be like a short-term loan but in the process we're paying interest on that so I think council needs to get into the financing and not look into who's saying we need this water line and everybody understands the stormwater everybody well maybe they don't understand it but the need is there we know the city is old we understand the epa we understand what's going on with our water but the fact that our water rates and things are going to go up is a result of council approving borrowing money when it's sitting and we're not using it and we're paying interest on it now we're this week we're talking about getting a loan on the money that we just borrowed to put us in more debt so i think you know you need to make sure that you understand exactly what we're doing because this is a greater"
+    },
+    {
+      "block_id": 150,
+      "speaker": "SPEAKER_08",
+      "start": 7159.84,
+      "end": 7298.51,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns about the financial impact of city projects on homeowners and taxpayers.",
+      "text": "impact on the homeowner and the taxpayer i could just say i hear your concerns and frustrations miss bird i think that the way that this is set up is that we have to borrow the money send the money put the projects in the ground and then go for rate increase to then pay ourselves back and when we go to the puc we're never i don't think ever have gotten 100 of what we requested And so it is an upside-down process, and that is something that we have talked about in terms of effectuating change at the state level with how the PUC does this. But they are also there as a means of protecting rate payers, specifically those who are not represented by the city council who live outside of the city. So they are there specifically to prevent any kind of price gouging or raising of rates unfairly, but the rules are the rules and we have to spend the money first before we can get the rate increase, which goes to your point about where are we borrowing this money from and how are we expeditiously getting the products in the ground. and i think those are the questions that continue that council should continue to ask especially because we're going to be putting timelines um for projects on our capital plan that we'll be presenting to you in june and so those are the things that you should be monitoring because the bond funds i will say very clearly historically the city has not been good about getting projects in the ground utilizing bond funds and that's been a legacy that has been from you know previous administrations that we are trying to change and part of that starts with having a capital plan and a really clear sequence of what we need to borrow for what projects and in what sequence and not taking off not biting off more than we can chew because the list of projects that was originally presented was much longer than the one that you got thank you mayor is that fair that's"
+    },
+    {
+      "block_id": 155,
+      "speaker": "SPEAKER_07",
+      "start": 7360.5,
+      "end": 7412.03,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns and asking questions regarding water service and deadlines.",
+      "text": "Yeah, so I understand that the PUC have deadlines and their projects need to be completed. So because we can't meet the deadlines, because projects are not being completed, this is where we are. There are, you mentioned, 150,000 people that are accessing this water. there's about 60 000 people in the city of lancaster as residents what measures are you using to pursue the townships and counties that are receiving water from us because we should not be the only ones held accountable to pay this like are you have you sent out requests have you sent out any type of uh formal made meetings with the townships to um bring in bring forth any type of"
+    },
+    {
+      "block_id": 162,
+      "speaker": "SPEAKER_13",
+      "start": 7611.25,
+      "end": 7688.22,
+      "speaker_name": "Diane Desmond",
+      "reason": "The speaker is a resident expressing concern about a significant rate increase on their water bill.",
+      "text": "um diane desmond i live off route 30 near the state police um i wanted to just give you a little bit of scope of um what i'm currently dealing with in my apartment community um we saw from 2020 to sorry from 2024 to 2025 a 67% rate increase on our water bill and I'm not going to blame all of that on these very necessary projects because I understand that that could be price gouging from my apartment complex however just because there was such a drastic rate increase and that's something that we like directly feel in our pockets what range of increase should we as citizens anticipate for these projects and when do you predict We may see those increases hit our bills Yeah, I'm like right next to the State Police Okay, thank you"
+    },
+    {
+      "block_id": 172,
+      "speaker": "SPEAKER_09",
+      "start": 8017.32,
+      "end": 8027.58,
+      "speaker_name": "unknown",
+      "reason": "The speaker is commenting on the potential size and activities of a park.",
+      "text": "a huge park it's certainly nothing like reservoir or we muster or Buchanan but we are able to pack a lot of in very interesting activities in even that"
+    },
+    {
+      "block_id": 184,
+      "speaker": "SPEAKER_00",
+      "start": 8558.8,
+      "end": 8639.85,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a concern regarding the timing and necessity of planning for Reservoir Park given future changes to the county prison.",
+      "text": "about the needs changing and I'm wondering if we're not jumping the gun on Reservoir Park as far as we're planning because as you know the county prison is going to become a different place at a different site so what will the need be for Reservoir Park and when that happens and are we willing to go back and reinvest more money and to come up with a plan now for 1.49 million dollars which is just a plan knowing that there's going to be other changes one of the things I want to encourage council is there is no such plan for a park in the southeast area and I think if we're going to talk about putting a park we have this location behind jackson middle school where the community has engaged and has spoken loud and clear that's what we would like to see there our park and we're just looking for council to come up with a plan to say well let's see what we can do here i mean we keep here and we're spending millions and millions of dollars in the parks we do have some top lots in the southeast area but we do not have a park in the southeast area so i just say don't jump the gun for reservoir park in your planning on what it's going to be like because as the county prison comes on that whole block that need may change and we don't want to invest in something and then we're turning around and borrowing more money or seeking other grant money to change it thank you thank you"
+    },
+    {
+      "block_id": 189,
+      "speaker": "SPEAKER_07",
+      "start": 8996.68,
+      "end": 9144.6,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses concerns and desires for community involvement regarding plans in Reservoir Park.",
+      "text": "Resolution 31? I just want to say one thing. Sorry. Just real quickly, just as far as plans in the reservoir park and, you know, getting the folks involved and the residents, I've been living there for 30, well, 20 something years. I've bought my house in 99. So I want to certain that we are very the community in Reservoir Park area we're very informed we have a neighbors engagement you know it's a it's it's it's all we're very active together so we know what we want we've been stressing our opinions for quite some time so it's not like you know we don't know what we want and it's been shared with the mayor to like primarily the park itself because they opened it up to um i don't want to say how do you without offending anyone offenders child offenders live there in the houses that is close by reservoir park and they come into the park and they do things and they leave things that we continuously have to clean up and they write all over that it's it's old the the play yard is old it needs to be reconstructed so that was our major concern for the last eight years they put in a pool they put in the wheels the bike wheels I mean there's a lot of improvements in the park but as far as maintaining that park you know fixing the grass adding you know the beauty in the the park it's not being done we as a community we have to do it ourselves even if it's cleaning up stuff on the floor so yeah we were just more concerned about picking up a needle when our kids are going down a slide and making sure that it's cleaned and and maybe taping up cracks within the actual set the plate the plate unit set and yeah so it's safe for the kids to go down so it's it's old it needs replaced thank"
+    },
+    {
+      "block_id": 193,
+      "speaker": "SPEAKER_16",
+      "start": 9224.53,
+      "end": 9239.26,
+      "speaker_name": "unknown",
+      "reason": "The speaker is introducing an item on the agenda related to property sale authorization.",
+      "text": "Thank you, Council President. Community planning has one item on the agenda this evening. It's administration bill number 3-2025 authorizing the sale of real property. And that's me,"
+    },
+    {
+      "block_id": 195,
+      "speaker": "SPEAKER_16",
+      "start": 9316.69,
+      "end": 9340.65,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing a previous process related to a resolution.",
+      "text": "to know what was the the process before was that we would do a resolution and and said and then once we went and got into the beginning of january that allowed us the abilities to change the the"
+    },
+    {
+      "block_id": 212,
+      "speaker": "SPEAKER_03",
+      "start": 9624.89,
+      "end": 9667.55,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions about the process for selecting a realtor regarding a property sale.",
+      "text": "Thank you, Councilor Craig. I know this is the first reading, and this is just a committee, but I do have some questions around what the process would look like, the selection of the realtor. Also, I understand it would expand the possible market for a property to be sold, but I do think that there might be, I mean, real estate is a very competitive market, um and i just have some questions around how you decide which realtor you know that wouldn't you know and i know this i mean maybe these are some questions we can talk about at the next meeting as"
+    },
+    {
+      "block_id": 218,
+      "speaker": "SPEAKER_00",
+      "start": 9839.89,
+      "end": 10016.35,
+      "speaker_name": "Darlene Bird",
+      "reason": "The speaker expresses a concern regarding the council's actions and the authority involved in a decision.",
+      "text": "Yes, Darlene Bird. I think council needs to be very cautious in what they're doing. I think this goes under an administration code. I think to once you put that in place as one of the things you would be deciding is who has the authority to make those decisions. So if it becomes the administration, then council, it's not in your hand. I think that number one, we would need to looked at a list of properties that the city has. Number two, we have a record of changing things for one thing. I understand it's Station 6 that we are trying to get rid of. And we in the city have a very good habit of changing how we do business for one thing, and it doesn't work out always. For instance, zoning, especially when came to the um air and b or you know short rooming houses changed in one meeting and we changed it again because it didn't work i think council needs to be very cautious i do understand about the station six i think there's there are other means out there i do think that we all know that once the city would sell our property and it goes before zoning the zoning is picked by council and the mayor so why wouldn't you you know they always have that option of appealing or look seeking a variance to have it changed to do what they want i mean if we're not putting stipulations in the deed on what that property can become i think we do lose what you were asking about councilman ahmed i would also like to see a list of properties that the city owns and maybe any that they are considering selling i mean maybe at this time it's only that one But we all know once we give up that power from council to the administration, you don't come back to it. And I think this was set aside in the home rule under the administration code that you can put back. I don't think it was set from home rule to say this is something that we want. I think one of the things that you need to understand about home rule is that the administration has to come up with an administration code on how we function and a lot of things that we asked about in the home rule was going to be addressed through the administration code which council has to adopt i don't think we got there yet so to put stuff in now when that has not been adopted is jumping the gun i mean slow down take some time it's not something that needs to happen now at this moment thank you i'll just add it's a"
+    },
+    {
+      "block_id": 222,
+      "speaker": "SPEAKER_01",
+      "start": 10160.0,
+      "end": 10299.23,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concern about a process related to public goods and bidding.",
+      "text": "Holland Avenue. So this is concerning to me because the way I see this is as creating a method of private sale for public goods. There is a reason I think the bidding process is in place and there is, as far as I understand, there's nothing prohibiting us from being more open about our advertising. We're just required to advertise in the newspaper general circulation this should not be the way we handle this because when you use a realtor I mean I recognize the argument like it's valid you do open up the potential for a transaction to occur but you also channelize those communications you don't ensure that this is an open transparent public process for the whole public and I understand that it is arduous to try and sell a property I frankly do not think we should sell station six I think there are other solutions to do with station six but I'm generally frustrated in right now us putting forward amendments like this or this is an administration bill but this a recent zoning amendment that was not presented at the last meeting because there's some pause elsewhere but just expressing a frustration I have when we the city Planning Commission weren't made aware of the disapproval or at least I wasn't I I've listened to the meeting twice and it wasn't discussed that that zoning amendment had been disapproved and I feel like what we're working through right now is a bunch of ad hoc things and we need to focus on these bulk products like the entire zoning code and the entire administration code I think we're moving too fast I think that there are valid questions if you had about this process because it could be exclusionary to the public and create solutions that the whole public does not feel confidence in because a realtor could reach out to somebody and sell somebody on a dream that the public doesn't want doesn't the use might be allowed but it doesn't mean that it's something that the public's looking forward to so I do think the bidding process is the one we should stick with at this current moment in time I as a resident am open here hearing about other alternatives potentially like this in the future but I think this this is a this is a big shift from the way government's supposed to operate this is this is trying to operate government"
+    },
+    {
+      "block_id": 226,
+      "speaker": "SPEAKER_01",
+      "start": 10366.34,
+      "end": 10378.57,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a need for a larger community conversation regarding public processes.",
+      "text": "change the process just yet and pausing this three months we we need to have bigger community community conversation about the idea of changing these public processes thank you that's what we're"
+    },
+    {
+      "block_id": 230,
+      "speaker": "SPEAKER_13",
+      "start": 10520.29,
+      "end": 10557.19,
+      "speaker_name": "Diane Desmond",
+      "reason": "The speaker identifies as a resident and urges the council to prioritize current residents over profit in a proposal.",
+      "text": "again I live off 30 Diane Desmond yes Diane Desmond hi so I just wanted to further urge council to consider when you're looking at this proposal to consider a checks and balances system to ensure that current residents are prioritized over profit I know that it looks like a very lucrative opportunity but there could be some very real consequences for the current residents the city um and i also would urge you to consider how this could potentially exclude voices of the"
+    },
+    {
+      "block_id": 233,
+      "speaker": "SPEAKER_07",
+      "start": 10695.66,
+      "end": 10714.3,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding a proposed flag-raising date.",
+      "text": "Just one quick question. November 18th through the 19th, is that like a marked date representing anything in the history of Puerto Rico that we can raise it on that date, or can you accept a more historical date?"
+    },
+    {
+      "block_id": 234,
+      "speaker": "SPEAKER_13",
+      "start": 10714.3,
+      "end": 10719.14,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question to a councilor regarding a date selection.",
+      "text": "Councilor Arroyo, this date was chosen for a particular reason?"
+    }
+  ]
+}

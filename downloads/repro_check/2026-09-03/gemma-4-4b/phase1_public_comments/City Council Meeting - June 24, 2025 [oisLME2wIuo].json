@@ -1,0 +1,180 @@
+{
+  "title": "City Council Meeting - June 24, 2025",
+  "video_id": "oisLME2wIuo",
+  "upload_date": "20250625",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-03T21:08:28+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 6,
+      "speaker": "SPEAKER_09",
+      "start": 365.01,
+      "end": 499.92,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a concern about accessibility and advocates for online public comment.",
+      "text": "holland avenue i've come to say i don't feel this council cares about accessibility it cares about complacency and having an easy night it does not reduce the barrier to civic engagement here it maintains its hurdles heat waves like this week make it plain we need two-way online public comment at council meetings we had this technology during the pandemic we still have this technology what we don't have is the will no council member has yet the courage to advocate for it but maybe i can change someone's mind anyway back in december someone working very closely if not managing a campaign sent me a message that said you make yourself look like a fool by taking up literally everyone's time consider the fact this isn't the tony show and maybe you'd accomplish more by not being the center of attention that wasn't just rude it was meant to demotivate and silence me and frankly it reminded me of every time i've seen bullies try to keep people out of public spaces the same person later dismissed other residents concerns about policing with cyber marks here in council if that's who's advising your campaign then i have to ask is that the the kind of leadership you want to stand on the kind that ridicules public participation and defends the status quo I will not quietly email you all and beg for change this isn't a radical request it's common sense it's democratic it's accessible ironically the police often say in public engagement should be a two-way street isn't that funny City Council can't even model that transportation metaphor you wide in the road but not for safety not for equity you give the illusion of big action while steering back towards the status quo during the pandemic lancaster took a step forward you had to but as soon as the emergency ended you stepped back that is not leadership that is cowardice i appreciate your time to hear me but i don't owe you thanks for ignoring the second shift worker the single parent with two jobs the deaf who could use a chat box or even the elderly person who might be statistically more likely to die of heat stroke trying to get here walking here even if you want to be brave and become an example of change as opposed to an easy choice and bare minimums you know how to reach me thank you"
+    },
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_12",
+      "start": 516.16,
+      "end": 548.26,
+      "speaker_name": "Molly Degger",
+      "reason": "The speaker identifies herself as a resident and addresses the council.",
+      "text": "good evening good evening council my name is Molly Degger I'm one of the"
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_10",
+      "start": 736.94,
+      "end": 764.08,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a concern about plastic pollution affecting marine life.",
+      "text": "Well, I have always been an advocate of plastic. I'm a scuba diver. So going scuba diving, the last thing I wanna see is our life animals that I would consider sea mammals, especially having that ingested in their bellies. So thank you so much for advocating. continue advocating get your friends together so we can stop making plastic because it's really"
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_07",
+      "start": 772.51,
+      "end": 781.39,
+      "speaker_name": "unknown",
+      "reason": "The speaker is echoing and supporting previous statements made during the public comment period.",
+      "text": "wanted to echo everybody's uh statements excellent work miss keeler and i look forward to i was coming in here at the last minute but i look forward to looking at all the statistics you've"
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_05",
+      "start": 2407.74,
+      "end": 2418.94,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking clarifying questions regarding sewer partners during a presentation.",
+      "text": "for the presentation uh very very helpful um just two questions that i have on my end can you clarify sewer partners is that other municipalities that are considered sewer customers"
+    },
+    {
+      "block_id": 32,
+      "speaker": "SPEAKER_03",
+      "start": 2540.23,
+      "end": 2556.64,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and expressing a concern or question regarding future debt planning.",
+      "text": "counselor craig thank you council um i think i already know the answer to this but the future debt planning of 159.2 million although that's in the future there is a possibility that we could"
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_03",
+      "start": 2562.29,
+      "end": 2575.86,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing a council member with a question regarding a topic.",
+      "text": "to make sure i understood it correct counselor diaz um mr campbell looking at the um the season"
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_10",
+      "start": 2663.1,
+      "end": 2683.22,
+      "speaker_name": "unknown",
+      "reason": "The speaker is inquiring about the status of federal grants.",
+      "text": "in regards to um the grants have you have we received any additional objections or denials from the federal government at all because i know that there's a a lot of things that have been cut but i wasn't sure if we might have received anything additional"
+    },
+    {
+      "block_id": 40,
+      "speaker": "SPEAKER_04",
+      "start": 2700.26,
+      "end": 2725.01,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the feasibility of a city bond.",
+      "text": "comments from council councillor ahmed uh thank you council royal and thank you to both director campbell's i really appreciate the forward thinking of this capital plan um my question is regarding the 2028 bond if we are unable to secure the other 29 million what would be the feasibility of obtaining the whole 51 million through that bond yeah i mean that would"
+    },
+    {
+      "block_id": 42,
+      "speaker": "SPEAKER_04",
+      "start": 2736.93,
+      "end": 2761.47,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions regarding projected funds for preventative maintenance and green infrastructure.",
+      "text": "year um and in 2027 as well thank you and my my second question was regarding the other financing given some of the preventative maintenance that we'll do and you know investments in green infrastructure could we see the total projected funds needed could this be reduced in any way"
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_01",
+      "start": 3110.03,
+      "end": 3196.18,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing project prioritization and debt targets, indicating a community concern or input.",
+      "text": "can i just add briefly um two things one is this um tool that um steve mentioned earlier that we have now is is wonderful we've been very excited about it um but it's also helping us to prioritize projects so um i talked about this in the fall and we can talk more about it in july but we also focus on you know debt targets for debt repayment in our operating costs as well as targets for percentages of average household income for for fees that we're charging so we're looking at those as we were setting this up we needed to prioritize some things kind of out of the plan so that we could try to stay within some of those those limits and we'll continue to to do that the other thing i just wanted to mention is we have two pretty large projects that aren't connected with unfunded mandates but are really once-in-a-lifetime projects the water main the water transmission water main transmission it's a you know it's its life cycle is or its useful life is about 70 years but we have to to replace it now because it was it's more than 70 years old and and the anaerobic digester which that which Steve mentioned already is another one of those kind of once-in-a-lifetime things and unfortunately they're"
+    },
+    {
+      "block_id": 49,
+      "speaker": "SPEAKER_03",
+      "start": 3229.56,
+      "end": 3250.12,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions and expressing concern regarding the water main's lifespan.",
+      "text": "counselor craig thank you the water main you said it's it's seven the lifespan is seven years 70 70 years so how far over 70 are we i'm not wanting to scare anybody but we're we're a good"
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_03",
+      "start": 3265.08,
+      "end": 3284.68,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern and asking a question regarding the urgency of addressing issues.",
+      "text": "And I ask that question because, you know, we need to know the gravity of what we're facing and how important it is to get these things addressed as fast as humanly possible, you know? So thank you."
+    },
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_00",
+      "start": 3395.96,
+      "end": 3456.18,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing a specific property subdivision and its impact on sewer capacity.",
+      "text": "senior planner uh city um this plan uh this sewer amendment is for 523 woodward street um this property is being subdivided um and so it's going from one parcel to three parcels and what the land developer is doing is adding on so it's a it's a group of row homes and the developer is adding on to the end and so redeveloping the end unit and then adding on two additional units and so the sewer capacity will go from having to serve one unit to having to serve three units i think that the the most interesting part of this land development just for your own knowledge is that it's a former rackel property and so it's nice to see that it's moving forward through land development and it's about to go to the planning commission probably pretty soon thank you for the"
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_09",
+      "start": 3495.96,
+      "end": 3639.38,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering an opinion and concern regarding local nightlife and traffic.",
+      "text": "Yeah, these are more free-spoken comments. This weekend, I was driving for Uber. I understand this is more of a traffic commission thing, but I just want to say it publicly that we really should figure something out here. One of the weirdest nights I've had driving, some positive interaction, some negative. The positive interaction was somebody came down from Hershey because they heard about our nightlife and they loved it. uh so it's always good to have someone come down from another place and be like yeah it's cool here i love it great nightlife but the trade-off to that nightlife in my experience uber driving is parking and uh there's two locations i think we really need to grapple with a parking situation one being telus 360 on the weekends i think having those uh parking spaces in front of the bars free would be amazingly helpful to traffic flow and congestion at night, maybe reduce some conflicts, protect some pedestrians, and the other one, which is more close to home here, right outside of City Hall, it's really frustrating to me to see people park their cars not too far from parking garages with the intention to get drunk in the city of Lancaster and then pull off and drive away, especially in a no parking zone outside i think it's something we need to handle more seriously as a public as a government because at the end of the day i mean let's take all the drunk driving stuff aside we have parking garages for a reason we invest in this infrastructure for a reason and i do not like seeing people just look for free parking especially when they're going out to get have a a good time so yeah I would appreciate more attention to that maybe some things put together because it does need to change in ordinance like I said I understand this is a traffic Commission thing but I'm not gonna come on 3 30 on that day I am typically working so I'm sharing those concerns here and I hope you guys move on plastic bags sooner rather than later that's all I have"
+    }
+  ]
+}

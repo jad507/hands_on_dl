@@ -1,0 +1,52 @@
+﻿[2026-09-04 01:24:09] Pre-flight checks
+  OK   model file (9.03 GB)
+  OK   phase 1 prompt (p1_system.txt, sha 40abc756d122)
+  OK   12 meeting files
+  OK   GPU: NVIDIA RTX A2000 12GB, 11739 MiB, 12282 MiB
+[2026-09-04 01:24:11] Loading model: D:\LLM\Ministral\Ministral-3-8B-Instruct-2512-Q8_0.gguf
+llama_context: setting new yarn_attn_factor = 1.0000 (mscale == 1.0, mscale_all_dim = 1.0)
+llama_context: n_ctx_seq (16384) < n_ctx_train (262144) -- the full capacity of the model will not be utilized
+  Loaded in 9s
+
+[2026-09-04 01:24:21] Phase 1 starting: 12 meeting files
+
+[2026-09-04 01:24:21] City Council Committee Meeting - February 3, 2025
+  18 public comments from 80 blocks  [Elapsed: 1m 13s]
+
+[2026-09-04 01:25:35] City Council Committee Meeting - March 3, 2025
+  16 public comments from 109 blocks  [Elapsed: 1m 15s]
+
+[2026-09-04 01:26:50] City Council Committee Meeting - September 2, 2025
+  17 public comments from 94 blocks  [Elapsed: 1m 17s]
+
+[2026-09-04 01:28:08] City Council Meeting - April 29, 2025
+  35 public comments from 96 blocks  [Elapsed: 2m 14s]
+
+[2026-09-04 01:30:22] City Council Meeting - August 12, 2025
+  35 public comments from 114 blocks  [Elapsed: 2m 13s]
+
+[2026-09-04 01:32:36] City Council Meeting - August 26, 2025
+  25 public comments from 79 blocks  [Elapsed: 1m 38s]
+
+[2026-09-04 01:34:14] City Council Meeting - February 11, 2025
+  9 public comments from 86 blocks  [Elapsed: 44s]
+
+[2026-09-04 01:34:59] City Council Meeting - July 22, 2025
+  35 public comments from 126 blocks  [Elapsed: 2m 20s]
+
+[2026-09-04 01:37:19] City Council Meeting - June 10, 2025
+  20 public comments from 129 blocks  [Elapsed: 1m 37s]
+
+[2026-09-04 01:38:56] City Council Meeting - May 27, 2025
+  21 public comments from 95 blocks  [Elapsed: 1m 32s]
+
+[2026-09-04 01:40:29] City Council Meeting - September 9, 2025
+  17 public comments from 117 blocks  [Elapsed: 1m 17s]
+
+[2026-09-04 01:41:46] Planning Commission Meeting - September 3, 2025
+  15 public comments from 106 blocks  [Elapsed: 1m 9s]
+
+Summary: 12 processed, 0 skipped, 0 errors
+Total time: 18m 34s
+
+Done.
