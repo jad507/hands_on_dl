@@ -52,19 +52,29 @@ def _pkg_version(name: str) -> str | None:
         return None
 
 
-def _gpu_name() -> str | None:
+def _gpu_info() -> dict:
     """Ask nvidia-smi rather than torch: this pipeline runs under llama_cpp and
-    importing torch just to read a device name costs seconds and VRAM."""
+    importing torch just to read a device name costs seconds and VRAM.
+
+    VRAM travels with the name because the name alone does not disambiguate --
+    this project compares a work desktop's RTX A2000 12GB against a home
+    machine's RTX 5070 Ti 16GB, and n_gpu_layers/offload behaviour depends on
+    which one a given output was produced on.
+    """
+    info: dict = {"name": None, "vram": None, "driver_version": None}
     try:
         r = subprocess.run(
-            ["nvidia-smi", "--query-gpu=name", "--format=csv,noheader"],
+            ["nvidia-smi", "--query-gpu=name,memory.total,driver_version",
+             "--format=csv,noheader"],
             capture_output=True, text=True, timeout=5,
         )
-        if r.returncode == 0:
-            return r.stdout.strip().splitlines()[0].strip()
+        if r.returncode == 0 and r.stdout.strip():
+            parts = [p.strip() for p in r.stdout.strip().splitlines()[0].split(",")]
+            if len(parts) == 3:
+                info["name"], info["vram"], info["driver_version"] = parts
     except Exception:
         pass
-    return None
+    return info
 
 
 def _model_fingerprint(model_path: Path, hash_weights: bool) -> dict:
@@ -150,7 +160,22 @@ def build_provenance(
             "hostname": socket.gethostname(),
             "platform": platform.platform(),
             "python": platform.python_version(),
+            "cpu_count": os.cpu_count(),
             "llama_cpp_python": _pkg_version("llama_cpp_python"),
-            "gpu": _gpu_name(),
+            "gpu": _gpu_info(),
         },
     }
+
+
+def hardware_summary() -> str:
+    """One-line hardware identity for a console header.
+
+    Deliberately does not import pipeline_utils.hardware_summary(), which
+    imports torch: under llama_cpp that costs seconds and VRAM for no reason,
+    the same tradeoff _gpu_info() above already documents.
+    """
+    gpu = _gpu_info()
+    gpu_str = gpu["name"] or "no GPU detected"
+    if gpu["vram"]:
+        gpu_str += f" ({gpu['vram']})"
+    return f"{socket.gethostname()} | {gpu_str} | llama-cpp-python {_pkg_version('llama_cpp_python')}"

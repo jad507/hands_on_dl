@@ -39,7 +39,7 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(REPO_ROOT))
-from pipeline_utils import fmt_elapsed, now_str  # noqa: E402
+from pipeline_utils import fmt_elapsed, hardware_summary, now_str  # noqa: E402
 import whisper_io  # noqa: E402
 AUDIO_DIR = REPO_ROOT / "downloads" / "audio"
 WHISPER_DIR = REPO_ROOT / "downloads" / "whisper_large-v3"
@@ -211,6 +211,8 @@ def main():
         help="Overwrite existing output files instead of skipping",
     )
     args = parser.parse_args()
+
+    print(f"Hardware: {hardware_summary()}")
 
     stems = stems_from_input(args.input)
     if not stems:

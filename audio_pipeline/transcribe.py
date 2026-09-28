@@ -33,7 +33,7 @@ load_dotenv()
 
 REPO_ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(REPO_ROOT))
-from pipeline_utils import fmt_elapsed, now_str  # noqa: E402
+from pipeline_utils import fmt_elapsed, hardware_summary, now_str  # noqa: E402
 import whisper_io  # noqa: E402
 AUDIO_DIR = REPO_ROOT / "downloads" / "audio"
 MODEL_NAME = "large-v3"
@@ -111,6 +111,8 @@ def transcribe_file(model, audio_path: Path, out_dir: Path,
             "text": seg.text.strip(),
         })
 
+    elapsed = time.perf_counter() - t0
+
     # Provenance travels with the transcript, not beside it. See whisper_io.
     prov = whisper_io.build_provenance(
         model_name=MODEL_NAME,
@@ -122,11 +124,11 @@ def transcribe_file(model, audio_path: Path, out_dir: Path,
             "language": info.language,
             "language_probability": round(info.language_probability, 4),
         },
+        elapsed_s=elapsed,
     )
     whisper_io.write_transcript(out_path, result, prov)
     SENTINEL_FILE.unlink(missing_ok=True)
 
-    elapsed = time.perf_counter() - t0
     duration_min = info.duration / 60
     print(f"  Done: {len(result)} segments, audio {duration_min:.1f} min, elapsed {fmt_elapsed(elapsed)}")
     print(f"  Written: {out_path.name}")
@@ -154,6 +156,8 @@ def main():
         help="Reload model every N transcribed files to flush CUDA fragmentation (0 = never; default: 1)",
     )
     args = parser.parse_args()
+
+    print(f"Hardware: {hardware_summary()}")
 
     if args.input:
         input_path = Path(args.input)

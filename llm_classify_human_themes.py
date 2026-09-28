@@ -413,12 +413,14 @@ def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str,
                 "text":         b["text"],
             })
 
+        item_elapsed_s = round(time.perf_counter() - t0, 2)
         result = {
             "title":           data.get("title"),
             "video_id":        data.get("video_id"),
             "upload_date":     data.get("upload_date"),
             "model":           model_name,
             "n_chunk_errors":  n_chunk_errors,
+            "elapsed_s":       item_elapsed_s,
             "provenance":      prov,
             "public_comments": public_comments,
         }
@@ -427,7 +429,7 @@ def run_phase1(llm: Llama, model_cfg: dict, model_name: str, out_dir: str,
 
         error_note = f"  {n_chunk_errors} chunk errors" if n_chunk_errors else ""
         print(f"  {len(public_comments)} public comments from {len(all_blocks)} blocks"
-              f"{error_note}  [Elapsed: {fmt_elapsed(time.perf_counter() - t0)}]")
+              f"{error_note}  [Elapsed: {fmt_elapsed(item_elapsed_s)}]")
         n_done += 1
 
     print(f"\nSummary: {n_done} processed, {n_skipped} skipped, {n_errors} errors")
@@ -566,12 +568,14 @@ def run_phase2(llm: Llama, model_cfg: dict, model_name: str,
         n_scored = sum(1 for e in theme_scores if e["themes"] is not None)
         n_failed = len(theme_scores) - n_scored
 
+        item_elapsed_s = round(time.perf_counter() - t0, 2)
         result = {
             "title":              data.get("title"),
             "video_id":           data.get("video_id"),
             "upload_date":        data.get("upload_date"),
             "model":              model_name,
             "n_failed_comments":  n_failed,
+            "elapsed_s":          item_elapsed_s,
             "provenance":         prov,
             "theme_scores":       theme_scores,
         }
@@ -580,7 +584,7 @@ def run_phase2(llm: Llama, model_cfg: dict, model_name: str,
 
         fail_note = f"  {n_failed} failed" if n_failed else ""
         print(f"  {n_scored}/{len(comments)} comments scored"
-              f"{fail_note}  [Elapsed: {fmt_elapsed(time.perf_counter() - t0)}]")
+              f"{fail_note}  [Elapsed: {fmt_elapsed(item_elapsed_s)}]")
         n_done += 1
 
     print(f"\nSummary: {n_done} processed, {n_skipped} skipped, {n_errors} errors")
@@ -766,6 +770,7 @@ def main() -> None:
 
     from llama_cpp import Llama          # deferred: initialising CUDA is slow
 
+    print(f"Hardware: {provenance.hardware_summary()}")
     print(f"[{now_str()}] Loading model: {model_path}")
     t0  = time.perf_counter()
     llm = Llama(

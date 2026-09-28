@@ -136,7 +136,8 @@ def _cuda_info() -> dict:
 
 def build_provenance(*, model_name: str, compute_type: str,
                      decode_params: dict, audio_path: str | Path,
-                     audio_info: dict | None = None) -> dict:
+                     audio_info: dict | None = None,
+                     elapsed_s: float | None = None) -> dict:
     """The provenance block written into every new transcript.
 
     The tuple named in `windows_environment_upgrade.md` section 6.1 --
@@ -144,6 +145,11 @@ def build_provenance(*, model_name: str, compute_type: str,
     compute_type, beam_size, best_of -- plus the audio file's size and mtime,
     which is what catches the ordinary mistake of re-transcribing a file that
     was itself re-downloaded.
+
+    `elapsed_s`, if passed, travels with the same runtime block as the GPU that
+    produced it -- a transcription time is not comparable across machines
+    without knowing which GPU logged it, so the two belong together rather than
+    one living in a console log and the other in the file.
     """
     p = Path(audio_path)
     audio: dict = {"name": p.name}
@@ -177,6 +183,7 @@ def build_provenance(*, model_name: str, compute_type: str,
             **_cuda_info(),
             "gpu": _gpu_info(),
         },
+        "timing": {"elapsed_s": round(elapsed_s, 2) if elapsed_s is not None else None},
     }
 
 
@@ -201,7 +208,9 @@ def describe(path: str | Path) -> str:
         return f"{Path(path).name}: {n} segments, LEGACY (no provenance)"
     asr = prov.get("asr", {})
     rt = prov.get("runtime", {})
+    elapsed_s = prov.get("timing", {}).get("elapsed_s")
+    elapsed_str = f"{elapsed_s}s" if elapsed_s is not None else "n/a"
     return (f"{Path(path).name}: {n} segments, {asr.get('model')} "
             f"{asr.get('compute_type')} beam={asr.get('beam_size')} "
             f"on {rt.get('hostname')} / {(rt.get('gpu') or {}).get('name')} "
-            f"ct2={rt.get('ctranslate2')}")
+            f"ct2={rt.get('ctranslate2')} elapsed={elapsed_str}")

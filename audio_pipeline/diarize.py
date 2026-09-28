@@ -38,7 +38,7 @@ load_dotenv()
 
 REPO_ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(REPO_ROOT))
-from pipeline_utils import fmt_elapsed, now_str  # noqa: E402
+from pipeline_utils import fmt_elapsed, hardware_info, hardware_summary, now_str  # noqa: E402
 AUDIO_DIR = REPO_ROOT / "downloads" / "audio"
 OUT_STANDARD = REPO_ROOT / "downloads" / "pyannote_community-1_standard"
 OUT_EXCLUSIVE = REPO_ROOT / "downloads" / "pyannote_community-1_exclusive"
@@ -134,12 +134,14 @@ def process_file(pipeline, audio_path: Path, mode: str) -> bool:
         return True  # attempted work
 
     print(f"  Running diarization pipeline...")
+    t0 = time.perf_counter()
     try:
         result = pipeline(audio)
     except Exception:
         print(f"  ERROR during diarization:")
         traceback.print_exc()
         return True  # attempted work
+    pipeline_elapsed_s = round(time.perf_counter() - t0, 2)
 
     std_annotation = result.speaker_diarization
     excl_annotation = result.exclusive_speaker_diarization
@@ -149,6 +151,10 @@ def process_file(pipeline, audio_path: Path, mode: str) -> bool:
             OUT_STANDARD.mkdir(parents=True, exist_ok=True)
             write_rttm(std_annotation, audio_path, std_rttm)
             stats = compute_stats(std_annotation, "standard")
+            # elapsed_s times the shared pipeline() call, not this file's write; a
+            # timing number is meaningless without the machine that produced it.
+            stats["elapsed_s"] = pipeline_elapsed_s
+            stats["runtime"] = hardware_info()
             std_stats.write_text(json.dumps(stats, indent=2))
             print(f"  [standard] {stats['speaker_count']} speakers, "
                   f"{stats['total_speech_duration_s']:.1f}s speech, "
@@ -162,6 +168,8 @@ def process_file(pipeline, audio_path: Path, mode: str) -> bool:
             OUT_EXCLUSIVE.mkdir(parents=True, exist_ok=True)
             write_rttm(excl_annotation, audio_path, excl_rttm)
             stats = compute_stats(excl_annotation, "exclusive")
+            stats["elapsed_s"] = pipeline_elapsed_s
+            stats["runtime"] = hardware_info()
             excl_stats.write_text(json.dumps(stats, indent=2))
             print(f"  [exclusive] {stats['speaker_count']} speakers, "
                   f"{stats['total_speech_duration_s']:.1f}s speech "
@@ -187,6 +195,8 @@ def main():
         help="Diarization mode (default: both)",
     )
     args = parser.parse_args()
+
+    print(f"Hardware: {hardware_summary()}")
 
     if args.input:
         input_path = Path(args.input)
