@@ -1,0 +1,101 @@
+{
+ "model": "nemotron-3-nano-omni-q4km",
+ "backend": "server",
+ "thinking": false,
+ "dataset": "stresspresso",
+ "paper_cascade_ssr": {
+  "whistress_to_gpt4o": 0.797,
+  "gold_to_gpt4o": 0.836
+ },
+ "results": {
+  "plain": {
+   "n": 202,
+   "accuracy": 0.495,
+   "wald95": [
+    0.426,
+    0.564
+   ],
+   "parse_methods": {
+    "rule_single_digit": 184,
+    "rule_answer_text": 10,
+    "gemma_judge": 6,
+    "rule_leading_digit": 2
+   }
+  },
+  "whistress": {
+   "n": 202,
+   "accuracy": 0.683,
+   "wald95": [
+    0.619,
+    0.747
+   ],
+   "parse_methods": {
+    "rule_single_digit": 183,
+    "rule_answer_text": 9,
+    "rule_bold_option": 2,
+    "gemma_judge": 6,
+    "rule_leading_digit": 2
+   }
+  },
+  "gold": {
+   "n": 202,
+   "accuracy": 0.698,
+   "wald95": [
+    0.635,
+    0.761
+   ],
+   "parse_methods": {
+    "rule_single_digit": 184,
+    "rule_answer_text": 9,
+    "gemma_judge": 5,
+    "rule_leading_digit": 3,
+    "rule_bold_option": 1
+   }
+  },
+  "whistress_top1": {
+   "n": 202,
+   "accuracy": 0.698,
+   "wald95": [
+    0.635,
+    0.761
+   ],
+   "parse_methods": {
+    "rule_single_digit": 184,
+    "rule_answer_text": 8,
+    "rule_bold_option": 2,
+    "gemma_judge": 5,
+    "rule_leading_digit": 3
+   }
+  },
+  "wavelet": {
+   "n": 202,
+   "accuracy": 0.619,
+   "wald95": [
+    0.552,
+    0.686
+   ],
+   "parse_methods": {
+    "rule_single_digit": 181,
+    "rule_answer_text": 13,
+    "gemma_judge": 4,
+    "rule_leading_digit": 3,
+    "rule_bold_option": 1
+   }
+  },
+  "praat": {
+   "n": 202,
+   "accuracy": 0.584,
+   "wald95": [
+    0.516,
+    0.652
+   ],
+   "parse_methods": {
+    "rule_single_digit": 181,
+    "rule_answer_text": 13,
+    "gemma_judge": 4,
+    "rule_leading_digit": 3,
+    "rule_bold_option": 1
+   }
+  }
+ }
+}

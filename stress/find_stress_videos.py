@@ -71,6 +71,8 @@ from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 
+from verify_stress import hardware_info
+
 HERE = Path(__file__).resolve().parent
 
 # ---------------------------------------------------------------- search space
@@ -434,10 +436,18 @@ def main() -> None:
         json.dumps(list(pool.values()), indent=1), encoding="utf-8")
 
     elapsed = datetime.now(timezone.utc) - started
+    hw = hardware_info()
+    (out / "run_manifest.json").write_text(json.dumps({
+        **hw,
+        "script": "find_stress_videos.py",
+        "run_elapsed_s": round(elapsed.total_seconds(), 1),
+        "n_hits": len(results),
+    }, indent=1), encoding="utf-8")
     ledger = [
         "# Contrastive-stress video search, structural pass",
         "",
-        f"Run started {started:%Y-%m-%d %H:%M} UTC, took {elapsed}.",
+        f"Run started {started:%Y-%m-%d %H:%M} UTC, took {elapsed}, "
+        f"on {hw.get('host')} ({hw.get('gpu_name', 'no GPU')}).",
         "English only. TikTok not searched and not requested: it is blocked on",
         "this machine by policy.",
         "",

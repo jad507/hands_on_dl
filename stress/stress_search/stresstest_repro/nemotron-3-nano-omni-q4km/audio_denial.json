@@ -1,0 +1,16 @@
+{
+ "pattern": "no (?:actual )?audio|audio (?:file )?(?:is|was|has)? ?(?:not|n't) (?:been )?provided|not (?:been )?provided (?:with )?(?:the |any )?audio|cannot hear|can't hear|without (?:the |any |actual )?audio|do(?:n't| not) have (?:access to )?(?:the |any )?audio|unable to (?:hear|listen)",
+ "spot_check": "5 random think-SSD matches, all genuine denials (e.g. 'Since we can't hear, we must rely on likely stress')",
+ "think_ssr": {
+  "n": 218,
+  "denies_audio": 0
+ },
+ "think_ssd": {
+  "n": 218,
+  "denies_audio": 66
+ },
+ "think_open_ssr": {
+  "n": 218,
+  "denies_audio": 2
+ }
+}

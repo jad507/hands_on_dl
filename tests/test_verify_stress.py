@@ -181,6 +181,18 @@ def test_extension_will_not_drop_below_the_repeat_threshold():
     assert got == "i didn't say he stole the money"
 
 
+def test_extension_will_not_shed_most_of_the_repetitions():
+    """The corpus failure (X02JYzY5eO8): the word "this" precedes 3 of 8
+    readings. At min_repeats=3 that used to clear the bar, the phrase grew to
+    "this i didn't say ...", and only those 3 readings were ever cut."""
+    seq = []
+    for i in range(8):
+        seq += (["this"] if i < 3 else [TAILS[i % len(TAILS)]]) + SENT
+    words = [(w, i * 0.2) for i, w in enumerate(seq)]
+    got = V.extend_phrase(words, " ".join(SENT), min_repeats=3)
+    assert got == "i didn't say he stole the money"
+
+
 def test_extension_respects_the_length_cap():
     words = [(w, i * 0.2) for i, w in enumerate(("a b c d " * 40).split())]
     got = V.extend_phrase(words, "a b c d", min_repeats=4, max_words=8)
@@ -213,6 +225,24 @@ def test_walk_is_short_when_the_same_word_is_always_stressed():
 
 def test_walk_of_empty_is_zero():
     assert V.longest_walk([]) == 0
+
+
+# ------------------------------------------------------------- human labels
+
+def test_the_latest_review_decision_wins(tmp_path):
+    """The review log is append-only, so a changed mind is a later row."""
+    log = tmp_path / "video_review.csv"
+    log.write_text("video_id,decision,reason,phrase_wrong,note,ts\n"
+                   "a,exclude,junk,0,,1\n"
+                   "b,keep,,0,,2\n"
+                   "a,keep,,0,,3\n"
+                   "c,keep,,0,,4\n"
+                   "c,exclude,bad_audio,0,,5\n")
+    assert V.excluded_videos(log) == {"c"}
+
+
+def test_no_review_yet_excludes_nothing(tmp_path):
+    assert V.excluded_videos(tmp_path / "missing.csv") == set()
 
 
 # ------------------------------------------------------- prominence scoring
@@ -297,3 +327,12 @@ def test_nan_pitch_does_not_crash_the_z_score():
         "get_value_at_time": staticmethod(lambda t: float("nan"))})()
     prof = V.prominence_profile(snd, occ)
     assert all(np.isfinite(r["prominence"]) for r in prof)
+
+
+def test_a_clip_unmarked_bad_is_usable_again(tmp_path):
+    log = tmp_path / "clip_review.csv"
+    log.write_text("video_id,condition,bad,ts\n"
+                   "a,rep_01,1,1\n"
+                   "a,rep_03,1,2\n"
+                   "a,rep_01,0,3\n")
+    assert V.bad_clips(log) == {("a", "rep_03")}

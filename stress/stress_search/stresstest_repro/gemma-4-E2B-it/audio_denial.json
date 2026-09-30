@@ -1,0 +1,24 @@
+{
+ "pattern": "no (?:actual )?audio|audio (?:file )?(?:is|was|has)? ?(?:not|n't) (?:been )?provided|not (?:been )?provided (?:with )?(?:the |any )?audio|cannot hear|can't hear|without (?:the |any |actual )?audio|do(?:n't| not) have (?:access to )?(?:the |any )?audio|unable to (?:hear|listen)",
+ "spot_check": "same pattern as gemma-4-E4B-it/audio_denial.json",
+ "nothink_ssr": {
+  "n": 218,
+  "denies_audio": 0,
+  "acc_when_denying": null,
+  "acc_otherwise": 0.532
+ },
+ "think_ssr": {
+  "n": 218,
+  "denies_audio": 56,
+  "acc_when_denying": 0.375,
+  "acc_otherwise": 0.5
+ },
+ "think_ssd": {
+  "n": 218,
+  "denies_audio": 15
+ },
+ "think_open_ssr": {
+  "n": 218,
+  "denies_audio": 60
+ }
+}

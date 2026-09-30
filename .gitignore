@@ -35,3 +35,9 @@ dist/
 /downloads/audio
 # Environment snapshots (machine-specific, date-stamped)
 
+# stress/: corpus and StressTest audio stay local (other people's recordings)
+stress/stress_search/**/*.wav
+stress/stress_search/**/*.mp4
+stress/stress_search/**/*.mkv
+stress/stress_search/**/*.webm
+stress/stress_search/classical/

@@ -1,0 +1,86 @@
+{
+ "model": "nemotron-3-nano-omni-q4km",
+ "paper": "arXiv 2505.22765",
+ "paper_reference": {
+  "ssr_accuracy": {
+   "StresSLM": 0.862,
+   "Gemini-2.5-Pro": 0.775,
+   "GPT-4o-audio": 0.688,
+   "Qwen2Audio-7B": 0.532,
+   "human": 0.926
+  },
+  "ssd_f1": {
+   "WhiStress": 0.883,
+   "StresSLM": 0.869,
+   "Gemini-2.5-Pro": 0.485,
+   "GPT-4o-audio": 0.461,
+   "Qwen2Audio-7B": 0.331
+  }
+ },
+ "results": {
+  "nothink/ssr": {
+   "n": 218,
+   "mean_elapsed_s": 1.22,
+   "n_hit_token_limit": 0,
+   "parse_methods": {
+    "rule_leading_digit": 218
+   },
+   "accuracy": 0.518,
+   "ci95": [
+    0.452,
+    0.584
+   ]
+  },
+  "nothink/ssd": {
+   "n": 218,
+   "mean_elapsed_s": 1.14,
+   "n_hit_token_limit": 0,
+   "parse_methods": {
+    "rule_brackets": 218
+   },
+   "precision": 0.32,
+   "recall": 0.712,
+   "f1": 0.441,
+   "n_length_mismatch": 0
+  },
+  "nothink/open_ssr": {
+   "n": 218,
+   "mean_elapsed_s": 1.32,
+   "n_hit_token_limit": 0,
+   "note": "outputs saved; paper scores these 1-5 with a GPT-4o judge, not run here"
+  },
+  "think/ssr": {
+   "n": 218,
+   "mean_elapsed_s": 10.27,
+   "n_hit_token_limit": 1,
+   "parse_methods": {
+    "rule_leading_digit": 217,
+    "gemma_judge": 1
+   },
+   "accuracy": 0.56,
+   "ci95": [
+    0.493,
+    0.624
+   ]
+  },
+  "think/ssd": {
+   "n": 218,
+   "mean_elapsed_s": 34.32,
+   "n_hit_token_limit": 8,
+   "parse_methods": {
+    "rule_brackets": 210,
+    "gemma_judge": 8
+   },
+   "precision": 0.229,
+   "recall": 0.646,
+   "f1": 0.338,
+   "n_length_mismatch": 0
+  },
+  "think/open_ssr": {
+   "n": 218,
+   "mean_elapsed_s": 8.29,
+   "n_hit_token_limit": 0,
+   "note": "outputs saved; paper scores these 1-5 with a GPT-4o judge, not run here"
+  }
+ }
+}

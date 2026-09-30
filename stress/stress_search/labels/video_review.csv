@@ -1,0 +1,87 @@
+video_id,decision,reason,phrase_wrong,correct_phrase,note,ts
+-Usf78IP0yA,keep,,0,,,2026-09-29T16:42:00
+01VfrhsYH0A,exclude,other,0,,,2026-09-29T16:42:12
+01VfrhsYH0A,exclude,other,1,,,2026-09-29T16:42:13
+01VfrhsYH0A,exclude,other,1,,Seems to be missing words,2026-09-29T16:42:22
+196G8sHNdo4,exclude,bad_audio,0,,,2026-09-29T16:42:43
+196G8sHNdo4,exclude,bad_audio,0,,clip 1 is incorrectly clipped,2026-09-29T16:43:09
+196G8sHNdo4,exclude,bad_audio,1,,clip 1 is incorrectly clipped,2026-09-29T16:43:09
+1Gu6zhp5Bq8,exclude,not_demo,0,,,2026-09-29T16:43:21
+1QR3zLzrqfI,exclude,junk,0,,,2026-09-29T16:43:32
+1QR3zLzrqfI,exclude,junk,1,,,2026-09-29T16:43:35
+1QR3zLzrqfI,exclude,junk,1,,incomplete clipping of the test phrase.,2026-09-29T16:43:54
+2jCAlyNj0Mk,exclude,not_demo,0,,,2026-09-29T16:44:06
+31kPZRHD6CI,exclude,not_demo,0,,,2026-09-29T16:44:21
+4Iqrm82LED4,keep,,0,,,2026-09-29T16:44:38
+5EmVMEQAb94,exclude,bad_audio,0,,,2026-09-29T16:44:57
+5EmVMEQAb94,exclude,bad_audio,1,,,2026-09-29T16:44:58
+68TlhbC_7ns,keep,,0,,,2026-09-29T16:48:49
+6_DjdejXBwQ,exclude,bad_audio,0,,,2026-09-29T16:49:03
+6_DjdejXBwQ,exclude,bad_audio,0,,"could be usable, but clipping is wrong. seems like an ai voice",2026-09-29T16:49:20
+6fcdSQEon7E,exclude,bad_audio,0,,,2026-09-29T16:49:32
+6fcdSQEon7E,exclude,bad_audio,0,,bad clipping.,2026-09-29T16:49:40
+7206603022649036037,exclude,bad_audio,0,,"bad clipping, could be usable if fixed",2026-09-29T16:50:06
+7285785586974133509,keep,,0,,,2026-09-29T16:50:46
+7285785586974133509,keep,,0,,clipping bad on rep 7,2026-09-29T16:50:58
+7608585563586710804,keep,,1,,,2026-09-29T16:51:09
+7608585563586710804,keep,,1,,,2026-09-29T16:51:12
+7608585563586710804,exclude,explanation_in_phrase,1,,,2026-09-29T16:51:31
+7608585563586710804,exclude,explanation_in_phrase,1,,could be clipped better to work.,2026-09-29T16:51:48
+7650568063812717838,exclude,bad_audio,0,,,2026-09-29T16:52:03
+7650568063812717838,exclude,bad_audio,0,,could be clipped better to work.,2026-09-29T16:52:13
+7655073094578490644,exclude,bad_audio,0,,,2026-09-29T16:52:43
+7655073094578490644,exclude,bad_audio,0,,"reps 1-4 could work, 5 6 broken.",2026-09-29T16:52:59
+7660492521906146580,exclude,bad_audio,0,,,2026-09-29T16:53:17
+7660492521906146580,exclude,bad_audio,0,,clipped all wrong. looking for i told you to buy a bunch of red roses,2026-09-29T16:53:35
+7663192709049617684,exclude,bad_audio,0,,5 and 5 broken.,2026-09-29T16:54:09
+7667553698893024525,keep,,0,,,2026-09-29T16:54:47
+7667605758195797268,keep,,1,,clips 7 and 8 are poorly clipped,2026-09-29T16:55:33
+7673783250568973576,exclude,bad_audio,0,,bad clipping ,2026-09-29T16:55:51
+8dHDFirZVZY,keep,,0,,,2026-09-29T16:56:18
+8dHDFirZVZY,keep,,1,,,2026-09-29T16:56:26
+8dHDFirZVZY,exclude,other,1,,,2026-09-29T16:56:28
+8dHDFirZVZY,exclude,other,1,,"The speaker says the same phrase twice, with repeated emphasis on the same word in each cllip.",2026-09-29T16:56:52
+8ZOIiEAMz9s,exclude,bad_audio,0,,,2026-09-29T16:57:02
+8ZOIiEAMz9s,exclude,bad_audio,1,,,2026-09-29T16:57:20
+8ZOIiEAMz9s,exclude,bad_audio,1,,they're also playing a metronome while speaking.,2026-09-29T16:57:55
+9rbnSTRTF-Y,exclude,explanation_in_phrase,0,,,2026-09-29T16:59:43
+_8UYCo7-fqY,keep,,0,,,2026-09-29T17:00:09
+_IOkGOwZMe0,exclude,not_demo,0,,,2026-09-29T17:00:25
+7206603022649036037,exclude,bad_audio,1,she didn't take your phone,"bad clipping, could be usable if fixed",2026-09-29T23:19:55
+7206603022649036037,keep,,1,she didn't take your phone,"bad clipping, could be usable if fixed",2026-09-29T23:20:29
+7608585563586710804,exclude,explanation_in_phrase,1,i didn't eat your pizza,could be clipped better to work.,2026-09-29T23:20:56
+7608585563586710804,exclude,explanation_in_phrase,1,i didn't eat your pizza,could be clipped better to work.,2026-09-29T23:21:29
+7650568063812717838,keep,,0,,could be clipped better to work.,2026-09-29T23:21:54
+7655073094578490644,keep,,0,,"reps 1-4 could work, 5 6 broken.",2026-09-29T23:22:28
+7655073094578490644,keep,,1,emma wants to travel alone to europe this summer,"reps 1-4 could work, 5 6 broken.",2026-09-29T23:22:45
+7660492521906146580,exclude,bad_audio,1,i told you to buy a bunch of red roses,clipped all wrong. looking for i told you to buy a bunch of red roses,2026-09-29T23:23:30
+7663192709049617684,exclude,bad_audio,1,he didn't say we should fire her,5 and 5 broken.,2026-09-29T23:24:26
+7663192709049617684,exclude,bad_audio,1,he didn't say we should fire her,5 and 58broken.,2026-09-29T23:24:36
+7663192709049617684,keep,,1,he didn't say we should fire her,5 and 58broken.,2026-09-29T23:24:37
+zdYCW4QH1-Q,keep,,0,,,2026-09-29T23:27:29
+YXSkyQIKPeU,exclude,explanation_in_phrase,0,,,2026-09-29T23:28:23
+YtJCvr7G1bY,exclude,bad_clipping,1,i didn't say he stole the money,,2026-09-29T23:28:41
+YtJCvr7G1bY,keep,,1,i didn't say he stole the money,,2026-09-29T23:29:56
+YT2TcLr6y7w,exclude,bad_audio,0,,,2026-09-29T23:30:36
+yJkfjF94YKA,exclude,bad_audio,0,,,2026-09-29T23:30:47
+yEf0Fko0gxY,exclude,not_demo,0,,,2026-09-29T23:31:35
+xGQ7OORxRCI,exclude,bad_clipping,1,are you in bed,,2026-09-29T23:31:51
+xGQ7OORxRCI,exclude,bad_clipping,1,are you in bed,,2026-09-29T23:31:52
+X02JYzY5eO8,keep,,0,,,2026-09-29T23:32:35
+WurazV-KrIQ,keep,,0,,,2026-09-29T23:32:46
+WurazV-KrIQ,exclude,not_demo,0,,,2026-09-29T23:32:50
+WMwkhnu72hA,exclude,bad_clipping,1,i'm so cold,,2026-09-29T23:33:04
+W1_IRU6zx9g,exclude,not_demo,0,,,2026-09-29T23:33:12
+vVVB-35oeQE,exclude,not_demo,0,,,2026-09-29T23:33:30
+uy0vjGFtRe0,exclude,junk,0,,,2026-09-29T23:33:38
+uuxrEyho8Ig,exclude,junk,0,,,2026-09-29T23:33:54
+uuRSmPcmuC8,exclude,bad_clipping,1,john will drive to work tomorrow,,2026-09-29T23:34:15
+xGQ7OORxRCI,exclude,bad_clipping,1,are you in bed,,2026-09-29T23:34:41
+WMwkhnu72hA,exclude,bad_clipping,1,i'm so cold,,2026-09-29T23:35:01
+WMwkhnu72hA,exclude,bad_clipping,1,i'm so cold,,2026-09-29T23:35:01
+uuRSmPcmuC8,exclude,bad_clipping,1,john will drive to work tomorrow,,2026-09-29T23:36:00
+uuRSmPcmuC8,keep,,1,john will drive to work tomorrow,,2026-09-29T23:36:11
+uRdFtrv2yGA,exclude,not_demo,0,,,2026-09-29T23:36:21
+-Usf78IP0yA,exclude,not_demo,0,,,2026-09-29T23:39:05
+7673783250568973576,keep,,0,,bad clipping ,2026-09-29T23:42:37
+cDVrZ-T7r0g,exclude,not_demo,0,,,2026-09-30T06:26:42

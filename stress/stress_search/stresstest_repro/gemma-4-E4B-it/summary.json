@@ -1,0 +1,94 @@
+{
+ "model": "google/gemma-4-E4B-it",
+ "paper": "arXiv 2505.22765",
+ "paper_reference": {
+  "ssr_accuracy": {
+   "StresSLM": 0.862,
+   "Gemini-2.5-Pro": 0.775,
+   "GPT-4o-audio": 0.688,
+   "Qwen2Audio-7B": 0.532,
+   "human": 0.926
+  },
+  "ssd_f1": {
+   "WhiStress": 0.883,
+   "StresSLM": 0.869,
+   "Gemini-2.5-Pro": 0.485,
+   "GPT-4o-audio": 0.461,
+   "Qwen2Audio-7B": 0.331
+  }
+ },
+ "results": {
+  "nothink/ssr": {
+   "n": 218,
+   "mean_elapsed_s": 1.21,
+   "n_hit_token_limit": 0,
+   "parse_methods": {
+    "rule_single_digit": 69,
+    "gemma_judge": 107,
+    "rule_answer_text": 20,
+    "unparsed": 9,
+    "rule_leading_digit": 13
+   },
+   "accuracy": 0.523,
+   "ci95": [
+    0.457,
+    0.588
+   ]
+  },
+  "nothink/ssd": {
+   "n": 218,
+   "mean_elapsed_s": 0.18,
+   "n_hit_token_limit": 0,
+   "parse_methods": {
+    "gemma_judge": 86,
+    "rule_brackets": 132
+   },
+   "precision": 0.313,
+   "recall": 0.55,
+   "f1": 0.399,
+   "n_length_mismatch": 0
+  },
+  "nothink/open_ssr": {
+   "n": 218,
+   "mean_elapsed_s": 0.91,
+   "n_hit_token_limit": 0,
+   "note": "outputs saved; paper scores these 1-5 with a GPT-4o judge, not run here"
+  },
+  "think/ssr": {
+   "n": 218,
+   "mean_elapsed_s": 16.0,
+   "n_hit_token_limit": 0,
+   "parse_methods": {
+    "rule_single_digit": 41,
+    "rule_leading_digit": 93,
+    "gemma_judge": 46,
+    "rule_answer_text": 28,
+    "unparsed": 10
+   },
+   "accuracy": 0.528,
+   "ci95": [
+    0.461,
+    0.593
+   ]
+  },
+  "think/ssd": {
+   "n": 218,
+   "mean_elapsed_s": 5.14,
+   "n_hit_token_limit": 0,
+   "parse_methods": {
+    "rule_brackets": 205,
+    "gemma_judge": 13
+   },
+   "precision": 0.275,
+   "recall": 0.554,
+   "f1": 0.367,
+   "n_length_mismatch": 0
+  },
+  "think/open_ssr": {
+   "n": 218,
+   "mean_elapsed_s": 10.99,
+   "n_hit_token_limit": 0,
+   "note": "outputs saved; paper scores these 1-5 with a GPT-4o judge, not run here"
+  }
+ }
+}

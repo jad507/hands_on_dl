@@ -1,0 +1,28 @@
+# Python packages for the stress scripts (measure_llm_stress, measure_whistress,
+# validate_whistress, measure_classical, export_stresstest, score_stresstest,
+# null_check_stress, cut_clips, verify_stress). Versions are the ones verified
+# on Shiro (Python 3.14, RTX 5070 Ti) on 2026-09-28.
+#
+# Use a venv of its own, not hands_on_dl's: transformers 5 (Gemma-4 needs
+# >=5.10.1; the WhiStress patch targets 5.x) can break older pipelines there.
+#
+# 1. torch first, from the CUDA 12.8 index, so pip cannot swap in a CPU build:
+#      pip install torch==2.11.0 torchvision==0.26.0 torchaudio==2.11.0 --index-url https://download.pytorch.org/whl/cu128
+# 2. then:
+#      pip install -r requirements-stress.txt
+#
+# The wavelet toolkit is NOT in here: it needs numpy>=2.4.6 and gets its own
+# venv (see doc 09 section 10).
+
+transformers==5.16.1
+accelerate==1.13.0
+huggingface-hub==1.33.0
+datasets==4.8.4
+faster-whisper==1.2.1
+ctranslate2==4.8.2
+praat-parselmouth==0.4.7
+soundfile==0.13.1
+librosa==1.0.0
+numpy==2.3.2
+pyyaml==6.0.3
+yt-dlp

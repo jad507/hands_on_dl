@@ -42,14 +42,21 @@ import argparse
 import csv
 import hashlib
 import json
+import platform
 import re
 import subprocess
 import sys
 import tempfile
+import time
 from pathlib import Path
 
 import verify_stress as V
 from find_stress_videos import find_repeated_phrase
+
+# TikTok is blocked by policy on the Windows work desktop, not on this machine.
+# The refusal below is keyed to hostname rather than removed outright, so this
+# stays safe if the same script is ever run on that machine again.
+TIKTOK_ALLOWED_HOSTS = {"shiro"}
 
 HERE = Path(__file__).resolve().parent
 
@@ -196,7 +203,8 @@ def main() -> int:
     if not srcs:
         ap.error("give at least one URL or file, or --urls")
 
-    if any("tiktok" in s.lower() for s in srcs):
+    if any("tiktok" in s.lower() for s in srcs) and \
+            platform.node().lower() not in TIKTOK_ALLOWED_HOSTS:
         print("refusing: TikTok is out of scope on this machine")
         return 1
 
@@ -207,24 +215,35 @@ def main() -> int:
     audio_dir.mkdir(exist_ok=True)
     work = audio_dir if args.keep_audio else Path(tempfile.mkdtemp())
 
+    hw = V.hardware_info()
+    print(f"host: {hw.get('host')}  "
+          f"gpu: {hw.get('gpu_name', 'none detected')} ({hw.get('gpu_vram', '?')})\n")
+    run_started = time.time()
+
     rows, evidence = [], {}
     for i, src in enumerate(srcs, 1):
         name = slug(src)
         local = Path(src)
+        t_fetch0 = time.perf_counter()
         wav = local if local.exists() else fetch(src, work)
+        fetch_s = round(time.perf_counter() - t_fetch0, 2)
         if wav is None or not Path(wav).exists():
             print(f"  [{i}/{len(srcs)}] could not fetch {src}")
             continue
 
         print(f"  [{i}/{len(srcs)}] transcribing {name} ...", flush=True)
+        t_tr0 = time.perf_counter()
         try:
             words, plain = transcribe(Path(wav), args.model)
         except Exception as e:
             print(f"      transcription failed: {e}")
             continue
+        transcribe_s = round(time.perf_counter() - t_tr0, 2)
         (out / "transcripts" / f"{name}.txt").write_text(plain, encoding="utf-8")
 
+        t_an0 = time.perf_counter()
         res = analyse(Path(wav), words, args.phrase, args.min_repeats)
+        analyse_s = round(time.perf_counter() - t_an0, 2)
         if res is None:
             print("      no repeated sentence found")
             continue
@@ -233,14 +252,20 @@ def main() -> int:
         evidence[name]["phrase"] = res["phrase"]
         row = {k: v for k, v in res.items() if not k.startswith("_")}
         row["source"] = src
+        row["fetch_s"] = fetch_s
+        row["transcribe_s"] = transcribe_s
+        row["analyse_s"] = analyse_s
+        row["elapsed_s"] = round(fetch_s + transcribe_s + analyse_s, 2)
         rows.append(row)
         flag = "***" if res["distinct_stress"] >= 5 else " **"
         print(f"      {flag} {res['distinct_stress']} distinct of "
-              f"{res['repetitions']} reps: {res['stress_sequence'][:70]}")
+              f"{res['repetitions']} reps ({row['elapsed_s']}s): "
+              f"{res['stress_sequence'][:70]}")
 
     if rows:
         cols = ["distinct_stress", "repetitions", "coverage", "walk",
-                "walk_frac", "phrase", "stress_sequence", "n_words", "source"]
+                "walk_frac", "phrase", "stress_sequence", "n_words", "source",
+                "fetch_s", "transcribe_s", "analyse_s", "elapsed_s"]
         with open(out / "other_sources.csv", "w", newline="",
                   encoding="utf-8") as fh:
             w = csv.DictWriter(fh, fieldnames=cols, extrasaction="ignore")
@@ -253,6 +278,20 @@ def main() -> int:
               "-- these are the doc 06 evidence.")
     else:
         print("\nnothing measurable")
+
+    run_elapsed_s = round(time.time() - run_started, 1)
+    (out / "run_manifest.json").write_text(json.dumps({
+        **hw,
+        "script": "stress_from_audio.py",
+        "model": args.model,
+        "n_measured": len(rows),
+        "run_elapsed_s": run_elapsed_s,
+        "mean_transcribe_s": round(
+            sum(r["transcribe_s"] for r in rows) / len(rows), 2) if rows else None,
+    }, indent=1), encoding="utf-8")
+    print(f"run took {run_elapsed_s}s on {hw.get('host')} "
+          f"({hw.get('gpu_name', 'no GPU')}); manifest written to "
+          f"{out / 'run_manifest.json'}")
     return 0
 
 

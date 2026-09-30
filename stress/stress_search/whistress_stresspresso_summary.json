@@ -1,0 +1,42 @@
+{
+  "dataset": "slprl/StressPresso",
+  "published_stresstest_table3": {
+    "f1": 0.835
+  },
+  "reproduced": {
+    "gt_text": {
+      "n_samples": 202,
+      "precision": 0.7408759124087592,
+      "recall": 0.9575471698113207,
+      "f1": 0.8353909465020577,
+      "tp": 203,
+      "fp": 71,
+      "fn": 9,
+      "exact_set_match": 0.6881188118811881,
+      "words_aligned": 1.0
+    },
+    "audio_only": {
+      "n_samples": 202,
+      "precision": 0.7509578544061303,
+      "recall": 0.9245283018867925,
+      "f1": 0.828752642706131,
+      "tp": 196,
+      "fp": 65,
+      "fn": 16,
+      "exact_set_match": 0.6782178217821783,
+      "words_aligned": 0.9526166902404526
+    }
+  },
+  "hardware": {
+    "host": "shiro",
+    "os": "Linux-7.0.0-34-generic-x86_64-with-glibc2.43",
+    "python": "3.13.14",
+    "cpu": "x86_64",
+    "cpu_count": 24,
+    "gpu_name": "NVIDIA GeForce RTX 5070 Ti",
+    "gpu_vram": "16303 MiB",
+    "gpu_driver": "595.91.07",
+    "torch": "2.11.0+cu128",
+    "cuda_available": true
+  }
+}

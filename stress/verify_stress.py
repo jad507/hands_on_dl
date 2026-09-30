@@ -73,19 +73,119 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import math
+import os
+import platform
 import re
 import shutil
 import subprocess
 import sys
 import tempfile
+import time
 from collections import Counter
-from pathlib import Path
+from pathlib import Path, PurePosixPath
 
 HERE = Path(__file__).resolve().parent
 
 WORD = re.compile(r"[a-z0-9']+")
 CUE_TIME = re.compile(r"^(\d{2}:\d{2}:\d{2}\.\d{3})\s+-->\s+(\d{2}:\d{2}:\d{2}\.\d{3})")
 INLINE_TS = re.compile(r"<(\d{2}:\d{2}:\d{2}\.\d{3})>")
+
+
+def local_path(p: str) -> Path:
+    """A manifest's audio path, resolved on THIS machine.
+
+    Manifests (clip_manifest.csv and friends) record whatever path the machine
+    that cut the clips used -- absolute Linux paths from Shiro, say -- and the
+    audio itself is gitignored and copied between machines separately. A path
+    that exists is used as is; otherwise everything from `stress_search` on is
+    re-rooted at this checkout, so the same manifest works on Windows and Linux.
+    Always absolute: callers symlink to it, and a relative target would resolve
+    against the link's directory instead of the repo.
+    """
+    path = Path(p)
+    if path.is_absolute() and path.exists():
+        return path
+    parts = PurePosixPath(p.replace("\\", "/")).parts
+    if "stress_search" in parts:
+        return HERE.joinpath(*parts[parts.index("stress_search"):])
+    return HERE / p
+
+
+# ------------------------------------------------------------- human labels
+#
+# label_server.py appends every click to a CSV under stress_search/labels/, so
+# the files are logs, not tables: the latest row for a key is the answer, and
+# changing your mind is just another row. Exclusions are applied by the analysis
+# scripts at read time; no clip or result file is ever deleted for them.
+
+LABELS = HERE / "stress_search" / "labels"
+
+
+def latest_rows(path: Path, *key: str) -> dict[tuple, dict]:
+    """The last row for each key in an append-only label log ({} if no file yet)."""
+    if not path.exists():
+        return {}
+    with open(path, newline="", encoding="utf-8") as f:
+        return {tuple(row[k] for k in key): row for row in csv.DictReader(f)}
+
+
+def excluded_videos(path: Path | None = None) -> set[str]:
+    """Videos the human review threw out (junk, not a stress demo, ...)."""
+    rows = latest_rows(path or LABELS / "video_review.csv", "video_id")
+    return {vid for (vid,), row in rows.items() if row["decision"] == "exclude"}
+
+
+def bad_clips(path: Path | None = None) -> set[tuple[str, str]]:
+    """(video_id, condition) of single clips marked unusable in a kept video."""
+    rows = latest_rows(path or LABELS / "clip_review.csv", "video_id", "condition")
+    return {key for key, row in rows.items() if row["bad"] == "1"}
+
+
+# ----------------------------------------------------------- hardware/timing
+#
+# This corpus is being built on two machines with very different GPUs (a work
+# desktop's RTX A2000 12GB and a home machine's RTX 5070 Ti 16GB), and a timing
+# number is meaningless without knowing which machine produced it. gpu_info()
+# shells out to nvidia-smi rather than importing torch, so it works in scripts
+# (find_stress_videos.py) that have no GPU dependency of their own.
+
+def gpu_info() -> dict:
+    """Best-effort GPU name/VRAM/driver via nvidia-smi. Empty dict if unavailable."""
+    try:
+        p = subprocess.run(
+            ["nvidia-smi", "--query-gpu=name,memory.total,driver_version",
+             "--format=csv,noheader"],
+            capture_output=True, text=True, timeout=10,
+            encoding="utf-8", errors="replace")
+    except (OSError, subprocess.TimeoutExpired):
+        return {}
+    if p.returncode != 0 or not p.stdout.strip():
+        return {}
+    parts = [s.strip() for s in p.stdout.strip().splitlines()[0].split(",")]
+    if len(parts) != 3:
+        return {}
+    name, vram, driver = parts
+    return {"gpu_name": name, "gpu_vram": vram, "gpu_driver": driver}
+
+
+def hardware_info() -> dict:
+    """Machine identity, for comparing run times across machines."""
+    info = {
+        "host": platform.node(),
+        "os": platform.platform(),
+        "python": platform.python_version(),
+        "cpu": platform.processor() or platform.machine(),
+        "cpu_count": os.cpu_count(),
+    }
+    info.update(gpu_info())
+    try:
+        import torch
+        info["torch"] = torch.__version__
+        info["cuda_available"] = torch.cuda.is_available()
+    except ImportError:
+        pass
+    return info
 
 
 def hms(s: str) -> float:
@@ -282,7 +382,7 @@ def stressed_indices(profiles: list[list[dict]]) -> list[int]:
 
 
 def extend_phrase(words: list[tuple[str, float]], phrase: str,
-                  min_repeats: int = 4, max_words: int = 20) -> str:
+                  min_repeats: int = 4, max_words: int = 20, keep_frac: float = 0.8) -> str:
     """Grow a detected phrase outward while it still repeats often enough.
 
     The repetition detector reports the phrase with the highest count, and a
@@ -301,6 +401,14 @@ def extend_phrase(words: list[tuple[str, float]], phrase: str,
     extension whenever the longer phrase still occurs at least `min_repeats`
     times. That recovers the full sentence and stops at its real boundary, where
     the surrounding words start to vary.
+
+    `min_repeats` alone is not a boundary test, though. With it at 3 (as the
+    clip cutter used it), a word that happens to precede only 3 of 8 readings
+    still clears it: X02JYzY5eO8 grew to "this i didn't say he stole her
+    money", which locate() then found 3 times, and 5 of the 8 repetitions were
+    never cut (38 of 90 corpus videos lost repetitions this way). So an
+    extension must also keep at least `keep_frac` of the phrase's starting
+    occurrences -- enough slack for the VOA case (8 of 9), none for 3 of 8.
     """
     cur = phrase.split()
     stream = [w for w, _ in words]
@@ -315,6 +423,7 @@ def extend_phrase(words: list[tuple[str, float]], phrase: str,
                 i += 1
         return c
 
+    keep = math.ceil(keep_frac * count(cur))
     changed = True
     while changed and len(cur) < max_words:
         changed = False
@@ -329,7 +438,7 @@ def extend_phrase(words: list[tuple[str, float]], phrase: str,
                     c = count(cand)
                     if c > best_count:
                         best_word, best_count = stream[j], c
-            if best_word is not None and best_count >= min_repeats:
+            if best_word is not None and best_count >= max(min_repeats, keep):
                 cur = ([best_word] + cur) if side == "left" else (cur + [best_word])
                 changed = True
                 if len(cur) >= max_words:
@@ -398,6 +507,11 @@ def main() -> int:
         return 1
     import parselmouth
 
+    hw = hardware_info()
+    print(f"host: {hw.get('host')}  "
+          f"gpu: {hw.get('gpu_name', 'none detected')} ({hw.get('gpu_vram', '?')})\n")
+    run_started = time.time()
+
     audio_dir = sdir / "audio"
     audio_dir.mkdir(exist_ok=True)
     work = Path(tempfile.mkdtemp()) if not args.keep_audio else audio_dir
@@ -422,7 +536,9 @@ def main() -> int:
             print(f"  [{i}/{len(rows)}] {vid}: only {len(occs)} located, skipped")
             continue
 
+        t_dl0 = time.perf_counter()
         wav = download_audio(vid, work)
+        download_s = round(time.perf_counter() - t_dl0, 2)
         if wav is None:
             print(f"  [{i}/{len(rows)}] {vid}: audio download failed")
             continue
@@ -435,6 +551,7 @@ def main() -> int:
                 wav.unlink(missing_ok=True)
             continue
 
+        t_m0 = time.perf_counter()
         profiles = []
         for occ in occs:
             prof = prominence_profile(snd, occ)
@@ -443,6 +560,7 @@ def main() -> int:
         # Score each word against its own average across the repetitions, so a
         # word that is loud in every reading does not win every reading.
         stressed = stressed_indices(profiles)
+        measure_s = round(time.perf_counter() - t_m0, 2)
 
         if not args.keep_audio:
             wav.unlink(missing_ok=True)
@@ -464,6 +582,9 @@ def main() -> int:
             "walk": walk,
             "walk_frac": round(walk / len(stressed), 3),
             "stress_sequence": " > ".join(seq),
+            "download_s": download_s,
+            "measure_s": measure_s,
+            "elapsed_s": round(download_s + measure_s, 2),
         }
         results.append(res)
         evidence[vid] = {"phrase": phrase, "profiles": profiles,
@@ -471,14 +592,15 @@ def main() -> int:
 
         flag = "***" if distinct >= 5 else (" **" if distinct >= 3 else "   ")
         print(f"  [{i}/{len(rows)}] {flag} {distinct} distinct of {len(profiles)} reps  "
-              f"{vid}  {' > '.join(seq[:7])}", flush=True)
+              f"({res['elapsed_s']}s)  {vid}  {' > '.join(seq[:7])}", flush=True)
 
     if not args.keep_audio and work.exists() and work != audio_dir:
         shutil.rmtree(work, ignore_errors=True)
 
     results.sort(key=lambda r: (-r["distinct_stress"], -r["repetitions"]))
     cols = ["distinct_stress", "repetitions", "coverage", "walk", "walk_frac",
-            "phrase", "stress_sequence", "url", "title", "n_words", "video_id"]
+            "phrase", "stress_sequence", "url", "title", "n_words", "video_id",
+            "download_s", "measure_s", "elapsed_s"]
     with open(sdir / "stress_verified.csv", "w", newline="",
               encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=cols, extrasaction="ignore")
@@ -487,9 +609,20 @@ def main() -> int:
     (sdir / "stress_evidence.json").write_text(
         json.dumps(evidence, indent=1), encoding="utf-8")
 
+    run_elapsed_s = round(time.time() - run_started, 1)
+    (sdir / "run_manifest.json").write_text(json.dumps({
+        **hw,
+        "script": "verify_stress.py",
+        "n_measured": len(results),
+        "run_elapsed_s": run_elapsed_s,
+        "mean_elapsed_s": round(sum(r["elapsed_s"] for r in results) / len(results), 2)
+                          if results else None,
+    }, indent=1), encoding="utf-8")
+
     strong = [r for r in results if r["distinct_stress"] >= 5]
     usable = [r for r in results if 3 <= r["distinct_stress"] < 5]
-    print(f"\n=== {len(results)} measured ===")
+    print(f"\n=== {len(results)} measured in {run_elapsed_s}s "
+          f"on {hw.get('host')} ({hw.get('gpu_name', 'no GPU')}) ===")
     print(f"  {len(strong)} strong (5+ distinct stressed words)")
     print(f"  {len(usable)} usable (3-4)")
     print(f"  written to {sdir / 'stress_verified.csv'}")
