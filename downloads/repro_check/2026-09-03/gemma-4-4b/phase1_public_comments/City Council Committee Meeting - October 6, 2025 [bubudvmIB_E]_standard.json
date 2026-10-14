@@ -1,0 +1,513 @@
+{
+  "title": "City Council Committee Meeting - October 6, 2025",
+  "video_id": "bubudvmIB_E",
+  "upload_date": "20251007",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-03T21:08:28+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_26",
+      "start": 2495.46,
+      "end": 2521.72,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions regarding city finances and potential tax increases.",
+      "text": "COUNSELOR OMID? THANK YOU, MR. VICE PRESIDENT. AND THANK YOU, DIRECTOR CAMPBELL, FOR THE PRESENTATION. I JUST HAD TWO QUESTIONS. FIRST, WITH THE PROJECTIONS WITH SOME UPCOMING DEFICITS AND SOME UPCOMING DEPLETIONS OF FUND BALANCES, WHAT ARE SOME WAYS THAT THE ADMINISTRATION IS going to be keeping the increase in expenses year over year down um to avoid a tax increase"
+    },
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_06",
+      "start": 2810.68,
+      "end": 2893.14,
+      "speaker_name": "Tony Dastro",
+      "reason": "The speaker identifies themselves and expresses an opinion regarding tax exemptions and city relief programs.",
+      "text": "YOU MAY JUST NEED TO TURN THAT ON GREAT THANK YOU HELLO TONY DASTRO 700 BLOCK OF NEW HOLLAND AVENUE UM FIRST I WANT TO THANK YOU COUNCILOR IMED FOR MENTIONING THE TAX EXEMPTION UH AND I THINK THAT THE CITY NEEDS TO FOCUS ON GIVING THAT RELIEF DIRECTLY TO the residents of the city not circling it through another program i understand that there is some expense in the administrative cost to administer such a program but we're talking about three hundred thousand dollars of the fifteen point some million dollars the city gets in revenue total so it's less than two percent of the current revenue that we're receiving from income tax and then on top of the general operating fund budget it's pennies on the dollar so our poorest residents deserve that direct relief and i want to thank you for continuing to speak on that and then just for the record because it's a touches on some subject of later tonight the police is the largest part of our budget the pension is the largest part of the pensions management we have to do in the long term and so I hope we can look forward to more efforts concerted by the government to integrate the trust in our community into the police department thank you thank you"
+    },
+    {
+      "block_id": 39,
+      "speaker": "SPEAKER_19",
+      "start": 2913.5,
+      "end": 2961.09,
+      "speaker_name": "Jessica Lopez",
+      "reason": "The speaker, identifying as a Lancaster City Resident, raises a concern about future tax increases and budget allocations.",
+      "text": "ALL RIGHT. JESSICA LOPEZ, LANCASTER CITY RESIDENT. MY QUESTION ISN'T FOR NOW, BUT LATER ON DOWN THE LINE, WHEN WE START TO INCREASE OUR TAXES AND START TO HIT PEOPLE, WE'RE NOT DOING IT THIS YEAR, BUT AS THE BUDGET CHANGES, IT'S GOING TO AFFECT PEOPLE WHO MAKE LESS MORE THAN IT WILL AFFECT PEOPLE WHO MAKE MORE IN THE CITY. So the question is, are we going to later on decide to decrease our police budget and protect the actual residents of the city? Are we going to cut community engagement and housing programs instead of cutting our police budget when our wage just won't be increased later on and it doesn't balance out appropriately?"
+    },
+    {
+      "block_id": 46,
+      "speaker": "SPEAKER_15",
+      "start": 3060.56,
+      "end": 3072.04,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the public availability of data justifying the police department's size.",
+      "text": "Should be good. Yep. Thank you So you you said that you've done the the work to justify the size of the police department? is that data publicly available or can it be made publicly available to show the justification for"
+    },
+    {
+      "block_id": 48,
+      "speaker": "SPEAKER_15",
+      "start": 3088.52,
+      "end": 3128.38,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding budget allocation and city infrastructure.",
+      "text": "i would just say that i would echo that to see that disproportionate amount of the budget dedicated to police when we have 2%, I believe it was, for community engagement, 12% for public works. We can all look around our city and I think we can all agree that it needs more than 12% of our budget in the infrastructure. I see idle police cars consistently. I see multiple police cars for basic traffic stops. And I have a hard time believing that those kinds of things were found in the justification for the size of our police department when we're committing only 12 percent to public works and two percent to public engagement"
+    },
+    {
+      "block_id": 56,
+      "speaker": "SPEAKER_24",
+      "start": 3373.97,
+      "end": 3505.68,
+      "speaker_name": "Nathan Charles",
+      "reason": "The speaker identifies himself as a resident and expresses surprise and concern regarding a historic review designation.",
+      "text": "GREG. MY NAME IS NATHAN CHARLES. I CURRENTLY LIVE ON 425 NORTH PRINCE STREET. I PREVIOUSLY LIVED ON 333 SOUTH PRINCE STREET AND I'M HOPING TO MOVE INTO 444 WEST LEMON. SO IT'S KIND OF A, I'M QUITE SURPRISED TO BE HERE. I THOUGHT WE WERE DOING you know doing everything right we have a permit so I was very surprised to you know essentially get after-the-fact notification kind of designation of this historic review so I have with me Jesse Pellman who is kind of the builder we've been working together on this this concept and idea for a very long time this is a fairly ambitious project i have been living in the city for many many years and periodically have gone through the exercise of i should buy a house and then i go look at the houses housing inventory and then it's like i should not buy a house i get very discouraged when i see bad flips and and you know properties that need a lot of renovation that i then compete with flippers for so this was the first opportunity i felt like i had i now have some means i can now make a deep investment uh in in lancaster city and actually build a house that's very you know very small um uh by i mean we're not really increasing the size we pushed up uh the roof a little bit but it's only the front so effectively we've turned a two-story house into two and a half story house um and so this is a very typical um city dwelling and the hope is to get be this will be the first uh house in lancaster county that will meet the passive house standard um jesse do you want to add a few comments my name is jesse pelman i run longview structures"
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_01",
+      "start": 3505.68,
+      "end": 3897.68,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing a local business and the goals of a housing project.",
+      "text": "our shop is on uh 400 block of south prince street we do quite a bit of work in town um and would also sort of say first off thank you to all of you for engaging in conversations one of the goals of this project uh is precisely to engage and to create dialogue around what housing can be uh most specifically what housing in urban environments in infill and what the reutilization of existing housing stock could look like so uh just for the sake of our sort of records uh keeping and our analysis of how we got to this point nate alluded to being somewhat surprised uh to being here we submitted a permit application as we do for all of our projects along with building elevations floor plans and a very short narrative of what the project was going to entail we had multiple back and forth with city staff including the inspector who was doing the plan review at the time had follow-up conversation with zoning specifically as it related to So at that time what was a proposed roof deck on the Lemon Street facade, there were 3D models that were associated with the permit submittal that showed what we were doing along with the extensive energy modeling that we were pursuing. So the after the fact characterization, while I fully acknowledge we are now evaluating a completely built out structure that is effectively from the exterior done, it was in no way intended to be nor was it and after the fact submittal we then followed up as the plan was developing as we were in process and as we were doing deep energy modeling we resubmitted plans and elevations that represent the current as-built condition to the city and to the city inspectors for additional review and for comment and receiving none and following through with site inspections we carried on with our work with the work as it had been permitted and authorized by the city so that's our our background it is not necessarily an after the fact in so much as we were trying to skirt or get around this opportunity as i mentioned we are looking for dialogue and for community and interaction one of the reasons that we have ended with the design that is currently up for debate is as nathan referenced our desire to reach a passive house certification which is an energy metric just an exceptionally miserly energy requirement for performance it is one of the most stringent building standards and requirements that exists there are currently none in the area that meet it there are specifically none in the area that meet it in an urban retrofit common wall application that we are attempting to undertake so the decision-making process and matrix that we entered into was robust it was intentional and it was thorough and we did our best to try to engage with city officials as we initiated the process and as it's gone throughout so one of the pieces that has come up for debate is how we hyper insulate and provide for future housing what a really basically zero energy house in the city can look like and one of the demands is insulation so i'll get a little technical please interrupt me ask questions at any point but the existing dormer in question was a vinyl clad uh vinyl sided dormer with what we call cheek walls that were about an inch and a half thick of no insulation and wood only the window in question was already replaced with a vinyl window there was no wood millwork the back roof of this structure had already been removed the stairs and access were non-code compliant unsafe and the roof was structurally unsound not that it was uninhabitable not that it was way outside the bounds of normal city housing stock but this i want to just set the character was not a particularly uh architecturally historic property in so much as the materials that were removed were of high value either monetarily or necessarily architecturally i do absolutely agree with the historic commission that we did interrupt the block so i will not dispute or try to counter the argument that we did break the continuity of a 14 dormer stretch again part of what we were looking to do is start dialogue so i have a crew there that works every day and there's hardly a day that goes by where somebody doesn't stop and say what's happening i've never seen this tell me about the project that's going on we've hosted regional events that is also looking for the future of housing how we can do housing in Lancaster well properly efficiently so while we are in conflict with the historic commission's report we got here somewhat unintentionally but at the same time we got here very much on purpose because we made a decision based on what we believe represents a possibility for moving forward and the architecture style of how we do that on the next one is certainly up for debate and had we gone through the process or been directed through the process at the initial plant's middle or if the city had requested additional feedback and information we would have gladly engaged at that time so happy to do that now i've talked a lot at you i really truly do want to have this primarily be conversation and dialogue but i want it to be understood in the context that this was a fully permitted fully green lighted city project that we are doing with the best intention of both city block city future and housing in mind so the characterization of after the fact i i bristle a little bit um and i also just want to characterize that we did not the vast majority of my company's work isn't historic preservation so you know we we do we fall into these camps where the world of preservation isn't inherently one of the most responsible sustainable ways to build part of the driver for this project was can we take that same mentality and push the envelope to this next level of potential development and can we get to one of the highest certifications that's out there in a Lancaster city home um rather than it's much easier out in cornfield we learned that today during some testing uh you know it's a very difficult very stringent um project that we're trying to thank"
+    },
+    {
+      "block_id": 60,
+      "speaker": "SPEAKER_22",
+      "start": 3979.76,
+      "end": 4016.61,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a concern regarding the lack of review by the historical commission for property plans.",
+      "text": "we respond accordingly okay thank you so much for the information my primary concern is that i mean there wasn't any thought of considering going through the historical commission or the historical review board to you know you know to look over your plans for the property and you know since you yourself said that you're i mean you've been a contractor in lancaster city for the longest time it would stand to reason that we might want to do that before we move forward"
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_25",
+      "start": 4130.82,
+      "end": 4158.97,
+      "speaker_name": "unknown",
+      "reason": "The speaker is raising process-related questions regarding a permit and project completion.",
+      "text": "ME PERSONALLY COUNCIL CRAIG I'M I THINK JUST FROM A PROCESS STANDPOINT I HAVE QUESTIONS AROUND IF A PERMIT WAS ISSUED WITH THE EXPECTATION OF THIS PROJECT HAPPENING IN THE WAY THAT IT HAPPENED WHAT HAPPENS WITH THE AFTER THE FACT DETERMINATION SO IF THE PROJECT'S ALREADY COMPLETED WHAT HAPPENS NOW IF COUNCIL WERE NOT TO APPROVE THIS TO MOVE FORWARD MAYBE THAT'S A GENERAL"
+    },
+    {
+      "block_id": 70,
+      "speaker": "SPEAKER_29",
+      "start": 4186.58,
+      "end": 4234.73,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding a permit application and its contents.",
+      "text": "REGARDING THE PERMIT, I DON'T KNOW IF YOU'VE ALL SEEN A PERMIT APPLICATION. IT INCLUDES BOXES THAT YOU CHECK THAT DESCRIBE THE DIFFERENT TYPES OF WORK THAT MAY OCCUR UNDER THE PERMIT. I ASSUME THE APPLICANT FILLED OUT THE PERMIT APPLICATION. THEY FAILED TO CHECK THE BOX FOR DEMOLITION OR ADDITION. AND THEN THE PERMIT WAS ACTUALLY listed as a permit for interior renovation that's why it wasn't flagged and sent to the historical commission first you know i'm hesitant to assign blame to that especially because no one from the the building department is here to state their position but there were some problems with the application and with the permit that was that was issued for interior renovation only and this"
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_29",
+      "start": 4250.49,
+      "end": 4286.47,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing a checklist and the historical commission's review process regarding a permit.",
+      "text": "so we did fill out a checklist well yeah that's that's not again that's not on the application yeah sure it is up to the building official to determine whether it goes to the historical COMMISSION OR NOT TO DETERMINE WHAT'S REVIEWABLE BUT IN THE HISTORICAL COMMISSION'S YOU KNOW VIEW THE PERMIT WAS ISSUED IN ERROR IT WAS AN ADMINISTRATIVE ERROR A CLARICAL ERROR YOU KNOW IT WAS THE WRONG KIND OF PERMIT THAT WAS ISSUED FOR OBVIOUSLY AN ADDITION YOU KNOW DEMOLITION AND A BUILDING ADDITION THAT'S NOT LISTED ON THE PERMIT OR THE APPLICATION"
+    },
+    {
+      "block_id": 79,
+      "speaker": "SPEAKER_26",
+      "start": 4538.46,
+      "end": 4552.62,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing a councilor with a question regarding a past decision.",
+      "text": "THANK YOU, COUNSELOR CRAIG. I GUESS MY ONLY QUESTION WOULD BE TO COUNSELOR CRAIG'S POINT, AND GIVEN THIS IS AFTER THE FACT, ARE THEY EXPECTED TO RETURN IT TO ITS ORIGINAL STATE?"
+    },
+    {
+      "block_id": 80,
+      "speaker": "SPEAKER_17",
+      "start": 4552.62,
+      "end": 4612.34,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering an opinion and explanation regarding the Historical Commission's decision based on their professional background.",
+      "text": "THE HISTORICAL COMMISSION JUST LOOKS AT WHAT IS PRESENTED TO US. SO WE WERE PRESENTED WITH A DEMOLITION REQUEST AFTER THE FACT, AFTER IT WAS ALREADY DEMOLISHED, AND THEN WITH THE DESIGN. IF IT CAME TO US, LIKE JUST AS A BLUEPRINT, WE WOULD DENY IT. SO THAT'S WHY WE DENIED IT AS BUILT. AND I WILL SAY, BECAUSE MY BACKGROUND IS IN PRESERVATION CONSTRUCTION, IT IS VERY EASY TO FIGURE OUT IF A BUILDING IS IN THE HARB OR IN THE HISTORICAL COMMISSION. often will just go on the city website you can type in the address and see what zoning and what criteria it your that each address needs so that that's something that is not very hard to figure out if you need to do counselor"
+    },
+    {
+      "block_id": 81,
+      "speaker": "SPEAKER_14",
+      "start": 4612.34,
+      "end": 4798.12,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and expressing thoughts on a city review process.",
+      "text": "Craig if I may absolutely thank you I want to recognize the members of the Historical Commission for their work and understand that their role is really to review the Secretary of Interior standards and this presents a really interesting and unique challenge and and it's not one that's entirely uncommon uh to city council i remember a case in which um we've talked about dormers before we've talked about uh roofing materials uh et cetera et cetera but this is a a substantial change to the pattern of the dormers along this particular block of uh of lemon street and um and it is akin to sort of seeing a group of row homes where all the porches are open and then there's that one that's enclosed right in the middle of the block um and so i i i also want to acknowledge the ambitiousness of the certification program that you're going through and the efforts that you're taken to do something that's very unique in the city from a sustainability and a net zero energy project um i also acknowledge and i've never met you before jesse but i'm familiar that your business is located here in the city and i do see longview structure signs throughout the city and i know that um that you know you are conscientious in the work that you're doing there's a lot of different things that have happened in in this um in this particular circumstance what i'm going to suggest um to uh to to you counselor craig is a motion to table because i think that we need to have there's a if council is going to pursue a path in which there needs to be um uh the the roof uh the dormer needs to be returned to its original intention there are procedures i believe as it relates to the affordability and an applicant can share that information with council in terms of what the cost estimates are and have more information from which to make a decision i would also say that it's important for council to consider you know the internal operations of how this um you know in terms of the permit review and so on and so i will be following up with our internal department as well in terms of just the check boxes but this isn't just about the check box this is about a house that is going to ostensibly be forever changed by by by these renovations as good intentioned and as um you know forward thinking that they they are in terms of WHAT YOU'RE TRYING TO ACCOMPLISH SO THAT'S MY RECOMMENDATION I PROBABLY COULD HAVE GOTTEN TO THAT MORE QUICKLY BUT THANK YOU FOR HANGING WITH ME AS I'M A LITTLE THINKING A LITTLE BIT OUT LOUD"
+    },
+    {
+      "block_id": 84,
+      "speaker": "SPEAKER_01",
+      "start": 4830.45,
+      "end": 4935.96,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing ongoing work and compliance with city information.",
+      "text": "one of the difficulties is we're done i would just go back to the comment why work continued work has not continued since we were notified of the issue so in august we were given permission to continue and carry on with interior work and non-visible work we have not done anything on that's front lemon street facing side so again we are doing our best to comply with the information that we are receiving from the city the what i would say potential difficulty in the new application is the decisions that we've made as part of this project are not easily undoable from either just a logistical standpoint or a financial standpoint the window that in question that faces lemon street is imported from austria it is not a run-of-the-mill window it is a deep investment in what good future housing uh is going to look at in terms of technology so we can argue the architecture we can argue the aesthetic all day long but the difficulty will be how we go backwards and still use the appropriate technology to meet these means so we could certainly resubmit it would represent significant time and financial impacts to the client and if we have to you know it's an active work site so we were hoping to be able to continue forward the city has made us aware that previously they said we can continue interior work but we were just notified that when we tried to schedule an interior inspection that they would not inspect until after this meeting so we have a unoccupied city house sitting mid-construction here as well which again represents a both time and finance constraint to the client yeah but it's also"
+    },
+    {
+      "block_id": 88,
+      "speaker": "SPEAKER_25",
+      "start": 5029.04,
+      "end": 5157.76,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a concern regarding the burden placed on a property owner due to a clerical error.",
+      "text": "CRAIG I JUST WANT TO MAKE A COMMENT BECAUSE THIS VERY INTERESTING SITUATION THAT WE'RE IN SO when i want to be empathetic to the fact that uh it was mentioned that clerical error was made so i have um it's a little frustrating to feel that we're going to put the onus on a property owner uh to um a resident to have to correct that when uh it was something on our process that potentially could have prevented this um the other thing that i do want to mention why i think there i have a deep appreciation for our city's historical infrastructure i think the reality as well is that there are numerous conversations that are happening throughout our community around housing affordability energy consumption energy affordability and it's going to take innovative solutions to solve those challenges so um right now we have this tension between a historic housing stock uh which you know yes we we definitely should preserve and um also the need for innovation innovative solutions around housing affordability uh so it's interesting that this specific property um also is demonstrating this new idea that can save anywhere from 70 to 90 in energy costs which i find fascinating for a city that is suffering through a housing crisis and housing excuse me a housing affordability crisis and energy consumption can be um a big part of that so um yeah i just i want to make that comment i think uh given the fact that this is done i would also uh encourage and recommend mayor sirachi's recommendation around tabling this uh to ensure that you know we can come up with a good solution and move forward that honors um our CITY'S HISTORIC INTEGRITY BUT THEN ALSO UNDERSTANDS THAT YOU KNOW THERE ARE OPPORTUNITIES FOR NEW INNOVATIVE SOLUTIONS TO HOUSING AFFORDABILITY HERE THANK YOU COUNCILOR THANKS ARE THERE ANY"
+    },
+    {
+      "block_id": 89,
+      "speaker": "SPEAKER_13",
+      "start": 5157.76,
+      "end": 5258.34,
+      "speaker_name": "Susie Hoover",
+      "reason": "The speaker identifies herself as a resident and shares a personal experience regarding home renovations and windows.",
+      "text": "QUESTIONS OR COMMENTS FROM THE PUBLIC THIS IS ON OKAY IT'S ACTUALLY AT MY LEVEL I'm Susie Hoover I have a house at 204 East King Street 1787 when I redid that house a number of years ago people tried to sell me replacement windows this that and the other thing and I retained the original windows I had them redone I'm not even well painted and that sort of thing a specialty insulation window on storm window on that and I would say with an old house that age and I took efforts with the best heating the last air conditioning that I could my utility bills on that house are very low and people come into my house and they tell me how incredibly quiet it is for being right on the frontage of East King Street which it is and so I think there are ways of accomplishing staying historic with materials that are very conducive to these type of renewal of historic homes without making major deviation from regulations for historic homes thank you"
+    },
+    {
+      "block_id": 90,
+      "speaker": "SPEAKER_06",
+      "start": 5258.34,
+      "end": 5330.26,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding a specific issue and expressing an opinion on the city's process.",
+      "text": "thank you miss hoover tony dasher 700 block of new holland avenue i i don't think the city's process failed them here uh as mr fung pointed out and i get it it was a it was a check mark but right now we're living in a country where people are being deported over check marks on forms this is honestly a situation which i understand the complications but something was filled out wrong and the process was followed incorrectly and that stuff happens uh i think we do need to be mindful of our historic architecture but i've even said to some people like we don't need to preserve every single house in lancaster city for its historic nature if we're trying to be a city IT DEVELOPS SO I THINK ME AS A MEMBER OF THE PUBLIC I'M OPEN TO CHANGE I DON'T UNDERSTAND THE FULL CONTEXT OF YOUR SITUATION BUT I WANT TO DEFEND THE CITY HERE AND SAY LIKE I DON'T THINK THAT THEIR PROCESS WAS WRONG THIS WAS A I'M GOING TO ASSUME TO BE A GENUINE ERROR UM AND I HOPE FOR YOU ALL THE BEST IN NAVIGATING THIS GOING FORWARD BUT SORRY THANK YOU MR ESTRA ARE THERE ANY FURTHER"
+    },
+    {
+      "block_id": 94,
+      "speaker": "SPEAKER_31",
+      "start": 5567.2,
+      "end": 5691.16,
+      "speaker_name": "unknown",
+      "reason": "The speaker is requesting funds on behalf of an organization to support client services.",
+      "text": "10-fold. Dan, I'm sorry, you may need to hit that button to turn your mic on. You're very good at projecting, but that's it. Thank you. Great. I'm here on behalf of 10-fold requesting $100,000 from the local shares account to purchase a 15-passenger van. This van will directly support client services in a number of ways. It will serve the transportation needs of 10-fold's shelter and housing stability programs at any given time there are 190 households in tenfold programs that could benefit from transportation in each of these programs case managers provide services to individuals and families experiencing homelessness in lancaster county many of these households face transportation barriers limiting access to things like employment opportunities health care housing appointments and food banks a 15 passenger van would also serve as a means for households without transportation to access tlc emergency shelter when they cannot get there on their own we also envision using this for logistical supports as well moving supplies between different sites and really to facilitate in building positive community and positive experiences among our case managers and and clients and and in the households themselves having the ability to take people on educational outings, attending local events, volunteering, all of which promote connections, strengthen relationships, and build community. We believe that a 15-passenger van aligns with the LSA's goal of enhancing community, well-being, and infrastructure, and it will allow Tenshold staff to safely and reliably transport clients to critical destinations, which we believe will shorten the length of time people experience homelessness and that we feel like is a win for everybody"
+    },
+    {
+      "block_id": 99,
+      "speaker": "SPEAKER_20",
+      "start": 5804.68,
+      "end": 5825.68,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding fiduciary responsibility related to a project application.",
+      "text": "I HAVE ONE CLARIFICATION THAT MIGHT BE IMPORTANT CONTEXT. ALSO, THANK YOU FOR YOUR APPLICATION. I THINK IT'S A VERY WORTHY PROJECT. BUT JUST ABOUT THE LOCAL SHARES PROCESS, ALTHOUGH WE SUBMIT THE APPLICATION ON BEHALF OF THE ORGANIZATIONS, DO WE HAVE ANY SORT OF FIDUCIARY RESPONSIBILITY OR OVERSIGHT IF THEY ARE TO BE AWARDED?"
+    },
+    {
+      "block_id": 102,
+      "speaker": "SPEAKER_32",
+      "start": 5871.9,
+      "end": 6131.3,
+      "speaker_name": "Dana Clark",
+      "reason": "The speaker, an architect for the YWCA, is presenting information regarding the YWCA renovations to the council.",
+      "text": "by the ywca good evening good evening my name is dana clark i'm actually the architect for the y forward renovations i'm here on behalf of stacy tonight she was able to make it but i want to thank council and the mayor for allowing us this opportunity this is as you may know a transformational project for the YWCA their historic building and quite honestly that that corner of the city at this point if you haven't been by recently we're about 95% complete if you're looking for a historic building with a facelift go check out this one we're super excited for having been able to remove the stair tower and restore the facade of that building so if you haven't been by please please take it take a walk and take a look I have promised everyone on staff there that they will be in before Thanksgiving if they don't they promised they would cook me so in our in the next steps for this in this first there were two other previous phases that we did some with LSA funding. This phase, we're going to welcome new tenants, 17. We've added 17 units of low-income housing and then refurbished 12 existing residential suites in the existing building. What we're looking for now, the request before you, is to support phase four, which is the last phase of this really ambitious project um this last phase will renovate all the additional residential suites that have not been touched by any of the three previous phases it will enhance livability and efficiency we talked a little bit about energy efficiency it is key in making an older building work well part of what we're doing is increasing the efficiency of all the units and phase four continues to do that on the fourth floor uh which is the location of of the remaining units that need to be renovated. The second floor, another key component is the childcare component. The second floor is going to get reorganized and renovated. Again, not only improved utilities, HVAC lighting, but also better layout to support more programs for the daycare center. So we're excited. We're excited by that. It will increase the overall capacity of the Y and its program, which is something that they really do need. The first floor, so the phase four is really the fourth floor, the second floor, and some additional work on the first floor. The work on the first floor, if you guys have been in there, you know there's an old gymnasium that was in there. Similar to what we did when we filled in the old auditorium space, we're looking to get more square footage in this urban environment, and there's nowhere for them to go so the best use of that existing facility would be to add another floor there and again this is all to increase the childcare program so all the work that we're doing I know they'll be very excited to show you all at the open house all the work we're doing is very sensitive to historic fiber inside the building and outside the building so while it's you know it's unfortunate to infill a volume space I think in this particular case it makes sense for the why and their programming and again the first floor lay out some of the lobby if you guys have been in the lobby you know has had some less sensitive work done to it the last piece of phase four is to take certain portions of that lobby that are really open to the public and for community use and sort of restore those pieces back to a more historically sensitive context so the full cost for phase four is projected at seven million phase three is gonna finish they've already spent or will be spending at the end of phase three 11 million so the Y has invested significant resources not only through grant programs like the LSA but you know Stacy has done a phenomenal job of looking for other in other forms of revenue to support the mission and the programs at the Y so I was pretty excited that she asked me to come in and"
+    },
+    {
+      "block_id": 109,
+      "speaker": "SPEAKER_21",
+      "start": 6272.55,
+      "end": 6295.99,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing commendation regarding support services for women.",
+      "text": "COUNSELOR NIETZ. THANK YOU, COUNSELOR CRAIG. I just wanted to commend you. I was a counselor for sexual assault years ago, so seeing it grow and seeing it build, it's great. It just feels good knowing that women that run into situations of sexual assault or not having a home, it's great to know where they can go."
+    },
+    {
+      "block_id": 114,
+      "speaker": "SPEAKER_11",
+      "start": 6511.91,
+      "end": 7233.92,
+      "speaker_name": "Chris Delfs",
+      "reason": "The speaker identifies themselves and expresses an opinion on the topic of data centers and zoning.",
+      "text": "good evening everybody sorry for the delay i was looking for my speaker notes but we're going to go with plan b and use the hard copy instead um okay um well uh thank you for the opportunity uh to speak on this topic tonight i know there's been a lot of interest in data centers overall um and particularly uh subject of zoning um uh first uh i think all of you know me i'm chris delfs i'm the director of community planning and economic development uh but wanted to introduce myself again um for uh public in the room as well uh also wanted to turn it over just for a moment so that uh betsy can introduce herself as well good evening i'm betsy logan i'm the planning bureau chief for the city okay um i think i'm going to do most of the talking but um betsy's the technical expert here in a number of the these areas so she may assist with some parts of the presentation and answer uh questions as well um okay uh should we jump in absolutely good okay um just wanted to start with with where we've been uh on august 26 city council directed staff and the solicitor's office to develop a zoning ordinance to specifically address data centers in the city of lancaster our chief planner betsy who you just met and i have been working on the draft ordinance since that time in august in concert with our city solicitor and also we have outside land use council that we use for important matters such as these during that time we've researched best practices we've spoken to experts we've connected with other other municipalities, and generally attempted to build our knowledge about data centers, both their challenges and their opportunities. Please note, this is the first draft of the ordinance, which will undergo additional rounds of review and feedback. So normally, I end a presentation with process. I don't usually start with process, but I think in this case, it's really important. So we're clear about where we're headed. formulating zoning code was designed to be deliberative in other words it is a slow process by nature i think the state and the local legislature has contemplated that this is intended to be a slow slow process so that it's well thought through before we make changes to our zoning code typically this type of work the research and the development of this kind of ordinance takes in in the realm of three to four months uh staff have expedited our work at the request of council and most importantly this is an important community issue that has a sense of urgency here um on this slide i i wanted to talk about the zoning process in in general uh here on the left whether uh this is a data center consideration or any kind of change to the zoning ordinance there are steps that we must go through as staff and as a city government the first is essentially the introduction of the zoning ordinance the zoning amendment that's what's happening here tonight this is the first presentment to to the city council committee in addition to that there is a review and comment or recommendation by the city planning commission and by the county planning commission there is also a public hearing that is required by law typically that happens before city council that's how we have done done this in the past and then because it's an ordinance and not a resolution it requires at least it requires the two readings before council and ultimately a vote and adoption if that's what you so choose moving on to how that applies to this particular zoning ordinance for the data centers there are a couple dates that we know for sure right now. The first is tonight October 6th. The second date is we have told our city planning commission that after tonight we will be sharing the ordinance draft with them and that they will have an opportunity to discuss this ordinance draft ordinance on October 15th as well. There is a mandatory 45-day review process with the county staff and county planning Commission. We can come back and talk about that later if it's valuable, but I just wanted to note that here. Ultimately, we also have to have the hearing and the two readings before council that I mentioned. These dates have not been set in stone yet, but we have considered that they would occur probably in the end of October or during the month of December. For the most part tonight, WE'RE GOING TO TALK ABOUT DATA CENTERS IN GENERAL AND HOW THIS ZONING ORDINANCE WOULD IMPACT DATA CENTERS THROUGHOUT THE CITY. HOWEVER, WE ALL KNOW THAT TWO DATA CENTERS HAVE BEEN PROPOSED IN THE CITY AT THIS TIME. ONE IS ON GREENFIELD ROAD AND ONE IS ON HARRISBURG PIKE. I THINK IT'S IMPORTANT TO TALK ABOUT THE ZONING MAP AND MAYBE TO A CERTAIN EXTENT the comprehensive plan future land use map as well the um the location or the data center that has been proposed at the greenfield road location is in the suburban manufacturing zoning district the map on the left you can see it's in the top right corner in the blue color and then the harrisburg pike location is in that lavender color it's in the central manufacturing zoning district and it's sort of in the top left, fairly close to Longs Park. So one of the things I just wanted to say in general here, I think there may be more questions about this, but it is not lawful for us as a municipality to exclude any particular land use in the city, including data centers. Our comp plan and our zoning ordinance determines where specific uses are best suited. So I know there has been a lot of consternation about the zoning determination related to the Greenfield Road site, for example. I know there's some granular issues there at play, but just wanted to start with the suburban manufacturing zoning district itself. I want to read you the definition from that particular zoning district in our zoning code. Okay. So again, this is suburban manufacturing. not a lot of uh this district does not cover a lot of land in the city but this is where the 216 greenfield road is located the suburban manufacturing district is intended to accommodate the most intense industrial uses which have greater land area requirements and need for close proximity to regional transportation networks including railway and limited access highways there's more there related to other commercial and retail uses but i think that that applies most to what we're talking about here in the case of a data center before we jump into the content of the ordinance I think you all have a copy of the draft ordinance in front of you and I believe it's been shared with the audience as well and we'll get into some of the components of that ordinance shortly I would like to acknowledge the work that community stakeholders have already done here for example we have read and incorporated ideas from example ordinances that were provided to us some time ago mr kenneth weeks who's one of our city planning commissioners provided us some information an example we also took a look at the document that mr arcolio provided to city at the last city council meeting as well and that along with a lot of of other resources that we've looked at have gone into this process. I'm going to take the ordinance a piece at a time. We're not going to have time to go through every word or every section, but I do want to highlight parts of it because I think it will be helpful for the dialogue. First of all, as with any ordinance, we start with the whereas clauses. The intent here is to frame the purpose and need of this change to our code. Question one is the definition of the data center, and this part is important. So per the draft ordinance, a data center is a facility whose primary purpose is to centralize storage, processing, management or dissemination of digital data, information or applications. This includes but is not limited to server farms, cloud computing hubs, co-location centers and telecommunications switching hubs. Data centers typically house large-scale computer systems and supporting infrastructure, such as backup generators, cooling systems, and uninterruptible power supplies. A data center generally includes environmental controls, such as air conditioning and fire suppression, redundant-slash-backup power supplies, redundant data communications connections, and high security. There's a lot there. There's a lot to consider, and I wanted to read the definition because it's important as we consider how we're dealing with these different parts of what a data center actually is. In addition to that, the next part of the ordinance is related to the table of permitted uses. You can see here, this is an excerpt from the manufacturing and industrial portion of the table that governs the acceptable uses here. Essentially, what this is saying is that data centers would be prohibited or not allowed in any of the zoning districts throughout the city, with the exception of suburban manufacturing and central manufacturing. Now, in this proposal, that use, data centers, would not be allowed by right. They would be allowed by special exception. And that applies to the content, really, of the rest of the ordinance here data centers would only be granted that special exception by the zoning hearing board through the meaning of those of the standards that are outlined here are detailed here in the zoning ordinance I know this is very dense so I'm going to take a pause there that was really the first introduction framing of the data of the data center ordinance before we start to get into more of the details related to uh the standards uh do council members have any"
+    },
+    {
+      "block_id": 126,
+      "speaker": "SPEAKER_26",
+      "start": 8297.63,
+      "end": 8311.87,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the retroactive application of a zoning amendment to data centers.",
+      "text": "CRAIG AND THANK YOU DIRECTOR DELVES AND CITY STAFF FOR YOUR THOROUGHNESS IN THIS ZONING AMENDMENT MY QUESTION IS IF APPROVED WILL THIS RETROACTIVELY APPLY TO THE TWO DATA CENTERS THAT ARE CURRENTLY"
+    },
+    {
+      "block_id": 128,
+      "speaker": "SPEAKER_26",
+      "start": 8377.14,
+      "end": 8396.4,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking for additional metrics to verify the data centers' efforts to use renewable energy.",
+      "text": "Thank you. And my final question, which you just mentioned, is the text amendment states that data centers shall make good faith efforts to maximize use of renewable and or clean energy. Other than the verifiable power purchase agreements, what other metrics do we have to show that"
+    },
+    {
+      "block_id": 133,
+      "speaker": "SPEAKER_07",
+      "start": 8539.54,
+      "end": 8595.48,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses concerns regarding noise and the city's regulatory capabilities.",
+      "text": "council as a whole councilor hirsch uh thank you director delfts um kind of a question kind of a comment and it might come across as odd but I know for me and as far as evaluating you know what the zoning can do and and what the city can do and regulate and as far as what some of my concerns are I would say noise is definitely one that I have and I would just hope that the city would consider evaluating that at night and um and during the day because i know there's been talk about other ambient sound kind of um that it being neutral with that sound but um just making sure that we're evaluating that at all times of the day because these are operating um you know 24 7."
+    },
+    {
+      "block_id": 137,
+      "speaker": "SPEAKER_15",
+      "start": 8734.6,
+      "end": 8806.43,
+      "speaker_name": "matthew barden",
+      "reason": "The speaker identifies as a resident and expresses concerns about the proposed facility's lack of detail.",
+      "text": "COMMENTS FROM THE PUBLIC. CAN YOU FIRST START WITH YOUR name and your block of residence my name is matthew barden i'm on the 800 block of north prince thank you we can see this this document tacitly acknowledges the numerous potential downsides of this facility to the community energy and water use and pollution chief among them to all acknowledge the glaring lack of detail around the proposed limits of this facility at this time what i'm failing to see is the benefit to the city at large or any individual residents of lancaster this kind of facility creates no meaningful number of community jobs provides no necessary or desired local service. Any argued tax benefits to the community would ignore the long-standing tradition in this country of corporate entities evading their responsible tax burdens to the local community, and even ignoring that, pale in comparison to the litany of medical issues that these facilities have already proven to lead to in the short term, and that doesn't even account the currently unproven long-term environmental and health impacts. There's no amount of financial benefit offered by these data centers that could conceivably offset the corresponding detriment to public health and welfare. It's very easy to find"
+    },
+    {
+      "block_id": 138,
+      "speaker": "SPEAKER_24",
+      "start": 8806.43,
+      "end": 8810.01,
+      "speaker_name": "unknown",
+      "reason": "The speaker is sharing a concern about the impact of data centers on communities.",
+      "text": "stories about communities that have suffered because of these data centers but i've yet to"
+    },
+    {
+      "block_id": 139,
+      "speaker": "SPEAKER_15",
+      "start": 8810.01,
+      "end": 8813.67,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding the community's reaction to data centers.",
+      "text": "see a single story of a community glad to have them i think we should sit and think on that"
+    },
+    {
+      "block_id": 142,
+      "speaker": "SPEAKER_04",
+      "start": 9232.49,
+      "end": 9294.65,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions about zoning rules and corporate accountability regarding new centers in the community.",
+      "text": "over on king and lime street i i just have a couple questions um i would like to see uh how the zoning rules would be regulated um and additionally uh what kind of consequences there will be for these corporations who are establishing these centers in our community right now i haven't been to any of the earlier meetings but right now i'm looking at a few pages with a lot of vague wording no metrics and no accountability and that really concerns me i moved all the way across the country with my wife we want to start a new life here and we don't want want to see it destroyed for a few dozen jobs so if we could revise it a little bit and get some hard numbers get some facts get some figures from the other data centers like the other gentleman said they're affecting other cities and states across America with these giant data centers the health the environment that would be greatly appreciated and I'm very happy to be before you and allowed to give public comment and we would love to see that continue thank"
+    },
+    {
+      "block_id": 143,
+      "speaker": "SPEAKER_18",
+      "start": 9294.65,
+      "end": 9366.74,
+      "speaker_name": "Taylor Enterline",
+      "reason": "The speaker identifies as a community organizer and expresses thanks and support for the ordinance.",
+      "text": "thank you thank you like set up from back there but uh my name is taylor enterline i'm a community organizer with lancaster stands up i'm from the manheim borough can you hear me now better um my name is taylor enterline i'm a community organizer with lancaster stands up i'm part of manheim borough though i just wanted to really thank council and y'all's two time for taking the time to write this um ordinance it's very important my favorite part is in terms of the need for community input especially for the community taxing and costs that will be on our folks here and wanting to point out of the fact that one individual went behind the backs of many people to sell out our community for big tech and now we have to go through all this to make sure that amendments are made so my hope is that once we get the answers if this would be RETROACTIVE AND AROUND THE COMMUNITY BENEFITS AGREEMENT, HOPING THAT THERE'S AN OPEN FORUM FOR OUR FOLKS TO ACTUALLY HAVE INPUT ON THAT BEFORE ANY DECISIONS ARE MADE ARE REALLY IMPORTANT. THANK YOU FOR YOUR TIME."
+    },
+    {
+      "block_id": 145,
+      "speaker": "SPEAKER_02",
+      "start": 9376.23,
+      "end": 9462.59,
+      "speaker_name": "TAYLOR RAYMOND",
+      "reason": "The speaker identifies themselves and expresses concerns regarding the data center development.",
+      "text": "TAYLOR RAYMOND, 500 BLOCK OF ST. JOSEPH STREET. I AGREE WITH EVERYONE WHO'S SPOKEN PREVIOUSLY, THEY ARE A LOT MORE ELOQUENT AND SMARTER THAN ME IN REGARDS TO THE DATA Center I have a couple of questions so if a if a plan is approved and the data center is developed and then what they submitted doesn't or what they do doesn't live up to what they submitted it doesn't meet the requirements what consequences do they suffer under this current zoning ordinance or under the proposed one and then additionally about the community benefits agreement so I looked up just a basic definition of what that was just to make sure I knew what I was talking about and it says that it is a contract signed by community groups and a real estate developer so I wanted to know what community groups are involved in that um because i don't i don't know of any and i would love to know if there are any um that are being included thank you can i get some answers on those um"
+    },
+    {
+      "block_id": 152,
+      "speaker": "SPEAKER_28",
+      "start": 9536.38,
+      "end": 9565.9,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing a topic (zoning enforcement) and providing detailed information, suggesting they are a community member offering input.",
+      "text": "thank you thank you so zoning enforcement is already written in the zoning ordinance it's a set procedure the zoning officer if there is an enforcement issue a complaint or a violation he would investigate that complaint and he would file a notice of violation that would go through the process that can be appealed to the zoning hearing board the notice of violation can or at who can make changes to any approvals they have they can uphold it they can deny it but it would"
+    },
+    {
+      "block_id": 154,
+      "speaker": "SPEAKER_28",
+      "start": 9572.62,
+      "end": 9591.9,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing legal recourse regarding a concern or issue.",
+      "text": "yes they can if they don't address the the concern or the issue after a notice of a violation is sent in um and no action has been taken we can file with the district magistrate on those um i would foresee that probably not happening with this it doesn't happen frequently but it"
+    },
+    {
+      "block_id": 156,
+      "speaker": "SPEAKER_27",
+      "start": 9610.32,
+      "end": 9629.52,
+      "speaker_name": "sophia pangburn",
+      "reason": "The speaker identifies herself as a resident and asks a clarifying question about a zoning issue.",
+      "text": "hello my name is sophia pangburn i'm from the 200s block of king street and i just want to 100 clarify just to make sure that i understand this correctly that even if this zoning uh thing is passed it doesn't necessarily apply to the two warehouses that are currently already"
+    },
+    {
+      "block_id": 164,
+      "speaker": "SPEAKER_07",
+      "start": 10177.74,
+      "end": 10190.22,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the proposed legislation during the committee meeting.",
+      "text": "THANK YOU SO MUCH FOR THE PRESENTATION. MY QUESTION IS, WILL THIS ALSO CAPTURE SOMEONE THAT WOULD ILLEGALLY TURN RIGHT IN A NO TURN ON RED SITUATION?"
+    },
+    {
+      "block_id": 166,
+      "speaker": "SPEAKER_07",
+      "start": 10198.41,
+      "end": 10232.15,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a personal concern and support for a city initiative regarding dangerous driving.",
+      "text": "AND I JUST WANT TO MAKE A COMMENT IN SUPPORT OF THIS BECAUSE I WITNESS IT EVERY DAY, PEOPLE RUNNING RED LIGHTS. IT'S INCREDIBLY DANGEROUS. I HAD A DEAR FRIEND WHO WAS HIT, SEVERELY INJURED BOTH PHYSICALLY AND EMOTIONALLY, MENTALLY, AND I'M JUST REALLY GLAD TO SEE THE CITY PURSUE THIS IN OUR NEST BECAUSE I THINK IT'S LONG OVERDUE. THANK YOU. ANY OTHER QUESTIONS FROM"
+    },
+    {
+      "block_id": 168,
+      "speaker": "SPEAKER_20",
+      "start": 10234.73,
+      "end": 10265.98,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion regarding the financial implications of a city program.",
+      "text": "THANK YOU, COUNCILOR DIAZ. MS. MCCORMICK, THANK YOU SO MUCH. THIS IS VERY EXCITING. and i would echo council herch's comments and support i also just want to put a fine point on the fact that because this will be the headline right this is the city is trying to make money so to confirm we cannot make any money off of this program because after we are reimbursed for our time and we pay for the technology it goes to the state of pennsylvania is that correct absolutely"
+    },
+    {
+      "block_id": 170,
+      "speaker": "SPEAKER_19",
+      "start": 10284.94,
+      "end": 10371.97,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about the city's reliance on trapping residents for funding safety measures.",
+      "text": "UM WHERE I'M NOT YOU KNOW PRO HELPING THE POLICE UM I DO BELIEVE WE HAVE AN ENORMOUS AMOUNT OF HIT runs in this city that do not get solved so um yes where safety is concerned we do need new measures but we shouldn't be relying on trapping our residents to make money um i get that our city needs to find ways to pay for it but it shouldn't be coming from trapping our residents no matter what that looks like if that is paying attention to if they turned right on red um we pay out our wazoos to live in lancaster as it stands right now with the way our cost of living is and where i like i said i do believe we need to do something because safety is prevalent um i also know somebody that was in a hit and run um at the beginning of this year and they suffered immensely so yes we do need to do something but i don't believe that we should be searching for ways to entrap people to fix our financial issues i know but that was the statement that was made about whether we were going to make any money off of this and no we're not where it needs to happen it shouldn't be about if we're going to make money off of it it should be about if our residents are"
+    },
+    {
+      "block_id": 173,
+      "speaker": "SPEAKER_10",
+      "start": 10419.01,
+      "end": 10542.4,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident and expresses concerns regarding safety studies.",
+      "text": "skycus i'm a resident on 300 west lemon that block um there's there definitely are studies that don't necessarily show it improves safety um i was looking at one right here before uh i didn't didn't know this was on the agenda uh and so i uh i can provide that for anyone who wants uh it essentially was a study in houston saying they stopped the red light cameras and they said well we're not totally sure whether or not it improved safety or not and slam on the brakes when they were like you know just about to uh like blow it i'm saying like much earlier creating you know dangerous incidents i've been in the car in front or you know behind those people who have been in those situations. I don't necessarily believe that this will improve safety. I think it might just change the accidents that we're seeing here in Lancaster. I would also just say that anecdotally from, well, from where, you know, I grew up, I'm very happy to be living in Lancaster, but in the Chicagoland area, there's a lot of bureaucracy in fighting tickets and Google shirts can show that there have even been instances with these red light camera companies i'm not sure if it'll be the same one servicing the city but in getting completely wrong license plates uh of people who they said oh this is your car and it actually wasn't their car it was someone else's car and there was no way to uh to fight it people had a hard time doing that so i would just if this was going to go into place i would make sure that there would be a robust system for people to fight the tickets uh so that they didn't get wrongfully ticketed because you know they are pricey um and i would echo the previous commenters uh the speaker's thoughts about other ideas for safer streets like you know you can narrow the streets i i'm just saying there's other ideas too that we don't necessarily need to resort to just red light cameras to slow down people so please do not pass"
+    },
+    {
+      "block_id": 174,
+      "speaker": "SPEAKER_05",
+      "start": 10542.4,
+      "end": 10683.46,
+      "speaker_name": "john allison",
+      "reason": "The speaker identifies as a resident and expresses concerns about the administrative burden of a new system.",
+      "text": "this good evening my name is john allison 400 block of west lemon streets um my largest concern is going to be the administrative burden that is placed upon the residents of lancaster just seeing if there is a false signal or something like that how the appeals process is going to go it's an automated system so it's basically placing the majority of that administrative burden on lancaster uh residents as well as i was looking at the proposal i saw it cost about a hundred thousand dollars per traffic light and i'm just wondering if this is the best use of funds compared to having other public safety measures throughout lancaster um one of the things i've seen a lot of times while i'm driving around the city is not is the motorized bicycles or the uh different types of scooters that people uh ride around very fast and i've there's been numerous accidents here in the city where people have been where they run red lights none of those vehicles are required to have license plates or have any ability to be fined because they're more like a bicycle than they are a commuting traffic like a commuter car or a motorcycle when i see that they are as much of a danger or in as much a danger as a motorcycle going with within the speed limits on city property or like it within the city limits so those are my two things that i think is just if we're looking at this potential uh administrative burden. And then I'm just wondering if that's going to actually stop people going through the red lights. I know in the early mornings, a lot of people go through, especially down like Prince Street, and they'll use the progressive green lights to start almost preemptively going through the red lights. I know that can cause accidents. So I just wanted to know what that is. And then also the time difference between someone, let's say they enter a yellow light, when does that red light cameras start taking effect like are they if they're halfway through the intersection when it turns red because of some of these traffic signals are very very fast so I just want to know what when people are going to be get penalized and if so do we know any more additional information"
+    },
+    {
+      "block_id": 177,
+      "speaker": "SPEAKER_05",
+      "start": 10720.09,
+      "end": 10749.93,
+      "speaker_name": "unknown",
+      "reason": "The speaker is suggesting an alternative use of funds regarding streetlights and emergency response.",
+      "text": "Some other question I'd ask is, could we also possibly spend better money by installing more opticons on the streetlights for emergency response vehicles? I know that a lot of the streets of the city, especially around the hospital, where there are a lot of emergency response vehicles, they don't have the ability to have opticons or areas where those could be actually very well implemented compared to installing these red light street cameras. So instead of having emergency vehicles cutting across traffic on a green light, instead of"
+    },
+    {
+      "block_id": 185,
+      "speaker": "SPEAKER_24",
+      "start": 10930.24,
+      "end": 10954.93,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a personal concern about crosswalk safety while acknowledging other viewpoints.",
+      "text": "by pen dot okay um appreciate it because i've i've been hit twice in a crosswalk walking on green so i definitely uh in very um want to see more safety in crosswalks but at the same time you know i've heard some good good comments here don't want to make sure that we're exacerbating"
+    },
+    {
+      "block_id": 186,
+      "speaker": "SPEAKER_13",
+      "start": 10954.93,
+      "end": 11017.66,
+      "speaker_name": "Susie Hoover",
+      "reason": "The speaker is sharing a personal experience regarding speeding in the city.",
+      "text": "any problems um so anyway thanks all right quickly i just uh susie hoover um i was out of state for an event with the family and my hostess who was older had me drive and as i drove through the city and i did not know this she said drive faster and i said no but the speed limit says this she said don't worry when i got home i did have two photographs of my car speeding with this type of system i didn't go through a red light it was actually on the street and i went there was my license plate there was the camera clearly it was me so i actually got points out of it i almost thought about writing my uh writing my hostess but she was such a cool lady i thought i wouldn't and i just paid it but this system does work it does work thank you and just to reiterate this is not"
+    },
+    {
+      "block_id": 189,
+      "speaker": "SPEAKER_26",
+      "start": 11137.06,
+      "end": 11143.38,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the legal review of a resolution.",
+      "text": "public safety committee my questions were was there any legal review of this resolution when"
+    },
+    {
+      "block_id": 195,
+      "speaker": "SPEAKER_26",
+      "start": 11254.19,
+      "end": 11280.16,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about a resolution lacking input from key city offices.",
+      "text": "finished oh you're not finished and and lastly i would just you know like to note that you know without any robust input from the solicitor's office from the chief of police and given that we're going to have a new chief of police a new administration and a new public safety commission um i don't think this resolution is appropriate and that's my final comment i would also like"
+    },
+    {
+      "block_id": 198,
+      "speaker": "SPEAKER_07",
+      "start": 11364.29,
+      "end": 11370.16,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses discomfort regarding concerns and lack of answers.",
+      "text": "definitely do not feel comfortable with this given all of those concerns and not getting"
+    },
+    {
+      "block_id": 202,
+      "speaker": "SPEAKER_20",
+      "start": 11420.34,
+      "end": 11473.61,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concerns and questions regarding a proposed police social worker's access to personnel records.",
+      "text": "comment thank you um i i had ample opportunity to review this because i think this has come up for three months now and i have some lingering questions um most notably about the participation of the police social worker that's proposed here as an employee of the police department i would I would be very concerned about having another employee have access to personnel records. That seems to me a pretty distinct violation. I think that it, that just speaks to the nature of this particular bill being written without any sort of regard or legal review. It seems like from an employment law perspective, that that seems pretty basic. Is there, did anyone look at this an employment law perspective when it was drafted that i did not go through but i can thank you"
+    },
+    {
+      "block_id": 204,
+      "speaker": "SPEAKER_19",
+      "start": 11652.82,
+      "end": 11894.17,
+      "speaker_name": "Jessica Lopez",
+      "reason": "The speaker identifies as a Lancaster city resident and expresses a concern regarding police trust and background checks.",
+      "text": "trust in our police thank you jessica lopez lancaster city resident and thank god we're finally at this point um i want to say that it's kind of disappointing where i can't stand all the way with this resolution i feel like it's very disappointing that jews aren't taking this serious that youse aren't doing the background search since march 2nd to find a way to quell the distrust between city council our police department and our city residents the fact that tony had to create some type of proposal and then get the one most pro-police city council member we have to put this forward says a lot um i think that being i can't stand with it being that our city solicitor just signed on with our district attorney to try to silence the transparency in the march 2nd video incident that we're still fighting for we can't trust that our city is here to protect us they are literally meeting november 4th on election day to decide whether these body cam footages are allowed or not who's going to be in that courtroom that's sitting up here that vowed to protect us i would hope that you know the protection of our children would be more important than elections and stuff and when that court proceeding goes on november 4th somebody from city council will be there because these are very important decisions that are being made no this police working group as it stands right now i cannot stand with i can't agree with we do need an authoritative stance from our community to our police department we do need a voice at the table when that collective bargaining agreement is being revisited coming up we do need a say in our own protection because every response that came from you guys to this proposal is if the police were going to be protected in this and not if the community was actually going to be protected we asked if a social worker being involved is going to release police information what about the protection of our residents that's what we're asking for it might not look like this police working group that was proposed to you but it does look like the the ass for the last eight months since that bike incident transpired outside all we're asking for is for you to really do what you said jews would do when you ran to get up here like that's sad i mean there's times i've come up and spoken for you there's times i've come up and spoken on behalf of a lot of things that people are proposing up here and yet again every day you sit in these seats and do not speak for us but we're worried about the protection of our police officers yes there is a working group in pittsburgh that oversees their police department there's also a court watch set up in pittsburgh pittsburgh does a lot to protect their residents not just capitalize on them lancaster literally sat here for hours pushed this to the very end and then acted like our ass are wrong no we need protection and we put y'all in place to do it so if we need lawyers to review and figure out how we can legally get a resident review board of our police department that's y'all job that's not tony's job that's not this community's job that's your guys's job to figure out how to protect the people that put you in place so yes we do need a police working group it's not the one that is put in this proposal that this does need table though it doesn't need revisited and you need to do your job to make it so that this resolution fits our"
+    },
+    {
+      "block_id": 212,
+      "speaker": "SPEAKER_07",
+      "start": 12183.39,
+      "end": 12234.88,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a strong opinion against a proposal, citing community expectations.",
+      "text": "making a motion to to table um you know i i i i i will state again that i do not support this for the reasons that were aforementioned that it creates a misalignment between the community's expectations and reality and that that's kind of the issue at hand and that's that's that's kind of emblematic to me of the conversations i've been having of people who saw this and said well i don't like that there's three police officers on it and i don't like that it doesn't have teeth and there is no such you know as the mayor stated there's not there's no example of that in pennsylvania so i i i don't support it and i'm i like i'm tabling it as in like i'm done with the conversation um and if that means we have to table it until january 2026 that's my motion"
+    },
+    {
+      "block_id": 216,
+      "speaker": "SPEAKER_18",
+      "start": 12326.78,
+      "end": 12405.21,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering a response and opinion regarding policy direction.",
+      "text": "the intent um yes ma'am um i just i wanted to respond um to everyone in the mayor specifically is i don't think i i think you're right like we can look at other places in pa and try and see what we can resemble i don't think what what i'm saying is i don't think we should recreate what came out of 2020 and died and nothing came out of it but i think is like we should there should be a conversation of what we can like move forward i know we're not going to get every little thing in terms of what it is with teeth i know in terms of the state level in terms of here locally in terms of like dealing with the da's office but i do think there are ways that we can work together to get something that is more substantial than what was proposed and that there's a conversation that can continue to be had outside of what is proposed as well i i don't know the exact date um in terms of when the next bargaining uh like contract goes in or um what those conversations need to be had even before you know a new administration comes in or before a new chief comes in like I think groundwork can continue to be laid outside of what is proposed and I would hope that we don't table till indefinitely that there's conversations that are still happening outside of what"
+    },
+    {
+      "block_id": 219,
+      "speaker": "SPEAKER_06",
+      "start": 12598.33,
+      "end": 12641.82,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing police oversight and transparency in relation to city matters.",
+      "text": "holland avenue citizens police oversight commission out in philadelphia appears to have some teeth to it um the commission works to increase the transparency they're a class one city mr dastra they operate under different rules yeah and we also need to get police accreditation to get red light cameras there are certain mechanisms so i guess what i'm really trying to make the point of is that you asked for another municipality i gave you one what we as the public need is education on this perspective this goes all the way back to other issues we should have like if we're going to work on this you wanted reports from the police right on this issue let's let's lay it out on paper like here's why I have been talking about"
+    }
+  ]
+}

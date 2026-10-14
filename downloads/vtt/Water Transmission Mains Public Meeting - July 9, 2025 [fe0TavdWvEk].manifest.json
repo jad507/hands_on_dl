@@ -1,0 +1,68 @@
+{
+  "source": "Water Transmission Mains Public Meeting - July 9, 2025 [fe0TavdWvEk].json",
+  "title": "Water Transmission Mains Public Meeting - July 9, 2025",
+  "video_id": "fe0TavdWvEk",
+  "rttm_mode": "standard=exclusive",
+  "concord_import": {
+    "scheme": "turn",
+    "maxMergeGapSeconds": -1,
+    "why": "mergeCues tests `gap <= maxMergeGapSeconds`, so 0 still merges adjacent cues. A negative value is the only one that preserves the block spine."
+  },
+  "stats": {
+    "n_blocks": 5,
+    "n_cues": 5,
+    "n_empty_skipped": 0,
+    "n_angle_brackets_escaped": 0,
+    "invalid_speaker_labels": [],
+    "same_speaker_adjacent_pairs": [],
+    "would_merge_at_concord_default_30s": 0,
+    "required_max_merge_gap_seconds": -1
+  },
+  "cues": [
+    {
+      "cue": 1,
+      "block_id": 0,
+      "speaker": "SPEAKER_00",
+      "start": 2.64,
+      "end": 51.57,
+      "category": "recurring",
+      "word_count": 94
+    },
+    {
+      "cue": 2,
+      "block_id": 1,
+      "speaker": "SPEAKER_01",
+      "start": 56.08,
+      "end": 333.82,
+      "category": "recurring",
+      "word_count": 616
+    },
+    {
+      "cue": 3,
+      "block_id": 2,
+      "speaker": "SPEAKER_00",
+      "start": 333.82,
+      "end": 596.45,
+      "category": "recurring",
+      "word_count": 524
+    },
+    {
+      "cue": 4,
+      "block_id": 3,
+      "speaker": "SPEAKER_01",
+      "start": 601.12,
+      "end": 664.98,
+      "category": "recurring",
+      "word_count": 122
+    },
+    {
+      "cue": 5,
+      "block_id": 4,
+      "speaker": "SPEAKER_00",
+      "start": 664.98,
+      "end": 679.3,
+      "category": "recurring",
+      "word_count": 32
+    }
+  ]
+}

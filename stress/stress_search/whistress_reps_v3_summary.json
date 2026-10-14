@@ -1,0 +1,2173 @@
+{
+  "clips": 593,
+  "videos": 90,
+  "qa_only": true,
+  "all_videos": {
+    "whistress": {
+      "n_videos": 90,
+      "mean_distinct": 3.68,
+      "mean_coverage": 0.562,
+      "distinct_ge3": 64,
+      "distinct_ge5": 29,
+      "distinct_eq1": 8
+    }
+  },
+  "videos_with_detector_evidence": {
+    "whistress": {
+      "n_videos": 80,
+      "mean_distinct": 3.44,
+      "mean_coverage": 0.533,
+      "distinct_ge3": 54,
+      "distinct_ge5": 21,
+      "distinct_eq1": 8
+    },
+    "detector_single_utt": {
+      "n_videos": 80,
+      "mean_distinct": 2.76,
+      "mean_coverage": 0.453,
+      "distinct_ge3": 50,
+      "distinct_ge5": 4,
+      "distinct_eq1": 7
+    },
+    "detector_cross_rep": {
+      "n_videos": 80,
+      "mean_distinct": 3.98,
+      "mean_coverage": 0.647,
+      "distinct_ge3": 76,
+      "distinct_ge5": 20,
+      "distinct_eq1": 0
+    }
+  },
+  "rep_agreement_with_cross_rep_detector": {
+    "whistress": {
+      "n_videos": 40,
+      "mean": 0.399
+    },
+    "detector_single_utt": {
+      "n_videos": 40,
+      "mean": 0.493
+    }
+  },
+  "per_video": [
+    {
+      "video_id": "-Usf78IP0yA",
+      "n_words": 5,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.6,
+        "walk": 4,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.8,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.6,
+        "walk": 3,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "01VfrhsYH0A",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 2,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 2,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.5,
+      "agree_single_cross": 0.5
+    },
+    {
+      "video_id": "196G8sHNdo4",
+      "n_words": 6,
+      "whistress": {
+        "distinct": 4,
+        "coverage": 0.667,
+        "walk": 5,
+        "reps": 9
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 0.907,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.667,
+        "walk": 2,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "1Gu6zhp5Bq8",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 4,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 3,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 4,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.25,
+      "agree_single_cross": 0.5
+    },
+    {
+      "video_id": "1QR3zLzrqfI",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 1,
+        "coverage": 0.25,
+        "walk": 6,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 1.0,
+        "walk": 4,
+        "reps": 6
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 3,
+        "reps": 6
+      },
+      "agree_whistress_cross": 0.16666666666666666,
+      "agree_single_cross": 0.5
+    },
+    {
+      "video_id": "2jCAlyNj0Mk",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 7,
+        "reps": 10
+      },
+      "whistress_zero_stressed": 2,
+      "whistress_words_aligned": 0.825,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 3,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 4,
+        "reps": 5
+      }
+    },
+    {
+      "video_id": "31kPZRHD6CI",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 4,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 3,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 1.0,
+        "walk": 2,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 2,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "4Iqrm82LED4",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 7,
+        "coverage": 1.0,
+        "walk": 7,
+        "reps": 8
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 7,
+        "coverage": 1.0,
+        "walk": 7,
+        "reps": 8
+      },
+      "detector_single_utt": {
+        "distinct": 5,
+        "coverage": 0.714,
+        "walk": 7,
+        "reps": 8
+      },
+      "agree_whistress_cross": 0.875,
+      "agree_single_cross": 0.625
+    },
+    {
+      "video_id": "5EmVMEQAb94",
+      "n_words": 5,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.4,
+        "walk": 3,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 2,
+        "coverage": 0.4,
+        "walk": 2,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.6,
+        "walk": 2,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "68TlhbC_7ns",
+      "n_words": 8,
+      "whistress": {
+        "distinct": 6,
+        "coverage": 0.75,
+        "walk": 6,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.25,
+        "walk": 3,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "6_DjdejXBwQ",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.25,
+      "agree_single_cross": 0.25
+    },
+    {
+      "video_id": "6fcdSQEon7E",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.429,
+        "walk": 3,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 2,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.429,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 1,
+        "coverage": 0.143,
+        "walk": 4,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.5,
+      "agree_single_cross": 0.0
+    },
+    {
+      "video_id": "7206603022649036037",
+      "n_words": 6,
+      "whistress": {
+        "distinct": 5,
+        "coverage": 0.833,
+        "walk": 5,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 0.967
+    },
+    {
+      "video_id": "7285785586974133509",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 7,
+        "coverage": 1.0,
+        "walk": 7,
+        "reps": 7
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0
+    },
+    {
+      "video_id": "7608585563586710804",
+      "n_words": 6,
+      "whistress": {
+        "distinct": 4,
+        "coverage": 0.667,
+        "walk": 5,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 0.867
+    },
+    {
+      "video_id": "7650568063812717838",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 5,
+        "coverage": 0.714,
+        "walk": 5,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0
+    },
+    {
+      "video_id": "7655073094578490644",
+      "n_words": 9,
+      "whistress": {
+        "distinct": 5,
+        "coverage": 0.556,
+        "walk": 5,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0
+    },
+    {
+      "video_id": "7660492521906146580",
+      "n_words": 9,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.333,
+        "walk": 3,
+        "reps": 3
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 0.926
+    },
+    {
+      "video_id": "7663192709049617684",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 6,
+        "coverage": 0.857,
+        "walk": 6,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0
+    },
+    {
+      "video_id": "7667553698893024525",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 7,
+        "coverage": 1.0,
+        "walk": 7,
+        "reps": 8
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0
+    },
+    {
+      "video_id": "7667605758195797268",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 7,
+        "coverage": 1.0,
+        "walk": 7,
+        "reps": 8
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 1.0
+    },
+    {
+      "video_id": "7673783250568973576",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 7,
+        "coverage": 1.0,
+        "walk": 7,
+        "reps": 7
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0
+    },
+    {
+      "video_id": "8ZOIiEAMz9s",
+      "n_words": 6,
+      "whistress": {
+        "distinct": 1,
+        "coverage": 0.167,
+        "walk": 4,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 4,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.333,
+        "walk": 4,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.0,
+      "agree_single_cross": 0.75
+    },
+    {
+      "video_id": "8dHDFirZVZY",
+      "n_words": 14,
+      "whistress": {
+        "distinct": 4,
+        "coverage": 0.286,
+        "walk": 4,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.286,
+        "walk": 4,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.143,
+        "walk": 3,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.75,
+      "agree_single_cross": 0.5
+    },
+    {
+      "video_id": "9rbnSTRTF-Y",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 12,
+        "reps": 14
+      },
+      "whistress_zero_stressed": 14,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 1.0,
+        "walk": 4,
+        "reps": 7
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 4,
+        "reps": 7
+      }
+    },
+    {
+      "video_id": "BLEXP2ROyRU",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 1,
+        "coverage": 0.143,
+        "walk": 4,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.429,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 1,
+        "coverage": 0.143,
+        "walk": 4,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.0,
+      "agree_single_cross": 0.25
+    },
+    {
+      "video_id": "ECVS-AGRNQw",
+      "n_words": 6,
+      "whistress": {
+        "distinct": 5,
+        "coverage": 0.833,
+        "walk": 2,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.667,
+        "walk": 3,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 5
+      }
+    },
+    {
+      "video_id": "FLhV7Ovaza0",
+      "n_words": 5,
+      "whistress": {
+        "distinct": 1,
+        "coverage": 0.2,
+        "walk": 4,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 4,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.8,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.4,
+        "walk": 4,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.25,
+      "agree_single_cross": 0.5
+    },
+    {
+      "video_id": "H2naE8bAxeM",
+      "n_words": 16,
+      "whistress": {
+        "distinct": 4,
+        "coverage": 0.25,
+        "walk": 3,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 0.7,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.25,
+        "walk": 3,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.188,
+        "walk": 3,
+        "reps": 5
+      },
+      "agree_whistress_cross": 0.2,
+      "agree_single_cross": 0.2
+    },
+    {
+      "video_id": "HouoQHlyNaU",
+      "n_words": 10,
+      "whistress": {
+        "distinct": 6,
+        "coverage": 0.6,
+        "walk": 6,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 6,
+        "coverage": 0.6,
+        "walk": 6,
+        "reps": 6
+      },
+      "detector_single_utt": {
+        "distinct": 4,
+        "coverage": 0.4,
+        "walk": 3,
+        "reps": 6
+      },
+      "agree_whistress_cross": 1.0,
+      "agree_single_cross": 0.3333333333333333
+    },
+    {
+      "video_id": "I8511fOHyaw",
+      "n_words": 5,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.6,
+        "walk": 2,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 2,
+        "coverage": 0.4,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.6,
+        "walk": 3,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.0,
+      "agree_single_cross": 0.5
+    },
+    {
+      "video_id": "JpvJ__nhOQU",
+      "n_words": 6,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.5,
+        "walk": 7,
+        "reps": 7
+      },
+      "whistress_zero_stressed": 3,
+      "whistress_words_aligned": 0.976,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.5,
+        "walk": 4,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.5,
+        "walk": 4,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "K0hRJWN9O9c",
+      "n_words": 18,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.111,
+        "walk": 3,
+        "reps": 3
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 0.926,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.167,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.111,
+        "walk": 2,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "LLOopgVk6gc",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 5,
+        "coverage": 0.714,
+        "walk": 7,
+        "reps": 7
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 5,
+        "coverage": 0.714,
+        "walk": 7,
+        "reps": 7
+      },
+      "detector_single_utt": {
+        "distinct": 5,
+        "coverage": 0.714,
+        "walk": 7,
+        "reps": 7
+      },
+      "agree_whistress_cross": 1.0,
+      "agree_single_cross": 0.7142857142857143
+    },
+    {
+      "video_id": "LloFz5fl0Wg",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 4,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 2,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.0,
+      "agree_single_cross": 0.75
+    },
+    {
+      "video_id": "NBocin3yBT4",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 4,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 1.0,
+        "walk": 2,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 2,
+        "reps": 5
+      },
+      "agree_whistress_cross": 0.4,
+      "agree_single_cross": 0.8
+    },
+    {
+      "video_id": "NqU2s2CgrUI",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 6,
+        "coverage": 0.857,
+        "walk": 7,
+        "reps": 8
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 6,
+        "coverage": 0.857,
+        "walk": 7,
+        "reps": 8
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.286,
+        "walk": 6,
+        "reps": 8
+      },
+      "agree_whistress_cross": 0.5,
+      "agree_single_cross": 0.375
+    },
+    {
+      "video_id": "NtGFA7vWjl4",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 1,
+        "coverage": 0.25,
+        "walk": 11,
+        "reps": 11
+      },
+      "whistress_zero_stressed": 5,
+      "whistress_words_aligned": 0.909,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "O57QgP_o7QA",
+      "n_words": 5,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.6,
+        "walk": 4,
+        "reps": 7
+      },
+      "whistress_zero_stressed": 6,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.8,
+        "walk": 4,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.4,
+        "walk": 5,
+        "reps": 5
+      }
+    },
+    {
+      "video_id": "OR81m7Dm968",
+      "n_words": 6,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.333,
+        "walk": 3,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 2,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.5,
+        "walk": 2,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.333,
+        "walk": 2,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.25,
+      "agree_single_cross": 0.75
+    },
+    {
+      "video_id": "PqsH_jQKhpw",
+      "n_words": 17,
+      "whistress": {
+        "distinct": 6,
+        "coverage": 0.353,
+        "walk": 6,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 0.941,
+      "detector_cross_rep": {
+        "distinct": 5,
+        "coverage": 0.294,
+        "walk": 5,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 4,
+        "coverage": 0.235,
+        "walk": 2,
+        "reps": 5
+      }
+    },
+    {
+      "video_id": "QXCpWI0qpys",
+      "n_words": 10,
+      "whistress": {
+        "distinct": 6,
+        "coverage": 0.6,
+        "walk": 7,
+        "reps": 7
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 0.986,
+      "detector_cross_rep": {
+        "distinct": 5,
+        "coverage": 0.5,
+        "walk": 5,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.3,
+        "walk": 4,
+        "reps": 5
+      }
+    },
+    {
+      "video_id": "RcGkHrPSzDc",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.429,
+        "walk": 3,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 2,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.571,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.286,
+        "walk": 4,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.25,
+      "agree_single_cross": 0.25
+    },
+    {
+      "video_id": "S5f0FKhPax0",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 4,
+        "reps": 7
+      },
+      "whistress_zero_stressed": 7,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 1.0,
+        "walk": 3,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 1,
+        "coverage": 0.25,
+        "walk": 5,
+        "reps": 5
+      }
+    },
+    {
+      "video_id": "SGyNGqXqWXY",
+      "n_words": 5,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.6,
+        "walk": 4,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 0.96,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.6,
+        "walk": 4,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.6,
+        "walk": 4,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "SOzRB9fHesQ",
+      "n_words": 8,
+      "whistress": {
+        "distinct": 5,
+        "coverage": 0.625,
+        "walk": 7,
+        "reps": 8
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 0.953,
+      "detector_cross_rep": {
+        "distinct": 5,
+        "coverage": 0.625,
+        "walk": 4,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 5,
+        "coverage": 0.625,
+        "walk": 4,
+        "reps": 5
+      }
+    },
+    {
+      "video_id": "SWfP6kpruPQ",
+      "n_words": 8,
+      "whistress": {
+        "distinct": 4,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 5,
+        "coverage": 0.625,
+        "walk": 2,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.25,
+        "walk": 4,
+        "reps": 5
+      },
+      "agree_whistress_cross": 0.4,
+      "agree_single_cross": 0.2
+    },
+    {
+      "video_id": "TfFt_lC0vxc",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.286,
+        "walk": 4,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 2,
+        "coverage": 0.286,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 1,
+        "coverage": 0.143,
+        "walk": 4,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "U30_A9xmFL8",
+      "n_words": 8,
+      "whistress": {
+        "distinct": 6,
+        "coverage": 0.75,
+        "walk": 10,
+        "reps": 11
+      },
+      "whistress_zero_stressed": 2,
+      "whistress_words_aligned": 0.909,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.5,
+        "walk": 4,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.375,
+        "walk": 4,
+        "reps": 5
+      }
+    },
+    {
+      "video_id": "W1_IRU6zx9g",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 4,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 2,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 4,
+        "reps": 5
+      },
+      "agree_whistress_cross": 0.4,
+      "agree_single_cross": 0.6
+    },
+    {
+      "video_id": "WMwkhnu72hA",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 4,
+        "coverage": 1.0,
+        "walk": 3,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 0.958,
+      "detector_cross_rep": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "WurazV-KrIQ",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 2,
+        "reps": 3
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 4,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 4,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "X02JYzY5eO8",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 7,
+        "coverage": 1.0,
+        "walk": 8,
+        "reps": 8
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 5,
+        "coverage": 0.714,
+        "walk": 6,
+        "reps": 8
+      },
+      "detector_single_utt": {
+        "distinct": 4,
+        "coverage": 0.571,
+        "walk": 6,
+        "reps": 8
+      },
+      "agree_whistress_cross": 0.5,
+      "agree_single_cross": 0.75
+    },
+    {
+      "video_id": "YT2TcLr6y7w",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 4,
+        "coverage": 1.0,
+        "walk": 4,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 1.0,
+        "walk": 4,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 4,
+        "coverage": 1.0,
+        "walk": 4,
+        "reps": 5
+      },
+      "agree_whistress_cross": 1.0,
+      "agree_single_cross": 1.0
+    },
+    {
+      "video_id": "YXSkyQIKPeU",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.429,
+        "walk": 3,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 3,
+      "whistress_words_aligned": 0.524,
+      "detector_cross_rep": {
+        "distinct": 7,
+        "coverage": 1.0,
+        "walk": 4,
+        "reps": 7
+      },
+      "detector_single_utt": {
+        "distinct": 4,
+        "coverage": 0.571,
+        "walk": 6,
+        "reps": 7
+      }
+    },
+    {
+      "video_id": "YtJCvr7G1bY",
+      "n_words": 8,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.375,
+        "walk": 2,
+        "reps": 3
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 0.917,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 4,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "_8UYCo7-fqY",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 5,
+        "coverage": 0.714,
+        "walk": 7,
+        "reps": 7
+      },
+      "whistress_zero_stressed": 3,
+      "whistress_words_aligned": 0.98,
+      "detector_cross_rep": {
+        "distinct": 6,
+        "coverage": 0.857,
+        "walk": 7,
+        "reps": 8
+      },
+      "detector_single_utt": {
+        "distinct": 5,
+        "coverage": 0.714,
+        "walk": 6,
+        "reps": 8
+      }
+    },
+    {
+      "video_id": "_IOkGOwZMe0",
+      "n_words": 6,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.333,
+        "walk": 7,
+        "reps": 8
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.667,
+        "walk": 4,
+        "reps": 8
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.5,
+        "walk": 4,
+        "reps": 8
+      },
+      "agree_whistress_cross": 0.0,
+      "agree_single_cross": 0.875
+    },
+    {
+      "video_id": "_tsSPbAAKjc",
+      "n_words": 15,
+      "whistress": {
+        "distinct": 5,
+        "coverage": 0.333,
+        "walk": 4,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 0.96,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.267,
+        "walk": 2,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.2,
+        "walk": 4,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "arFhTw5QS3U",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.429,
+        "walk": 3,
+        "reps": 3
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 0.857,
+      "detector_cross_rep": {
+        "distinct": 5,
+        "coverage": 0.714,
+        "walk": 3,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.286,
+        "walk": 4,
+        "reps": 5
+      }
+    },
+    {
+      "video_id": "bIBUNreInpU",
+      "n_words": 10,
+      "whistress": {
+        "distinct": 6,
+        "coverage": 0.6,
+        "walk": 6,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 5,
+        "coverage": 0.5,
+        "walk": 6,
+        "reps": 6
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.3,
+        "walk": 5,
+        "reps": 6
+      },
+      "agree_whistress_cross": 0.5,
+      "agree_single_cross": 0.0
+    },
+    {
+      "video_id": "cDVrZ-T7r0g",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 5,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 3,
+      "whistress_words_aligned": 0.85,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "cDZ-aioOJF0",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 6,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 2,
+      "whistress_words_aligned": 0.958,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 5,
+        "reps": 6
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 6,
+        "reps": 6
+      },
+      "agree_whistress_cross": 0.5,
+      "agree_single_cross": 0.8333333333333334
+    },
+    {
+      "video_id": "cciUi_bQ49k",
+      "n_words": 10,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.3,
+        "walk": 3,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.4,
+        "walk": 2,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.3,
+        "walk": 2,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.25,
+      "agree_single_cross": 0.5
+    },
+    {
+      "video_id": "d2SF3DHXeC8",
+      "n_words": 8,
+      "whistress": {
+        "distinct": 4,
+        "coverage": 0.5,
+        "walk": 6,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 6,
+        "coverage": 0.75,
+        "walk": 6,
+        "reps": 6
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.375,
+        "walk": 5,
+        "reps": 6
+      },
+      "agree_whistress_cross": 0.6666666666666666,
+      "agree_single_cross": 0.5
+    },
+    {
+      "video_id": "eYot_tpDj14",
+      "n_words": 6,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 4,
+      "whistress_words_aligned": 0.567,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.667,
+        "walk": 2,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.5,
+        "walk": 2,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "fhhV1N2XJtg",
+      "n_words": 8,
+      "whistress": {
+        "distinct": 1,
+        "coverage": 0.125,
+        "walk": 1,
+        "reps": 1
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 0.75,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 4,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "hJO4EYUs3xs",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 4,
+        "coverage": 0.571,
+        "walk": 4,
+        "reps": 7
+      },
+      "whistress_zero_stressed": 3,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 5,
+        "coverage": 0.714,
+        "walk": 3,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.429,
+        "walk": 4,
+        "reps": 5
+      }
+    },
+    {
+      "video_id": "jjj3ajhFHzI",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 5,
+        "coverage": 0.714,
+        "walk": 4,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 5,
+        "coverage": 0.714,
+        "walk": 4,
+        "reps": 6
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.429,
+        "walk": 4,
+        "reps": 6
+      },
+      "agree_whistress_cross": 0.6666666666666666,
+      "agree_single_cross": 0.3333333333333333
+    },
+    {
+      "video_id": "k8k_rNTDjJM",
+      "n_words": 9,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.333,
+        "walk": 4,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 3,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.444,
+        "walk": 2,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.333,
+        "walk": 3,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "lAvmL_fBXAo",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 5,
+        "reps": 7
+      },
+      "whistress_zero_stressed": 2,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 2,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 1,
+        "coverage": 0.25,
+        "walk": 4,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "lQ9xUAe1UHA",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.286,
+        "walk": 5,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 0.976,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.571,
+        "walk": 3,
+        "reps": 6
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.429,
+        "walk": 5,
+        "reps": 6
+      },
+      "agree_whistress_cross": 0.0,
+      "agree_single_cross": 0.16666666666666666
+    },
+    {
+      "video_id": "m0SstuhI79A",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 1,
+        "coverage": 0.25,
+        "walk": 6,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 4,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 1.0,
+        "walk": 2,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "mwKuYpjeDdM",
+      "n_words": 5,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.6,
+        "walk": 4,
+        "reps": 7
+      },
+      "whistress_zero_stressed": 6,
+      "whistress_words_aligned": 0.971,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.8,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.6,
+        "walk": 3,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "pGE2PZPqkyU",
+      "n_words": 8,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.25,
+        "walk": 6,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 0.75,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.375,
+        "walk": 3,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "re76rPbBrb4",
+      "n_words": 10,
+      "whistress": {
+        "distinct": 4,
+        "coverage": 0.4,
+        "walk": 3,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.4,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 4,
+        "coverage": 0.4,
+        "walk": 3,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.75,
+      "agree_single_cross": 0.75
+    },
+    {
+      "video_id": "s8-cCpVFELI",
+      "n_words": 8,
+      "whistress": {
+        "distinct": 6,
+        "coverage": 0.75,
+        "walk": 7,
+        "reps": 16
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.5,
+        "walk": 4,
+        "reps": 6
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.375,
+        "walk": 5,
+        "reps": 6
+      }
+    },
+    {
+      "video_id": "sBaqJO0t5Z8",
+      "n_words": 10,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.3,
+        "walk": 3,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.4,
+        "walk": 3,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.2,
+        "walk": 3,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.0,
+      "agree_single_cross": 0.5
+    },
+    {
+      "video_id": "t6-DUp8dH6M",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 6,
+        "coverage": 0.857,
+        "walk": 6,
+        "reps": 7
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 5,
+        "coverage": 0.714,
+        "walk": 4,
+        "reps": 7
+      },
+      "detector_single_utt": {
+        "distinct": 1,
+        "coverage": 0.143,
+        "walk": 7,
+        "reps": 7
+      },
+      "agree_whistress_cross": 0.0,
+      "agree_single_cross": 0.0
+    },
+    {
+      "video_id": "uRdFtrv2yGA",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 4,
+        "coverage": 1.0,
+        "walk": 3,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 0.95,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 4,
+        "reps": 7
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 5,
+        "reps": 7
+      }
+    },
+    {
+      "video_id": "uc8AgRPyFe8",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 1,
+        "coverage": 0.25,
+        "walk": 6,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 1.0,
+        "walk": 3,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 4,
+        "reps": 5
+      }
+    },
+    {
+      "video_id": "unOH-8kxLxA",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 4,
+        "coverage": 1.0,
+        "walk": 5,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 1.0,
+        "walk": 3,
+        "reps": 6
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 4,
+        "reps": 6
+      },
+      "agree_whistress_cross": 0.3333333333333333,
+      "agree_single_cross": 0.5
+    },
+    {
+      "video_id": "uuRSmPcmuC8",
+      "n_words": 10,
+      "whistress": {
+        "distinct": 4,
+        "coverage": 0.4,
+        "walk": 3,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.3,
+        "walk": 4,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.3,
+        "walk": 3,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.75,
+      "agree_single_cross": 0.5
+    },
+    {
+      "video_id": "uuxrEyho8Ig",
+      "n_words": 6,
+      "whistress": {
+        "distinct": 5,
+        "coverage": 0.833,
+        "walk": 4,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 5,
+        "coverage": 0.833,
+        "walk": 4,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 4,
+        "coverage": 0.667,
+        "walk": 5,
+        "reps": 5
+      },
+      "agree_whistress_cross": 0.8,
+      "agree_single_cross": 0.8
+    },
+    {
+      "video_id": "uy0vjGFtRe0",
+      "n_words": 4,
+      "whistress": {
+        "distinct": 2,
+        "coverage": 0.5,
+        "walk": 3,
+        "reps": 4
+      },
+      "whistress_zero_stressed": 3,
+      "whistress_words_aligned": 0.875,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.75,
+        "walk": 2,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 1,
+        "coverage": 0.25,
+        "walk": 4,
+        "reps": 4
+      },
+      "agree_whistress_cross": 0.0,
+      "agree_single_cross": 0.25
+    },
+    {
+      "video_id": "vVVB-35oeQE",
+      "n_words": 10,
+      "whistress": {
+        "distinct": 5,
+        "coverage": 0.5,
+        "walk": 4,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.4,
+        "walk": 4,
+        "reps": 6
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.3,
+        "walk": 4,
+        "reps": 6
+      }
+    },
+    {
+      "video_id": "xGQ7OORxRCI",
+      "n_words": 12,
+      "whistress": {
+        "distinct": 5,
+        "coverage": 0.417,
+        "walk": 3,
+        "reps": 6
+      },
+      "whistress_zero_stressed": 1,
+      "whistress_words_aligned": 0.444,
+      "detector_cross_rep": {
+        "distinct": 5,
+        "coverage": 0.417,
+        "walk": 3,
+        "reps": 6
+      },
+      "detector_single_utt": {
+        "distinct": 4,
+        "coverage": 0.333,
+        "walk": 3,
+        "reps": 6
+      },
+      "agree_whistress_cross": 0.0,
+      "agree_single_cross": 0.16666666666666666
+    },
+    {
+      "video_id": "yEf0Fko0gxY",
+      "n_words": 5,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.6,
+        "walk": 4,
+        "reps": 5
+      },
+      "whistress_zero_stressed": 4,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 3,
+        "coverage": 0.6,
+        "walk": 4,
+        "reps": 5
+      },
+      "detector_single_utt": {
+        "distinct": 3,
+        "coverage": 0.6,
+        "walk": 4,
+        "reps": 5
+      },
+      "agree_whistress_cross": 0.6,
+      "agree_single_cross": 1.0
+    },
+    {
+      "video_id": "yJkfjF94YKA",
+      "n_words": 6,
+      "whistress": {
+        "distinct": 3,
+        "coverage": 0.5,
+        "walk": 1,
+        "reps": 3
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 0.889,
+      "detector_cross_rep": {
+        "distinct": 4,
+        "coverage": 0.667,
+        "walk": 2,
+        "reps": 4
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.333,
+        "walk": 4,
+        "reps": 4
+      }
+    },
+    {
+      "video_id": "zdYCW4QH1-Q",
+      "n_words": 7,
+      "whistress": {
+        "distinct": 7,
+        "coverage": 1.0,
+        "walk": 7,
+        "reps": 7
+      },
+      "whistress_zero_stressed": 0,
+      "whistress_words_aligned": 1.0,
+      "detector_cross_rep": {
+        "distinct": 5,
+        "coverage": 0.714,
+        "walk": 7,
+        "reps": 7
+      },
+      "detector_single_utt": {
+        "distinct": 2,
+        "coverage": 0.286,
+        "walk": 6,
+        "reps": 7
+      },
+      "agree_whistress_cross": 0.7142857142857143,
+      "agree_single_cross": 0.42857142857142855
+    }
+  ]
+}

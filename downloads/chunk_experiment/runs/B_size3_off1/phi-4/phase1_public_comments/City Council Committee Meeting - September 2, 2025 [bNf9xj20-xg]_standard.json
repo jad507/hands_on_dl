@@ -1,0 +1,238 @@
+{
+  "title": "City Council Committee Meeting - September 2, 2025",
+  "video_id": "bNf9xj20-xg",
+  "upload_date": "20250903",
+  "model": "phi-4",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-08T01:34:26+00:00",
+    "model": {
+      "name": "phi-4",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\phi-4-Q4_K_M.gguf",
+      "size_bytes": 8890306112,
+      "mtime_utc": "2026-05-22T20:42:10.869793+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    },
+    "chunking": {
+      "p1_chunk_size": 3,
+      "p1_chunk_offset": 1
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_00",
+      "start": 1041.27,
+      "end": 1685.05,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident or stakeholder and presents information for council consideration.",
+      "text": "uh good uh uh thank you tina um for that introduction and great to be before you again as indicated uh we talked about this earlier this year i know time flies here we are in september already um i put before you a narrative and uh some one financing schedule and one graph so hopefully we can walk right through that and make sure you have an understanding of what we're doing and why we're doing it uh and and tina touched on a lot of this but uh clearly you're moving forward with the water transmission line project um i'm not the engineer in public works but as i understand it that's gonna uh you know provide resiliency and redundancy to the sole water main that was put in put in place and put in the ground in uh 1955 uh 1955 and uh you know with that it's certainly reaching towards the end of its useful life um so the total cost of the project is estimated at 41 million dollars um as tina indicated the permanent financing for the project is expected to be secured by pennsylvania infrastructure investment authority most of you know it as penvest and the city and its project engineer in the process moving that application forward um and uh again as tina indicated uh you know due to the expected time required until the the city is prepared to make that application and more importantly, actually receive the funding. You know, it behooves you to to secure this interim financing in the amount of about $32 million. So that you'll can pre order and purchase the primary materials being the pipe hydrants, and fittings, etc. By having those available when you actually go forward and bid the construction phase of the project, you should absolutely certainly expected that you will, you know, one, be able to proceed in a more timely manner to move the project forward. And maybe more importantly, from a cost saving stand standpoint, is you should get better bids for the construction phase because the contract for no, when they get when they put the bid in and get awarded, they're going to get to work right away as opposed to, you know, starting to work six months later with, you know, some unknowns. So I really think that's this is clear this whole plan was really obviously put together by uh department of public works and your engineers etc so we're just helping move that forward and facilitate it with this interim financing um right now we're the the city's at its uh sort of immediate or crucial requirement i don't get too technical but you may have heard this before uh in order to move forward with securing the interim financing that we're going to do you get what's called a letter of no prejudice uh from penvest what that means uh in plain vanilla talk is that by having that letter of no prejudice you can now incur the costs and potentially even pay the cost um before you actually get the penvest financing so it's kind of no prejudice that you can include those costs and roll it into the financing so at the end of the day the interim financing will be paid off and rolled into the lower industry pen best financing, again, as Tina said, instead of including them in the 2025 bonds, so a lot of interest costs saved by rolling the primary costs being the materials into the pen best loan and not doing it under what would be more conventional financing. So with that, page two is really putting together the schedule, not the project schedule intertwined with the financing schedule. I'm going to stress this is tentative. I think you all understand we try to remain fluid and nimble. And I also stress that this is a sequencing schedule. You know, I'm going to put dates here, but understand that if you know kind of an early event slips, that means the whole schedule is going to slip. So I think it also just gives you a framework of how these all intertwine and move together. So of course, we're giving you the presentation this evening in mid-september we expect to get the letter of no prejudice again that critical document from pen vest and with that letter of no prejudice in hand we would actually we Concord would actually move forward with the interim financing request for proposals to be sent to the banks and then we hold the City Council at the City Council meeting we would hold the first reading that may or may not be on September 9th that may be on september 23rd again i think we're going to stay need to stay a little bit nimble there and then moving forward on this timeline then in mid-october we would get the bank proposals obviously we review them and make a recommendation as to the best proposal and at the city council meeting in october whether it be october 14th or october 28th have the second reading actually accepting a proposal and critical critical we must have the letter of no prejudice in hand before you award financing if not we risk having this project not being eligible for penvis so obviously we're very cautious of that and wouldn't bring it to you beforehand um then as the current schedule uh on october 29th uh the city plans do actually submit the uh permanent financing application to penvest um then we would close on the interim financing in mid october uh mid november having that inner financing in place that assures you you have funds in the amount of the 32 million dollars to actually place that order again you wouldn't want to place order for 30 million dollars of of uh equipment or materials that you don't have financing in place for um and then so you can and that project lead time for those project materials is four to six months so that's really the lead time that you're gaining uh in your schedule by doing the interim financing then with the penvis application towards the end of october the next pen best meeting for the award of financing is in january of 2026 again moving forward in the timeline in february february slash march the project materials would be received and you would be moving forward with the construction bid phase uh for forbidden awards so again then you'd be ready to move forward with the actual actual project commencement then in april and may of 2026 you'd have your legislative process or your ordinance process for the permanent penvest financing uh project construction would begin we would expect to close on the penvest permanent financing and when you get the penvest permanent financing in hand and in place you would actually pay off the interim financing for the for the materials portion the project is expected to be completed in april of 2027. we are going to let the interim financing uh have an extra year of its maturity again trying to be cautious um we all know projects can get delayed and also the there's a secondary purpose of the interim financing not only to bridge the materials acquisition but you can also use that interim financing for like cash flow for the project because if ever the reimbursements that come from penvest would not be quite timely you want to have the interim line of credit is serving a dual purpose it's the materials phase and it's also the potential delay that you might have from penvest because they work on a reimbursement basis the most we can have is a year we're allowed to have the interim financing be one year after the estimated completion date so that should be sufficient for you well tina touched on the top of page three the interim financing is on a drawdown basis or a line of credit again minimize on the interest expense the interim financing will also provide an amount to pay the interest on the interim financing during the project phase and that's to avoid the budgetary impact um you know you're gonna have to go through the puc process etc to be able to raise water rates outside the city so the plan would be to have the the interim financing also be available to pay the interest to the extent you want to do so not a requirement to do so but it's available to do so uh should that uh be necessary within the budget uh the next bullet i i uh mentioned that the internet financing will mature in june of 28 to be that additional one year provide the project cash flow um moving forward on page four um kind of like a sources and uses here of the of the interim financing again two critical points provide the funds to order and purchase the materials and to provide the bridge loan or cash flow loan during the project phase so the total cost of the financing will be 32 million dollars um that's providing really four components uh the 30 million dollars for the project materials to be purchased uh estimated capitalized interest or interest on the interim financing of about 900 000 the financing costs and about a million dollar reserve again for that project cash flow need remember you won't draw on that you won't use that unless you absolutely need it but it's there in case you need it so that's how we arrived at a interim financing note of 32 million dollars the next schedule is really presented as a not to exceed amount it's kind of like i have to show you that but no way do we expect the interest expense to be that great because again at the drawdown and the prepayments and lastly on page five again a graph similar that you have seen before and actually showed you as a looking forward uh back in back in march we were doing 2025 bonds so the red bars here are the existing water fund debt service and the blue lines are the expected water fund debt service after what would be the 41 million dollar pen invest financing and how you and how you step into it so overall water fund debt service will go from about 15.1 million uh next year uh up to about 18.5 million uh beginning of 2020. um questions or um so let"
+    },
+    {
+      "block_id": 14,
+      "speaker": "SPEAKER_11",
+      "start": 1685.05,
+      "end": 1749.97,
+      "speaker_name": "unknown",
+      "reason": "The speaker addresses the council about the project timeline and contractor details, indicating a community member's perspective.",
+      "text": "me entertain those can i just add quickly too i don't don't think anybody from dpw is here from public works but i did just want to say the timeline might seem a bit aggressive and we did talk to them about that quite a bit so it sounds like we will have three different contractors doing the work because we are able to get all the materials together where it's easier to be able to do that so it'll kind of be work going on simultaneously which will increase the speed of it but one of the main reasons for that is and I won't get into all of the details but to try to to ensure that we can get this in our PUC rate case as quickly as possible just because we know it's such a big project and a large portion of it is for out for outside of the city as well as some inside so just wanted to comment on that schedule and if there's questions about specific questions about the the schedule or the project itself we can have Public Works comment on those at a"
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_07",
+      "start": 1749.97,
+      "end": 1764.16,
+      "speaker_name": "unknown",
+      "reason": "The speaker asks questions about the financing details, indicating engagement in the public comment period.",
+      "text": "later date for the presentation um a couple questions uh with this being short-term financing is the rate variable or is this a fixed rate i see here there's a five percent yeah that's an"
+    },
+    {
+      "block_id": 18,
+      "speaker": "SPEAKER_09",
+      "start": 1816.45,
+      "end": 1928.39,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member expressing gratitude and concern.",
+      "text": "not not the committee but i just want to thank um tina and the department of public works and with the assist from concord i think one of the things that's very momentous about this and i just don't want it to get lost in in the mix is the point that tina was making about the aggressive schedule in the past we have not been we have been borrowing money to do the design and then and then do the construction and we have had large sums of money that have been sitting not being utilized in in an aggressive time fashion and that is a habit that we have been trying to work ourselves out of I think for the last eight years because when you borrow money you should be spending it very quickly within three to four years you that money should be in the ground and then that should be coming back this is going to be really aggressive with a borrowing here we are at the end of almost you know the end of 2025 2028 this project is complete so two years in these are the kinds of benchmarks that council should be asking for in the future to really understand if the capital projects are indeed ready and that we're going to spend the money in the time frame that we need to and so i really applaud tina director campbell the directors campbell steve and tina for really leading off on this work and the kind of planning that went into the capital planning effort overall is allowing us to do this and council should also be really monitoring the frequency in which we are going to penvest for rate case increases because as tina mentioned this is a very this is a once in a generation um uh improvement that is being made and while it's 40 million dollars for this phase it's a lot more than that when you add all"
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_14",
+      "start": 1945.78,
+      "end": 1968.82,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a concern about the delivery timeline of materials and the potential impact of trade volatility.",
+      "text": "and this might not be the question for you this might actually be more of a question for public works but i just see that there's an estimated four to six month delivery for the materials how solid do we feel about that given i mean i don't know what if anything is being sourced from overseas but with the trade situation kind of being volatile i'm just curious if the city"
+    },
+    {
+      "block_id": 23,
+      "speaker": "SPEAKER_08",
+      "start": 1993.2,
+      "end": 2006.32,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and asks a question during the public comment period.",
+      "text": "thank you mr vice president um and thank you for the presentation this was very helpful um my only question is and you may have answered this when we do have the rfps from the banks is that going to be something that council will approve or is that something that the administration"
+    },
+    {
+      "block_id": 28,
+      "speaker": "SPEAKER_12",
+      "start": 2085.49,
+      "end": 2154.42,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident and expresses a position on a city decision regarding a demolition recommendation.",
+      "text": "53 north water street good evening mayor good evening council this um resolution is a recommendation from the historical commission to approve a demolition of a two-bay one-story freestanding cement block garage behind where the bread peddler is at 53 on 53 north water street it is it was built in the 1940s and they did receive zoning approval on july 23rd and the historical commission is recommended recommended approval at their meeting on august the 7th for demolition of this and it will remain as a surface parking lot cut and dried are there any questions"
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_12",
+      "start": 2169.41,
+      "end": 2177.65,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident and provides information about the safety concerns and intended use of a parking lot.",
+      "text": "reason why they want to demolish it is because they feel like it's not safe to try and pull two cars in there so i believe it's going to remain as a surface parking lot as far as i"
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_12",
+      "start": 2259.03,
+      "end": 2301.88,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and discusses a city decision regarding an easement agreement.",
+      "text": "here so take it away thank you the original resolution was passed by city council on may 14 2024 and if you recall it granted an easement so that balconies for the condominium condominiums can hang over north water street and west grant street the original easement agreement incorrectly listed the required height of the balconies as 15 feet above the street but the amended easement agreement is intended to correct the minimum height to 13 feet and six inches which is in compliance with the city ordinance is current and currently in place and that is the only change to"
+    },
+    {
+      "block_id": 38,
+      "speaker": "SPEAKER_14",
+      "start": 2316.07,
+      "end": 2340.8,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident expressing a personal opinion and question regarding city traffic.",
+      "text": "question um if it were up to me i would probably you know if i could wave a magic wand me personally i would take uh traffic off of the west grant street portion by market but i do know that some box trucks do go through there every now and then are we OK with the height in light of that. I don't know if it would be an issue or not but it's just a question I have."
+    },
+    {
+      "block_id": 40,
+      "speaker": "SPEAKER_14",
+      "start": 2354.44,
+      "end": 2361.58,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a concern about sidewalk overhang.",
+      "text": "They probably yeah they probably only overhang like the sidewalk so I'm sure it's fine."
+    },
+    {
+      "block_id": 41,
+      "speaker": "SPEAKER_12",
+      "start": 2361.58,
+      "end": 2369.5,
+      "speaker_name": "unknown",
+      "reason": "The speaker asks a question about the extent of a bump out.",
+      "text": "but how far is the bump out i guess that's the question yeah thank you councillor hirsch that"
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_10",
+      "start": 2676.5,
+      "end": 2933.14,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as representing Anchor Lancaster, a non-profit working with the homeless and low-income residents, expressing concerns and providing information during the public comment period.",
+      "text": "the explanation good evening thank you for taking the opportunity to hear what i have to say tonight so anchor lancaster is a non-profit that works with the homeless and low income here in lancaster city right now we are our program is housed inside of first united methodist church we've been renting space there for the last nine years we started as just a breakfast program and last year I think we served 42,000 meals to our hungry neighbors we like to listen to what our neighbors have to say and we found out that many of them were taking baths in sinks at market at CVS and we had showers so we started a shower program the goal was to do 12 showers a week last year we did 6,000 showers so yeah um and then during covid we realized that all the public buildings were closed and so we started a day center it just seemed to make sense to us and then we started a laundry program and started a case management program our case management program helped people with um building resumes applying for jobs finding housing helping connect them to medical services drug rehabs and just really meeting them wherever wherever they are we partner with many different other agencies here in the city we work with lancaster general we work with penn state health we work with upmc we work with the social workers at the police station we work with the social workers at tenfold and from the food hub and the outreach worker who works with the merchants here in the city and so our space at the day center it started as just a temporary winter shelter and then we did a temporary summer shelter and we quickly outgrew our space our space was only able to hold less than 20 people and literally it was wall to wall and so we've been searching for another place for our day center and we are just so grateful for tenfold and when they did the temporary shelter last year that one of my caseworkers and i went down and volunteered for the overnight shelter and as i'm standing in that shelter i was just like hmm i wonder if we could be here too so we started a conversation with tenfold and they just have welcomed us with open arms we went for one week we've been there for eight months and we're looking to make more of a permanent partnership with tenfold so we can heat that area cool that area much more efficiently than what it is being done now with that we will need to do some construction of a temporary space but something that we put up a wall and I feel bad saying that we want to put up wall because we're trying to tear walls down with our neighbors but we can put in heating and we can put in cooling and that is our phase one um plan but we're also exploring whether we will move the entire program down to the tenfold space where we would put in a commercial kitchen and if you've been in the garage it's very large and it would be the kitchen the dining room and the day center and then we would there's an annex that is next to it which would be offices it would be our laundry we place for case management to work also would be for bathrooms and showers and that is the request for the funding for"
+    },
+    {
+      "block_id": 46,
+      "speaker": "SPEAKER_16",
+      "start": 2941.41,
+      "end": 2972.26,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a volunteer and expresses gratitude for community services.",
+      "text": "committee i just want to thank you for your services for our community i know it's hard i've worked with a board of rescue mission i volunteer and to feed them that's about as far as i go but it's nice to talk to them and see where they're at in life and how they want to improve their life and these services are really important for them to find work and also shelter so thank you so much you're welcome any further questions from the committee"
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_07",
+      "start": 3036.44,
+      "end": 3050.7,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses an opinion and asks a question during the public comment period.",
+      "text": "First of all, thank you for sharing the outline of the vision, it seems very exciting. Just because we have the mics in front of us, if there's an opportunity for folks to invest their time or treasure into the organization, how can they find out more information?"
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_13",
+      "start": 3123.45,
+      "end": 3156.73,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and expresses concerns about parking and permeable lots.",
+      "text": "plain 123 south christian why this is a small item on your calendar here but you keep talking about well you don't i mean it always comes up parking throughout lancaster city and i'm always wondering about all the massive parking lots that we have why can't a lot of them be permeable so we don't have all this water running into the source thank you and i think"
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_08",
+      "start": 3476.84,
+      "end": 3496.7,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member asking a question about the proposal.",
+      "text": "presentation one question I had is what the county recently ending its partnership with the hazmat environmental fire rescue company does that have any thing to do with this proposal or is that going to affect the plan at all it's a good question so the"
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_09",
+      "start": 3631.79,
+      "end": 3637.87,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies themselves as a community member and expresses a desire to discuss an issue with Chief Mendez.",
+      "text": "chief mendez and i uh to have a discussion um per your comments at the last meeting i haven't"
+    },
+    {
+      "block_id": 87,
+      "speaker": "SPEAKER_04",
+      "start": 3908.17,
+      "end": 3991.17,
+      "speaker_name": "Tony Dastra",
+      "reason": "The speaker identifies as a resident and expresses an opinion on a city decision.",
+      "text": "from council from the public tony dastra 700 block of new holland avenue um i think this is a good resolution but i do have a request of council for the future um i didn't realize until i'd say a month ago that there was an executive order that determined english is the national language of the united states uh i've long enjoyed the fact that that wasn't the case i think that lancaster needs to consider making spanish an official second language to the city i think there's enough contributions by the hispanic community and spanish speakers that it validates it i mean even the agendas at these meetings are now bilingual which is a great thing I think Lancaster City should Formalize Spanish as an official second language in the government. Thank you. Thank you. Mr. Dastro Any additional public comment? Mr. Vice president, where might people go to nominate their fellow community members? Oh, that's a good question I"
+    },
+    {
+      "block_id": 90,
+      "speaker": "SPEAKER_15",
+      "start": 4236.36,
+      "end": 4355.28,
+      "speaker_name": "Elizabeth Hoffman",
+      "reason": "The speaker identifies as a resident and expresses a position on a city decision.",
+      "text": "are none i will open up to comments from the public elizabeth hoffman 200 block of east ross and thank you very much counselor hirsch for taking this on i'm with a group called third act pennsylvania it's people in their third act of life and we're working on climate change and democracy and this bill is a big focus of our work we're working with a lot of other organizations in like a group called our solar PA and Pennsylvania has been trying to pass this for ten years now this is the eleventh year it's a great way for people who can't afford to put solar on the roof or if their house is too shady or the renters whatever they subscribe to a solar project so they're not actually owning it leasing it or anything they're just subscribing it and I did have this in Maryland and it's you know you don't notice it on your bill there's consolidated billing so you just select that you want to subscribe to a project and you get a credit and you're putting solar electrons on the grid so Pennsylvania is 49th it ranks 49th in the growth of renewable energy so we're really falling behind we only we get less than 1% of our energy from solar so we think this is an easy way to add solar to the grid and thank you again for considering it are there any other comments from the"
+    },
+    {
+      "block_id": 91,
+      "speaker": "SPEAKER_02",
+      "start": 4355.28,
+      "end": 4389.5,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member expressing concerns about a bill.",
+      "text": "public why people can't do this already I mean like what about this bill makes this it people able to do it doesn't you know like why why do we need this bill so that people can do this is it federal federally not allowed state not allowed"
+    }
+  ]
+}

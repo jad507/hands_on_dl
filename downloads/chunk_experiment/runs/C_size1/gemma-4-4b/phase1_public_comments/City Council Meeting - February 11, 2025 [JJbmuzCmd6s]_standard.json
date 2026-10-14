@@ -1,0 +1,211 @@
+{
+  "title": "City Council Meeting - February 11, 2025",
+  "video_id": "JJbmuzCmd6s",
+  "upload_date": "20250212",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-04T02:21:40+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    },
+    "chunking": {
+      "p1_chunk_size": 1,
+      "p1_chunk_offset": 0
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_02",
+      "start": 519.22,
+      "end": 532.1,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding a resolution read into record.",
+      "text": "councillor Craig council president this resolution was read into record during the committee meeting last week and I don't feel the need to reread it because"
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_03",
+      "start": 550.66,
+      "end": 577.84,
+      "speaker_name": "unknown",
+      "reason": "The speaker is thanking the council and city for their commitment to celebrating Black History Month.",
+      "text": "resolution the council president if I may counselor I'm ed I just want to thank councillor Craig for introducing this resolution and I want to thank the city of Lancaster for its commitment to celebrating black history month especially in a time nationally where it does not seem to be prioritized so I just want to thank members of council and thank the city for its commitment to our black community here in Lancaster Thank You councillor I'm an additional"
+    },
+    {
+      "block_id": 16,
+      "speaker": "SPEAKER_03",
+      "start": 695.13,
+      "end": 698.73,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council president regarding a committee meeting.",
+      "text": "council president the Economic Development Committee did not meet thank"
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_01",
+      "start": 974.99,
+      "end": 1045.73,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the financial implications of a resolution regarding a cost-sharing agreement with a neighboring township.",
+      "text": "resolution is essentially uh entering the city into a cost-sharing agreement with maynham township as many of you may know marshall avenue is along the northern border and southern of the city and the southern border of man i'm township um and it zigzags pretty chaotically and so this kind of allows the city to enter into an agreement where um they are taking on the portion of the cost that uh is proportionate to the city's ownership of the road which in this case these improvements are primarily going to be to improve uh biking and walking infrastructure along marshall ave total cost is roughly 62 000 so it's a pretty low cost project on the whole the city is going to take 82 percent of that as they own 82 percent of that roadway it's not a full resurfacing project it's base improvements to the roadway to allow the additional infrastructure to be put in and my understanding is that the work is slated to take place later this year it's a correct director Campbell is nodding so that's pretty much the deal"
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_09",
+      "start": 1045.73,
+      "end": 1059.27,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council and offering commentary on a city matter.",
+      "text": "with with this room thank you very much council Hirsch I'll just say whoever figured out that we owned 82% specifically of the road at kudos to them spent a lot of time in GIS I bet yeah any additional council comments on"
+    },
+    {
+      "block_id": 37,
+      "speaker": "SPEAKER_05",
+      "start": 1090.1,
+      "end": 1099.18,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding the approval of the pride flag raising.",
+      "text": "of the city of Lancaster approving the pride flag raising to acknowledge the start of Pride Month in June 2025 as brought forth by the Lancaster pride"
+    },
+    {
+      "block_id": 49,
+      "speaker": "SPEAKER_04",
+      "start": 1318.33,
+      "end": 1359.06,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the city's annual tracking of water and sewer usage.",
+      "text": "is a resolution that is brought before council on an annual basis it is done because the city tracks water and sewers sewer usage as city properties mostly to detect leaks or unusual usage we don't bill ourselves for this usage the charges are exonerated annually to clear them from the financial accounts two properties on the list are not city owned the library and the fire line at the Lancaster Airport the water and the sewer service to the library is considered an in-kind contribution from the city and the service to the airport is done in exchange for the airport providing the city use of its large capacity snow blowers in case of a storm thank you very much council royal are"
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_06",
+      "start": 1522.2,
+      "end": 1665.31,
+      "speaker_name": "unknown",
+      "reason": "The speaker is offering a recommendation and expressing concerns regarding city funding.",
+      "text": "miss geyser do you have anything to add yes thank you thanks for the summary uh the lengthy summary of our long amendments um this evening i just wanted to uh highlight two things um that we are recommending these changes presuming that we will get the 2025 cdbg funding for the city however with the uncertainty in the federal government the federal allocations for CDBG may change and if our allocation significantly changes we would have to reassess our substantial amendments and potentially come back to you with additional changes which we try not to do but that may be required if there is an unexpected decrease next year I also wanted to note that last week we received a question about our total efforts toward affordable housing since we are reallocating on about 300,000 to affordable housing and I wanted to provide just a snapshot of the total dollars the city has invested in affordable housing because it's just astronomical and noteworthy so since 2018 we have allocated eight point one million dollars for 492 lead hazard control projects 1.5 million dollars for 152 home repair projects 4.4 million dollars for 363 units of affordable housing that was rehabilitated and 11.6 million dollars for 284 new affordable housing units and the grand total is 25.6 million dollars invested in affordable housing um representing a commitment by you the city council and the mayor to this initiative and although we are only able to reallocate 300 000 across five years the total allocation is more than a million dollars over the five years just from cdbg alone and we've been able to accomplish this unprecedented funding by allocated allocating small amounts large amounts big grants small grants throughout all these years um to accumulate to this total so i wanted to just bring that to your attention and thank you all again for your commitment to affordable housing"
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_08",
+      "start": 1695.14,
+      "end": 1721.11,
+      "speaker_name": "Susie Gomez",
+      "reason": "The speaker identifies herself as a resident and asks questions regarding city funding.",
+      "text": "Good evening. Susie Gomez, 100 Block of North Reservoir Street. Thank you. Can you explain to me CBBG funding? Is that government funding? Yes, that's federal government funding. OK. So total investment of, you said, $25.6 million?"
+    },
+    {
+      "block_id": 59,
+      "speaker": "SPEAKER_08",
+      "start": 1740.54,
+      "end": 1773.53,
+      "speaker_name": "unknown",
+      "reason": "The speaker is questioning the allocation and reallocation of government funding.",
+      "text": "And that is government funding, correct? Yes. OK. The other question would be, you had mentioned increased funding. The $305,000 is being allocated, is that correct? Reallocated. Reallocated. So you're going from 2020 to 2024 to show rejected funds? Can you explain that a little better?"
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_08",
+      "start": 1834.58,
+      "end": 1843.51,
+      "speaker_name": "unknown",
+      "reason": "The speaker is questioning the purpose of a reassessment.",
+      "text": "um you want to reassess and make changes for what for what you're reassessing"
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_08",
+      "start": 1859.33,
+      "end": 1878.76,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing an opinion or concern regarding a city measure and its relation to the annual action plan.",
+      "text": "this measure yeah but you're turning it in you're you're also really doing the annual action plan right you're taking all that into consideration without so meaning that there is funds available for housing and that's what these fun"
+    },
+    {
+      "block_id": 67,
+      "speaker": "SPEAKER_09",
+      "start": 1901.68,
+      "end": 1908.48,
+      "speaker_name": "unknown",
+      "reason": "The speaker is making a point regarding costs and affordable housing.",
+      "text": "costs and into the actual affordable housing yes so my point very quickly was"
+    },
+    {
+      "block_id": 68,
+      "speaker": "SPEAKER_08",
+      "start": 1908.48,
+      "end": 1923.99,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about the housing crisis and funding availability.",
+      "text": "just that because of that there's funding available we have a housing crisis in Lancaster City and I think that is very unfair to the public any"
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_01",
+      "start": 1997.18,
+      "end": 2036.9,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the nature and implications of resolutions regarding infrastructure projects.",
+      "text": "resolutions number 15 and 16 are very similar in nature they are essentially agreements that give us or we are essentially approving the ability to use the right of way to do future infrastructure projects in this case it's a ductile pipe that is in columbia pennsylvania as part of our water infrastructure there and so applying and paying this permit fee essentially allows uh that work to be done um that's really all there is to this thank you very much counselor"
+    },
+    {
+      "block_id": 77,
+      "speaker": "SPEAKER_01",
+      "start": 2097.74,
+      "end": 2117.85,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing an agreement and permit fee related to city matters.",
+      "text": "Yes, pretty much the same thing. It's just entering into an agreement with Railway Auditing and Management Services in this case as opposed to Norfolk Southern, which is previous resolution. um yeah just paying the permit fee to allow right of uh use to um replace or to conduct work there"
+    },
+    {
+      "block_id": 81,
+      "speaker": "SPEAKER_07",
+      "start": 2179.13,
+      "end": 2312.3,
+      "speaker_name": "unknown",
+      "reason": "The speaker is sharing positive news and expressing gratitude regarding a state grant awarded to the city and school district.",
+      "text": "the mayor mayor sir thank you council president first i'm pleased to share that the city of lancaster along with the school district of lancaster was awarded 74 000 by the pennsylvania commission on crime and delinquency the state grant will allow a school district and partners to research and design an effective cross-sector intervention strategy to reduce gun and group-related violence in Lancaster, and I'm truly grateful for our partnership with the district. Additionally, applications for police officers and cadets positions are now open. We are eager to bring on new officers and cadets. The cadet program, as you know, bridges the gap between high school graduation and turning Turn 21, for those who are interested in pursuing a career in law enforcement. The application is just open on February 1st, and we have 77 officer applications so far and 260 people who have expressed interest. Encourage all of you to help us get the word out, so thank you in advance. And check out lcbpcareers.com for more information. And second, I want to spotlight the Department of Neighborhood Engagement. It's become a tradition that on Valentine's Day, which is coming up on Friday, and I know everybody's just thinking about the Eagles Parade, but do not forget your Valentine's. The department announces new initiatives and launches applications for their long-standing programs. The state-old Love Your Block grants are back, now entering its seventh year. The program awards grants to residents dedicated to revitalizing their neighborhoods through community-led projects. Love Your Block is made possible through the generous support of the Hyde Foundation. we're also launching the neighborhood art project which is designed to encourage public art and create a place making in our neighborhoods so the call for artists will also go out on february 14th inviting local artists to apply for opportunities to create public art that reflects the vibrancy and diversity of lancaster community the neighborhood art project is supported by the national endowment for the arts and you can learn more about these programs and apply to take part at the city of lancaster.gov forward slash neighborhoods and that concludes my report tonight thank you council president thank you mayor sirachi uh the next item on the agenda"
+    },
+    {
+      "block_id": 83,
+      "speaker": "SPEAKER_03",
+      "start": 2325.55,
+      "end": 2363.07,
+      "speaker_name": "unknown",
+      "reason": "The speaker is providing an update on a government study transition committee meeting.",
+      "text": "i just wanted to report back to the members of council that the government study transition committee did meet on january 29th and went over the purview of our work which is to make sure and ensure the transition to a homework charter moves in a timely manner with both the administrative code and the ethics commission our next meeting will be tuesday april 29th at 5 p.m in council chambers it will also be live streamed and i just wanted to report back that we did meet and the purview of our work is to ensure the timely transition to the newly elected home rule charter that concludes my report"
+    }
+  ]
+}

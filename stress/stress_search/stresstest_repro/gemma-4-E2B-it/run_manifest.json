@@ -1,0 +1,18 @@
+{
+ "host": "E1-054331",
+ "os": "Windows-11-10.0.26200-SP0",
+ "python": "3.12.6",
+ "cpu": "Intel64 Family 6 Model 85 Stepping 7, GenuineIntel",
+ "cpu_count": 40,
+ "gpu_name": "NVIDIA RTX A2000 12GB",
+ "gpu_vram": "12282 MiB",
+ "gpu_driver": "596.71",
+ "torch": "2.11.0+cu128",
+ "cuda_available": true,
+ "script": "reproduce_stresstest_gemma.py",
+ "model": "google/gemma-4-E2B-it",
+ "conditions": "nothink,think",
+ "tasks": "ssr,ssd,open_ssr",
+ "limit": 0,
+ "run_elapsed_s": 49537.2
+}

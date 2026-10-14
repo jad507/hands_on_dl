@@ -1,0 +1,166 @@
+{
+  "title": "City Council Meeting - February 11, 2025",
+  "video_id": "JJbmuzCmd6s",
+  "upload_date": "20250212",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-04T03:14:17+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    },
+    "chunking": {
+      "p1_chunk_size": 5,
+      "p1_chunk_offset": 0
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 8,
+      "speaker": "SPEAKER_02",
+      "start": 519.22,
+      "end": 532.1,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council regarding a resolution that was previously read.",
+      "text": "councillor Craig council president this resolution was read into record during the committee meeting last week and I don't feel the need to reread it because"
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_03",
+      "start": 550.66,
+      "end": 577.84,
+      "speaker_name": "unknown",
+      "reason": "The speaker thanks the council and the city for their commitment to celebrating Black History Month.",
+      "text": "resolution the council president if I may counselor I'm ed I just want to thank councillor Craig for introducing this resolution and I want to thank the city of Lancaster for its commitment to celebrating black history month especially in a time nationally where it does not seem to be prioritized so I just want to thank members of council and thank the city for its commitment to our black community here in Lancaster Thank You councillor I'm an additional"
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_01",
+      "start": 974.99,
+      "end": 1045.73,
+      "speaker_name": "unknown",
+      "reason": "The speaker is explaining the details of a resolution to the council.",
+      "text": "resolution is essentially uh entering the city into a cost-sharing agreement with maynham township as many of you may know marshall avenue is along the northern border and southern of the city and the southern border of man i'm township um and it zigzags pretty chaotically and so this kind of allows the city to enter into an agreement where um they are taking on the portion of the cost that uh is proportionate to the city's ownership of the road which in this case these improvements are primarily going to be to improve uh biking and walking infrastructure along marshall ave total cost is roughly 62 000 so it's a pretty low cost project on the whole the city is going to take 82 percent of that as they own 82 percent of that roadway it's not a full resurfacing project it's base improvements to the roadway to allow the additional infrastructure to be put in and my understanding is that the work is slated to take place later this year it's a correct director Campbell is nodding so that's pretty much the deal"
+    },
+    {
+      "block_id": 43,
+      "speaker": "SPEAKER_04",
+      "start": 1210.02,
+      "end": 1256.87,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council about an amendment to the supplemental pension plan.",
+      "text": "through this resolution during our last finance committee meeting we are amending the city of lancaster supplemental pension plan to reflect the correct amount of matching contribution for police officers hired on or after january 1 of 2011. the plan currently incorrectly states that this is a 25 this is 25 so this resolution will correct the matching contribution amount to 35 we reinstated the plan last year at this time in february of 2024 with the inclusion then of firefighters who were included starting in january 2024 however we didn't make the correct uh excuse me however we failed to make the correct to the matching percentage for police at that time this resolution will correct that thank you very much counsel Arroyo are there"
+    },
+    {
+      "block_id": 49,
+      "speaker": "SPEAKER_04",
+      "start": 1318.33,
+      "end": 1359.06,
+      "speaker_name": "unknown",
+      "reason": "The speaker is explaining the purpose of an annual resolution regarding water and sewer charges.",
+      "text": "is a resolution that is brought before council on an annual basis it is done because the city tracks water and sewers sewer usage as city properties mostly to detect leaks or unusual usage we don't bill ourselves for this usage the charges are exonerated annually to clear them from the financial accounts two properties on the list are not city owned the library and the fire line at the Lancaster Airport the water and the sewer service to the library is considered an in-kind contribution from the city and the service to the airport is done in exchange for the airport providing the city use of its large capacity snow blowers in case of a storm thank you very much council royal are"
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_08",
+      "start": 1695.14,
+      "end": 1721.11,
+      "speaker_name": "Susie Gomez",
+      "reason": "The speaker identified herself as a resident and asked questions regarding CDBG funding.",
+      "text": "Good evening. Susie Gomez, 100 Block of North Reservoir Street. Thank you. Can you explain to me CBBG funding? Is that government funding? Yes, that's federal government funding. OK. So total investment of, you said, $25.6 million?"
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_08",
+      "start": 1859.33,
+      "end": 1878.76,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the allocation of funds for housing and the annual action plan.",
+      "text": "this measure yeah but you're turning it in you're you're also really doing the annual action plan right you're taking all that into consideration without so meaning that there is funds available for housing and that's what these fun"
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_06",
+      "start": 1878.76,
+      "end": 1901.68,
+      "speaker_name": "unknown",
+      "reason": "The speaker is explaining the reallocation of unspent funds toward affordable housing and repair projects.",
+      "text": "and and we are reallocating unspent funds from staffing vacancies over the past four years into affordable housing and lead hazard control and critical repair projects so they're getting more money the affordable housing and critical repair projects are receiving more funding out of administrative"
+    },
+    {
+      "block_id": 67,
+      "speaker": "SPEAKER_09",
+      "start": 1901.68,
+      "end": 1908.48,
+      "speaker_name": "unknown",
+      "reason": "The speaker is making a point regarding the affordable housing funding.",
+      "text": "costs and into the actual affordable housing yes so my point very quickly was"
+    },
+    {
+      "block_id": 68,
+      "speaker": "SPEAKER_08",
+      "start": 1908.48,
+      "end": 1923.99,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing concern about the housing crisis and the unfairness of the situation.",
+      "text": "just that because of that there's funding available we have a housing crisis in Lancaster City and I think that is very unfair to the public any"
+    },
+    {
+      "block_id": 72,
+      "speaker": "SPEAKER_01",
+      "start": 1997.18,
+      "end": 2036.9,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the nature and purpose of resolutions related to infrastructure projects.",
+      "text": "resolutions number 15 and 16 are very similar in nature they are essentially agreements that give us or we are essentially approving the ability to use the right of way to do future infrastructure projects in this case it's a ductile pipe that is in columbia pennsylvania as part of our water infrastructure there and so applying and paying this permit fee essentially allows uh that work to be done um that's really all there is to this thank you very much counselor"
+    },
+    {
+      "block_id": 77,
+      "speaker": "SPEAKER_01",
+      "start": 2097.74,
+      "end": 2117.85,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the details of an agreement related to a city resolution.",
+      "text": "Yes, pretty much the same thing. It's just entering into an agreement with Railway Auditing and Management Services in this case as opposed to Norfolk Southern, which is previous resolution. um yeah just paying the permit fee to allow right of uh use to um replace or to conduct work there"
+    },
+    {
+      "block_id": 81,
+      "speaker": "SPEAKER_07",
+      "start": 2179.13,
+      "end": 2312.3,
+      "speaker_name": "unknown",
+      "reason": "The speaker is sharing positive news regarding a state grant awarded to the city and school district.",
+      "text": "the mayor mayor sir thank you council president first i'm pleased to share that the city of lancaster along with the school district of lancaster was awarded 74 000 by the pennsylvania commission on crime and delinquency the state grant will allow a school district and partners to research and design an effective cross-sector intervention strategy to reduce gun and group-related violence in Lancaster, and I'm truly grateful for our partnership with the district. Additionally, applications for police officers and cadets positions are now open. We are eager to bring on new officers and cadets. The cadet program, as you know, bridges the gap between high school graduation and turning Turn 21, for those who are interested in pursuing a career in law enforcement. The application is just open on February 1st, and we have 77 officer applications so far and 260 people who have expressed interest. Encourage all of you to help us get the word out, so thank you in advance. And check out lcbpcareers.com for more information. And second, I want to spotlight the Department of Neighborhood Engagement. It's become a tradition that on Valentine's Day, which is coming up on Friday, and I know everybody's just thinking about the Eagles Parade, but do not forget your Valentine's. The department announces new initiatives and launches applications for their long-standing programs. The state-old Love Your Block grants are back, now entering its seventh year. The program awards grants to residents dedicated to revitalizing their neighborhoods through community-led projects. Love Your Block is made possible through the generous support of the Hyde Foundation. we're also launching the neighborhood art project which is designed to encourage public art and create a place making in our neighborhoods so the call for artists will also go out on february 14th inviting local artists to apply for opportunities to create public art that reflects the vibrancy and diversity of lancaster community the neighborhood art project is supported by the national endowment for the arts and you can learn more about these programs and apply to take part at the city of lancaster.gov forward slash neighborhoods and that concludes my report tonight thank you council president thank you mayor sirachi uh the next item on the agenda"
+    }
+  ]
+}

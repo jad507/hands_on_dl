@@ -1,0 +1,1004 @@
+{
+  "source": "City Council Committee Meeting - March 3, 2025 [qEcut0Mpq30].json",
+  "title": "City Council Committee Meeting - March 3, 2025",
+  "video_id": "qEcut0Mpq30",
+  "rttm_mode": "standard=exclusive",
+  "concord_import": {
+    "scheme": "turn",
+    "maxMergeGapSeconds": -1,
+    "why": "mergeCues tests `gap <= maxMergeGapSeconds`, so 0 still merges adjacent cues. A negative value is the only one that preserves the block spine."
+  },
+  "stats": {
+    "n_blocks": 109,
+    "n_cues": 109,
+    "n_empty_skipped": 0,
+    "n_angle_brackets_escaped": 0,
+    "invalid_speaker_labels": [],
+    "same_speaker_adjacent_pairs": [],
+    "would_merge_at_concord_default_30s": 0,
+    "required_max_merge_gap_seconds": -1
+  },
+  "cues": [
+    {
+      "cue": 1,
+      "block_id": 0,
+      "speaker": "SPEAKER_05",
+      "start": 202.67,
+      "end": 214.43,
+      "category": "recurring",
+      "word_count": 29
+    },
+    {
+      "cue": 2,
+      "block_id": 1,
+      "speaker": "SPEAKER_10",
+      "start": 214.43,
+      "end": 222.16,
+      "category": "commenter_candidate",
+      "word_count": 14
+    },
+    {
+      "cue": 3,
+      "block_id": 2,
+      "speaker": "SPEAKER_05",
+      "start": 222.16,
+      "end": 289.32,
+      "category": "recurring",
+      "word_count": 186
+    },
+    {
+      "cue": 4,
+      "block_id": 3,
+      "speaker": "SPEAKER_10",
+      "start": 289.32,
+      "end": 296.42,
+      "category": "commenter_candidate",
+      "word_count": 14
+    },
+    {
+      "cue": 5,
+      "block_id": 4,
+      "speaker": "SPEAKER_05",
+      "start": 296.42,
+      "end": 301.99,
+      "category": "recurring",
+      "word_count": 12
+    },
+    {
+      "cue": 6,
+      "block_id": 5,
+      "speaker": "SPEAKER_14",
+      "start": 301.99,
+      "end": 357.94,
+      "category": "commenter_candidate",
+      "word_count": 99
+    },
+    {
+      "cue": 7,
+      "block_id": 6,
+      "speaker": "SPEAKER_12",
+      "start": 357.94,
+      "end": 505.72,
+      "category": "recurring",
+      "word_count": 436
+    },
+    {
+      "cue": 8,
+      "block_id": 7,
+      "speaker": "SPEAKER_14",
+      "start": 505.72,
+      "end": 516.0,
+      "category": "commenter_candidate",
+      "word_count": 17
+    },
+    {
+      "cue": 9,
+      "block_id": 8,
+      "speaker": "SPEAKER_09",
+      "start": 516.0,
+      "end": 520.0,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 10,
+      "block_id": 9,
+      "speaker": "SPEAKER_14",
+      "start": 520.0,
+      "end": 528.0,
+      "category": "commenter_candidate",
+      "word_count": 19
+    },
+    {
+      "cue": 11,
+      "block_id": 10,
+      "speaker": "SPEAKER_16",
+      "start": 528.0,
+      "end": 541.34,
+      "category": "commenter_candidate",
+      "word_count": 33
+    },
+    {
+      "cue": 12,
+      "block_id": 11,
+      "speaker": "SPEAKER_12",
+      "start": 541.73,
+      "end": 602.06,
+      "category": "recurring",
+      "word_count": 189
+    },
+    {
+      "cue": 13,
+      "block_id": 12,
+      "speaker": "SPEAKER_04",
+      "start": 616.43,
+      "end": 641.48,
+      "category": "commenter_candidate",
+      "word_count": 45
+    },
+    {
+      "cue": 14,
+      "block_id": 13,
+      "speaker": "SPEAKER_14",
+      "start": 641.48,
+      "end": 691.22,
+      "category": "commenter_candidate",
+      "word_count": 94
+    },
+    {
+      "cue": 15,
+      "block_id": 14,
+      "speaker": "SPEAKER_05",
+      "start": 691.22,
+      "end": 711.96,
+      "category": "recurring",
+      "word_count": 34
+    },
+    {
+      "cue": 16,
+      "block_id": 15,
+      "speaker": "SPEAKER_14",
+      "start": 711.96,
+      "end": 729.95,
+      "category": "commenter_candidate",
+      "word_count": 43
+    },
+    {
+      "cue": 17,
+      "block_id": 16,
+      "speaker": "SPEAKER_05",
+      "start": 729.95,
+      "end": 735.14,
+      "category": "recurring",
+      "word_count": 12
+    },
+    {
+      "cue": 18,
+      "block_id": 17,
+      "speaker": "SPEAKER_02",
+      "start": 735.14,
+      "end": 758.5,
+      "category": "recurring",
+      "word_count": 68
+    },
+    {
+      "cue": 19,
+      "block_id": 18,
+      "speaker": "SPEAKER_15",
+      "start": 761.04,
+      "end": 1230.89,
+      "category": "recurring",
+      "word_count": 1261
+    },
+    {
+      "cue": 20,
+      "block_id": 19,
+      "speaker": "SPEAKER_08",
+      "start": 1230.89,
+      "end": 1623.24,
+      "category": "recurring",
+      "word_count": 1037
+    },
+    {
+      "cue": 21,
+      "block_id": 20,
+      "speaker": "SPEAKER_09",
+      "start": 1623.24,
+      "end": 1641.35,
+      "category": "recurring",
+      "word_count": 33
+    },
+    {
+      "cue": 22,
+      "block_id": 21,
+      "speaker": "SPEAKER_08",
+      "start": 1641.35,
+      "end": 1661.39,
+      "category": "recurring",
+      "word_count": 48
+    },
+    {
+      "cue": 23,
+      "block_id": 22,
+      "speaker": "SPEAKER_09",
+      "start": 1661.39,
+      "end": 1671.05,
+      "category": "recurring",
+      "word_count": 11
+    },
+    {
+      "cue": 24,
+      "block_id": 23,
+      "speaker": "SPEAKER_08",
+      "start": 1671.05,
+      "end": 2011.48,
+      "category": "recurring",
+      "word_count": 864
+    },
+    {
+      "cue": 25,
+      "block_id": 24,
+      "speaker": "SPEAKER_06",
+      "start": 2011.48,
+      "end": 2060.24,
+      "category": "recurring",
+      "word_count": 30
+    },
+    {
+      "cue": 26,
+      "block_id": 25,
+      "speaker": "SPEAKER_08",
+      "start": 2060.24,
+      "end": 2069.94,
+      "category": "recurring",
+      "word_count": 17
+    },
+    {
+      "cue": 27,
+      "block_id": 26,
+      "speaker": "SPEAKER_06",
+      "start": 2069.94,
+      "end": 2119.41,
+      "category": "recurring",
+      "word_count": 74
+    },
+    {
+      "cue": 28,
+      "block_id": 27,
+      "speaker": "SPEAKER_15",
+      "start": 2119.41,
+      "end": 2157.1,
+      "category": "recurring",
+      "word_count": 71
+    },
+    {
+      "cue": 29,
+      "block_id": 28,
+      "speaker": "SPEAKER_16",
+      "start": 2157.1,
+      "end": 2195.38,
+      "category": "commenter_candidate",
+      "word_count": 61
+    },
+    {
+      "cue": 30,
+      "block_id": 29,
+      "speaker": "SPEAKER_15",
+      "start": 2195.38,
+      "end": 2285.41,
+      "category": "recurring",
+      "word_count": 258
+    },
+    {
+      "cue": 31,
+      "block_id": 30,
+      "speaker": "SPEAKER_16",
+      "start": 2285.41,
+      "end": 2305.17,
+      "category": "commenter_candidate",
+      "word_count": 14
+    },
+    {
+      "cue": 32,
+      "block_id": 31,
+      "speaker": "SPEAKER_15",
+      "start": 2305.17,
+      "end": 2325.86,
+      "category": "recurring",
+      "word_count": 66
+    },
+    {
+      "cue": 33,
+      "block_id": 32,
+      "speaker": "SPEAKER_02",
+      "start": 2325.86,
+      "end": 2332.9,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 34,
+      "block_id": 33,
+      "speaker": "SPEAKER_09",
+      "start": 2332.9,
+      "end": 2394.45,
+      "category": "recurring",
+      "word_count": 157
+    },
+    {
+      "cue": 35,
+      "block_id": 34,
+      "speaker": "SPEAKER_00",
+      "start": 2394.45,
+      "end": 2579.7,
+      "category": "recurring",
+      "word_count": 452
+    },
+    {
+      "cue": 36,
+      "block_id": 35,
+      "speaker": "SPEAKER_09",
+      "start": 2579.7,
+      "end": 2591.29,
+      "category": "recurring",
+      "word_count": 24
+    },
+    {
+      "cue": 37,
+      "block_id": 36,
+      "speaker": "SPEAKER_05",
+      "start": 2591.29,
+      "end": 2628.56,
+      "category": "recurring",
+      "word_count": 109
+    },
+    {
+      "cue": 38,
+      "block_id": 37,
+      "speaker": "SPEAKER_00",
+      "start": 2628.56,
+      "end": 2826.91,
+      "category": "recurring",
+      "word_count": 516
+    },
+    {
+      "cue": 39,
+      "block_id": 38,
+      "speaker": "SPEAKER_05",
+      "start": 2826.91,
+      "end": 2847.13,
+      "category": "recurring",
+      "word_count": 18
+    },
+    {
+      "cue": 40,
+      "block_id": 39,
+      "speaker": "SPEAKER_15",
+      "start": 2847.13,
+      "end": 2869.33,
+      "category": "recurring",
+      "word_count": 67
+    },
+    {
+      "cue": 41,
+      "block_id": 40,
+      "speaker": "SPEAKER_05",
+      "start": 2869.33,
+      "end": 2871.65,
+      "category": "recurring",
+      "word_count": 5
+    },
+    {
+      "cue": 42,
+      "block_id": 41,
+      "speaker": "SPEAKER_15",
+      "start": 2871.65,
+      "end": 2882.73,
+      "category": "recurring",
+      "word_count": 31
+    },
+    {
+      "cue": 43,
+      "block_id": 42,
+      "speaker": "SPEAKER_06",
+      "start": 2882.73,
+      "end": 2891.37,
+      "category": "recurring",
+      "word_count": 11
+    },
+    {
+      "cue": 44,
+      "block_id": 43,
+      "speaker": "SPEAKER_02",
+      "start": 2891.37,
+      "end": 2895.45,
+      "category": "recurring",
+      "word_count": 8
+    },
+    {
+      "cue": 45,
+      "block_id": 44,
+      "speaker": "SPEAKER_14",
+      "start": 2895.45,
+      "end": 2909.91,
+      "category": "commenter_candidate",
+      "word_count": 30
+    },
+    {
+      "cue": 46,
+      "block_id": 45,
+      "speaker": "SPEAKER_15",
+      "start": 2909.91,
+      "end": 2930.35,
+      "category": "recurring",
+      "word_count": 64
+    },
+    {
+      "cue": 47,
+      "block_id": 46,
+      "speaker": "SPEAKER_02",
+      "start": 2930.35,
+      "end": 2953.31,
+      "category": "recurring",
+      "word_count": 32
+    },
+    {
+      "cue": 48,
+      "block_id": 47,
+      "speaker": "SPEAKER_15",
+      "start": 2953.31,
+      "end": 2978.51,
+      "category": "recurring",
+      "word_count": 81
+    },
+    {
+      "cue": 49,
+      "block_id": 48,
+      "speaker": "SPEAKER_08",
+      "start": 2978.51,
+      "end": 3021.52,
+      "category": "recurring",
+      "word_count": 124
+    },
+    {
+      "cue": 50,
+      "block_id": 49,
+      "speaker": "SPEAKER_02",
+      "start": 3024.06,
+      "end": 3039.05,
+      "category": "recurring",
+      "word_count": 34
+    },
+    {
+      "cue": 51,
+      "block_id": 50,
+      "speaker": "SPEAKER_05",
+      "start": 3039.05,
+      "end": 3043.21,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 52,
+      "block_id": 51,
+      "speaker": "SPEAKER_02",
+      "start": 3043.21,
+      "end": 3054.16,
+      "category": "recurring",
+      "word_count": 32
+    },
+    {
+      "cue": 53,
+      "block_id": 52,
+      "speaker": "SPEAKER_06",
+      "start": 3054.16,
+      "end": 3123.02,
+      "category": "recurring",
+      "word_count": 110
+    },
+    {
+      "cue": 54,
+      "block_id": 53,
+      "speaker": "SPEAKER_04",
+      "start": 3123.36,
+      "end": 3136.56,
+      "category": "commenter_candidate",
+      "word_count": 7
+    },
+    {
+      "cue": 55,
+      "block_id": 54,
+      "speaker": "SPEAKER_05",
+      "start": 3136.56,
+      "end": 3157.97,
+      "category": "recurring",
+      "word_count": 37
+    },
+    {
+      "cue": 56,
+      "block_id": 55,
+      "speaker": "SPEAKER_04",
+      "start": 3157.97,
+      "end": 3166.69,
+      "category": "commenter_candidate",
+      "word_count": 13
+    },
+    {
+      "cue": 57,
+      "block_id": 56,
+      "speaker": "SPEAKER_05",
+      "start": 3166.69,
+      "end": 3200.48,
+      "category": "recurring",
+      "word_count": 55
+    },
+    {
+      "cue": 58,
+      "block_id": 57,
+      "speaker": "SPEAKER_04",
+      "start": 3200.48,
+      "end": 3208.11,
+      "category": "commenter_candidate",
+      "word_count": 15
+    },
+    {
+      "cue": 59,
+      "block_id": 58,
+      "speaker": "SPEAKER_05",
+      "start": 3208.83,
+      "end": 3216.84,
+      "category": "recurring",
+      "word_count": 15
+    },
+    {
+      "cue": 60,
+      "block_id": 59,
+      "speaker": "SPEAKER_09",
+      "start": 3216.84,
+      "end": 3253.26,
+      "category": "recurring",
+      "word_count": 72
+    },
+    {
+      "cue": 61,
+      "block_id": 60,
+      "speaker": "SPEAKER_00",
+      "start": 3253.28,
+      "end": 3337.75,
+      "category": "recurring",
+      "word_count": 142
+    },
+    {
+      "cue": 62,
+      "block_id": 61,
+      "speaker": "SPEAKER_03",
+      "start": 3341.19,
+      "end": 3418.9,
+      "category": "commenter_candidate",
+      "word_count": 197
+    },
+    {
+      "cue": 63,
+      "block_id": 62,
+      "speaker": "SPEAKER_07",
+      "start": 3418.9,
+      "end": 3936.94,
+      "category": "recurring",
+      "word_count": 1245
+    },
+    {
+      "cue": 64,
+      "block_id": 63,
+      "speaker": "SPEAKER_09",
+      "start": 3936.94,
+      "end": 3979.16,
+      "category": "recurring",
+      "word_count": 108
+    },
+    {
+      "cue": 65,
+      "block_id": 64,
+      "speaker": "SPEAKER_05",
+      "start": 3979.16,
+      "end": 4011.4,
+      "category": "recurring",
+      "word_count": 90
+    },
+    {
+      "cue": 66,
+      "block_id": 65,
+      "speaker": "SPEAKER_07",
+      "start": 4011.4,
+      "end": 4176.38,
+      "category": "recurring",
+      "word_count": 490
+    },
+    {
+      "cue": 67,
+      "block_id": 66,
+      "speaker": "SPEAKER_06",
+      "start": 4176.38,
+      "end": 4229.97,
+      "category": "recurring",
+      "word_count": 95
+    },
+    {
+      "cue": 68,
+      "block_id": 67,
+      "speaker": "SPEAKER_07",
+      "start": 4229.97,
+      "end": 4298.29,
+      "category": "recurring",
+      "word_count": 181
+    },
+    {
+      "cue": 69,
+      "block_id": 68,
+      "speaker": "SPEAKER_06",
+      "start": 4298.29,
+      "end": 4318.76,
+      "category": "recurring",
+      "word_count": 11
+    },
+    {
+      "cue": 70,
+      "block_id": 69,
+      "speaker": "SPEAKER_07",
+      "start": 4318.76,
+      "end": 4329.64,
+      "category": "recurring",
+      "word_count": 28
+    },
+    {
+      "cue": 71,
+      "block_id": 70,
+      "speaker": "SPEAKER_06",
+      "start": 4329.64,
+      "end": 4335.87,
+      "category": "recurring",
+      "word_count": 13
+    },
+    {
+      "cue": 72,
+      "block_id": 71,
+      "speaker": "SPEAKER_03",
+      "start": 4335.87,
+      "end": 4389.29,
+      "category": "commenter_candidate",
+      "word_count": 123
+    },
+    {
+      "cue": 73,
+      "block_id": 72,
+      "speaker": "SPEAKER_06",
+      "start": 4389.29,
+      "end": 4420.46,
+      "category": "recurring",
+      "word_count": 69
+    },
+    {
+      "cue": 74,
+      "block_id": 73,
+      "speaker": "SPEAKER_07",
+      "start": 4420.46,
+      "end": 4535.43,
+      "category": "recurring",
+      "word_count": 324
+    },
+    {
+      "cue": 75,
+      "block_id": 74,
+      "speaker": "SPEAKER_06",
+      "start": 4535.43,
+      "end": 4548.72,
+      "category": "recurring",
+      "word_count": 35
+    },
+    {
+      "cue": 76,
+      "block_id": 75,
+      "speaker": "SPEAKER_09",
+      "start": 4552.32,
+      "end": 4562.02,
+      "category": "recurring",
+      "word_count": 19
+    },
+    {
+      "cue": 77,
+      "block_id": 76,
+      "speaker": "SPEAKER_01",
+      "start": 4562.02,
+      "end": 4761.47,
+      "category": "recurring",
+      "word_count": 372
+    },
+    {
+      "cue": 78,
+      "block_id": 77,
+      "speaker": "SPEAKER_10",
+      "start": 4761.47,
+      "end": 4778.9,
+      "category": "commenter_candidate",
+      "word_count": 17
+    },
+    {
+      "cue": 79,
+      "block_id": 78,
+      "speaker": "SPEAKER_02",
+      "start": 4778.9,
+      "end": 4817.04,
+      "category": "recurring",
+      "word_count": 89
+    },
+    {
+      "cue": 80,
+      "block_id": 79,
+      "speaker": "SPEAKER_13",
+      "start": 4817.04,
+      "end": 4872.93,
+      "category": "commenter_candidate",
+      "word_count": 85
+    },
+    {
+      "cue": 81,
+      "block_id": 80,
+      "speaker": "SPEAKER_02",
+      "start": 4872.93,
+      "end": 4917.19,
+      "category": "recurring",
+      "word_count": 82
+    },
+    {
+      "cue": 82,
+      "block_id": 81,
+      "speaker": "SPEAKER_13",
+      "start": 4917.19,
+      "end": 4923.62,
+      "category": "commenter_candidate",
+      "word_count": 16
+    },
+    {
+      "cue": 83,
+      "block_id": 82,
+      "speaker": "SPEAKER_02",
+      "start": 4923.62,
+      "end": 4977.01,
+      "category": "recurring",
+      "word_count": 85
+    },
+    {
+      "cue": 84,
+      "block_id": 83,
+      "speaker": "SPEAKER_11",
+      "start": 4977.01,
+      "end": 5176.51,
+      "category": "recurring",
+      "word_count": 483
+    },
+    {
+      "cue": 85,
+      "block_id": 84,
+      "speaker": "SPEAKER_16",
+      "start": 5176.51,
+      "end": 5208.8,
+      "category": "commenter_candidate",
+      "word_count": 15
+    },
+    {
+      "cue": 86,
+      "block_id": 85,
+      "speaker": "SPEAKER_11",
+      "start": 5208.8,
+      "end": 5256.81,
+      "category": "recurring",
+      "word_count": 110
+    },
+    {
+      "cue": 87,
+      "block_id": 86,
+      "speaker": "SPEAKER_09",
+      "start": 5256.81,
+      "end": 5262.25,
+      "category": "recurring",
+      "word_count": 19
+    },
+    {
+      "cue": 88,
+      "block_id": 87,
+      "speaker": "SPEAKER_11",
+      "start": 5262.25,
+      "end": 5298.19,
+      "category": "recurring",
+      "word_count": 109
+    },
+    {
+      "cue": 89,
+      "block_id": 88,
+      "speaker": "SPEAKER_14",
+      "start": 5299.15,
+      "end": 5318.6,
+      "category": "commenter_candidate",
+      "word_count": 32
+    },
+    {
+      "cue": 90,
+      "block_id": 89,
+      "speaker": "SPEAKER_11",
+      "start": 5318.6,
+      "end": 5363.36,
+      "category": "recurring",
+      "word_count": 107
+    },
+    {
+      "cue": 91,
+      "block_id": 90,
+      "speaker": "SPEAKER_02",
+      "start": 5363.36,
+      "end": 5374.01,
+      "category": "recurring",
+      "word_count": 16
+    },
+    {
+      "cue": 92,
+      "block_id": 91,
+      "speaker": "SPEAKER_11",
+      "start": 5374.01,
+      "end": 5382.57,
+      "category": "recurring",
+      "word_count": 37
+    },
+    {
+      "cue": 93,
+      "block_id": 92,
+      "speaker": "SPEAKER_02",
+      "start": 5383.47,
+      "end": 5398.78,
+      "category": "recurring",
+      "word_count": 33
+    },
+    {
+      "cue": 94,
+      "block_id": 93,
+      "speaker": "SPEAKER_05",
+      "start": 5398.78,
+      "end": 5416.34,
+      "category": "recurring",
+      "word_count": 49
+    },
+    {
+      "cue": 95,
+      "block_id": 94,
+      "speaker": "SPEAKER_15",
+      "start": 5416.34,
+      "end": 5473.62,
+      "category": "recurring",
+      "word_count": 135
+    },
+    {
+      "cue": 96,
+      "block_id": 95,
+      "speaker": "SPEAKER_05",
+      "start": 5473.62,
+      "end": 5484.6,
+      "category": "recurring",
+      "word_count": 38
+    },
+    {
+      "cue": 97,
+      "block_id": 96,
+      "speaker": "SPEAKER_15",
+      "start": 5485.4,
+      "end": 5499.44,
+      "category": "recurring",
+      "word_count": 42
+    },
+    {
+      "cue": 98,
+      "block_id": 97,
+      "speaker": "SPEAKER_05",
+      "start": 5499.44,
+      "end": 5512.07,
+      "category": "recurring",
+      "word_count": 25
+    },
+    {
+      "cue": 99,
+      "block_id": 98,
+      "speaker": "SPEAKER_16",
+      "start": 5512.07,
+      "end": 5520.52,
+      "category": "commenter_candidate",
+      "word_count": 19
+    },
+    {
+      "cue": 100,
+      "block_id": 99,
+      "speaker": "SPEAKER_15",
+      "start": 5521.24,
+      "end": 5529.42,
+      "category": "recurring",
+      "word_count": 24
+    },
+    {
+      "cue": 101,
+      "block_id": 100,
+      "speaker": "SPEAKER_05",
+      "start": 5529.98,
+      "end": 5535.06,
+      "category": "recurring",
+      "word_count": 12
+    },
+    {
+      "cue": 102,
+      "block_id": 101,
+      "speaker": "SPEAKER_06",
+      "start": 5536.26,
+      "end": 5542.12,
+      "category": "recurring",
+      "word_count": 14
+    },
+    {
+      "cue": 103,
+      "block_id": 102,
+      "speaker": "SPEAKER_15",
+      "start": 5542.12,
+      "end": 5561.78,
+      "category": "recurring",
+      "word_count": 32
+    },
+    {
+      "cue": 104,
+      "block_id": 103,
+      "speaker": "SPEAKER_05",
+      "start": 5561.78,
+      "end": 5576.98,
+      "category": "recurring",
+      "word_count": 28
+    },
+    {
+      "cue": 105,
+      "block_id": 104,
+      "speaker": "SPEAKER_10",
+      "start": 5576.98,
+      "end": 5584.82,
+      "category": "commenter_candidate",
+      "word_count": 10
+    },
+    {
+      "cue": 106,
+      "block_id": 105,
+      "speaker": "SPEAKER_05",
+      "start": 5584.82,
+      "end": 5645.64,
+      "category": "recurring",
+      "word_count": 133
+    },
+    {
+      "cue": 107,
+      "block_id": 106,
+      "speaker": "SPEAKER_10",
+      "start": 5645.64,
+      "end": 5651.97,
+      "category": "commenter_candidate",
+      "word_count": 10
+    },
+    {
+      "cue": 108,
+      "block_id": 107,
+      "speaker": "SPEAKER_05",
+      "start": 5651.97,
+      "end": 5676.86,
+      "category": "recurring",
+      "word_count": 74
+    },
+    {
+      "cue": 109,
+      "block_id": 108,
+      "speaker": "SPEAKER_06",
+      "start": 5676.86,
+      "end": 5680.44,
+      "category": "recurring",
+      "word_count": 3
+    }
+  ]
+}

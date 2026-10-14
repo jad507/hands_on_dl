@@ -1,7 +1,18 @@
 $env:PYTHONUNBUFFERED = "1"
 $env:PYTHONUTF8 = "1"
 
-& "D:\Users\jad507\PycharmProjects\LancasterClaude\.venv\Scripts\Activate.ps1"
+# Virtualenv location is machine-specific. Override with HODL_VENV if yours differs.
+$venv = if ($env:HODL_VENV) { $env:HODL_VENV }
+        else { Join-Path (Split-Path $PSScriptRoot -Parent) "LancasterClaude\.venv" }
+$activate = Join-Path $venv "Scripts\Activate.ps1"
+if (Test-Path $activate) {
+    & $activate
+} else {
+    Write-Warning "No venv at $activate - using whatever python is on PATH. Set HODL_VENV to override."
+}
+
+# Loads HODL_MODELS_ROOT and friends; the Python scripts need it to find weights.
+& (Join-Path $PSScriptRoot "load_env.ps1")
 
 $results = [System.Collections.Generic.List[PSCustomObject]]::new()
 

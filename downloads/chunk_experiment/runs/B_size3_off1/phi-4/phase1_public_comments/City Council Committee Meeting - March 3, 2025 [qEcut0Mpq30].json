@@ -1,0 +1,202 @@
+{
+  "title": "City Council Committee Meeting - March 3, 2025",
+  "video_id": "qEcut0Mpq30",
+  "upload_date": "20250304",
+  "model": "phi-4",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-08T01:34:26+00:00",
+    "model": {
+      "name": "phi-4",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\phi-4-Q4_K_M.gguf",
+      "size_bytes": 8890306112,
+      "mtime_utc": "2026-05-22T20:42:10.869793+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    },
+    "chunking": {
+      "p1_chunk_size": 3,
+      "p1_chunk_offset": 1
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 5,
+      "speaker": "SPEAKER_14",
+      "start": 301.99,
+      "end": 357.94,
+      "speaker_name": "unknown",
+      "reason": "The speaker is addressing the council during the public comment period, expressing a position on a city decision.",
+      "text": "councillor colleagues thank you madam president the personal committee has two items on the agenda for tonight the first item is the nomination of Stephen gross for appointment to the city revitalization and improvement zone authority mr groff is nominated due to his experience and a pair request of senator scott martin due to his impressive legal background leadership experience and dedication to the lancaster community so now i'll make i think i guess he's not here but oh could you please step for what please yes thank you thank you very much thank you very much yeah sure"
+    },
+    {
+      "block_id": 10,
+      "speaker": "SPEAKER_16",
+      "start": 528.0,
+      "end": 541.34,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question during the public comment period.",
+      "text": "Councillor Collins. Thank you, Mr. Grouch, for taking our questions and your willingness to serve. How can we use CRITS to help promote economic development and equitable economic development here in the city?"
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_04",
+      "start": 616.43,
+      "end": 641.48,
+      "speaker_name": "Susie Gomez",
+      "reason": "The speaker identifies themselves and asks a question during the public comment period.",
+      "text": "i have to say my name yes okay susie gomez 100 block of north reservoir street um are you filling in the position on a legal standpoint or are you filling in the position on a board member standpoint board member position just the board"
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_08",
+      "start": 1230.89,
+      "end": 1623.24,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member addressing the council during the public comment period.",
+      "text": "Thank You Tina Good afternoon. I'm sorry. Good evening members of council. Thank you for being let me be here tonight to work with you the presentation I handed out to you and is Will look similar for those of you who might have been here about three years ago when the last you know multi-purpose financing was done so We're ultimately gonna be doing one what would you what do you call one bond issue? but we we try to tailor each piece you have a general fund component you have a sewer fund component and you have a water fund component so it's really kind of almost three financings and one obviously you're economize on the on the related costs but the key being you know we're really kind of thinking about this and we're also tailoring the terms and the structures of each three component to best manage none of the useful lives of the respective projects but also the budgetary impacts so when we get to the graphs a lot of people some people like numbers some people like graphs I think the graphs pretty much show a pretty good picture of kind of where you're going or where you are and where you're going and I'll talk about timing then on the back end so if you join me on page one this is what I'm talking about about the general fund I'm gonna do the high level of each fund and I'm going to go kind of vertical so the general fund is for the 19 million dollars of projects the sewer fund and that will be over a term of 20 years again kind of tailoring the useful life of the respective projects the sewer fund is as products of about 10.3 million dollars we're going to finance those over a term of 30 years the water fund about nine $9.1 million and we're going to finance that over a period of 25 years for a total projects of the 38 almost thirty eight and a half million dollars. So now we're going to talk each fund kind of individually So for the general fund of the 19 million dollars in projects we start with where you are So that line row two there is the existing net debt service for the respective funds. So Your current general fund debt service is about seven point five million dollars with financing the 19 million dollars certainly you've already adopted a budget for 2025 so we have no budgetary impact for the remainder of 2025 in any of the funds also just to allow time for your for your obviously the projects to be done and also to replenish some of your reserves with with any of the increases you've had recently here in 2025 we're not going to have any budgetary impact in the general fund in 2026. So you'll remain at $7.5 million. Then the impact from this borrowing in 2027 will be about $900,000. So you'll settle in at about $8.4 million. And there'll be no further impact or increases in 2028. So the overall budgetary impact of this borrowing will be the $900,000. And then when we get to the graphs, you'll see how it actually steps down in the future but it'll never there's not another increase coming is what I'm trying to say sliding over to the sewer fund the ten point three million dollars of projects your current existing debt services just under four point seven million dollars in 2025 again for the remainder of the year there'll be no budgetary impact in 2026 even with this borrowing your debt service or budgetary impact is going to be what we'll call a modest $120,000 because your existing debt service is already dropping down okay and we'll see that in the graph and really there'll be no future increases beyond 2026 so the overall impact or budgetary impact of the sewer borrowing is $120,000 going forward and again you'll see step downs when we get to the graph. Water fund, for the $9.1 million of projects, your existing 2025 debt service is $14 million. Again, no increase in 2025. In line five there, the additional impact in 2026, this was a little bit different. So that $1,071,000 that you're seeing, that's actually what's going to happen even if you weren't borrowing another dollar today. So So, yes, you're going to have a budgetary impact or an increase in 2026 of about a million dollars. Again, all of that is already of projects you've previously done and what's in your current budget going forward. Then we're going to kind of take a year off in 2027. And then in 2028, as a function of this borrowing, the budgetary impact will be that $938,000. dollars so sum total of the million dollars that or it was there and the nine hundred thousand dollars from this borrowing your overall budgetary impact in 2028 will be about two million dollars I'm gonna pause there again I think the graphs are going to show this much better but and so those are the borrowings and the budgetary impacts from this financing any questions on that before I it's a function of the useful lives of the projects that are there they're in the project list that you was handed out there are useful lives of the respective projects I kind of did it like a mathematical calculation to get kind of an average life and we're being careful that you know it's like your car you don't you know you don't borrow for your car for ten years when you know you're going to need a new car in five. So we're doing the same thing with the projects that you're financing. We're being careful that, and also it's appropriateness. You don't want to, while you don't want to finance something longer, if you don't need to, why financing something shorter and have a higher burden today just to kind of save a lot more money tomorrow? It's not always equitable. So we try to balance the terms of the financing with the respective useful lives of the projects being financed."
+    },
+    {
+      "block_id": 44,
+      "speaker": "SPEAKER_14",
+      "start": 2895.45,
+      "end": 2909.91,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member asking a question during the public comment period.",
+      "text": "Thank you, Councilor Hoyo. I just have one question. When you plan all these projects, do you take into consideration unexpected risks or challenges during the execution of those projects?"
+    },
+    {
+      "block_id": 53,
+      "speaker": "SPEAKER_04",
+      "start": 3123.36,
+      "end": 3136.56,
+      "speaker_name": "unknown",
+      "reason": "The speaker asks a question about the timeframe for record disposal.",
+      "text": "Question, do we know how far back?"
+    },
+    {
+      "block_id": 64,
+      "speaker": "SPEAKER_05",
+      "start": 3979.16,
+      "end": 4011.4,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident expressing concerns about street trees and asks for information on the new plan.",
+      "text": "thank you for the presentation this evening it's nice to meet you uh officially uh thank you could you speak a bit about i know that there are probably some residents who have uh have had bad experiences with street trees in the past and uh could you speak to ways that this new plan addresses concerns about what trees are planted in empty wells or replanted uh where there are stumps and where trees may have caused damage to sidewalks before yeah so um i want to address that"
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_07",
+      "start": 4011.4,
+      "end": 4176.38,
+      "speaker_name": "unknown",
+      "reason": "The speaker discusses improvements in addressing residents' concerns about tree-related issues.",
+      "text": "in kind of two different ways uh the first one is process uh especially since i started i've been working with um various people within the city to make sure that we have a a good effective process for addressing these concerns like when a tree branch comes down or when someone needs to have assistance and I think we've been working very well about that we've made some significant improvements in the last month or so in parts of that and so as especially as the City Works City View programs come online that is also going to make things much easier as it will sort of very well streamline things will be all electronic we won't necessarily have to have people call in or or maybe just through like the fix it link so when it comes to making it more readily available more intuitive to get those resources I think we're going in the right direction the second part is more you know how are we addressing you know our art where our trees are placed And so one of the big things I always like to say is more tree equal more better with the caveat of the right tree in the right spot and One of the things I'm sure we all are aware of is that if we're wandering through town The sidewalk is not necessarily the most level at times. Sadly that does have to do with some of our trees That also is probably related to the fact that we have nearly a quarter of the city trees being maples historically they've been very easy to get and the plant but because of how they work in their ecosystem as some of the first ones in there they put down shallow roots they really grow them and push them out and then of course the sidewalks kind of suffer that those sorts of decisions were at the time very much like we need a tree we're gonna put something in there we are being far more systematic about that I actually just redid our citing guidelines to make sure that when there we are either planning a well or planning work around the well we're keeping in mind now the subsurface infrastructure more of those clearances um and we are doing um more to make sure that that tree that we put there is the one that will work for the long you know the long haul um so you know the really the best time to plant any tree is like 20 or 30 years ago but the second best time is now so we want to make sure that when we do put those in in the next 20 or 30 years people aren't wondering like what is going on with this tree in a bad way we wanted to be like what's going on with this tree in a"
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_06",
+      "start": 4176.38,
+      "end": 4229.97,
+      "speaker_name": "unknown",
+      "reason": "The speaker raises questions about specific trees causing damage and expresses neighborhood concerns.",
+      "text": "good way any other question or comment from in regards to replacing some of trees do you have like specific trees that you might have found that they're disease that need removal is there any issues I mean I know one particular one that has not been removed and it's causing especially when the wind is really blustery it's it actually damaged someone's car and the neighborhood is concerns I'm curious about other you know what what exactly plans you have to remove to remove these disease trees yeah so with the processes I talked"
+    },
+    {
+      "block_id": 71,
+      "speaker": "SPEAKER_03",
+      "start": 4335.87,
+      "end": 4389.29,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and expresses an opinion on biodiversity and disease risk.",
+      "text": "And if I can just add one point to your initial comment, Councillor, one of the things that I've observed that I really appreciate with respect to the risk of disease and things like that is the intentionality with respect to biodiversity and really it's beautiful to observe a line of trees that are all the the same species, but if that particular tree species then becomes susceptible to disease, you're now talking about eliminating a whole block or having a whole block of trees become at risk. And so with these process improvements, there's a real intentionality to make sure that we're diversifying the types of trees that are all right for that particular instance to be able to be more resilient."
+    },
+    {
+      "block_id": 76,
+      "speaker": "SPEAKER_01",
+      "start": 4562.02,
+      "end": 4761.47,
+      "speaker_name": "Jose",
+      "reason": "The speaker identifies as a resident and co-founder of a local organization, expressing concerns about neighborhood parks and tree maintenance.",
+      "text": "or comments from the public how we're doing my name is jose 100 block of coral street co-founder of the west crystal volunteers the issues on the trees very good so park between first street so street there's a park right there crystal park now whose responsibility is going to be now to trim those trees and there are no those uh neighborhood parks another thing why we're planting how many trees because we also do have other non-profit organizations doing the same thing planting trees how many trees we need we just eliminated i don't know how many trees there were at least 200 years old just to put a new park and to give it an eye view but what they did was take all the trees off what kind of eye view is that you just took the most important thing out of that park and that's behind the water street mission ridiculous um the park where i'm at uh we take care of that park the gentleman right here in front of me knows that uh you guys that come to pick up park cleaning uh the only thing the guys have to do when they go to check the park clean it it's just to take the bag out of the garbage can because everything else is it's clean my kids already took care of that for the past six years we're still slow on maintenance in that area it's taking forever sometimes because it takes too long to get the part you need for it and all to this red tape i don't want to hear the race red tape that park we have and every other park is very important safe zone for the kids and that's what we're doing we're where but we're still missing a lot of items you guys want to plant more trees we still planting the water sewage running water that will go into the ground we're still doing uh for the disabled to have a wheelchairs we're still doing the corners they're still doing ugi i mean are you guys serious trees that's a waste of money so like i say thank you are there any other comments or"
+    },
+    {
+      "block_id": 79,
+      "speaker": "SPEAKER_13",
+      "start": 4817.04,
+      "end": 4872.93,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and expresses a concern about the sewage facilities plan.",
+      "text": "to this resolution good evening thank you um this resolution is related to the sewage facilities plan i'm sure you guys are all familiar with having to pass these um this project is um making sure I have the right is for a single building that is going to be turned into four apartments. So right now it's currently a vacant lot. So they need to have a switch planning module to add those four units for EDUs. Thank you. And yeah, these are regular"
+    },
+    {
+      "block_id": 81,
+      "speaker": "SPEAKER_13",
+      "start": 4917.19,
+      "end": 4923.62,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and provides information about a construction project.",
+      "text": "project thank you um this is for the construction of three new single family attached dwellings"
+    },
+    {
+      "block_id": 84,
+      "speaker": "SPEAKER_16",
+      "start": 5176.51,
+      "end": 5208.8,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and expresses a position on the project timeline.",
+      "text": "happy happy to do that as well with the timeline of the project thank you"
+    },
+    {
+      "block_id": 88,
+      "speaker": "SPEAKER_14",
+      "start": 5299.15,
+      "end": 5318.6,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and asks a question about the proposed amendments.",
+      "text": "thank you counselor any additional questions please thank you thank you for your remarks and um how will the proposed amendments benefit the community as a whole thank you we've been working"
+    },
+    {
+      "block_id": 98,
+      "speaker": "SPEAKER_16",
+      "start": 5512.07,
+      "end": 5520.52,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question about the budget during the public comment period.",
+      "text": "Thank you, Council President. Just one more question on where it's budgeted to. Is this administrative services line item?"
+    },
+    {
+      "block_id": 105,
+      "speaker": "SPEAKER_05",
+      "start": 5584.82,
+      "end": 5645.64,
+      "speaker_name": "miss Diaz",
+      "reason": "The speaker identifies as a resident and expresses a position on recognizing Women's History Month.",
+      "text": "miss Diaz mr. Hirsch hi hi thank you and then councilmembers we also have resolution 21 2025 on our committee of the whole agenda this evening it's recognizing Women's History Month we typically bring this forward I'm proud to introduce it again recognizing the impact of women in the history of both our nation and here at home in lancaster and women from all different backgrounds as well i'll be looking forward to having some folks here hopefully at our next meeting for moving this forward to celebrate them i'll have more information at that time any council comments on the resolution from the public hearing none i'll motion to move uh resolution uh 21 to our meeting on March 11th second thank you mr. Harris if you would mr. man hi mr."
+    }
+  ]
+}

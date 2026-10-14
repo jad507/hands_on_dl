@@ -1,0 +1,54 @@
+﻿[2026-09-03 21:20:59] Pre-flight checks
+  OK   model file (8.71 GB)
+  OK   phase 1 prompt (p1_system.txt, sha 40abc756d122)
+  OK   12 meeting files
+  OK   GPU: NVIDIA RTX A2000 12GB, 10749 MiB, 12282 MiB
+[2026-09-03 21:21:02] Loading model: D:\LLM\unsloth\gemma-4-E4B-it-UD-Q8_K_XL.gguf
+llama_context: n_ctx_seq (16384) < n_ctx_train (131072) -- the full capacity of the model will not be utilized
+llama_kv_cache_iswa: using full-size SWA cache (ref: https://github.com/ggml-org/llama.cpp/pull/13194#issuecomment-2868343055)
+llama_kv_cache: the V embeddings have different sizes across layers and FA is not enabled - padding V cache to 1024
+llama_kv_cache: the V embeddings have different sizes across layers and FA is not enabled - padding V cache to 1024
+  Loaded in 7s
+
+[2026-09-03 21:21:10] Phase 1 starting: 12 meeting files
+
+[2026-09-03 21:21:10] City Council Committee Meeting - February 3, 2025
+  15 public comments from 80 blocks  [Elapsed: 1m 43s]
+
+[2026-09-03 21:22:54] City Council Committee Meeting - March 3, 2025
+  20 public comments from 109 blocks  [Elapsed: 2m 11s]
+
+[2026-09-03 21:25:06] City Council Committee Meeting - September 2, 2025
+  22 public comments from 94 blocks  [Elapsed: 2m 24s]
+
+[2026-09-03 21:27:30] City Council Meeting - April 29, 2025
+  31 public comments from 96 blocks  [Elapsed: 3m 14s]
+
+[2026-09-03 21:30:45] City Council Meeting - August 12, 2025
+  28 public comments from 114 blocks  [Elapsed: 3m 15s]
+
+[2026-09-03 21:34:00] City Council Meeting - August 26, 2025
+  20 public comments from 79 blocks  [Elapsed: 2m 14s]
+
+[2026-09-03 21:36:14] City Council Meeting - February 11, 2025
+  8 public comments from 86 blocks  [Elapsed: 1m 8s]
+
+[2026-09-03 21:37:23] City Council Meeting - July 22, 2025
+  34 public comments from 126 blocks  [Elapsed: 3m 54s]
+
+[2026-09-03 21:41:18] City Council Meeting - June 10, 2025
+  24 public comments from 129 blocks  [Elapsed: 2m 50s]
+
+[2026-09-03 21:44:08] City Council Meeting - May 27, 2025
+  23 public comments from 95 blocks  [Elapsed: 2m 32s]
+
+[2026-09-03 21:46:40] City Council Meeting - September 9, 2025
+  21 public comments from 117 blocks  [Elapsed: 2m 31s]
+
+[2026-09-03 21:49:12] Planning Commission Meeting - September 3, 2025
+  12 public comments from 106 blocks  [Elapsed: 1m 42s]
+
+Summary: 12 processed, 0 skipped, 0 errors
+Total time: 29m 45s
+
+Done.

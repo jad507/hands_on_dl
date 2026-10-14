@@ -1,0 +1,32 @@
+{
+  "source": "CSO Control Plan Public Meeting - April 3, 2025 [FfgtaEJ-0l4].json",
+  "title": "CSO Control Plan Public Meeting - April 3, 2025",
+  "video_id": "FfgtaEJ-0l4",
+  "rttm_mode": "standard=exclusive",
+  "concord_import": {
+    "scheme": "turn",
+    "maxMergeGapSeconds": -1,
+    "why": "mergeCues tests `gap <= maxMergeGapSeconds`, so 0 still merges adjacent cues. A negative value is the only one that preserves the block spine."
+  },
+  "stats": {
+    "n_blocks": 1,
+    "n_cues": 1,
+    "n_empty_skipped": 0,
+    "n_angle_brackets_escaped": 0,
+    "invalid_speaker_labels": [],
+    "same_speaker_adjacent_pairs": [],
+    "would_merge_at_concord_default_30s": 0,
+    "required_max_merge_gap_seconds": -1
+  },
+  "cues": [
+    {
+      "cue": 1,
+      "block_id": 0,
+      "speaker": "SPEAKER_00",
+      "start": 1574.35,
+      "end": 4038.58,
+      "category": "recurring",
+      "word_count": 5158
+    }
+  ]
+}

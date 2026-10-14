@@ -1,0 +1,649 @@
+{
+  "source": "llamacpp_nemotron-3-nano-omni-q4km_v3.csv",
+  "clips": 593,
+  "by_notation": {
+    "vendor_asr/rep": {
+      "n": 593,
+      "emphasis": 0,
+      "pause": 0,
+      "bracket": 0,
+      "cutoff": 0,
+      "capitals": 7
+    },
+    "plain/rep": {
+      "n": 593,
+      "emphasis": 0,
+      "pause": 0,
+      "bracket": 0,
+      "cutoff": 0,
+      "capitals": 10
+    },
+    "general/rep": {
+      "n": 593,
+      "emphasis": 19,
+      "pause": 42,
+      "bracket": 4,
+      "cutoff": 18,
+      "capitals": 13
+    }
+  },
+  "rep_clips_with_emphasis": {
+    "vendor_asr": {
+      "n_marked": 7,
+      "n_rep_clips": 593,
+      "matches_whistress_top": 7,
+      "matches_wavelet_top": 6,
+      "clips": [
+        {
+          "video_id": "zdYCW4QH1-Q",
+          "condition": "rep_05",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "stole",
+          "matches_whistress": true,
+          "matches_wavelet": false,
+          "transcript": "I never said she stole MY money."
+        },
+        {
+          "video_id": "PqsH_jQKhpw",
+          "condition": "rep_03",
+          "marks": [
+            "you",
+            "you"
+          ],
+          "whistress_top": "you",
+          "wavelet_top": "you",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I didn't tell her YOU stole his wallet. I didn't tell her YOU stole his wallet."
+        },
+        {
+          "video_id": "vVVB-35oeQE",
+          "condition": "rep_04",
+          "marks": [
+            "the"
+          ],
+          "whistress_top": "the",
+          "wavelet_top": "the",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "To be or not to be, that is THE question."
+        },
+        {
+          "video_id": "7673783250568973576",
+          "condition": "rep_05",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "my",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said she stole MY money."
+        },
+        {
+          "video_id": "7650568063812717838",
+          "condition": "rep_05",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "my",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said she stole MY money."
+        },
+        {
+          "video_id": "7667605758195797268",
+          "condition": "rep_06",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "my",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said she stole MY money."
+        },
+        {
+          "video_id": "7285785586974133509",
+          "condition": "rep_05",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "my",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said she stole MY money."
+        }
+      ]
+    },
+    "plain": {
+      "n_marked": 10,
+      "n_rep_clips": 593,
+      "matches_whistress_top": 9,
+      "matches_wavelet_top": 8,
+      "clips": [
+        {
+          "video_id": "_8UYCo7-fqY",
+          "condition": "rep_04",
+          "marks": [
+            "he"
+          ],
+          "whistress_top": "he",
+          "wavelet_top": "he",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I didn't say HE stole the money."
+        },
+        {
+          "video_id": "X02JYzY5eO8",
+          "condition": "rep_04",
+          "marks": [
+            "he"
+          ],
+          "whistress_top": "he",
+          "wavelet_top": "he",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I didn't say HE stole her money."
+        },
+        {
+          "video_id": "zdYCW4QH1-Q",
+          "condition": "rep_05",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "stole",
+          "matches_whistress": true,
+          "matches_wavelet": false,
+          "transcript": "I never said she stole MY money."
+        },
+        {
+          "video_id": "PqsH_jQKhpw",
+          "condition": "rep_03",
+          "marks": [
+            "you",
+            "you"
+          ],
+          "whistress_top": "you",
+          "wavelet_top": "you",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I didn't tell her YOU stole his wallet. I didn't tell her YOU stole his wallet."
+        },
+        {
+          "video_id": "vVVB-35oeQE",
+          "condition": "rep_04",
+          "marks": [
+            "the"
+          ],
+          "whistress_top": "the",
+          "wavelet_top": "the",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "To be or not to be, that is THE question."
+        },
+        {
+          "video_id": "U30_A9xmFL8",
+          "condition": "rep_09",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "money",
+          "wavelet_top": "money",
+          "matches_whistress": false,
+          "matches_wavelet": false,
+          "transcript": "I never said you stole MY money. I said you stole."
+        },
+        {
+          "video_id": "7673783250568973576",
+          "condition": "rep_05",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "my",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said she stole MY money."
+        },
+        {
+          "video_id": "7650568063812717838",
+          "condition": "rep_05",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "my",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said she stole MY money."
+        },
+        {
+          "video_id": "7667605758195797268",
+          "condition": "rep_06",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "my",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said she stole MY money."
+        },
+        {
+          "video_id": "7285785586974133509",
+          "condition": "rep_05",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "my",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said she stole MY money."
+        }
+      ]
+    },
+    "general": {
+      "n_marked": 32,
+      "n_rep_clips": 593,
+      "matches_whistress_top": 29,
+      "matches_wavelet_top": 20,
+      "clips": [
+        {
+          "video_id": "4Iqrm82LED4",
+          "condition": "rep_03",
+          "marks": [
+            "say"
+          ],
+          "whistress_top": "say",
+          "wavelet_top": "he",
+          "matches_whistress": true,
+          "matches_wavelet": false,
+          "transcript": "I didn't *say* he stole the money."
+        },
+        {
+          "video_id": "_8UYCo7-fqY",
+          "condition": "rep_05",
+          "marks": [
+            "stole"
+          ],
+          "whistress_top": "didn't",
+          "wavelet_top": "the",
+          "matches_whistress": false,
+          "matches_wavelet": false,
+          "transcript": "I didn't say *stole* the money."
+        },
+        {
+          "video_id": "_8UYCo7-fqY",
+          "condition": "rep_06",
+          "marks": [
+            "the"
+          ],
+          "whistress_top": "the",
+          "wavelet_top": "the",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "permission. I didn't say he stole THE money."
+        },
+        {
+          "video_id": "X02JYzY5eO8",
+          "condition": "rep_05",
+          "marks": [
+            "stole"
+          ],
+          "whistress_top": "stole",
+          "wavelet_top": "stole",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "him. I didn't say he *stole* her money."
+        },
+        {
+          "video_id": "LLOopgVk6gc",
+          "condition": "rep_02",
+          "marks": [
+            "said"
+          ],
+          "whistress_top": "said",
+          "wavelet_top": "said",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never *said* she stole your money."
+        },
+        {
+          "video_id": "LLOopgVk6gc",
+          "condition": "rep_03",
+          "marks": [
+            "said"
+          ],
+          "whistress_top": "said",
+          "wavelet_top": "said",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never *said* she stole your money."
+        },
+        {
+          "video_id": "LLOopgVk6gc",
+          "condition": "rep_04",
+          "marks": [
+            "she"
+          ],
+          "whistress_top": "she",
+          "wavelet_top": "she",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said *she* stole your money."
+        },
+        {
+          "video_id": "zdYCW4QH1-Q",
+          "condition": "rep_02",
+          "marks": [
+            "said"
+          ],
+          "whistress_top": "said",
+          "wavelet_top": "said",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never *said* she stole my money."
+        },
+        {
+          "video_id": "zdYCW4QH1-Q",
+          "condition": "rep_05",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "stole",
+          "matches_whistress": true,
+          "matches_wavelet": false,
+          "transcript": "I never said she stole MY money."
+        },
+        {
+          "video_id": "PqsH_jQKhpw",
+          "condition": "rep_03",
+          "marks": [
+            "you",
+            "you"
+          ],
+          "whistress_top": "you",
+          "wavelet_top": "you",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I didn't tell her YOU stole his wallet. I didn't tell her YOU stole his wallet."
+        },
+        {
+          "video_id": "SOzRB9fHesQ",
+          "condition": "rep_05",
+          "marks": [
+            "stole"
+          ],
+          "whistress_top": "stole",
+          "wavelet_top": "stole",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said you *stole* the money. Maybe you-"
+        },
+        {
+          "video_id": "QXCpWI0qpys",
+          "condition": "rep_01",
+          "marks": [
+            "didn't"
+          ],
+          "whistress_top": "didn't",
+          "wavelet_top": "i",
+          "matches_whistress": true,
+          "matches_wavelet": false,
+          "transcript": "I DIDN'T say we should kill him. This means."
+        },
+        {
+          "video_id": "QXCpWI0qpys",
+          "condition": "rep_02",
+          "marks": [
+            "say"
+          ],
+          "whistress_top": "say",
+          "wavelet_top": "didn't",
+          "matches_whistress": true,
+          "matches_wavelet": false,
+          "transcript": "I didn't SAY we should kill him. (1.2) This means you may have."
+        },
+        {
+          "video_id": "uuxrEyho8Ig",
+          "condition": "rep_01",
+          "marks": [
+            "happy"
+          ],
+          "whistress_top": "happy",
+          "wavelet_top": "christmas",
+          "matches_whistress": true,
+          "matches_wavelet": false,
+          "transcript": "word. *Happy* Christmas to all of you."
+        },
+        {
+          "video_id": "vVVB-35oeQE",
+          "condition": "rep_04",
+          "marks": [
+            "the"
+          ],
+          "whistress_top": "the",
+          "wavelet_top": "the",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "To be or not to be, that is THE question."
+        },
+        {
+          "video_id": "U30_A9xmFL8",
+          "condition": "rep_09",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "money",
+          "wavelet_top": "money",
+          "matches_whistress": false,
+          "matches_wavelet": false,
+          "transcript": "I never said you stole MY money. I said you-"
+        },
+        {
+          "video_id": "fhhV1N2XJtg",
+          "condition": "rep_03",
+          "marks": [
+            "she"
+          ],
+          "whistress_top": "she",
+          "wavelet_top": "said",
+          "matches_whistress": true,
+          "matches_wavelet": false,
+          "transcript": "He never said, *she* stole my money. If the person-"
+        },
+        {
+          "video_id": "_tsSPbAAKjc",
+          "condition": "rep_04",
+          "marks": [
+            "my",
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "my",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I didn't say you stole MY money (1.2) I didn't say you stole MY money"
+        },
+        {
+          "video_id": "68TlhbC_7ns",
+          "condition": "rep_04",
+          "marks": [
+            "her"
+          ],
+          "whistress_top": "her",
+          "wavelet_top": "her",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I did not say she carried HER dog."
+        },
+        {
+          "video_id": "-Usf78IP0yA",
+          "condition": "rep_02",
+          "marks": [
+            "bring"
+          ],
+          "whistress_top": "bring",
+          "wavelet_top": "anything",
+          "matches_whistress": true,
+          "matches_wavelet": false,
+          "transcript": "Why would Jerry *bring* anything?"
+        },
+        {
+          "video_id": "-Usf78IP0yA",
+          "condition": "rep_04",
+          "marks": [
+            "why"
+          ],
+          "whistress_top": "jerry",
+          "wavelet_top": "jerry",
+          "matches_whistress": false,
+          "matches_wavelet": false,
+          "transcript": "Did he say, *why* would Jerry bring anything?"
+        },
+        {
+          "video_id": "YtJCvr7G1bY",
+          "condition": "rep_02",
+          "marks": [
+            "stole"
+          ],
+          "whistress_top": "stole",
+          "wavelet_top": "the",
+          "matches_whistress": true,
+          "matches_wavelet": false,
+          "transcript": "I didn't say *stole* the money. This"
+        },
+        {
+          "video_id": "7673783250568973576",
+          "condition": "rep_03",
+          "marks": [
+            "she"
+          ],
+          "whistress_top": "she",
+          "wavelet_top": "she",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said *she* stole my money."
+        },
+        {
+          "video_id": "7673783250568973576",
+          "condition": "rep_05",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "my",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said she stole MY money."
+        },
+        {
+          "video_id": "7650568063812717838",
+          "condition": "rep_02",
+          "marks": [
+            "said"
+          ],
+          "whistress_top": "said",
+          "wavelet_top": "said",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never *said* she stole my money."
+        },
+        {
+          "video_id": "7650568063812717838",
+          "condition": "rep_03",
+          "marks": [
+            "she"
+          ],
+          "whistress_top": "she",
+          "wavelet_top": "she",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said *she* stole my money."
+        },
+        {
+          "video_id": "7650568063812717838",
+          "condition": "rep_05",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "my",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said she stole MY money."
+        },
+        {
+          "video_id": "7663192709049617684",
+          "condition": "rep_02",
+          "marks": [
+            "say"
+          ],
+          "whistress_top": "say",
+          "wavelet_top": "didn't",
+          "matches_whistress": true,
+          "matches_wavelet": false,
+          "transcript": "He didn't *say* we should fire her."
+        },
+        {
+          "video_id": "7667605758195797268",
+          "condition": "rep_06",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "my",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said she stole MY money."
+        },
+        {
+          "video_id": "7285785586974133509",
+          "condition": "rep_03",
+          "marks": [
+            "she"
+          ],
+          "whistress_top": "she",
+          "wavelet_top": "she",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said *she* stole my money."
+        },
+        {
+          "video_id": "7285785586974133509",
+          "condition": "rep_05",
+          "marks": [
+            "my"
+          ],
+          "whistress_top": "my",
+          "wavelet_top": "my",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "I never said she stole MY money."
+        },
+        {
+          "video_id": "7206603022649036037",
+          "condition": "rep_01",
+          "marks": [
+            "didn't"
+          ],
+          "whistress_top": "didn't",
+          "wavelet_top": "didn't",
+          "matches_whistress": true,
+          "matches_wavelet": true,
+          "transcript": "She *didn't* take your phone. (1.2) She is not-"
+        }
+      ]
+    }
+  },
+  "originals": {}
+}

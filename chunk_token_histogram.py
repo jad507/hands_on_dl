@@ -18,10 +18,14 @@ import time
 from pathlib import Path
 
 from llama_cpp import Llama
+
+import paths
+import provenance
 from pipeline_utils import fmt_elapsed, now_str
 
-MODEL_PATH          = r"D:\LLM\bartowski\Qwen_Qwen3.5-9B-Q6_K_L.gguf"
-COMMENTS_DIR        = r"D:\Users\jad507\PycharmProjects\hands_on_dl\downloads\comments"
+# Model weights are machine-specific; see paths.py and HODL_MODELS_ROOT.
+MODEL_PATH          = str(paths.resolve_model_path("bartowski/Qwen_Qwen3.5-9B-Q6_K_L.gguf"))
+COMMENTS_DIR        = str(paths.COMMENTS_DIR)
 CHUNK_SIZE          = 50      # must match llm_extract_comments.py
 CLASSIFY_MAX_TOKENS = 512     # max_tokens used in classify_chunk
 OUTPUT_FILE         = Path(__file__).parent / "chunk_token_histogram.txt"
@@ -89,6 +93,7 @@ def pct(sorted_vals: list[int], p: float) -> int:
 def main():
     t0 = time.perf_counter()
 
+    print(f"Hardware: {provenance.hardware_summary()}  (n_gpu_layers=0 -- CPU-only run)")
     print(f"[{now_str()}] Loading tokenizer (CPU-only, n_gpu_layers=0)...")
     print(f"  {MODEL_PATH}")
     llm = Llama(model_path=MODEL_PATH, n_gpu_layers=0, n_ctx=512, verbose=False)

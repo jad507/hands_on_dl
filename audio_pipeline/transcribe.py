@@ -33,10 +33,22 @@ load_dotenv()
 
 REPO_ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(REPO_ROOT))
-from pipeline_utils import fmt_elapsed, now_str  # noqa: E402
+from pipeline_utils import fmt_elapsed, hardware_summary, now_str  # noqa: E402
+import whisper_io  # noqa: E402
 AUDIO_DIR = REPO_ROOT / "downloads" / "audio"
 MODEL_NAME = "large-v3"
 OUT_DIR = REPO_ROOT / "downloads" / f"whisper_{MODEL_NAME}"
+
+# Single source of truth for the decoding parameters. They are passed to
+# model.transcribe() AND written into every output's provenance block, so
+# defining them twice is how the record silently stops describing the run.
+DECODE_PARAMS = {
+    "beam_size": 10,
+    "best_of": 5,
+    "vad_filter": True,
+    "vad_parameters": {"min_silence_duration_ms": 500},
+    "condition_on_previous_text": False,
+}
 
 
 def _gpu_mem_str(reset_peak: bool = False) -> str:
@@ -72,7 +84,8 @@ def load_model(compute_type: str):
 SENTINEL_FILE = OUT_DIR.parent / "_transcribe_in_progress.txt"
 
 
-def transcribe_file(model, audio_path: Path, out_dir: Path) -> bool:
+def transcribe_file(model, audio_path: Path, out_dir: Path,
+                    compute_type: str) -> bool:
     """Transcribe one file. Returns True if work was done, False if skipped."""
     out_path = out_dir / f"{audio_path.stem}.json"
 
@@ -88,14 +101,7 @@ def transcribe_file(model, audio_path: Path, out_dir: Path) -> bool:
     print(f"  GPU before: {_gpu_mem_str()}")
     print(f"  Transcribing (this may take a while)...")
     t0 = time.perf_counter()
-    segments, info = model.transcribe(
-        str(audio_path),
-        beam_size=10,
-        best_of=5,
-        vad_filter=True,
-        vad_parameters={"min_silence_duration_ms": 500},
-        condition_on_previous_text=False,
-    )
+    segments, info = model.transcribe(str(audio_path), **DECODE_PARAMS)
 
     result = []
     for seg in segments:
@@ -105,10 +111,24 @@ def transcribe_file(model, audio_path: Path, out_dir: Path) -> bool:
             "text": seg.text.strip(),
         })
 
-    out_path.write_text(json.dumps(result, indent=2, ensure_ascii=False))
+    elapsed = time.perf_counter() - t0
+
+    # Provenance travels with the transcript, not beside it. See whisper_io.
+    prov = whisper_io.build_provenance(
+        model_name=MODEL_NAME,
+        compute_type=compute_type,
+        decode_params=DECODE_PARAMS,
+        audio_path=audio_path,
+        audio_info={
+            "duration_s": round(info.duration, 3),
+            "language": info.language,
+            "language_probability": round(info.language_probability, 4),
+        },
+        elapsed_s=elapsed,
+    )
+    whisper_io.write_transcript(out_path, result, prov)
     SENTINEL_FILE.unlink(missing_ok=True)
 
-    elapsed = time.perf_counter() - t0
     duration_min = info.duration / 60
     print(f"  Done: {len(result)} segments, audio {duration_min:.1f} min, elapsed {fmt_elapsed(elapsed)}")
     print(f"  Written: {out_path.name}")
@@ -136,6 +156,8 @@ def main():
         help="Reload model every N transcribed files to flush CUDA fragmentation (0 = never; default: 1)",
     )
     args = parser.parse_args()
+
+    print(f"Hardware: {hardware_summary()}")
 
     if args.input:
         input_path = Path(args.input)
@@ -186,7 +208,7 @@ def main():
 
         print(f"\n[{now_str()}] Processing: {audio_path.name}")
         try:
-            did_work = transcribe_file(model, audio_path, OUT_DIR)
+            did_work = transcribe_file(model, audio_path, OUT_DIR, args.compute_type)
             if did_work:
                 n_done += 1
                 print(f"  GPU: {_gpu_mem_str(reset_peak=True)}")

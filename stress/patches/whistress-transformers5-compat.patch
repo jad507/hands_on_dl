@@ -1,0 +1,62 @@
+From 5255edbfeb918ca75f090568f957358387b050cc Mon Sep 17 00:00:00 2001
+From: itsnotmyfault <jeff.delucca@gmail.com>
+Date: Mon, 28 Sep 2026 15:06:57 -0400
+Subject: [PATCH] Handle transformers>=5 decoder layers returning a tensor, not
+ a tuple
+
+transformers 5 changed WhisperDecoderLayer.forward to return hidden_states
+directly; the three outputs[0] sites then sliced off the batch dimension and
+inference crashed with 'too many indices for tensor of dimension 1'.
+Verified against StressTest (Yosha et al. 2025 Table 3): P 0.885 R 0.882
+F1 0.884 vs published 88.5 / 88.1 / 88.3.
+---
+ whistress/model/model.py | 12 +++++++++---
+ 1 file changed, 9 insertions(+), 3 deletions(-)
+
+diff --git a/whistress/model/model.py b/whistress/model/model.py
+index b9d92bf..426f891 100644
+--- a/whistress/model/model.py
++++ b/whistress/model/model.py
+@@ -25,6 +25,12 @@ class CustomModelOutput(BaseModelOutput):
+     preds: Optional[torch.Tensor] = None
+ 
+ 
++def _layer_hidden(outputs):
++    # transformers<5 decoder layers return a tuple (hidden_states, ...); >=5 return the
++    # hidden_states tensor itself, where [0] would silently slice off the batch dimension.
++    return outputs if isinstance(outputs, torch.Tensor) else outputs[0]
++
++
+ # Define a new head (e.g., a classification layer)
+ class LinearHead(nn.Module):
+     def __init__(self, input_dim, output_dim):
+@@ -165,7 +171,7 @@ class WhiStress(PreTrainedModel):
+             hidden_states=decoder_last_layer_hidden_states,
+             encoder_hidden_states=layer_for_head_hidden_states,
+         )
+-        head_logits = self.classifier(additional_decoder_block_outputs[0].to(device))
++        head_logits = self.classifier(_layer_hidden(additional_decoder_block_outputs).to(device))
+ 
+         # calculate softmax
+         head_probs = F.softmax(head_logits, dim=-1)
+@@ -236,7 +242,7 @@ class WhiStress(PreTrainedModel):
+             hidden_states=decoder_last_layer_hidden_states,
+             encoder_hidden_states=layer_for_head_hidden_states,
+         )
+-        head_logits = self.classifier(additional_decoder_block_outputs[0].to(device))
++        head_logits = self.classifier(_layer_hidden(additional_decoder_block_outputs).to(device))
+         # calculate softmax
+         head_probs = F.softmax(head_logits, dim=-1)
+         preds = head_probs.argmax(dim=-1).to(device)
+@@ -295,7 +301,7 @@ class WhiStress(PreTrainedModel):
+             hidden_states=decoder_last_layer_hidden_states,
+             encoder_hidden_states=layer_for_head_hidden_states,
+         )
+-        head_logits = self.classifier(additional_decoder_block_outputs[0].to(device))
++        head_logits = self.classifier(_layer_hidden(additional_decoder_block_outputs).to(device))
+         head_probs = F.softmax(head_logits, dim=-1)
+         preds = head_probs.argmax(dim=-1).to(device)
+         preds = torch.where(
+-- 
+2.53.0
+

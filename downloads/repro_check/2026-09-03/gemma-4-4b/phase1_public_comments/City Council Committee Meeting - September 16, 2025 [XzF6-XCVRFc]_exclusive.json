@@ -1,0 +1,108 @@
+{
+  "title": "City Council Committee Meeting - September 16, 2025",
+  "video_id": "XzF6-XCVRFc",
+  "upload_date": "20250917",
+  "model": "gemma-4-4b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-03T21:08:28+00:00",
+    "model": {
+      "name": "gemma-4-4b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\gemma-4-E4B-it-UD-Q8_K_XL.gguf",
+      "size_bytes": 8711505056,
+      "mtime_utc": "2026-05-22T21:06:27.949841+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 26,
+      "speaker": "SPEAKER_06",
+      "start": 1807.99,
+      "end": 1826.66,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the timing of public comment for late attendees.",
+      "text": "If I may the only question I have is for example if someone is coming in late and it's a constituent and by having the public comment in the beginning but not at the end when that hinder on some of the people that do work late and come to the meetings at a later time."
+    },
+    {
+      "block_id": 27,
+      "speaker": "SPEAKER_00",
+      "start": 1828.84,
+      "end": 1886.42,
+      "speaker_name": "unknown",
+      "reason": "The speaker is discussing the process and structure of public comment.",
+      "text": "Well again there's never going to be perfect right so perfect can be the enemy of good. One thing I would note is it's going to depend on how council determines to handle public comment. There's no guarantee that it will just be at the beginning or that it wouldn't be, as Ms. Baquet indicated, beginning and end. And council's practice may be that it asks for public comment on each motion or action that's being taken, which means that now there's already multiple areas for public comment. You know, you could argue that somebody can only stay early. So both sets of comment work. will say that the concept of public comment as defined by the sunshine act is intended to make sure that comment can be had before city council action is taken because if let's assume in your scenario somebody came late they would still then have the opportunity to comment on the things that already happened at the next council meeting which wouldn't be more than two weeks later"
+    },
+    {
+      "block_id": 33,
+      "speaker": "SPEAKER_04",
+      "start": 2248.46,
+      "end": 2287.36,
+      "speaker_name": "unknown",
+      "reason": "The speaker is expressing a concern about the lack of a clear timeframe for submitting a memorandum.",
+      "text": "that up so that was my concern it didn't really establish a clear timeframe or a deadline for submitting that that memorandum which I think is I think the memorandum is great I think it's important if we're going to be considering legislation that it should have sort of a rubric for addressing questions but my in my opinion it should be at the first committee the first presentation so whether that be committee whether that be a regular meeting of counsel it should accompany that first presentation I think that"
+    },
+    {
+      "block_id": 45,
+      "speaker": "SPEAKER_06",
+      "start": 2931.54,
+      "end": 2955.35,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding misconduct and threats related to city employment.",
+      "text": "just have one question in regards to any one that would employ with the city that would make any death threats or any comments publicly is that something that would be included in here as well of any type of misconduct with the ethic boards well i mean that"
+    },
+    {
+      "block_id": 51,
+      "speaker": "SPEAKER_05",
+      "start": 3097.25,
+      "end": 3144.86,
+      "speaker_name": "Irene Grievous",
+      "reason": "The speaker is a resident expressing concerns about the public availability of ethics commission meetings.",
+      "text": "Irene Grievous, 400 Block of West End Avenue. My understanding is there was a some kind of ethics commission or some kind of meeting yet that has not been publicly made and I've actually had tried to come to two previous scheduled ones and they were canceled and I was not even aware that they had been rescheduled isn't that a violation of the sunshine law and when were these meetings for the ethics and planning for the ethics Commission do you have anything further thank you I'm"
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_05",
+      "start": 3173.06,
+      "end": 3188.8,
+      "speaker_name": "unknown",
+      "reason": "The speaker is providing personal information regarding canceled events.",
+      "text": "polite council chambers thank you well actually I do have the cancellation from I believe that was in August and there was one in July that they were both canceled and I know that because I came personally and was told it was canceled"
+    },
+    {
+      "block_id": 57,
+      "speaker": "SPEAKER_06",
+      "start": 3201.44,
+      "end": 3229.43,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking a question regarding the composition of a board's commission.",
+      "text": "a question in regards to the um the board's commission and authorities is there any way that we could add like right next to um the title the number of how many are per members. For example the airport authority is there five members is it 10 members."
+    }
+  ]
+}

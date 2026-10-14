@@ -1,0 +1,4 @@
+pair,flagged_a,flagged_b,net,changed,changed_pct,jaccard,krippendorff_alpha,gwet_ac1
+A_size3_off0 vs A2_size3_off0_repeat,240,239,-1,5,0.406,0.9793,0.987,0.9941
+A_size3_off0 vs B_size3_off1,240,242,2,92,7.474,0.6794,0.7628,0.8909
+A2_size3_off0_repeat vs B_size3_off1,239,242,3,93,7.555,0.676,0.7598,0.8898

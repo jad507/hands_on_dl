@@ -1,0 +1,346 @@
+{
+  "title": "Planning Commission Meeting - September 3, 2025",
+  "video_id": "5PuBv9zFX3I",
+  "upload_date": "20250904",
+  "model": "phi-4",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-08T01:54:57+00:00",
+    "model": {
+      "name": "phi-4",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\unsloth\\phi-4-Q4_K_M.gguf",
+      "size_bytes": 8890306112,
+      "mtime_utc": "2026-05-22T20:42:10.869793+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    },
+    "chunking": {
+      "p1_chunk_size": 3,
+      "p1_chunk_offset": 1
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 7,
+      "speaker": "SPEAKER_01",
+      "start": 1088.54,
+      "end": 1271.92,
+      "speaker_name": "Terry Dealo",
+      "reason": "The speaker identifies as a resident and expresses an opinion on the existing conditions plan.",
+      "text": "great which is number two please i apologize did you state your name yes terry dealo with integrated consulting thank you yes of course um so what you're looking at on the existing conditions plan is this is the site as it exists today there is we're at the intersection of manheim pike and dillerville road there's also an entrance to the site along garfield two entrances along garfield and one along a private access easement that goes from manheim pike back to garfield avenue so the plan proposes the demolition of everything essentially from the right-of-way or the property line into the site and the rebuilding of everything new so if you could please lauren switch to sheet number four this would be our proposed site plan we are proposing a prototypical sheets 6139 square foot store there are perimeter parking in the total of 38 parking spaces we will have five dual-sided islands for a total of 10 fueling positions on the property none of the driveways are going to change their location so they will stay the same size the same width nothing will change there that allows us to not have to deal with pendot for the entrance off of manheim pike but to also just maintain that consistency with with folks that are used to coming in and out of the property and maintaining those driveway access points this store will have a drive-through that's located in the rear so you can see on the left side of the page or the west side there's a separate drive-through lane that'll have an order board and then you can kind of pull through there's a bypass area through there as well in terms of the shade tree commission we've attended their meeting and received their conditional approval as well as relief on some of the waivers that we're requesting tonight there are several waivers i believe five in total or four in total three of them relate to street trees and street lighting and the fourth relates to the preliminary plan submission procedures we are in receipt of our npds permit so we have that for the project and have coordinated with all the utilities obviously there's existing public utilities there today we'll be providing public utilities for the rebuild there is a storm water management facility on the north side of the building that will be handling the increase in impervious area for the project so we've received staff reviews as well as the cs davidson reviews for the project and are down to maybe just a few administrative items i think all the technical items at this point have been kind of ironed out so happy to talk about any of the waiver requests that we have or answer any questions i'll note that kelly brown with sheets is also here this evening so if there's anything procedurally with sheets that you have questions on she can certainly answer those as well"
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_09",
+      "start": 1410.81,
+      "end": 1432.97,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident and expresses a concern about ice quality.",
+      "text": "with where it is now great i do got some uh kerosene is still going to be an option at this store after the remodel is done no more kerosene losing a diesel pump fun fact i trained in this store uh it's a fun time uh just my only thing is keep the ice the same i don't like that nugget ice"
+    },
+    {
+      "block_id": 19,
+      "speaker": "SPEAKER_07",
+      "start": 1599.42,
+      "end": 1630.14,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies themselves as speaking on behalf of another resident and expresses concerns about meeting requirements.",
+      "text": "with where this is proceeding yes again um the they were at the shade i will i will speak for terry and say that they actually went to the shade tree commission twice and so they went through once and then they had to go back so um they have they've done their their best to really um to try to meet the requirements and it's really only um in their best attempts failing that that these waivers were necessary and are you able to get all"
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_11",
+      "start": 1656.28,
+      "end": 1687.0,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a question about the project timeline.",
+      "text": "question you did give a timeline the project okay completion maybe okay thank"
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_11",
+      "start": 1814.88,
+      "end": 1826.8,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member addressing the planning commission.",
+      "text": "appreciate that number four staff report to planning commission um so i was just going to give"
+    },
+    {
+      "block_id": 34,
+      "speaker": "SPEAKER_09",
+      "start": 2047.47,
+      "end": 2055.31,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member expressing concern about land development.",
+      "text": "it were to come to be that mosaic never builds on the site um i'm not entirely sure they still own"
+    },
+    {
+      "block_id": 35,
+      "speaker": "SPEAKER_07",
+      "start": 2055.31,
+      "end": 2080.58,
+      "speaker_name": "unknown",
+      "reason": "The speaker discusses potential outcomes for land development, indicating a stakeholder perspective.",
+      "text": "the land and so it would be you know for them to determine what was going to happen with the land because whether or not the mosaic land development goes there willow valley owns the land right and so it it would just be kind of a redetermination they probably my guess is that they would either resubmit a different land development plan or they would sell it that would be my"
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_08",
+      "start": 2080.58,
+      "end": 2093.09,
+      "speaker_name": "unknown",
+      "reason": "The speaker seeks clarification on the land development process, indicating engagement with city decisions.",
+      "text": "okay assumption so i just want to make sure so the plan that's currently in place would expire and they'd need to go through the whole process again if they if the"
+    },
+    {
+      "block_id": 46,
+      "speaker": "SPEAKER_07",
+      "start": 2277.7,
+      "end": 2401.89,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and expresses concerns about zoning timelines.",
+      "text": "so one thing one thing I don't I don't mean to remember for you did you have something more I don't want to interrupt you one thing to remember with this is that because it is a flexible residential development it differs a little bit from a land development because they can't get the same time extensions and so it has to adhere to the very specific timeline of a flexible residential development which is defined defined by zoning as opposed to by subdivision and land development it's a little bit different and so but because of that whereas another plan might be able to provide the city with an extension and i would actually say that that's more the norm than anything because generally speaking because plans have become so complicated it's very difficult to complete a review within the time frame of the mpc but because this is not a regular land development and it's a flexible flexible residential development we have to adhere to the time frame and that like that's a really important and pressing element of this because they cannot apply for an extension so we need to be careful not to bypass the timeline because then they would it would be a deemed acceptance which you don't want and so we have to take action within the time frame and so at each step you kind of have to evaluate okay like do they have so much to do that they're not going to be able to be in that time frame or is what they have in front of them something that they can complete and we'll table it and we'll have them come back and we'll see like what they've completed and determine if if at that point they think you think they can meet the the conditional approval and so and i would just say in addition to that to stress that every"
+    },
+    {
+      "block_id": 50,
+      "speaker": "SPEAKER_05",
+      "start": 2423.43,
+      "end": 2431.32,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a question about the conditional approval process.",
+      "text": "and if i'm understanding the conditional approval would that give them approval to then finalize their plans and go into development"
+    },
+    {
+      "block_id": 64,
+      "speaker": "SPEAKER_12",
+      "start": 2955.75,
+      "end": 3091.54,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident expressing concerns about city administration transparency.",
+      "text": "that's something yeah i just wanted to uh kind of support uh what um porter was saying you know i think the idea was to get information about how this decision was made i think it's disappointing to me that the administration has chosen not uh to engage with that us on that i agree you know with this letter that obviously zoning we don't have authority over zoning but it is of our interest to know how our zoning code is being interpreted and how that process works so um you know i i am hopeful that some of that information will come out at the zoning hearing board um i again been disappointed the administration's not sharing any of that information uh i checked the you know the frequently asked questions uh page again there's no mention of the you know use not provided for that is in the zoning code that could have been applied in this case there's been no information about why that wasn't applied so that's what i was hoping to get out of a hearing um you know but if the administration is not going to participate i would agree with uh with porter at least having you know at our maybe it's the october meeting or later after we have the information that was shared the zoning hearing board for us to better understand how those decisions were made i also want to say i think i think it has not been like it's been confusing both in the reporting of lmp and the council meeting when we're talking about the zoning amendment there folks think that this is going to apply to the current projects and i don't see that i don't see any avenue for that and again it feels like we're not being transparent about that i mean we would probably have a lot more people here tonight if they knew that was the case so i think it's really important that the administration is clear about what that zoning amendment can and cannot do and again we just haven't seen much transparency on those issues so some of this um you know i think there's two separate things here definitely supporting the the zoning amendment you need to be clear that that does not apply uh to the the current projects um and then i still think we need answers about how this original decision was made and if we don't get that at the zoning hearing board um"
+    },
+    {
+      "block_id": 65,
+      "speaker": "SPEAKER_09",
+      "start": 3091.54,
+      "end": 3098.26,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a need for alternative methods to obtain information, aligning with public comment criteria.",
+      "text": "you know we need to find other ways to get at that information i'm also gonna agree with mr"
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_08",
+      "start": 3098.26,
+      "end": 3230.02,
+      "speaker_name": "unknown",
+      "reason": "The speaker discusses transparency and administration participation, indicating a public comment.",
+      "text": "stolzbus and mr stevens over here um i'm open to the idea of not having a public hearing if we're not going to get the participation of the administration which i also think is a disappointment uh disservice to the residents of the city of lancaster who want transparency i feel like what we were doing as many or yeah i'll say many of us up here have been saying uh we've been in the pursuit of information um so i do want to call to light uh what number is this a h of our powers um requests from other departments and agencies of the city all information available which relates to the work of the commission i think it's important for us in the process of drafting this new zoning ordinance to also reflect on the conversations that have occurred between the developer and city zoning and i'm an open government guy i know that that sometimes is a little bit worrisome in government because a lot of information information overload but i feel like the public deserves to see the documentation that has been for example provided to lmp i believe through right to know requests and hopefully have that information available to the public ideally accessible on the faq page for the data center on its website prior to the zoning hearing board meeting because this is ultimately residents as far as i understand it currently this is residents speaking their interests trying to do what they can to have an impact in their community and i feel what we can do is this body is give them as much information as possible to equip them for the argument that they have to make before this quasi-judicial body so i do feel that we should at least exercise ah and request these prior conversations between the developer and our city zoning office and make those documents available to the public i'll put my two cents in"
+    },
+    {
+      "block_id": 67,
+      "speaker": "SPEAKER_13",
+      "start": 3230.02,
+      "end": 3260.53,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses an opinion on the need for a public hearing and suggests keeping it as an agenda item.",
+      "text": "as well um agreed i don't think we need a public hearing but and especially because i think the public may be confused about our role but i do think we should keep it as an agenda item possibly on that october first meeting for having it um still just to allow for it to be part of the conversation again in lieu of a public hearing i mean i would agree with that"
+    },
+    {
+      "block_id": 69,
+      "speaker": "SPEAKER_11",
+      "start": 3362.64,
+      "end": 3391.8,
+      "speaker_name": "unknown",
+      "reason": "The speaker supports the commissioner's requests and emphasizes the importance of transparency.",
+      "text": "say i'm in support of the commissioner's um requests in terms of this data center and the hearing you know I think it's important for the transparency you know I think the character of this commission we thrive and we respect transparency so I think that's important we want to make sure that that's that continues to go"
+    },
+    {
+      "block_id": 73,
+      "speaker": "SPEAKER_08",
+      "start": 3553.02,
+      "end": 3581.64,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses a desire for the commission to consider additional materials for discussion.",
+      "text": "um yeah i agree with your sentiment i mean i'll ask the uh voting members of the commission tonight if any of them are interested in making a motion to request um to us in like a packet form for our next meet at least to have for our next meeting if not discuss uh any materials provided to LMP reporters via right to know requests regarding the issue of the"
+    },
+    {
+      "block_id": 74,
+      "speaker": "SPEAKER_02",
+      "start": 3581.64,
+      "end": 3590.75,
+      "speaker_name": "unknown",
+      "reason": "The speaker suggests summarizing information in a memo format.",
+      "text": "data center or if that's not legally feasible kind of a memo summarizing the"
+    },
+    {
+      "block_id": 75,
+      "speaker": "SPEAKER_08",
+      "start": 3590.75,
+      "end": 3648.64,
+      "speaker_name": "unknown",
+      "reason": "The speaker emphasizes the importance of having original documentation for reflection and decision-making.",
+      "text": "process no I mean no I think a memo still would be good like summarizing but to the point that there is a resident who has their own case to make before the zoning hearing board the original documentation and for two reasons one them having that to reflect on is like this is what it was not a summary of what it was but also then if we are if we have this stack of material before us yeah it's a lot to go through but I feel like it will give a more thorough understanding of the conversations that occurred with what I feel is a lack of transparency here I personally do not feel comfortable relying on summary memos but I'm okay with them being supplementary to the materials we might"
+    },
+    {
+      "block_id": 76,
+      "speaker": "SPEAKER_07",
+      "start": 3648.64,
+      "end": 3659.37,
+      "speaker_name": "unknown",
+      "reason": "The speaker expresses confusion about the materials requested, indicating a concern.",
+      "text": "receive I guess I'm just unclear of what materials exactly you would like to"
+    },
+    {
+      "block_id": 77,
+      "speaker": "SPEAKER_08",
+      "start": 3659.37,
+      "end": 3671.31,
+      "speaker_name": "unknown",
+      "reason": "The speaker discusses the process of obtaining information, indicating a question or concern.",
+      "text": "receive any information provided to LMP reporters you can do that through a right to know request as well we can do it through a right to know request as well but we can also do"
+    },
+    {
+      "block_id": 78,
+      "speaker": "SPEAKER_02",
+      "start": 3671.31,
+      "end": 3694.38,
+      "speaker_name": "unknown",
+      "reason": "The speaker requests a summary of a process, indicating a question or concern.",
+      "text": "it as a body i would i would say just receive in memo form a written summary of the process that was used to make the determination by the zoning officer is that is that like kind of a level because i can appreciate that there needs to be a level of specificity to make our request"
+    },
+    {
+      "block_id": 88,
+      "speaker": "SPEAKER_02",
+      "start": 4131.46,
+      "end": 4210.44,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident and expresses an opinion on the credibility of staff and the decision made by the zoning officer.",
+      "text": "very briefly just to clarify I think some of my earlier comments and questions that my only purpose really to suggest some of the things we talked about was really in the interest of public education I certainly did not want to give the impression that was in any way trying to undermine the credibility of staff i know you'll work extraordinarily hard and i certainly i may not have agreed with the decision made by the zoning officer totally appreciate that he made that in his professional capacity and speaking as someone who has sat on the other side of that desk i know that is rarely an easy thing to do so i just really want to emphasize that my interest in making some of suggestions i made earlier was really in the interest of public education just to help the public understand how some of these processes work because it's not always immediately apparent so i do apologize if some of my comments gave the impression that i was trying to dig for something that could undermine the credibility of staff i know we are extraordinarily fortunate in this city to have an incredibly talented and hard-working group of people supporting the work that we do so i just wanted to make sure that was on the record and i do apologize again if any of my comments seem to suggest otherwise that's excellent question all in favor"
+    },
+    {
+      "block_id": 93,
+      "speaker": "SPEAKER_08",
+      "start": 4266.95,
+      "end": 4378.31,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member expressing an opinion on city planning.",
+      "text": "what you said ms sufert about you know essentially community cooperation what we can do with more foresight um i there's two points to make and what i have to say i agree with you but i think the thing holding us back the most and i've said this for more than a year now is our lack of updates to the zoning code since we adopted the comprehensive plan i'm very upset that we are in this position in part because i feel somewhat responsible that we haven't done that work yet i don't fully understand why i respected uh the hecticness we experienced as a body and as a city with the departure of douglas after that moment but i feel like some of that work is the foresight we need to have for these things going forward we are in a specific situation right now though um as someone who works in municipal government i do respect the qualifications and experience of other municipal staff and other municipalities um but the thing that bothers me the most and why i want to know the background information is because a persuasion a persuasive argument for something that wasn't explicitly given in our zoning ordinance had to be made and as respectfully as i can say this i really want to understand why this data storage processing center is considered under the warehousing and storage use which explicitly excludes processing i understand that processing in different contexts has different impacts but it's very important to me to understand what case was made to make that reasonable in the eyes of our zoning officer and that's why i'm so dead set on trying to"
+    },
+    {
+      "block_id": 94,
+      "speaker": "SPEAKER_12",
+      "start": 4378.31,
+      "end": 4433.78,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a resident and expresses concerns about zoning code updates.",
+      "text": "understand the background information to that decision i want to echo commissioner dastra and maybe request like can we just have a standing agenda item where it's an update on where we're at with updating the zoning code because i feel like we go kind of months without hearing and i think it's really important for us that to be front and center for this body um are these consulting firms local national then do we have a sense of the timeline for the upper update"
+    },
+    {
+      "block_id": 95,
+      "speaker": "SPEAKER_05",
+      "start": 4438.85,
+      "end": 4444.37,
+      "speaker_name": "unknown",
+      "reason": "The speaker asks about the city's goals regarding work on zoning updates.",
+      "text": "is there a goal that the city has in order to get some of this um you know work underway from"
+    },
+    {
+      "block_id": 96,
+      "speaker": "SPEAKER_04",
+      "start": 4444.37,
+      "end": 4459.16,
+      "speaker_name": "unknown",
+      "reason": "The speaker inquires about timelines for proposals and decisions.",
+      "text": "a timeline perspective and remind me when your proposals are due and when is the decision being"
+    },
+    {
+      "block_id": 97,
+      "speaker": "SPEAKER_05",
+      "start": 4459.8,
+      "end": 4560.23,
+      "speaker_name": "unknown",
+      "reason": "The speaker is asking questions about project scheduling and consultant involvement, indicating a concern or inquiry.",
+      "text": "made and then following the awarding of that project will it kick off immediately or is that pending the schedules that the consultants have do you think the speed of the like ability of the consultant to get to work would influence that decision at all or is that decision solely going to be made based on cost qualifications what are you and uh do you know um i'm not sure if you would know this or not but i know that there's quite a few developments that have been in the works and that are kind of taking a step back from a progression standpoint and i'm just curious to know um do you think any of those projects are being like um held up just maybe because of current economic situations or do you think that like as the zoning ordinance particularly in the mixed use development um and the parking requirements that would be associated with that is do you think that some are waiting for this and would you have any idea how many no no just like any projects that are happening within the city that may like i know that there was an i know one specifically is kind of like waiting for um to get started on their project because they're waiting for the new mixed use zoning code to be adopted because of the parking requirements based off of the so i was just curious to know if there was any other developers who were in that similar situation that are just kind of standing by waiting for these things to"
+    },
+    {
+      "block_id": 98,
+      "speaker": "SPEAKER_07",
+      "start": 4560.23,
+      "end": 4624.22,
+      "speaker_name": "unknown",
+      "reason": "The speaker discusses the impact of unfilled residences on construction, expressing a concern about market dynamics.",
+      "text": "occur I would also add to that that we have residences online that are not filling and so I think that there's also right and so right so but it's kind of like a circular domino effect right because if they're they're not filling so they're not building more it depends on what the builder wants to be building is he building are they building a market rate apartment if they're building a market rate apartment and they're not filling and there are three other market rate apartments that have open units and the cost of construction is high and you know and and and and and I think that it's it becomes a"
+    },
+    {
+      "block_id": 99,
+      "speaker": "SPEAKER_05",
+      "start": 4624.22,
+      "end": 4654.39,
+      "speaker_name": "unknown",
+      "reason": "The speaker suggests a group discussion on the comprehensive plan, indicating a position or suggestion for realignment.",
+      "text": "waiting game yeah and I'll close with one final statement I think it would be great as a group to kind of come back and maybe huddle up I don't know what you want to call it on the comprehensive plan it's just been a while since I I think we've kind of discussed the goals, objectives, and I think just to realign everybody as we continue those processes, it would be really helpful to kind of have like a one-on-one run-through of that at a future agenda meeting, or at a future commission meeting soon."
+    },
+    {
+      "block_id": 100,
+      "speaker": "SPEAKER_12",
+      "start": 4654.39,
+      "end": 4719.06,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and expresses an opinion on city decisions.",
+      "text": "All right, and I also have my final statement. I do, I wanna just, you know, I think it's good that we're holding off on the hearing. I think it's good that we're keeping the data center as an agenda item, and I think we should revisit the idea of requesting a memo. mean i don't think it is i don't think it's as simple as the zoning officer makes a decision like this in his professional expertise i mean we know that zoning officer consults with council you know i think in i had heard in previous administration that if there is a project of this magnitude you know there would be conversations within the department the mayor in previous administrations would sometimes be engaged in those conversations so i think it is very important for us to have more information about how these types of decisions are made I don't think it's quite as simple as one person made it and now we have to live with it so again I think I'm supportive of the progress we're making but I do think we should if depending on what kind of information shared at the zoning hearing board reconsider requesting a memo I do not"
+    },
+    {
+      "block_id": 101,
+      "speaker": "SPEAKER_07",
+      "start": 4719.06,
+      "end": 4747.05,
+      "speaker_name": "unknown",
+      "reason": "The speaker discusses city processes and expresses concerns, indicating they are a community member.",
+      "text": "mean to oversimplify of course the zoning officer consulted with the city solicitor as well as additional attorneys I mean it wasn't nobody operates in a vacuum in City Hall so for sure there were other meetings what I meant to imply was more that there's not a huge paper trail and so there is process and there were discussions but if you're looking for a paper trail that"
+    },
+    {
+      "block_id": 102,
+      "speaker": "SPEAKER_12",
+      "start": 4747.05,
+      "end": 4753.34,
+      "speaker_name": "unknown",
+      "reason": "The speaker continues to express concerns about city processes, indicating they are a community member.",
+      "text": "you're not gonna find which is also why it's really important just to have"
+    },
+    {
+      "block_id": 103,
+      "speaker": "SPEAKER_06",
+      "start": 4753.34,
+      "end": 4794.02,
+      "speaker_name": "unknown",
+      "reason": "The speaker identifies as a community member and expresses a concern about accessing a memo.",
+      "text": "information any public comment Taylor Taylor Taylor yep so that memo that you received I while we were sitting here I was trying to look online to see if it was made public made available to the public and I can't find it so where would I be able to see that or is it not actually available to the public at the"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+video_id,condition,bucket,plain_content,plain_markup_applied,plain_word_match,plain_elapsed_s,plain_hit_token_limit,general_content,general_markup_applied,general_word_match,general_elapsed_s,general_hit_token_limit
+st_000,stresstest,,i didn't say he stole the money,False,5/7,3.07,False,i didn't say he stole the money,False,5/7,5.32,False
+st_001,stresstest,,i didn't say he stole the money,False,5/7,2.98,False,i didn't say he stole the money,False,5/7,5.37,False
+st_002,stresstest,,i didn't take your book,False,3/5,2.5,False,i didn't take your book,False,3/5,3.82,False
+st_003,stresstest,,i didn't take your book,False,3/5,2.82,False,i didn't take your book,False,3/5,4.21,False
+st_004,stresstest,,i didn't take your book,False,3/5,2.4,False,i didn't take your book,False,3/5,4.24,False
+st_005,stresstest,,i did not steal this car,False,4/6,2.82,False,i did not steal this car.,False,4/6,5.69,False
+st_006,stresstest,,i did not steal this car,False,4/6,2.56,False,i did not steal this car,False,4/6,5.06,False
+st_007,stresstest,,i did not steal this car,False,4/6,2.42,False,i did not steal this car,False,4/6,4.68,False
+st_008,stresstest,,she said she was sorry,False,3/5,3.01,False,she said she was sorry.,False,3/5,5.26,False
+st_009,stresstest,,she said she was sorry,False,3/5,2.19,False,she said she was sorry,False,3/5,4.93,False
+st_010,stresstest,,i can believe the boys brought you flowers,False,5/8,3.19,False,i can't believe the boys brought you flowers,False,6/8,6.28,False
+st_011,stresstest,,i can't believe the boys brought you flowers. o't't c,False,6/8,4.43,False,i can't believe the boys brought you flowers,False,6/8,4.67,False
+st_012,stresstest,,i just took this book,False,3/5,2.2,False,i just took this book,False,3/5,5.68,False
+st_013,stresstest,,i just took this book,False,3/5,4.61,False,i just took this book,False,3/5,3.99,False
+st_014,stresstest,,you chose to do this,False,3/5,4.97,False,you chose to do this?,False,3/5,6.02,False
+st_015,stresstest,,ye chose to do this,False,3/5,2.83,False,ye chose to do this,False,3/5,6.03,False
+st_016,stresstest,,you made this cake,False,2/4,3.02,False,you made this cake?,False,2/4,6.28,False
+st_017,stresstest,,you made this cake,False,2/4,2.89,False,you made this cake?,False,2/4,3.96,False
+st_018,stresstest,,he's actually moving to new york,False,3/6,2.63,False,he's actually moving to new york.,False,3/6,4.72,False
+st_019,stresstest,,he's actually moving to new york,False,3/6,2.14,False,He's actually moving to New York.,False,3/6,5.37,False
+st_020,stresstest,,she finished this project in two days,False,5/7,2.73,False,she finished this project in two days,False,5/7,4.34,False
+st_021,stresstest,,she finish this project in two days,False,4/7,4.02,False,she finish this project in two days,False,4/7,5.76,False
+st_022,stresstest,,shocking that the kids are going to france this summer,False,7/10,3.12,False,shocking that the kids are going to France this summer,False,7/10,5.37,False
+st_023,stresstest,,Shocking that the kids are going to France this summer. O'b,False,7/10,3.34,False,shocking that the kids are going to France this summer,False,7/10,4.2,False
+st_024,stresstest,,she bought a car for her brother,False,5/7,5.9,False,she bought a car for her brother,False,5/7,4.22,False
+st_025,stresstest,,she bought a car for her brother,False,5/7,3.05,False,she bought a car for her brother,False,5/7,5.2,False
+st_026,stresstest,,he drove three hours to see this concert,False,6/8,2.39,False,he drove three hours to see this concert,False,6/8,4.91,False
+st_027,stresstest,,,False,0/8,68.63,True,he drove three hours to see this concert,False,6/8,4.61,False
+st_028,stresstest,,i didn't tell her you were late,False,5/7,3.65,False,i didn't tell her you were late,False,5/7,4.11,False
+st_029,stresstest,,i didn't tell her you were late,False,5/7,3.86,False,i didn't tell her you were late,False,5/7,4.93,False
+st_030,stresstest,,she didn't invite him to the party,False,5/7,4.91,False,she didn't invite him to the party,False,5/7,4.59,False
+st_031,stresstest,,she didn't inviting to the party,False,3/7,3.56,False,she didn't inviting to the party,False,3/7,6.02,False
+st_032,stresstest,,she did an invite him to the party,False,4/7,2.8,False,She didn't invite him to the party.,False,5/7,3.78,False
+st_033,stresstest,,we only brought the dessert,False,3/5,4.92,False,we only brought the dessert,False,3/5,4.9,False
+st_034,stresstest,,we only brought the dessert,False,3/5,3.1,False,we only brought the dessert,False,3/5,4.39,False
+st_035,stresstest,,she didn't hear about the surprise from me,False,6/8,3.33,False,she didn't hear about the surprise from me,False,6/8,6.16,False
+st_036,stresstest,,she didn't hear about the surprise from me,False,6/8,3.16,False,she didn't hear about the surprise from me,False,6/8,5.14,False
+st_037,stresstest,,,False,0/6,67.94,True,he didn't ask me for help,False,4/6,4.72,False
+st_038,stresstest,,he didn't ask me for help,False,4/6,2.26,False,he didn't ask me for help,False,4/6,4.64,False
+st_039,stresstest,,you didn't fix the problem,False,3/5,3.37,False,you didn't fix the problem.,False,3/5,5.36,False
+st_040,stresstest,,you didn't fix the problem.,False,3/5,3.14,False,you didn't fix the problem.,False,3/5,5.31,False
+st_041,stresstest,,they didn't send us the message,False,4/6,3.5,False,they didn't send us the message,False,4/6,4.86,False
+st_042,stresstest,,they didn't send us the message,False,4/6,2.58,False,they didn't send us the message.,False,4/6,5.57,False
+st_043,stresstest,,i would love her at car,False,2/6,2.94,False,i would love her at car,False,2/6,4.85,False
+st_044,stresstest,,i would love red car,False,3/6,3.57,False,i would love red car,False,3/6,4.77,False
+st_045,stresstest,,I would love a red car,False,4/6,2.4,False,i would love a red car,False,4/6,4.11,False
+st_046,stresstest,,i think you broke the lamp,False,4/6,2.62,False,i think you broke the lamp.,False,4/6,4.35,False
+st_047,stresstest,,i think you broke the lamp,False,4/6,2.33,False,i think you broke the lamp,False,4/6,4.26,False
+st_048,stresstest,,why did you give her money,False,4/6,3.46,False,why did you give her money,False,4/6,4.81,False
+st_049,stresstest,,why did you give her money,False,4/6,3.06,False,why did you give her money?,False,4/6,5.48,False
+st_050,stresstest,,i only study music,False,2/4,2.91,False,i only study music,False,2/4,4.85,False
+st_051,stresstest,,i only study music,False,2/4,3.85,False,i only study music,False,2/4,4.09,False
+st_052,stresstest,,i study deep learning for music,False,4/6,3.57,False,i study deep learning for music,False,4/6,4.72,False
+st_053,stresstest,,i study deep learning for music istudy,False,4/6,3.8,False,i study deep learning for music,False,4/6,5.37,False
+st_054,stresstest,,they never answer my calls,False,3/5,2.46,False,they never answer my calls.,False,3/5,4.96,False
+st_055,stresstest,,they never answer my calls,False,3/5,2.39,False,they never answer my calls,False,3/5,4.54,False
+st_056,stresstest,,they never answer my calls,False,3/5,2.94,False,they never answer my calls,False,3/5,5.12,False
+st_057,stresstest,,they didn't solve the issue,False,3/5,2.87,False,they didn't solve the issue.,False,3/5,4.3,False
+st_058,stresstest,,the didn't solve the issue,False,3/5,3.13,False,they didn't solve the issue,False,3/5,5.19,False
+st_059,stresstest,,her expertise is computer programming,False,3/5,2.95,False,her expertise is computer programming,False,3/5,4.97,False
+st_060,stresstest,,her expertise is computer programming,False,3/5,1.82,False,Her expertise is computer programming.,False,3/5,3.35,False
+st_061,stresstest,,they focus on mechanical engineering,False,3/5,3.45,False,they focus on mechanical engineering.,False,3/5,5.92,False
+st_062,stresstest,,they focus on mechanical engineering,False,3/5,3.11,False,they focus on mechanical engineering,False,3/5,5.39,False
+st_063,stresstest,,she blazed through this test,False,3/5,2.79,False,she blazed through this test,False,3/5,5.0,False
+st_064,stresstest,,she blazed through this test,False,3/5,2.63,False,she blazed through this test,False,3/5,5.01,False
+st_065,stresstest,,he studies political science,False,2/4,2.43,False,he studies political science.,False,2/4,4.19,False
+st_066,stresstest,,he studies political science,False,2/4,2.28,False,he studies political science,False,2/4,4.04,False
+st_067,stresstest,,her specialty is modern painting,False,3/5,5.65,False,Her specialty is **modern** painting.,True,3/5,5.36,False
+st_068,stresstest,,her specialty is modern painting,False,3/5,2.98,False,her specialty is modern painting,False,3/5,5.99,False
+st_069,stresstest,,my job is customer support,False,3/5,2.14,False,my job is customer support,False,3/5,5.72,False
+st_070,stresstest,,my job is customer support,False,3/5,1.85,False,my job is customer support,False,3/5,4.2,False
+st_071,stresstest,,she works in mobile development,False,3/5,2.66,False,she works in mobile development,False,3/5,5.12,False
+st_072,stresstest,,she works in mobile development,False,3/5,2.58,False,she works in mobile development,False,3/5,3.93,False
+st_073,stresstest,,we only prepare napolitan pizza,False,2/5,2.19,False,we only prepare napolitan pizza,False,2/5,4.17,False
+st_074,stresstest,,we only prepare napolitan pizza,False,2/5,2.65,False,we only prepare napolitan pizza,False,2/5,4.93,False
+st_075,stresstest,,she coaches high school basketball,False,3/5,4.27,False,She coaches high school basketball.,False,3/5,4.2,False
+st_076,stresstest,,she coaches high school basketball shicoaches,False,3/5,3.87,False,She coaches high school basketball.,False,3/5,4.9,False
+st_077,stresstest,,she specializes in french desserts,False,2/5,3.81,False,she specializes in french desserts,False,2/5,4.05,False
+st_078,stresstest,,she specializes in french desserts,False,2/5,2.26,False,she specializes in french desserts,False,2/5,4.11,False
+st_079,stresstest,,his field is orthopedic surgery,False,3/5,4.12,False,his field is orthopedic surgery,False,3/5,4.74,False
+st_080,stresstest,,his field is orthopaedic surgery,False,2/5,2.65,False,He's filed his orthopedics surgery,False,0/5,4.82,False
+st_081,stresstest,,i study cognitive linguistics,False,2/4,2.88,False,i study cognitive linguistics,False,2/4,4.8,False
+st_082,stresstest,,i study cognitive linguistics,False,2/4,2.13,False,i study cognitive linguistics,False,2/4,4.96,False
+st_083,stresstest,,i work in front end development,False,2/5,2.48,False,i work in front-end development.,False,2/5,4.36,False
+st_084,stresstest,,i work in front end development,False,2/5,3.22,False,i work in front-end development.,False,2/5,4.97,False
+st_085,stresstest,,i only have five dollars,False,3/5,3.25,False,i only have five dollars,False,3/5,5.56,False
+st_086,stresstest,,i only have five dollars sic,False,3/5,5.37,False,i only have five dollars,False,3/5,4.38,False
+st_087,stresstest,,should we eat pizza tonight,False,3/5,2.01,False,should we eat pizza tonight?,False,3/5,5.66,False
+st_088,stresstest,,should we eat pizza tonight,False,3/5,2.31,False,Should we eat pizza tonight?,False,3/5,4.79,False
+st_089,stresstest,,you want to help me cook dinner tonight?,False,6/8,2.57,False,you want to help me cook dinner tonight?,False,6/8,5.65,False
+st_090,stresstest,,you want to help me cook dinner tonight,False,6/8,4.86,False,you want to help me cook dinner tonight?,False,6/8,4.47,False
+st_091,stresstest,,you want to help me cook dinner tonight,False,6/8,2.7,False,you want to help me cook dinner tonight,False,6/8,4.7,False
+st_092,stresstest,,she will teach him clay shooting,False,4/6,2.82,False,she will teach him clay shooting,False,4/6,4.49,False
+st_093,stresstest,,she will teach him clay shooting,False,4/6,2.83,False,she will teach him clay shooting,False,4/6,5.04,False
+st_094,stresstest,,we love eating and working out together,False,5/7,3.49,False,we love eating and working out together,False,5/7,4.69,False
+st_095,stresstest,,we love eating and working out together,False,5/7,5.97,False,We love eating and working out together.,False,5/7,5.64,False
+st_096,stresstest,,i love the smell of naples in the morning,False,6/9,2.72,False,i love the smell of naples in the morning,False,6/9,5.72,False
+st_097,stresstest,,I love the smell of Napoleon in the morning.,False,6/9,3.5,False,i love the smell of napalm in the morning,False,6/9,6.31,False
+st_098,stresstest,,i didn't say you can take this cake,False,6/8,3.48,False,i didn't say you can take this cake,False,6/8,4.75,False
+st_099,stresstest,,i didn't say you can take this cake,False,6/8,2.2,False,i didn't say you can take this cake,False,6/8,5.47,False
+st_100,stresstest,,online he looks really good o'tuc,False,3/5,4.21,False,online he looks **really** good.,True,3/5,4.53,False
+st_101,stresstest,,online he looks really good oouk,False,3/5,3.67,False,online he looks **really** good,True,3/5,4.17,False
+st_102,stresstest,,i only studied electrical engineering,False,3/5,3.22,False,i only studied electrical engineering,False,3/5,4.15,False
+st_103,stresstest,,i only study electrical engineering,False,2/5,2.85,False,i only studied electrical engineering,False,3/5,4.43,False
+st_104,stresstest,,it's crazy james is going to be a pilot,False,6/9,2.89,False,it's **crazy** james is going to be a pilot,True,6/9,5.38,False
+st_105,stresstest,,its crazy james is going to be a pilot,False,6/9,2.02,False,It's **crazy** James is going to be a pilot,True,6/9,6.32,False
+st_106,stresstest,,he just took his stuff and left,False,5/7,3.43,False,he just took his stuff and left,False,5/7,5.06,False
+st_107,stresstest,,he just took his stuff and left,False,5/7,4.12,False,he just took his stuff and left,False,5/7,4.9,False
+st_108,stresstest,,now you're making me mad,False,3/5,3.27,False,now you're making me **mad**.,True,3/5,5.62,False
+st_109,stresstest,,now you're making me mad,False,3/5,5.46,False,now you're making me mad,False,3/5,4.97,False
+st_110,stresstest,,day almost set the house on fire,False,5/7,3.53,False,Day almost set the house on fire.,False,5/7,5.77,False
+st_111,stresstest,,they almost set the house on fire,False,5/7,2.93,False,They almost set the house on fire.,False,5/7,5.06,False
+st_112,stresstest,,you have friends who are famous ov,False,4/6,2.9,False,you have friends who are famous,False,4/6,3.67,False
+st_113,stresstest,,you have friends who are famous?,False,4/6,4.72,False,you have friends who are famous?,False,4/6,5.02,False
+st_114,stresstest,,they loved how you treated her dog,False,5/7,1.98,False,they loved how you treated her dog,False,5/7,4.55,False
+st_115,stresstest,,they loved how you treated her dog,False,5/7,2.28,False,they loved how you treated her dog,False,5/7,4.65,False
+st_116,stresstest,,you can have chicken or beef bif,False,4/6,3.26,False,you can have chicken or beef,False,4/6,5.37,False
+st_117,stresstest,,you can have chicken or beef,False,4/6,3.51,False,you can have chicken or beef,False,4/6,4.47,False
+st_118,stresstest,,her new house is big spig,False,3/5,3.32,False,her new house is big,False,3/5,4.62,False
+st_119,stresstest,,her new house is big,False,3/5,3.49,False,Her new house is big.,False,3/5,4.46,False
+st_120,stresstest,,i didn't say you were stupid,False,4/6,2.22,False,i didn't say you were stupid,False,4/6,6.15,False
+st_121,stresstest,,i didn't say you were stupid,False,4/6,2.52,False,i didn't say you were stupid,False,4/6,4.56,False
+st_122,stresstest,,i didn't say you were stupid,False,4/6,3.02,False,i didn't say you were stupid,False,4/6,4.53,False
+st_123,stresstest,,i didn't play cricket this week,False,4/6,2.52,False,i didn't play creek at this week,False,3/6,5.57,False
+st_124,stresstest,,i didn't play cricket this week,False,4/6,4.59,False,i didn't play cricket this week,False,4/6,5.7,False
+st_125,stresstest,,i didn't play cricket this week,False,4/6,2.39,False,i didn't play cricket this week.,False,4/6,5.45,False
+st_126,stresstest,,i didn't say you can eat that,False,5/7,2.9,False,i didn't say you can eat that,False,5/7,5.56,False
+st_127,stresstest,,i didn't say you can eat that,False,5/7,2.7,False,i didn't say you can eat that,False,5/7,5.15,False
+st_128,stresstest,,i didn't say you can eat thats,False,5/7,3.43,False,i didn't say you can eat that's,False,5/7,5.12,False
+st_129,stresstest,,i never said she stole my wallet,False,5/7,2.38,False,I never said she stole my wallet.,False,5/7,5.78,False
+st_130,stresstest,,I never said she stole my wallet.,False,5/7,2.47,False,I never said she stole my wallet,False,5/7,6.39,False
+st_131,stresstest,,I never said she stole my wallet.,False,5/7,2.8,False,I never said she stole my wallet.,False,5/7,4.16,False
+st_132,stresstest,,you can't have your cake and eat it too,False,7/9,3.04,False,You can't have your cake and eat it too.,False,7/9,5.78,False
+st_133,stresstest,,,False,0/9,67.8,True,you can't have your cake and eat it too,False,7/9,4.85,False
+st_134,stresstest,,she didn't mean to break the vase,False,5/7,3.0,False,she didn't mean to break the vase.,False,5/7,5.25,False
+st_135,stresstest,,she didn't mean to break the vase,False,5/7,2.61,False,she didn't mean to break the vase,False,5/7,4.48,False
+st_136,stresstest,,they didn't say he might leave early o'b,False,5/7,2.91,False,they didn't say he might leave early,False,5/7,5.32,False
+st_137,stresstest,,they didn't say he might live early,False,4/7,4.1,False,they didn't say he might live early,False,4/7,4.58,False
+st_138,stresstest,,she didn't finish her homework,False,3/5,3.08,False,she didn't finish her homework,False,3/5,5.17,False
+st_139,stresstest,,she didn't finish her homework,False,3/5,2.62,False,she didn't finish her homework,False,3/5,4.88,False
+st_140,stresstest,,she didn't finish her homework,False,3/5,2.83,False,she didn't finish her homework,False,3/5,4.2,False
+st_141,stresstest,,he always forgets his keys,False,3/5,2.58,False,he always forgets his keys.,False,3/5,5.4,False
+st_142,stresstest,,he always forgets his keys,False,3/5,3.61,False,he always forgets his keys,False,3/5,3.97,False
+st_143,stresstest,,did you really pay their entire bill already,False,5/8,2.51,False,Did you *really* pay their entire bill already?,True,5/8,5.85,False
+st_144,stresstest,,Did you really pay the entire bill already? Ooo,False,6/8,5.38,False,did you really pay the entire bill already?,False,6/8,5.0,False
+st_145,stresstest,,did you really pay the entire bill already,False,6/8,2.83,False,did you really pay the entire bill already?,False,6/8,4.79,False
+st_146,stresstest,,you scheduled the group meeting for tomorrow,False,5/7,4.36,False,You scheduled the group meeting for tomorrow,False,5/7,5.97,False
+st_147,stresstest,,you scheduled the group meeting for tomorrow,False,5/7,1.87,False,you scheduled the group meeting for tomorrow?,False,5/7,5.23,False
+st_148,stresstest,,you scheduled the group meeting for tomorrow,False,5/7,2.37,False,you scheduled the group meeting for tomorrow?,False,5/7,4.75,False
+st_149,stresstest,,i didn't cancel your reservation,False,3/5,2.63,False,i didn't cancel your reservation,False,3/5,5.52,False
+st_150,stresstest,,i didn't cancel your reservation,False,3/5,2.6,False,i didn't cancel your reservation,False,3/5,4.74,False
+st_151,stresstest,,i didn't cancel your reservation,False,3/5,2.74,False,i didn't cancel your reservation.,False,3/5,4.59,False
+st_152,stresstest,,she asked you to watch the kids,False,5/7,2.38,False,she asked you to watch the kids?,False,5/7,4.42,False
+st_153,stresstest,,she asked you to watch the kids,False,5/7,2.31,False,she asked you to watch the kids?,False,5/7,4.63,False
+st_154,stresstest,,i can believe they offered you the promotion,False,5/8,2.96,False,i can't believe they offered you the promotion,False,6/8,5.44,False
+st_155,stresstest,,i can believe they offered you the promotion,False,5/8,2.7,False,i can't believe they offered you the promotion,False,6/8,4.56,False
+st_156,stresstest,,i wasn't expecting you to come to the party,False,7/9,4.56,False,I wasn't expecting you to come to the party.,False,7/9,5.68,False
+st_157,stresstest,,i wasn't expecting you to come to the party,False,7/9,3.85,False,i wasn't expecting you to come to the party,False,7/9,4.98,False
+st_158,stresstest,,Are you serious about calling the landlord now?,False,6/8,3.67,False,Are you serious about calling the landlord now?,False,6/8,5.85,False
+st_159,stresstest,,Are you serious about calling the landlord now?,False,6/8,3.71,False,Are you **serious** about calling the landlord now?,True,6/8,5.59,False
+st_160,stresstest,,you broke the vacuum?,False,2/4,2.83,False,you broke the vacuum?,False,2/4,4.71,False
+st_161,stresstest,,you broke the vacuum,False,2/4,3.5,False,you broke the vacuum?,False,2/4,5.54,False
+st_162,stresstest,,you broke the vacuum,False,2/4,2.55,False,You broke the vacuum?,False,2/4,4.56,False
+st_163,stresstest,,our group did not confirm this travel date,False,6/8,2.05,False,our group did not confirm this travel date,False,6/8,4.89,False
+st_164,stresstest,,our group did not confirm this travel date,False,6/8,2.88,False,Our group did not confirm this travel date.,False,6/8,4.83,False
+st_165,stresstest,,our group did not confirm this travel date,False,6/8,3.8,False,Our group did not confirm these travel dates.,False,5/8,5.36,False
+st_166,stresstest,,he focuses on cloud infrastructure,False,3/5,2.83,False,he focuses on cloud infrastructure,False,3/5,4.61,False
+st_167,stresstest,,he focuses on cloud infrastructure,False,3/5,1.53,False,he focuses on cloud infrastructure,False,3/5,4.29,False
+st_168,stresstest,,this bakery exclusively offers sourdough bread ock,False,4/6,4.29,False,this bakery exclusively offers sourdough bread,False,4/6,5.1,False
+st_169,stresstest,,this bakery exclusively offers sourdough bread,False,4/6,2.02,False,This bakery exclusively offers sourdough bread.,False,4/6,4.4,False
+st_170,stresstest,,this phone plan covers only international calls,False,5/7,2.41,False,this phone plan covers only international calls,False,5/7,4.08,False
+st_171,stresstest,,,False,0/7,67.7,True,this phone plan covers only international calls,False,5/7,3.25,False
+st_172,stresstest,,the interns completed the entire project alone,False,5/7,2.3,False,the interns completed the entire project alone,False,5/7,4.45,False
+st_173,stresstest,,the interns completed the entire project alone,False,5/7,2.34,False,the interns completed the entire project alone,False,5/7,6.79,False
+st_174,stresstest,,Morgan found the phone in the locker room. Ọcũ,False,6/8,4.31,False,Morgan found the phone in the locker room.,False,6/8,4.2,False
+st_175,stresstest,,Moore can found the phone in the locker room,False,6/8,3.49,False,Moore can found the phone in the locker room.,False,6/8,5.4,False
+st_176,stresstest,,at this point you have officially pushed me over the edge,False,8/11,3.95,False,at this point you have officially pushed me over the edge,False,8/11,4.76,False
+st_177,stresstest,,at this point you have officially pushed me over the edge,False,8/11,3.17,False,at this point you have officially **pushed** me over the edge,True,8/11,5.61,False
+st_178,stresstest,,"All right, there's seriously testing my patience now.",False,4/7,3.39,False,"All right, there's **seriously** testing my patience now.",True,4/7,6.83,False
+st_179,stresstest,,"Alright, they're seriously testing my patience now.",False,5/7,2.64,False,"All right, they're **seriously** testing my patience now.",True,5/7,5.69,False
+st_180,stresstest,,those kids nearly flooded the entire hallway,False,5/7,2.45,False,Those kids nearly flooded the entire hallway.,False,5/7,6.07,False
+st_181,stresstest,,those kids nearly flooded the entire hallway,False,5/7,2.83,False,those kids nearly flooded the entire hallway,False,5/7,5.79,False
+st_182,stresstest,,she quietly packed up her belongings and vanished,False,6/8,2.45,False,she quietly packed up her belongings and vanished.,False,6/8,5.59,False
+st_183,stresstest,,she quietly packed up her belongings and vanished,False,6/8,2.84,False,she quietly packed up her belongings and vanished,False,6/8,4.41,False
+st_184,stresstest,,they literally left that grill running all night,False,6/8,3.48,False,they literally left that grill running all night.,False,6/8,4.78,False
+st_185,stresstest,,they literally left that grill running all night,False,6/8,2.7,False,they literally left that grill running all night,False,6/8,5.45,False
+st_186,stresstest,,are you saying lucy casually hangs out with top-tier influencers ooo,False,6/10,3.6,False,are you saying lucy casually hangs out with top tier influencers,False,6/10,6.08,False
+st_187,stresstest,,are you saying lucy casually hangs out with top tier influencers,False,6/10,3.55,False,are you saying lucy casually hangs out with top tier influencers,False,6/10,6.16,False
+st_188,stresstest,,we barely touched the cake,False,3/5,2.53,False,we barely touch the cake,False,2/5,4.86,False
+st_189,stresstest,,we barely touch the cake,False,2/5,4.06,False,we barely touch the cake,False,2/5,4.07,False
+st_190,stresstest,,,False,0/10,67.54,True,You are going to join me for rock climbing tomorrow?,False,8/10,6.0,False
+st_191,stresstest,,you are going to join me for rock climbing tomorrow,False,8/10,3.07,False,You are going to join me for rock climbing tomorrow,False,8/10,5.51,False
+st_192,stresstest,,she's really driving him to the sci-fi convention,False,5/8,3.55,False,She's **really** driving him to the sci-fi convention?,True,5/8,6.24,False
+st_193,stresstest,,She's really driving him to this sci-fi convention?,False,4/8,2.71,False,She's really driving him to this sci-fi convention?,False,4/8,5.41,False
+st_194,stresstest,,they love baking and weightlifting together,False,4/6,2.7,False,they love baking and weightlifting together.,False,4/6,4.74,False
+st_195,stresstest,,they love baking and weightlifting together,False,4/6,2.81,False,they love baking and weightlifting together.,False,4/6,4.67,False
+st_196,stresstest,,i enjoy the taste of espresso at sunrise oatsunrise,False,6/8,4.15,False,i enjoy the taste of espresso at sunrise,False,6/8,5.4,False
+st_197,stresstest,,I enjoy the taste of espresso at sunrise.,False,6/8,2.88,False,i enjoy the taste of espresso at sunrise,False,6/8,5.85,False
+st_198,stresstest,,Lilly actually told them she was leaving her position,False,7/9,3.8,False,Lilly actually told them she was leaving her position,False,7/9,4.62,False
+st_199,stresstest,,Lilly actually told them she was leaving her position,False,7/9,4.21,False,Lily actually told them she was leaving her position,False,7/9,5.65,False
+st_200,stresstest,,,False,0/9,67.59,True,i never said you could skip this entire lesson,False,7/9,5.79,False
+st_201,stresstest,,i never said you could skip this entire lesson,False,7/9,1.81,False,I never said you could skip this entire lesson.,False,7/9,5.07,False
+st_202,stresstest,,it's wild marcus wants to become an astronaut,False,5/8,3.38,False,it's **wild** marcus wants to become an astronaut,True,5/8,5.61,False
+st_203,stresstest,,it's wild markus wants to become an astronaut,False,5/8,3.01,False,it's **wild** marcus wants to become an astronaut,True,5/8,5.83,False
+st_204,stresstest,,Adaglerings Sarah lead the big presentation tomorrow,False,4/9,3.22,False,"Adeglering, Sarah, lead the big presentation tomorrow?",False,4/9,5.83,False
+st_205,stresstest,,Are they letting Sarah lead the big presentation tomorrow?,False,6/9,4.73,False,Are they letting Sarah lead the big presentation tomorrow?,False,6/9,6.56,False
+st_206,stresstest,,he booked the flight for them to hawaii next week,False,6/10,2.7,False,He booked a flight for them to Hawaii next week?,False,7/10,5.1,False
+st_207,stresstest,,He booked a flight for them to Hawaii next week,False,7/10,2.84,False,he booked a flight for them to hawaii next week,False,7/10,4.74,False
+st_208,stresstest,,They nominated you to run the main office now,False,7/9,2.06,False,They nominated you to run the main office now?,False,7/9,5.03,False
+st_209,stresstest,,They nominated you to run the main office now?,False,7/9,3.27,False,They nominated you to run the main office now?,False,7/9,5.44,False
+st_210,stresstest,,he wants to adopt a dog from the animal shelter,False,8/10,2.29,False,he wants to adopt a dog from the animal shelter,False,8/10,5.51,False
+st_211,stresstest,,he wants to adopt a dog from the animal shelter,False,8/10,2.75,False,he wants to adopt a dog from the animal shelter,False,8/10,5.09,False
+st_212,stresstest,,They are remodeling the entire store before the holidays.,False,7/9,2.83,False,They are remodeling the entire store before the holidays?,False,7/9,6.05,False
+st_213,stresstest,,they are remodeling the entire store before the holidays,False,7/9,3.02,False,they are remodeling the entire store before the holidays,False,7/9,4.81,False
+st_214,stresstest,,are you really taking the manager's position next month,False,7/9,2.79,False,Are you really taking the manager's position next month?,False,7/9,5.59,False
+st_215,stresstest,,are you really taking the manager's position next month,False,7/9,2.47,False,are you really taking the manager's position next month,False,7/9,4.44,False
+st_216,stresstest,,we're all skipping the annual conference this year,False,6/8,3.09,False,we're all skipping the annual conference this year,False,6/8,4.62,False
+st_217,stresstest,,we're all skipping the annual conference dsc year. ick,False,5/8,4.8,False,we're all skipping the annual conference this year,False,6/8,4.41,False

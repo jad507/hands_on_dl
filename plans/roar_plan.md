@@ -1,3 +1,21 @@
+<!--
+RECOVERED 2026-09-03.
+
+plans/windows_environment_upgrade_status.md section 1 listed this file as lost
+and concluded the ISLS audit's figures had no artifact behind them. It was not
+lost: it survived in the AITranscribe/hands_on_dl snapshot dated 2026-07-17,
+which is the tree the audit was actually run against. Restored verbatim.
+
+Read it alongside upgrade-plan Step 6, which argues this is no longer the right
+next step and says why: a bigger model is not ground truth, it is an eighth
+opinion, and the ISLS contribution needs one judge held constant while the
+transcript varies rather than more judges. Its prerequisites are also unmet --
+human labels do not exist yet (Step 4) and there is no Roar allocation.
+
+The portability blocker it depended on IS now cleared: paths.py removed every
+absolute D:\ literal, so nothing here is blocked on that any more.
+-->
+
 # Plan: Running a Larger Model on ROAR Collab
 
 ## What hardware is actually there (per ICDS docs, July 2026)

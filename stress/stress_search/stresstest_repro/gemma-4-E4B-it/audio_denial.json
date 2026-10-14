@@ -1,0 +1,18 @@
+{
+ "pattern": "no (?:actual )?audio|audio (?:file )?(?:is|was|has)? ?(?:not|n't) (?:been )?provided|not (?:been )?provided (?:with )?(?:the |any )?audio|cannot hear|can't hear|without (?:the |any |actual )?audio|do(?:n't| not) have (?:access to )?(?:the |any )?audio|unable to (?:hear|listen)",
+ "spot_check": "8 random matches of an earlier looser pattern: 7 genuine denials, 1 false positive ('stress pattern is not provided'), which this pattern excludes",
+ "think_ssr": {
+  "n": 218,
+  "denies_audio": 41,
+  "acc_when_denying": 0.366,
+  "acc_otherwise": 0.565
+ },
+ "think_ssd": {
+  "n": 218,
+  "denies_audio": 64
+ },
+ "think_open_ssr": {
+  "n": 218,
+  "denies_audio": 59
+ }
+}

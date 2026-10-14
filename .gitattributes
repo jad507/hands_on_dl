@@ -1,0 +1,30 @@
+# Normalize line endings so the repo reads the same on Windows and Linux.
+# Without this, core.autocrlf differences between machines make whole files
+# show as modified after a checkout on the other side.
+* text=auto
+
+*.py    text eol=lf
+*.md    text eol=lf
+*.json  text eol=lf
+*.txt   text eol=lf
+*.yaml  text eol=lf
+*.yml   text eol=lf
+*.csv   text eol=lf
+*.rttm  text eol=lf
+*.vtt   text eol=lf
+
+# Windows shells can be unhappy with LF-only batch files.
+*.ps1   text eol=crlf
+*.bat   text eol=crlf
+*.cmd   text eol=crlf
+
+# Binary: never touch these.
+*.gguf          binary
+*.safetensors   binary
+*.m4a           binary
+*.flac          binary
+*.wav           binary
+*.mp4           binary
+*.png           binary
+*.jpg           binary
+*.ipynb text eol=lf

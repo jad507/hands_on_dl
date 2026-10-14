@@ -1,0 +1,413 @@
+{
+ "n_clips": 218,
+ "whistress_top1": 0.982,
+ "runs": {
+  "Nemotron 3 Nano Omni Q4 / vendor_asr": {
+   "n": 218,
+   "marked": 1,
+   "hit": 1,
+   "marked_rate": 0.005,
+   "marked_wald95": [
+    0.0,
+    0.014
+   ],
+   "precision": 1.0,
+   "precision_wald95": [
+    1.0,
+    1.0
+   ],
+   "recall": 0.005,
+   "recall_wald95": [
+    0.0,
+    0.014
+   ],
+   "examples": [
+    {
+     "id": "st_016",
+     "marks": [
+      "you"
+     ],
+     "gold": [
+      "you"
+     ],
+     "text": "YOU made this cake?"
+    }
+   ]
+  },
+  "Nemotron 3 Nano Omni Q4 / plain": {
+   "n": 218,
+   "marked": 0,
+   "hit": 0,
+   "marked_rate": 0.0,
+   "marked_wald95": [
+    0.0,
+    0.0
+   ],
+   "precision": null,
+   "precision_wald95": [
+    0.0,
+    0.0
+   ],
+   "recall": 0.0,
+   "recall_wald95": [
+    0.0,
+    0.0
+   ],
+   "examples": []
+  },
+  "Nemotron 3 Nano Omni Q4 / general": {
+   "n": 218,
+   "marked": 18,
+   "hit": 16,
+   "marked_rate": 0.083,
+   "marked_wald95": [
+    0.046,
+    0.119
+   ],
+   "precision": 0.889,
+   "precision_wald95": [
+    0.744,
+    1.0
+   ],
+   "recall": 0.073,
+   "recall_wald95": [
+    0.039,
+    0.108
+   ],
+   "examples": [
+    {
+     "id": "st_000",
+     "marks": [
+      "he"
+     ],
+     "gold": [
+      "he"
+     ],
+     "text": "I didn't say *he* stole the money."
+    },
+    {
+     "id": "st_001",
+     "marks": [
+      "stole"
+     ],
+     "gold": [
+      "stole"
+     ],
+     "text": "I didn't say he *stole* the money."
+    },
+    {
+     "id": "st_033",
+     "marks": [
+      "brought"
+     ],
+     "gold": [
+      "brought"
+     ],
+     "text": "We only *brought* the dessert."
+    },
+    {
+     "id": "st_037",
+     "marks": [
+      "ask"
+     ],
+     "gold": [
+      "ask"
+     ],
+     "text": "He didn't *ask* me for help."
+    },
+    {
+     "id": "st_074",
+     "marks": [
+      "neapolitan"
+     ],
+     "gold": [
+      "pizza"
+     ],
+     "text": "We only prepare *Neapolitan* pizza."
+    },
+    {
+     "id": "st_120",
+     "marks": [
+      "say"
+     ],
+     "gold": [
+      "say"
+     ],
+     "text": "I didn't *say* you were stupid."
+    },
+    {
+     "id": "st_122",
+     "marks": [
+      "were"
+     ],
+     "gold": [
+      "were"
+     ],
+     "text": "I didn't say you **WERE** stupid."
+    },
+    {
+     "id": "st_127",
+     "marks": [
+      "say"
+     ],
+     "gold": [
+      "say"
+     ],
+     "text": "I didn't *say* you can eat that."
+    }
+   ]
+  },
+  "Gemma-4 E4B / plain": {
+   "n": 218,
+   "marked": 0,
+   "hit": 0,
+   "marked_rate": 0.0,
+   "marked_wald95": [
+    0.0,
+    0.0
+   ],
+   "precision": null,
+   "precision_wald95": [
+    0.0,
+    0.0
+   ],
+   "recall": 0.0,
+   "recall_wald95": [
+    0.0,
+    0.0
+   ],
+   "examples": []
+  },
+  "Gemma-4 E4B / general": {
+   "n": 218,
+   "marked": 60,
+   "hit": 16,
+   "marked_rate": 0.275,
+   "marked_wald95": [
+    0.216,
+    0.335
+   ],
+   "precision": 0.267,
+   "precision_wald95": [
+    0.155,
+    0.379
+   ],
+   "recall": 0.073,
+   "recall_wald95": [
+    0.039,
+    0.108
+   ],
+   "examples": [
+    {
+     "id": "st_001",
+     "marks": [
+      "stole"
+     ],
+     "gold": [
+      "stole"
+     ],
+     "text": "I didn't say he *stole* the money."
+    },
+    {
+     "id": "st_004",
+     "marks": [
+      "didn't",
+      "i"
+     ],
+     "gold": [
+      "book"
+     ],
+     "text": "*I didn't* take your book."
+    },
+    {
+     "id": "st_005",
+     "marks": [
+      "steal"
+     ],
+     "gold": [
+      "did",
+      "i",
+      "not"
+     ],
+     "text": "I did not **steal** this car."
+    },
+    {
+     "id": "st_006",
+     "marks": [
+      "did",
+      "not"
+     ],
+     "gold": [
+      "steal"
+     ],
+     "text": "I **did not** steal this car."
+    },
+    {
+     "id": "st_007",
+     "marks": [
+      "not"
+     ],
+     "gold": [
+      "this"
+     ],
+     "text": "I did **not** steal this car."
+    },
+    {
+     "id": "st_014",
+     "marks": [
+      "chose"
+     ],
+     "gold": [
+      "chose"
+     ],
+     "text": "You **chose** to do this?"
+    },
+    {
+     "id": "st_017",
+     "marks": [
+      "this"
+     ],
+     "gold": [
+      "this"
+     ],
+     "text": "You made *this* cake?"
+    },
+    {
+     "id": "st_019",
+     "marks": [
+      "actually"
+     ],
+     "gold": [
+      "new",
+      "york"
+     ],
+     "text": "He's *actually* moving to New York."
+    }
+   ]
+  },
+  "Gemma-4 E2B / plain": {
+   "n": 218,
+   "marked": 0,
+   "hit": 0,
+   "marked_rate": 0.0,
+   "marked_wald95": [
+    0.0,
+    0.0
+   ],
+   "precision": null,
+   "precision_wald95": [
+    0.0,
+    0.0
+   ],
+   "recall": 0.0,
+   "recall_wald95": [
+    0.0,
+    0.0
+   ],
+   "examples": []
+  },
+  "Gemma-4 E2B / general": {
+   "n": 218,
+   "marked": 14,
+   "hit": 4,
+   "marked_rate": 0.064,
+   "marked_wald95": [
+    0.032,
+    0.097
+   ],
+   "precision": 0.286,
+   "precision_wald95": [
+    0.049,
+    0.522
+   ],
+   "recall": 0.018,
+   "recall_wald95": [
+    0.001,
+    0.036
+   ],
+   "examples": [
+    {
+     "id": "st_067",
+     "marks": [
+      "modern"
+     ],
+     "gold": [
+      "modern"
+     ],
+     "text": "Her specialty is **modern** painting."
+    },
+    {
+     "id": "st_100",
+     "marks": [
+      "really"
+     ],
+     "gold": [
+      "online"
+     ],
+     "text": "online he looks **really** good."
+    },
+    {
+     "id": "st_101",
+     "marks": [
+      "really"
+     ],
+     "gold": [
+      "good",
+      "really"
+     ],
+     "text": "online he looks **really** good"
+    },
+    {
+     "id": "st_104",
+     "marks": [
+      "crazy"
+     ],
+     "gold": [
+      "james"
+     ],
+     "text": "it's **crazy** james is going to be a pilot"
+    },
+    {
+     "id": "st_105",
+     "marks": [
+      "crazy"
+     ],
+     "gold": [
+      "pilot"
+     ],
+     "text": "It's **crazy** James is going to be a pilot"
+    },
+    {
+     "id": "st_108",
+     "marks": [
+      "mad"
+     ],
+     "gold": [
+      "you're"
+     ],
+     "text": "now you're making me **mad**."
+    },
+    {
+     "id": "st_143",
+     "marks": [
+      "really"
+     ],
+     "gold": [
+      "really"
+     ],
+     "text": "Did you *really* pay their entire bill already?"
+    },
+    {
+     "id": "st_159",
+     "marks": [
+      "serious"
+     ],
+     "gold": [
+      "now"
+     ],
+     "text": "Are you **serious** about calling the landlord now?"
+    }
+   ]
+  }
+ }
+}

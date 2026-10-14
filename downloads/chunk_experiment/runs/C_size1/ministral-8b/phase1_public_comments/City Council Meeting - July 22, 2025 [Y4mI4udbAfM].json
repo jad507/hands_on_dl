@@ -1,0 +1,364 @@
+{
+  "title": "City Council Meeting - July 22, 2025",
+  "video_id": "Y4mI4udbAfM",
+  "upload_date": "20250723",
+  "model": "ministral-8b",
+  "n_chunk_errors": 0,
+  "provenance": {
+    "generated_utc": "2026-09-04T04:56:33+00:00",
+    "model": {
+      "name": "ministral-8b",
+      "backend": "llama_cpp",
+      "n_ctx": 16384,
+      "n_gpu_layers": -1,
+      "no_think": false,
+      "strip_think": false,
+      "path_relative": "D:\\LLM\\Ministral\\Ministral-3-8B-Instruct-2512-Q8_0.gguf",
+      "size_bytes": 9029392800,
+      "mtime_utc": "2026-05-22T20:31:24.814044+00:00"
+    },
+    "sampling": {
+      "temperature": 0.0,
+      "p1_chunk_size": 3,
+      "p2_max_words": 600,
+      "p1_max_tokens": 1500,
+      "p1_retry_max_tokens": 300,
+      "p2_max_tokens": 700
+    },
+    "inputs": {
+      "prompt": {
+        "file": "p1_system.txt",
+        "sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+      },
+      "rendered_system_sha256": "40abc756d12238e2b8470b9571c97cd13720d1ebc192599d815cef5553b458f0"
+    },
+    "runtime": {
+      "hostname": "E1-054331",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "python": "3.12.6",
+      "llama_cpp_python": "0.3.24",
+      "gpu": "NVIDIA RTX A2000 12GB"
+    },
+    "chunking": {
+      "p1_chunk_size": 1,
+      "p1_chunk_offset": 0
+    }
+  },
+  "public_comments": [
+    {
+      "block_id": 9,
+      "speaker": "SPEAKER_17",
+      "start": 1633.73,
+      "end": 1823.4,
+      "speaker_name": "unknown",
+      "reason": "Expresses a concern about noise pollution from air-cooled data centers and cites local zoning regulations as context for their concern.",
+      "text": "just you're already doing it please begin with your block thank you right into the mic and I know that the one is going to be cooled by air instead of water but air cooling could mean significant noise pollution for anyone living within a quarter mile of it the decibels reach well over those considered safe for humans near air cooled data centers lancaster city zoning told me today that in practice they can only take the word of the applicant and can't determine ahead of time if the business will be noisy in fact city zoning said that the data center company met with city officials and one of the things they discussed was noise the city was convinced by the response of the company that there would be no noise problem but this is just based on what they want to say in fact if you look at the other data centers around the country noise is a problem the city okay the city noise ordinance can come into play only after the center is built and operating at which point it would be impossible for residents to get any enforcement and pa state has no noise laws that might help and i couldn't tell from what you did and you've said in your update whether city officials have promised tax breaks to the data centers there are 170 properties in the city that have local tax exemptions mostly hospital church and school the state of pa is about to pass bills with incentives to lure ai data centers to our state most or some municipalities and states have offered tax breaks and regretted it later because they are difficult to end washington state approved tax breaks for data centers without public input I might add and are suffering that loss of revenue for very few jobs that were created by having the data centers there the typical data center employees 50 to 200 permanent technical and maintenance jobs I know they told you something like up to a thousand that's not what the usual one is so if the data centers proposed here in Lancaster do not pay local taxes there will be no value to having them here other than ridding ourselves of the problem of an empty warehouse residents may find themselves funding new transmission lines down the road as has happened in some municipalities something else to think about the city approved demolition of the Greenfield site building June 30th but if the approval was made public it was not front page news as perhaps it should have been miss McLean we've"
+    },
+    {
+      "block_id": 12,
+      "speaker": "SPEAKER_26",
+      "start": 1854.22,
+      "end": 1870.0,
+      "speaker_name": "Amy Ernst",
+      "reason": "Speaker identifies as a resident and begins a public comment during the public comment period.",
+      "text": "evening we will move our next speaker is Amy Ernst good evening my name is Amy"
+    },
+    {
+      "block_id": 13,
+      "speaker": "SPEAKER_05",
+      "start": 1870.0,
+      "end": 1997.27,
+      "speaker_name": "Ernst",
+      "reason": "Resident proposing a zoning amendment for data centers as digital infrastructure facilities.",
+      "text": "Ernst I live on the 800 block of Columbia Avenue in the city I'm here to propose a textual amendment to the zoning ordinance to reclassify data centers moving forward as digital infrastructure facilities permitted only in general industrial zones subject to conditional use review we all know these are not wholesale trade and storage facilities they don't use they don't store anything traditional and they don't do it in a traditional way and wholesale trade and storage facilities require one of the lowest levels of oversight these types of centers require far higher levels of oversight it's like calling them storage facilities and requiring such low levels of oversight is like calling a toxic waste facility storage because it stores toxic waste whether it's a massive drain on the power grid or water supply that residents might carry the weight of or the alarming health effects already being seen in communities across the us from their cooling fans and there will be more effects to come this is the wild west for for these companies um but these data centers do have the power to to have a really negative impact on this incredible city other counties are starting to take action the language that i was focusing on which i sent in emails earlier today is a digital infrastructure amendment is from frederick county maryland where they're not letting these companies bait them and harm their communities i know people many people here today have worked really hard over the past 20 years to build this city into one of the most desirable small cities to live in please don't let it be destroyed by letting big tech walk all over us they'll fly in their specialists they won't create many new jobs here the construction jobs will be temporary they'll take what they need they'll make huge profits and they'll just leave the city in its wake as i said before these are not traditional storage facilities so i am proposing this textual amendment whether it can apply to these data centers or any moving forward they should not be classified as wholesale trade and storage and they need new classification with higher oversight and conditional use"
+    },
+    {
+      "block_id": 15,
+      "speaker": "SPEAKER_29",
+      "start": 2017.86,
+      "end": 2143.71,
+      "speaker_name": "unknown",
+      "reason": "Speaker identifies concern and skepticism about city decisions, expressing an opinion as a resident during public comment.",
+      "text": "good evening good evening uh john tell tolan first and only block of uh wise app um i don't come here often when i'm here you usually know there's a problem uh there's tons of people here uh counselor bakey i heard what you said and thank you for saying that at the beginning but i still think that many people here are probably still skeptical and concerned And I hope that there is some transparency that continues to happen going forward. And I hope that people continue to come and check on them and see what goes on. I had a lot of things that I wanted to say, and I think I will hold off on some of them. But I did email you all as well. I think that we're all still very concerned about the impacts. And the things that you said still didn't really do much for me. I'm still very concerned, and I would like to see you guys address this more and do your own research as to the impacts of Memphis, Tennessee, for example, and what's been going on there and the town hall meetings that have been held with no accountability and no transparency whatsoever after the fact. and you giving the spiel of what you just said it's it's kind of it's to me it sounds like fluff and I believe I only heard in reference to like Greenfield Road and I think I there's a there's another site on Harrisburg Pipe that's being looked at right I just think that there should be a big firm stance that is a collaboration between the community and City Council because we really have to cut this off at the head before anything else goes any further I don't think that we should even be considering that any of these facilities are anywhere in the county so I'll keep an eye out thank you thank you"
+    },
+    {
+      "block_id": 17,
+      "speaker": "SPEAKER_32",
+      "start": 2217.95,
+      "end": 2305.64,
+      "speaker_name": "Nelson",
+      "reason": "Resident expressing concern about data center plans and local decision-making authority.",
+      "text": "nelson i live on the 100 block of east lemon and um i wanted to talk about the planned data center as well i think that i have an issue with two major corporations telling us what will and will not be good for our citizens i think that's not for us to decide and i think that we have these data center companies coming here trying to use up all our power because they don't think we have enough to fight back and i think that i have an issue with that um my major issue is uh to use computers you have to use a lot of energy you create a lot of heat that burns a lot of carbon and they're going to set that off into lancaster county with these planned data centers in these areas that are going to create noise pollution whether you like it or not and in fact it takes more energy to cool these data centers than they create computing power so there's nothing about these data centers that screams energy efficiency to me and we're already getting hit with hikes from ppl um i don't believe them when they say i'm not going to get a hike i don't believe that for a second and i think that is on you guys as city counselors to actually what they said is take a stand and let us know whether or not you agree or disagree with having this data center in our community because i think that the community right now is ready to tell you that they don't want it and i think that that's on you guys to do your job and make sure that they've been heard that's all they have to say thank you sir mr. Harris our next speaker"
+    },
+    {
+      "block_id": 20,
+      "speaker": "SPEAKER_15",
+      "start": 2324.45,
+      "end": 2500.38,
+      "speaker_name": "Emma Burgess",
+      "reason": "Identifies as a resident expressing context and opinion on utility impacts during public comment.",
+      "text": "said my name is Emma Burgess I live on the 600th block of West Vine Street and I hold a master's degree in electrical engineering I really thank you president bake a for the updates I think that was really helpful context and actually I I really appreciate the comments by Brian. I'm kinda gonna provide a little bit more context in terms of the numbers. In three minutes, I really only have time to talk about the utility impacts of building a data center. I think you've probably read the LNP article from July 16th, but let me quickly reiterate a few points. The data center is estimated to consume 100 megawatts of power and would run 24 seven. That is 70,000 megawatt hours per month. The average Pennsylvania household, according to the EIA in 2022, consumes 854 kilowatt hours per month, which means that the data center would consume the energy equivalent of 85,000 homes in Lancaster on the low end. There are 21,000 homes in Lancaster City, according to the Census Bureau. Adding a data center would use the energy equivalent of four times the entirety of Lancaster City houses on the low end. On the high end, it would use the energy equivalent of the entirety of Lancaster County households. Really quick, I'd like to note that the LNP article misleadingly gives numbers for one megawatt, which is 100 to 300 times less than this proposed data center, which they say would power 400 to 900 homes for a year. And using recent data from the EIA, I get 850 to 2,500 homes, which is twice as much. I spoke to the reporter. His numbers were based on 2001 figures and had some assumptions in there. After speaking together, he agreed that the numbers I just told you were correct. Regarding the water cooling to fans cooling, I think that would increase the amount of energy used there. Either way, that puts immense stress on a power grid that is already getting increasingly expensive for us. Like Brian said, from January 2020 to today, electricity rates have gone up by 50% according to PPL's own data records. Across news sources and climate advocacy organizations, experts always agree that when data centers are built within an existing power grid, everyday consumers always pay the price. Lancaster City residents are already struggling to pay those bills. This would make things worse. It's not just the cost to increase the power grid, it's the cost to maintain a much, much, much, much larger power grid, and we have no guarantee that Carissa is going to pay that cost forever. Senator McGormick has been touting the economic benefits of this data center, but I ask you to consider, council, are 150 jobs worth the decades-long price that Lancaster residents are going to have to pay this data center and i really have to ask you to consider to put safeguards against this kind of development that jeopardizes the future of lancastrians for decades to come please consider public input before allowing us to go forward thank you for your time thank you mr harris our"
+    },
+    {
+      "block_id": 21,
+      "speaker": "SPEAKER_27",
+      "start": 2500.38,
+      "end": 2606.54,
+      "speaker_name": "Dan Weigel",
+      "reason": "Resident expressing concern about environmental and health impacts of data centers in Clarendon Drive area.",
+      "text": "next speaker next speaker is dan weigel good evening sir dan weigel the only block of clarendon drive data centers are not warehouses they do not merely store products and should not be classified as wholesale trade and storage data centers consume massive amounts of dirty fossil fuels they pollute the environment and they are hazardous to the health of those living nearby i am not willing to trade my health the health of my neighbors or the health of the environment for corporate profits i hope that each of you are also unwilling to make that trade we are not helpless bystanders to the corporate profit-driven ai so-called revolution where the people have a choice and we do not want it this is a bipartisan consensus with a recent lnp poll showing more than twice as many residents opposing the data center as favoring it so on a local level we must say no to data centers let us choose people the ones living and raising families here right now not corporate profits i understand that saying no to data centers is not easy in a legal sense what i ask is this a text amendment to the zoning ordinance to reclassify data centers from their current status as wholesale trade and storage instead i propose a new category digital infrastructure facilities that will require oversight regulation and a lengthy review process with ample public input prior to any permits being issued regardless of whether it is too late to stop the first facility please act urgently to protect our community moving forward data centers are a new and unique form of harm and they require an appropriate response i get that it is a long process to change the zoning ordinance let's start that process now thank you thank you mr harris our next speaker our next speaker"
+    },
+    {
+      "block_id": 22,
+      "speaker": "SPEAKER_24",
+      "start": 2606.54,
+      "end": 2778.57,
+      "speaker_name": "Abby Haney",
+      "reason": "Resident expressing concerns about AI data centers and electrical usage during public comment period.",
+      "text": "is abby haney good evening good evening my name is abby haney i live on the 600 block of east madison street and i am like so many others here about the ai data centers i have some major concerns um so i want to talk a little bit about electrical usage but so many of you have already made really great points and are far more educated than i am but core weave which is the same company that like would operate here they actually have a facility in denton texas and it's already been shown that they've doubled the amount of electricity used in denton using a majority of the local power system capacity these facilities like others have mentioned have to be powered 24 hours a day seven days a week 365 days a year and a hundred megawatt facility consumes as much electricity as a hundred thousand households annually and oftentimes residential users are left putting the bill for this huge power drain because power companies subsidize the cost of these data centers by passing along rate increases to residential customers my pp and l rate has not gone down in seven years that i've lived here so i can't imagine that it will then in regard to the belief that the building of these data centers will help the local job market especially for the construction industry i'm old enough to remember when they said the same thing about fracking instead they brought workers from out of state and then things when things were all said and done these companies would pack up and leave the community to deal with the environmental fallout i saw the information from the mayor's office that these plan to be air cooled not water cooled and i just want to ask can you confidently say that they'll remain that way what happens when the center inevitably expands and air cooling is no longer cost efficient or effective for coreweave i could also talk at length about how climate change is not going to spare us and will cause shrinking of our water tables and that lancaster has the second worst air quality in the mid atlantic and 22nd worst in the country i'm calling for a change in zoning laws like so many others have this center falls under wholesale trade and storage which is outdated and is not applicable to this proposed data data center in my opinion it fails to account for the unique risk and harm associated with data centers and what happens when these facilities want to expand outside of the footprint can you make a commitment for an honest storm water evaluation like was mentioned in by the mayor's spokesperson in the lmp article earlier today if it's found that it would negatively harm lancaster can you truly say you would deny their request to expand i also have questions about the good neighbor bargaining agreement that was mentioned what kind of public input will we have on that or is the mayor going to make those negotiations unilaterally we deserve public input from the beginning of this process not after the wool has already been pulled over our eyes our community deserves better than a huge fast-tracked energy eating project that will affect our decade affect our community for decades to come thank you thank you mr harris our"
+    },
+    {
+      "block_id": 24,
+      "speaker": "SPEAKER_31",
+      "start": 2785.31,
+      "end": 2867.02,
+      "speaker_name": "unknown",
+      "reason": "Resident expresses concern about data centers and advocates for community interests over outside business interests.",
+      "text": "400 block of east grand street um a lot of people said a lot of things better than i could they did a lot more research than i had time to but i'll just say i'm here to ask you to put our community ahead of outside business interests and to deny this in any way possible these data centers The link between environmental destruction is clear from so many other examples that have already been said today. They're going to use so much power, massive amounts of energy, which will accelerate climate collapse, not just here, but everywhere around the globe from all these data centers. Terrible, terrible for the environment. And the harmful pollutants that they also may cause are going to harm our most vulnerable residents, as well as anybody else in the area. but also want to say the ai industry itself is the project of billionaires who seek to cut costs by making our jobs obsolete we don't need to scab ourselves we don't need to let these plutocrats into our lives to run things just because they have money i don't think we need to give them the tools to take away our livelihoods while also destroying our environment around us we have the choice to stop these things and we need to decide who we work for Do we work for these people just because they have money, they can come into our community and destroy the environment, or do we have the option to stop that from happening? Thank you."
+    },
+    {
+      "block_id": 28,
+      "speaker": "SPEAKER_08",
+      "start": 2875.44,
+      "end": 3047.14,
+      "speaker_name": "Christine Kennedy",
+      "reason": "Self-identified resident expressing concern about a city decision (data centers) during public comment period.",
+      "text": "Good evening. My name is Christine Kennedy. I live at 10 North Market Street in downtown Lancaster, and I appreciate the opportunity to speak to the Council and all of those that have spoken so far, to Mayor Sirachi, Council President Bakay, City Council members, and the journalists that are in the house. I'm writing to you, and we'll forward this in an email, in regards to the proposed air cooled aspect of the data centers in Lancaster City and their environmental impact. I read in this morning's LMP paper, as others have said, that the data centers will initially be air cooled, mitigating concerns that were voiced earlier about the water concerns. I'm someone who has experienced the noise pollution impacts that data center fans firsthand. I want to voice my concerns with the hope that we can accelerate city policy to address this in the future and as much as we can with those facilities that have already been approved earlier this year my husband and i visited a family member who lives near the data center that's featured in the time magazine article we're living in a nightmare inside a health crisis of a Texas bitcoin town. The article reveals the health impacts to neighbors, animals, vegetation caused by the constant noise from the fans that cool the data center, including loss of hearing, fainting spells, debilitating vertigo, and nausea. The fans are heard miles away. My cousin's home is five miles away and we can hear the fans there. The recent LNP articles note that the city classified a data center land use as wholesale trade and storage. The regulations related to that do not take into account the unique impacts. As a former urban planner, I turned to the American Planning Association for Resources and found zoning for data centers and cryptocurrency mining. article addresses that impact for data centers to look at noise as well as water and power i ask that you assure that the city's noise ordinance covers and controls this type of noise source so that lancaster city will not have the same situation as granbury texas thank you thank you"
+    },
+    {
+      "block_id": 30,
+      "speaker": "SPEAKER_12",
+      "start": 3059.76,
+      "end": 3220.95,
+      "speaker_name": "Rachel Kruger",
+      "reason": "Speaker identifies as a resident (living near the proposed data center) and provides a detailed environmental perspective on the data center proposal.",
+      "text": "rachel kruger and i'll admit that while i do live outside of the city itself i do live on greenfield road about a half mile from the proposed data center i appreciate you with providing me a moment to discuss proposed data centers to provide you a little bit of background so you know where i'm coming from i hold a degree in geology and have worked in the environmental field for the last eight years as others have told you ai data centers present a number of environmental hazards we're seeing that now as more and more of these facilities make national headlines for churning out enormous amounts of greenhouse gases and other compounds inextricably linked to cancer and cardiovascular and respiratory disease so as another concerned citizen i have questions some you did touch on at the beginning of the meeting but i have a few more concerns for example why an ai data center i understand that not all land will meet all use criteria i understand that after years of industrial use the process of bringing that land up to something like residential use would be incredibly costly red rose commons comes to mind that area is commercially developed because it was previously occupied by the aluminum industry redeveloping that area to residential standards wasn't feasible so instead we made it commercial and it created jobs and brought revenue i also have questions like how will our energy infrastructure be protected in other communities of similar facilities we have seen the increased energy used by these data centers get passed on to residents should we expect to see our utility bills increase and what protections for the environment and human health are being considered what third party review is being performed and what if those considerations aren't enough what happens when our community gets sick when our already heavily burdened health care system is unable to keep up with the increase in asthma and heart disease and cancer and what happens with the lawsuit that follows because as we all know an emerging environmental concern is a lawsuit on the horizon what then and maybe these questions have been considered it sounds like you have more information than was originally presented to us and if that's the case then great but i don't know because that information has not yet been adequately communicated to us now i don't expect everyone to become a tree-hugging hippie i don't think that's realistic but i ask that we think of people like my grandma who over the last decade of her life had such severe asthma that she was unable to get the mail at the end of her own driveway that is how bad lancaster county's air quality is i look forward to the forthcoming information that you promised and in addition with the developer i'd also like to add that i'd like to meet with the proposed tenants i want to make sure that they understand that by building here they have the same obligation as you or i do to protect this community i yield my time thank you mr harris our"
+    },
+    {
+      "block_id": 31,
+      "speaker": "SPEAKER_25",
+      "start": 3220.95,
+      "end": 3401.93,
+      "speaker_name": "Ann Torres",
+      "reason": "Identifies as a resident (via work location) and shares a personal, emotional concern about healthcare access and treatment outcomes for a child.",
+      "text": "next speaker next speaker is Ann Torres good evening hi my name is Ann Torres I live in lettuce but I work in Lancaster years back my friend had a baby through IVF they finally had their baby but over time they noticed that he was having issues breathing in and out of hospitals extensive stays but no answers just constant treatment to keep him alive and breathing and it's heartbreaking to see a child who was very healthy in every other way confined to a hospital bed for too much of his life. I remember the day she came to me and said, Ann, we'll probably need to move. He can't breathe here. It's the air. As the move never came to fruition, he saw more hospital visits throughout his childhood. He is nine now. He is relatively stable except for the constant struggle of allergies and asthma. If he gets sick, like the common cold, there's a good chance that he ends up hospitalized. Is this the life, the future we want for our children? Lancaster already ranks 22nd for the worst air quality in the nation air pollutants cause roughly 200 000 premature deaths yearly in the u.s now this should go without saying but no one should be dying from breathing the air this these electricity consuming fossil fuel power ai data centers will accelerate that pollution massively in pa from 2024 to 2025 there has been a 174 percent increase in electric use due to these AI data centers. To the tune of $9 billion, a cost that is spread to you and me because AI data centers, while they get to privatize their profits, they get to socialize their operational costs. In areas of high data center growth, consumers can expect to see an additional estimated $450 added to their yearly electric costs. Oh, and not only do we help to pay to keep these centers running, but these companies are getting taxes tax exemptions in 36 states including pa to qualify for these exemptions they must spend 75 million on their investment property and guarantee at least 25 jobs 25 jobs what a low bar an insult to the community and trade for our health this exemption guarantees that they do not have to pay sales tax on the very costly vital tech equipment that they need to build these centers which of course means pa loses millions every time these centers are built millions that could go into to healthcare, housing, and other social safety nets that we are quickly losing. In Indiana, an Amazon data center promised to rate 1,000 new jobs. They failed to mention that 60% of those jobs would be temporary construction, and the other 40% could only be fulfilled when they completed their total project of 16 total data centers. So as AI data centers steamroll this country, this state, this county, quickly outpacing any regulation in their industry, please ask yourself, what are you, Shapiro, McCormick, willing to trade for short-term monetary investments. A child's future? This cannot happen. Lancaster cannot let this happen. Thank you. Thank you."
+    },
+    {
+      "block_id": 36,
+      "speaker": "SPEAKER_02",
+      "start": 3409.73,
+      "end": 3598.4,
+      "speaker_name": "Frank Arcolio",
+      "reason": "Resident expressing concerns and questions about a city decision regarding a data center.",
+      "text": "Hi, thank you. Frank Arcolio, Old Trinity Place. It's only a circle, so one block. All the other speakers have dwelt on all the bad aspects of having a data center, the gluttonous use of electricity, the gluttonous use of water, or if you're air cooling it, more gluttonous use of electricity, and the lack of jobs that eventually come out no matter what they promise. But I'm gonna ask the big Watergate question today. What did you know and when did you know it? We only found out on Friday. But guess what? there was a $130 million investment purchase in February. How come we're just finding out about this now? The paper said when that investment was made, it was made eyed for data centers. Did you not notice? You know, I've been in business and in consulting for nearly 50 years. There is no one that I've ever met who wants to go spend $130 million speculatively without knowing that that investment was gonna yield a return, without knowing that it was gonna be just okay with everyone to put a data center here. And so we find out about it on July 18th. None of you who found out before that raised any qualms, talked to anyone, talked to the public about what it might do to us. And now, guess what? We're told, it's too late to do anything. Oh, what a shame. If you had started in February, we could have done a lot. Do you think we wouldn't notice? Do you think we wouldn't care? Do you think we have to play cat and mouse with you to check up on you, to make sure that you're doing your job? what we want is for you to stop this damn data center right now we want control by the city over such properties they are not warehouses trust me on that we need you to do the kinds of zoning amendments that have been presented here tonight that guarantee and the regulations need to guarantee water use electricity use and to make sure that any other environmental impact is dealt with not by their assurances but by third party uh objective people even manor township has this why can't lancaster city i think somebody's been had either you guys have been had or we've been had but it's not good for lancaster county thank you thank you sir"
+    },
+    {
+      "block_id": 49,
+      "speaker": "SPEAKER_28",
+      "start": 4913.92,
+      "end": 4929.16,
+      "speaker_name": "unknown",
+      "reason": "Speaker expresses a concern about grant funding and its potential risks based on state proposals, indicating a genuine public comment on city decisions.",
+      "text": "question regarding the grant funding so understanding that we're anticipating some of those funding opportunities are there any risks of losing that on some based on some of the proposals at the state right now I am not aware of any"
+    },
+    {
+      "block_id": 52,
+      "speaker": "SPEAKER_10",
+      "start": 4946.06,
+      "end": 4990.56,
+      "speaker_name": "unknown",
+      "reason": "Speaker expresses a concern about unfunded allocations and proposes a solution regarding the 2028 bond, indicating a genuine public comment on city decision-making.",
+      "text": "Thank you, Council President. Thank you, President. And thank you. This is very informative. In regards to some of the unfunded allocations for multiple of the projects, and kind of piggybacking off Councillor Royals question, you know, if we are not seeing those get funded year over year, can we add that to the 2028 bond? It's like next year and the projection or I guess also as director Campbell mentioned like when would we decide okay like we may need to pause this project or defer this project if we don't see it move out of that unfunded column yeah I mean a lot of the projects"
+    },
+    {
+      "block_id": 55,
+      "speaker": "SPEAKER_10",
+      "start": 5097.14,
+      "end": 5117.39,
+      "speaker_name": "unknown",
+      "reason": "Speaker expresses appreciation for city financial planning and capital allocations, identifying as a resident/manager with a stake in local projects.",
+      "text": "make some of those decisions yes thank you and I really do appreciate this level of financial planning I have a capital plan at the hotel I manage so know it really excites me to see that you know each individual project has you know the allocations year over year so i really appreciate you and your team's efforts with that thank you anything else"
+    },
+    {
+      "block_id": 63,
+      "speaker": "SPEAKER_26",
+      "start": 6201.08,
+      "end": 6234.4,
+      "speaker_name": "unknown",
+      "reason": "Speaker asks a question about city budget assumptions related to the MS4 collection system, indicating a community member expressing concern about city operations.",
+      "text": "i do have a question uh the lines for the ms4 collection system and the um there's another line i'm sorry and the uh oh i see the green infrastructure correct corrective action yes um actually no just the ms4 system line so that's the same number repeated year over year i'm assuming there were some assumptions made about just like average cost can you talk a little bit more about what those could be and then also i see it's in the"
+    },
+    {
+      "block_id": 66,
+      "speaker": "SPEAKER_01",
+      "start": 6349.53,
+      "end": 6375.32,
+      "speaker_name": "unknown",
+      "reason": "Speaker asks a question about the Trees for People program, expressing concern about goals and progress, during the public comment period.",
+      "text": "council president just had a brief question on the trees for people program and i understand that that's going forward over the next couple years into 2028 can you just reiterate what the what the goal is as far as like number of trees planted over the next three years and then if you happen to have it available what progress has been made thus far on said goals"
+    },
+    {
+      "block_id": 71,
+      "speaker": "SPEAKER_26",
+      "start": 7175.2,
+      "end": 7199.88,
+      "speaker_name": "unknown",
+      "reason": "Speaker asks about the impacts of water/sewer separation projects, identifying as a resident concerned about city decisions.",
+      "text": "i have two questions the first is the impacts of those separation projects water street sewer separation and then there was there was others there overall what is the impact of those projects i know you mentioned focusing on the water first but is that a significant or an insignificant impact if you could kind of just talk about it in general terms i'm going to refer that to molly"
+    },
+    {
+      "block_id": 80,
+      "speaker": "SPEAKER_28",
+      "start": 7491.77,
+      "end": 7520.97,
+      "speaker_name": "unknown",
+      "reason": "Resident expresses concerns about project capacity, sequencing, and resident experience in relation to city projects.",
+      "text": "question is too soon for tonight um but curious about capacity and project management for a lot of these projects um there's a lot going on especially in 26 and 27. what does capacity look like on the teams as well as what does project management look like in sequencing these projects just kind of thinking about construction thinking about resident experience how does that play a factor into some of these some of the timeline for for a lot of these"
+    },
+    {
+      "block_id": 84,
+      "speaker": "SPEAKER_26",
+      "start": 7763.36,
+      "end": 7783.49,
+      "speaker_name": "unknown",
+      "reason": "Speaker appears to be a community member expressing an opinion on city operations.",
+      "text": "are things that get delayed thank you so now I'd like to talk about our water"
+    },
+    {
+      "block_id": 91,
+      "speaker": "SPEAKER_06",
+      "start": 8686.28,
+      "end": 8779.22,
+      "speaker_name": "Tony Daschle",
+      "reason": "Resident expressing concern about the impact of a data center on Lancaster’s water system during the public comment period.",
+      "text": "evening evening tony daschle 700 block of new holland avenue so it's greatly ironic that tonight we hear the capital budget hearing when as we just heard water is expensive and the public's looking at a massive data center which sure it may initially be air-cooled but these sort of systems unregulated may produce great burden to our water system and since water is expensive what can not only the rate payers of lancaster city but the rate payers of the entire area serviced by the city expect if there is a massive use that's going to use a considerable amount of water if we don't put in place now regulations to ensure that they if they're going to be water cooled use non-potable water regulations like that could maybe even be advantageous to meeting our consent decree we have hundreds of thousands of gallons we have to reduce and this private investment that's coming to our community which has very little regard for what we need as a public there's nothing in place to protect us this whole presentation is valued but it's terrifying in the face of these private investments that are going unregulated so I am curious if the Public Works Department has been made aware of these plans and if so when those are my comments and questions thank you Thank"
+    },
+    {
+      "block_id": 96,
+      "speaker": "SPEAKER_00",
+      "start": 8817.28,
+      "end": 8826.16,
+      "speaker_name": "unknown",
+      "reason": "Speaker expresses a concern about the availability of the original list of projects, indicating a public comment on city decision-making.",
+      "text": "to how the original list of projects was made available on June 30th I appreciate"
+    },
+    {
+      "block_id": 98,
+      "speaker": "SPEAKER_15",
+      "start": 8830.06,
+      "end": 8847.82,
+      "speaker_name": "Emma Burgess",
+      "reason": "Resident expressing opinion and concern about the AI Denison data center project.",
+      "text": "good evening hi again Emma Burgess 600 West Vine Street my comment is I came here to yell about the AI Denison data center and I heard this presentation as well and I loved it so thank you for giving that I learned so much that's my"
+    },
+    {
+      "block_id": 110,
+      "speaker": "SPEAKER_18",
+      "start": 9217.02,
+      "end": 9374.57,
+      "speaker_name": "Julie Zug",
+      "reason": "Resident expressing concerns about the proposed data center location and sharing observations as a community member.",
+      "text": "evening good evening my name is Julie Zug I'm living at the zero block of East Walnut Street and I came here planning only to listen and learn with some concerns about the data center these are just a few of the puzzle pieces i've picked up this evening now the proposed location of the data center the lsc communications property on greenfield road was recently reported as being the other lsc communications property on harrisburg pipe which is lancaster city but greenfield if i'm not mistaken is lancaster township no it's not it's in the city okay i was looking at it it's on the line between slam peter and the city okay all right um however this property is located according to the maps i've looked at um on greenfield road however it's across the street from the conestoga pines pool which the city appears to be ready to study into relocating but still it's included in consideration of the capital budget um for their uh for the eastbound connector plan and i'm not sure i understand how that's working if that's part of something that you're planning on relocating now the developer of this data center machine investment group a simple google search a new york based in real estate investment platform which according to their own website is focused on opportunistic distressed and special situations across the united states they were formed by former senior executives of garrison investment group a delaware llc also out of new york which was sanctioned in september of 2022 for failing to have required audits performed and to deliver the audited financials to investors i would i would urge our city and anyone involved in planning this thing to stop selling our city out to the to the investment bankers thank you"
+    },
+    {
+      "block_id": 111,
+      "speaker": "SPEAKER_03",
+      "start": 9375.51,
+      "end": 9520.64,
+      "speaker_name": "unknown",
+      "reason": "Resident expresses concern about potential noise and health impacts from an air-cooled data center at 200 block of North Concord Street.",
+      "text": "thank you good evening here are the 200 block of north concord street and this is about the data center also there was a long article thank you i have a no i have a scratchy voice anyway A long article in the May 25th in Time magazine about the data center in Granbury, Texas. And here ours is also going to be air cooled. Will there be fans and noise, excessive and unhealthy noise, running 24 hours a day, seven days a week? Where is all this electricity coming from? Do we have the local infrastructure for it? And who is going to be paying for all the usage? All of us need electricity to run our houses. What equivalent household usage in water and power will the data center be using? The issue is when the data center consumes water and electricity, how will that affect our domestic supply and our costs? staying in the building's old footprint at the old printing plant so that they do not need approval i don't really understand the approval process seems that we do not have sufficient information if we don't know what's going on what's happening how are we lancaster city going to deal with it if you have nothing to say about what's going on in granbury texas which is not too far from fort worth which is a big city there have been very strange medical emergencies from the thousands of fans emitting a constant buzz i am sure our citizens don't want to be living in some strange unhealthy episode of the twilight zone thank you good evening good evening my name is daryl legacy"
+    },
+    {
+      "block_id": 112,
+      "speaker": "SPEAKER_04",
+      "start": 9520.64,
+      "end": 9702.58,
+      "speaker_name": "unknown",
+      "reason": "Resident from the 100 block of North Mary expresses concerns and opinions about the capital plan and its relevance to a local data center project.",
+      "text": "i'm from the 100 block of north mary and i didn't initially come to see all of the capital plan but i'm glad i did because a lot of it was actually really interesting and helpful and there also are parts of that that i think apply to the data center one of which is spending four hundred thousand dollars on conestoga pines which is right next door and i question how much that park is going to be used when there are fans going 24 7 right next to it and i think that's something we should be considering when we're determining whether we're going to spend that money i also think what's really interesting to me is that we have to do a land development plan for buying that one little strip from ppl but the data center doesn't that means we as the city are doing a development plan for ourselves as the city that this external company does not need to do i think that is a huge problem and that's indicative of what is happening here that is problematic i think there everybody that has spoken has done a good job already explaining most of the issues there are a couple things that haven't come up if you go to the charissa website which they're the company that's developing this they say Lancaster East which I assume is the Greenfield but they also say Lancaster West so even though there's nothing official on their website it says Lancaster West under development you can all go see that right now so they are planning what I assume is the 1375 Harrisburg Pike location regardless of whether they've said they are doing that or not they're telling you on their website they're doing it and that is right next to longs park like does everybody realize is right next to longs park so i have some questions that i think need to be considered in addition to the ones that people have already said one is who is going to be responsible to see if they expand past the existing footprint thereby triggering the land development plan the wastewater treatment plan and all of these things they are going to have to do i mean who is going to be measuring did they they expand past the existing footprint and it has to be us it has to be the city I don't trust them I think and I'm sure they're gonna say no no we didn't and I don't think we should be trusting them enough also I think we need to think about the one especially at Harrisburg Pike but probably the one near in Greenfield as well have they done any studies on animal impact there are many many many migratory birds that are in Longs Park are they affected will they be affected by this semi-secret location that they're clearly planning to do? And I think that's something that we need to be thinking about. I also think we should be thinking about the impact of construction. What's going to happen, not only Greenfield, but Harrisburg Pike? I mean, what's going to happen when you're literally talking next door to Longs Park? Huge construction equipment, I would assume for years, potentially building this location. And I just think those are extra questions you should all be asking and we should all be thinking about. And I don't think should be moving ahead until we have answers thank you good evening am i good um brittany"
+    },
+    {
+      "block_id": 113,
+      "speaker": "SPEAKER_16",
+      "start": 9702.58,
+      "end": 9838.39,
+      "speaker_name": "unknown",
+      "reason": "Speaker identifies as a resident expressing personal concerns about city water infrastructure and city officials' reports.",
+      "text": "mitchell uh 400 block of east grant street um and i also wasn't planning on speaking today so i'm just gonna kind of go for it and say what's in my heart um i just hearing the report from president vacay uh with a lot of those really sort of nice comforting uh details about you know the cooling span and and and all the reasons why the water is going to be okay and all that stuff i just can't help but wonder what about our any experience uh that we've had in in our country with unmitigated capitalistic self-interest in an environment that is completely devoid of any regulations would make us think that we should trust or listen to that something about me is I probably have plastics in my brain most of you guys probably do too you know micro plastics are in all of us and I'm sure decades ago those companies would have said hey everything's hunky-dory check out our cool fan we'll write you a nice little check and whatever else they would have had to say to get their foot in the door and now it's too late i don't know what that's going to do to us long term we don't have a lot of you know scientific data on uh on microplastics but we're still kind of in that find out era and it's not looking good i don't have any children but i care about your kids and i'm not willing to sign them up to be a real-time experiment of how much poison air you can breathe um i hope that you guys aren't willing to do that either because this is the thing that once we let it into our community we're not going to be able to undo it those effects are going to be real so i'm not naive i hope that you guys aren't either I just hope that you can, you know, be honest with yourselves about what you are about to let into the community where we all have to live every day. Thank you."
+    },
+    {
+      "block_id": 115,
+      "speaker": "SPEAKER_06",
+      "start": 9847.11,
+      "end": 9861.11,
+      "speaker_name": "Tony D'Astra",
+      "reason": "Resident expressing a personal opinion related to a city decision (Watergate reference) during public comment.",
+      "text": "Tony D'Astra, 700 block of New Holland Avenue. I'm glad Watergate got brought up earlier because there's a favorite song of mine by Stevie Wonder that was written for Richard Nixon. It's called You Haven't Done Nothing."
+    },
+    {
+      "block_id": 117,
+      "speaker": "SPEAKER_06",
+      "start": 9868.24,
+      "end": 10008.61,
+      "speaker_name": "unknown",
+      "reason": "Expresses frustration and concern about city decisions and zoning processes, identifying as a community member with a stakeholder perspective.",
+      "text": "you'll say that you'll do though much concern but not involved with decisions that are made by you but we are sick and tired of hearing your song telling how you are gonna change right from wrong cuz if you really want to hear our views you haven't done nothing and that's the case here we have an opportunity to let this go through a use not provided for process as our zoning ordinance dictates instead we've said screw all the red tape and I think that's insane because the use that this is provided for so it has additional words behind it they were not an LMP one of those being an exclusion for processing data is being processed i don't care that it's not something we can physically hold those storage blocks and the heat they produce are very real this issue is very real this issue is very concerning and if you care about working families at all you need to do something now you need to speak out now because people are about to be greatly hurt financially their health the fact that people have to come to this board this board meeting this council meeting just to feel like they have the possibility of being hurt this is the same city council i'm frustrated with for trying to gut the tree ordinance environmental issues have always been a secondary priority in the last i don't know handful of years we have a comprehensive plan that talks about eco districts and i'm still mad at the planning commission which i'm a part of for not amending the zoning ordinances to this day everyone here should be mad at the planning commission too we have a significant amount of work to do but we were too concerned about giving people city council districts things like that this is a shame and the fact that you're trying to distance yourselves from this is an abhorrent use of words good evening hello my name is christina sudorescu"
+    },
+    {
+      "block_id": 118,
+      "speaker": "SPEAKER_11",
+      "start": 10008.61,
+      "end": 10206.6,
+      "speaker_name": "unknown",
+      "reason": "Speaker identifies as a resident (former student) expressing concerns about AI expansion in Lancaster County.",
+      "text": "I actually live close to Centerville, but I, you know, work and live in Lancaster City. So I was an undergraduate and a master's graduate of Carnegie Mellon University where CoreWeave recently announced their intention to use Lancaster County in their AI expansion plan. For years as a student there, we weren't just educated on the beneficial uses of AI. We were also taught the full picture of all that comes with AI, including the negative implications that are impossible to separate from the good stuff. I appreciate your notes earlier today about, you know, the press release that happened very recently. Some part of me, like, believes you when you say a lot of you just recently heard about this in terms of the transparency. but it is odd to hear you know the words transparency and the surprise update of construction having started already in the same sentence so I kind of wonder what your response your accountability procedures are in order to make sure that you know those other parties do uphold transparency so with all of this updates it feels remarkably fast for something that will forever change the landscape of our city. So I want to address my statement to Lancaster itself, the city that raised me, and the place that gave me real tangible things to value. I moved back home from after living in a big city after four years of college, and I uprooted my community and life there, you know, to come back home. And sometimes you don't really appreciate what you have until you move away and you can't find it anywhere else on my move back i drove through 44 contiguous states like hoping that a city would surprise me and um you know call me to its home but nowhere is like lancaster some of my friends in new york or philadelphia come to lancaster specifically for the amazing dairy for the fresh fruits and vegetables that come at an unbeatable price some of my friends in los angeles asked me to flip the camera when i facetimed them because they can't believe they can't fathom how close I live to agriculture and nature day by day the fields the pastures the silos the bucolic scenery the backyards the nature trails the central market the Amish people this is my love letter to you Lancaster and it is my love that I ask everyone to consider do we really need to force ourselves to be on the map as it relates to higher tech jobs why should we sacrifice what makes us honest what makes what increases the quality of our lives in order to perpetuate a faster and frankly crappier lifestyle um what good is you know a single you know few billion dollar investment when it sacrifices the multi billion we make annually on agriculture food processing tourism and other related sectors i'm really happy memphis came up earlier um because that colossus computer uh has access to 50 megawatts of energy um and they you know were petitioning to try to get up to 150. i appreciate your comments but we've reached three minutes okay ours is 100 and it goes to 300 so"
+    },
+    {
+      "block_id": 119,
+      "speaker": "SPEAKER_07",
+      "start": 10207.4,
+      "end": 10382.48,
+      "speaker_name": "Taylor Raymond",
+      "reason": "Resident expressing concern about zoning laws and environmental impact of data centers.",
+      "text": "thank you good evening good evening taylor raymond 500 block of saint joseph street um i'd like to first start by saying that i agree with several community members who have come up and requested a change in our zoning laws to exclude the data center as the wholesale trade and storage. Some place like this needs significantly more oversight than it has. The data centers will, sorry, they contribute to a rise in greenhouse gases like CO2. As the growth of AI continues to rise, we cannot keep up with sustainable energy to cover the difference, so it's going to increase the effects of climate change locally and globally, which is going to have an outsized impact on our poorest residents, including the ones who live outside, they are not very well-regulated by any government, but there are some governments that we can look to for groundwork, essentially, notably Ireland, the EU AI Act, and Senator Ed Markey, who's a Democrat, he's pushing for more info and sustainability on AI I think that we should be following suit and we shouldn't allow this data center I as I said at the last City Council meeting I work at the Lancaster County Tax Collection Bureau which is less than a mile as the crow flies from the Greenfield Road data center area so not only do I live in the city I work so clear so close and as you said it's it straddles the line of East Lampeter earth yes East Lampeter so it affects not only city residents but anybody who works in the city anybody who lives or works in East Lampeter I don't think that we should allow this because it affects so much more than we have any control at City Council over yeah that is everything I've got thank you good evening"
+    },
+    {
+      "block_id": 120,
+      "speaker": "SPEAKER_09",
+      "start": 10382.48,
+      "end": 10543.71,
+      "speaker_name": "Ellen Sloan",
+      "reason": "Resident expressing ongoing concern about city policy implications of federal immigration detention funding.",
+      "text": "Ellen Sloan I live in the first block of North Lyme Street I'm not going to talk about the data center I'm going to talk about something I talked about two weeks ago and I'll keep talking about it until I get some kind of response I'm here once again to speak about ice as you may be aware the budget reconciliation bill signed into law this month allocates a 45 billion dollars for building new immigration detention centers which represents a 265 percent annual budget increase it is a 62 percent larger budget than the entire federal prison system b almost 30 billion dollars towards ice enforcement and deportation operations a three-fold increase in ice's annual budget all this while also capping the number of immigration judges at 800, despite the record backlogs. The Trump administration means business. Lancaster calls itself a welcoming city. Some call Lancaster the refugee capital of the United States. Who among us here tonight would deny that immigrants have enriched our community beyond measure? We must do what we can to protect the folks who have come here from places of pain and struggle looking simply for a place to live in peace i am once again asking the city council to pass an ordinance a requiring visible identification for all law enforcement agents operating within the city including federal agents and prohibiting facial concealment of said officers b banning our local police from cooperating with ice agents especially without warrants or legal clear legal justification and c also to work with city schools and hospitals to develop protective policies and rapid response systems when federal ice agents show up i'm sure you have seen the horrific videos of people being snatched off the streets or at courthouses or their places of work by masked individuals with frightening weapons disappeared no due process sent to prisons far away perhaps never to see their loved ones again we have seen the unwanted militarization of los angeles is this what we want in our city secret police disappearing people please act before it is too late they are coming for immigrants now who will they come for next thank you thank you are there any additional comments for this period"
+    },
+    {
+      "block_id": 122,
+      "speaker": "SPEAKER_19",
+      "start": 10551.35,
+      "end": 10674.34,
+      "speaker_name": "Robert McLean",
+      "reason": "Identifies as a resident and expresses concern about AI-related city decisions.",
+      "text": "My name is Robert McLean, 123 South Christian. And I'm here, basically, I have a little sign I've been showing around. It's called democracynow.org. You can get that on your computer. What you're talking about, as far as this AI in this area, is the tip of the iceberg. You don't have any idea, and nobody else has any idea, how it's going to turn out. This woman, Karen Ho, wrote a book to explain it, and she's from China, Hong Kong. She's back and forth in the United States. She has scared the devil out of the people who have heard her speech. And you can get a synopsis of the book on democracynow.org. Just hit AI. And you will get the whole book in one hour's time. But everyone should have this. Find your way through examining what she's saying. She's a Chinese person who wrote this over 20 years of work. She knows what she's talking about. And we are all going to suffer in the long run and never get out of it. Because it's not going to financially destroy us. There's valleys up in northern PA, a whole valley for transmission lines, big ones, to carry AI line energy. The whole valley was threatened to be condemned for this AI business. That's what's happening around the world. This is an international station around the world. It's happening around the world, not just in this area."
+    },
+    {
+      "block_id": 124,
+      "speaker": "SPEAKER_10",
+      "start": 10733.29,
+      "end": 10766.72,
+      "speaker_name": "unknown",
+      "reason": "Speaker expresses concern about data centers, requests council report on options, and advocates for community interests.",
+      "text": "counselor ahmed thank you council president and as this is an ongoing issue where we are learning more each day i would hope that council can receive a report on what options council does have what are the current situation regarding the data centers to help make sure that council knows what we can do to protect the city's interest moving forward and also alleviate some of the concerns that community members have shared so um thank you that concludes my comments"
+    }
+  ]
+}

@@ -1,7 +1,28 @@
 {
   "permissions": {
     "allow": [
-      "PowerShell(\\(Get-Item \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\hands_on_dl\\\\logs\\\\llm_classify_qwen3.5-9b-q6.log\"\\).Length; \\(Get-Item \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\hands_on_dl\\\\logs\\\\llm_classify_qwen3.5-9b-q6.log\"\\).LastWriteTime)"
+      "PowerShell(\\(Get-Item \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\hands_on_dl\\\\logs\\\\llm_classify_qwen3.5-9b-q6.log\"\\).Length; \\(Get-Item \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\hands_on_dl\\\\logs\\\\llm_classify_qwen3.5-9b-q6.log\"\\).LastWriteTime)",
+      "Bash(Get-ChildItem -Path \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\hands_on_dl\\\\audio_pipeline\" -Recurse -File)",
+      "Bash(Select-Object FullName)",
+      "Bash(grep -E \"\\\\.py$|\\\\.ps1$\")",
+      "Bash(powershell *)",
+      "Bash(python *)",
+      "Bash(D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\LancasterClaude\\\\.venv\\\\Scripts\\\\python.exe *)",
+      "Bash(\"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\LancasterClaude\\\\.venv\\\\Scripts\\\\python.exe\" diarize.py --help)",
+      "Bash(\"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\LancasterClaude\\\\.venv\\\\Scripts\\\\python.exe\" transcribe.py --help)",
+      "Bash(\"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\LancasterClaude\\\\.venv\\\\Scripts\\\\python.exe\" align.py --help)",
+      "Bash(\"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\LancasterClaude\\\\.venv\\\\Scripts\\\\python.exe\" group_speakers.py --help)",
+      "PowerShell(& \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\LancasterClaude\\\\.venv\\\\Scripts\\\\python.exe\" -c \"import urllib3; print\\(urllib3.__version__\\)\" 2>&1)",
+      "PowerShell(& \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\LancasterClaude\\\\.venv\\\\Scripts\\\\python.exe\" -c \"import urllib3; print\\(dir\\(urllib3\\)\\)\" 2>&1)",
+      "PowerShell(& \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\LancasterClaude\\\\.venv\\\\Scripts\\\\python.exe\" -c \"import urllib3; print\\(urllib3.__file__\\); print\\(urllib3.__path__\\)\" 2>&1)",
+      "PowerShell(& \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\LancasterClaude\\\\.venv\\\\Scripts\\\\pip.exe\" show urllib3 2>&1)",
+      "PowerShell(Get-ChildItem \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\LancasterClaude\\\\.venv\\\\Lib\\\\site-packages\\\\urllib3\" | Select-Object -First 20 | ForEach-Object { $_.Name })",
+      "PowerShell(Get-ChildItem \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\LancasterClaude\\\\.venv\\\\Lib\\\\site-packages\\\\urllib3\\\\__pycache__\" | Select-Object -First 10 | ForEach-Object { $_.Name })",
+      "PowerShell(& \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\LancasterClaude\\\\.venv\\\\Scripts\\\\pip.exe\" install --force-reinstall urllib3 2>&1)",
+      "PowerShell(& \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\LancasterClaude\\\\.venv\\\\Scripts\\\\python.exe\" -c \"import urllib3.exceptions; print\\('ok', urllib3.__version__\\)\" 2>&1)",
+      "PowerShell(& \"D:\\\\Users\\\\jad507\\\\PycharmProjects\\\\LancasterClaude\\\\.venv\\\\Scripts\\\\python.exe\" -c \"from pyannote.audio import Pipeline; print\\('pyannote import OK'\\)\" 2>&1)",
+      "PowerShell(Get-ChildItem \"D:\\\\Users\\\\jad507\\\\Videos\\\\vidget\\\\Introduction to RES4LYF - AI Bongmath - 905eOl0ImrQ\" | ForEach-Object { \"$\\($_.Name\\) [$\\($_.Length\\)]\" })",
+      "PowerShell(Select-String *)"
     ]
   }
 }

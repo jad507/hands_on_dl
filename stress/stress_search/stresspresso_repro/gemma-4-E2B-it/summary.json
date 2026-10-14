@@ -1,0 +1,51 @@
+{
+ "model": "google/gemma-4-E2B-it",
+ "dataset": "stresspresso",
+ "paper": "arXiv 2505.22765",
+ "paper_reference": {
+  "ssr_accuracy": {
+   "StresSLM": 0.862,
+   "Gemini-2.5-Pro": 0.775,
+   "GPT-4o-audio": 0.688,
+   "Qwen2Audio-7B": 0.532,
+   "human": 0.926
+  },
+  "ssd_f1": {
+   "WhiStress": 0.883,
+   "StresSLM": 0.869,
+   "Gemini-2.5-Pro": 0.485,
+   "GPT-4o-audio": 0.461,
+   "Qwen2Audio-7B": 0.331
+  }
+ },
+ "results": {
+  "nothink/ssr": {
+   "n": 202,
+   "mean_elapsed_s": 1.01,
+   "n_hit_token_limit": 0,
+   "parse_methods": {
+    "gemma_judge": 47,
+    "rule_answer_text": 8,
+    "rule_leading_digit": 61,
+    "rule_single_digit": 86
+   },
+   "accuracy": 0.485,
+   "ci95": [
+    0.417,
+    0.554
+   ]
+  },
+  "nothink/ssd": {
+   "n": 202,
+   "mean_elapsed_s": 0.15,
+   "n_hit_token_limit": 0,
+   "parse_methods": {
+    "rule_brackets": 202
+   },
+   "precision": 0.226,
+   "recall": 0.59,
+   "f1": 0.326,
+   "n_length_mismatch": 0
+  }
+ }
+}

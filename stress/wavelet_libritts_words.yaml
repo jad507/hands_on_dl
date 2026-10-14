@@ -1,0 +1,55 @@
+# The Wavelet Prosody Toolkit's English prominence config (configs/libritts.yaml,
+# "fine-tuned for English prominence" per its tools.rst), with ONE change:
+# duration comes from the word tier alone. libritts.yaml averages word and
+# phone durations 50/50, and we have no phone alignment -- word boundaries come
+# from faster-whisper word timestamps. The toolkit's own libritts.yaml carries
+# this words-only setting as its commented-out alternative.
+#
+# Loaded on top of the toolkit's default.yaml by prosody_labeller -c.
+
+f0:
+  use_existing_f0: false
+  pitch_tracker: "inst_freq"
+  min_f0: 50
+  max_f0: 400
+  voicing_threshold: 20
+  interpolation_method: "true_envelope"
+
+energy:
+  band_min: 400
+  band_max: 4000
+  calculation_method: "rms"
+  smooth_energy: True
+
+duration:
+  acoustic_estimation: False
+  delta_duration: False
+  bump: False
+  duration_tiers: ["words"]
+  weights: [1.0]
+  silence_symbols: ["#", "!pau", "<s>", "pau","sp", "!sil", "sil", "", " ","<p>", "<p:>", "." ,",","?"]
+  linear: False
+
+feature_combination:
+  type: "product"
+  detrend: True
+  weights:
+    f0: 1.0
+    energy: 0.5
+    duration: 1.0
+
+labels:
+  annotation_tier: "words"
+
+wavelet:
+  mother_wavelet: "mexican_hat"
+  period: 3
+  scale_distance: 0.25
+  num_scales: 40
+  magnitude: False
+
+loma:
+  prom_start: -2
+  prom_end: 1
+  boundary_start: -1
+  boundary_end: 2

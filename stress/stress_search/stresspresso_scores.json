@@ -1,0 +1,82 @@
+{
+  "n_clips": 202,
+  "chance_top1": 0.164,
+  "arms": {
+    "last word (text only)": {
+      "top1_acc": 0.139,
+      "top1_ci95": [
+        0.098,
+        0.193
+      ],
+      "named_a_word": 202,
+      "top1_word_p": 0.139,
+      "top1_word_r": 0.132,
+      "top1_word_f1": 0.135
+    },
+    "wavelet (classical)": {
+      "top1_acc": 0.644,
+      "top1_ci95": [
+        0.575,
+        0.706
+      ],
+      "named_a_word": 202,
+      "top1_word_p": 0.644,
+      "top1_word_r": 0.613,
+      "top1_word_f1": 0.628
+    },
+    "praat z-score (classical)": {
+      "top1_acc": 0.545,
+      "top1_ci95": [
+        0.476,
+        0.612
+      ],
+      "named_a_word": 202,
+      "top1_word_p": 0.545,
+      "top1_word_r": 0.519,
+      "top1_word_f1": 0.531
+    },
+    "whistress": {
+      "top1_acc": 0.941,
+      "top1_ci95": [
+        0.899,
+        0.966
+      ],
+      "named_a_word": 202,
+      "top1_word_p": 0.941,
+      "top1_word_r": 0.896,
+      "top1_word_f1": 0.918
+    }
+  },
+  "mcnemar": {
+    "last word (text only) vs wavelet (classical)": {
+      "only_first": 15,
+      "only_second": 117,
+      "p": 0.0
+    },
+    "last word (text only) vs praat z-score (classical)": {
+      "only_first": 13,
+      "only_second": 95,
+      "p": 0.0
+    },
+    "last word (text only) vs whistress": {
+      "only_first": 2,
+      "only_second": 164,
+      "p": 0.0
+    },
+    "wavelet (classical) vs whistress": {
+      "only_first": 2,
+      "only_second": 62,
+      "p": 0.0
+    },
+    "praat z-score (classical) vs wavelet (classical)": {
+      "only_first": 20,
+      "only_second": 40,
+      "p": 0.0135
+    },
+    "praat z-score (classical) vs whistress": {
+      "only_first": 2,
+      "only_second": 82,
+      "p": 0.0
+    }
+  }
+}

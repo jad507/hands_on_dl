@@ -1,0 +1,90 @@
+{
+  "perms": 300,
+  "detector_cross_rep": {
+    "n_videos": 81,
+    "mean_distinct": {
+      "real": 3.963,
+      "null_median": 4.012,
+      "null_95": [
+        3.901,
+        4.123
+      ],
+      "p_null_ge_real": 0.8
+    },
+    "distinct_ge3": {
+      "real": 77,
+      "null_median": 79,
+      "null_95": [
+        77,
+        81
+      ],
+      "p_null_ge_real": 0.9767
+    },
+    "distinct_ge5": {
+      "real": 20,
+      "null_median": 20,
+      "null_95": [
+        16,
+        24
+      ],
+      "p_null_ge_real": 0.6233
+    },
+    "mean_walk_frac": {
+      "real": 0.705,
+      "null_median": 0.605,
+      "null_95": [
+        0.574,
+        0.636
+      ],
+      "p_null_ge_real": 0.0
+    }
+  },
+  "whistress_single_utterance": {
+    "min_reps": 3,
+    "n_videos": 70,
+    "n_clips": 383,
+    "mean_distinct": 3.657,
+    "videos_all_reps_same_word": 5,
+    "mean_walk_frac": {
+      "real": 0.83,
+      "null_median": 0.672,
+      "null_95": [
+        0.64,
+        0.704
+      ],
+      "p_null_ge_real": 0.0
+    }
+  },
+  "wavelet_single_utterance": {
+    "min_reps": 3,
+    "n_videos": 70,
+    "n_clips": 383,
+    "mean_distinct": 3.214,
+    "videos_all_reps_same_word": 6,
+    "mean_walk_frac": {
+      "real": 0.786,
+      "null_median": 0.691,
+      "null_95": [
+        0.661,
+        0.72
+      ],
+      "p_null_ge_real": 0.0
+    }
+  },
+  "praat_single_utterance": {
+    "min_reps": 3,
+    "n_videos": 70,
+    "n_clips": 383,
+    "mean_distinct": 3.086,
+    "videos_all_reps_same_word": 4,
+    "mean_walk_frac": {
+      "real": 0.761,
+      "null_median": 0.685,
+      "null_95": [
+        0.655,
+        0.717
+      ],
+      "p_null_ge_real": 0.0
+    }
+  }
+}

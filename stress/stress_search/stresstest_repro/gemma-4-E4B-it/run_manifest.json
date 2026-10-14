@@ -1,0 +1,19 @@
+{
+ "host": "shiro",
+ "os": "Linux-7.0.0-34-generic-x86_64-with-glibc2.43",
+ "python": "3.13.14",
+ "cpu": "x86_64",
+ "cpu_count": 24,
+ "gpu_name": "NVIDIA GeForce RTX 5070 Ti",
+ "gpu_vram": "16303 MiB",
+ "gpu_driver": "595.91.07",
+ "torch": "2.11.0+cu128",
+ "cuda_available": true,
+ "script": "reproduce_stresstest_gemma.py",
+ "model": "google/gemma-4-E4B-it",
+ "ple_cpu": true,
+ "conditions": "nothink,think",
+ "tasks": "ssr,ssd,open_ssr",
+ "limit": 0,
+ "run_elapsed_s": 7553.4
+}
